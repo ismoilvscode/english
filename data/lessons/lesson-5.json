@@ -1,0 +1,254 @@
+{
+  "id": 5,
+  "title": "Луғат 5: Асосҳо",
+  "level": "Ибтидоӣ - Starkov",
+  "free": false,
+  "words": [
+    {
+      "en": "to go",
+      "tj": "рафтан",
+      "ex": "Ex: to go is useful."
+    },
+    {
+      "en": "to come",
+      "tj": "омадан",
+      "ex": "Ex: to come is useful."
+    },
+    {
+      "en": "morning",
+      "tj": "субҳ",
+      "ex": "Ex: morning is useful."
+    },
+    {
+      "en": "day",
+      "tj": "рӯз",
+      "ex": "Ex: day is useful."
+    },
+    {
+      "en": "evening",
+      "tj": "бегоҳ",
+      "ex": "Ex: evening is useful."
+    },
+    {
+      "en": "night",
+      "tj": "шаб",
+      "ex": "Ex: night is useful."
+    },
+    {
+      "en": "today",
+      "tj": "имрӯз",
+      "ex": "Ex: today is useful."
+    },
+    {
+      "en": "tomorrow",
+      "tj": "фардо",
+      "ex": "Ex: tomorrow is useful."
+    },
+    {
+      "en": "yesterday",
+      "tj": "дируз",
+      "ex": "Ex: yesterday is useful."
+    },
+    {
+      "en": "one",
+      "tj": "як",
+      "ex": "Ex: one is useful."
+    },
+    {
+      "en": "two",
+      "tj": "ду",
+      "ex": "Ex: two is useful."
+    },
+    {
+      "en": "three",
+      "tj": "се",
+      "ex": "Ex: three is useful."
+    },
+    {
+      "en": "four",
+      "tj": "чор",
+      "ex": "Ex: four is useful."
+    },
+    {
+      "en": "five",
+      "tj": "панҷ",
+      "ex": "Ex: five is useful."
+    },
+    {
+      "en": "apple",
+      "tj": "себ",
+      "ex": "Ex: apple is useful."
+    },
+    {
+      "en": "water",
+      "tj": "об",
+      "ex": "Ex: water is useful."
+    },
+    {
+      "en": "bread",
+      "tj": "нон",
+      "ex": "Ex: bread is useful."
+    },
+    {
+      "en": "a book",
+      "tj": "китоб",
+      "ex": "Ex: a book is useful."
+    }
+  ],
+  "phrases": [],
+  "text": null,
+  "exercises": [
+    {
+      "q": "'to go' чи маъно дорад?",
+      "options": [
+        "нодуруст A",
+        "нодуруст B",
+        "нодуруст C",
+        "рафтан"
+      ],
+      "answer": "рафтан"
+    },
+    {
+      "q": "'to come' чи маъно дорад?",
+      "options": [
+        "нодуруст C",
+        "нодуруст B",
+        "нодуруст A",
+        "омадан"
+      ],
+      "answer": "омадан"
+    },
+    {
+      "q": "'morning' чи маъно дорад?",
+      "options": [
+        "нодуруст B",
+        "нодуруст A",
+        "субҳ",
+        "нодуруст C"
+      ],
+      "answer": "субҳ"
+    },
+    {
+      "q": "'day' чи маъно дорад?",
+      "options": [
+        "рӯз",
+        "нодуруст C",
+        "нодуруст A",
+        "нодуруст B"
+      ],
+      "answer": "рӯз"
+    },
+    {
+      "q": "'evening' чи маъно дорад?",
+      "options": [
+        "нодуруст B",
+        "нодуруст C",
+        "нодуруст A",
+        "бегоҳ"
+      ],
+      "answer": "бегоҳ"
+    },
+    {
+      "q": "'night' чи маъно дорад?",
+      "options": [
+        "нодуруст A",
+        "нодуруст C",
+        "шаб",
+        "нодуруст B"
+      ],
+      "answer": "шаб"
+    },
+    {
+      "q": "'today' чи маъно дорад?",
+      "options": [
+        "нодуруст B",
+        "нодуруст A",
+        "нодуруст C",
+        "имрӯз"
+      ],
+      "answer": "имрӯз"
+    },
+    {
+      "q": "'tomorrow' чи маъно дорад?",
+      "options": [
+        "нодуруст C",
+        "нодуруст A",
+        "нодуруст B",
+        "фардо"
+      ],
+      "answer": "фардо"
+    },
+    {
+      "q": "'yesterday' чи маъно дорад?",
+      "options": [
+        "дируз",
+        "нодуруст C",
+        "нодуруст A",
+        "нодуруст B"
+      ],
+      "answer": "дируз"
+    },
+    {
+      "q": "'one' чи маъно дорад?",
+      "options": [
+        "як",
+        "нодуруст B",
+        "нодуруст C",
+        "нодуруст A"
+      ],
+      "answer": "як"
+    },
+    {
+      "q": "'two' чи маъно дорад?",
+      "options": [
+        "нодуруст A",
+        "ду",
+        "нодуруст C",
+        "нодуруст B"
+      ],
+      "answer": "ду"
+    },
+    {
+      "q": "'three' чи маъно дорад?",
+      "options": [
+        "се",
+        "нодуруст C",
+        "нодуруст A",
+        "нодуруст B"
+      ],
+      "answer": "се"
+    },
+    {
+      "q": "'four' чи маъно дорад?",
+      "options": [
+        "нодуруст B",
+        "нодуруст A",
+        "нодуруст C",
+        "чор"
+      ],
+      "answer": "чор"
+    },
+    {
+      "q": "'five' чи маъно дорад?",
+      "options": [
+        "нодуруст B",
+        "панҷ",
+        "нодуруст C",
+        "нодуруст A"
+      ],
+      "answer": "панҷ"
+    },
+    {
+      "q": "'apple' чи маъно дорад?",
+      "options": [
+        "нодуруст C",
+        "нодуруст A",
+        "себ",
+        "нодуруст B"
+      ],
+      "answer": "себ"
+    }
+  ],
+  "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
+  "wordsCount": 18
+}

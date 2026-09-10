@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="tg">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>Дарс — EnglishPro</title>
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  <link rel="stylesheet" href="css/style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<!-- SPRITE -->
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+  <symbol id="i-arrow-left" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></symbol>
+  <symbol id="i-volume" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/></symbol>
+  <symbol id="i-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></symbol>
+  <symbol id="i-x" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></symbol>
+  <symbol id="i-award" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="7"/><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/></symbol>
+  <symbol id="i-refresh" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></symbol>
+  <symbol id="i-book-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></symbol>
+  <symbol id="i-edit" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></symbol>
+  <symbol id="i-arrow-right" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></symbol>
+  <symbol id="i-sparkles" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3-1.9 5.8a2 2 0 0 1-1.3 1.3L3 12l5.8 1.9a2 2 0 0 1 1.3 1.3L12 21l1.9-5.8a2 2 0 0 1 1.3-1.3L21 12l-5.8-1.9a2 2 0 0 1-1.3-1.3L12 3z"/></symbol>
+</svg>
+
+<div class="lesson-app">
+
+  <!-- HEADER -->
+  <div class="lesson-header">
+    <button class="back-btn" onclick="exitLesson()">
+      <svg class="icon"><use href="#i-arrow-left"/></svg>
+    </button>
+    <div class="lesson-header-info">
+      <h1 id="lessonTitle">Дарс</h1>
+      <p id="lessonSubtitle">Loading...</p>
+    </div>
+  </div>
+
+  <!-- PROGRESS -->
+  <div class="lesson-progress-wrap">
+    <div class="lesson-progress-track">
+      <div class="lesson-progress-fill" id="progressFill"></div>
+    </div>
+    <div class="lesson-progress-text" id="progressText">0 / 0</div>
+  </div>
+
+  <!-- STAGE: WORDS -->
+  <div class="lesson-stage" id="stageWords">
+    <div class="instruction-box">
+      <svg class="icon"><use href="#i-edit"/></svg>
+      <p id="instructionText">Ҳамаи калимаҳоро дар дафтар нависед!</p>
+    </div>
+
+    <div class="word-stage" id="wordStage">
+      <!-- Word card меояд ин ҷо -->
+    </div>
+
+    <div class="stage-actions">
+      <button class="btn-listen" id="btnListen" onclick="listenCurrent()">
+        <svg class="icon"><use href="#i-volume"/></svg>
+        <span>Гӯш кардан</span>
+      </button>
+      <button class="btn-learned" id="btnLearned" onclick="markLearned()">
+        <svg class="icon"><use href="#i-check"/></svg>
+        <span>Омӯхтам</span>
+      </button>
+    </div>
+  </div>
+
+  <!-- STAGE: TEST -->
+  <div class="lesson-stage" id="stageTest" style="display:none">
+    <div class="test-progress">
+      <div class="test-progress-bar" id="testProgressBar"></div>
+    </div>
+    <div class="test-counter" id="testCounter">1 / 10</div>
+    <div id="questionBox"></div>
+  </div>
+
+  <!-- STAGE: RESULT -->
+  <div class="lesson-stage" id="stageResult" style="display:none">
+    <div class="test-result" id="resultBox"></div>
+  </div>
+
+</div>
+
+<!-- AUDIO (пинҳон) -->
+<audio id="audioPlayer" preload="auto"></audio>
+
+<script>
+// ============================================
+// TELEGRAM
+// ============================================
+const tg = window.Telegram?.WebApp;
+if (tg) { tg.ready(); tg.expand(); }
+
+const params = new URLSearchParams(location.search);
+const LESSON_ID = parseInt(params.get('id') || '1');
+
+const store = {
+  get: (k, def) => { try { return JSON.parse(localStorage.getItem(k)) ?? def; } catch { return def; } },
+  set: (k, v) => localStorage.setItem(k, JSON.stringify(v))
+};
+
+let lessonData = null;
+let wordIndex = 0;
+let learnedWords = [];
+let testQuestions = [];
+let testIdx = 0;
+let testAnswers = [];
+let testStarted = false;
+
+const audioPlayer = document.getElementById('audioPlayer');
+
+// ============================================
+// AUDIO — StreamElements TTS (кор мекунад дар Telegram)
+// ============================================
+function playAudio(text, lang = 'en') {
+  if (!text) return;
+
+  // Тоза кардани матн аз аломатҳои махсус
+  const clean = text.replace(/[^\w\s'-]/g, '').trim();
+  if (!clean) return;
+
+  // Voice-и мардонаи англисӣ
+  const voice = 'Emma';
+  const url = `https://api.streamelements.com/kappa/v2/speech?voice=${voice}&text=${encodeURIComponent(clean)}`;
+
+  audioPlayer.src = url;
+  audioPlayer.load();
+
+  const playPromise = audioPlayer.play();
+
+  if (playPromise !== undefined) {
+    playPromise.catch(err => {
+      console.warn('Audio error:', err);
+      // Fallback — кӯшиши speechSynthesis
+      fallbackSpeak(clean);
+    });
+  }
+
+  if (tg) tg.HapticFeedback?.impactOccurred('light');
+}
+
+function fallbackSpeak(text) {
+  if ('speechSynthesis' in window) {
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = 'en-US';
+    u.rate = 0.9;
+    speechSynthesis.speak(u);
+  }
+}
+
+// ============================================
+// LOAD LESSON
+// ============================================
+async function loadLesson() {
+  try {
+    const r = await fetch(`data/lessons/lesson-${LESSON_ID}.json`);
+    if (!r.ok) throw new Error('404');
+    lessonData = await r.json();
+
+    // Кашидани калимаҳо (уникалӣ)
+    const uniqueWords = [];
+    const seen = new Set();
+    (lessonData.words || []).forEach(w => {
+      if (!seen.has(w.en)) {
+        seen.add(w.en);
+        uniqueWords.push(w);
+      }
+    });
+    lessonData.words = uniqueWords;
+
+    renderHeader();
+    renderWord();
+  } catch (e) {
+    document.body.innerHTML = `
+      <div style="padding:40px;text-align:center;color:#94a3b8;">
+        <h2>Хато</h2>
+        <p>Дарс ёфт нашуд</p>
+        <button class="btn-primary" onclick="location.href='index.html'">Бозгашт</button>
+      </div>`;
+  }
+}
+
+function renderHeader() {
+  document.getElementById('lessonTitle').textContent = lessonData.title;
+  document.getElementById('lessonSubtitle').textContent =
+    `${lessonData.level} · ${lessonData.words.length} калима`;
+  document.getElementById('instructionText').textContent =
+    lessonData.instruction || 'Ҳамаи калимаҳоро дар дафтар нависед!';
+}
+
+// ============================================
+// WORD STAGE — 1-то-1
+// ============================================
+function renderWord() {
+  const words = lessonData.words;
+
+  if (wordIndex >= words.length) {
+    finishWordsStage();
+    return;
+  }
+
+  const w = words[wordIndex];
+  const total = words.length;
+  const pct = ((wordIndex) / total) * 100;
+
+  document.getElementById('progressFill').style.width = pct + '%';
+  document.getElementById('progressText').textContent =
+    `${wordIndex + 1} / ${total}`;
+
+  const stage = document.getElementById('wordStage');
+  stage.innerHTML = `
+    <div class="word-card-one">
+      <div class="word-badge">${wordIndex + 1} / ${total}</div>
+      <div class="word-en">${escapeHtml(w.en)}</div>
+      <div class="word-tj">${escapeHtml(w.tj)}</div>
+      ${w.ex ? `<div class="word-example">${escapeHtml(w.ex)}</div>` : ''}
+    </div>
+  `;
+
+  // Аниматсияи воридшавӣ
+  requestAnimationFrame(() => {
+    stage.querySelector('.word-card-one')?.classList.add('show');
+  });
+
+  // Тугмаи "Омӯхтам" — матн иваз мешавад дар калимаи охирин
+  const btnLearned = document.getElementById('btnLearned');
+  if (wordIndex === total - 1) {
+    btnLearned.innerHTML = `<svg class="icon"><use href="#i-check"/></svg><span>Тамом — ба тест</span>`;
+  } else {
+    btnLearned.innerHTML = `<svg class="icon"><use href="#i-check"/></svg><span>Омӯхтам</span>`;
+  }
+
+  // Автоматӣ хондан
+  setTimeout(() => playAudio(w.en), 300);
+}
+
+function markLearned() {
+  const w = lessonData.words[wordIndex];
+  if (w && !learnedWords.includes(w.en)) {
+    learnedWords.push(w.en);
+  }
+
+  if (tg) tg.HapticFeedback?.impactOccurred('medium');
+
+  wordIndex++;
+  renderWord();
+}
+
+function listenCurrent() {
+  const w = lessonData.words[wordIndex];
+  if (w) playAudio(w.en);
+}
+
+// ============================================
+// FINISH WORDS → START TEST
+// ============================================
+function finishWordsStage() {
+  document.getElementById('progressFill').style.width = '100%';
+  document.getElementById('progressText').textContent =
+    `${lessonData.words.length} / ${lessonData.words.length}`;
+
+  setTimeout(() => {
+    document.getElementById('stageWords').style.display = 'none';
+    startTest();
+  }, 400);
+
+  if (tg) tg.HapticFeedback?.notificationOccurred('success');
+}
+
+// ============================================
+// TEST
+// ============================================
+function startTest() {
+  const ex = lessonData.exercises || [];
+  if (ex.length === 0) {
+    showResult(100, 0, 0);
+    return;
+  }
+
+  testQuestions = shuffleArray([...ex]).slice(0, Math.min(15, ex.length));
+  testIdx = 0;
+  testAnswers = [];
+  testStarted = true;
+
+  document.getElementById('stageTest').style.display = 'block';
+  renderQuestion();
+}
+
+function shuffleArray(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+function renderQuestion() {
+  if (testIdx >= testQuestions.length) {
+    finishTest();
+    return;
+  }
+
+  const q = testQuestions[testIdx];
+  const pct = (testIdx / testQuestions.length) * 100;
+
+  document.getElementById('testProgressBar').style.width = pct + '%';
+  document.getElementById('testCounter').textContent =
+    `${testIdx + 1} / ${testQuestions.length}`;
+
+  const options = shuffleArray([...q.options]);
+  const box = document.getElementById('questionBox');
+  box.innerHTML = `
+    <div class="test-question">
+      <h3>${escapeHtml(q.q)}</h3>
+      <div class="test-options">
+        ${options.map((opt, i) => `
+          <button class="test-option" data-opt="${escapeAttr(opt)}">
+            ${escapeHtml(opt)}
+          </button>
+        `).join('')}
+      </div>
+    </div>
+  `;
+
+  box.querySelectorAll('.test-option').forEach(btn => {
+    btn.addEventListener('click', () => answerQuestion(btn));
+  });
+}
+
+function answerQuestion(btn) {
+  const q = testQuestions[testIdx];
+  const chosen = btn.textContent.trim();
+  const isCorrect = chosen === q.answer;
+
+  document.querySelectorAll('.test-option').forEach(b => {
+    b.disabled = true;
+    const t = b.textContent.trim();
+    if (t === q.answer) b.classList.add('correct');
+    else if (t === chosen && !isCorrect) b.classList.add('wrong');
+  });
+
+  testAnswers.push({ correct: isCorrect });
+
+  if (tg) tg.HapticFeedback?.notificationOccurred(isCorrect ? 'success' : 'error');
+
+  setTimeout(() => {
+    testIdx++;
+    renderQuestion();
+  }, 800);
+}
+
+function finishTest() {
+  const correct = testAnswers.filter(a => a.correct).length;
+  const total = testAnswers.length;
+  const percent = Math.round((correct / total) * 100);
+  const passed = percent >= 70;
+
+  document.getElementById('stageTest').style.display = 'none';
+  showResult(percent, correct, total, passed);
+}
+
+function showResult(percent, correct, total, passed = percent >= 70) {
+  document.getElementById('stageResult').style.display = 'block';
+
+  const box = document.getElementById('resultBox');
+  box.className = `test-result ${passed ? 'passed' : 'failed'}`;
+  box.innerHTML = `
+    <div class="result-icon ${passed ? 'pass' : 'fail'}">
+      <svg class="icon icon-2xl"><use href="#${passed ? 'i-award' : 'i-x'}"/></svg>
+    </div>
+    <h2>${passed ? 'Табрик!' : 'Боз кӯшиш кунед'}</h2>
+    <div class="result-score">${percent}%</div>
+    <p>${correct} аз ${total} дуруст</p>
+    ${passed
+      ? `<p class="result-note">Дарси навбатӣ кушода шуд!</p>`
+      : `<p class="result-note">Барои гузаштан 70% лозим аст</p>`}
+    <div class="result-actions">
+      ${passed
+        ? `<button class="btn-primary" onclick="nextLesson()">
+            <svg class="icon icon-sm"><use href="#i-arrow-right"/></svg>
+            Ба дарси ${LESSON_ID + 1}
+          </button>`
+        : `<button class="btn-primary" onclick="retryTest()">
+            <svg class="icon icon-sm"><use href="#i-refresh"/></svg>
+            Такрор кардан
+          </button>`}
+      <button class="btn-price" onclick="exitLesson()">
+        Ба асосӣ
+      </button>
+    </div>
+  `;
+
+  if (passed) markLessonComplete(LESSON_ID, percent);
+  if (tg) tg.HapticFeedback?.notificationOccurred(passed ? 'success' : 'error');
+}
+
+function retryTest() {
+  document.getElementById('stageResult').style.display = 'none';
+  startTest();
+}
+
+function nextLesson() {
+  window.location.href = `lesson.html?id=${LESSON_ID + 1}`;
+}
+
+function markLessonComplete(id, score) {
+  const progress = store.get('progress', { completedLessons: [], testScores: {} });
+  if (!progress.completedLessons.includes(id)) {
+    progress.completedLessons.push(id);
+    progress.completedLessons.sort((a, b) => a - b);
+  }
+  progress.testScores[id] = Math.max(progress.testScores[id] || 0, score);
+  store.set('progress', progress);
+}
+
+function exitLesson() {
+  window.location.href = 'index.html';
+}
+
+// ============================================
+// HELPERS
+// ============================================
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c =>
+    ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]));
+}
+function escapeAttr(s) {
+  return String(s).replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+}
+
+// ============================================
+loadLesson();
+</script>
+</body>
+</html>

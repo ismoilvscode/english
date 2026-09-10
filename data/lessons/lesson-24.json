@@ -1,0 +1,341 @@
+{
+  "id": 24,
+  "title": "Матн ва машқҳо 24",
+  "level": "Миёна - Синфи 4",
+  "free": false,
+  "words": [
+    {
+      "en": "understand",
+      "tj": "тарҷумаи understand",
+      "ex": "I understand English."
+    },
+    {
+      "en": "explain",
+      "tj": "тарҷумаи explain",
+      "ex": "I explain English."
+    },
+    {
+      "en": "important",
+      "tj": "тарҷумаи important",
+      "ex": "I important English."
+    },
+    {
+      "en": "different",
+      "tj": "тарҷумаи different",
+      "ex": "I different English."
+    },
+    {
+      "en": "difficult",
+      "tj": "тарҷумаи difficult",
+      "ex": "I difficult English."
+    },
+    {
+      "en": "easy",
+      "tj": "тарҷумаи easy",
+      "ex": "I easy English."
+    },
+    {
+      "en": "interesting",
+      "tj": "тарҷумаи interesting",
+      "ex": "I interesting English."
+    },
+    {
+      "en": "remember",
+      "tj": "тарҷумаи remember",
+      "ex": "I remember English."
+    },
+    {
+      "en": "forget",
+      "tj": "тарҷумаи forget",
+      "ex": "I forget English."
+    },
+    {
+      "en": "homework",
+      "tj": "тарҷумаи homework",
+      "ex": "I homework English."
+    },
+    {
+      "en": "exercise",
+      "tj": "тарҷумаи exercise",
+      "ex": "I exercise English."
+    },
+    {
+      "en": "text",
+      "tj": "тарҷумаи text",
+      "ex": "I text English."
+    },
+    {
+      "en": "story",
+      "tj": "тарҷумаи story",
+      "ex": "I story English."
+    },
+    {
+      "en": "question",
+      "tj": "тарҷумаи question",
+      "ex": "I question English."
+    },
+    {
+      "en": "answer",
+      "tj": "тарҷумаи answer",
+      "ex": "I answer English."
+    },
+    {
+      "en": "understand",
+      "tj": "тарҷумаи understand",
+      "ex": "I understand English."
+    },
+    {
+      "en": "explain",
+      "tj": "тарҷумаи explain",
+      "ex": "I explain English."
+    },
+    {
+      "en": "important",
+      "tj": "тарҷумаи important",
+      "ex": "I important English."
+    },
+    {
+      "en": "different",
+      "tj": "тарҷумаи different",
+      "ex": "I different English."
+    },
+    {
+      "en": "difficult",
+      "tj": "тарҷумаи difficult",
+      "ex": "I difficult English."
+    },
+    {
+      "en": "easy",
+      "tj": "тарҷумаи easy",
+      "ex": "I easy English."
+    }
+  ],
+  "phrases": [
+    {
+      "en": "How are you doing today? (Lesson 24)",
+      "tj": "Имрӯз чӣ хелӣ?"
+    },
+    {
+      "en": "I'm working on lesson 24",
+      "tj": "Ман дарси 24-ро меомӯзам"
+    }
+  ],
+  "text": {
+    "en": "Text for lesson 24. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 24 is about Миёна - Синфи 4. I write all words in my notebook. Level 24 text.",
+    "tj": "Матни дарси 24..."
+  },
+  "exercises": [
+    {
+      "q": "'understand' чи маъно дорад?",
+      "options": [
+        "нодуруст A",
+        "нодуруст C",
+        "тарҷумаи understand",
+        "нодуруст B"
+      ],
+      "answer": "тарҷумаи understand"
+    },
+    {
+      "q": "'explain' чи маъно дорад?",
+      "options": [
+        "нодуруст A",
+        "тарҷумаи explain",
+        "нодуруст B",
+        "нодуруст C"
+      ],
+      "answer": "тарҷумаи explain"
+    },
+    {
+      "q": "'important' чи маъно дорад?",
+      "options": [
+        "нодуруст C",
+        "тарҷумаи important",
+        "нодуруст A",
+        "нодуруст B"
+      ],
+      "answer": "тарҷумаи important"
+    },
+    {
+      "q": "'different' чи маъно дорад?",
+      "options": [
+        "нодуруст A",
+        "нодуруст C",
+        "нодуруст B",
+        "тарҷумаи different"
+      ],
+      "answer": "тарҷумаи different"
+    },
+    {
+      "q": "'difficult' чи маъно дорад?",
+      "options": [
+        "тарҷумаи difficult",
+        "нодуруст C",
+        "нодуруст B",
+        "нодуруст A"
+      ],
+      "answer": "тарҷумаи difficult"
+    },
+    {
+      "q": "'easy' чи маъно дорад?",
+      "options": [
+        "нодуруст B",
+        "нодуруст C",
+        "нодуруст A",
+        "тарҷумаи easy"
+      ],
+      "answer": "тарҷумаи easy"
+    },
+    {
+      "q": "'interesting' чи маъно дорад?",
+      "options": [
+        "нодуруст B",
+        "нодуруст A",
+        "нодуруст C",
+        "тарҷумаи interesting"
+      ],
+      "answer": "тарҷумаи interesting"
+    },
+    {
+      "q": "'remember' чи маъно дорад?",
+      "options": [
+        "тарҷумаи remember",
+        "нодуруст A",
+        "нодуруст B",
+        "нодуруст C"
+      ],
+      "answer": "тарҷумаи remember"
+    },
+    {
+      "q": "'forget' чи маъно дорад?",
+      "options": [
+        "нодуруст C",
+        "тарҷумаи forget",
+        "нодуруст A",
+        "нодуруст B"
+      ],
+      "answer": "тарҷумаи forget"
+    },
+    {
+      "q": "'homework' чи маъно дорад?",
+      "options": [
+        "нодуруст B",
+        "нодуруст A",
+        "тарҷумаи homework",
+        "нодуруст C"
+      ],
+      "answer": "тарҷумаи homework"
+    },
+    {
+      "q": "'exercise' чи маъно дорад?",
+      "options": [
+        "нодуруст C",
+        "нодуруст B",
+        "тарҷумаи exercise",
+        "нодуруст A"
+      ],
+      "answer": "тарҷумаи exercise"
+    },
+    {
+      "q": "'text' чи маъно дорад?",
+      "options": [
+        "нодуруст B",
+        "нодуруст C",
+        "нодуруст A",
+        "тарҷумаи text"
+      ],
+      "answer": "тарҷумаи text"
+    },
+    {
+      "q": "'story' чи маъно дорад?",
+      "options": [
+        "тарҷумаи story",
+        "нодуруст A",
+        "нодуруст B",
+        "нодуруст C"
+      ],
+      "answer": "тарҷумаи story"
+    },
+    {
+      "q": "'question' чи маъно дорад?",
+      "options": [
+        "нодуруст C",
+        "нодуруст A",
+        "тарҷумаи question",
+        "нодуруст B"
+      ],
+      "answer": "тарҷумаи question"
+    },
+    {
+      "q": "'answer' чи маъно дорад?",
+      "options": [
+        "нодуруст A",
+        "нодуруст C",
+        "тарҷумаи answer",
+        "нодуруст B"
+      ],
+      "answer": "тарҷумаи answer"
+    },
+    {
+      "q": "'understand' чи маъно дорад?",
+      "options": [
+        "нодуруст C",
+        "нодуруст B",
+        "нодуруст A",
+        "тарҷумаи understand"
+      ],
+      "answer": "тарҷумаи understand"
+    },
+    {
+      "q": "'explain' чи маъно дорад?",
+      "options": [
+        "нодуруст A",
+        "тарҷумаи explain",
+        "нодуруст C",
+        "нодуруст B"
+      ],
+      "answer": "тарҷумаи explain"
+    },
+    {
+      "q": "'important' чи маъно дорад?",
+      "options": [
+        "нодуруст C",
+        "нодуруст B",
+        "нодуруст A",
+        "тарҷумаи important"
+      ],
+      "answer": "тарҷумаи important"
+    },
+    {
+      "q": "'different' чи маъно дорад?",
+      "options": [
+        "нодуруст C",
+        "нодуруст A",
+        "тарҷумаи different",
+        "нодуруст B"
+      ],
+      "answer": "тарҷумаи different"
+    },
+    {
+      "q": "'difficult' чи маъно дорад?",
+      "options": [
+        "нодуруст A",
+        "нодуруст C",
+        "нодуруст B",
+        "тарҷумаи difficult"
+      ],
+      "answer": "тарҷумаи difficult"
+    },
+    {
+      "q": "'easy' чи маъно дорад?",
+      "options": [
+        "нодуруст C",
+        "нодуруст A",
+        "тарҷумаи easy",
+        "нодуруст B"
+      ],
+      "answer": "тарҷумаи easy"
+    }
+  ],
+  "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
+  "wordsCount": 21
+}

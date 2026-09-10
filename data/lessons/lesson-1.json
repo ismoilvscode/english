@@ -1,0 +1,53 @@
+{
+  "id": 1,
+  "title": "Луғат 1: Асосҳо",
+  "level": "Ибтидоӣ - Starkov",
+  "free": true,
+  "words": [
+    {
+      "en": "a book",
+      "tj": "китоб",
+      "ex": "Ex: a book is useful."
+    },
+    {
+      "en": "a pen",
+      "tj": "қалам",
+      "ex": "Ex: a pen is useful."
+    },
+    {
+      "en": "a desk",
+      "tj": "мизи дарсӣ",
+      "ex": "Ex: a desk is useful."
+    },
+    {
+      "en": "a bag",
+      "tj": "халта",
+      "ex": "Ex: a bag is useful."
+    },
+    {
+      "en": "a cat",
+      "tj": "гурба",
+      "ex": "Ex: a cat is useful."
+    },
+    {
+      "en": "a dog",
+      "tj": "саг",
+      "ex": "Ex: a dog is useful."
+    },
+    {
+      "en": "red",
+      "tj": "сурх",
+      "ex": "Ex: red is useful."
+    },
+    {
+      "en": "blue",
+      "tj": "кабуд",
+      "ex": "Ex: blue is useful."
+    }
+  ],
+  "phrases": [],
+  "text": null,
+  "exercises": [],
+  "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
+  "wordsCount": 8
+}

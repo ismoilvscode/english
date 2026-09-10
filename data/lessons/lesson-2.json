@@ -1,0 +1,114 @@
+{
+  "id": 2,
+  "title": "Луғат 2: Асосҳо",
+  "level": "Ибтидоӣ - Starkov",
+  "free": true,
+  "words": [
+    {
+      "en": "blue",
+      "tj": "кабуд",
+      "ex": "Ex: blue is useful."
+    },
+    {
+      "en": "mother",
+      "tj": "модар",
+      "ex": "Ex: mother is useful."
+    },
+    {
+      "en": "father",
+      "tj": "падар",
+      "ex": "Ex: father is useful."
+    },
+    {
+      "en": "sister",
+      "tj": "хоҳар",
+      "ex": "Ex: sister is useful."
+    },
+    {
+      "en": "brother",
+      "tj": "бародар",
+      "ex": "Ex: brother is useful."
+    },
+    {
+      "en": "house",
+      "tj": "хона",
+      "ex": "Ex: house is useful."
+    },
+    {
+      "en": "school",
+      "tj": "мактаб",
+      "ex": "Ex: school is useful."
+    },
+    {
+      "en": "teacher",
+      "tj": "омӯзгор",
+      "ex": "Ex: teacher is useful."
+    },
+    {
+      "en": "pupil",
+      "tj": "хонанда",
+      "ex": "Ex: pupil is useful."
+    },
+    {
+      "en": "good",
+      "tj": "хуб",
+      "ex": "Ex: good is useful."
+    }
+  ],
+  "phrases": [],
+  "text": null,
+  "exercises": [
+    {
+      "q": "'blue' чи маъно дорад?",
+      "options": [
+        "нодуруст B",
+        "нодуруст C",
+        "нодуруст A",
+        "кабуд"
+      ],
+      "answer": "кабуд"
+    },
+    {
+      "q": "'mother' чи маъно дорад?",
+      "options": [
+        "модар",
+        "нодуруст C",
+        "нодуруст A",
+        "нодуруст B"
+      ],
+      "answer": "модар"
+    },
+    {
+      "q": "'father' чи маъно дорад?",
+      "options": [
+        "падар",
+        "нодуруст B",
+        "нодуруст A",
+        "нодуруст C"
+      ],
+      "answer": "падар"
+    },
+    {
+      "q": "'sister' чи маъно дорад?",
+      "options": [
+        "хоҳар",
+        "нодуруст C",
+        "нодуруст B",
+        "нодуруст A"
+      ],
+      "answer": "хоҳар"
+    },
+    {
+      "q": "'brother' чи маъно дорад?",
+      "options": [
+        "нодуруст C",
+        "нодуруст B",
+        "бародар",
+        "нодуруст A"
+      ],
+      "answer": "бародар"
+    }
+  ],
+  "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
+  "wordsCount": 10
+}

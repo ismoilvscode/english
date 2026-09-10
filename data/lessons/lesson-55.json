@@ -1,0 +1,416 @@
+{
+  "id": 55,
+  "title": "Муоширати воқеӣ 55",
+  "level": "Пешрафта - Синфи 5",
+  "free": false,
+  "words": [
+    {
+      "en": "opportunity",
+      "tj": "тарҷума: opportunity",
+      "ex": "Real example with opportunity."
+    },
+    {
+      "en": "experience",
+      "tj": "тарҷума: experience",
+      "ex": "Real example with experience."
+    },
+    {
+      "en": "environment",
+      "tj": "тарҷума: environment",
+      "ex": "Real example with environment."
+    },
+    {
+      "en": "communication",
+      "tj": "тарҷума: communication",
+      "ex": "Real example with communication."
+    },
+    {
+      "en": "education",
+      "tj": "тарҷума: education",
+      "ex": "Real example with education."
+    },
+    {
+      "en": "development",
+      "tj": "тарҷума: development",
+      "ex": "Real example with development."
+    },
+    {
+      "en": "achievement",
+      "tj": "тарҷума: achievement",
+      "ex": "Real example with achievement."
+    },
+    {
+      "en": "challenge",
+      "tj": "тарҷума: challenge",
+      "ex": "Real example with challenge."
+    },
+    {
+      "en": "knowledge",
+      "tj": "тарҷума: knowledge",
+      "ex": "Real example with knowledge."
+    },
+    {
+      "en": "conversation",
+      "tj": "тарҷума: conversation",
+      "ex": "Real example with conversation."
+    },
+    {
+      "en": "fluency",
+      "tj": "тарҷума: fluency",
+      "ex": "Real example with fluency."
+    },
+    {
+      "en": "confidence",
+      "tj": "тарҷума: confidence",
+      "ex": "Real example with confidence."
+    },
+    {
+      "en": "pronunciation",
+      "tj": "тарҷума: pronunciation",
+      "ex": "Real example with pronunciation."
+    },
+    {
+      "en": "vocabulary",
+      "tj": "тарҷума: vocabulary",
+      "ex": "Real example with vocabulary."
+    },
+    {
+      "en": "grammar",
+      "tj": "тарҷума: grammar",
+      "ex": "Real example with grammar."
+    },
+    {
+      "en": "opportunity",
+      "tj": "тарҷума: opportunity",
+      "ex": "Real example with opportunity."
+    },
+    {
+      "en": "experience",
+      "tj": "тарҷума: experience",
+      "ex": "Real example with experience."
+    },
+    {
+      "en": "environment",
+      "tj": "тарҷума: environment",
+      "ex": "Real example with environment."
+    },
+    {
+      "en": "communication",
+      "tj": "тарҷума: communication",
+      "ex": "Real example with communication."
+    },
+    {
+      "en": "education",
+      "tj": "тарҷума: education",
+      "ex": "Real example with education."
+    },
+    {
+      "en": "development",
+      "tj": "тарҷума: development",
+      "ex": "Real example with development."
+    },
+    {
+      "en": "achievement",
+      "tj": "тарҷума: achievement",
+      "ex": "Real example with achievement."
+    },
+    {
+      "en": "challenge",
+      "tj": "тарҷума: challenge",
+      "ex": "Real example with challenge."
+    },
+    {
+      "en": "knowledge",
+      "tj": "тарҷума: knowledge",
+      "ex": "Real example with knowledge."
+    },
+    {
+      "en": "conversation",
+      "tj": "тарҷума: conversation",
+      "ex": "Real example with conversation."
+    },
+    {
+      "en": "fluency",
+      "tj": "тарҷума: fluency",
+      "ex": "Real example with fluency."
+    }
+  ],
+  "phrases": [
+    {
+      "en": "How are you doing today? (Lesson 55)",
+      "tj": "Имрӯз чӣ хелӣ?"
+    },
+    {
+      "en": "I'm working on lesson 55",
+      "tj": "Ман дарси 55-ро меомӯзам"
+    }
+  ],
+  "text": {
+    "en": "Text for lesson 55. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 55 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 55 text.",
+    "tj": "Матни дарси 55..."
+  },
+  "exercises": [
+    {
+      "q": "'opportunity' чи маъно дорад?",
+      "options": [
+        "нодуруст B",
+        "нодуруст A",
+        "нодуруст C",
+        "тарҷума: opportunity"
+      ],
+      "answer": "тарҷума: opportunity"
+    },
+    {
+      "q": "'experience' чи маъно дорад?",
+      "options": [
+        "нодуруст A",
+        "тарҷума: experience",
+        "нодуруст B",
+        "нодуруст C"
+      ],
+      "answer": "тарҷума: experience"
+    },
+    {
+      "q": "'environment' чи маъно дорад?",
+      "options": [
+        "нодуруст C",
+        "тарҷума: environment",
+        "нодуруст A",
+        "нодуруст B"
+      ],
+      "answer": "тарҷума: environment"
+    },
+    {
+      "q": "'communication' чи маъно дорад?",
+      "options": [
+        "нодуруст B",
+        "нодуруст C",
+        "нодуруст A",
+        "тарҷума: communication"
+      ],
+      "answer": "тарҷума: communication"
+    },
+    {
+      "q": "'education' чи маъно дорад?",
+      "options": [
+        "нодуруст C",
+        "нодуруст B",
+        "нодуруст A",
+        "тарҷума: education"
+      ],
+      "answer": "тарҷума: education"
+    },
+    {
+      "q": "'development' чи маъно дорад?",
+      "options": [
+        "нодуруст B",
+        "нодуруст C",
+        "нодуруст A",
+        "тарҷума: development"
+      ],
+      "answer": "тарҷума: development"
+    },
+    {
+      "q": "'achievement' чи маъно дорад?",
+      "options": [
+        "тарҷума: achievement",
+        "нодуруст B",
+        "нодуруст A",
+        "нодуруст C"
+      ],
+      "answer": "тарҷума: achievement"
+    },
+    {
+      "q": "'challenge' чи маъно дорад?",
+      "options": [
+        "тарҷума: challenge",
+        "нодуруст B",
+        "нодуруст C",
+        "нодуруст A"
+      ],
+      "answer": "тарҷума: challenge"
+    },
+    {
+      "q": "'knowledge' чи маъно дорад?",
+      "options": [
+        "нодуруст C",
+        "нодуруст B",
+        "нодуруст A",
+        "тарҷума: knowledge"
+      ],
+      "answer": "тарҷума: knowledge"
+    },
+    {
+      "q": "'conversation' чи маъно дорад?",
+      "options": [
+        "нодуруст B",
+        "нодуруст A",
+        "тарҷума: conversation",
+        "нодуруст C"
+      ],
+      "answer": "тарҷума: conversation"
+    },
+    {
+      "q": "'fluency' чи маъно дорад?",
+      "options": [
+        "нодуруст C",
+        "тарҷума: fluency",
+        "нодуруст A",
+        "нодуруст B"
+      ],
+      "answer": "тарҷума: fluency"
+    },
+    {
+      "q": "'confidence' чи маъно дорад?",
+      "options": [
+        "нодуруст B",
+        "нодуруст C",
+        "тарҷума: confidence",
+        "нодуруст A"
+      ],
+      "answer": "тарҷума: confidence"
+    },
+    {
+      "q": "'pronunciation' чи маъно дорад?",
+      "options": [
+        "нодуруст B",
+        "нодуруст C",
+        "тарҷума: pronunciation",
+        "нодуруст A"
+      ],
+      "answer": "тарҷума: pronunciation"
+    },
+    {
+      "q": "'vocabulary' чи маъно дорад?",
+      "options": [
+        "тарҷума: vocabulary",
+        "нодуруст C",
+        "нодуруст B",
+        "нодуруст A"
+      ],
+      "answer": "тарҷума: vocabulary"
+    },
+    {
+      "q": "'grammar' чи маъно дорад?",
+      "options": [
+        "нодуруст C",
+        "нодуруст B",
+        "тарҷума: grammar",
+        "нодуруст A"
+      ],
+      "answer": "тарҷума: grammar"
+    },
+    {
+      "q": "'opportunity' чи маъно дорад?",
+      "options": [
+        "тарҷума: opportunity",
+        "нодуруст B",
+        "нодуруст C",
+        "нодуруст A"
+      ],
+      "answer": "тарҷума: opportunity"
+    },
+    {
+      "q": "'experience' чи маъно дорад?",
+      "options": [
+        "нодуруст A",
+        "нодуруст B",
+        "нодуруст C",
+        "тарҷума: experience"
+      ],
+      "answer": "тарҷума: experience"
+    },
+    {
+      "q": "'environment' чи маъно дорад?",
+      "options": [
+        "нодуруст A",
+        "нодуруст B",
+        "тарҷума: environment",
+        "нодуруст C"
+      ],
+      "answer": "тарҷума: environment"
+    },
+    {
+      "q": "'communication' чи маъно дорад?",
+      "options": [
+        "нодуруст B",
+        "нодуруст C",
+        "тарҷума: communication",
+        "нодуруст A"
+      ],
+      "answer": "тарҷума: communication"
+    },
+    {
+      "q": "'education' чи маъно дорад?",
+      "options": [
+        "тарҷума: education",
+        "нодуруст B",
+        "нодуруст C",
+        "нодуруст A"
+      ],
+      "answer": "тарҷума: education"
+    },
+    {
+      "q": "'development' чи маъно дорад?",
+      "options": [
+        "нодуруст B",
+        "тарҷума: development",
+        "нодуруст A",
+        "нодуруст C"
+      ],
+      "answer": "тарҷума: development"
+    },
+    {
+      "q": "'achievement' чи маъно дорад?",
+      "options": [
+        "нодуруст B",
+        "тарҷума: achievement",
+        "нодуруст C",
+        "нодуруст A"
+      ],
+      "answer": "тарҷума: achievement"
+    },
+    {
+      "q": "'challenge' чи маъно дорад?",
+      "options": [
+        "тарҷума: challenge",
+        "нодуруст B",
+        "нодуруст A",
+        "нодуруст C"
+      ],
+      "answer": "тарҷума: challenge"
+    },
+    {
+      "q": "'knowledge' чи маъно дорад?",
+      "options": [
+        "тарҷума: knowledge",
+        "нодуруст B",
+        "нодуруст C",
+        "нодуруст A"
+      ],
+      "answer": "тарҷума: knowledge"
+    },
+    {
+      "q": "'conversation' чи маъно дорад?",
+      "options": [
+        "нодуруст A",
+        "тарҷума: conversation",
+        "нодуруст C",
+        "нодуруст B"
+      ],
+      "answer": "тарҷума: conversation"
+    },
+    {
+      "q": "'fluency' чи маъно дорад?",
+      "options": [
+        "тарҷума: fluency",
+        "нодуруст A",
+        "нодуруст C",
+        "нодуруст B"
+      ],
+      "answer": "тарҷума: fluency"
+    }
+  ],
+  "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
+  "wordsCount": 26
+}

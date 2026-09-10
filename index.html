@@ -1,0 +1,877 @@
+<!DOCTYPE html>
+<html lang="tg">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="theme-color" content="#0f172a" />
+  <title>EnglishPro — Омӯзиши забони англисӣ</title>
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<!-- ============================================================
+     SVG ICON SPRITE
+     ============================================================ -->
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none" aria-hidden="true">
+
+  <!-- NAVIGATION -->
+  <symbol id="i-home" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></symbol>
+  <symbol id="i-book" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></symbol>
+  <symbol id="i-crown" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m2 6 5 5 5-7 5 7 5-5-2 14H4L2 6z"/><path d="M5 20h14"/></symbol>
+  <symbol id="i-user" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></symbol>
+
+  <!-- THEME -->
+  <symbol id="i-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></symbol>
+  <symbol id="i-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></symbol>
+
+  <!-- STATS -->
+  <symbol id="i-book-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></symbol>
+  <symbol id="i-check-circle" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></symbol>
+  <symbol id="i-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></symbol>
+  <symbol id="i-x" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></symbol>
+  <symbol id="i-flame" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"/></symbol>
+
+  <!-- LESSON META -->
+  <symbol id="i-clock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></symbol>
+  <symbol id="i-file-text" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></symbol>
+  <symbol id="i-target" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></symbol>
+  <symbol id="i-lock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></symbol>
+
+  <!-- PREMIUM -->
+  <symbol id="i-infinity" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18.178 8c5.096 0 5.096 8 0 8-5.095 0-7.133-8-12.739-8-4.585 0-4.585 8 0 8 5.606 0 7.644-8 12.74-8z"/></symbol>
+  <symbol id="i-volume" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/></symbol>
+  <symbol id="i-ban" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="4.93" y1="4.93" x2="19.07" y2="19.07"/></symbol>
+  <symbol id="i-bar-chart" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="20" x2="12" y2="10"/><line x1="18" y1="20" x2="18" y2="4"/><line x1="6" y1="20" x2="6" y2="16"/></symbol>
+  <symbol id="i-award" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="7"/><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/></symbol>
+  <symbol id="i-settings" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/></symbol>
+  <symbol id="i-message" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></symbol>
+
+  <!-- ARROWS -->
+  <symbol id="i-arrow-right" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></symbol>
+  <symbol id="i-arrow-left" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></symbol>
+  <symbol id="i-chevron-right" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></symbol>
+  <symbol id="i-chevron-down" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></symbol>
+
+  <!-- LEARNING -->
+  <symbol id="i-play" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"/></symbol>
+  <symbol id="i-zap" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></symbol>
+  <symbol id="i-star" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></symbol>
+  <symbol id="i-graduation" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></symbol>
+  <symbol id="i-sparkles" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3-1.9 5.8a2 2 0 0 1-1.3 1.3L3 12l5.8 1.9a2 2 0 0 1 1.3 1.3L12 21l1.9-5.8a2 2 0 0 1 1.3-1.3L21 12l-5.8-1.9a2 2 0 0 1-1.3-1.3L12 3z"/></symbol>
+  <symbol id="i-trophy" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6M18 9h1.5a2.5 2.5 0 0 0 0-5H18M4 22h16M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22M18 2H6v7a6 6 0 0 0 12 0V2z"/></symbol>
+  <symbol id="i-refresh" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></symbol>
+
+  <!-- ADMIN -->
+  <symbol id="i-shield" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></symbol>
+  <symbol id="i-credit-card" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="5" width="20" height="14" rx="2"/><line x1="2" y1="10" x2="22" y2="10"/></symbol>
+  <symbol id="i-phone" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></symbol>
+
+  <!-- HELP -->
+  <symbol id="i-help-circle" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></symbol>
+  <symbol id="i-log-out" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" y1="12" x2="9" y2="12"/></symbol>
+  <symbol id="i-gift" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 12 20 22 4 22 4 12"/><rect x="2" y="7" width="20" height="5"/><line x1="12" y1="22" x2="12" y2="7"/><path d="M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7z"/><path d="M12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z"/></symbol>
+  <symbol id="i-headphones" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 18v-6a9 9 0 0 1 18 0v6"/><path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"/></symbol>
+  <symbol id="i-edit" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></symbol>
+  <symbol id="i-trending-up" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></symbol>
+  <symbol id="i-trending-down" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 18 13.5 8.5 8.5 13.5 1 6"/><polyline points="17 18 23 18 23 12"/></symbol>
+  <symbol id="i-chevron-up" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="18 15 12 9 6 15"/></symbol>
+  <symbol id="i-download" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></symbol>
+  <symbol id="i-upload" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></symbol>
+  <symbol id="i-calendar" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></symbol>
+  <symbol id="i-mail" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></symbol>
+  <symbol id="i-send" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></symbol>
+  <symbol id="i-info" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></symbol>
+  <symbol id="i-alert" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></symbol>
+  <symbol id="i-globe" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></symbol>
+  <symbol id="i-mic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="23"/><line x1="8" y1="23" x2="16" y2="23"/></symbol>
+  <symbol id="i-bookmark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></symbol>
+  <symbol id="i-layers" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></symbol>
+  <symbol id="i-users" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></symbol>
+  <symbol id="i-hash" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="9" x2="20" y2="9"/><line x1="4" y1="15" x2="20" y2="15"/><line x1="10" y1="3" x2="8" y2="21"/><line x1="16" y1="3" x2="14" y2="21"/></symbol>
+  <symbol id="i-chat" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></symbol>
+  <symbol id="i-palette" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="13.5" cy="6.5" r=".5" fill="currentColor"/><circle cx="17.5" cy="10.5" r=".5" fill="currentColor"/><circle cx="8.5" cy="7.5" r=".5" fill="currentColor"/><circle cx="6.5" cy="12.5" r=".5" fill="currentColor"/><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10c.926 0 1.648-.746 1.648-1.688 0-.437-.18-.835-.437-1.125-.29-.289-.438-.652-.438-1.125a1.64 1.64 0 0 1 1.668-1.668h1.996c3.051 0 5.555-2.503 5.555-5.554C21.965 6.012 17.461 2 12 2z"/></symbol>
+
+</svg>
+
+<!-- ============================================================
+     SPLASH
+     ============================================================ -->
+<div id="splash" class="splash">
+  <div class="splash-logo">
+    <div class="logo-circle">
+      <svg class="icon icon-xl"><use href="#i-graduation"/></svg>
+    </div>
+    <h1>English<span>Pro</span></h1>
+    <p>Омӯзиши забони англисӣ</p>
+  </div>
+  <div class="loader"></div>
+</div>
+
+<!-- ============================================================
+     APP
+     ============================================================ -->
+<div id="app" class="app hidden">
+
+  <!-- HEADER -->
+  <header class="header">
+    <div class="user-info">
+      <div class="avatar">
+        <svg class="icon"><use href="#i-user"/></svg>
+      </div>
+      <div class="user-text">
+        <span class="greeting">Салом,</span>
+        <span class="username" id="userName">Корбар</span>
+      </div>
+    </div>
+    <div class="header-actions">
+      <button class="icon-btn admin-only" id="adminBtn" style="display:none" aria-label="Admin" onclick="navigateTo('admin')">
+        <svg class="icon"><use href="#i-shield"/></svg>
+      </button>
+      <button class="icon-btn" id="themeToggle" aria-label="Мавзӯъ">
+        <svg class="icon" id="themeIcon"><use href="#i-moon"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- MAIN -->
+  <main class="main" id="mainContent">
+
+    <!-- ============================================================
+         HOME
+         ============================================================ -->
+    <section class="page active" data-page="home">
+      <div class="hero-card">
+        <div class="hero-content">
+          <span class="badge">
+            <svg class="icon icon-xs"><use href="#i-flame"/></svg>
+            Ҳар рӯз омӯз
+          </span>
+          <h2>Роҳи ту ба<br><span class="gradient-text">English Fluent</span></h2>
+          <p>Дарсҳои интерактивӣ, луғат ва грамматика дар як ҷо</p>
+          <button class="btn-primary" onclick="navigateTo('lessons')">
+            Оғоз кун
+            <svg class="icon icon-sm"><use href="#i-arrow-right"/></svg>
+          </button>
+        </div>
+        <div class="hero-decoration">
+          <svg class="icon icon-2xl"><use href="#i-sparkles"/></svg>
+        </div>
+      </div>
+
+      <div class="stats-grid">
+        <div class="stat-card">
+          <div class="stat-icon" style="--c: #6366f1">
+            <svg class="icon"><use href="#i-book-open"/></svg>
+          </div>
+          <div>
+            <div class="stat-value" id="statLessons">0</div>
+            <div class="stat-label">Дарсҳо</div>
+          </div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon" style="--c: #10b981">
+            <svg class="icon"><use href="#i-check-circle"/></svg>
+          </div>
+          <div>
+            <div class="stat-value" id="statDone">0</div>
+            <div class="stat-label">Анҷомшуда</div>
+          </div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon" style="--c: #f59e0b">
+            <svg class="icon"><use href="#i-flame"/></svg>
+          </div>
+          <div>
+            <div class="stat-value" id="statStreak">0</div>
+            <div class="stat-label">Рӯзҳо</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="quick-actions">
+        <div class="qa-item" onclick="navigateTo('lessons')">
+          <div class="qa-icon" style="--c: #6366f1"><svg class="icon"><use href="#i-book"/></svg></div>
+          <span>Дарсҳо</span>
+        </div>
+        <div class="qa-item" onclick="window.location.href='test.html'">
+          <div class="qa-icon" style="--c: #f59e0b"><svg class="icon"><use href="#i-trophy"/></svg></div>
+          <span>Тестҳо</span>
+        </div>
+        <div class="qa-item" onclick="navigateTo('premium')">
+          <div class="qa-icon" style="--c: #10b981"><svg class="icon"><use href="#i-crown"/></svg></div>
+          <span>Premium</span>
+        </div>
+        <div class="qa-item" onclick="navigateTo('profile')">
+          <div class="qa-icon" style="--c: #8b5cf6"><svg class="icon"><use href="#i-user"/></svg></div>
+          <span>Профил</span>
+        </div>
+      </div>
+
+      <div class="section-header">
+        <h3>Давом диҳед</h3>
+        <span class="see-all" onclick="navigateTo('lessons')">
+          Ҳама <svg class="icon icon-xs"><use href="#i-arrow-right"/></svg>
+        </span>
+      </div>
+
+      <div id="continueLessons" class="lessons-list"></div>
+
+      <div class="big-test-banner" onclick="window.location.href='test.html'">
+        <div class="big-test-icon"><svg class="icon icon-lg"><use href="#i-trophy"/></svg></div>
+        <div>
+          <h4>Тести калон</h4>
+          <p>Аз тамоми дарсҳо — 400+ савол</p>
+        </div>
+        <svg class="icon icon-sm arrow"><use href="#i-chevron-right"/></svg>
+      </div>
+
+      <div class="premium-banner" onclick="navigateTo('premium')">
+        <div class="premium-glow"></div>
+        <div class="premium-content">
+          <div class="crown"><svg class="icon icon-lg"><use href="#i-crown"/></svg></div>
+          <div>
+            <h4>Premium Version</h4>
+            <p>Ҳамаи дарсҳо + бе маҳдудият</p>
+          </div>
+          <button class="btn-premium">Кушодан</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         LESSONS
+         ============================================================ -->
+    <section class="page" data-page="lessons">
+      <div class="page-title">
+        <h2><svg class="icon icon-md"><use href="#i-book"/></svg> Дарсҳо</h2>
+        <p>Дарсро интихоб кунед ва омӯзишро оғоз намоед</p>
+      </div>
+
+      <div class="filters">
+        <button class="filter-btn active" data-filter="all">Ҳама</button>
+        <button class="filter-btn" data-filter="beginner">Асосӣ</button>
+        <button class="filter-btn" data-filter="intermediate">Миёна</button>
+        <button class="filter-btn" data-filter="advanced">Пешрафта</button>
+        <button class="filter-btn" data-filter="street">Street</button>
+      </div>
+
+      <div id="lessonsGrid" class="lessons-grid"></div>
+    </section>
+
+    <!-- ============================================================
+         PREMIUM
+         ============================================================ -->
+    <section class="page" data-page="premium">
+      <div class="premium-hero">
+        <div class="crown-big"><svg class="icon icon-3xl"><use href="#i-crown"/></svg></div>
+        <h2>Premium</h2>
+        <p>Омӯзиши бештар. Гуфтори воқеӣ. Пешрафти тезтар.</p>
+      </div>
+
+      <div class="premium-features">
+        <div class="feature-item">
+          <span class="feature-icon"><svg class="icon"><use href="#i-book-open"/></svg></span>
+          <div><h5>Ҳамаи дарсҳои Premium</h5></div>
+        </div>
+        <div class="feature-item">
+          <span class="feature-icon"><svg class="icon"><use href="#i-chat"/></svg></span>
+          <div><h5>Гуфтори табиӣ ва slang</h5></div>
+        </div>
+        <div class="feature-item">
+          <span class="feature-icon"><svg class="icon"><use href="#i-volume"/></svg></span>
+          <div><h5>Талаффуз ва омӯзиши пайдарпай</h5></div>
+        </div>
+      </div>
+
+      <div class="section-header">
+        <h3>Интихоби нақша</h3>
+        <span class="see-all">Бекор карданаш осон</span>
+      </div>
+
+      <div class="pricing-cards">
+        <div class="price-card" onclick="selectPlan('1day')">
+          <div class="price-info">
+            <div class="price-tag">1 рӯз</div>
+            <div class="price-sub">Барои санҷиши Premium</div>
+            <div class="price-note">1 рӯз · дастрасии пурра</div>
+          </div>
+          <div class="price-right"><div class="price-num">4 <span>сомонӣ</span></div></div>
+        </div>
+
+        <div class="price-card" onclick="selectPlan('1week')">
+          <div class="price-info">
+            <div class="price-tag">1 ҳафта <span class="badge-popular">МАЪМУЛ</span></div>
+            <div class="price-sub">Барои омӯзиши ҳаррӯза</div>
+            <div class="price-note">7 рӯз · дастрасии пурра</div>
+          </div>
+          <div class="price-right"><div class="price-num">25 <span>сомонӣ</span></div></div>
+        </div>
+
+        <div class="price-card" onclick="selectPlan('1month')">
+          <div class="price-info">
+            <div class="price-tag">1 моҳ <span class="badge-best">БЕҲТАРИН</span></div>
+            <div class="price-sub">Барои пешрафти ҷиддӣ</div>
+            <div class="price-note">30 рӯз · дастрасии пурра</div>
+          </div>
+          <div class="price-right"><div class="price-num">100 <span>сомонӣ</span></div></div>
+        </div>
+
+        <div class="price-card" onclick="selectPlan('1year')">
+          <div class="price-info">
+            <div class="price-tag">1 сол <span class="badge-value">VALUE</span></div>
+            <div class="price-sub">Барои омӯзиши дарозмуддат</div>
+            <div class="price-note">365 рӯз · дастрасии пурра</div>
+          </div>
+          <div class="price-right"><div class="price-num">1199 <span>сомонӣ</span></div></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         PROFILE
+         ============================================================ -->
+    <section class="page" data-page="profile">
+      <div class="profile-card">
+        <div class="profile-avatar"><svg class="icon icon-2xl"><use href="#i-user"/></svg></div>
+        <h3 id="profileName">Корбар</h3>
+        <p class="profile-status">
+          <svg class="icon icon-xs"><use href="#i-graduation"/></svg>
+          English Learner
+        </p>
+        <div class="profile-badge">Free версия</div>
+      </div>
+
+      <div class="profile-stats">
+        <div class="p-stat"><span class="p-val" id="pStatLessons">0</span><span class="p-lbl">Дарсҳо</span></div>
+        <div class="p-stat"><span class="p-val" id="pStatWords">0</span><span class="p-lbl">Калимаҳо</span></div>
+        <div class="p-stat"><span class="p-val" id="pStatDays">0</span><span class="p-lbl">Рӯзҳо</span></div>
+      </div>
+
+      <div class="menu-list">
+        <div class="menu-item" onclick="navigateTo('premium')">
+          <span class="menu-icon"><svg class="icon"><use href="#i-crown"/></svg></span>
+          <span>Premium гирифтан</span>
+          <svg class="icon icon-sm arrow"><use href="#i-chevron-right"/></svg>
+        </div>
+
+        <div class="menu-item" onclick="window.location.href='test.html'">
+          <span class="menu-icon"><svg class="icon"><use href="#i-trophy"/></svg></span>
+          <span>Тести калон</span>
+          <svg class="icon icon-sm arrow"><use href="#i-chevron-right"/></svg>
+        </div>
+
+        <div class="menu-item" onclick="navigateTo('stats')">
+          <span class="menu-icon"><svg class="icon"><use href="#i-bar-chart"/></svg></span>
+          <span>Омор</span>
+          <svg class="icon icon-sm arrow"><use href="#i-chevron-right"/></svg>
+        </div>
+
+        <div class="menu-item" onclick="navigateTo('saved')">
+          <span class="menu-icon"><svg class="icon"><use href="#i-bookmark"/></svg></span>
+          <span>Дарсҳои нигоҳдошта</span>
+          <svg class="icon icon-sm arrow"><use href="#i-chevron-right"/></svg>
+        </div>
+
+        <div class="menu-item" onclick="navigateTo('settings')">
+          <span class="menu-icon"><svg class="icon"><use href="#i-settings"/></svg></span>
+          <span>Танзимот</span>
+          <svg class="icon icon-sm arrow"><use href="#i-chevron-right"/></svg>
+        </div>
+
+        <div class="menu-item" onclick="navigateTo('help')">
+          <span class="menu-icon"><svg class="icon"><use href="#i-help-circle"/></svg></span>
+          <span>Кӯмак</span>
+          <svg class="icon icon-sm arrow"><use href="#i-chevron-right"/></svg>
+        </div>
+
+        <div class="menu-item" onclick="navigateTo('support')">
+          <span class="menu-icon"><svg class="icon"><use href="#i-message"/></svg></span>
+          <span>Дастгирӣ</span>
+          <svg class="icon icon-sm arrow"><use href="#i-chevron-right"/></svg>
+        </div>
+
+        <div class="menu-item admin-only" style="display:none" onclick="navigateTo('admin')">
+          <span class="menu-icon"><svg class="icon"><use href="#i-shield"/></svg></span>
+          <span>Admin Panel</span>
+          <svg class="icon icon-sm arrow"><use href="#i-chevron-right"/></svg>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         STATISTICS
+         ============================================================ -->
+    <section class="page" data-page="stats">
+      <div class="page-title">
+        <h2><svg class="icon icon-md"><use href="#i-bar-chart"/></svg> Омор</h2>
+        <p>Пешрафти шумо дар омӯзиш</p>
+      </div>
+
+      <div class="stats-overview">
+        <div class="ov-card">
+          <div class="ov-icon" style="--c: #6366f1"><svg class="icon"><use href="#i-book-open"/></svg></div>
+          <div class="ov-val" id="ovTotalLessons">0</div>
+          <div class="ov-lbl">Ҳамагӣ</div>
+        </div>
+        <div class="ov-card">
+          <div class="ov-icon" style="--c: #10b981"><svg class="icon"><use href="#i-check-circle"/></svg></div>
+          <div class="ov-val" id="ovDone">0</div>
+          <div class="ov-lbl">Анҷомшуда</div>
+        </div>
+        <div class="ov-card">
+          <div class="ov-icon" style="--c: #f59e0b"><svg class="icon"><use href="#i-trending-up"/></svg></div>
+          <div class="ov-val" id="ovPercent">0%</div>
+          <div class="ov-lbl">Пешрафт</div>
+        </div>
+      </div>
+
+      <div class="card-section">
+        <div class="card-header-row">
+          <h3><svg class="icon icon-sm"><use href="#i-target"/></svg> Пешрафти умумӣ</h3>
+          <span class="card-badge" id="progressBadge">0 / 120</span>
+        </div>
+        <div class="big-progress">
+          <div class="big-progress-bar" id="bigProgressBar" style="width: 0%"></div>
+        </div>
+      </div>
+
+      <div class="card-section">
+        <h3><svg class="icon icon-sm"><use href="#i-layers"/></svg> Аз рӯи сатҳ</h3>
+        <div id="levelStats" class="level-stats"></div>
+      </div>
+
+      <div class="card-section">
+        <h3><svg class="icon icon-sm"><use href="#i-award"/></svg> Натиҷаҳои тестҳо</h3>
+        <div id="scoreChart" class="score-chart"></div>
+      </div>
+
+      <div class="card-section">
+        <h3><svg class="icon icon-sm"><use href="#i-book"/></svg> Калимаҳои омӯхташуда</h3>
+        <div class="words-counter">
+          <div class="words-num" id="wordsLearned">0</div>
+          <div class="words-lbl">калима</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         SAVED LESSONS
+         ============================================================ -->
+    <section class="page" data-page="saved">
+      <div class="page-title">
+        <h2><svg class="icon icon-md"><use href="#i-bookmark"/></svg> Дарсҳои нигоҳдошта</h2>
+        <p>Дарсҳое, ки шумо нигоҳ доштед</p>
+      </div>
+      <div id="savedLessons" class="lessons-list"></div>
+    </section>
+
+    <!-- ============================================================
+         SETTINGS
+         ============================================================ -->
+    <section class="page" data-page="settings">
+      <div class="page-title">
+        <h2><svg class="icon icon-md"><use href="#i-settings"/></svg> Танзимот</h2>
+        <p>Барномаро мувофиқи худ танзим кунед</p>
+      </div>
+
+      <div class="settings-group">
+        <h3><svg class="icon icon-sm"><use href="#i-sun"/></svg> Намуди зоҳирӣ</h3>
+        <div class="setting-item">
+          <div class="setting-info">
+            <svg class="icon"><use href="#i-moon"/></svg>
+            <div>
+              <span class="setting-title">Мавзӯи торик</span>
+              <span class="setting-desc">Ҳолати ранги барнома</span>
+            </div>
+          </div>
+          <label class="switch">
+            <input type="checkbox" id="settingDark" checked>
+            <span class="slider"></span>
+          </label>
+        </div>
+        <div class="setting-item">
+          <div class="setting-info">
+            <svg class="icon"><use href="#i-zap"/></svg>
+            <div>
+              <span class="setting-title">Аниматсияҳо</span>
+              <span class="setting-desc">Ҳаракатҳои барнома</span>
+            </div>
+          </div>
+          <label class="switch">
+            <input type="checkbox" id="settingAnimations" checked>
+            <span class="slider"></span>
+          </label>
+        </div>
+      </div>
+
+      <div class="settings-group">
+        <h3><svg class="icon icon-sm"><use href="#i-graduation"/></svg> Омӯзиш</h3>
+        <div class="setting-item">
+          <div class="setting-info">
+            <svg class="icon"><use href="#i-volume"/></svg>
+            <div>
+              <span class="setting-title">Садои талаффуз</span>
+              <span class="setting-desc">Хондани калимаҳо бо овоз</span>
+            </div>
+          </div>
+          <label class="switch">
+            <input type="checkbox" id="settingSound" checked>
+            <span class="slider"></span>
+          </label>
+        </div>
+        <div class="setting-item">
+          <div class="setting-info">
+            <svg class="icon"><use href="#i-flame"/></svg>
+            <div>
+              <span class="setting-title">Хафта</span>
+              <span class="setting-desc">Огоҳии ҳаррӯза</span>
+            </div>
+          </div>
+          <label class="switch">
+            <input type="checkbox" id="settingStreak">
+            <span class="slider"></span>
+          </label>
+        </div>
+      </div>
+
+      <div class="settings-group">
+        <h3><svg class="icon icon-sm"><use href="#i-message"/></svg> Огоҳиномаҳо</h3>
+        <div class="setting-item">
+          <div class="setting-info">
+            <svg class="icon"><use href="#i-message"/></svg>
+            <div>
+              <span class="setting-title">Огоҳиномаҳо</span>
+              <span class="setting-desc">Дар бораи дарсҳои нав</span>
+            </div>
+          </div>
+          <label class="switch">
+            <input type="checkbox" id="settingNotif" checked>
+            <span class="slider"></span>
+          </label>
+        </div>
+      </div>
+
+      <div class="settings-group">
+        <h3><svg class="icon icon-sm"><use href="#i-layers"/></svg> Маълумот</h3>
+        <button class="settings-action" onclick="exportData()">
+          <span class="menu-icon"><svg class="icon"><use href="#i-download"/></svg></span>
+          <div class="action-info">
+            <span class="setting-title">Содироти маълумот</span>
+            <span class="setting-desc">Пешрафтро нигоҳ доред</span>
+          </div>
+          <svg class="icon icon-sm arrow"><use href="#i-chevron-right"/></svg>
+        </button>
+        <button class="settings-action" onclick="importData()">
+          <span class="menu-icon"><svg class="icon"><use href="#i-upload"/></svg></span>
+          <div class="action-info">
+            <span class="setting-title">Воридоти маълумот</span>
+            <span class="setting-desc">Пешрафтро барқарор кунед</span>
+          </div>
+          <svg class="icon icon-sm arrow"><use href="#i-chevron-right"/></svg>
+        </button>
+        <button class="settings-action danger" onclick="confirmResetAll()">
+          <span class="menu-icon danger"><svg class="icon"><use href="#i-x"/></svg></span>
+          <div class="action-info">
+            <span class="setting-title">Нест кардани ҳама</span>
+            <span class="setting-desc">Ҳамаи маълумот нест мешавад</span>
+          </div>
+          <svg class="icon icon-sm arrow"><use href="#i-chevron-right"/></svg>
+        </button>
+      </div>
+
+      <div class="app-version">EnglishPro v1.0.0</div>
+    </section>
+
+    <!-- ============================================================
+         HELP
+         ============================================================ -->
+    <section class="page" data-page="help">
+      <div class="page-title">
+        <h2><svg class="icon icon-md"><use href="#i-help-circle"/></svg> Кӯмак</h2>
+        <p>Саволҳои маъмулӣ ва дастурҳо</p>
+      </div>
+
+      <div class="help-topics">
+        <div class="help-topic" onclick="scrollToHelp('faq')">
+          <svg class="icon"><use href="#i-help-circle"/></svg>
+          <span>FAQ</span>
+        </div>
+        <div class="help-topic" onclick="scrollToHelp('how')">
+          <svg class="icon"><use href="#i-book"/></svg>
+          <span>Чӣ тавр?</span>
+        </div>
+        <div class="help-topic" onclick="navigateTo('support')">
+          <svg class="icon"><use href="#i-message"/></svg>
+          <span>Тамос</span>
+        </div>
+      </div>
+
+      <div id="help-faq" class="card-section">
+        <h3><svg class="icon icon-sm"><use href="#i-help-circle"/></svg> Саволҳои маъмулӣ</h3>
+
+        <div class="faq-item" onclick="toggleFaq(this)">
+          <div class="faq-q">
+            <span>Чӣ тавр Premium гирам?</span>
+            <svg class="icon icon-sm"><use href="#i-chevron-down"/></svg>
+          </div>
+          <div class="faq-a">Ба саҳифаи <strong>Premium</strong> гузаред, нақшаро интихоб кунед, маблағро ба корти нишондодашуда гузаронед ва скриншоти пардохтро ба админ фиристед.</div>
+        </div>
+
+        <div class="faq-item" onclick="toggleFaq(this)">
+          <div class="faq-q">
+            <span>Дарсҳо чӣ тавр кушода мешаванд?</span>
+            <svg class="icon icon-sm"><use href="#i-chevron-down"/></svg>
+          </div>
+          <div class="faq-a">Дарсҳо пайдарпай кушода мешаванд. Барои кушодани дарси навбатӣ, дарси пешинаро бо натиҷаи <strong>70%+</strong> анҷом диҳед.</div>
+        </div>
+
+        <div class="faq-item" onclick="toggleFaq(this)">
+          <div class="faq-q">
+            <span>Тестҳо чӣ гуна кор мекунанд?</span>
+            <svg class="icon icon-sm"><use href="#i-chevron-down"/></svg>
+          </div>
+          <div class="faq-a">Баъд аз ҳар дарс 5-10 савол дода мешавад. Барои гузаштан <strong>70%</strong> ҷавобҳои дуруст лозим аст.</div>
+        </div>
+
+        <div class="faq-item" onclick="toggleFaq(this)">
+          <div class="faq-q">
+            <span>Маълумоти ман дар куҷо нигоҳ дошта мешавад?</span>
+            <svg class="icon icon-sm"><use href="#i-chevron-down"/></svg>
+          </div>
+          <div class="faq-a">Ҳамаи маълумот дар <strong>телефони шумо</strong> (localStorage) нигоҳ дошта мешавад. Ҳеҷ кас ба он дастрасӣ надорад.</div>
+        </div>
+
+        <div class="faq-item" onclick="toggleFaq(this)">
+          <div class="faq-q">
+            <span>Оё барномаро офлайн истифода бурдан мумкин?</span>
+            <svg class="icon icon-sm"><use href="#i-chevron-down"/></svg>
+          </div>
+          <div class="faq-a">Бале, баъд аз боркунии аввал дарсҳо офлайн кор мекунанд. Танҳо Premium харидан интернет лозим аст.</div>
+        </div>
+      </div>
+
+      <div id="help-how" class="card-section">
+        <h3><svg class="icon icon-sm"><use href="#i-book"/></svg> Чӣ тавр омӯзишро оғоз кунам?</h3>
+        <div class="steps">
+          <div class="step-item">
+            <div class="step-num">1</div>
+            <div>
+              <div class="step-title">Дарсро интихоб кунед</div>
+              <div class="step-desc">Аз саҳифаи "Дарсҳо" дарси дилхоҳро кушоед</div>
+            </div>
+          </div>
+          <div class="step-item">
+            <div class="step-num">2</div>
+            <div>
+              <div class="step-title">Луғатро омӯзед</div>
+              <div class="step-desc">Ҳамаи калимаҳоро дар дафтар нависед</div>
+            </div>
+          </div>
+          <div class="step-item">
+            <div class="step-num">3</div>
+            <div>
+              <div class="step-title">Тестро супорид</div>
+              <div class="step-desc">Барои гузаштан 70% лозим аст</div>
+            </div>
+          </div>
+          <div class="step-item">
+            <div class="step-num">4</div>
+            <div>
+              <div class="step-title">Ба дарси навбатӣ гузаред</div>
+              <div class="step-desc">Дарси нав худкор кушода мешавад</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         SUPPORT
+         ============================================================ -->
+    <section class="page" data-page="support">
+      <div class="page-title">
+        <h2><svg class="icon icon-md"><use href="#i-message"/></svg> Дастгирӣ</h2>
+        <p>Мо омодаем ба шумо кӯмак кунем</p>
+      </div>
+
+      <div class="support-cards">
+        <a class="support-card" href="https://t.me/" target="_blank">
+          <div class="support-icon" style="--c: #229ED9">
+            <svg class="icon"><use href="#i-send"/></svg>
+          </div>
+          <div class="support-info">
+            <h4>Telegram</h4>
+            <p>Ҷавоб дар 5 дақиқа</p>
+          </div>
+          <svg class="icon icon-sm arrow"><use href="#i-chevron-right"/></svg>
+        </a>
+
+        <a class="support-card" href="mailto:support@englishpro.tj">
+          <div class="support-icon" style="--c: #ef4444">
+            <svg class="icon"><use href="#i-mail"/></svg>
+          </div>
+          <div class="support-info">
+            <h4>Email</h4>
+            <p>support@englishpro.tj</p>
+          </div>
+          <svg class="icon icon-sm arrow"><use href="#i-chevron-right"/></svg>
+        </a>
+
+        <a class="support-card" href="tel:+992000000000">
+          <div class="support-icon" style="--c: #10b981">
+            <svg class="icon"><use href="#i-phone"/></svg>
+          </div>
+          <div class="support-info">
+            <h4>Телефон</h4>
+            <p>+992 00 000 00 00</p>
+          </div>
+          <svg class="icon icon-sm arrow"><use href="#i-chevron-right"/></svg>
+        </a>
+      </div>
+
+      <div class="card-section">
+        <h3><svg class="icon icon-sm"><use href="#i-edit"/></svg> Паём фиристед</h3>
+        <textarea id="supportMessage" class="support-textarea" rows="5" placeholder="Мушкил ё саволи худро нависед..."></textarea>
+        <button class="btn-primary btn-full" onclick="sendSupportMessage()">
+          <svg class="icon icon-sm"><use href="#i-send"/></svg>
+          Фиристодан
+        </button>
+      </div>
+
+      <div class="support-footer">
+        <div class="sf-item">
+          <svg class="icon icon-sm"><use href="#i-clock"/></svg>
+          <span>Душанбе — Ҷумъа: 9:00 — 18:00</span>
+        </div>
+        <div class="sf-item">
+          <svg class="icon icon-sm"><use href="#i-globe"/></svg>
+          <span>englishpro.tj</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         ADMIN
+         ============================================================ -->
+    <section class="page" data-page="admin">
+      <div class="page-title">
+        <h2><svg class="icon icon-md"><use href="#i-shield"/></svg> Admin Panel</h2>
+        <p>Идоракунии барнома (танҳо барои админ)</p>
+      </div>
+
+      <div class="admin-stats">
+        <div class="admin-stat">
+          <div class="admin-stat-value" id="adminTotalUsers">0</div>
+          <div class="admin-stat-label">Корбарон</div>
+        </div>
+        <div class="admin-stat">
+          <div class="admin-stat-value" id="adminPremiumUsers">0</div>
+          <div class="admin-stat-label">Premium</div>
+        </div>
+      </div>
+
+      <div class="admin-section">
+        <h3><svg class="icon icon-sm"><use href="#i-crown"/></svg> Додани Premium</h3>
+        <select id="adminPlanSelect" class="admin-select">
+          <option value="1day">1 рӯз (4 сомонӣ)</option>
+          <option value="1week">1 ҳафта (25 сомонӣ)</option>
+          <option value="1month" selected>1 моҳ (100 сомонӣ)</option>
+          <option value="1year">1 сол (1199 сомонӣ)</option>
+        </select>
+        <button class="btn-primary btn-full" data-admin-action="give-premium">
+          <svg class="icon icon-sm"><use href="#i-crown"/></svg> Додан
+        </button>
+      </div>
+
+      <div class="admin-section">
+        <h3><svg class="icon icon-sm"><use href="#i-settings"/></svg> Амалҳо</h3>
+        <button class="btn-price btn-full" data-admin-action="unlock-all">
+          <svg class="icon icon-sm"><use href="#i-check-circle"/></svg> Ҳамаи дарсҳоро кушодан
+        </button>
+        <button class="btn-price btn-full" data-admin-action="reset-progress">
+          <svg class="icon icon-sm"><use href="#i-refresh"/></svg> Нест кардани пешрафт
+        </button>
+        <button class="btn-price btn-full danger" data-admin-action="reset-premium">
+          <svg class="icon icon-sm"><use href="#i-x"/></svg> Нест кардани Premium
+        </button>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- BOTTOM NAV -->
+  <nav class="bottom-nav">
+    <button class="nav-btn active" data-target="home">
+      <svg class="icon"><use href="#i-home"/></svg>
+      <span class="nav-label">Асосӣ</span>
+    </button>
+    <button class="nav-btn" data-target="lessons">
+      <svg class="icon"><use href="#i-book"/></svg>
+      <span class="nav-label">Дарсҳо</span>
+    </button>
+    <button class="nav-btn" data-target="premium">
+      <svg class="icon"><use href="#i-crown"/></svg>
+      <span class="nav-label">Premium</span>
+    </button>
+    <button class="nav-btn" data-target="profile">
+      <svg class="icon"><use href="#i-user"/></svg>
+      <span class="nav-label">Профил</span>
+    </button>
+  </nav>
+
+</div>
+
+<!-- ============================================================
+     PAYMENT MODAL
+     ============================================================ -->
+<div class="modal" id="paymentModal">
+  <div class="modal-backdrop" onclick="closePaymentModal()"></div>
+  <div class="modal-content">
+    <div class="modal-header">
+      <h3>Тасдиқи пардохт</h3>
+      <button class="icon-btn" onclick="closePaymentModal()">
+        <svg class="icon"><use href="#i-x"/></svg>
+      </button>
+    </div>
+
+    <div class="modal-body">
+      <div class="pay-row"><span>Нақша:</span><strong id="payPlanLabel">1 моҳ</strong></div>
+      <div class="pay-row"><span>Маблағ:</span><strong class="pay-price" id="payPlanPrice">100 сомонӣ</strong></div>
+
+      <div class="pay-instruction">
+        <p>Маблағро ба корти зерин гузаронед:</p>
+        <div class="card-number">
+          <svg class="icon icon-sm"><use href="#i-credit-card"/></svg>
+          <span>1234 5678 9012 3456</span>
+        </div>
+        <p class="pay-phone">ё ба +992 XX XXX XXXX</p>
+      </div>
+
+      <div class="pay-comment">
+        <label>Барои тасдиқ фиристед:</label>
+        <code id="payComment">premium_1month_123456</code>
+      </div>
+
+      <p class="pay-note">Скриншоти пардохтро ба админ фиристед. Баъд аз тасдиқ Premium фаъол мешавад.</p>
+    </div>
+
+    <div class="modal-footer">
+      <button class="btn-price" onclick="closePaymentModal()">Бекор</button>
+      <button class="btn-primary" onclick="confirmPayment()">
+        <svg class="icon icon-sm"><use href="#i-check"/></svg> Пардохт кардам
+      </button>
+    </div>
+  </div>
+</div>
+
+<script src="js/lessons-data.js"></script>
+<script src="js/app.js"></script>
+<script src="js/admin.js"></script>
+
+</body>
+</html>
