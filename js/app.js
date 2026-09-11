@@ -110,6 +110,65 @@ function calculateTotalScore() {
 }
 
 // ============================================================
+// 🎧 PREMIUM SYNC — аз Firebase ба localStorage
+// ============================================================
+function initPremiumSync() {
+  if (!user.id) return;
+  if (typeof listenMyPremiumFromFirebase !== 'function') {
+    console.warn('⚠️ listenMyPremiumFromFirebase нест — Premium sync кор намекунад');
+    return;
+  }
+
+  listenMyPremiumFromFirebase(user.id, data => {
+    const wasActive = isPremiumActive();
+
+    // 1. Агар Premium фаъол бошад дар Firebase
+    if (data.isPremium && data.premiumExpiresAt && Date.now() < data.premiumExpiresAt) {
+      premium = {
+        active: true,
+        plan: data.premiumPlan,
+        startedAt: data.premiumStartedAt,
+        expiresAt: data.premiumExpiresAt
+      };
+      store.set('premium', premium);
+
+      // Аввалин бор фаъол шуд → хабар + refresh UI
+      if (!wasActive) {
+        console.log('👑 Premium фаъол шуд аз Firebase');
+        showToast('👑 Premium фаъол шуд!');
+
+        renderProfile();
+        updateTestLockUI();
+        renderLessons('all');
+        updateStats();
+
+        if (tg) tg.HapticFeedback?.notificationOccurred('success');
+      }
+    }
+    // 2. Агар Premium нест шуда бошад дар Firebase
+    else if (!data.isPremium && premium.active) {
+      premium = { active: false, plan: null, startedAt: null, expiresAt: null };
+      store.set('premium', premium);
+
+      console.log('⚠️ Premium нест шуд аз Firebase');
+      renderProfile();
+      updateTestLockUI();
+      renderLessons('all');
+    }
+    // 3. Агар мӯҳлат гузашта бошад
+    else if (data.isPremium && data.premiumExpiresAt && Date.now() >= data.premiumExpiresAt) {
+      if (premium.active) {
+        premium = { active: false, plan: null, startedAt: null, expiresAt: null };
+        store.set('premium', premium);
+        renderProfile();
+        updateTestLockUI();
+        renderLessons('all');
+      }
+    }
+  });
+}
+
+// ============================================================
 // SYNC КОРБАР БА FIREBASE
 // ============================================================
 function syncMyUser() {
