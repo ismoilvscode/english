@@ -18,15 +18,14 @@
   <symbol id="i-x" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></symbol>
   <symbol id="i-award" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="7"/><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/></symbol>
   <symbol id="i-refresh" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></symbol>
-  <symbol id="i-book-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></symbol>
   <symbol id="i-edit" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></symbol>
   <symbol id="i-arrow-right" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></symbol>
-  <symbol id="i-sparkles" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3-1.9 5.8a2 2 0 0 1-1.3 1.3L3 12l5.8 1.9a2 2 0 0 1 1.3 1.3L12 21l1.9-5.8a2 2 0 0 1 1.3-1.3L21 12l-5.8-1.9a2 2 0 0 1-1.3-1.3L12 3z"/></symbol>
+  <symbol id="i-trophy" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6M18 9h1.5a2.5 2.5 0 0 0 0-5H18M4 22h16M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22M18 2H6v7a6 6 0 0 0 12 0V2z"/></symbol>
+  <symbol id="i-book-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></symbol>
 </svg>
 
 <div class="lesson-app">
 
-  <!-- HEADER -->
   <div class="lesson-header">
     <button class="back-btn" onclick="exitLesson()">
       <svg class="icon"><use href="#i-arrow-left"/></svg>
@@ -37,7 +36,6 @@
     </div>
   </div>
 
-  <!-- PROGRESS -->
   <div class="lesson-progress-wrap">
     <div class="lesson-progress-track">
       <div class="lesson-progress-fill" id="progressFill"></div>
@@ -45,16 +43,14 @@
     <div class="lesson-progress-text" id="progressText">0 / 0</div>
   </div>
 
-  <!-- STAGE: WORDS -->
+  <!-- STAGE: WORDS ONLY -->
   <div class="lesson-stage" id="stageWords">
     <div class="instruction-box">
       <svg class="icon"><use href="#i-edit"/></svg>
       <p id="instructionText">Ҳамаи калимаҳоро дар дафтар нависед!</p>
     </div>
 
-    <div class="word-stage" id="wordStage">
-      <!-- Word card меояд ин ҷо -->
-    </div>
+    <div class="word-stage" id="wordStage"></div>
 
     <div class="stage-actions">
       <button class="btn-listen" id="btnListen" onclick="listenCurrent()">
@@ -68,7 +64,7 @@
     </div>
   </div>
 
-  <!-- STAGE: TEST -->
+  <!-- STAGE: TEST (танҳо баъд аз омӯхтан) -->
   <div class="lesson-stage" id="stageTest" style="display:none">
     <div class="test-progress">
       <div class="test-progress-bar" id="testProgressBar"></div>
@@ -84,10 +80,138 @@
 
 </div>
 
-<!-- AUDIO (пинҳон) -->
+<!-- ============================================
+     MODAL: ВАҚТИ ТЕСТ РАСИД
+     ============================================ -->
+<div class="modal" id="testTimeModal">
+  <div class="modal-backdrop"></div>
+  <div class="modal-content" style="max-width:400px;text-align:center;">
+    <div style="font-size:80px;margin-bottom:16px;animation:bounceIn 0.6s ease;">🎉</div>
+    <h2 style="font-size:24px;font-weight:900;margin-bottom:10px;">Табрик!</h2>
+    <p style="color:var(--text-2);font-size:14px;margin-bottom:8px;">
+      Шумо ҳамаи <strong id="wordsCountModal">0</strong> калимаро омӯхтед!
+    </p>
+    <p style="color:var(--text-2);font-size:13px;margin-bottom:24px;">
+      Ҳоло вақти тест расид. Барои гузаштан <strong>70%</strong> лозим аст.
+    </p>
+    <button class="btn-primary" style="width:100%;justify-content:center;padding:16px;font-size:15px;margin-bottom:10px" onclick="startTestFromModal()">
+      <svg class="icon icon-sm"><use href="#i-trophy"/></svg>
+      Оғози тест
+    </button>
+    <button class="btn-price" style="width:100%" onclick="reviewWords()">
+      Боз дидани калимаҳо
+    </button>
+  </div>
+</div>
+
+<!-- ============================================
+     MODAL: PREMIUM ORDER
+     ============================================ -->
+<div class="modal" id="premiumOrderModal">
+  <div class="modal-backdrop" onclick="closePremiumOrder()"></div>
+  <div class="modal-content">
+    <div class="modal-header">
+      <h3>👑 Premium харидан</h3>
+      <button class="icon-btn" onclick="closePremiumOrder()">
+        <svg class="icon"><use href="#i-x"/></svg>
+      </button>
+    </div>
+
+    <div class="modal-body">
+      <div class="pay-row">
+        <span>Нақша:</span>
+        <strong id="orderPlanLabel">1 моҳ</strong>
+      </div>
+      <div class="pay-row">
+        <span>Маблағ:</span>
+        <strong class="pay-price" id="orderPlanPrice">100 сомонӣ</strong>
+      </div>
+
+      <!-- Card number with COPY -->
+      <div class="pay-instruction">
+        <p>Маблағро ба Alif mobi гузаронед:</p>
+        <div class="card-number" onclick="copyCardNumber()" style="cursor:pointer">
+          <svg class="icon icon-sm"><use href="#i-credit-card"/></svg>
+          <span id="cardNumberText">+992933217883</span>
+          <svg class="icon icon-sm" style="margin-left:auto"><use href="#i-copy"/></svg>
+        </div>
+        <p style="font-size:11px;color:var(--primary);text-align:center;margin-top:6px;font-weight:600">
+          👆 Пахш кунед, то рақамро нусхабардорӣ кунед
+        </p>
+      </div>
+
+      <!-- PHOTO UPLOAD -->
+      <div style="margin-top:20px;padding-top:16px;border-top:1px dashed var(--card-border)">
+        <label style="font-size:13px;font-weight:600;display:block;margin-bottom:10px">
+          📸 Скриншоти пардохтро интихоб кунед:
+        </label>
+
+        <input type="file" id="paymentPhoto" accept="image/*" style="display:none" onchange="handlePhotoSelect(event)">
+
+        <div id="photoPreview" class="photo-preview" onclick="document.getElementById('paymentPhoto').click()">
+          <svg class="icon icon-2xl"><use href="#i-camera"/></svg>
+          <p>Барои интихоби сурат пахш кунед</p>
+        </div>
+
+        <div id="photoSelected" style="display:none">
+          <img id="photoImg" src="" style="width:100%;border-radius:12px;margin-bottom:10px;max-height:300px;object-fit:contain">
+          <button class="btn-price" style="width:100%" onclick="removePhoto()">
+            <svg class="icon icon-sm"><use href="#i-x"/></svg>
+            Иваз кардан
+          </button>
+        </div>
+      </div>
+
+      <p style="font-size:11px;color:var(--text-2);margin-top:16px;line-height:1.5">
+        Баъд аз тасдиқ аз ҷониби админ, Premium худкор фаъол мешавад.
+      </p>
+    </div>
+
+    <div class="modal-footer">
+      <button class="btn-price" onclick="closePremiumOrder()">Бекор</button>
+      <button class="btn-primary" id="btnSendOrder" onclick="sendPremiumOrder()" disabled>
+        <svg class="icon icon-sm"><use href="#i-send"/></svg>
+        Фиристодан
+      </button>
+    </div>
+  </div>
+</div>
+
+<!-- AUDIO -->
 <audio id="audioPlayer" preload="auto"></audio>
 
+<script src="https://www.gstatic.com/firebasejs/10.7.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.7.0/firebase-database-compat.js"></script>
+
 <script>
+// ============================================
+// FIREBASE CONFIG
+// ============================================
+const firebaseConfig = {
+  apiKey: "AIzaSyADKhYDf1dc11VJHmFdT26irHBUt_Lkrk",
+  authDomain: "my-projekt-d246d.firebaseapp.com",
+  databaseURL: "https://my-projekt-d246d-default-rtdb.firebaseio.com",
+  projectId: "my-projekt-d246d",
+  storageBucket: "my-projekt-d246d.firebasestorage.app",
+  messagingSenderId: "149204965139",
+  appId: "1:149204965139:web:b4c1bc35b4a373cddc2ce6"
+};
+
+let db = null;
+try {
+  if (!firebase.apps.length) firebase.initializeApp(firebaseConfig);
+  db = firebase.database();
+} catch (e) {
+  console.error('Firebase error:', e);
+}
+
+// ============================================
+// ADMIN BOT INFO
+// ============================================
+const ADMIN_BOT = 'learnchinenebot'; // ← Номи боти шумо
+const ADMIN_TELEGRAM = 'ismoilovcode'; // ← Username-и шумо
+const CARD_NUMBER = '+992933217883'; // ← КОРТИ ШУМО
+
 // ============================================
 // TELEGRAM
 // ============================================
@@ -102,65 +226,101 @@ const store = {
   set: (k, v) => localStorage.setItem(k, JSON.stringify(v))
 };
 
+const user = tg?.initDataUnsafe?.user || { id: 0, first_name: 'Корбар', username: null };
+
+// ============================================
+// STATE
+// ============================================
 let lessonData = null;
 let wordIndex = 0;
 let learnedWords = [];
+let allWordsLearned = false; // ← Муҳим!
 let testQuestions = [];
 let testIdx = 0;
 let testAnswers = [];
-let testStarted = false;
+let currentPlanKey = null;
+let selectedPhotoBase64 = null;
 
 const audioPlayer = document.getElementById('audioPlayer');
 
 // ============================================
-// AUDIO — StreamElements TTS (кор мекунад дар Telegram)
+// ҚУЛФИ ПАЙДАРПАЙ
 // ============================================
-function playAudio(text, lang = 'en') {
-  if (!text) return;
+function isLessonUnlocked(id) {
+  if (id === 1) return true;
+  const progress = store.get('progress', { completedLessons: [] });
+  return (progress.completedLessons || []).includes(id - 1);
+}
 
-  // Тоза кардани матн аз аломатҳои махсус
-  const clean = text.replace(/[^\w\s'-]/g, '').trim();
+function showLockedScreen() {
+  document.body.innerHTML = `
+    <div style="padding:60px 30px;text-align:center;font-family:Inter,sans-serif;background:#0f172a;min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+      <div style="font-size:72px;margin-bottom:20px;">🔒</div>
+      <h2 style="color:#f1f5f9;font-size:22px;font-weight:800;margin-bottom:12px;">Дарс қулф аст</h2>
+      <p style="color:#94a3b8;font-size:14px;margin-bottom:24px;">
+        Аввал дарси <strong>${LESSON_ID - 1}</strong>-ро гузаред
+      </p>
+      <button onclick="location.href='lesson.html?id=${LESSON_ID - 1}'" 
+        style="background:linear-gradient(135deg,#6366f1,#8b5cf6);color:#fff;border:none;padding:14px 28px;border-radius:14px;font-size:15px;font-weight:700;cursor:pointer;font-family:inherit;">
+        Ба дарси ${LESSON_ID - 1}
+      </button>
+    </div>`;
+}
+
+// ============================================
+// AUDIO
+// ============================================
+function playAudio(text) {
+  if (!text) return;
+  const clean = String(text).replace(/[<>{}[\]|\\]/g, '').replace(/\s+/g, ' ').trim();
   if (!clean) return;
 
-  // Voice-и мардонаи англисӣ
-  const voice = 'Emma';
-  const url = `https://api.streamelements.com/kappa/v2/speech?voice=${voice}&text=${encodeURIComponent(clean)}`;
-
+  const url = `https://translate.google.com/translate_tts?ie=UTF-8&q=${encodeURIComponent(clean)}&tl=en&client=tw-ob&_=${Date.now()}`;
+  audioPlayer.pause();
+  audioPlayer.currentTime = 0;
   audioPlayer.src = url;
   audioPlayer.load();
-
-  const playPromise = audioPlayer.play();
-
-  if (playPromise !== undefined) {
-    playPromise.catch(err => {
-      console.warn('Audio error:', err);
-      // Fallback — кӯшиши speechSynthesis
-      fallbackSpeak(clean);
-    });
-  }
-
+  audioPlayer.play().catch(() => fallbackSpeak(clean));
   if (tg) tg.HapticFeedback?.impactOccurred('light');
 }
 
 function fallbackSpeak(text) {
-  if ('speechSynthesis' in window) {
-    const u = new SpeechSynthesisUtterance(text);
-    u.lang = 'en-US';
-    u.rate = 0.9;
-    speechSynthesis.speak(u);
-  }
+  if (!('speechSynthesis' in window)) return;
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = 'en-US';
+  u.rate = 0.85;
+  speechSynthesis.speak(u);
 }
 
 // ============================================
 // LOAD LESSON
 // ============================================
-async function loadLesson() {
-  try {
-    const r = await fetch(`data/lessons/lesson-${LESSON_ID}.json`);
-    if (!r.ok) throw new Error('404');
-    lessonData = await r.json();
+let ALL_LESSONS = null;
 
-    // Кашидани калимаҳо (уникалӣ)
+async function loadLesson() {
+  if (!isLessonUnlocked(LESSON_ID)) {
+    showLockedScreen();
+    return;
+  }
+
+  try {
+    if (!ALL_LESSONS) {
+      const r = await fetch('data/lessons.json');
+      if (!r.ok) throw new Error('lessons.json ёфт нашуд');
+      const data = await r.json();
+      ALL_LESSONS = data.lessons || {};
+    }
+
+    lessonData = ALL_LESSONS[LESSON_ID];
+
+    if (!lessonData) {
+      const r2 = await fetch(`data/lessons/lesson-${LESSON_ID}.json`);
+      if (!r2.ok) throw new Error('Дарс ёфт нашуд');
+      lessonData = await r2.json();
+    }
+
+    // Уникалӣ
     const uniqueWords = [];
     const seen = new Set();
     (lessonData.words || []).forEach(w => {
@@ -175,9 +335,9 @@ async function loadLesson() {
     renderWord();
   } catch (e) {
     document.body.innerHTML = `
-      <div style="padding:40px;text-align:center;color:#94a3b8;">
-        <h2>Хато</h2>
-        <p>Дарс ёфт нашуд</p>
+      <div style="padding:40px;text-align:center;color:#94a3b8;font-family:Inter,sans-serif;">
+        <h2 style="color:#f1f5f9;font-size:20px;">Хато</h2>
+        <p style="margin:12px 0;">${e.message}</p>
         <button class="btn-primary" onclick="location.href='index.html'">Бозгашт</button>
       </div>`;
   }
@@ -204,11 +364,10 @@ function renderWord() {
 
   const w = words[wordIndex];
   const total = words.length;
-  const pct = ((wordIndex) / total) * 100;
+  const pct = (wordIndex / total) * 100;
 
   document.getElementById('progressFill').style.width = pct + '%';
-  document.getElementById('progressText').textContent =
-    `${wordIndex + 1} / ${total}`;
+  document.getElementById('progressText').textContent = `${wordIndex + 1} / ${total}`;
 
   const stage = document.getElementById('wordStage');
   stage.innerHTML = `
@@ -220,31 +379,24 @@ function renderWord() {
     </div>
   `;
 
-  // Аниматсияи воридшавӣ
   requestAnimationFrame(() => {
     stage.querySelector('.word-card-one')?.classList.add('show');
   });
 
-  // Тугмаи "Омӯхтам" — матн иваз мешавад дар калимаи охирин
   const btnLearned = document.getElementById('btnLearned');
   if (wordIndex === total - 1) {
-    btnLearned.innerHTML = `<svg class="icon"><use href="#i-check"/></svg><span>Тамом — ба тест</span>`;
+    btnLearned.innerHTML = `<svg class="icon"><use href="#i-check"/></svg><span>Тамом</span>`;
   } else {
     btnLearned.innerHTML = `<svg class="icon"><use href="#i-check"/></svg><span>Омӯхтам</span>`;
   }
 
-  // Автоматӣ хондан
   setTimeout(() => playAudio(w.en), 300);
 }
 
 function markLearned() {
   const w = lessonData.words[wordIndex];
-  if (w && !learnedWords.includes(w.en)) {
-    learnedWords.push(w.en);
-  }
-
+  if (w && !learnedWords.includes(w.en)) learnedWords.push(w.en);
   if (tg) tg.HapticFeedback?.impactOccurred('medium');
-
   wordIndex++;
   renderWord();
 }
@@ -255,38 +407,75 @@ function listenCurrent() {
 }
 
 // ============================================
-// FINISH WORDS → START TEST
+// FINISH WORDS → MODAL
 // ============================================
 function finishWordsStage() {
+  allWordsLearned = true;
+
   document.getElementById('progressFill').style.width = '100%';
   document.getElementById('progressText').textContent =
     `${lessonData.words.length} / ${lessonData.words.length}`;
 
-  setTimeout(() => {
-    document.getElementById('stageWords').style.display = 'none';
-    startTest();
-  }, 400);
+  // Нишон додани modal
+  document.getElementById('wordsCountModal').textContent = lessonData.words.length;
+  document.getElementById('testTimeModal').classList.add('open');
 
   if (tg) tg.HapticFeedback?.notificationOccurred('success');
+}
+
+function reviewWords() {
+  document.getElementById('testTimeModal').classList.remove('open');
+  wordIndex = 0;
+  renderWord();
+}
+
+function startTestFromModal() {
+  document.getElementById('testTimeModal').classList.remove('open');
+  document.getElementById('stageWords').style.display = 'none';
+  startTest();
 }
 
 // ============================================
 // TEST
 // ============================================
-function startTest() {
-  const ex = lessonData.exercises || [];
-  if (ex.length === 0) {
+async function startTest() {
+  try {
+    if (!ALL_LESSONS) {
+      const r = await fetch('data/lessons.json');
+      const data = await r.json();
+      ALL_LESSONS = data.lessons || {};
+    }
+
+    const allExercises = [];
+    for (let id = 1; id <= LESSON_ID; id++) {
+      const lesson = ALL_LESSONS[id];
+      if (!lesson) continue;
+      (lesson.exercises || []).forEach(ex => {
+        allExercises.push({ ...ex, lessonId: id });
+      });
+    }
+
+    if (allExercises.length === 0) {
+      showResult(100, 0, 0);
+      return;
+    }
+
+    const questionCount = LESSON_ID === 1 ? 5
+                        : LESSON_ID === 2 ? 8
+                        : LESSON_ID === 3 ? 10
+                        : 15;
+
+    const shuffled = shuffleArray([...allExercises]);
+    testQuestions = shuffled.slice(0, Math.min(questionCount, shuffled.length));
+
+    testIdx = 0;
+    testAnswers = [];
+
+    document.getElementById('stageTest').style.display = 'block';
+    renderQuestion();
+  } catch (e) {
     showResult(100, 0, 0);
-    return;
   }
-
-  testQuestions = shuffleArray([...ex]).slice(0, Math.min(15, ex.length));
-  testIdx = 0;
-  testAnswers = [];
-  testStarted = true;
-
-  document.getElementById('stageTest').style.display = 'block';
-  renderQuestion();
 }
 
 function shuffleArray(arr) {
@@ -308,16 +497,16 @@ function renderQuestion() {
   const pct = (testIdx / testQuestions.length) * 100;
 
   document.getElementById('testProgressBar').style.width = pct + '%';
-  document.getElementById('testCounter').textContent =
-    `${testIdx + 1} / ${testQuestions.length}`;
+  document.getElementById('testCounter').textContent = `${testIdx + 1} / ${testQuestions.length}`;
 
   const options = shuffleArray([...q.options]);
   const box = document.getElementById('questionBox');
   box.innerHTML = `
     <div class="test-question">
+      <div class="test-source">Аз дарси ${q.lessonId || LESSON_ID}</div>
       <h3>${escapeHtml(q.q)}</h3>
       <div class="test-options">
-        ${options.map((opt, i) => `
+        ${options.map(opt => `
           <button class="test-option" data-opt="${escapeAttr(opt)}">
             ${escapeHtml(opt)}
           </button>
@@ -344,7 +533,6 @@ function answerQuestion(btn) {
   });
 
   testAnswers.push({ correct: isCorrect });
-
   if (tg) tg.HapticFeedback?.notificationOccurred(isCorrect ? 'success' : 'error');
 
   setTimeout(() => {
@@ -376,7 +564,7 @@ function showResult(percent, correct, total, passed = percent >= 70) {
     <div class="result-score">${percent}%</div>
     <p>${correct} аз ${total} дуруст</p>
     ${passed
-      ? `<p class="result-note">Дарси навбатӣ кушода шуд!</p>`
+      ? `<p class="result-note">Дарси ${LESSON_ID + 1} кушода шуд! 🎉</p>`
       : `<p class="result-note">Барои гузаштан 70% лозим аст</p>`}
     <div class="result-actions">
       ${passed
@@ -385,12 +573,10 @@ function showResult(percent, correct, total, passed = percent >= 70) {
             Ба дарси ${LESSON_ID + 1}
           </button>`
         : `<button class="btn-primary" onclick="retryTest()">
-            <svg class="icon icon-sm"><use href="#i-refresh"/></svg>
+            <svg class="icon"><use href="#i-refresh"/></svg>
             Такрор кардан
           </button>`}
-      <button class="btn-price" onclick="exitLesson()">
-        Ба асосӣ
-      </button>
+      <button class="btn-price" onclick="exitLesson()">Ба асосӣ</button>
     </div>
   `;
 
@@ -422,6 +608,171 @@ function exitLesson() {
 }
 
 // ============================================
+// PREMIUM ORDER
+// ============================================
+const PREMIUM_PLANS = {
+  '1day':   { label: '1 рӯз',   price: 4,    days: 1 },
+  '1week':  { label: '1 ҳафта', price: 25,   days: 7 },
+  '1month': { label: '1 моҳ',   price: 100,  days: 30 },
+  '1year':  { label: '1 сол',   price: 1199, days: 365 }
+};
+
+function openPremiumOrder(planKey) {
+  const plan = PREMIUM_PLANS[planKey];
+  if (!plan) return;
+
+  currentPlanKey = planKey;
+  document.getElementById('orderPlanLabel').textContent = plan.label;
+  document.getElementById('orderPlanPrice').textContent = plan.price + ' сомонӣ';
+  document.getElementById('cardNumberText').textContent = CARD_NUMBER;
+
+  // Reset
+  selectedPhotoBase64 = null;
+  document.getElementById('photoPreview').style.display = 'block';
+  document.getElementById('photoSelected').style.display = 'none';
+  document.getElementById('btnSendOrder').disabled = true;
+
+  document.getElementById('premiumOrderModal').classList.add('open');
+}
+
+function closePremiumOrder() {
+  document.getElementById('premiumOrderModal').classList.remove('open');
+}
+
+function copyCardNumber() {
+  navigator.clipboard.writeText(CARD_NUMBER).then(() => {
+    showToast('✅ Рақами корт нусхабардорӣ шуд');
+    if (tg) tg.HapticFeedback?.notificationOccurred('success');
+  }).catch(() => {
+    // Fallback
+    const input = document.createElement('input');
+    input.value = CARD_NUMBER;
+    document.body.appendChild(input);
+    input.select();
+    document.execCommand('copy');
+    input.remove();
+    showToast('✅ Рақами корт нусхабардорӣ шуд');
+  });
+}
+
+function handlePhotoSelect(event) {
+  const file = event.target.files[0];
+  if (!file) return;
+
+  // Санҷиш: танҳо 1 сурат
+  if (!file.type.startsWith('image/')) {
+    showToast('Танҳо сурат қабул мешавад');
+    return;
+  }
+
+  if (file.size > 5 * 1024 * 1024) {
+    showToast('Ҳаҷми сурат аз 5 МБ зиёд аст');
+    return;
+  }
+
+  // Хондан ва нишон додан
+  const reader = new FileReader();
+  reader.onload = (e) => {
+    selectedPhotoBase64 = e.target.result;
+    document.getElementById('photoImg').src = selectedPhotoBase64;
+    document.getElementById('photoPreview').style.display = 'none';
+    document.getElementById('photoSelected').style.display = 'block';
+    document.getElementById('btnSendOrder').disabled = false;
+  };
+  reader.readAsDataURL(file);
+}
+
+function removePhoto() {
+  selectedPhotoBase64 = null;
+  document.getElementById('paymentPhoto').value = '';
+  document.getElementById('photoPreview').style.display = 'block';
+  document.getElementById('photoSelected').style.display = 'none';
+  document.getElementById('btnSendOrder').disabled = true;
+}
+
+async function sendPremiumOrder() {
+  if (!selectedPhotoBase64) {
+    showToast('Скриншоти пардохтро интихоб кунед');
+    return;
+  }
+
+  const plan = PREMIUM_PLANS[currentPlanKey];
+  if (!plan) return;
+
+  const btn = document.getElementById('btnSendOrder');
+  btn.disabled = true;
+  btn.innerHTML = '<svg class="icon icon-sm"><use href="#i-refresh"/></svg> Фиристода мешавад...';
+
+  const order = {
+    userId: user.id,
+    userName: user.first_name || 'Корбар',
+    userUsername: user.username || null,
+    plan: currentPlanKey,
+    planLabel: plan.label,
+    planPrice: plan.price,
+    planDays: plan.days,
+    photo: selectedPhotoBase64,
+    status: 'pending',
+    createdAt: Date.now()
+  };
+
+  try {
+    // 1. Ба Firebase
+    if (db) {
+      const orderId = db.ref('premium_orders').push().key;
+      order.orderId = orderId;
+      await db.ref('premium_orders/' + orderId).set(order);
+    }
+
+    // 2. Telegram notification ба бот
+    sendToTelegramBot(order);
+
+    // 3. Ба корбар хабар
+    showToast('✅ Фармоиш фиристода шуд! Тасдиқро интизор шавед');
+    if (tg) {
+      tg.HapticFeedback?.notificationOccurred('success');
+      tg.showPopup({
+        title: '✅ Фармоиш фиристода шуд',
+        message: 'Админ баъд аз тасдиқ Premium-ро фаъол мекунад.',
+        buttons: [{ type: 'close' }]
+      });
+    }
+
+    closePremiumOrder();
+  } catch (e) {
+    console.error('Order error:', e);
+    showToast('Хато дар фиристодан');
+    btn.disabled = false;
+    btn.innerHTML = '<svg class="icon icon-sm"><use href="#i-send"/></svg> Фиристодан';
+  }
+}
+
+// ============================================
+// TELEGRAM BOT NOTIFICATION
+// ============================================
+function sendToTelegramBot(order) {
+  // Бо deep link ба боти админ
+  const text = encodeURIComponent(
+    `🆕 Фармоиши Premium\n\n` +
+    `👤 ${order.userName}\n` +
+    `🆔 ${order.userId}\n` +
+    `📦 ${order.planLabel}\n` +
+    `💰 ${order.planPrice} сомонӣ\n` +
+    `⏱ ${new Date(order.createdAt).toLocaleString('tg-TJ')}`
+  );
+
+  // Кушодани бот бо маълумот
+  const botUrl = `https://t.me/${ADMIN_BOT}?start=order_${order.orderId || Date.now()}`;
+
+  if (tg) {
+    // Хабар ба админ дар Telegram (тавассути share)
+    setTimeout(() => {
+      tg.openTelegramLink(`https://t.me/share/url?url=${botUrl}&text=${text}`);
+    }, 500);
+  }
+}
+
+// ============================================
 // HELPERS
 // ============================================
 function escapeHtml(s) {
@@ -431,9 +782,56 @@ function escapeHtml(s) {
 function escapeAttr(s) {
   return String(s).replace(/"/g, '&quot;').replace(/'/g, '&#39;');
 }
+function showToast(msg) {
+  const t = document.createElement('div');
+  t.className = 'toast';
+  t.textContent = msg;
+  document.body.appendChild(t);
+  setTimeout(() => {
+    t.style.opacity = '0';
+    setTimeout(() => t.remove(), 300);
+  }, 2200);
+}
 
+// ============================================
+// START
 // ============================================
 loadLesson();
 </script>
+
+<style>
+@keyframes bounceIn {
+  0% { transform: scale(0); }
+  50% { transform: scale(1.15); }
+  100% { transform: scale(1); }
+}
+
+.photo-preview {
+  width: 100%;
+  height: 160px;
+  border: 2px dashed var(--card-border);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  cursor: pointer;
+  transition: all 0.2s;
+  color: var(--text-2);
+  background: rgba(99, 102, 241, 0.03);
+}
+.photo-preview:active {
+  background: rgba(99, 102, 241, 0.1);
+  border-color: var(--primary);
+}
+.photo-preview p {
+  font-size: 13px;
+  font-weight: 600;
+}
+.photo-preview .icon {
+  color: var(--primary);
+}
+</style>
 </body>
 </html>
