@@ -2,11 +2,10 @@
 // FIREBASE — Рейтинги воқеӣ
 // ============================================================
 
-// Конфиги шумо
 const firebaseConfig = {
   apiKey: "AIzaSyADKhYDf1dc11VJHmFdT26irHHBUt_Lkrk",
   authDomain: "my-projekt-d246d.firebaseapp.com",
-  databaseURL: "https://my-projekt-d246d-default-rtdb.firebaseio.com", // ⚠️ Ин хаттро илова кунед!
+  databaseURL: "https://my-projekt-d246d-default-rtdb.firebaseio.com",
   projectId: "my-projekt-d246d",
   storageBucket: "my-projekt-d246d.firebasestorage.app",
   messagingSenderId: "149204965139",
@@ -38,7 +37,9 @@ let isFirebaseReady = false;
 
 function initFirebase() {
   try {
-    firebase.initializeApp(firebaseConfig);
+    if (!firebase.apps.length) {
+      firebase.initializeApp(firebaseConfig);
+    }
     db = firebase.database();
     isFirebaseReady = true;
     console.log('✅ Firebase омода');
@@ -49,7 +50,7 @@ function initFirebase() {
 }
 
 // ============================================================
-// САБТИ КОРБАР ДАР FIREBASE
+// САБТИ КОРБАР
 // ============================================================
 function saveUserToFirebase(userData) {
   if (!isFirebaseReady || !userData.id) return;
@@ -70,7 +71,7 @@ function saveUserToFirebase(userData) {
 }
 
 // ============================================================
-// ХОНДАНИ РЕЙТИНГ (100 корбари беҳтарин)
+// ХОНДАНИ РЕЙТИНГ
 // ============================================================
 function fetchRatingFromFirebase(callback, limit = 100) {
   if (!isFirebaseReady) {
@@ -97,7 +98,7 @@ function fetchRatingFromFirebase(callback, limit = 100) {
 }
 
 // ============================================================
-// РЕЙТИНГ ДАР ВАҚТИ ВОҚЕӢ (Real-time)
+// РЕЙТИНГ REAL-TIME
 // ============================================================
 let ratingListener = null;
 
@@ -123,16 +124,28 @@ function listenRatingRealtime(callback) {
     });
 }
 
+// ============================================================
+// ГИРИФТАНИ ЯК КОРБАР
+// ============================================================
+function fetchUserFromFirebase(userId, callback) {
+  if (!isFirebaseReady) {
+    callback(null);
+    return;
+  }
+
+  db.ref('users/' + userId).once('value').then(snapshot => {
+    callback(snapshot.val());
+  });
+}
 
 // ============================================================
-// 🎧 LISTEN MY PREMIUM — real-time аз Firebase
+// 🎧 PREMIUM SYNC — real-time аз Firebase
 // ============================================================
 let myPremiumListener = null;
 
 function listenMyPremiumFromFirebase(userId, callback) {
   if (!isFirebaseReady || !userId) return;
 
-  // Агар listener-и кӯҳна бошад — хомӯш кун
   if (myPremiumListener) {
     db.ref('users/' + userId).off('value', myPremiumListener);
   }
@@ -153,15 +166,24 @@ function listenMyPremiumFromFirebase(userId, callback) {
 }
 
 // ============================================================
-// ГИРИФТАНИ ЯК КОРБАР
+// 🔔 NOTIFICATIONS — real-time
 // ============================================================
-function fetchUserFromFirebase(userId, callback) {
-  if (!isFirebaseReady) {
-    callback(null);
-    return;
+let notifListener = null;
+
+function listenMyNotifications(userId, callback) {
+  if (!isFirebaseReady || !userId) return;
+
+  if (notifListener) {
+    db.ref('notifications/' + userId).off('child_added', notifListener);
   }
 
-  db.ref('users/' + userId).once('value').then(snapshot => {
-    callback(snapshot.val());
-  });
+  notifListener = db.ref('notifications/' + userId)
+    .orderByChild('createdAt')
+    .limitToLast(5)
+    .on('child_added', snap => {
+      const notif = snap.val();
+      if (!notif || notif.read) return;
+      notif.id = snap.key;
+      callback(notif);
+    });
 }
