@@ -123,6 +123,35 @@ function listenRatingRealtime(callback) {
     });
 }
 
+
+// ============================================================
+// 🎧 LISTEN MY PREMIUM — real-time аз Firebase
+// ============================================================
+let myPremiumListener = null;
+
+function listenMyPremiumFromFirebase(userId, callback) {
+  if (!isFirebaseReady || !userId) return;
+
+  // Агар listener-и кӯҳна бошад — хомӯш кун
+  if (myPremiumListener) {
+    db.ref('users/' + userId).off('value', myPremiumListener);
+  }
+
+  myPremiumListener = db.ref('users/' + userId).on('value', snap => {
+    const data = snap.val();
+    if (!data) return;
+
+    callback({
+      isPremium: !!data.isPremium,
+      premiumPlan: data.premiumPlan || null,
+      premiumStartedAt: data.premiumStartedAt || null,
+      premiumExpiresAt: data.premiumExpiresAt || null
+    });
+  }, err => {
+    console.error('Premium listener error:', err);
+  });
+}
+
 // ============================================================
 // ГИРИФТАНИ ЯК КОРБАР
 // ============================================================
