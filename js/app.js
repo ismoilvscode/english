@@ -1,208 +1,253 @@
-// ============================================
+// ============================================================
 // TELEGRAM
-// ============================================
+// ============================================================
 const tg = window.Telegram?.WebApp;
-if (tg) { tg.ready(); tg.expand(); tg.setHeaderColor('#0f172a'); tg.setBackgroundColor('#0f172a'); }
+if (tg) {
+  tg.ready();
+  tg.expand();
+  tg.setHeaderColor('#0f172a');
+  tg.setBackgroundColor('#0f172a');
+}
 
-const ADMIN_ID = 8406121228;  // ← ID-и админ
-const user = tg?.initDataUnsafe?.user || { id: 0, first_name: 'Корбар', username: 'user' };
-const IS_ADMIN = user.id === ADMIN_ID;
+const ADMIN_ID = 8406121228;
+const user = tg?.initDataUnsafe?.user || {
+  id: 0,
+  first_name: 'Корбар',
+  username: null
+};
+const IS_ADMIN = Number(user.id) === ADMIN_ID;
 
-// ============================================
-// LOCAL STORAGE HELPERS
-// ============================================
+// ============================================================
+// CONFIG — Танзимҳои шумо
+// ============================================================
+const CONFIG = {
+  CARD_NUMBER: '+992933217883',
+  ADMIN_BOT: 'learnchinenebot',
+  ADMIN_USERNAME: 'ismoilovcode',
+  IMGBB_API_KEY: '5eb0b758759864c6b422ff1d11b034b5'   // ← ImgBB API
+};
+
+// ============================================================
+// STORE
+// ============================================================
 const store = {
   get: (k, def) => { try { return JSON.parse(localStorage.getItem(k)) ?? def; } catch { return def; } },
   set: (k, v) => localStorage.setItem(k, JSON.stringify(v)),
   del: (k) => localStorage.removeItem(k)
 };
 
-// Омори корбар
 let progress = store.get('progress', {
-  completedLessons: [],        // [1, 2, 3]
-  testScores: {},              // { "1": 100, "2": 80 }
-  streak: 0,
-  lastVisit: null
+  completedLessons: [],
+  testScores: {},
+  streak: 0
 });
 
-// Premium
 let premium = store.get('premium', {
   active: false,
-  plan: null,                  // '1day' | '1week' | '1month' | '1year'
+  plan: null,
   startedAt: null,
-  expiresAt: null,
-  paymentStatus: 'none'        // 'none' | 'pending' | 'approved'
+  expiresAt: null
 });
 
-// ============================================
+let savedLessons = store.get('savedLessons', []);
+let settings = store.get('settings', { dark: true, sound: true });
+let allUsers = store.get('allUsers', {});
+
+// ============================================================
 // PREMIUM PLANS
-// ============================================
+// ============================================================
 const PREMIUM_PLANS = {
-  '1day':   { label: '1 рӯз',   price: 4,    days: 1,   badge: null,       desc: 'Барои санҷиши Premium' },
-  '1week':  { label: '1 ҳафта', price: 25,   days: 7,   badge: 'МАЪМУЛ',   desc: 'Барои омӯзиши ҳаррӯза' },
-  '1month': { label: '1 моҳ',   price: 100,  days: 30,  badge: 'БЕҲТАРИН', desc: 'Барои пешрафти ҷиддӣ' },
-  '1year':  { label: '1 сол',   price: 1199, days: 365, badge: 'VALUE',    desc: 'Барои омӯзиши дарозмуддат' }
+  '1day':   { label: '1 рӯз',   price: 4,    days: 1 },
+  '1week':  { label: '1 ҳафта', price: 25,   days: 7 },
+  '1month': { label: '1 моҳ',   price: 100,  days: 30 },
+  '1year':  { label: '1 сол',   price: 1199, days: 365 }
 };
 
-// ============================================
+// ============================================================
+// 🔓 ПРЕМИУМ — санҷиши фаъол
+// ============================================================
+function isPremiumActive() {
+  return premium.active && Date.now() < (premium.expiresAt || 0);
+}
+
+// ============================================================
+// 🧹 ТОЗА КАРДАНИ КОРБАРОНИ СОХТАГӢ
+// ============================================================
+function cleanupFakeUsers() {
+  const users = store.get('allUsers', {});
+  const cleaned = {};
+  let removed = 0;
+
+  for (const [id, u] of Object.entries(users)) {
+    if (Number(id) < 100000000) cleaned[id] = u;
+    else removed++;
+  }
+
+  store.set('allUsers', cleaned);
+  allUsers = cleaned;
+  if (removed > 0) console.log(`🧹 ${removed} корбари сохтагӣ нест шуд`);
+}
+
+// ============================================================
+// 🔓 UNLOCK — Дарсҳо пайдарпай
+// ============================================================
+function isLessonUnlocked(id) {
+  if (id === 1) return true;
+  return progress.completedLessons.includes(id - 1);
+}
+
+// ============================================================
+// ҲИСОБКУНӢ
+// ============================================================
+function calculateAvgScore() {
+  const scores = Object.values(progress.testScores || {});
+  if (scores.length === 0) return 0;
+  return Math.round(scores.reduce((a, b) => a + b, 0) / scores.length);
+}
+
+function calculateTotalScore() {
+  return progress.completedLessons.length * 10 + calculateAvgScore();
+}
+
+// ============================================================
+// SYNC КОРБАР БА FIREBASE
+// ============================================================
+function syncMyUser() {
+  if (!user.id) return;
+
+  const myData = {
+    id: user.id,
+    name: user.first_name || 'Корбар',
+    username: user.username || null,
+    photo: user.photo_url || null,
+    lessonsCount: progress.completedLessons.length,
+    avgScore: calculateAvgScore(),
+    totalScore: calculateTotalScore(),
+    isPremium: isPremiumActive(),
+    isAdmin: IS_ADMIN
+  };
+
+  if (typeof saveUserToFirebase === 'function') {
+    saveUserToFirebase(myData);
+  }
+
+  allUsers[user.id] = { ...myData, lastActive: Date.now() };
+  store.set('allUsers', allUsers);
+}
+
+// ============================================================
 // SPLASH + INIT
-// ============================================
+// ============================================================
 window.addEventListener('load', () => {
   setTimeout(() => {
-    document.getElementById('splash').classList.add('hide');
-    document.getElementById('app').classList.remove('hidden');
+    document.getElementById('splash')?.classList.add('hide');
+    document.getElementById('app')?.classList.remove('hidden');
     initApp();
   }, 1500);
 });
 
 async function initApp() {
-  // Ном
-  const name = user.first_name || 'Корбар';
-  document.getElementById('userName').textContent = name;
-  document.getElementById('profileName').textContent = name;
+  cleanupFakeUsers();
 
-  // Admin panel
   if (IS_ADMIN) {
     document.querySelectorAll('.admin-only').forEach(el => el.style.display = 'flex');
   }
 
-  // Premium expiry check
-  checkPremiumExpiry();
+  const name = user.first_name || 'Корбар';
+  document.getElementById('userName').textContent = name;
+  document.getElementById('profileName').textContent = name;
 
-  // Load lessons metadata
+  renderAvatar();
+  syncMyUser();
+
   await loadManifest();
-
-  // Рендер
   renderAll();
-  startPremiumTimer();
 
-  // Nav
   document.querySelectorAll('.nav-btn').forEach(btn => {
     btn.addEventListener('click', () => navigateTo(btn.dataset.target));
   });
 
-  document.querySelectorAll('.filter-btn').forEach(btn => {
+  document.querySelectorAll('.filters .filter-btn').forEach(btn => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('.filters .filter-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       renderLessons(btn.dataset.filter);
     });
   });
 
+  document.querySelectorAll('.rating-filters .filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.rating-filters .filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      renderRating(btn.dataset.rating);
+    });
+  });
+
   document.getElementById('themeToggle')?.addEventListener('click', toggleTheme);
+  initSettings();
 
   if (tg) tg.HapticFeedback?.impactOccurred('light');
 }
 
-// ============================================
+// ============================================================
 // MANIFEST
-// ============================================
+// ============================================================
 let LESSONS = [];
 
 async function loadManifest() {
   try {
     const r = await fetch('data/manifest.json');
     const data = await r.json();
-    LESSONS = data.lessons;
+    LESSONS = data.lessons || [];
   } catch (e) {
-    console.error('Manifest load error:', e);
+    console.error('Manifest error:', e);
     LESSONS = [];
   }
 }
 
-// ============================================
-// PREMIUM EXPIRY
-// ============================================
-function checkPremiumExpiry() {
-  if (!premium.active) return;
-  if (Date.now() >= premium.expiresAt) {
-    premium.active = false;
-    premium.paymentStatus = 'none';
-    store.set('premium', premium);
-    showToast('Муҳлати Premium тамом шуд');
-  }
-}
-
-function isPremiumActive() {
-  return premium.active && Date.now() < premium.expiresAt;
-}
-
-// ============================================
-// LESSON UNLOCK LOGIC
-// ============================================
-function isLessonUnlocked(id) {
-  // Дарси 1 ҳамеша кушода
-  if (id === 1) return true;
-  // Агар пешинааш анҷом шуда бошад
-  return progress.completedLessons.includes(id - 1);
-}
-
-function isLessonCompleted(id) {
-  return progress.completedLessons.includes(id);
-}
-
-function getLessonStatus(id) {
-  if (isLessonCompleted(id)) return 'done';
-  if (isLessonUnlocked(id)) return 'open';
-  return 'locked';
-}
-
-function completeLesson(id, score) {
-  if (!progress.completedLessons.includes(id)) {
-    progress.completedLessons.push(id);
-    progress.completedLessons.sort((a, b) => a - b);
-  }
-  progress.testScores[id] = Math.max(progress.testScores[id] || 0, score);
-  store.set('progress', progress);
-
-  if (tg) tg.HapticFeedback?.notificationOccurred('success');
-  renderAll();
-
-  // Огоҳии кушодашавии дарси навбатӣ
-  const next = id + 1;
-  if (next <= 48) {
-    setTimeout(() => showToast(`🎉 Дарси ${next} кушода шуд!`), 500);
-  }
-}
-
-// ============================================
+// ============================================================
 // RENDER
-// ============================================
+// ============================================================
 function renderAll() {
   updateStats();
   renderContinueLessons();
-  renderLessons(document.querySelector('.filter-btn.active')?.dataset.filter || 'all');
+  renderLessons('all');
   renderProfile();
-  updatePremiumUI();
+  renderAvatar();
+  updateTestLockUI();
 }
 
 function updateStats() {
   const done = progress.completedLessons.length;
-  document.getElementById('statLessons').textContent = LESSONS.length;
-  document.getElementById('statDone').textContent = done;
-  document.getElementById('statStreak').textContent = progress.streak;
-  document.getElementById('pStatLessons').textContent = done;
-  document.getElementById('pStatWords').textContent = progress.completedLessons.reduce((s, id) => {
+  const el = (id) => document.getElementById(id);
+
+  if (el('statLessons')) el('statLessons').textContent = LESSONS.length;
+  if (el('statDone')) el('statDone').textContent = done;
+  if (el('statStreak')) el('statStreak').textContent = progress.streak || 0;
+  if (el('pStatLessons')) el('pStatLessons').textContent = done;
+  if (el('pStatWords')) el('pStatWords').textContent = progress.completedLessons.reduce((s, id) => {
     const l = LESSONS.find(x => x.id === id);
     return s + (l?.wordsCount || 0);
   }, 0);
-  document.getElementById('pStatDays').textContent = progress.streak;
+  if (el('pStatDays')) el('pStatDays').textContent = progress.streak || 0;
 }
 
 function renderContinueLessons() {
   const container = document.getElementById('continueLessons');
-  // Дарси навбатии кушода, ки ҳанӯз анҷом нашуда
-  const next = LESSONS.find(l => isLessonUnlocked(l.id) && !isLessonCompleted(l.id));
+  if (!container) return;
+
+  const next = LESSONS.find(l =>
+    isLessonUnlocked(l.id) && !progress.completedLessons.includes(l.id)
+  );
 
   if (!next) {
-    container.innerHTML = `
-      <div class="lesson-card">
-        <div class="lesson-icon">${icon('i-award')}</div>
-        <div class="lesson-info">
-          <h4>Ҳамаи дарсҳо анҷом!</h4>
-          <p>Шумо тамоми курсро гузаштед 🎉</p>
-        </div>
-      </div>`;
+    container.innerHTML = `<div class="lesson-card">
+      <div class="lesson-icon"><svg class="icon"><use href="#i-award"/></svg></div>
+      <div class="lesson-info">
+        <h4>Ҳамаи дарсҳо анҷом!</h4>
+        <p>Шумо тамоми курсро гузаштед</p>
+      </div>
+    </div>`;
     return;
   }
   container.innerHTML = lessonCardHTML(next);
@@ -211,40 +256,63 @@ function renderContinueLessons() {
 
 function renderLessons(filter = 'all') {
   const grid = document.getElementById('lessonsGrid');
-  const list = filter === 'all' ? LESSONS : LESSONS.filter(l => {
-    if (filter === 'beginner') return l.level.includes('Ибтидоӣ');
-    if (filter === 'intermediate') return l.level.includes('Миёна');
-    if (filter === 'advanced') return l.level.includes('Пешрафта');
-    return true;
-  });
+  if (!grid) return;
+
+  let list = LESSONS;
+  if (filter !== 'all') {
+    const levelMap = {
+      beginner: 'Ибтидоӣ',
+      intermediate: 'Миёна',
+      advanced: 'Пешрафта',
+      street: 'Street English'
+    };
+    list = LESSONS.filter(l => l.level === levelMap[filter]);
+  }
+
   grid.innerHTML = list.map(l => lessonCardHTML(l, true)).join('');
   bindLessonClicks();
 }
 
 function lessonCardHTML(l, showLevel = false) {
-  const status = getLessonStatus(l.id);
-  const isLocked = status === 'locked';
-  const isDone = status === 'done';
-  const needPremium = !l.free && !isPremiumActive();
+  const isDone = progress.completedLessons.includes(l.id);
   const score = progress.testScores[l.id];
+  const isPremiumLocked = !l.free && !isPremiumActive();
+  const isLocked = !isLessonUnlocked(l.id);
 
+  let statusClass = '';
+  let lockIcon = '';
   let iconName = 'i-book';
-  if (isDone) iconName = 'i-check-circle';
-  else if (isLocked) iconName = 'i-lock';
+
+  if (isLocked) {
+    statusClass = 'locked';
+    iconName = 'i-lock';
+    lockIcon = `<div class="lock-icon" title="Аввал дарси ${l.id - 1}-ро гузаред"><svg class="icon"><use href="#i-lock"/></svg></div>`;
+  } else if (isPremiumLocked) {
+    statusClass = 'locked';
+    iconName = 'i-lock';
+    lockIcon = `<div class="lock-icon" title="Premium лозим аст"><svg class="icon"><use href="#i-lock"/></svg></div>`;
+  } else if (isDone) {
+    iconName = 'i-check-circle';
+  }
 
   return `
-    <div class="lesson-card ${isLocked ? 'locked' : ''} ${isDone ? 'done' : ''}" data-id="${l.id}" data-status="${status}">
-      <div class="lesson-icon">${icon(iconName)}</div>
-      <div class="lesson-info">
-        <h4>${l.title}${needPremium ? ' <span class="badge-mini">👑</span>' : ''}</h4>
-        <p>${l.level}</p>
-        <div class="lesson-meta">
-          <span>${icon('i-file-text', 'icon-xs')} ${l.wordsCount} калима</span>
-          ${isDone && score ? `<span class="score-tag">${icon('i-award', 'icon-xs')} ${score}%</span>` : ''}
-        </div>
-        ${isDone ? `<div class="lesson-progress"><div class="lesson-progress-bar" style="width:100%"></div></div>` : ''}
+    <div class="lesson-card ${statusClass} ${isDone ? 'done' : ''}" data-id="${l.id}">
+      <div class="lesson-icon">
+        <svg class="icon"><use href="#${iconName}"/></svg>
       </div>
-      ${isLocked ? `<div class="lock-icon">${icon('i-lock')}</div>` : ''}
+      <div class="lesson-info">
+        <h4>
+          ${escapeHtml(l.title)}
+          ${isPremiumLocked && !isLocked ? ' <span class="badge-mini">👑</span>' : ''}
+        </h4>
+        <p>${escapeHtml(l.level)}</p>
+        <div class="lesson-meta">
+          <span><svg class="icon icon-xs"><use href="#i-file-text"/></svg> ${l.wordsCount} калима</span>
+          ${isDone && score ? `<span class="score-tag"><svg class="icon icon-xs"><use href="#i-award"/></svg> ${score}%</span>` : ''}
+          ${isLocked ? `<span style="color:#ef4444">🔒 Аввал дарси ${l.id - 1}</span>` : ''}
+        </div>
+      </div>
+      ${lockIcon}
     </div>`;
 }
 
@@ -255,219 +323,840 @@ function bindLessonClicks() {
       const lesson = LESSONS.find(l => l.id === id);
       if (!lesson) return;
 
-      if (isLessonCompleted(id)) {
-        showToast('Шумо ин дарсро гузаштед ✓');
-        // Метавонед аз нав кушоед
-        openLesson(id);
-        return;
-      }
       if (!isLessonUnlocked(id)) {
-        showToast(`Аввал дарси ${id - 1}-ро анҷом диҳед`);
+        showToast(`🔒 Аввал дарси ${id - 1}-ро гузаред`);
         if (tg) tg.HapticFeedback?.notificationOccurred('error');
         return;
       }
+
       if (!lesson.free && !isPremiumActive()) {
         showToast('👑 Ин дарс барои Premium аст');
         navigateTo('premium');
         return;
       }
-      openLesson(id);
+
+      window.location.href = `lesson.html?id=${id}`;
     });
   });
 }
 
-function openLesson(id) {
-  if (tg) tg.HapticFeedback?.impactOccurred('medium');
-  // Кушодан дар ҳамон WebApp
-  window.location.href = `lesson.html?id=${id}`;
-}
-
-// ============================================
+// ============================================================
 // NAVIGATION
-// ============================================
+// ============================================================
 function navigateTo(pageName) {
   document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
   document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+
   document.querySelector(`[data-page="${pageName}"]`)?.classList.add('active');
   document.querySelector(`.nav-btn[data-target="${pageName}"]`)?.classList.add('active');
-  document.getElementById('mainContent').scrollTop = 0;
+
+  const main = document.getElementById('mainContent');
+  if (main) main.scrollTop = 0;
+
+  if (pageName === 'rating') renderRating('all');
+  if (pageName === 'stats') renderStatistics();
+  if (pageName === 'saved') renderSavedLessons();
+  if (pageName === 'admin') renderAdmin();
+  if (pageName === 'profile') updateTestLockUI();
+
   if (tg) tg.HapticFeedback?.selectionChanged();
 }
 
-// ============================================
-// PROFILE + PREMIUM TIMER
-// ============================================
-let premiumTimerInterval = null;
-
+// ============================================================
+// PROFILE
+// ============================================================
 function renderProfile() {
   const badge = document.querySelector('.profile-badge');
-  if (isPremiumActive()) {
-    badge.textContent = '👑 Premium';
-    badge.style.background = 'linear-gradient(135deg, #fbbf24, #f59e0b)';
-    badge.style.color = '#1e1b4b';
-  } else {
-    badge.textContent = 'Free версия';
-    badge.style.background = '';
-    badge.style.color = '';
-  }
-}
-
-function updatePremiumUI() {
-  const banner = document.querySelector('.premium-banner');
-  if (isPremiumActive() && banner) {
-    banner.style.display = 'none';
-  } else if (banner) {
-    banner.style.display = '';
-  }
-
-  // Timer card
-  let timerCard = document.getElementById('premiumTimerCard');
-  if (isPremiumActive()) {
-    if (!timerCard) {
-      timerCard = document.createElement('div');
-      timerCard.id = 'premiumTimerCard';
-      timerCard.className = 'premium-timer-card';
-      const profileCard = document.querySelector('.profile-card');
-      profileCard.parentNode.insertBefore(timerCard, profileCard.nextSibling);
+  if (badge) {
+    if (isPremiumActive()) {
+      badge.textContent = '👑 Premium';
+      badge.style.background = 'linear-gradient(135deg, #fbbf24, #f59e0b)';
+      badge.style.color = '#1e1b4b';
+    } else {
+      badge.textContent = 'Free версия';
+      badge.style.background = '';
+      badge.style.color = '';
     }
-    renderPremiumTimer();
-  } else if (timerCard) {
-    timerCard.remove();
   }
+  syncMyUser();
+  updateTestLockUI();
 }
 
-function startPremiumTimer() {
-  if (premiumTimerInterval) clearInterval(premiumTimerInterval);
-  if (!isPremiumActive()) return;
-  premiumTimerInterval = setInterval(() => {
-    if (!isPremiumActive()) {
-      clearInterval(premiumTimerInterval);
-      checkPremiumExpiry();
-      updatePremiumUI();
-      renderProfile();
-      return;
+// ============================================================
+// AVATAR
+// ============================================================
+function getUserInitial() {
+  const name = user.first_name || user.username || 'U';
+  return name.trim().charAt(0).toUpperCase();
+}
+
+function renderAvatar() {
+  const photo = user.photo_url;
+  const initial = getUserInitial();
+
+  ['headerAvatar', 'profileAvatar'].forEach(id => {
+    const el = document.getElementById(id);
+    if (!el) return;
+
+    el.dataset.initial = initial;
+
+    if (photo) {
+      el.innerHTML = `<img src="${photo}" alt="${escapeHtml(user.first_name || 'U')}" onerror="avatarFallback(this, '${initial}')">`;
+      el.classList.add('has-photo');
+    } else {
+      el.innerHTML = `<span class="avatar-letter">${initial}</span>`;
+      el.classList.remove('has-photo');
     }
-    renderPremiumTimer();
-  }, 1000);
-}
-
-function renderPremiumTimer() {
-  const el = document.getElementById('premiumTimerCard');
-  if (!el) return;
-
-  const remain = premium.expiresAt - Date.now();
-  if (remain <= 0) return;
-
-  const days = Math.floor(remain / 86400000);
-  const hours = Math.floor((remain % 86400000) / 3600000);
-  const mins = Math.floor((remain % 3600000) / 60000);
-  const secs = Math.floor((remain % 60000) / 1000);
-
-  const plan = PREMIUM_PLANS[premium.plan];
-  const expiresDate = new Date(premium.expiresAt).toLocaleString('tg-TJ', {
-    day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit'
   });
+}
 
-  el.innerHTML = `
-    <div class="timer-header">
-      <span class="crown-sm">${icon('i-crown')}</span>
-      <div>
-        <div class="timer-title">Premium фаъол</div>
-        <div class="timer-plan">${plan?.label || ''}</div>
+function avatarFallback(img, initial) {
+  const parent = img.parentElement;
+  if (!parent) return;
+  parent.classList.remove('has-photo');
+  parent.innerHTML = `<span class="avatar-letter">${initial}</span>`;
+}
+
+// ============================================================
+// TEST PAGE — Танҳо барои Premium
+// ============================================================
+function openTestPage() {
+  if (!isPremiumActive()) {
+    showToast('👑 Тестҳо танҳо барои Premium дастрасанд');
+    if (tg) tg.HapticFeedback?.notificationOccurred('error');
+    setTimeout(() => navigateTo('premium'), 700);
+    return;
+  }
+
+  if (tg) tg.HapticFeedback?.impactOccurred('medium');
+  window.location.href = 'test.html';
+}
+
+function updateTestLockUI() {
+  const active = isPremiumActive();
+
+  const qaIcon = document.getElementById('qaTestIcon');
+  const qaLabel = document.getElementById('qaTestLabel');
+
+  if (qaLabel) qaLabel.textContent = active ? 'Тестҳо' : 'Тестҳо 🔒';
+  if (qaIcon) qaIcon.style.setProperty('--c', active ? '#f59e0b' : '#64748b');
+
+  const badge = document.getElementById('testPremiumBadge');
+  if (badge) {
+    badge.textContent = active ? '' : '👑';
+    badge.style.fontSize = '12px';
+  }
+}
+
+// ============================================================
+// RATING
+// ============================================================
+function renderRating(filter = 'all') {
+  syncMyUser();
+
+  const podium = document.getElementById('podium');
+  const container = document.getElementById('ratingList');
+  const myCard = document.getElementById('myRankCard');
+
+  if (container) {
+    container.innerHTML = `
+      <div style="text-align:center;padding:40px;color:var(--text-2);font-size:13px;">
+        <div class="loader" style="margin:0 auto 16px;"></div>
+        Рейтинг бор мешавад...
+      </div>`;
+  }
+  if (podium) podium.innerHTML = '';
+  if (myCard) myCard.innerHTML = '';
+
+  if (typeof listenRatingRealtime === 'function') {
+    listenRatingRealtime(users => {
+      users = users.filter(u => Number(u.id) < 100000000);
+
+      let filtered = users;
+      if (filter === 'week') {
+        const weekAgo = Date.now() - 7 * 86400000;
+        filtered = users.filter(u => u.lastActive > weekAgo);
+      } else if (filter === 'month') {
+        const monthAgo = Date.now() - 30 * 86400000;
+        filtered = users.filter(u => u.lastActive > monthAgo);
+      }
+
+      renderRatingUI(filtered);
+    });
+  } else {
+    const list = getLocalRatingList(filter, 100);
+    renderRatingUI(list);
+  }
+}
+
+function getLocalRatingList(filter = 'all', limit = 100) {
+  let users = Object.values(allUsers).filter(u => Number(u.id) < 100000000);
+
+  if (filter === 'week') {
+    const weekAgo = Date.now() - 7 * 86400000;
+    users = users.filter(u => u.lastActive > weekAgo);
+  } else if (filter === 'month') {
+    const monthAgo = Date.now() - 30 * 86400000;
+    users = users.filter(u => u.lastActive > monthAgo);
+  }
+
+  users.sort((a, b) => (b.totalScore || 0) - (a.totalScore || 0));
+  return users.slice(0, limit);
+}
+
+function renderRatingUI(users) {
+  const podium = document.getElementById('podium');
+  const container = document.getElementById('ratingList');
+  const myCard = document.getElementById('myRankCard');
+
+  if (!users || users.length === 0) {
+    if (podium) podium.innerHTML = '';
+    if (container) {
+      container.innerHTML = `
+        <div class="empty-state">
+          <div class="empty-icon"><svg class="icon icon-2xl"><use href="#i-users"/></svg></div>
+          <h3>Ҳоло касе нест</h3>
+          <p>Аввалин шуда рейтингро сар кунед!</p>
+        </div>`;
+    }
+    if (myCard) myCard.innerHTML = '';
+    return;
+  }
+
+  if (podium && users.length >= 3) {
+    const [first, second, third] = users;
+    podium.innerHTML = `
+      <div class="podium-item podium-2" onclick="showUserInfo(${second.id})">
+        ${podiumAvatar(second, '2')}
+        <div class="podium-name">${escapeHtml(second.name)}</div>
+        <div class="podium-score">${second.totalScore || 0}</div>
       </div>
+      <div class="podium-item podium-1" onclick="showUserInfo(${first.id})">
+        <div class="podium-crown"><svg class="icon"><use href="#i-crown"/></svg></div>
+        ${podiumAvatar(first, '1')}
+        <div class="podium-name">${escapeHtml(first.name)}</div>
+        <div class="podium-score">${first.totalScore || 0}</div>
+      </div>
+      <div class="podium-item podium-3" onclick="showUserInfo(${third.id})">
+        ${podiumAvatar(third, '3')}
+        <div class="podium-name">${escapeHtml(third.name)}</div>
+        <div class="podium-score">${third.totalScore || 0}</div>
+      </div>
+    `;
+  } else if (podium) {
+    podium.innerHTML = '';
+  }
+
+  const myRank = users.findIndex(u => Number(u.id) === Number(user.id)) + 1;
+  if (myCard) {
+    if (myRank > 0) {
+      myCard.innerHTML = `
+        <div class="my-rank-card">
+          <div class="my-rank-icon"><svg class="icon"><use href="#i-star"/></svg></div>
+          <div class="my-rank-info">
+            <div class="my-rank-title">Ҷои шумо</div>
+            <div class="my-rank-value">#${myRank} аз ${users.length}</div>
+          </div>
+          <div class="my-rank-score">${calculateTotalScore()}</div>
+        </div>`;
+    } else {
+      myCard.innerHTML = `
+        <div class="my-rank-card empty">
+          <div class="my-rank-info">
+            <div class="my-rank-title">Шумо ҳоло дар рейтинг нестед</div>
+            <div class="my-rank-value">Дарс хонед ва ба рейтинг бароед!</div>
+          </div>
+        </div>`;
+    }
+  }
+
+  if (!container) return;
+  const startIdx = users.length >= 3 ? 3 : 0;
+  const rest = users.slice(startIdx);
+
+  if (rest.length === 0) {
+    container.innerHTML = '';
+    return;
+  }
+
+  container.innerHTML = rest.map((u, idx) => {
+    const rank = startIdx + idx + 1;
+    const isMe = Number(u.id) === Number(user.id);
+    return `
+      <div class="rating-row ${isMe ? 'is-me' : ''}" onclick="showUserInfo(${u.id})">
+        <div class="rating-rank">#${rank}</div>
+        ${listAvatar(u)}
+        <div class="rating-info">
+          <div class="rating-name">
+            ${escapeHtml(u.name)}
+            ${u.isPremium ? '<span title="Premium">👑</span>' : ''}
+            ${u.isAdmin ? '<span title="Admin">🛡</span>' : ''}
+            ${isMe ? '<span class="you-tag">Шумо</span>' : ''}
+          </div>
+          <div class="rating-stats">${u.lessonsCount || 0} дарс · ${u.avgScore || 0}%</div>
+        </div>
+        <div class="rating-score">${u.totalScore || 0}</div>
+      </div>
+    `;
+  }).join('');
+}
+
+function podiumAvatar(u, rank) {
+  const initial = getInitial(u.name);
+  return `
+    <div class="podium-avatar" data-initial="${initial}">
+      ${u.photo
+        ? `<img src="${u.photo}" alt="${escapeHtml(u.name)}" onerror="this.parentElement.innerHTML='<span class=\\'avatar-letter\\'>${initial}</span>'">`
+        : `<span class="avatar-letter">${initial}</span>`}
     </div>
-    <div class="timer-countdown">
-      <div class="timer-block"><span>${days}</span><small>рӯз</small></div>
-      <div class="timer-block"><span>${String(hours).padStart(2, '0')}</span><small>соат</small></div>
-      <div class="timer-block"><span>${String(mins).padStart(2, '0')}</span><small>дақ</small></div>
-      <div class="timer-block"><span>${String(secs).padStart(2, '0')}</span><small>сон</small></div>
-    </div>
-    <div class="timer-expires">Анҷом: ${expiresDate}</div>
+    <div class="podium-rank">${rank}</div>
   `;
 }
 
-// ============================================
-// PREMIUM PURCHASE
-// ============================================
-function selectPlan(planKey) {
-  const plan = PREMIUM_PLANS[planKey];
-  if (!plan) return;
-
-  if (tg) tg.HapticFeedback?.impactOccurred('medium');
-
-  const modal = document.getElementById('paymentModal');
-  modal.classList.add('open');
-  modal.dataset.plan = planKey;
-
-  document.getElementById('payPlanLabel').textContent = plan.label;
-  document.getElementById('payPlanPrice').textContent = plan.price + ' сомонӣ';
-
-  // Payload барои админ
-  const payload = `premium_${planKey}_${user.id}`;
-  document.getElementById('payComment').textContent = payload;
+function listAvatar(u) {
+  const initial = getInitial(u.name);
+  return `
+    <div class="rating-avatar" data-initial="${initial}">
+      ${u.photo
+        ? `<img src="${u.photo}" alt="${escapeHtml(u.name)}" onerror="this.parentElement.innerHTML='<span class=\\'avatar-letter\\'>${initial}</span>'">`
+        : `<span class="avatar-letter">${initial}</span>`}
+    </div>
+  `;
 }
 
-function closePaymentModal() {
-  document.getElementById('paymentModal').classList.remove('open');
+function getInitial(name) {
+  return (name || 'U').trim().charAt(0).toUpperCase();
 }
 
-function confirmPayment() {
-  const planKey = document.getElementById('paymentModal').dataset.plan;
-  const plan = PREMIUM_PLANS[planKey];
+function showUserInfo(userId) {
+  if (typeof fetchUserFromFirebase === 'function') {
+    fetchUserFromFirebase(userId, u => {
+      if (!u) {
+        const local = allUsers[userId];
+        if (local) showUserPopup(local);
+        return;
+      }
+      showUserPopup(u);
+    });
+  } else {
+    const u = allUsers[userId];
+    if (u) showUserPopup(u);
+  }
+}
 
-  premium.paymentStatus = 'pending';
-  premium.plan = planKey;
-  store.set('premium', premium);
-
-  // Ба админ хабар
+function showUserPopup(u) {
+  const msg = `👤 ${u.name}\n📚 ${u.lessonsCount || 0} дарс\n🎯 ${u.avgScore || 0}% миёна\n⭐ ${u.totalScore || 0} хол`;
   if (tg) {
-    const msg = `🆕 Дархости Premium\n\n` +
-                `👤 ${user.first_name} (@${user.username || '—'})\n` +
-                `🆔 ${user.id}\n` +
-                `📦 Нақша: ${plan.label}\n` +
-                `💰 Нарх: ${plan.price} сомонӣ`;
-    // Бо бот фиристодан мумкин (танҳо агар backend дошта бошед)
+    tg.showPopup({
+      title: 'Профили корбар',
+      message: msg,
+      buttons: [{ type: 'close' }]
+    });
+  } else {
+    alert(msg);
+  }
+}
+
+// ============================================================
+// STATISTICS
+// ============================================================
+function renderStatistics() {
+  const total = LESSONS.length;
+  const done = progress.completedLessons.length;
+  const percent = total > 0 ? Math.round((done / total) * 100) : 0;
+
+  const set = (id, v) => { const el = document.getElementById(id); if (el) el.textContent = v; };
+  set('ovTotalLessons', total);
+  set('ovDone', done);
+  set('ovPercent', percent + '%');
+  set('progressBadge', `${done} / ${total}`);
+  const pb = document.getElementById('bigProgressBar');
+  if (pb) pb.style.width = percent + '%';
+
+  const levels = {
+    'Ибтидоӣ': { color: '#6366f1', total: 0, done: 0 },
+    'Миёна': { color: '#f59e0b', total: 0, done: 0 },
+    'Пешрафта': { color: '#10b981', total: 0, done: 0 },
+    'Street English': { color: '#ec4899', total: 0, done: 0 }
+  };
+
+  LESSONS.forEach(l => {
+    if (levels[l.level]) {
+      levels[l.level].total++;
+      if (progress.completedLessons.includes(l.id)) levels[l.level].done++;
+    }
+  });
+
+  const levelBox = document.getElementById('levelStats');
+  if (levelBox) {
+    levelBox.innerHTML = Object.entries(levels)
+      .filter(([_, v]) => v.total > 0)
+      .map(([name, v]) => {
+        const pct = v.total > 0 ? Math.round((v.done / v.total) * 100) : 0;
+        return `
+          <div class="level-row">
+            <div class="level-head">
+              <span>${name}</span>
+              <span>${v.done} / ${v.total}</span>
+            </div>
+            <div class="level-bar">
+              <div class="level-bar-fill" style="width: ${pct}%; background: ${v.color}"></div>
+            </div>
+          </div>`;
+      }).join('');
   }
 
-  closePaymentModal();
-  showToast('✅ Дархост фиристода шуд! Тасдиқро интизор шавед.');
+  const scores = progress.testScores || {};
+  const scoreIds = Object.keys(scores).map(Number).sort((a, b) => a - b).slice(-20);
+  const chart = document.getElementById('scoreChart');
+  if (chart) {
+    if (scoreIds.length === 0) {
+      chart.innerHTML = `<div style="width:100%;text-align:center;color:var(--text-2);font-size:13px;align-self:center;">
+        Ҳоло тест супорида нашудааст
+      </div>`;
+    } else {
+      chart.innerHTML = scoreIds.map(id => {
+        const s = scores[id] || 0;
+        const h = Math.max(6, (s / 100) * 100);
+        const cls = s < 70 ? 'bad' : '';
+        return `<div class="score-bar ${cls}" style="height: ${h}%" title="Дарси ${id}: ${s}%"></div>`;
+      }).join('');
+    }
+  }
 }
 
-// Админ тасдиқ мекунад
-function approvePremium(userId, planKey, customDays) {
-  // Дар demo мо танҳо ба худи админ медиҳем
-  const plan = PREMIUM_PLANS[planKey];
-  if (!plan) return;
-  const days = customDays || plan.days;
+// ============================================================
+// SAVED LESSONS
+// ============================================================
+function renderSavedLessons() {
+  const container = document.getElementById('savedLessons');
+  if (!container) return;
 
-  premium.active = true;
-  premium.plan = planKey;
-  premium.startedAt = Date.now();
-  premium.expiresAt = Date.now() + days * 86400000;
-  premium.paymentStatus = 'approved';
-  store.set('premium', premium);
-
-  checkPremiumExpiry();
-  updatePremiumUI();
-  renderProfile();
-  renderAll();
-  startPremiumTimer();
-  showToast(`👑 Premium фаъол шуд: ${days} рӯз`);
+  if (savedLessons.length === 0) {
+    container.innerHTML = `<div class="empty-state">
+      <div class="empty-icon"><svg class="icon icon-2xl"><use href="#i-bookmark"/></svg></div>
+      <h3>Ҳоло дарс нигоҳ дошта нашудааст</h3>
+      <p>Барои нигоҳ доштан дарсҳоро кушоед</p>
+    </div>`;
+    return;
+  }
+  const saved = LESSONS.filter(l => savedLessons.includes(l.id));
+  container.innerHTML = saved.map(l => lessonCardHTML(l)).join('');
+  bindLessonClicks();
 }
 
-// ============================================
+// ============================================================
+// SETTINGS
+// ============================================================
+function initSettings() {
+  const darkSwitch = document.getElementById('settingDark');
+  const soundSwitch = document.getElementById('settingSound');
+
+  if (darkSwitch) {
+    darkSwitch.checked = settings.dark;
+    darkSwitch.onchange = (e) => {
+      settings.dark = e.target.checked;
+      store.set('settings', settings);
+      document.body.classList.toggle('light', !settings.dark);
+      const icon = document.querySelector('#themeIcon use');
+      if (icon) icon.setAttribute('href', settings.dark ? '#i-moon' : '#i-sun');
+    };
+  }
+
+  if (soundSwitch) {
+    soundSwitch.checked = settings.sound;
+    soundSwitch.onchange = (e) => {
+      settings.sound = e.target.checked;
+      store.set('settings', settings);
+    };
+  }
+}
+
+function exportData() {
+  const data = { progress, premium, savedLessons, settings, exportedAt: Date.now() };
+  const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `englishpro-backup-${Date.now()}.json`;
+  a.click();
+  URL.revokeObjectURL(url);
+  showToast('Маълумот содир шуд');
+}
+
+function confirmResetAll() {
+  if (!confirm('Ҳамаи маълумот нест мешавад. Мутмаин ҳастед?')) return;
+  store.del('progress');
+  store.del('premium');
+  store.del('savedLessons');
+  store.del('settings');
+  location.reload();
+}
+
+// ============================================================
 // THEME
-// ============================================
+// ============================================================
 function toggleTheme() {
   document.body.classList.toggle('light');
   const isLight = document.body.classList.contains('light');
-  document.querySelector('#themeIcon use').setAttribute('href', isLight ? '#i-sun' : '#i-moon');
+  settings.dark = !isLight;
+  store.set('settings', settings);
+  const icon = document.querySelector('#themeIcon use');
+  if (icon) icon.setAttribute('href', isLight ? '#i-sun' : '#i-moon');
   if (tg) tg.HapticFeedback?.impactOccurred('light');
 }
 
-// ============================================
-// TOAST
-// ============================================
+// ============================================================
+// FAQ / SUPPORT
+// ============================================================
+function toggleFaq(el) {
+  const isOpen = el.classList.contains('open');
+  document.querySelectorAll('.faq-item').forEach(i => i.classList.remove('open'));
+  if (!isOpen) el.classList.add('open');
+}
+
+function sendSupportMessage() {
+  const msg = document.getElementById('supportMessage')?.value.trim();
+  if (!msg || msg.length < 5) { showToast('Паёмро нависед'); return; }
+  const text = `📩 Паём аз ${user.first_name} (@${user.username || '—'}):\n\n${msg}`;
+  if (tg) {
+    tg.openTelegramLink(`https://t.me/share/url?url=&text=${encodeURIComponent(text)}`);
+  } else {
+    window.open(`https://t.me/share/url?url=&text=${encodeURIComponent(text)}`, '_blank');
+  }
+  document.getElementById('supportMessage').value = '';
+  showToast('Паём фиристода шуд');
+}
+
+// ============================================================
+// IMAGE COMPRESSION — барои суръати баланд
+// ============================================================
+function compressImage(file, maxWidth = 1200, quality = 0.85) {
+  return new Promise((resolve, reject) => {
+    const reader = new FileReader();
+    reader.onload = (e) => {
+      const img = new Image();
+      img.onload = () => {
+        const canvas = document.createElement('canvas');
+        let { width, height } = img;
+
+        if (width > maxWidth) {
+          height = (height * maxWidth) / width;
+          width = maxWidth;
+        }
+
+        canvas.width = width;
+        canvas.height = height;
+
+        const ctx = canvas.getContext('2d');
+        ctx.drawImage(img, 0, 0, width, height);
+
+        // JPEG барои ҳаҷми камтар
+        const compressed = canvas.toDataURL('image/jpeg', quality);
+        resolve(compressed);
+      };
+      img.onerror = reject;
+      img.src = e.target.result;
+    };
+    reader.onerror = reject;
+    reader.readAsDataURL(file);
+  });
+}
+
+// ============================================================
+// IMGBB — Боркунии расм ба CDN
+// ============================================================
+async function uploadToImgBB(base64Image) {
+  // Тоза кардани prefix "data:image/jpeg;base64,"
+  const base64Data = base64Image.replace(/^data:image\/\w+;base64,/, '');
+
+  const formData = new FormData();
+  formData.append('key', CONFIG.IMGBB_API_KEY);
+  formData.append('image', base64Data);
+
+  const res = await fetch('https://api.imgbb.com/1/upload', {
+    method: 'POST',
+    body: formData
+  });
+
+  if (!res.ok) {
+    throw new Error('ImgBB upload failed: ' + res.status);
+  }
+
+  const json = await res.json();
+
+  if (!json.success || !json.data) {
+    throw new Error(json.error?.message || 'ImgBB upload error');
+  }
+
+  // Баргардондани URL
+  return json.data.display_url || json.data.url;
+}
+
+// ============================================================
+// PREMIUM ORDER
+// ============================================================
+let currentPlanKey = null;
+let selectedPhotoBase64 = null;
+let uploadedPhotoUrl = null;
+
+function openPremiumOrder(planKey) {
+  const plan = PREMIUM_PLANS[planKey];
+  if (!plan) return;
+
+  if (isPremiumActive()) {
+    showToast('👑 Шумо аллакай Premium доред');
+    return;
+  }
+
+  currentPlanKey = planKey;
+  document.getElementById('orderPlanLabel').textContent = plan.label;
+  document.getElementById('orderPlanPrice').textContent = plan.price + ' сомонӣ';
+  document.getElementById('cardNumberText').textContent = CONFIG.CARD_NUMBER;
+
+  // Reset
+  selectedPhotoBase64 = null;
+  uploadedPhotoUrl = null;
+  document.getElementById('photoPreview').style.display = 'flex';
+  document.getElementById('photoSelected').style.display = 'none';
+  document.getElementById('btnSendOrder').disabled = true;
+
+  document.getElementById('premiumOrderModal').classList.add('open');
+  if (tg) tg.HapticFeedback?.impactOccurred('medium');
+}
+
+function closePremiumOrder() {
+  document.getElementById('premiumOrderModal').classList.remove('open');
+}
+
+function copyCardNumber() {
+  const text = CONFIG.CARD_NUMBER;
+  if (navigator.clipboard) {
+    navigator.clipboard.writeText(text).then(() => {
+      showToast('✅ Рақами корт нусхабардорӣ шуд');
+      if (tg) tg.HapticFeedback?.notificationOccurred('success');
+    }).catch(() => fallbackCopy(text));
+  } else {
+    fallbackCopy(text);
+  }
+}
+
+function fallbackCopy(text) {
+  const input = document.createElement('input');
+  input.value = text;
+  input.style.position = 'fixed';
+  input.style.opacity = '0';
+  document.body.appendChild(input);
+  input.select();
+  document.execCommand('copy');
+  input.remove();
+  showToast('✅ Рақами корт нусхабардорӣ шуд');
+}
+
+// ============================================================
+// PHOTO SELECT — танҳо 1 расм + фишурдан + боркунӣ ба ImgBB
+// ============================================================
+async function handlePhotoSelect(event) {
+  const file = event.target.files[0];
+  if (!file) return;
+
+  if (!file.type.startsWith('image/')) {
+    showToast('Танҳо сурат қабул мешавад');
+    return;
+  }
+
+  if (file.size > 10 * 1024 * 1024) {
+    showToast('Ҳаҷми сурат аз 10 МБ зиёд аст');
+    return;
+  }
+
+  const btn = document.getElementById('btnSendOrder');
+  const originalText = btn.innerHTML;
+  btn.disabled = true;
+  btn.innerHTML = '<svg class="icon icon-sm"><use href="#i-refresh"/></svg> Фишурдан...';
+
+  try {
+    // 1. Фишурдан
+    selectedPhotoBase64 = await compressImage(file, 1200, 0.85);
+
+    // 2. Нишон додан дар preview
+    document.getElementById('photoImg').src = selectedPhotoBase64;
+    document.getElementById('photoPreview').style.display = 'none';
+    document.getElementById('photoSelected').style.display = 'block';
+
+    // 3. Боркунӣ ба ImgBB
+    btn.innerHTML = '<svg class="icon icon-sm"><use href="#i-refresh"/></svg> Боркунӣ...';
+
+    uploadedPhotoUrl = await uploadToImgBB(selectedPhotoBase64);
+
+    console.log('✅ Расм ба ImgBB бор шуд:', uploadedPhotoUrl);
+
+    btn.disabled = false;
+    btn.innerHTML = originalText;
+
+    if (tg) tg.HapticFeedback?.notificationOccurred('success');
+    showToast('✅ Расм омода аст');
+
+  } catch (e) {
+    console.error('Photo upload error:', e);
+    showToast('Хато: ' + e.message);
+    selectedPhotoBase64 = null;
+    uploadedPhotoUrl = null;
+    document.getElementById('photoPreview').style.display = 'flex';
+    document.getElementById('photoSelected').style.display = 'none';
+    btn.disabled = true;
+    btn.innerHTML = originalText;
+  }
+}
+
+function removePhoto() {
+  selectedPhotoBase64 = null;
+  uploadedPhotoUrl = null;
+  const input = document.getElementById('paymentPhoto');
+  if (input) input.value = '';
+  document.getElementById('photoPreview').style.display = 'flex';
+  document.getElementById('photoSelected').style.display = 'none';
+  document.getElementById('btnSendOrder').disabled = true;
+}
+
+// ============================================================
+// SEND ORDER — Firebase + Telegram
+// ============================================================
+async function sendPremiumOrder() {
+  if (!uploadedPhotoUrl) {
+    showToast('Скриншоти пардохтро интихоб кунед');
+    return;
+  }
+
+  const plan = PREMIUM_PLANS[currentPlanKey];
+  if (!plan) return;
+
+  const btn = document.getElementById('btnSendOrder');
+  btn.disabled = true;
+  btn.innerHTML = '<svg class="icon icon-sm"><use href="#i-refresh"/></svg> Фиристода мешавад...';
+
+  const order = {
+    userId: user.id,
+    userName: user.first_name || 'Корбар',
+    userUsername: user.username || null,
+    plan: currentPlanKey,
+    planLabel: plan.label,
+    planPrice: plan.price,
+    planDays: plan.days,
+    photo: uploadedPhotoUrl,   // ← Танҳо URL, на base64
+    status: 'pending',
+    createdAt: Date.now()
+  };
+
+  try {
+    let orderId = 'order_' + Date.now();
+
+    // 1. Ба Firebase (танҳо URL)
+    if (typeof db !== 'undefined' && db) {
+      const ref = db.ref('premium_orders').push();
+      orderId = ref.key;
+      order.orderId = orderId;
+      await ref.set(order);
+      console.log('✅ Фармоиш ба Firebase фиристода шуд:', orderId);
+    } else {
+      throw new Error('Firebase пайваст нест');
+    }
+
+    // 2. Haptic + Popup
+    if (tg) tg.HapticFeedback?.notificationOccurred('success');
+    showSuccessPopup(order, orderId);
+
+  } catch (e) {
+    console.error('Order error:', e);
+    showToast('Хато дар фиристодан: ' + e.message);
+    btn.disabled = false;
+    btn.innerHTML = '<svg class="icon icon-sm"><use href="#i-send"/></svg> Фиристодан';
+  }
+}
+
+// ============================================================
+// SUCCESS POPUP — 2 тугма
+// ============================================================
+function showSuccessPopup(order, orderId) {
+  closePremiumOrder();
+
+  const botLink = `https://t.me/${CONFIG.ADMIN_BOT}?start=${orderId}`;
+
+  const popup = document.createElement('div');
+  popup.className = 'modal open';
+  popup.style.zIndex = '10000';
+  popup.innerHTML = `
+    <div class="modal-backdrop" onclick="this.parentElement.remove()"></div>
+    <div class="modal-content" style="max-width:400px;text-align:center;border-radius:24px 24px 0 0">
+      <div style="padding:8px 0 20px">
+        <div style="font-size:70px;margin-bottom:12px;animation:bounceIn 0.6s ease">✅</div>
+        <h2 style="font-size:22px;font-weight:900;margin-bottom:8px">Фармоиш қабул шуд!</h2>
+        <p style="color:var(--text-2);font-size:13px;line-height:1.6;margin-bottom:24px">
+          Фармоиши шумо ба админ фиристода шуд.<br>
+          Баъд аз тасдиқ Premium худкор фаъол мешавад.
+        </p>
+
+        <div style="
+          background:var(--bg-2);border-radius:14px;padding:14px;
+          margin-bottom:20px;text-align:left;font-size:12px;
+        ">
+          <div style="display:flex;justify-content:space-between;margin-bottom:6px">
+            <span style="color:var(--text-2)">Нақша:</span>
+            <strong>${escapeHtml(order.planLabel)}</strong>
+          </div>
+          <div style="display:flex;justify-content:space-between">
+            <span style="color:var(--text-2)">Маблағ:</span>
+            <strong style="color:#fbbf24">${order.planPrice} сомонӣ</strong>
+          </div>
+        </div>
+
+        <button id="btnOpenBot"
+          style="
+            width:100%;padding:16px;
+            background:linear-gradient(135deg,#229ED9,#1a7ba8);
+            color:#fff;border:none;border-radius:14px;
+            font-size:15px;font-weight:800;cursor:pointer;font-family:inherit;
+            display:flex;align-items:center;justify-content:center;gap:10px;
+            margin-bottom:10px;
+            box-shadow:0 8px 24px rgba(34,158,217,0.4);
+          ">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-.86.2-1.3l15.97-6.16c.73-.33 1.43.18 1.15 1.3l-2.72 12.81c-.19.91-.74 1.13-1.5.71L12.6 16.3l-1.99 1.93c-.23.23-.42.42-.83.42z"/>
+          </svg>
+          Хабар ба админ дар Telegram
+        </button>
+
+        <button onclick="this.closest('.modal').remove()"
+          style="
+            width:100%;padding:14px;
+            background:var(--bg-2);color:var(--text);
+            border:1px solid var(--card-border);border-radius:14px;
+            font-size:14px;font-weight:700;cursor:pointer;font-family:inherit;
+          ">
+          Пӯшидан
+        </button>
+      </div>
+    </div>
+  `;
+  document.body.appendChild(popup);
+
+  document.getElementById('btnOpenBot').addEventListener('click', () => {
+    if (tg?.openTelegramLink) {
+      tg.openTelegramLink(botLink);
+    } else {
+      window.open(botLink, '_blank');
+    }
+  });
+}
+
+// ============================================================
+// HELPERS
+// ============================================================
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c =>
+    ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]));
+}
+
 function showToast(msg) {
   const t = document.createElement('div');
   t.className = 'toast';
@@ -479,381 +1168,54 @@ function showToast(msg) {
   }, 2200);
 }
 
-// ============================================
-// ICON HELPER
-// ============================================
-function icon(name, cls = '') {
-  return `<svg class="icon ${cls}"><use href="#${name}"/></svg>`;
-}
-
 // ============================================================
-// STATISTICS (Омор)
+// FIREBASE READY
 // ============================================================
-function renderStatistics() {
-  if (!LESSONS || LESSONS.length === 0) return;
+function onFirebaseReady() {
+  console.log('🔥 Firebase пайваст шуд');
+  syncMyUser();
 
-  const total = LESSONS.length;
-  const done = progress.completedLessons.length;
-  const percent = total > 0 ? Math.round((done / total) * 100) : 0;
-
-  // Overview
-  document.getElementById('ovTotalLessons').textContent = total;
-  document.getElementById('ovDone').textContent = done;
-  document.getElementById('ovPercent').textContent = percent + '%';
-  document.getElementById('progressBadge').textContent = `${done} / ${total}`;
-  document.getElementById('bigProgressBar').style.width = percent + '%';
-
-  // By level
-  const levels = {
-    'Ибтидоӣ': { color: '#6366f1', total: 0, done: 0 },
-    'Миёна': { color: '#f59e0b', total: 0, done: 0 },
-    'Пешрафта': { color: '#10b981', total: 0, done: 0 },
-    'Street English': { color: '#ec4899', total: 0, done: 0 }
-  };
-
-  LESSONS.forEach(l => {
-    if (levels[l.level]) {
-      levels[l.level].total++;
-      if (progress.completedLessons.includes(l.id)) {
-        levels[l.level].done++;
-      }
-    }
-  });
-
-  const levelContainer = document.getElementById('levelStats');
-  levelContainer.innerHTML = Object.entries(levels)
-    .filter(([_, v]) => v.total > 0)
-    .map(([name, v]) => {
-      const pct = v.total > 0 ? Math.round((v.done / v.total) * 100) : 0;
-      return `
-        <div class="level-row">
-          <div class="level-head">
-            <span>${name}</span>
-            <span>${v.done} / ${v.total}</span>
-          </div>
-          <div class="level-bar">
-            <div class="level-bar-fill" style="width: ${pct}%; background: ${v.color}"></div>
-          </div>
-        </div>
-      `;
-    }).join('');
-
-  // Score chart — охирин 20 тест
-  const scores = progress.testScores || {};
-  const scoreIds = Object.keys(scores).map(Number).sort((a, b) => a - b).slice(-20);
-  const chart = document.getElementById('scoreChart');
-
-  if (scoreIds.length === 0) {
-    chart.innerHTML = `<div style="width:100%;text-align:center;color:var(--text-2);font-size:13px;align-self:center;">
-      Ҳоло тест супорида нашудааст
-    </div>`;
-  } else {
-    chart.innerHTML = scoreIds.map(id => {
-      const s = scores[id] || 0;
-      const h = Math.max(6, (s / 100) * 100);
-      const cls = s < 70 ? 'bad' : '';
-      return `<div class="score-bar ${cls}" style="height: ${h}%" title="Дарси ${id}: ${s}%"></div>`;
-    }).join('');
+  const ratingPage = document.querySelector('[data-page="rating"]');
+  if (ratingPage?.classList.contains('active')) {
+    renderRating('all');
   }
 
-  // Words learned
-  const wordsLearned = progress.completedLessons.reduce((sum, id) => {
-    const l = LESSONS.find(x => x.id === id);
-    return sum + (l?.wordsCount || 0);
-  }, 0);
-  document.getElementById('wordsLearned').textContent = wordsLearned;
-}
-
-// ============================================================
-// SAVED LESSONS (Дарсҳои нигоҳдошта)
-// ============================================================
-let savedLessons = store.get('savedLessons', []);
-
-function toggleBookmark(lessonId) {
-  const idx = savedLessons.indexOf(lessonId);
-  if (idx > -1) {
-    savedLessons.splice(idx, 1);
-    showToast('Аз нигоҳдошта хориҷ шуд');
-  } else {
-    savedLessons.push(lessonId);
-    showToast('Ба нигоҳдошта илова шуд');
+  const adminPage = document.querySelector('[data-page="admin"]');
+  if (adminPage?.classList.contains('active')) {
+    renderAdmin();
   }
-  store.set('savedLessons', savedLessons);
-
-  // Update UI
-  document.querySelectorAll(`.lesson-bookmark[data-id="${lessonId}"]`).forEach(btn => {
-    btn.classList.toggle('active', savedLessons.includes(lessonId));
-  });
-
-  renderSavedLessons();
-  if (tg) tg.HapticFeedback?.impactOccurred('light');
 }
 
-function renderSavedLessons() {
-  const container = document.getElementById('savedLessons');
-  if (!container) return;
+// ============================================================
+// ADMIN RENDER (минималӣ — админ дар admin.js)
+// ============================================================
+function renderAdmin() {
+  if (!IS_ADMIN) return;
 
-  if (savedLessons.length === 0) {
+  const container = document.getElementById('adminRating');
+  if (container) {
     container.innerHTML = `
-      <div class="empty-state">
-        <div class="empty-icon">
-          <svg class="icon icon-2xl"><use href="#i-bookmark"/></svg>
-        </div>
-        <h3>Ҳоло дарс нигоҳ дошта нашудааст</h3>
-        <p>Барои нигоҳ доштан, дар саҳифаи дарсҳо тугмаи bookmark-ро пахш кунед</p>
-        <button class="btn-primary" onclick="navigateTo('lessons')">
-          <svg class="icon icon-sm"><use href="#i-book"/></svg>
-          Ба дарсҳо
-        </button>
+      <div style="text-align:center;padding:20px;color:var(--text-2);font-size:13px;">
+        <div class="loader" style="margin:0 auto 12px;"></div>
+        Бор мешавад...
       </div>`;
-    return;
   }
 
-  const saved = LESSONS.filter(l => savedLessons.includes(l.id));
-  container.innerHTML = saved.map(l => lessonCardHTML(l)).join('');
-  bindLessonClicks();
+  const renderList = (users) => {
+    users = users.filter(u => Number(u.id) < 100000000);
 
-  // Bookmark тугмаҳоро илова кун
-  container.querySelectorAll('.lesson-card').forEach(card => {
-    addBookmarkButton(card, parseInt(card.dataset.id));
-  });
-}
+    const premiumCount = users.filter(u => u.isPremium).length;
+    const activeCount = users.filter(u => u.lastActive > Date.now() - 7 * 86400000).length;
 
-function addBookmarkButton(card, id) {
-  if (card.querySelector('.lesson-bookmark')) return;
-
-  const btn = document.createElement('button');
-  btn.className = 'lesson-bookmark ' + (savedLessons.includes(id) ? 'active' : '');
-  btn.dataset.id = id;
-  btn.innerHTML = `<svg class="icon icon-sm"><use href="#i-bookmark"/></svg>`;
-  btn.onclick = (e) => {
-    e.stopPropagation();
-    toggleBookmark(id);
+    const set = (id, v) => { const el = document.getElementById(id); if (el) el.textContent = v; };
+    set('adminTotalUsers', users.length);
+    set('adminPremiumUsers', premiumCount);
+    set('adminActiveUsers', activeCount);
   };
-  card.appendChild(btn);
-}
 
-// ============================================================
-// SETTINGS (Танзимот)
-// ============================================================
-let settings = store.get('settings', {
-  dark: true,
-  animations: true,
-  sound: true,
-  streak: false,
-  notif: true
-});
-
-function initSettings() {
-  const setCheck = (id, val) => {
-    const el = document.getElementById(id);
-    if (el) el.checked = val;
-  };
-  setCheck('settingDark', settings.dark);
-  setCheck('settingAnimations', settings.animations);
-  setCheck('settingSound', settings.sound);
-  setCheck('settingStreak', settings.streak);
-  setCheck('settingNotif', settings.notif);
-
-  // Dark toggle
-  document.getElementById('settingDark')?.addEventListener('change', (e) => {
-    settings.dark = e.target.checked;
-    store.set('settings', settings);
-    document.body.classList.toggle('light', !settings.dark);
-    document.querySelector('#themeIcon use').setAttribute('href',
-      settings.dark ? '#i-moon' : '#i-sun');
-    if (tg) tg.HapticFeedback?.impactOccurred('light');
-  });
-
-  // Animations
-  document.getElementById('settingAnimations')?.addEventListener('change', (e) => {
-    settings.animations = e.target.checked;
-    store.set('settings', settings);
-    document.body.style.setProperty('--anim-speed', settings.animations ? '1' : '0');
-    document.documentElement.classList.toggle('no-animations', !settings.animations);
-  });
-
-  // Sound
-  document.getElementById('settingSound')?.addEventListener('change', (e) => {
-    settings.sound = e.target.checked;
-    store.set('settings', settings);
-  });
-
-  // Streak
-  document.getElementById('settingStreak')?.addEventListener('change', (e) => {
-    settings.streak = e.target.checked;
-    store.set('settings', settings);
-    if (settings.streak && tg) {
-      tg.showPopup({
-        title: 'Огоҳии ҳаррӯза',
-        message: 'Ҳар рӯз соати 9:00 огоҳинома мефиристем',
-        buttons: [{ type: 'close' }]
-      });
-    }
-  });
-
-  // Notif
-  document.getElementById('settingNotif')?.addEventListener('change', (e) => {
-    settings.notif = e.target.checked;
-    store.set('settings', settings);
-  });
-}
-
-function exportData() {
-  const data = {
-    progress,
-    premium,
-    savedLessons,
-    settings,
-    exportedAt: new Date().toISOString(),
-    version: '1.0.0'
-  };
-  const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
-  const url = URL.createObjectURL(blob);
-  const a = document.createElement('a');
-  a.href = url;
-  a.download = `englishpro-backup-${Date.now()}.json`;
-  a.click();
-  URL.revokeObjectURL(url);
-  showToast('Маълумот содир шуд ✓');
-}
-
-function importData() {
-  const input = document.createElement('input');
-  input.type = 'file';
-  input.accept = '.json';
-  input.onchange = (e) => {
-    const file = e.target.files[0];
-    if (!file) return;
-    const reader = new FileReader();
-    reader.onload = (ev) => {
-      try {
-        const data = JSON.parse(ev.target.result);
-        if (data.progress) {
-          progress = data.progress;
-          store.set('progress', progress);
-        }
-        if (data.premium) {
-          premium = data.premium;
-          store.set('premium', premium);
-        }
-        if (data.savedLessons) {
-          savedLessons = data.savedLessons;
-          store.set('savedLessons', savedLessons);
-        }
-        if (data.settings) {
-          settings = data.settings;
-          store.set('settings', settings);
-        }
-        showToast('Маълумот барқарор шуд ✓');
-        setTimeout(() => location.reload(), 1000);
-      } catch (err) {
-        showToast('Хато: файли нодуруст');
-      }
-    };
-    reader.readAsText(file);
-  };
-  input.click();
-}
-
-function confirmResetAll() {
-  if (!confirm('Ҳамаи маълумот нест мешавад. Мутмаин ҳастед?')) return;
-  if (!confirm('Ин амалро бекор кардан мумкин нест!')) return;
-
-  store.del('progress');
-  store.del('premium');
-  store.del('savedLessons');
-  store.del('settings');
-  store.del('allUsers');
-
-  showToast('Ҳамаи маълумот нест шуд');
-  setTimeout(() => location.reload(), 1000);
-}
-
-// ============================================================
-// HELP (Кӯмак)
-// ============================================================
-function toggleFaq(el) {
-  const isOpen = el.classList.contains('open');
-  // Ҳамаро пӯш кун
-  document.querySelectorAll('.faq-item').forEach(item => item.classList.remove('open'));
-  // Инро кушо
-  if (!isOpen) el.classList.add('open');
-  if (tg) tg.HapticFeedback?.impactOccurred('light');
-}
-
-function scrollToHelp(section) {
-  const el = document.getElementById('help-' + section);
-  if (el) {
-    el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-  }
-}
-
-// ============================================================
-// SUPPORT (Дастгирӣ)
-// ============================================================
-function sendSupportMessage() {
-  const msg = document.getElementById('supportMessage')?.value.trim();
-  if (!msg) {
-    showToast('Паёмро нависед');
-    return;
-  }
-  if (msg.length < 5) {
-    showToast('Паём хеле кӯтоҳ аст');
-    return;
-  }
-
-  // Ба админ дар Telegram фиристодан
-  const adminId = 8406121228;
-  const userInfo = `👤 ${user.first_name} (@${user.username || '—'})\n🆔 ${user.id}`;
-  const fullMsg = `📩 Паём аз корбар:\n\n${userInfo}\n\n💬 ${msg}`;
-
-  if (tg) {
-    tg.openTelegramLink(`https://t.me/share/url?url=&text=${encodeURIComponent(fullMsg)}`);
-    tg.HapticFeedback?.notificationOccurred('success');
+  if (typeof listenRatingRealtime === 'function') {
+    listenRatingRealtime(renderList);
   } else {
-    window.open(`https://t.me/share/url?url=&text=${encodeURIComponent(fullMsg)}`, '_blank');
-  }
-
-  document.getElementById('supportMessage').value = '';
-  showToast('Паём фиристода шуд ✓');
-}
-
-// ============================================================
-// NAVIGATION UPDATE — Илова ба navigateTo()
-// ============================================================
-// Дар функсияи асосии navigateTo() инро илова кунед:
-const _origNavigateTo = navigateTo;
-navigateTo = function(pageName) {
-  _origNavigateTo(pageName);
-
-  // Рендер кардани саҳифаҳои нав ҳангоми кушодан
-  if (pageName === 'stats')     renderStatistics();
-  if (pageName === 'saved')     renderSavedLessons();
-  if (pageName === 'settings')  initSettings();
-  if (pageName === 'support')   initSupportPage();
-};
-
-function initSupportPage() {
-  // Support Telegram-ро бо ID-и корбар танзим кун
-  const link = document.getElementById('tgSupport');
-  if (link) {
-    // Метавонед рақами админро ин ҷо гузоред
-    // link.href = 'https://t.me/YourUsername';
+    renderList(getLocalRatingList('all', 100));
   }
 }
-
-// ============================================================
-// INIT — илова ба initApp()
-// ============================================================
-// Дар охири initApp() инро илова кунед:
-// initSettings();
-// Танзимоти мавзӯъро татбиқ кун
-if (settings.dark === false) {
-  document.body.classList.add('light');
-  document.querySelector('#themeIcon use').setAttribute('href', '#i-sun');
-}
-if (settings.animations === false) {
-  document.documentElement.classList.add('no-animations');
-}
-
