@@ -1,0 +1,1254 @@
+<!DOCTYPE html>
+<html lang="tg">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="theme-color" content="#0f172a" />
+  <title>Тести калон — EnglishPro</title>
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  <link rel="stylesheet" href="css/style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <style>
+    /* ============================================================
+       TEST PAGE — Дизайни махсус
+       ============================================================ */
+
+    body {
+      background: var(--bg);
+      overflow: hidden;
+    }
+
+    .test-app {
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      max-width: 480px;
+      margin: 0 auto;
+      background: var(--bg);
+    }
+
+    /* ============ HEADER ============ */
+    .test-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 16px 20px;
+      background: var(--bg);
+      flex-shrink: 0;
+      border-bottom: 1px solid var(--card-border);
+    }
+    .test-header .back-btn {
+      width: 42px;
+      height: 42px;
+      border-radius: 14px;
+      border: 1px solid var(--card-border);
+      background: var(--card);
+      color: var(--text);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: transform 0.2s, background 0.2s;
+      backdrop-filter: blur(20px);
+    }
+    .test-header .back-btn:active { transform: scale(0.9); }
+
+    .test-header-info { flex: 1; min-width: 0; }
+    .test-header-info h1 {
+      font-size: 17px;
+      font-weight: 800;
+      letter-spacing: -0.3px;
+    }
+    .test-header-info p {
+      font-size: 11px;
+      color: var(--text-2);
+      margin-top: 2px;
+    }
+
+    /* ============ STAGE ============ */
+    .test-stage {
+      flex: 1;
+      overflow-y: auto;
+      padding: 24px 20px 40px;
+      display: flex;
+      flex-direction: column;
+    }
+    .test-stage::-webkit-scrollbar { display: none; }
+
+    /* ============ SETUP SCREEN ============ */
+    .setup-hero {
+      text-align: center;
+      padding: 20px 0 30px;
+    }
+    .setup-icon-wrapper {
+      position: relative;
+      width: 100px;
+      height: 100px;
+      margin: 0 auto 20px;
+    }
+    .setup-icon-wrapper::before {
+      content: '';
+      position: absolute;
+      inset: -10px;
+      border-radius: 32px;
+      background: linear-gradient(135deg, #fbbf24, #f59e0b, #ef4444);
+      opacity: 0.3;
+      filter: blur(20px);
+      animation: pulseGlow 3s ease-in-out infinite;
+    }
+    @keyframes pulseGlow {
+      0%, 100% { opacity: 0.3; transform: scale(1); }
+      50% { opacity: 0.6; transform: scale(1.1); }
+    }
+    .setup-icon {
+      position: relative;
+      width: 100px;
+      height: 100px;
+      border-radius: 28px;
+      background: linear-gradient(135deg, #fbbf24, #f59e0b);
+      color: #1e1b4b;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 12px 32px rgba(251, 191, 36, 0.4);
+      animation: float 3s ease-in-out infinite;
+    }
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-8px); }
+    }
+    .setup-icon svg {
+      width: 52px;
+      height: 52px;
+      stroke-width: 1.8;
+    }
+
+    .setup-hero h2 {
+      font-size: 26px;
+      font-weight: 900;
+      letter-spacing: -0.5px;
+      margin-bottom: 8px;
+      background: linear-gradient(135deg, var(--text), #94a3b8);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .setup-hero > p {
+      font-size: 13px;
+      color: var(--text-2);
+      line-height: 1.5;
+      max-width: 280px;
+      margin: 0 auto;
+    }
+
+    /* Setup Card */
+    .setup-card {
+      background: var(--card);
+      border: 1px solid var(--card-border);
+      border-radius: 20px;
+      padding: 18px;
+      margin-bottom: 14px;
+      backdrop-filter: blur(20px);
+      transition: transform 0.2s;
+    }
+    .setup-card:active { transform: scale(0.99); }
+
+    .setup-label {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--text-2);
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      margin-bottom: 14px;
+    }
+    .setup-label .icon {
+      width: 16px;
+      height: 16px;
+      color: var(--primary);
+    }
+
+    /* Filter buttons */
+    .filter-row {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .filter-row .filter-btn {
+      flex: 1;
+      min-width: calc(33.33% - 6px);
+      padding: 10px 12px;
+      background: var(--bg-2);
+      border: 1px solid var(--card-border);
+      color: var(--text-2);
+      border-radius: 12px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.25s;
+      font-family: inherit;
+    }
+    .filter-row .filter-btn:active { transform: scale(0.95); }
+    .filter-row .filter-btn.active {
+      background: linear-gradient(135deg, var(--primary), var(--primary-2));
+      color: #fff;
+      border-color: transparent;
+      box-shadow: 0 6px 18px rgba(99, 102, 241, 0.4);
+      transform: scale(1.02);
+    }
+    .filter-row .filter-btn:hover:not(.active) {
+      border-color: var(--primary);
+      color: var(--text);
+    }
+
+    /* Total info */
+    .setup-info {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 16px 18px;
+      background: linear-gradient(135deg, rgba(99, 102, 241, 0.12), rgba(139, 92, 246, 0.08));
+      border: 1px solid rgba(99, 102, 241, 0.25);
+      border-radius: 16px;
+      margin-bottom: 20px;
+    }
+    .setup-info-left {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .setup-info-icon {
+      width: 40px;
+      height: 40px;
+      border-radius: 12px;
+      background: linear-gradient(135deg, var(--primary), var(--primary-2));
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .setup-info-text {
+      display: flex;
+      flex-direction: column;
+    }
+    .setup-info-text span:first-child {
+      font-size: 11px;
+      color: var(--text-2);
+      text-transform: uppercase;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+    .setup-info-text strong {
+      font-size: 18px;
+      font-weight: 800;
+      color: var(--text);
+    }
+    .setup-info-badge {
+      font-size: 11px;
+      font-weight: 800;
+      padding: 6px 12px;
+      background: rgba(16, 185, 129, 0.15);
+      color: #10b981;
+      border-radius: 20px;
+    }
+
+    /* Start button */
+    .btn-start {
+      width: 100%;
+      padding: 18px;
+      background: linear-gradient(135deg, var(--primary), var(--primary-2));
+      color: #fff;
+      border: none;
+      border-radius: 18px;
+      font-size: 16px;
+      font-weight: 800;
+      font-family: inherit;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      box-shadow: 0 12px 32px rgba(99, 102, 241, 0.4);
+      transition: transform 0.2s, box-shadow 0.2s;
+      margin-top: auto;
+    }
+    .btn-start:active {
+      transform: scale(0.97);
+      box-shadow: 0 6px 16px rgba(99, 102, 241, 0.3);
+    }
+
+    /* ============ TEST SCREEN ============ */
+    .test-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 16px;
+      flex-shrink: 0;
+    }
+    .test-counter {
+      display: flex;
+      align-items: baseline;
+      gap: 4px;
+    }
+    .test-counter .current {
+      font-size: 24px;
+      font-weight: 900;
+      background: linear-gradient(135deg, var(--primary), var(--primary-2));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .test-counter .total {
+      font-size: 14px;
+      color: var(--text-2);
+      font-weight: 600;
+    }
+    .test-level-badge {
+      font-size: 10px;
+      font-weight: 800;
+      padding: 5px 10px;
+      background: rgba(99, 102, 241, 0.15);
+      color: var(--primary);
+      border-radius: 20px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .test-progress {
+      height: 8px;
+      background: rgba(148, 163, 184, 0.15);
+      border-radius: 8px;
+      overflow: hidden;
+      margin-bottom: 24px;
+      flex-shrink: 0;
+    }
+    .test-progress-bar {
+      height: 100%;
+      background: linear-gradient(90deg, var(--primary), var(--primary-2), #ec4899);
+      border-radius: 8px;
+      transition: width 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+      box-shadow: 0 0 12px rgba(99, 102, 241, 0.5);
+    }
+
+    /* Question card */
+    .question-card {
+      background: var(--card);
+      border: 1px solid var(--card-border);
+      border-radius: 24px;
+      padding: 24px 20px;
+      backdrop-filter: blur(20px);
+      animation: slideIn 0.4s ease;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+    @keyframes slideIn {
+      from { opacity: 0; transform: translateX(20px); }
+      to { opacity: 1; transform: translateX(0); }
+    }
+
+    .question-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      line-height: 1.4;
+      text-align: center;
+      margin-bottom: 18px;
+      color: var(--text);
+    }
+
+    /* Sound button */
+    .btn-sound {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      width: 100%;
+      padding: 14px;
+      background: linear-gradient(135deg, rgba(99, 102, 241, 0.15), rgba(139, 92, 246, 0.1));
+      border: 1px solid rgba(99, 102, 241, 0.35);
+      color: var(--primary);
+      border-radius: 14px;
+      font-size: 14px;
+      font-weight: 700;
+      font-family: inherit;
+      cursor: pointer;
+      margin-bottom: 18px;
+      transition: all 0.2s;
+    }
+    .btn-sound:active {
+      transform: scale(0.97);
+      background: linear-gradient(135deg, rgba(99, 102, 241, 0.25), rgba(139, 92, 246, 0.2));
+    }
+    .btn-sound.playing {
+      background: linear-gradient(135deg, var(--primary), var(--primary-2));
+      color: #fff;
+      border-color: transparent;
+      box-shadow: 0 8px 20px rgba(99, 102, 241, 0.4);
+    }
+    .btn-sound.playing svg {
+      animation: soundPulse 0.8s ease-in-out infinite;
+    }
+    @keyframes soundPulse {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.2); }
+    }
+
+    /* Options */
+    .test-options {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-top: auto;
+    }
+    .test-option {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      padding: 16px 18px;
+      background: var(--bg-2);
+      border: 2px solid var(--card-border);
+      color: var(--text);
+      border-radius: 16px;
+      font-size: 15px;
+      font-weight: 600;
+      font-family: inherit;
+      text-align: left;
+      cursor: pointer;
+      transition: all 0.25s;
+      position: relative;
+    }
+    .test-option::before {
+      content: '';
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      border: 2px solid var(--card-border);
+      flex-shrink: 0;
+      transition: all 0.2s;
+    }
+    .test-option:active { transform: scale(0.98); }
+    .test-option:hover:not([disabled]) {
+      border-color: var(--primary);
+      background: rgba(99, 102, 241, 0.08);
+    }
+    .test-option:hover:not([disabled])::before {
+      border-color: var(--primary);
+    }
+
+    .test-option.correct {
+      background: linear-gradient(135deg, rgba(16, 185, 129, 0.15), rgba(5, 150, 105, 0.08));
+      border-color: #10b981;
+      color: #10b981;
+    }
+    .test-option.correct::before {
+      background: #10b981;
+      border-color: #10b981;
+      content: '✓';
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 14px;
+      font-weight: 900;
+    }
+    .test-option.wrong {
+      background: linear-gradient(135deg, rgba(239, 68, 68, 0.15), rgba(220, 38, 38, 0.08));
+      border-color: #ef4444;
+      color: #ef4444;
+    }
+    .test-option.wrong::before {
+      background: #ef4444;
+      border-color: #ef4444;
+      content: '✕';
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 14px;
+      font-weight: 900;
+    }
+    .test-option[disabled] { cursor: default; }
+
+    /* ============ RESULT SCREEN ============ */
+    .result-wrapper {
+      text-align: center;
+      padding: 20px 0;
+      animation: slideIn 0.5s ease;
+    }
+
+    .result-circle {
+      width: 140px;
+      height: 140px;
+      border-radius: 50%;
+      margin: 0 auto 24px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      animation: scaleIn 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    @keyframes scaleIn {
+      from { transform: scale(0.5); opacity: 0; }
+      to { transform: scale(1); opacity: 1; }
+    }
+    .result-circle.passed {
+      background: linear-gradient(135deg, #10b981, #059669);
+      box-shadow: 0 0 60px rgba(16, 185, 129, 0.5);
+    }
+    .result-circle.failed {
+      background: linear-gradient(135deg, #ef4444, #dc2626);
+      box-shadow: 0 0 60px rgba(239, 68, 68, 0.5);
+    }
+    .result-circle::before {
+      content: '';
+      position: absolute;
+      inset: -15px;
+      border-radius: 50%;
+      border: 3px dashed rgba(255, 255, 255, 0.3);
+      animation: rotate 10s linear infinite;
+    }
+    @keyframes rotate {
+      to { transform: rotate(360deg); }
+    }
+    .result-circle svg {
+      width: 44px;
+      height: 44px;
+      stroke-width: 2.5;
+      color: #fff;
+      margin-bottom: 4px;
+    }
+    .result-circle .pct {
+      font-size: 26px;
+      font-weight: 900;
+      color: #fff;
+      line-height: 1;
+    }
+
+    .result-title {
+      font-size: 26px;
+      font-weight: 900;
+      margin-bottom: 8px;
+      letter-spacing: -0.5px;
+    }
+    .result-subtitle {
+      font-size: 14px;
+      color: var(--text-2);
+      margin-bottom: 24px;
+    }
+
+    /* Stats row */
+    .result-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+    .result-stat {
+      background: var(--card);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 16px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-align: left;
+    }
+    .result-stat-icon {
+      width: 40px;
+      height: 40px;
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .result-stat-icon.green {
+      background: rgba(16, 185, 129, 0.15);
+      color: #10b981;
+    }
+    .result-stat-icon.red {
+      background: rgba(239, 68, 68, 0.15);
+      color: #ef4444;
+    }
+    .result-stat-icon.purple {
+      background: rgba(99, 102, 241, 0.15);
+      color: var(--primary);
+    }
+    .result-stat-icon.gold {
+      background: rgba(251, 191, 36, 0.15);
+      color: #fbbf24;
+    }
+    .result-stat-info {
+      display: flex;
+      flex-direction: column;
+      min-width: 0;
+    }
+    .result-stat-info strong {
+      font-size: 20px;
+      font-weight: 800;
+      line-height: 1;
+    }
+    .result-stat-info span {
+      font-size: 11px;
+      color: var(--text-2);
+      margin-top: 2px;
+    }
+
+    /* Weak lessons */
+    .weak-lessons {
+      background: linear-gradient(135deg, rgba(239, 68, 68, 0.1), rgba(220, 38, 38, 0.05));
+      border: 1px solid rgba(239, 68, 68, 0.3);
+      border-radius: 16px;
+      padding: 16px;
+      margin-bottom: 20px;
+      text-align: left;
+    }
+    .weak-lessons h4 {
+      font-size: 13px;
+      font-weight: 700;
+      color: #ef4444;
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .weak-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+    .weak-chip {
+      font-size: 11px;
+      font-weight: 700;
+      padding: 5px 12px;
+      background: rgba(239, 68, 68, 0.15);
+      color: #ef4444;
+      border-radius: 20px;
+    }
+
+    /* Result actions */
+    .result-actions {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 10px;
+    }
+    .btn-result {
+      width: 100%;
+      padding: 16px;
+      border-radius: 16px;
+      font-size: 15px;
+      font-weight: 700;
+      font-family: inherit;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      border: none;
+      transition: transform 0.2s;
+    }
+    .btn-result:active { transform: scale(0.97); }
+
+    .btn-result.primary {
+      background: linear-gradient(135deg, var(--primary), var(--primary-2));
+      color: #fff;
+      box-shadow: 0 8px 24px rgba(99, 102, 241, 0.4);
+    }
+    .btn-result.secondary {
+      background: var(--card);
+      border: 1px solid var(--card-border);
+      color: var(--text);
+    }
+
+    /* Celebration confetti (passed only) */
+    .confetti {
+      position: fixed;
+      width: 10px;
+      height: 10px;
+      background: #fbbf24;
+      position: absolute;
+      animation: fall 3s linear infinite;
+      pointer-events: none;
+      z-index: 999;
+    }
+    @keyframes fall {
+      0% { transform: translateY(-100vh) rotate(0deg); opacity: 1; }
+      100% { transform: translateY(100vh) rotate(720deg); opacity: 0; }
+    }
+
+    /* ============ PREMIUM LOCK SCREEN ============ */
+    .premium-lock {
+      min-height: 100vh;
+      background: var(--bg);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 24px;
+      text-align: center;
+      font-family: 'Inter', sans-serif;
+    }
+    .premium-lock-icon {
+      width: 120px;
+      height: 120px;
+      border-radius: 36px;
+      background: linear-gradient(135deg, #fbbf24, #f59e0b);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 64px;
+      box-shadow: 0 0 60px rgba(251, 191, 36, 0.5);
+      margin-bottom: 24px;
+      animation: floatLock 3s ease-in-out infinite;
+    }
+    @keyframes floatLock {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+    .premium-lock h1 {
+      color: #f1f5f9;
+      font-size: 26px;
+      font-weight: 900;
+      letter-spacing: -0.5px;
+      margin-bottom: 12px;
+    }
+    .premium-lock p {
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.6;
+      margin-bottom: 28px;
+      max-width: 300px;
+    }
+    .premium-lock .btn-premium-lock {
+      background: linear-gradient(135deg, #6366f1, #8b5cf6);
+      color: #fff;
+      border: none;
+      padding: 16px 32px;
+      border-radius: 16px;
+      font-size: 15px;
+      font-weight: 800;
+      cursor: pointer;
+      font-family: inherit;
+      box-shadow: 0 12px 32px rgba(99, 102, 241, 0.4);
+      margin-bottom: 12px;
+      transition: transform 0.2s;
+    }
+    .premium-lock .btn-premium-lock:active {
+      transform: scale(0.96);
+    }
+    .premium-lock .btn-back-lock {
+      background: transparent;
+      color: #94a3b8;
+      border: 1px solid rgba(148, 163, 184, 0.2);
+      padding: 14px 32px;
+      border-radius: 16px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      font-family: inherit;
+    }
+  </style>
+</head>
+<body>
+
+<!-- ============ SVG ICONS ============ -->
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+  <symbol id="i-arrow-left" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></symbol>
+  <symbol id="i-trophy" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6M18 9h1.5a2.5 2.5 0 0 0 0-5H18M4 22h16M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22M18 2H6v7a6 6 0 0 0 12 0V2z"/></symbol>
+  <symbol id="i-award" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="7"/><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/></symbol>
+  <symbol id="i-x" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></symbol>
+  <symbol id="i-refresh" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></symbol>
+  <symbol id="i-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></symbol>
+  <symbol id="i-volume" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/></symbol>
+  <symbol id="i-check-circle" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></symbol>
+  <symbol id="i-x-circle" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/></symbol>
+  <symbol id="i-target" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></symbol>
+  <symbol id="i-layers" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></symbol>
+  <symbol id="i-hash" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="9" x2="20" y2="9"/><line x1="4" y1="15" x2="20" y2="15"/><line x1="10" y1="3" x2="8" y2="21"/><line x1="16" y1="3" x2="14" y2="21"/></symbol>
+  <symbol id="i-zap" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></symbol>
+  <symbol id="i-star" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></symbol>
+</svg>
+
+<!-- APP CONTENT -->
+<div class="test-app" id="appContent">
+
+  <!-- HEADER -->
+  <div class="test-header">
+    <button class="back-btn" onclick="exitTest()">
+      <svg class="icon"><use href="#i-arrow-left"/></svg>
+    </button>
+    <div class="test-header-info">
+      <h1 id="pageTitle">Тести калон</h1>
+      <p id="testSubtitle">Бор мешавад...</p>
+    </div>
+  </div>
+
+  <!-- SETUP SCREEN -->
+  <div class="test-stage" id="setupScreen">
+    <div class="setup-hero">
+      <div class="setup-icon-wrapper">
+        <div class="setup-icon">
+          <svg><use href="#i-trophy"/></svg>
+        </div>
+      </div>
+      <h2>Тести дониш</h2>
+      <p>Аз тамоми дарсҳо саволҳо. Дониши худро санҷед!</p>
+    </div>
+
+    <!-- Level filter -->
+    <div class="setup-card">
+      <div class="setup-label">
+        <svg class="icon"><use href="#i-layers"/></svg>
+        Сатҳ
+      </div>
+      <div class="filter-row" id="levelFilter">
+        <button class="filter-btn active" data-level="all">Ҳама</button>
+        <button class="filter-btn" data-level="Ибтидоӣ">Ибтидоӣ</button>
+        <button class="filter-btn" data-level="Миёна">Миёна</button>
+        <button class="filter-btn" data-level="Пешрафта">Пешрафта</button>
+        <button class="filter-btn" data-level="Street English">Street</button>
+      </div>
+    </div>
+
+    <!-- Count filter -->
+    <div class="setup-card">
+      <div class="setup-label">
+        <svg class="icon"><use href="#i-hash"/></svg>
+        Миқдори саволҳо
+      </div>
+      <div class="filter-row" id="countFilter">
+        <button class="filter-btn" data-count="10">10</button>
+        <button class="filter-btn" data-count="20">20</button>
+        <button class="filter-btn active" data-count="30">30</button>
+        <button class="filter-btn" data-count="50">50</button>
+        <button class="filter-btn" data-count="100">100</button>
+      </div>
+    </div>
+
+    <!-- Total info -->
+    <div class="setup-info">
+      <div class="setup-info-left">
+        <div class="setup-info-icon">
+          <svg class="icon"><use href="#i-zap"/></svg>
+        </div>
+        <div class="setup-info-text">
+          <span>Ҳамагӣ</span>
+          <strong id="totalCount">0</strong>
+        </div>
+      </div>
+      <div class="setup-info-badge">Омода</div>
+    </div>
+
+    <button class="btn-start" onclick="startTest()">
+      <svg class="icon"><use href="#i-trophy"/></svg>
+      Оғоз кардан
+    </button>
+  </div>
+
+  <!-- TEST SCREEN -->
+  <div class="test-stage" id="testScreen" style="display:none">
+    <div class="test-top">
+      <div class="test-counter">
+        <span class="current" id="currentNum">1</span>
+        <span class="total">/ <span id="totalNum">30</span></span>
+      </div>
+      <div class="test-level-badge" id="levelBadge">Ҳама</div>
+    </div>
+
+    <div class="test-progress">
+      <div class="test-progress-bar" id="testProgressBar"></div>
+    </div>
+
+    <div id="questionBox"></div>
+  </div>
+
+  <!-- RESULT SCREEN -->
+  <div class="test-stage" id="resultScreen" style="display:none">
+    <div class="result-wrapper" id="resultBox"></div>
+  </div>
+
+</div>
+
+<!-- AUDIO -->
+<audio id="audioPlayer" preload="auto"></audio>
+
+<script>
+// ============================================
+// TELEGRAM
+// ============================================
+const tg = window.Telegram?.WebApp;
+if (tg) { tg.ready(); tg.expand(); }
+
+// ============================================
+// STORE
+// ============================================
+const store = {
+  get: (k, def) => { try { return JSON.parse(localStorage.getItem(k)) ?? def; } catch { return def; } },
+  set: (k, v) => localStorage.setItem(k, JSON.stringify(v))
+};
+
+// ============================================
+// 🛡 PREMIUM GUARD — танҳо барои Premium
+// ============================================
+function isPremiumActive() {
+  const premium = store.get('premium', { active: false, expiresAt: null });
+  return premium.active && Date.now() < (premium.expiresAt || 0);
+}
+
+function showPremiumLockedScreen() {
+  if (tg) tg.HapticFeedback?.notificationOccurred('error');
+
+  // Пинҳон кардани мундариҷаи асосӣ
+  const appContent = document.getElementById('appContent');
+  if (appContent) appContent.style.display = 'none';
+
+  // Сохтани экрани қулф
+  const lock = document.createElement('div');
+  lock.className = 'premium-lock';
+  lock.innerHTML = `
+    <div class="premium-lock-icon">👑</div>
+    <h1>Тестҳо барои Premium</h1>
+    <p>Барои истифодаи тестҳои калон Premium гиред ва ба ҳамаи 420 савол дастрасӣ пайдо кунед.</p>
+    <button class="btn-premium-lock" onclick="location.href='index.html#premium'">
+      ✨ Premium гирифтан
+    </button>
+    <button class="btn-back-lock" onclick="location.href='index.html'">
+      Ба асосӣ
+    </button>
+  `;
+  document.body.appendChild(lock);
+}
+
+// ============================================
+// STATE
+// ============================================
+let ALL_QUESTIONS = [];
+let TEST_QUESTIONS = [];
+let currentIdx = 0;
+let answers = [];
+let settings = { level: 'all', count: 30 };
+
+const audioPlayer = document.getElementById('audioPlayer');
+
+// ============================================
+// AUDIO — Google TTS
+// ============================================
+function playAudio(text) {
+  if (!text) return;
+  const clean = String(text).replace(/[<>{}[\]|\\]/g, '').replace(/\s+/g, ' ').trim();
+  if (!clean) return;
+
+  const url = `https://translate.google.com/translate_tts?ie=UTF-8&q=${encodeURIComponent(clean)}&tl=en&client=tw-ob&_=${Date.now()}`;
+
+  audioPlayer.pause();
+  audioPlayer.currentTime = 0;
+  audioPlayer.src = url;
+  audioPlayer.load();
+  audioPlayer.play().catch(() => fallbackSpeak(clean));
+
+  if (tg) tg.HapticFeedback?.impactOccurred('light');
+}
+
+function fallbackSpeak(text) {
+  if (!('speechSynthesis' in window)) return;
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = 'en-US';
+  u.rate = 0.85;
+  const voices = speechSynthesis.getVoices();
+  const male = voices.find(v => v.lang === 'en-US' && (v.name.includes('Male') || v.name.includes('David') || v.name.includes('Alex')))
+            || voices.find(v => v.lang === 'en-US');
+  if (male) u.voice = male;
+  speechSynthesis.speak(u);
+}
+
+if ('speechSynthesis' in window) {
+  speechSynthesis.onvoiceschanged = () => speechSynthesis.getVoices();
+}
+
+// ============================================
+// LOAD
+// ============================================
+async function loadQuestions() {
+  try {
+    const r = await fetch('data/tests.json');
+    if (!r.ok) throw new Error('tests.json ёфт нашуд');
+    const data = await r.json();
+    ALL_QUESTIONS = data.questions || [];
+    document.getElementById('totalCount').textContent = ALL_QUESTIONS.length;
+    document.getElementById('testSubtitle').textContent = `${ALL_QUESTIONS.length} савол омода`;
+  } catch (e) {
+    console.error(e);
+    document.getElementById('testSubtitle').textContent = 'Хато дар боркунӣ';
+  }
+}
+
+// ============================================
+// FILTERS
+// ============================================
+document.querySelectorAll('#levelFilter .filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('#levelFilter .filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    settings.level = btn.dataset.level;
+  });
+});
+
+document.querySelectorAll('#countFilter .filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('#countFilter .filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    settings.count = parseInt(btn.dataset.count);
+  });
+});
+
+// ============================================
+// START
+// ============================================
+function startTest() {
+  let pool = ALL_QUESTIONS;
+  if (settings.level !== 'all') {
+    pool = pool.filter(q => q.level === settings.level);
+  }
+
+  if (pool.length === 0) {
+    alert('Саволҳо ёфт нашуданд');
+    return;
+  }
+
+  const shuffled = [...pool].sort(() => Math.random() - 0.5);
+  TEST_QUESTIONS = shuffled.slice(0, Math.min(settings.count, shuffled.length));
+  currentIdx = 0;
+  answers = [];
+
+  document.getElementById('setupScreen').style.display = 'none';
+  document.getElementById('testScreen').style.display = 'flex';
+  document.getElementById('resultScreen').style.display = 'none';
+
+  document.getElementById('totalNum').textContent = TEST_QUESTIONS.length;
+  document.getElementById('levelBadge').textContent = settings.level === 'all' ? 'Ҳама' : settings.level;
+
+  document.getElementById('pageTitle').textContent = 'Тест';
+  document.getElementById('testSubtitle').textContent = `${TEST_QUESTIONS.length} савол`;
+
+  if (tg) tg.HapticFeedback?.impactOccurred('medium');
+  renderQuestion();
+}
+
+// ============================================
+// RENDER QUESTION
+// ============================================
+function renderQuestion() {
+  if (currentIdx >= TEST_QUESTIONS.length) {
+    finishTest();
+    return;
+  }
+
+  const q = TEST_QUESTIONS[currentIdx];
+  const progress = (currentIdx / TEST_QUESTIONS.length) * 100;
+
+  document.getElementById('currentNum').textContent = currentIdx + 1;
+  document.getElementById('testProgressBar').style.width = progress + '%';
+
+  const options = [...q.options].sort(() => Math.random() - 0.5);
+  const hasEnglish = /[a-zA-Z]/.test(q.q);
+  const englishWord = extractEnglish(q.q);
+
+  const box = document.getElementById('questionBox');
+  box.innerHTML = `
+    <div class="question-card">
+      <h3>${escapeHtml(q.q)}</h3>
+
+      ${hasEnglish && englishWord ? `
+        <button class="btn-sound" onclick="playAudio('${englishWord.replace(/'/g, "\\'")}', this)">
+          <svg class="icon"><use href="#i-volume"/></svg>
+          Гӯш кардан
+        </button>
+      ` : ''}
+
+      <div class="test-options">
+        ${options.map(opt => `
+          <button class="test-option" data-opt="${escapeAttr(opt)}">
+            ${escapeHtml(opt)}
+          </button>
+        `).join('')}
+      </div>
+    </div>
+  `;
+
+  box.querySelectorAll('.test-option').forEach(btn => {
+    btn.addEventListener('click', () => answerQuestion(btn));
+  });
+}
+
+function extractEnglish(text) {
+  const match = text.match(/'([^']+)'/);
+  return match ? match[1] : null;
+}
+
+// ============================================
+// ANSWER
+// ============================================
+function answerQuestion(btn) {
+  const q = TEST_QUESTIONS[currentIdx];
+  const chosen = btn.textContent.trim();
+  const isCorrect = chosen === q.answer;
+
+  document.querySelectorAll('.test-option').forEach(b => {
+    b.disabled = true;
+    const t = b.textContent.trim();
+    if (t === q.answer) b.classList.add('correct');
+    else if (t === chosen && !isCorrect) b.classList.add('wrong');
+  });
+
+  answers.push({ correct: isCorrect, lessonId: q.lessonId });
+
+  if (tg) tg.HapticFeedback?.notificationOccurred(isCorrect ? 'success' : 'error');
+
+  setTimeout(() => {
+    currentIdx++;
+    renderQuestion();
+  }, 900);
+}
+
+// ============================================
+// FINISH
+// ============================================
+function finishTest() {
+  const correct = answers.filter(a => a.correct).length;
+  const total = answers.length;
+  const wrong = total - correct;
+  const percent = Math.round((correct / total) * 100);
+  const passed = percent >= 70;
+
+  document.getElementById('testScreen').style.display = 'none';
+  document.getElementById('resultScreen').style.display = 'flex';
+
+  document.getElementById('pageTitle').textContent = 'Натиҷа';
+  document.getElementById('testSubtitle').textContent = passed ? 'Аъло!' : 'Такрор кунед';
+
+  // Weak lessons
+  const byLesson = {};
+  answers.forEach(a => {
+    if (!byLesson[a.lessonId]) byLesson[a.lessonId] = { correct: 0, total: 0 };
+    byLesson[a.lessonId].total++;
+    if (a.correct) byLesson[a.lessonId].correct++;
+  });
+  const weakLessons = Object.entries(byLesson)
+    .filter(([_, s]) => s.correct / s.total < 0.7)
+    .map(([id]) => id);
+
+  document.getElementById('resultBox').innerHTML = `
+    <div class="result-circle ${passed ? 'passed' : 'failed'}">
+      <svg><use href="#${passed ? 'i-award' : 'i-x'}"/></svg>
+      <div class="pct">${percent}%</div>
+    </div>
+
+    <h2 class="result-title">${passed ? 'Табрик!' : 'Боз кӯшиш кунед'}</h2>
+    <p class="result-subtitle">
+      ${passed ? 'Шумо тестро бомуваффақият гузаштед!' : 'Барои гузаштан 70% лозим аст'}
+    </p>
+
+    <div class="result-stats">
+      <div class="result-stat">
+        <div class="result-stat-icon green">
+          <svg class="icon"><use href="#i-check-circle"/></svg>
+        </div>
+        <div class="result-stat-info">
+          <strong>${correct}</strong>
+          <span>Дуруст</span>
+        </div>
+      </div>
+      <div class="result-stat">
+        <div class="result-stat-icon red">
+          <svg class="icon"><use href="#i-x-circle"/></svg>
+        </div>
+        <div class="result-stat-info">
+          <strong>${wrong}</strong>
+          <span>Хато</span>
+        </div>
+      </div>
+    </div>
+
+    ${weakLessons.length > 0 ? `
+      <div class="weak-lessons">
+        <h4>
+          <svg class="icon icon-xs"><use href="#i-target"/></svg>
+          Дарсҳое, ки такрор лозим аст:
+        </h4>
+        <div class="weak-chips">
+          ${weakLessons.map(id => `<span class="weak-chip">Дарси ${id}</span>`).join('')}
+        </div>
+      </div>
+    ` : ''}
+
+    <div class="result-actions">
+      <button class="btn-result primary" onclick="retryTest()">
+        <svg class="icon"><use href="#i-refresh"/></svg>
+        Аз нав
+      </button>
+      <button class="btn-result secondary" onclick="exitTest()">
+        <svg class="icon"><use href="#i-check"/></svg>
+        Ба асосӣ
+      </button>
+    </div>
+  `;
+
+  if (passed) {
+    createConfetti();
+  }
+
+  if (tg) tg.HapticFeedback?.notificationOccurred(passed ? 'success' : 'error');
+}
+
+function createConfetti() {
+  const colors = ['#fbbf24', '#f59e0b', '#6366f1', '#8b5cf6', '#ec4899', '#10b981'];
+  for (let i = 0; i < 40; i++) {
+    const c = document.createElement('div');
+    c.className = 'confetti';
+    c.style.left = Math.random() * 100 + '%';
+    c.style.background = colors[Math.floor(Math.random() * colors.length)];
+    c.style.animationDelay = Math.random() * 3 + 's';
+    c.style.animationDuration = (2 + Math.random() * 2) + 's';
+    c.style.borderRadius = Math.random() > 0.5 ? '50%' : '0';
+    document.body.appendChild(c);
+    setTimeout(() => c.remove(), 5000);
+  }
+}
+
+function retryTest() {
+  document.getElementById('resultScreen').style.display = 'none';
+  document.getElementById('setupScreen').style.display = 'flex';
+  document.getElementById('pageTitle').textContent = 'Тести калон';
+  document.getElementById('testSubtitle').textContent = `${ALL_QUESTIONS.length} савол омода`;
+}
+
+function exitTest() {
+  window.location.href = 'index.html';
+}
+
+// ============================================
+// HELPERS
+// ============================================
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c =>
+    ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]));
+}
+function escapeAttr(s) {
+  return String(s).replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+}
+
+// ============================================
+// START — танҳо барои Premium
+// ============================================
+if (isPremiumActive()) {
+  loadQuestions();
+} else {
+  showPremiumLockedScreen();
+}
+</script>
+</body>
+</html>
