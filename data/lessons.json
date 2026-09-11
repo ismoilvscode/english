@@ -1,0 +1,108 @@
+{
+  "totalLessons": 120,
+  "generatedAt": "2026-09-10T00:00:00.000Z",
+  "lessons": {
+    "1": {
+      "id": 1,
+      "title": "Луғат 1: Асосҳо",
+      "level": "Ибтидоӣ - Starkov",
+      "free": true,
+      "words": [
+        { "en": "a book", "tj": "китоб", "ex": "Ex: a book is useful." },
+        { "en": "a pen", "tj": "қалам", "ex": "Ex: a pen is useful." },
+        { "en": "a desk", "tj": "мизи дарсӣ", "ex": "Ex: a desk is useful." },
+        { "en": "a bag", "tj": "халта", "ex": "Ex: a bag is useful." },
+        { "en": "a cat", "tj": "гурба", "ex": "Ex: a cat is useful." },
+        { "en": "a dog", "tj": "саг", "ex": "Ex: a dog is useful." },
+        { "en": "red", "tj": "сурх", "ex": "Ex: red is useful." },
+        { "en": "blue", "tj": "кабуд", "ex": "Ex: blue is useful." }
+      ],
+      "phrases": [],
+      "text": null,
+      "exercises": [
+        { "q": "'a book' чи маъно дорад?", "options": ["китоб", "қалам", "халта", "мизи дарсӣ"], "answer": "китоб" },
+        { "q": "'a pen' чи маъно дорад?", "options": ["қалам", "китоб", "гурба", "саг"], "answer": "қалам" },
+        { "q": "'a desk' чи маъно дорад?", "options": ["мизи дарсӣ", "халта", "китоб", "қалам"], "answer": "мизи дарсӣ" },
+        { "q": "'a bag' чи маъно дорад?", "options": ["халта", "мизи дарсӣ", "гурба", "саг"], "answer": "халта" },
+        { "q": "'a cat' чи маъно дорад?", "options": ["гурба", "саг", "китоб", "қалам"], "answer": "гурба" },
+        { "q": "'a dog' чи маъно дорад?", "options": ["саг", "гурба", "халта", "мизи дарсӣ"], "answer": "саг" },
+        { "q": "'red' чи маъно дорад?", "options": ["сурх", "кабуд", "сабз", "сиёҳ"], "answer": "сурх" },
+        { "q": "'blue' чи маъно дорад?", "options": ["кабуд", "сурх", "сафед", "зард"], "answer": "кабуд" }
+      ],
+      "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
+      "wordsCount": 8
+    },
+    "2": {
+      "id": 2,
+      "title": "Луғат 2: Асосҳо",
+      "level": "Ибтидоӣ - Starkov",
+      "free": true,
+      "words": [
+        { "en": "blue", "tj": "кабуд", "ex": "Ex: blue is useful." },
+        { "en": "mother", "tj": "модар", "ex": "Ex: mother is useful." },
+        { "en": "father", "tj": "падар", "ex": "Ex: father is useful." },
+        { "en": "sister", "tj": "хоҳар", "ex": "Ex: sister is useful." },
+        { "en": "brother", "tj": "бародар", "ex": "Ex: brother is useful." },
+        { "en": "house", "tj": "хона", "ex": "Ex: house is useful." },
+        { "en": "school", "tj": "мактаб", "ex": "Ex: school is useful." },
+        { "en": "teacher", "tj": "омӯзгор", "ex": "Ex: teacher is useful." },
+        { "en": "pupil", "tj": "хонанда", "ex": "Ex: pupil is useful." },
+        { "en": "good", "tj": "хуб", "ex": "Ex: good is useful." }
+      ],
+      "phrases": [],
+      "text": null,
+      "exercises": [
+        { "q": "'blue' чи маъно дорад?", "options": ["кабуд", "сурх", "сабз", "сиёҳ"], "answer": "кабуд" },
+        { "q": "'mother' чи маъно дорад?", "options": ["модар", "падар", "хоҳар", "бародар"], "answer": "модар" },
+        { "q": "'father' чи маъно дорад?", "options": ["падар", "модар", "бародар", "хоҳар"], "answer": "падар" },
+        { "q": "'sister' чи маъно дорад?", "options": ["хоҳар", "бародар", "модар", "падар"], "answer": "хоҳар" },
+        { "q": "'brother' чи маъно дорад?", "options": ["бародар", "хоҳар", "падар", "модар"], "answer": "бародар" },
+        { "q": "'house' чи маъно дорад?", "options": ["хона", "мактаб", "халта", "мизи дарсӣ"], "answer": "хона" },
+        { "q": "'school' чи маъно дорад?", "options": ["мактаб", "хона", "омӯзгор", "хонанда"], "answer": "мактаб" },
+        { "q": "'teacher' чи маъно дорад?", "options": ["омӯзгор", "хонанда", "мактаб", "хона"], "answer": "омӯзгор" },
+        { "q": "'pupil' чи маъно дорад?", "options": ["хонанда", "омӯзгор", "мактаб", "модар"], "answer": "хонанда" },
+        { "q": "'good' чи маъно дорад?", "options": ["хуб", "бад", "калон", "хурд"], "answer": "хуб" }
+      ],
+      "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
+      "wordsCount": 10
+    },
+    "3": {
+      "id": 3,
+      "title": "Луғат 3: Асосҳо",
+      "level": "Ибтидоӣ - Starkov",
+      "free": false,
+      "words": [
+        { "en": "teacher", "tj": "омӯзгор", "ex": "Ex: teacher is useful." },
+        { "en": "pupil", "tj": "хонанда", "ex": "Ex: pupil is useful." },
+        { "en": "good", "tj": "хуб", "ex": "Ex: good is useful." },
+        { "en": "bad", "tj": "бад", "ex": "Ex: bad is useful." },
+        { "en": "big", "tj": "калон", "ex": "Ex: big is useful." },
+        { "en": "small", "tj": "хурд", "ex": "Ex: small is useful." },
+        { "en": "new", "tj": "нав", "ex": "Ex: new is useful." },
+        { "en": "old", "tj": "кӯҳна", "ex": "Ex: old is useful." },
+        { "en": "happy", "tj": "хушбахт", "ex": "Ex: happy is useful." },
+        { "en": "sad", "tj": "ғамгин", "ex": "Ex: sad is useful." },
+        { "en": "to read", "tj": "хондан", "ex": "Ex: to read is useful." },
+        { "en": "to write", "tj": "навиштан", "ex": "Ex: to write is useful." }
+      ],
+      "phrases": [],
+      "text": null,
+      "exercises": [
+        { "q": "'teacher' чи маъно дорад?", "options": ["омӯзгор", "хонанда", "хуб", "бад"], "answer": "омӯзгор" },
+        { "q": "'pupil' чи маъно дорад?", "options": ["хонанда", "омӯзгор", "калон", "хурд"], "answer": "хонанда" },
+        { "q": "'good' чи маъно дорад?", "options": ["хуб", "бад", "калон", "хурд"], "answer": "хуб" },
+        { "q": "'bad' чи маъно дорад?", "options": ["бад", "хуб", "ғамгин", "кӯҳна"], "answer": "бад" },
+        { "q": "'big' чи маъно дорад?", "options": ["калон", "хурд", "нав", "кӯҳна"], "answer": "калон" },
+        { "q": "'small' чи маъно дорад?", "options": ["хурд", "калон", "нав", "ғамгин"], "answer": "хурд" },
+        { "q": "'new' чи маъно дорад?", "options": ["нав", "кӯҳна", "калон", "хурд"], "answer": "нав" },
+        { "q": "'old' чи маъно дорад?", "options": ["кӯҳна", "нав", "бад", "хурд"], "answer": "кӯҳна" },
+        { "q": "'happy' чи маъно дорад?", "options": ["хушбахт", "ғамгин", "хуб", "калон"], "answer": "хушбахт" },
+        { "q": "'sad' чи маъно дорад?", "options": ["ғамгин", "хушбахт", "бад", "кӯҳна"], "answer": "ғамгин" },
+        { "q": "'to read' чи маъно дорад?", "options": ["хондан", "навиштан", "гуфтан", "омӯхтан"], "answer": "хондан" },
+        { "q": "'to write' чи маъно дорад?", "options": ["навиштан", "хондан", "гуфтан", "омӯхтан"], "answer": "навиштан" }
+      ],
+      "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
+      "wordsCount": 12
+    }
+  }
+}
