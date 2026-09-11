@@ -22,7 +22,7 @@ const IS_ADMIN = Number(user.id) === ADMIN_ID;
 // ============================================================
 const CONFIG = {
   CARD_NUMBER: '+992933217883',
-  ADMIN_BOT: 'learnchinenebot',
+  ADMIN_BOT: 'ismoilvscode',
   ADMIN_USERNAME: 'ismoilovcode',
   IMGBB_API_KEY: '5eb0b758759864c6b422ff1d11b034b5'   // ← ImgBB API
 };
