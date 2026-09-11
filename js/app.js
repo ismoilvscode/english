@@ -21,10 +21,10 @@ const IS_ADMIN = Number(user.id) === ADMIN_ID;
 // CONFIG — Танзимҳои шумо
 // ============================================================
 const CONFIG = {
-  CARD_NUMBER: '+992933217883',
-  ADMIN_BOT: 'ismoilvscode',
-  ADMIN_USERNAME: 'ismoilovcode',
-  IMGBB_API_KEY: '5eb0b758759864c6b422ff1d11b034b5'   // ← ImgBB API
+  CARD_NUMBER: '+992933217883',        // ← Корти шумо / номер
+  ADMIN_BOT: 'ismoilvscode',           // ← Номи боти шумо
+  ADMIN_USERNAME: 'ismoilovcode',      // ← Username-и шумо
+  IMGBB_API_KEY: '5eb0b758759864c6b422ff1d11b034b5'
 };
 
 // ============================================================
@@ -114,6 +114,7 @@ function calculateTotalScore() {
 // ============================================================
 function initPremiumSync() {
   if (!user.id) return;
+
   if (typeof listenMyPremiumFromFirebase !== 'function') {
     console.warn('⚠️ listenMyPremiumFromFirebase нест — Premium sync кор намекунад');
     return;
@@ -122,7 +123,7 @@ function initPremiumSync() {
   listenMyPremiumFromFirebase(user.id, data => {
     const wasActive = isPremiumActive();
 
-    // 1. Агар Premium фаъол бошад дар Firebase
+    // 1. Premium фаъол дар Firebase
     if (data.isPremium && data.premiumExpiresAt && Date.now() < data.premiumExpiresAt) {
       premium = {
         active: true,
@@ -132,7 +133,6 @@ function initPremiumSync() {
       };
       store.set('premium', premium);
 
-      // Аввалин бор фаъол шуд → хабар + refresh UI
       if (!wasActive) {
         console.log('👑 Premium фаъол шуд аз Firebase');
         showToast('👑 Premium фаъол шуд!');
@@ -142,10 +142,17 @@ function initPremiumSync() {
         renderLessons('all');
         updateStats();
 
-        if (tg) tg.HapticFeedback?.notificationOccurred('success');
+        if (tg) {
+          tg.HapticFeedback?.notificationOccurred('success');
+          tg.showPopup({
+            title: '🎉 Premium фаъол шуд!',
+            message: `Нақша: ${data.premiumPlan || 'Premium'}\nМӯҳлат: ${new Date(data.premiumExpiresAt).toLocaleDateString('tg-TJ')}`,
+            buttons: [{ type: 'close' }]
+          });
+        }
       }
     }
-    // 2. Агар Premium нест шуда бошад дар Firebase
+    // 2. Premium нест шуд
     else if (!data.isPremium && premium.active) {
       premium = { active: false, plan: null, startedAt: null, expiresAt: null };
       store.set('premium', premium);
@@ -154,8 +161,9 @@ function initPremiumSync() {
       renderProfile();
       updateTestLockUI();
       renderLessons('all');
+      updateStats();
     }
-    // 3. Агар мӯҳлат гузашта бошад
+    // 3. Мӯҳлат гузашт
     else if (data.isPremium && data.premiumExpiresAt && Date.now() >= data.premiumExpiresAt) {
       if (premium.active) {
         premium = { active: false, plan: null, startedAt: null, expiresAt: null };
@@ -163,6 +171,37 @@ function initPremiumSync() {
         renderProfile();
         updateTestLockUI();
         renderLessons('all');
+        updateStats();
+      }
+    }
+  });
+}
+
+// ============================================================
+// 🔔 NOTIFICATIONS LISTENER
+// ============================================================
+function initNotificationsListener() {
+  if (!user.id) return;
+  if (typeof listenMyNotifications !== 'function') return;
+
+  listenMyNotifications(user.id, notif => {
+    if (notif.type === 'premium_approved') {
+      showToast('🎉 Premium қабул шуд!');
+      if (tg) {
+        tg.showPopup({
+          title: '👑 Premium фаъол шуд!',
+          message: `Нақшаи шумо: ${notif.plan || 'Premium'}\nМӯҳлат: ${notif.days || 30} рӯз`,
+          buttons: [{ type: 'close' }]
+        });
+      }
+    } else if (notif.type === 'premium_rejected') {
+      showToast('❌ Фармоиш рад шуд');
+      if (tg) {
+        tg.showPopup({
+          title: '❌ Фармоиш рад шуд',
+          message: `Сабаб: ${notif.reason || 'Нишон дода нашуд'}`,
+          buttons: [{ type: 'close' }]
+        });
       }
     }
   });
@@ -213,11 +252,17 @@ async function initApp() {
   }
 
   const name = user.first_name || 'Корбар';
-  document.getElementById('userName').textContent = name;
-  document.getElementById('profileName').textContent = name;
+  const userNameEl = document.getElementById('userName');
+  const profileNameEl = document.getElementById('profileName');
+  if (userNameEl) userNameEl.textContent = name;
+  if (profileNameEl) profileNameEl.textContent = name;
 
   renderAvatar();
   syncMyUser();
+
+  // 🎧 Premium sync — кӯшиш кун, агар Firebase омода бошад
+  initPremiumSync();
+  initNotificationsListener();
 
   await loadManifest();
   renderAll();
@@ -910,7 +955,6 @@ function compressImage(file, maxWidth = 1200, quality = 0.85) {
         const ctx = canvas.getContext('2d');
         ctx.drawImage(img, 0, 0, width, height);
 
-        // JPEG барои ҳаҷми камтар
         const compressed = canvas.toDataURL('image/jpeg', quality);
         resolve(compressed);
       };
@@ -926,7 +970,6 @@ function compressImage(file, maxWidth = 1200, quality = 0.85) {
 // IMGBB — Боркунии расм ба CDN
 // ============================================================
 async function uploadToImgBB(base64Image) {
-  // Тоза кардани prefix "data:image/jpeg;base64,"
   const base64Data = base64Image.replace(/^data:image\/\w+;base64,/, '');
 
   const formData = new FormData();
@@ -948,7 +991,6 @@ async function uploadToImgBB(base64Image) {
     throw new Error(json.error?.message || 'ImgBB upload error');
   }
 
-  // Баргардондани URL
   return json.data.display_url || json.data.url;
 }
 
@@ -992,7 +1034,7 @@ function copyCardNumber() {
   const text = CONFIG.CARD_NUMBER;
   if (navigator.clipboard) {
     navigator.clipboard.writeText(text).then(() => {
-      showToast('✅ Рақами корт нусхабардорӣ шуд');
+      showToast('✅ Номер нусхабардорӣ шуд');
       if (tg) tg.HapticFeedback?.notificationOccurred('success');
     }).catch(() => fallbackCopy(text));
   } else {
@@ -1009,7 +1051,7 @@ function fallbackCopy(text) {
   input.select();
   document.execCommand('copy');
   input.remove();
-  showToast('✅ Рақами корт нусхабардорӣ шуд');
+  showToast('✅ Номер нусхабардорӣ шуд');
 }
 
 // ============================================================
@@ -1102,7 +1144,7 @@ async function sendPremiumOrder() {
     planLabel: plan.label,
     planPrice: plan.price,
     planDays: plan.days,
-    photo: uploadedPhotoUrl,   // ← Танҳо URL, на base64
+    photo: uploadedPhotoUrl,
     status: 'pending',
     createdAt: Date.now()
   };
@@ -1110,7 +1152,6 @@ async function sendPremiumOrder() {
   try {
     let orderId = 'order_' + Date.now();
 
-    // 1. Ба Firebase (танҳо URL)
     if (typeof db !== 'undefined' && db) {
       const ref = db.ref('premium_orders').push();
       orderId = ref.key;
@@ -1121,7 +1162,6 @@ async function sendPremiumOrder() {
       throw new Error('Firebase пайваст нест');
     }
 
-    // 2. Haptic + Popup
     if (tg) tg.HapticFeedback?.notificationOccurred('success');
     showSuccessPopup(order, orderId);
 
@@ -1228,12 +1268,20 @@ function showToast(msg) {
 }
 
 // ============================================================
-// FIREBASE READY
+// FIREBASE READY — даъвати ҳамаи listener-ҳо
 // ============================================================
 function onFirebaseReady() {
   console.log('🔥 Firebase пайваст шуд');
+
   syncMyUser();
 
+  // 🎧 Premium sync — Муҳим! Ин ҷо даъват мешавад, чунки db омода шуд
+  initPremiumSync();
+
+  // 🔔 Notifications
+  initNotificationsListener();
+
+  // Навсозии саҳифаҳои кушода
   const ratingPage = document.querySelector('[data-page="rating"]');
   if (ratingPage?.classList.contains('active')) {
     renderRating('all');
