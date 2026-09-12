@@ -1,344 +1,449 @@
 {
   "id": 8,
-  "title": "Луғат 8: Асосҳо",
+  "title": "Луғат 8: Рӯзҳо, моҳҳо ва фаслҳо",
   "level": "Ибтидоӣ - Starkov",
   "free": false,
   "words": [
     {
-      "en": "a cat",
-      "tj": "гурба",
-      "ex": "Ex: a cat is useful."
+      "en": "Monday",
+      "tj": "душанбе",
+      "ex": "Monday is the first day of the week."
     },
     {
-      "en": "a dog",
-      "tj": "саг",
-      "ex": "Ex: a dog is useful."
+      "en": "Tuesday",
+      "tj": "сешанбе",
+      "ex": "Tuesday is the second day."
     },
     {
-      "en": "red",
-      "tj": "сурх",
-      "ex": "Ex: red is useful."
+      "en": "Wednesday",
+      "tj": "чоршанбе",
+      "ex": "Wednesday is the third day."
     },
     {
-      "en": "blue",
-      "tj": "кабуд",
-      "ex": "Ex: blue is useful."
+      "en": "Thursday",
+      "tj": "панҷшанбе",
+      "ex": "Thursday is the fourth day."
     },
     {
-      "en": "mother",
-      "tj": "модар",
-      "ex": "Ex: mother is useful."
+      "en": "Friday",
+      "tj": "ҷумъа",
+      "ex": "Friday is the fifth day."
     },
     {
-      "en": "father",
-      "tj": "падар",
-      "ex": "Ex: father is useful."
+      "en": "Saturday",
+      "tj": "шанбе",
+      "ex": "Saturday is the sixth day."
     },
     {
-      "en": "sister",
-      "tj": "хоҳар",
-      "ex": "Ex: sister is useful."
+      "en": "Sunday",
+      "tj": "якшанбе",
+      "ex": "Sunday is the seventh day."
     },
     {
-      "en": "brother",
-      "tj": "бародар",
-      "ex": "Ex: brother is useful."
+      "en": "January",
+      "tj": "январ",
+      "ex": "January is the first month."
     },
     {
-      "en": "house",
-      "tj": "хона",
-      "ex": "Ex: house is useful."
+      "en": "February",
+      "tj": "феврал",
+      "ex": "February is the second month."
     },
     {
-      "en": "school",
-      "tj": "мактаб",
-      "ex": "Ex: school is useful."
+      "en": "March",
+      "tj": "март",
+      "ex": "March is the third month."
     },
     {
-      "en": "teacher",
-      "tj": "омӯзгор",
-      "ex": "Ex: teacher is useful."
+      "en": "April",
+      "tj": "апрел",
+      "ex": "April is the fourth month."
     },
     {
-      "en": "pupil",
-      "tj": "хонанда",
-      "ex": "Ex: pupil is useful."
+      "en": "May",
+      "tj": "май",
+      "ex": "May is the fifth month."
     },
     {
-      "en": "good",
-      "tj": "хуб",
-      "ex": "Ex: good is useful."
+      "en": "June",
+      "tj": "июн",
+      "ex": "June is the sixth month."
     },
     {
-      "en": "bad",
-      "tj": "бад",
-      "ex": "Ex: bad is useful."
+      "en": "July",
+      "tj": "июл",
+      "ex": "July is the seventh month."
     },
     {
-      "en": "big",
-      "tj": "калон",
-      "ex": "Ex: big is useful."
+      "en": "August",
+      "tj": "август",
+      "ex": "August is the eighth month."
     },
     {
-      "en": "small",
-      "tj": "хурд",
-      "ex": "Ex: small is useful."
+      "en": "September",
+      "tj": "сентябр",
+      "ex": "September is the ninth month."
     },
     {
-      "en": "new",
-      "tj": "нав",
-      "ex": "Ex: new is useful."
+      "en": "October",
+      "tj": "октябр",
+      "ex": "October is the tenth month."
     },
     {
-      "en": "old",
-      "tj": "кӯҳна",
-      "ex": "Ex: old is useful."
+      "en": "November",
+      "tj": "ноябр",
+      "ex": "November is the eleventh month."
     },
     {
-      "en": "happy",
-      "tj": "хушбахт",
-      "ex": "Ex: happy is useful."
+      "en": "December",
+      "tj": "декабр",
+      "ex": "December is the twelfth month."
     },
     {
-      "en": "sad",
-      "tj": "ғамгин",
-      "ex": "Ex: sad is useful."
+      "en": "spring",
+      "tj": "баҳор",
+      "ex": "Spring is a warm season."
     },
     {
-      "en": "to read",
-      "tj": "хондан",
-      "ex": "Ex: to read is useful."
+      "en": "summer",
+      "tj": "тобистон",
+      "ex": "Summer is a hot season."
     },
     {
-      "en": "to write",
-      "tj": "навиштан",
-      "ex": "Ex: to write is useful."
+      "en": "autumn",
+      "tj": "тирамоҳ",
+      "ex": "Autumn is a cool season."
     },
     {
-      "en": "to speak",
-      "tj": "гап задан",
-      "ex": "Ex: to speak is useful."
+      "en": "winter",
+      "tj": "зимистон",
+      "ex": "Winter is a cold season."
     },
     {
-      "en": "to learn",
-      "tj": "омӯхтан",
-      "ex": "Ex: to learn is useful."
+      "en": "year",
+      "tj": "сол",
+      "ex": "There are twelve months in a year."
+    },
+    {
+      "en": "month",
+      "tj": "моҳ",
+      "ex": "January is a month."
+    },
+    {
+      "en": "week",
+      "tj": "ҳафта",
+      "ex": "There are seven days in a week."
+    },
+    {
+      "en": "hour",
+      "tj": "соат",
+      "ex": "There are sixty minutes in an hour."
+    },
+    {
+      "en": "minute",
+      "tj": "дақиқа",
+      "ex": "There are sixty seconds in a minute."
+    },
+    {
+      "en": "second",
+      "tj": "сония",
+      "ex": "A second is very short."
     }
   ],
   "phrases": [],
   "text": null,
   "exercises": [
     {
-      "q": "'a cat' чи маъно дорад?",
+      "q": "'Monday' чи маъно дорад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "гурба"
+        "душанбе",
+        "сешанбе",
+        "чоршанбе",
+        "панҷшанбе"
       ],
-      "answer": "гурба"
+      "answer": "душанбе"
     },
     {
-      "q": "'a dog' чи маъно дорад?",
+      "q": "'Tuesday' чи маъно дорад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "саг"
+        "душанбе",
+        "сешанбе",
+        "чоршанбе",
+        "шанбе"
       ],
-      "answer": "саг"
+      "answer": "сешанбе"
     },
     {
-      "q": "'red' чи маъно дорад?",
+      "q": "'Wednesday' чи маъно дорад?",
       "options": [
-        "сурх",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "душанбе",
+        "сешанбе",
+        "чоршанбе",
+        "панҷшанбе"
       ],
-      "answer": "сурх"
+      "answer": "чоршанбе"
     },
     {
-      "q": "'blue' чи маъно дорад?",
+      "q": "'Thursday' чи маъно дорад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "кабуд",
-        "нодуруст A"
+        "чоршанбе",
+        "панҷшанбе",
+        "ҷумъа",
+        "шанбе"
       ],
-      "answer": "кабуд"
+      "answer": "панҷшанбе"
     },
     {
-      "q": "'mother' чи маъно дорад?",
+      "q": "'Friday' чи маъно дорад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "модар",
-        "нодуруст A"
+        "панҷшанбе",
+        "ҷумъа",
+        "шанбе",
+        "якшанбе"
       ],
-      "answer": "модар"
+      "answer": "ҷумъа"
     },
     {
-      "q": "'father' чи маъно дорад?",
+      "q": "'Saturday' чи маъно дорад?",
       "options": [
-        "падар",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "ҷумъа",
+        "шанбе",
+        "якшанбе",
+        "душанбе"
       ],
-      "answer": "падар"
+      "answer": "шанбе"
     },
     {
-      "q": "'sister' чи маъно дорад?",
+      "q": "'Sunday' чи маъно дорад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "хоҳар"
+        "шанбе",
+        "якшанбе",
+        "душанбе",
+        "сешанбе"
       ],
-      "answer": "хоҳар"
+      "answer": "якшанбе"
     },
     {
-      "q": "'brother' чи маъно дорад?",
+      "q": "'January' чи маъно дорад?",
       "options": [
-        "нодуруст C",
-        "бародар",
-        "нодуруст A",
-        "нодуруст B"
+        "январ",
+        "феврал",
+        "март",
+        "апрел"
       ],
-      "answer": "бародар"
+      "answer": "январ"
     },
     {
-      "q": "'house' чи маъно дорад?",
+      "q": "'February' чи маъно дорад?",
       "options": [
-        "нодуруст C",
-        "хона",
-        "нодуруст A",
-        "нодуруст B"
+        "январ",
+        "феврал",
+        "март",
+        "май"
       ],
-      "answer": "хона"
+      "answer": "феврал"
     },
     {
-      "q": "'school' чи маъно дорад?",
+      "q": "'March' чи маъно дорад?",
       "options": [
-        "нодуруст B",
-        "мактаб",
-        "нодуруст C",
-        "нодуруст A"
+        "феврал",
+        "март",
+        "апрел",
+        "июн"
       ],
-      "answer": "мактаб"
+      "answer": "март"
     },
     {
-      "q": "'teacher' чи маъно дорад?",
+      "q": "'April' чи маъно дорад?",
       "options": [
-        "омӯзгор",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "март",
+        "апрел",
+        "май",
+        "июл"
       ],
-      "answer": "омӯзгор"
+      "answer": "апрел"
     },
     {
-      "q": "'pupil' чи маъно дорад?",
+      "q": "'May' чи маъно дорад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "хонанда",
-        "нодуруст A"
+        "апрел",
+        "май",
+        "июн",
+        "август"
       ],
-      "answer": "хонанда"
+      "answer": "май"
     },
     {
-      "q": "'good' чи маъно дорад?",
+      "q": "'June' чи маъно дорад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "хуб"
+        "май",
+        "июн",
+        "июл",
+        "сентябр"
       ],
-      "answer": "хуб"
+      "answer": "июн"
     },
     {
-      "q": "'bad' чи маъно дорад?",
+      "q": "'July' чи маъно дорад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "бад",
-        "нодуруст B"
+        "июн",
+        "июл",
+        "август",
+        "октябр"
       ],
-      "answer": "бад"
+      "answer": "июл"
     },
     {
-      "q": "'big' чи маъно дорад?",
+      "q": "'August' чи маъно дорад?",
       "options": [
-        "нодуруст A",
-        "калон",
-        "нодуруст B",
-        "нодуруст C"
+        "июл",
+        "август",
+        "сентябр",
+        "ноябр"
       ],
-      "answer": "калон"
+      "answer": "август"
     },
     {
-      "q": "'small' чи маъно дорад?",
+      "q": "'September' чи маъно дорад?",
       "options": [
-        "хурд",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "август",
+        "сентябр",
+        "октябр",
+        "декабр"
       ],
-      "answer": "хурд"
+      "answer": "сентябр"
     },
     {
-      "q": "'new' чи маъно дорад?",
+      "q": "'October' чи маъно дорад?",
       "options": [
-        "нодуруст B",
-        "нав",
-        "нодуруст A",
-        "нодуруст C"
+        "сентябр",
+        "октябр",
+        "ноябр",
+        "январ"
       ],
-      "answer": "нав"
+      "answer": "октябр"
     },
     {
-      "q": "'old' чи маъно дорад?",
+      "q": "'November' чи маъно дорад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "кӯҳна",
-        "нодуруст A"
+        "октябр",
+        "ноябр",
+        "декабр",
+        "феврал"
       ],
-      "answer": "кӯҳна"
+      "answer": "ноябр"
     },
     {
-      "q": "'happy' чи маъно дорад?",
+      "q": "'December' чи маъно дорад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "хушбахт",
-        "нодуруст A"
+        "ноябр",
+        "декабр",
+        "январ",
+        "март"
       ],
-      "answer": "хушбахт"
+      "answer": "декабр"
     },
     {
-      "q": "'sad' чи маъно дорад?",
+      "q": "'spring' чи маъно дорад?",
       "options": [
-        "ғамгин",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "баҳор",
+        "тобистон",
+        "тирамоҳ",
+        "зимистон"
       ],
-      "answer": "ғамгин"
+      "answer": "баҳор"
     },
     {
-      "q": "'to read' чи маъно дорад?",
+      "q": "'summer' чи маъно дорад?",
       "options": [
-        "нодуруст C",
-        "хондан",
-        "нодуруст B",
-        "нодуруст A"
+        "баҳор",
+        "тобистон",
+        "тирамоҳ",
+        "зимистон"
       ],
-      "answer": "хондан"
+      "answer": "тобистон"
+    },
+    {
+      "q": "'autumn' чи маъно дорад?",
+      "options": [
+        "баҳор",
+        "тобистон",
+        "тирамоҳ",
+        "зимистон"
+      ],
+      "answer": "тирамоҳ"
+    },
+    {
+      "q": "'winter' чи маъно дорад?",
+      "options": [
+        "баҳор",
+        "тобистон",
+        "тирамоҳ",
+        "зимистон"
+      ],
+      "answer": "зимистон"
+    },
+    {
+      "q": "'year' чи маъно дорад?",
+      "options": [
+        "сол",
+        "моҳ",
+        "ҳафта",
+        "соат"
+      ],
+      "answer": "сол"
+    },
+    {
+      "q": "'month' чи маъно дорад?",
+      "options": [
+        "сол",
+        "моҳ",
+        "ҳафта",
+        "дақиқа"
+      ],
+      "answer": "моҳ"
+    },
+    {
+      "q": "'week' чи маъно дорад?",
+      "options": [
+        "сол",
+        "моҳ",
+        "ҳафта",
+        "сония"
+      ],
+      "answer": "ҳафта"
+    },
+    {
+      "q": "'hour' чи маъно дорад?",
+      "options": [
+        "соат",
+        "дақиқа",
+        "сония",
+        "рӯз"
+      ],
+      "answer": "соат"
+    },
+    {
+      "q": "'minute' чи маъно дорад?",
+      "options": [
+        "соат",
+        "дақиқа",
+        "сония",
+        "моҳ"
+      ],
+      "answer": "дақиқа"
+    },
+    {
+      "q": "'second' чи маъно дорад?",
+      "options": [
+        "соат",
+        "дақиқа",
+        "сония",
+        "сол"
+      ],
+      "answer": "сония"
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 24
+  "wordsCount": 29
 }
