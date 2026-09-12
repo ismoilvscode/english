@@ -1,731 +1,440 @@
 {
-  "id": 118,
-  "title": "Street Slang 118",
-  "level": "Street English",
+  "id": 18,
+  "title": "Иборасозӣ 18: Кор дар боғ ва хоҷагӣ",
+  "level": "Ибтидоӣ - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "to grow",
+      "tj": "парвариш кардан",
+      "ex": "We grow flowers in the garden."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "to plant",
+      "tj": "шинондан",
+      "ex": "I plant a tree in spring."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "to pick",
+      "tj": "чидан",
+      "ex": "She picks apples from the tree."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "to feed",
+      "tj": "хӯрок додан",
+      "ex": "He feeds the horse in the morning."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "to cook",
+      "tj": "пухтан",
+      "ex": "My mother cooks dinner."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "to bake",
+      "tj": "пухтан (нон)",
+      "ex": "The baker bakes bread."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "field",
+      "tj": "киштзор",
+      "ex": "The farmer works in the field."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "farm",
+      "tj": "хоҷагӣ",
+      "ex": "My grandfather has a farm."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "seed",
+      "tj": "тухмӣ",
+      "ex": "I put a seed in the ground."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "fruit",
+      "tj": "мева",
+      "ex": "The apple is a fruit."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "vegetable",
+      "tj": "сабзавот",
+      "ex": "I eat a vegetable every day."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "harvest",
+      "tj": "ҳосил",
+      "ex": "The harvest is good in autumn."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "basket",
+      "tj": "сабад",
+      "ex": "She carries a basket of apples."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "ladder",
+      "tj": "нардбон",
+      "ex": "He climbs the ladder."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "fence",
+      "tj": "девор (гирдогирд)",
+      "ex": "The fence is near the garden."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 118)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "We grow flowers and vegetables in the garden.",
+      "tj": "Мо дар боғ гулҳо ва сабзавот парвариш мекунем."
     },
     {
-      "en": "I'm working on lesson 118",
-      "tj": "Ман дарси 118-ро меомӯзам"
+      "en": "I plant a tree in spring.",
+      "tj": "Ман дар баҳор дарахт мешинонам."
+    },
+    {
+      "en": "She picks apples from the tree.",
+      "tj": "Ӯ себҳоро аз дарахт мечинад."
+    },
+    {
+      "en": "He feeds the horse in the morning.",
+      "tj": "Ӯ субҳ ба асп хӯрок медиҳад."
+    },
+    {
+      "en": "My mother cooks dinner in the kitchen.",
+      "tj": "Модари ман дар ошхона хӯроки шом мепазад."
+    },
+    {
+      "en": "The baker bakes bread every morning.",
+      "tj": "Нонвой ҳар субҳ нон мепазад."
+    },
+    {
+      "en": "The farmer works in the field.",
+      "tj": "Деҳқон дар киштзор кор мекунад."
+    },
+    {
+      "en": "My grandfather has a big farm near the village.",
+      "tj": "Бобои ман дар назди деҳа хоҷагии калон дорад."
+    },
+    {
+      "en": "I put a small seed in the ground.",
+      "tj": "Ман тухмии хурдро ба замин мегузорам."
+    },
+    {
+      "en": "The apple is a fruit and the carrot is a vegetable.",
+      "tj": "Себ мева аст ва сабзӣ сабзавот аст."
+    },
+    {
+      "en": "The harvest is good in autumn.",
+      "tj": "Ҳосил дар тирамоҳ хуб аст."
+    },
+    {
+      "en": "She carries a basket of apples.",
+      "tj": "Ӯ сабади себҳоро мебардорад."
+    },
+    {
+      "en": "He climbs the ladder to pick fruit.",
+      "tj": "Ӯ ба нардбон мебарояд, то мева чинад."
+    },
+    {
+      "en": "The fence is near the garden.",
+      "tj": "Девор дар назди боғ аст."
+    },
+    {
+      "en": "The farmer feeds the cow and the horse.",
+      "tj": "Деҳқон ба гов ва асп хӯрок медиҳад."
+    },
+    {
+      "en": "My grandmother picks vegetables and puts them in the basket.",
+      "tj": "Бибии ман сабзавотро мечинад ва ба сабад мегузорад."
+    },
+    {
+      "en": "The baker bakes bread, and my mother cooks dinner.",
+      "tj": "Нонвой нон мепазад ва модари ман хӯроки шом мепазад."
+    },
+    {
+      "en": "We grow fruit and vegetables in our garden.",
+      "tj": "Мо дар боғи худ мева ва сабзавот парвариш мекунем."
+    },
+    {
+      "en": "The farmer works in the field from morning to evening.",
+      "tj": "Деҳқон аз субҳ то бегоҳ дар киштзор кор мекунад."
+    },
+    {
+      "en": "I feed the birds in the garden in winter.",
+      "tj": "Ман дар зимистон ба паррандаҳо дар боғ хӯрок медиҳам."
+    },
+    {
+      "en": "She puts the fruit in the basket near the fence.",
+      "tj": "Ӯ меваро ба сабад дар назди девор мегузорад."
+    },
+    {
+      "en": "My father plants a tree near the house in spring.",
+      "tj": "Падари ман дар баҳор дар назди хона дарахт мешинонад."
+    },
+    {
+      "en": "The harvest is in the basket and on the table.",
+      "tj": "Ҳосил дар сабад ва дар миз аст."
+    },
+    {
+      "en": "He feeds the horse, and she feeds the cow.",
+      "tj": "Ӯ ба асп хӯрок медиҳад ва ӯ ба гов хӯрок медиҳад."
+    },
+    {
+      "en": "We pick apples and put them in the basket near the ladder.",
+      "tj": "Мо себҳоро мечинам ва онҳоро ба сабад дар назди нардбон мегузорем."
     }
   ],
-  "text": {
-    "en": "Text for lesson 118. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 118 is about Street English. I write all words in my notebook. Level 118 text.",
-    "tj": "Матни дарси 118..."
-  },
+  "text": null,
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Мо дар боғ гулҳо ва сабзавот парвариш мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст A",
-        "нодуруст C"
+        "We grow flowers and vegetables in the garden.",
+        "We grow flowers and fruit in the garden.",
+        "We plant flowers and vegetables in the garden.",
+        "We grow trees and vegetables in the garden."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "We grow flowers and vegetables in the garden."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман дар баҳор дарахт мешинонам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст A"
+        "I plant a tree in spring.",
+        "I plant a tree in summer.",
+        "I grow a tree in spring.",
+        "I plant a flower in spring."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I plant a tree in spring."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ӯ себҳоро аз дарахт мечинад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: environment"
+        "She picks apples from the tree.",
+        "He picks apples from the tree.",
+        "She picks fruit from the tree.",
+        "She picks apples from the garden."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "She picks apples from the tree."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ӯ субҳ ба асп хӯрок медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "He feeds the horse in the morning.",
+        "She feeds the horse in the morning.",
+        "He feeds the cow in the morning.",
+        "He feeds the horse in the evening."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "He feeds the horse in the morning."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Модари ман дар ошхона хӯроки шом мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: education"
+        "My mother cooks dinner in the kitchen.",
+        "My mother cooks lunch in the kitchen.",
+        "My mother bakes dinner in the kitchen.",
+        "My mother cooks dinner in the garden."
       ],
-      "answer": "тарҷума: education"
+      "answer": "My mother cooks dinner in the kitchen."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Нонвой ҳар субҳ нон мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: development"
+        "The baker bakes bread every morning.",
+        "The baker bakes bread every evening.",
+        "The cook bakes bread every morning.",
+        "The baker cooks bread every morning."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The baker bakes bread every morning."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Деҳқон дар киштзор кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст B"
+        "The farmer works in the field.",
+        "The farmer works in the garden.",
+        "The worker works in the field.",
+        "The farmer works on the farm."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The farmer works in the field."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Бобои ман дар назди деҳа хоҷагии калон дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "My grandfather has a big farm near the village.",
+        "My grandfather has a big farm near the city.",
+        "My grandmother has a big farm near the village.",
+        "My grandfather has a small farm near the village."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "My grandfather has a big farm near the village."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Ман тухмии хурдро ба замин мегузорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: knowledge",
-        "нодуруст C",
-        "нодуруст B"
+        "I put a small seed in the ground.",
+        "I put a small seed in the garden.",
+        "I put a small stone in the ground.",
+        "I put a small seed on the ground."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "I put a small seed in the ground."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Себ мева аст ва сабзӣ сабзавот аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: conversation",
-        "нодуруст B",
-        "нодуруст C"
+        "The apple is a fruit and the carrot is a vegetable.",
+        "The apple is a fruit and the carrot is a fruit.",
+        "The apple is a vegetable and the carrot is a vegetable.",
+        "The apple is a fruit and the potato is a vegetable."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The apple is a fruit and the carrot is a vegetable."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ҳосил дар тирамоҳ хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: fluency",
-        "нодуруст A",
-        "нодуруст B"
+        "The harvest is good in autumn.",
+        "The harvest is good in spring.",
+        "The harvest is bad in autumn.",
+        "The harvest is good in summer."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "The harvest is good in autumn."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ӯ сабади себҳоро мебардорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст B"
+        "She carries a basket of apples.",
+        "He carries a basket of apples.",
+        "She carries a basket of fruit.",
+        "She carries a bag of apples."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "She carries a basket of apples."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Ӯ ба нардбон мебарояд, то мева чинад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: pronunciation",
-        "нодуруст C",
-        "нодуруст B"
+        "He climbs the ladder to pick fruit.",
+        "She climbs the ladder to pick fruit.",
+        "He climbs the ladder to pick apples.",
+        "He climbs the tree to pick fruit."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "He climbs the ladder to pick fruit."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Девор дар назди боғ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: vocabulary",
-        "нодуруст B",
-        "нодуруст A"
+        "The fence is near the garden.",
+        "The fence is in the garden.",
+        "The fence is near the house.",
+        "The gate is near the garden."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "The fence is near the garden."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Деҳқон ба гов ва асп хӯрок медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: grammar",
-        "нодуруст B",
-        "нодуруст C"
+        "The farmer feeds the cow and the horse.",
+        "The farmer feeds the horse and the cow.",
+        "The farmer feeds the cow and the sheep.",
+        "The farmer feeds the dog and the horse."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "The farmer feeds the cow and the horse."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Бибии ман сабзавотро мечинад ва ба сабад мегузорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: opportunity"
+        "My grandmother picks vegetables and puts them in the basket.",
+        "My grandmother picks fruit and puts them in the basket.",
+        "My mother picks vegetables and puts them in the basket.",
+        "My grandmother picks vegetables and puts them on the table."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "My grandmother picks vegetables and puts them in the basket."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Нонвой нон мепазад ва модари ман хӯроки шом мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The baker bakes bread, and my mother cooks dinner.",
+        "The baker bakes bread, and my mother cooks lunch.",
+        "The cook bakes bread, and my mother cooks dinner.",
+        "The baker bakes bread, and my grandmother cooks dinner."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The baker bakes bread, and my mother cooks dinner."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Мо дар боғи худ мева ва сабзавот парвариш мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "We grow fruit and vegetables in our garden.",
+        "We grow fruit and flowers in our garden.",
+        "We plant fruit and vegetables in our garden.",
+        "We grow fruit and vegetables in the field."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "We grow fruit and vegetables in our garden."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Деҳқон аз субҳ то бегоҳ дар киштзор кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "The farmer works in the field from morning to evening.",
+        "The farmer works in the field from morning to night.",
+        "The farmer works in the garden from morning to evening.",
+        "The worker works in the field from morning to evening."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "The farmer works in the field from morning to evening."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ман дар зимистон ба паррандаҳо дар боғ хӯрок медиҳам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст A"
+        "I feed the birds in the garden in winter.",
+        "I feed the birds in the garden in autumn.",
+        "I feed the cat in the garden in winter.",
+        "I feed the birds in the field in winter."
       ],
-      "answer": "тарҷума: education"
+      "answer": "I feed the birds in the garden in winter."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Ӯ меваро ба сабад дар назди девор мегузорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: development"
+        "She puts the fruit in the basket near the fence.",
+        "She puts the fruit in the basket near the tree.",
+        "He puts the fruit in the basket near the fence.",
+        "She puts the vegetables in the basket near the fence."
       ],
-      "answer": "тарҷума: development"
+      "answer": "She puts the fruit in the basket near the fence."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Падари ман дар баҳор дар назди хона дарахт мешинонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: achievement",
-        "нодуруст C"
+        "My father plants a tree near the house in spring.",
+        "My father plants a tree near the house in autumn.",
+        "My grandfather plants a tree near the house in spring.",
+        "My father plants a flower near the house in spring."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "My father plants a tree near the house in spring."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ҳосил дар сабад ва дар миз аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст B"
+        "The harvest is in the basket and on the table.",
+        "The harvest is in the basket and on the desk.",
+        "The fruit is in the basket and on the table.",
+        "The harvest is in the bag and on the table."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The harvest is in the basket and on the table."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Ӯ ба асп хӯрок медиҳад ва ӯ ба гов хӯрок медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: knowledge"
+        "He feeds the horse, and she feeds the cow.",
+        "She feeds the horse, and he feeds the cow.",
+        "He feeds the horse, and she feeds the sheep.",
+        "He feeds the cow, and she feeds the horse."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "He feeds the horse, and she feeds the cow."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Мо себҳоро мечинам ва онҳоро ба сабад дар назди нардбон мегузорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "We pick apples and put them in the basket near the ladder.",
+        "We pick apples and put them in the basket near the fence.",
+        "We pick fruit and put them in the basket near the ladder.",
+        "We pick apples and put them in the bag near the ladder."
       ],
-      "answer": "тарҷума: conversation"
-    },
-    {
-      "q": "'fluency' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: fluency",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: fluency"
-    },
-    {
-      "q": "'confidence' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: confidence",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: pronunciation"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: vocabulary",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: grammar",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "тарҷума: opportunity",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "тарҷума: environment",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: communication",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: education",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: development"
-      ],
-      "answer": "тарҷума: development"
-    },
-    {
-      "q": "'achievement' чи маъно дорад?",
-      "options": [
-        "тарҷума: achievement",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: achievement"
-    },
-    {
-      "q": "'challenge' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: challenge",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: challenge"
-    },
-    {
-      "q": "'knowledge' чи маъно дорад?",
-      "options": [
-        "тарҷума: knowledge",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: knowledge"
-    },
-    {
-      "q": "'conversation' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: conversation"
-      ],
-      "answer": "тарҷума: conversation"
-    },
-    {
-      "q": "'fluency' чи маъно дорад?",
-      "options": [
-        "тарҷума: fluency",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: fluency"
-    },
-    {
-      "q": "'confidence' чи маъно дорад?",
-      "options": [
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "тарҷума: pronunciation",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: vocabulary",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: grammar",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: experience"
-      ],
-      "answer": "тарҷума: experience"
+      "answer": "We pick apples and put them in the basket near the ladder."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 47
+  "wordsCount": 15
 }
