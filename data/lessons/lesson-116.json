@@ -1,716 +1,440 @@
 {
-  "id": 116,
-  "title": "Street Slang 116",
-  "level": "Street English",
+  "id": 16,
+  "title": "Иборасозӣ 16: Ҳиссиёт ва хислатҳо",
+  "level": "Ибтидоӣ - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "to smile",
+      "tj": "табассум кардан",
+      "ex": "I smile at my mother."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "to cry",
+      "tj": "гиря кардан",
+      "ex": "The child cries."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "to laugh",
+      "tj": "хандидан",
+      "ex": "We laugh in the garden."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "to rest",
+      "tj": "дам гирифтан",
+      "ex": "I rest in the afternoon."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "to enjoy",
+      "tj": "лаззат бурдан",
+      "ex": "She enjoys the music."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "to thank",
+      "tj": "ташаккур кардан",
+      "ex": "I thank my teacher."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "quiet",
+      "tj": "ором",
+      "ex": "The room is quiet."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "loud",
+      "tj": "баланд",
+      "ex": "The music is loud."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "kind",
+      "tj": "меҳрубон",
+      "ex": "My grandmother is kind."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "clever",
+      "tj": "зирак",
+      "ex": "The student is clever."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "lazy",
+      "tj": "танбал",
+      "ex": "The cat is lazy."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "busy",
+      "tj": "банд",
+      "ex": "My father is busy."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "ready",
+      "tj": "омода",
+      "ex": "I am ready for school."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "sorry",
+      "tj": "бубахшед",
+      "ex": "I am sorry."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "welcome",
+      "tj": "хуш омадед",
+      "ex": "Welcome to my house!"
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 116)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "I smile at my mother.",
+      "tj": "Ман ба модарам табассум мекунам."
     },
     {
-      "en": "I'm working on lesson 116",
-      "tj": "Ман дарси 116-ро меомӯзам"
+      "en": "The small child cries.",
+      "tj": "Кӯдаки хурд гиря мекунад."
+    },
+    {
+      "en": "We laugh in the garden.",
+      "tj": "Мо дар боғ механдем."
+    },
+    {
+      "en": "I rest in the afternoon.",
+      "tj": "Ман нимрӯз дам мегирам."
+    },
+    {
+      "en": "She enjoys the music.",
+      "tj": "Ӯ аз мусиқӣ лаззат мебарад."
+    },
+    {
+      "en": "I thank my teacher.",
+      "tj": "Ман ба муаллимам ташаккур мекунам."
+    },
+    {
+      "en": "The room is quiet.",
+      "tj": "Ҳуҷра ором аст."
+    },
+    {
+      "en": "The music is loud.",
+      "tj": "Мусиқӣ баланд аст."
+    },
+    {
+      "en": "My grandmother is kind.",
+      "tj": "Бибии ман меҳрубон аст."
+    },
+    {
+      "en": "The student is clever.",
+      "tj": "Хонанда зирак аст."
+    },
+    {
+      "en": "The cat is lazy.",
+      "tj": "Гурба танбал аст."
+    },
+    {
+      "en": "My father is busy.",
+      "tj": "Падари ман банд аст."
+    },
+    {
+      "en": "I am ready for school.",
+      "tj": "Ман барои мактаб омода ҳастам."
+    },
+    {
+      "en": "I am sorry.",
+      "tj": "Ман бубахшед."
+    },
+    {
+      "en": "Welcome to my house!",
+      "tj": "Хуш омадед ба хонаи ман!"
+    },
+    {
+      "en": "The kind doctor helps the child.",
+      "tj": "Духтури меҳрубон ба кӯдак кӯмак мекунад."
+    },
+    {
+      "en": "I laugh and smile.",
+      "tj": "Ман механдам ва табассум мекунам."
+    },
+    {
+      "en": "She cries in the evening.",
+      "tj": "Ӯ бегоҳ гиря мекунад."
+    },
+    {
+      "en": "We rest at the weekend.",
+      "tj": "Мо дар охири ҳафта дам мегирем."
+    },
+    {
+      "en": "I enjoy the beautiful garden.",
+      "tj": "Ман аз боғи зебо лаззат мебарам."
+    },
+    {
+      "en": "Thank you for the gift!",
+      "tj": "Ташаккур барои тӯҳфа!"
+    },
+    {
+      "en": "The clever boy reads a book.",
+      "tj": "Писари зирак китоб мехонад."
+    },
+    {
+      "en": "The lazy cat sleeps on the bed.",
+      "tj": "Гурбаи танбал дар кат мехобад."
+    },
+    {
+      "en": "My mother is busy in the kitchen.",
+      "tj": "Модари ман дар ошхона банд аст."
+    },
+    {
+      "en": "Are you ready for the lesson?",
+      "tj": "Ту барои дарс омода ҳастӣ?"
     }
   ],
-  "text": {
-    "en": "Text for lesson 116. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 116 is about Street English. I write all words in my notebook. Level 116 text.",
-    "tj": "Матни дарси 116..."
-  },
+  "text": null,
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ман ба модарам табассум мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: opportunity"
+        "I smile at my mother.",
+        "I smile at my father.",
+        "I laugh at my mother.",
+        "I smile at my sister."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "I smile at my mother."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Кӯдаки хурд гиря мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The small child cries.",
+        "The small child laughs.",
+        "The big child cries.",
+        "The small child smiles."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The small child cries."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Мо дар боғ механдем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст B"
+        "We laugh in the garden.",
+        "We laugh in the house.",
+        "We smile in the garden.",
+        "We cry in the garden."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "We laugh in the garden."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ман нимрӯз дам мегирам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "I rest in the afternoon.",
+        "I rest in the morning.",
+        "I rest in the evening.",
+        "I work in the afternoon."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "I rest in the afternoon."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ӯ аз мусиқӣ лаззат мебарад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: education"
+        "She enjoys the music.",
+        "He enjoys the music.",
+        "She enjoys the game.",
+        "She enjoys the song."
       ],
-      "answer": "тарҷума: education"
+      "answer": "She enjoys the music."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Ман ба муаллимам ташаккур мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст A"
+        "I thank my teacher.",
+        "I thank my mother.",
+        "I thank my friend.",
+        "I thank my father."
       ],
-      "answer": "тарҷума: development"
+      "answer": "I thank my teacher."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ҳуҷра ором аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: achievement"
+        "The room is quiet.",
+        "The room is loud.",
+        "The house is quiet.",
+        "The room is big."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The room is quiet."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Мусиқӣ баланд аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: challenge",
-        "нодуруст C"
+        "The music is loud.",
+        "The music is quiet.",
+        "The song is loud.",
+        "The music is beautiful."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The music is loud."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Бибии ман меҳрубон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: knowledge",
-        "нодуруст B",
-        "нодуруст C"
+        "My grandmother is kind.",
+        "My grandfather is kind.",
+        "My mother is kind.",
+        "My grandmother is old."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "My grandmother is kind."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Хонанда зирак аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: conversation",
-        "нодуруст A"
+        "The student is clever.",
+        "The teacher is clever.",
+        "The student is lazy.",
+        "The student is kind."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The student is clever."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Гурба танбал аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: fluency",
-        "нодуруст A"
+        "The cat is lazy.",
+        "The dog is lazy.",
+        "The cat is clever.",
+        "The cat is small."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "The cat is lazy."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Падари ман банд аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: confidence"
+        "My father is busy.",
+        "My mother is busy.",
+        "My father is tired.",
+        "My father is happy."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "My father is busy."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Ман барои мактаб омода ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: pronunciation"
+        "I am ready for school.",
+        "I am ready for the lesson.",
+        "I am ready for the game.",
+        "I am ready for the party."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "I am ready for school."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ман бубахшед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: vocabulary"
+        "I am sorry.",
+        "I am happy.",
+        "I am ready.",
+        "I am busy."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "I am sorry."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Хуш омадед ба хонаи ман!» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: grammar",
-        "нодуруст C",
-        "нодуруст B"
+        "Welcome to my house!",
+        "Welcome to my school!",
+        "Welcome to my garden!",
+        "Welcome to my city!"
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "Welcome to my house!"
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Духтури меҳрубон ба кӯдак кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "The kind doctor helps the child.",
+        "The kind nurse helps the child.",
+        "The kind doctor helps the mother.",
+        "The clever doctor helps the child."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "The kind doctor helps the child."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман механдам ва табассум мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст A"
+        "I laugh and smile.",
+        "I cry and smile.",
+        "I laugh and cry.",
+        "I smile and rest."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I laugh and smile."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ӯ бегоҳ гиря мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: environment"
+        "She cries in the evening.",
+        "She cries in the morning.",
+        "She laughs in the evening.",
+        "She cries in the afternoon."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "She cries in the evening."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Мо дар охири ҳафта дам мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: communication"
+        "We rest at the weekend.",
+        "We work at the weekend.",
+        "We rest in the afternoon.",
+        "We rest in the evening."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "We rest at the weekend."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ман аз боғи зебо лаззат мебарам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: education",
-        "нодуруст B",
-        "нодуруст C"
+        "I enjoy the beautiful garden.",
+        "I enjoy the beautiful house.",
+        "I enjoy the beautiful music.",
+        "I enjoy the beautiful city."
       ],
-      "answer": "тарҷума: education"
+      "answer": "I enjoy the beautiful garden."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Ташаккур барои тӯҳфа!» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: development",
-        "нодуруст C"
+        "Thank you for the gift!",
+        "Thank you for the letter!",
+        "Thank you for the book!",
+        "Thank you for the party!"
       ],
-      "answer": "тарҷума: development"
+      "answer": "Thank you for the gift!"
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Писари зирак китоб мехонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: achievement"
+        "The clever boy reads a book.",
+        "The clever girl reads a book.",
+        "The lazy boy reads a book.",
+        "The clever boy writes a book."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The clever boy reads a book."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Гурбаи танбал дар кат мехобад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "The lazy cat sleeps on the bed.",
+        "The lazy cat sleeps on the chair.",
+        "The lazy dog sleeps on the bed.",
+        "The small cat sleeps on the bed."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The lazy cat sleeps on the bed."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Модари ман дар ошхона банд аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: knowledge",
-        "нодуруст B"
+        "My mother is busy in the kitchen.",
+        "My mother is busy in the garden.",
+        "My father is busy in the kitchen.",
+        "My mother is tired in the kitchen."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "My mother is busy in the kitchen."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Ту барои дарс омода ҳастӣ?» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: conversation"
+        "Are you ready for the lesson?",
+        "Are you ready for school?",
+        "Are you ready for the game?",
+        "Are you ready for the party?"
       ],
-      "answer": "тарҷума: conversation"
-    },
-    {
-      "q": "'fluency' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: fluency",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: fluency"
-    },
-    {
-      "q": "'confidence' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: pronunciation"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: vocabulary",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "тарҷума: grammar",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: opportunity"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: communication",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "тарҷума: education",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: development"
-    },
-    {
-      "q": "'achievement' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: achievement",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: achievement"
-    },
-    {
-      "q": "'challenge' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: challenge"
-      ],
-      "answer": "тарҷума: challenge"
-    },
-    {
-      "q": "'knowledge' чи маъно дорад?",
-      "options": [
-        "тарҷума: knowledge",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: knowledge"
-    },
-    {
-      "q": "'conversation' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: conversation",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: conversation"
-    },
-    {
-      "q": "'fluency' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: fluency"
-      ],
-      "answer": "тарҷума: fluency"
-    },
-    {
-      "q": "'confidence' чи маъно дорад?",
-      "options": [
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "тарҷума: pronunciation",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: vocabulary",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "тарҷума: grammar",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Are you ready for the lesson?"
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 46
+  "wordsCount": 15
 }
