@@ -3,895 +3,254 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <meta name="theme-color" content="#0f172a" />
-  <title>Тести калон — EnglishPro</title>
+  <title>Дарс — EnglishPro</title>
   <script src="https://telegram.org/js/telegram-web-app.js"></script>
   <link rel="stylesheet" href="css/style.css" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
-  <style>
-    /* ============================================================
-       TEST PAGE — Дизайни махсус
-       ============================================================ */
-
-    body {
-      background: var(--bg);
-      overflow: hidden;
-    }
-
-    .test-app {
-      height: 100vh;
-      display: flex;
-      flex-direction: column;
-      max-width: 480px;
-      margin: 0 auto;
-      background: var(--bg);
-    }
-
-    /* ============ HEADER ============ */
-    .test-header {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      padding: 16px 20px;
-      background: var(--bg);
-      flex-shrink: 0;
-      border-bottom: 1px solid var(--card-border);
-    }
-    .test-header .back-btn {
-      width: 42px;
-      height: 42px;
-      border-radius: 14px;
-      border: 1px solid var(--card-border);
-      background: var(--card);
-      color: var(--text);
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      transition: transform 0.2s, background 0.2s;
-      backdrop-filter: blur(20px);
-    }
-    .test-header .back-btn:active { transform: scale(0.9); }
-
-    .test-header-info { flex: 1; min-width: 0; }
-    .test-header-info h1 {
-      font-size: 17px;
-      font-weight: 800;
-      letter-spacing: -0.3px;
-    }
-    .test-header-info p {
-      font-size: 11px;
-      color: var(--text-2);
-      margin-top: 2px;
-    }
-
-    /* ============ STAGE ============ */
-    .test-stage {
-      flex: 1;
-      overflow-y: auto;
-      padding: 24px 20px 40px;
-      display: flex;
-      flex-direction: column;
-    }
-    .test-stage::-webkit-scrollbar { display: none; }
-
-    /* ============ SETUP SCREEN ============ */
-    .setup-hero {
-      text-align: center;
-      padding: 20px 0 30px;
-    }
-    .setup-icon-wrapper {
-      position: relative;
-      width: 100px;
-      height: 100px;
-      margin: 0 auto 20px;
-    }
-    .setup-icon-wrapper::before {
-      content: '';
-      position: absolute;
-      inset: -10px;
-      border-radius: 32px;
-      background: linear-gradient(135deg, #fbbf24, #f59e0b, #ef4444);
-      opacity: 0.3;
-      filter: blur(20px);
-      animation: pulseGlow 3s ease-in-out infinite;
-    }
-    @keyframes pulseGlow {
-      0%, 100% { opacity: 0.3; transform: scale(1); }
-      50% { opacity: 0.6; transform: scale(1.1); }
-    }
-    .setup-icon {
-      position: relative;
-      width: 100px;
-      height: 100px;
-      border-radius: 28px;
-      background: linear-gradient(135deg, #fbbf24, #f59e0b);
-      color: #1e1b4b;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      box-shadow: 0 12px 32px rgba(251, 191, 36, 0.4);
-      animation: float 3s ease-in-out infinite;
-    }
-    @keyframes float {
-      0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-8px); }
-    }
-    .setup-icon svg {
-      width: 52px;
-      height: 52px;
-      stroke-width: 1.8;
-    }
-
-    .setup-hero h2 {
-      font-size: 26px;
-      font-weight: 900;
-      letter-spacing: -0.5px;
-      margin-bottom: 8px;
-      background: linear-gradient(135deg, var(--text), #94a3b8);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-    }
-    .setup-hero > p {
-      font-size: 13px;
-      color: var(--text-2);
-      line-height: 1.5;
-      max-width: 280px;
-      margin: 0 auto;
-    }
-
-    /* Setup Card */
-    .setup-card {
-      background: var(--card);
-      border: 1px solid var(--card-border);
-      border-radius: 20px;
-      padding: 18px;
-      margin-bottom: 14px;
-      backdrop-filter: blur(20px);
-      transition: transform 0.2s;
-    }
-    .setup-card:active { transform: scale(0.99); }
-
-    .setup-label {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      font-size: 12px;
-      font-weight: 700;
-      color: var(--text-2);
-      text-transform: uppercase;
-      letter-spacing: 0.8px;
-      margin-bottom: 14px;
-    }
-    .setup-label .icon {
-      width: 16px;
-      height: 16px;
-      color: var(--primary);
-    }
-
-    /* Filter buttons */
-    .filter-row {
-      display: flex;
-      gap: 8px;
-      flex-wrap: wrap;
-    }
-    .filter-row .filter-btn {
-      flex: 1;
-      min-width: calc(33.33% - 6px);
-      padding: 10px 12px;
-      background: var(--bg-2);
-      border: 1px solid var(--card-border);
-      color: var(--text-2);
-      border-radius: 12px;
-      font-size: 13px;
-      font-weight: 600;
-      cursor: pointer;
-      transition: all 0.25s;
-      font-family: inherit;
-    }
-    .filter-row .filter-btn:active { transform: scale(0.95); }
-    .filter-row .filter-btn.active {
-      background: linear-gradient(135deg, var(--primary), var(--primary-2));
-      color: #fff;
-      border-color: transparent;
-      box-shadow: 0 6px 18px rgba(99, 102, 241, 0.4);
-      transform: scale(1.02);
-    }
-    .filter-row .filter-btn:hover:not(.active) {
-      border-color: var(--primary);
-      color: var(--text);
-    }
-
-    /* Total info */
-    .setup-info {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      padding: 16px 18px;
-      background: linear-gradient(135deg, rgba(99, 102, 241, 0.12), rgba(139, 92, 246, 0.08));
-      border: 1px solid rgba(99, 102, 241, 0.25);
-      border-radius: 16px;
-      margin-bottom: 20px;
-    }
-    .setup-info-left {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    }
-    .setup-info-icon {
-      width: 40px;
-      height: 40px;
-      border-radius: 12px;
-      background: linear-gradient(135deg, var(--primary), var(--primary-2));
-      color: #fff;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-shrink: 0;
-    }
-    .setup-info-text {
-      display: flex;
-      flex-direction: column;
-    }
-    .setup-info-text span:first-child {
-      font-size: 11px;
-      color: var(--text-2);
-      text-transform: uppercase;
-      font-weight: 600;
-      letter-spacing: 0.5px;
-    }
-    .setup-info-text strong {
-      font-size: 18px;
-      font-weight: 800;
-      color: var(--text);
-    }
-    .setup-info-badge {
-      font-size: 11px;
-      font-weight: 800;
-      padding: 6px 12px;
-      background: rgba(16, 185, 129, 0.15);
-      color: #10b981;
-      border-radius: 20px;
-    }
-
-    /* Start button */
-    .btn-start {
-      width: 100%;
-      padding: 18px;
-      background: linear-gradient(135deg, var(--primary), var(--primary-2));
-      color: #fff;
-      border: none;
-      border-radius: 18px;
-      font-size: 16px;
-      font-weight: 800;
-      font-family: inherit;
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 10px;
-      box-shadow: 0 12px 32px rgba(99, 102, 241, 0.4);
-      transition: transform 0.2s, box-shadow 0.2s;
-      margin-top: auto;
-    }
-    .btn-start:active {
-      transform: scale(0.97);
-      box-shadow: 0 6px 16px rgba(99, 102, 241, 0.3);
-    }
-
-    /* ============ TEST SCREEN ============ */
-    .test-top {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      margin-bottom: 16px;
-      flex-shrink: 0;
-    }
-    .test-counter {
-      display: flex;
-      align-items: baseline;
-      gap: 4px;
-    }
-    .test-counter .current {
-      font-size: 24px;
-      font-weight: 900;
-      background: linear-gradient(135deg, var(--primary), var(--primary-2));
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-    }
-    .test-counter .total {
-      font-size: 14px;
-      color: var(--text-2);
-      font-weight: 600;
-    }
-    .test-level-badge {
-      font-size: 10px;
-      font-weight: 800;
-      padding: 5px 10px;
-      background: rgba(99, 102, 241, 0.15);
-      color: var(--primary);
-      border-radius: 20px;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-    }
-
-    .test-progress {
-      height: 8px;
-      background: rgba(148, 163, 184, 0.15);
-      border-radius: 8px;
-      overflow: hidden;
-      margin-bottom: 24px;
-      flex-shrink: 0;
-    }
-    .test-progress-bar {
-      height: 100%;
-      background: linear-gradient(90deg, var(--primary), var(--primary-2), #ec4899);
-      border-radius: 8px;
-      transition: width 0.5s cubic-bezier(0.4, 0, 0.2, 1);
-      box-shadow: 0 0 12px rgba(99, 102, 241, 0.5);
-    }
-
-    /* Question card */
-    .question-card {
-      background: var(--card);
-      border: 1px solid var(--card-border);
-      border-radius: 24px;
-      padding: 24px 20px;
-      backdrop-filter: blur(20px);
-      animation: slideIn 0.4s ease;
-      flex: 1;
-      display: flex;
-      flex-direction: column;
-    }
-    @keyframes slideIn {
-      from { opacity: 0; transform: translateX(20px); }
-      to { opacity: 1; transform: translateX(0); }
-    }
-
-    .question-card h3 {
-      font-size: 18px;
-      font-weight: 700;
-      line-height: 1.4;
-      text-align: center;
-      margin-bottom: 18px;
-      color: var(--text);
-    }
-
-    /* Sound button */
-    .btn-sound {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 10px;
-      width: 100%;
-      padding: 14px;
-      background: linear-gradient(135deg, rgba(99, 102, 241, 0.15), rgba(139, 92, 246, 0.1));
-      border: 1px solid rgba(99, 102, 241, 0.35);
-      color: var(--primary);
-      border-radius: 14px;
-      font-size: 14px;
-      font-weight: 700;
-      font-family: inherit;
-      cursor: pointer;
-      margin-bottom: 18px;
-      transition: all 0.2s;
-    }
-    .btn-sound:active {
-      transform: scale(0.97);
-      background: linear-gradient(135deg, rgba(99, 102, 241, 0.25), rgba(139, 92, 246, 0.2));
-    }
-    .btn-sound.playing {
-      background: linear-gradient(135deg, var(--primary), var(--primary-2));
-      color: #fff;
-      border-color: transparent;
-      box-shadow: 0 8px 20px rgba(99, 102, 241, 0.4);
-    }
-    .btn-sound.playing svg {
-      animation: soundPulse 0.8s ease-in-out infinite;
-    }
-    @keyframes soundPulse {
-      0%, 100% { transform: scale(1); }
-      50% { transform: scale(1.2); }
-    }
-
-    /* Options */
-    .test-options {
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-      margin-top: auto;
-    }
-    .test-option {
-      display: flex;
-      align-items: center;
-      gap: 14px;
-      padding: 16px 18px;
-      background: var(--bg-2);
-      border: 2px solid var(--card-border);
-      color: var(--text);
-      border-radius: 16px;
-      font-size: 15px;
-      font-weight: 600;
-      font-family: inherit;
-      text-align: left;
-      cursor: pointer;
-      transition: all 0.25s;
-      position: relative;
-    }
-    .test-option::before {
-      content: '';
-      width: 24px;
-      height: 24px;
-      border-radius: 50%;
-      border: 2px solid var(--card-border);
-      flex-shrink: 0;
-      transition: all 0.2s;
-    }
-    .test-option:active { transform: scale(0.98); }
-    .test-option:hover:not([disabled]) {
-      border-color: var(--primary);
-      background: rgba(99, 102, 241, 0.08);
-    }
-    .test-option:hover:not([disabled])::before {
-      border-color: var(--primary);
-    }
-
-    .test-option.correct {
-      background: linear-gradient(135deg, rgba(16, 185, 129, 0.15), rgba(5, 150, 105, 0.08));
-      border-color: #10b981;
-      color: #10b981;
-    }
-    .test-option.correct::before {
-      background: #10b981;
-      border-color: #10b981;
-      content: '✓';
-      color: #fff;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 14px;
-      font-weight: 900;
-    }
-    .test-option.wrong {
-      background: linear-gradient(135deg, rgba(239, 68, 68, 0.15), rgba(220, 38, 38, 0.08));
-      border-color: #ef4444;
-      color: #ef4444;
-    }
-    .test-option.wrong::before {
-      background: #ef4444;
-      border-color: #ef4444;
-      content: '✕';
-      color: #fff;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 14px;
-      font-weight: 900;
-    }
-    .test-option[disabled] { cursor: default; }
-
-    /* ============ RESULT SCREEN ============ */
-    .result-wrapper {
-      text-align: center;
-      padding: 20px 0;
-      animation: slideIn 0.5s ease;
-    }
-
-    .result-circle {
-      width: 140px;
-      height: 140px;
-      border-radius: 50%;
-      margin: 0 auto 24px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      position: relative;
-      animation: scaleIn 0.5s cubic-bezier(0.4, 0, 0.2, 1);
-    }
-    @keyframes scaleIn {
-      from { transform: scale(0.5); opacity: 0; }
-      to { transform: scale(1); opacity: 1; }
-    }
-    .result-circle.passed {
-      background: linear-gradient(135deg, #10b981, #059669);
-      box-shadow: 0 0 60px rgba(16, 185, 129, 0.5);
-    }
-    .result-circle.failed {
-      background: linear-gradient(135deg, #ef4444, #dc2626);
-      box-shadow: 0 0 60px rgba(239, 68, 68, 0.5);
-    }
-    .result-circle::before {
-      content: '';
-      position: absolute;
-      inset: -15px;
-      border-radius: 50%;
-      border: 3px dashed rgba(255, 255, 255, 0.3);
-      animation: rotate 10s linear infinite;
-    }
-    @keyframes rotate {
-      to { transform: rotate(360deg); }
-    }
-    .result-circle svg {
-      width: 44px;
-      height: 44px;
-      stroke-width: 2.5;
-      color: #fff;
-      margin-bottom: 4px;
-    }
-    .result-circle .pct {
-      font-size: 26px;
-      font-weight: 900;
-      color: #fff;
-      line-height: 1;
-    }
-
-    .result-title {
-      font-size: 26px;
-      font-weight: 900;
-      margin-bottom: 8px;
-      letter-spacing: -0.5px;
-    }
-    .result-subtitle {
-      font-size: 14px;
-      color: var(--text-2);
-      margin-bottom: 24px;
-    }
-
-    /* Stats row */
-    .result-stats {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 10px;
-      margin-bottom: 20px;
-    }
-    .result-stat {
-      background: var(--card);
-      border: 1px solid var(--card-border);
-      border-radius: 16px;
-      padding: 16px;
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      text-align: left;
-    }
-    .result-stat-icon {
-      width: 40px;
-      height: 40px;
-      border-radius: 12px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-shrink: 0;
-    }
-    .result-stat-icon.green {
-      background: rgba(16, 185, 129, 0.15);
-      color: #10b981;
-    }
-    .result-stat-icon.red {
-      background: rgba(239, 68, 68, 0.15);
-      color: #ef4444;
-    }
-    .result-stat-icon.purple {
-      background: rgba(99, 102, 241, 0.15);
-      color: var(--primary);
-    }
-    .result-stat-icon.gold {
-      background: rgba(251, 191, 36, 0.15);
-      color: #fbbf24;
-    }
-    .result-stat-info {
-      display: flex;
-      flex-direction: column;
-      min-width: 0;
-    }
-    .result-stat-info strong {
-      font-size: 20px;
-      font-weight: 800;
-      line-height: 1;
-    }
-    .result-stat-info span {
-      font-size: 11px;
-      color: var(--text-2);
-      margin-top: 2px;
-    }
-
-    /* Weak lessons */
-    .weak-lessons {
-      background: linear-gradient(135deg, rgba(239, 68, 68, 0.1), rgba(220, 38, 38, 0.05));
-      border: 1px solid rgba(239, 68, 68, 0.3);
-      border-radius: 16px;
-      padding: 16px;
-      margin-bottom: 20px;
-      text-align: left;
-    }
-    .weak-lessons h4 {
-      font-size: 13px;
-      font-weight: 700;
-      color: #ef4444;
-      margin-bottom: 10px;
-      display: flex;
-      align-items: center;
-      gap: 6px;
-    }
-    .weak-chips {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 6px;
-    }
-    .weak-chip {
-      font-size: 11px;
-      font-weight: 700;
-      padding: 5px 12px;
-      background: rgba(239, 68, 68, 0.15);
-      color: #ef4444;
-      border-radius: 20px;
-    }
-
-    /* Result actions */
-    .result-actions {
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-      margin-top: 10px;
-    }
-    .btn-result {
-      width: 100%;
-      padding: 16px;
-      border-radius: 16px;
-      font-size: 15px;
-      font-weight: 700;
-      font-family: inherit;
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 8px;
-      border: none;
-      transition: transform 0.2s;
-    }
-    .btn-result:active { transform: scale(0.97); }
-
-    .btn-result.primary {
-      background: linear-gradient(135deg, var(--primary), var(--primary-2));
-      color: #fff;
-      box-shadow: 0 8px 24px rgba(99, 102, 241, 0.4);
-    }
-    .btn-result.secondary {
-      background: var(--card);
-      border: 1px solid var(--card-border);
-      color: var(--text);
-    }
-
-    /* Celebration confetti (passed only) */
-    .confetti {
-      position: fixed;
-      width: 10px;
-      height: 10px;
-      background: #fbbf24;
-      position: absolute;
-      animation: fall 3s linear infinite;
-      pointer-events: none;
-      z-index: 999;
-    }
-    @keyframes fall {
-      0% { transform: translateY(-100vh) rotate(0deg); opacity: 1; }
-      100% { transform: translateY(100vh) rotate(720deg); opacity: 0; }
-    }
-
-    /* ============ PREMIUM LOCK SCREEN ============ */
-    .premium-lock {
-      min-height: 100vh;
-      background: var(--bg);
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      padding: 40px 24px;
-      text-align: center;
-      font-family: 'Inter', sans-serif;
-    }
-    .premium-lock-icon {
-      width: 120px;
-      height: 120px;
-      border-radius: 36px;
-      background: linear-gradient(135deg, #fbbf24, #f59e0b);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 64px;
-      box-shadow: 0 0 60px rgba(251, 191, 36, 0.5);
-      margin-bottom: 24px;
-      animation: floatLock 3s ease-in-out infinite;
-    }
-    @keyframes floatLock {
-      0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-10px); }
-    }
-    .premium-lock h1 {
-      color: #f1f5f9;
-      font-size: 26px;
-      font-weight: 900;
-      letter-spacing: -0.5px;
-      margin-bottom: 12px;
-    }
-    .premium-lock p {
-      color: #94a3b8;
-      font-size: 14px;
-      line-height: 1.6;
-      margin-bottom: 28px;
-      max-width: 300px;
-    }
-    .premium-lock .btn-premium-lock {
-      background: linear-gradient(135deg, #6366f1, #8b5cf6);
-      color: #fff;
-      border: none;
-      padding: 16px 32px;
-      border-radius: 16px;
-      font-size: 15px;
-      font-weight: 800;
-      cursor: pointer;
-      font-family: inherit;
-      box-shadow: 0 12px 32px rgba(99, 102, 241, 0.4);
-      margin-bottom: 12px;
-      transition: transform 0.2s;
-    }
-    .premium-lock .btn-premium-lock:active {
-      transform: scale(0.96);
-    }
-    .premium-lock .btn-back-lock {
-      background: transparent;
-      color: #94a3b8;
-      border: 1px solid rgba(148, 163, 184, 0.2);
-      padding: 14px 32px;
-      border-radius: 16px;
-      font-size: 14px;
-      font-weight: 600;
-      cursor: pointer;
-      font-family: inherit;
-    }
-  </style>
 </head>
 <body>
 
-<!-- ============ SVG ICONS ============ -->
+<!-- SPRITE -->
 <svg xmlns="http://www.w3.org/2000/svg" style="display:none">
   <symbol id="i-arrow-left" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></symbol>
-  <symbol id="i-trophy" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6M18 9h1.5a2.5 2.5 0 0 0 0-5H18M4 22h16M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22M18 2H6v7a6 6 0 0 0 12 0V2z"/></symbol>
-  <symbol id="i-award" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="7"/><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/></symbol>
-  <symbol id="i-x" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></symbol>
-  <symbol id="i-refresh" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></symbol>
-  <symbol id="i-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></symbol>
   <symbol id="i-volume" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/></symbol>
-  <symbol id="i-check-circle" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></symbol>
-  <symbol id="i-x-circle" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/></symbol>
-  <symbol id="i-target" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></symbol>
-  <symbol id="i-layers" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></symbol>
-  <symbol id="i-hash" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="9" x2="20" y2="9"/><line x1="4" y1="15" x2="20" y2="15"/><line x1="10" y1="3" x2="8" y2="21"/><line x1="16" y1="3" x2="14" y2="21"/></symbol>
-  <symbol id="i-zap" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></symbol>
-  <symbol id="i-star" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></symbol>
+  <symbol id="i-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></symbol>
+  <symbol id="i-x" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></symbol>
+  <symbol id="i-award" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="7"/><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/></symbol>
+  <symbol id="i-refresh" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></symbol>
+  <symbol id="i-edit" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></symbol>
+  <symbol id="i-arrow-right" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></symbol>
+  <symbol id="i-trophy" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6M18 9h1.5a2.5 2.5 0 0 0 0-5H18M4 22h16M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22M18 2H6v7a6 6 0 0 0 12 0V2z"/></symbol>
+  <symbol id="i-book-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></symbol>
+  <symbol id="i-send" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></symbol>
+  <symbol id="i-copy" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></symbol>
+  <symbol id="i-camera" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/><circle cx="12" cy="13" r="4"/></symbol>
+  <symbol id="i-credit-card" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="5" width="20" height="14" rx="2"/><line x1="2" y1="10" x2="22" y2="10"/></symbol>
 </svg>
 
-<!-- APP CONTENT -->
-<div class="test-app" id="appContent">
+<div class="lesson-app" id="lessonApp">
 
-  <!-- HEADER -->
-  <div class="test-header">
-    <button class="back-btn" onclick="exitTest()">
+  <div class="lesson-header">
+    <button class="back-btn" onclick="exitLesson()">
       <svg class="icon"><use href="#i-arrow-left"/></svg>
     </button>
-    <div class="test-header-info">
-      <h1 id="pageTitle">Тести калон</h1>
-      <p id="testSubtitle">Бор мешавад...</p>
+    <div class="lesson-header-info">
+      <h1 id="lessonTitle">Дарс</h1>
+      <p id="lessonSubtitle">Loading...</p>
     </div>
   </div>
 
-  <!-- SETUP SCREEN -->
-  <div class="test-stage" id="setupScreen">
-    <div class="setup-hero">
-      <div class="setup-icon-wrapper">
-        <div class="setup-icon">
-          <svg><use href="#i-trophy"/></svg>
-        </div>
-      </div>
-      <h2>Тести дониш</h2>
-      <p>Аз тамоми дарсҳо саволҳо. Дониши худро санҷед!</p>
+  <div class="lesson-progress-wrap">
+    <div class="lesson-progress-track">
+      <div class="lesson-progress-fill" id="progressFill"></div>
     </div>
-
-    <!-- Level filter -->
-    <div class="setup-card">
-      <div class="setup-label">
-        <svg class="icon"><use href="#i-layers"/></svg>
-        Сатҳ
-      </div>
-      <div class="filter-row" id="levelFilter">
-        <button class="filter-btn active" data-level="all">Ҳама</button>
-        <button class="filter-btn" data-level="Ибтидоӣ">Ибтидоӣ</button>
-        <button class="filter-btn" data-level="Миёна">Миёна</button>
-        <button class="filter-btn" data-level="Пешрафта">Пешрафта</button>
-        <button class="filter-btn" data-level="Street English">Street</button>
-      </div>
-    </div>
-
-    <!-- Count filter -->
-    <div class="setup-card">
-      <div class="setup-label">
-        <svg class="icon"><use href="#i-hash"/></svg>
-        Миқдори саволҳо
-      </div>
-      <div class="filter-row" id="countFilter">
-        <button class="filter-btn" data-count="10">10</button>
-        <button class="filter-btn" data-count="20">20</button>
-        <button class="filter-btn active" data-count="30">30</button>
-        <button class="filter-btn" data-count="50">50</button>
-        <button class="filter-btn" data-count="100">100</button>
-      </div>
-    </div>
-
-    <!-- Total info -->
-    <div class="setup-info">
-      <div class="setup-info-left">
-        <div class="setup-info-icon">
-          <svg class="icon"><use href="#i-zap"/></svg>
-        </div>
-        <div class="setup-info-text">
-          <span>Ҳамагӣ</span>
-          <strong id="totalCount">0</strong>
-        </div>
-      </div>
-      <div class="setup-info-badge">Омода</div>
-    </div>
-
-    <button class="btn-start" onclick="startTest()">
-      <svg class="icon"><use href="#i-trophy"/></svg>
-      Оғоз кардан
-    </button>
+    <div class="lesson-progress-text" id="progressText">0 / 0</div>
   </div>
 
-  <!-- TEST SCREEN -->
-  <div class="test-stage" id="testScreen" style="display:none">
-    <div class="test-top">
-      <div class="test-counter">
-        <span class="current" id="currentNum">1</span>
-        <span class="total">/ <span id="totalNum">30</span></span>
-      </div>
-      <div class="test-level-badge" id="levelBadge">Ҳама</div>
+  <!-- STAGE: WORDS ONLY -->
+  <div class="lesson-stage" id="stageWords">
+    <div class="instruction-box">
+      <svg class="icon"><use href="#i-edit"/></svg>
+      <p id="instructionText">Ҳамаи калимаҳоро дар дафтар нависед!</p>
     </div>
 
+    <div class="word-stage" id="wordStage"></div>
+
+    <div class="stage-actions">
+      <button class="btn-listen" id="btnListen" onclick="listenCurrent()">
+        <svg class="icon"><use href="#i-volume"/></svg>
+        <span>Гӯш кардан</span>
+      </button>
+      <button class="btn-learned" id="btnLearned" onclick="markLearned()">
+        <svg class="icon"><use href="#i-check"/></svg>
+        <span>Омӯхтам</span>
+      </button>
+    </div>
+  </div>
+
+  <!-- STAGE: TEST -->
+  <div class="lesson-stage" id="stageTest" style="display:none">
     <div class="test-progress">
       <div class="test-progress-bar" id="testProgressBar"></div>
     </div>
-
+    <div class="test-counter" id="testCounter">1 / 10</div>
     <div id="questionBox"></div>
   </div>
 
-  <!-- RESULT SCREEN -->
-  <div class="test-stage" id="resultScreen" style="display:none">
-    <div class="result-wrapper" id="resultBox"></div>
+  <!-- STAGE: RESULT -->
+  <div class="lesson-stage" id="stageResult" style="display:none">
+    <div class="test-result" id="resultBox"></div>
   </div>
 
+</div>
+
+<!-- ============================================
+     MODAL: ВАҚТИ ТЕСТ РАСИД
+     ============================================ -->
+<div class="modal" id="testTimeModal">
+  <div class="modal-backdrop"></div>
+  <div class="modal-content" style="max-width:400px;text-align:center;">
+    <div style="font-size:80px;margin-bottom:16px;animation:bounceIn 0.6s ease;">🎉</div>
+    <h2 style="font-size:24px;font-weight:900;margin-bottom:10px;">Табрик!</h2>
+    <p style="color:var(--text-2);font-size:14px;margin-bottom:8px;">
+      Шумо ҳамаи <strong id="wordsCountModal">0</strong> калимаро омӯхтед!
+    </p>
+    <p style="color:var(--text-2);font-size:13px;margin-bottom:24px;">
+      Ҳоло вақти тест расид. Барои гузаштан <strong>70%</strong> лозим аст.
+    </p>
+    <button class="btn-primary" style="width:100%;justify-content:center;padding:16px;font-size:15px;margin-bottom:10px" onclick="startTestFromModal()">
+      <svg class="icon icon-sm"><use href="#i-trophy"/></svg>
+      Оғози тест
+    </button>
+    <button class="btn-price" style="width:100%" onclick="reviewWords()">
+      Боз дидани калимаҳо
+    </button>
+  </div>
+</div>
+
+<!-- ============================================
+     MODAL: PREMIUM ORDER
+     ============================================ -->
+<div class="modal" id="premiumOrderModal">
+  <div class="modal-backdrop" onclick="closePremiumOrder()"></div>
+  <div class="modal-content">
+    <div class="modal-header">
+      <h3>👑 Premium харидан</h3>
+      <button class="icon-btn" onclick="closePremiumOrder()">
+        <svg class="icon"><use href="#i-x"/></svg>
+      </button>
+    </div>
+
+    <div class="modal-body">
+      <div class="pay-row">
+        <span>Нақша:</span>
+        <strong id="orderPlanLabel">1 моҳ</strong>
+      </div>
+      <div class="pay-row">
+        <span>Маблағ:</span>
+        <strong class="pay-price" id="orderPlanPrice">100 сомонӣ</strong>
+      </div>
+
+      <div class="pay-instruction">
+        <p>Маблағро ба Alif mobi гузаронед:</p>
+        <div class="card-number" onclick="copyCardNumber()" style="cursor:pointer">
+          <svg class="icon icon-sm"><use href="#i-credit-card"/></svg>
+          <span id="cardNumberText">+992933217883</span>
+          <svg class="icon icon-sm" style="margin-left:auto"><use href="#i-copy"/></svg>
+        </div>
+        <p style="font-size:11px;color:var(--primary);text-align:center;margin-top:6px;font-weight:600">
+          👆 Пахш кунед, то рақамро нусхабардорӣ кунед
+        </p>
+      </div>
+
+      <div style="margin-top:20px;padding-top:16px;border-top:1px dashed var(--card-border)">
+        <label style="font-size:13px;font-weight:600;display:block;margin-bottom:10px">
+          📸 Скриншоти пардохтро интихоб кунед:
+        </label>
+
+        <input type="file" id="paymentPhoto" accept="image/*" style="display:none" onchange="handlePhotoSelect(event)">
+
+        <div id="photoPreview" class="photo-preview" onclick="document.getElementById('paymentPhoto').click()">
+          <svg class="icon icon-2xl"><use href="#i-camera"/></svg>
+          <p>Барои интихоби сурат пахш кунед</p>
+        </div>
+
+        <div id="photoSelected" style="display:none">
+          <img id="photoImg" src="" style="width:100%;border-radius:12px;margin-bottom:10px;max-height:300px;object-fit:contain">
+          <button class="btn-price" style="width:100%" onclick="removePhoto()">
+            <svg class="icon icon-sm"><use href="#i-x"/></svg>
+            Иваз кардан
+          </button>
+        </div>
+      </div>
+
+      <p style="font-size:11px;color:var(--text-2);margin-top:16px;line-height:1.5">
+        Баъд аз тасдиқ аз ҷониби админ, Premium худкор фаъол мешавад.
+      </p>
+    </div>
+
+    <div class="modal-footer">
+      <button class="btn-price" onclick="closePremiumOrder()">Бекор</button>
+      <button class="btn-primary" id="btnSendOrder" onclick="sendPremiumOrder()" disabled>
+        <svg class="icon icon-sm"><use href="#i-send"/></svg>
+        Фиристодан
+      </button>
+    </div>
+  </div>
 </div>
 
 <!-- AUDIO -->
 <audio id="audioPlayer" preload="auto"></audio>
 
+<!-- FIREBASE -->
+<script src="https://www.gstatic.com/firebasejs/10.7.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.7.0/firebase-database-compat.js"></script>
+
 <script>
+// ============================================
+// FIREBASE CONFIG
+// ============================================
+const firebaseConfig = {
+  apiKey: "AIzaSyADKhYDf1dc11VJHmFdT26irHHBUt_Lkrk",
+  authDomain: "my-projekt-d246d.firebaseapp.com",
+  databaseURL: "https://my-projekt-d246d-default-rtdb.firebaseio.com",
+  projectId: "my-projekt-d246d",
+  storageBucket: "my-projekt-d246d.firebasestorage.app",
+  messagingSenderId: "149204965139",
+  appId: "1:149204965139:web:b4c1bc35b4a373cddc2ce6"
+};
+
+let db = null;
+try {
+  if (!firebase.apps.length) firebase.initializeApp(firebaseConfig);
+  db = firebase.database();
+} catch (e) {
+  console.error('Firebase error:', e);
+}
+
+// ============================================
+// CONFIG
+// ============================================
+const ADMIN_BOT = 'ismoilvscode';
+const ADMIN_TELEGRAM = 'ismoilovcode';
+const CARD_NUMBER = '+992933217883';
+const IMGBB_API_KEY = '5eb0b758759864c6b422ff1d11b034b5';
+const FREE_LESSONS = [1, 2, 3];   // ← Танҳо ин дарсҳо ройгон
+
 // ============================================
 // TELEGRAM
 // ============================================
 const tg = window.Telegram?.WebApp;
-if (tg) { tg.ready(); tg.expand(); }
+if (tg) { tg.ready(); tg.expand(); tg.setHeaderColor('#0f172a'); tg.setBackgroundColor('#0f172a'); }
 
-// ============================================
-// STORE
-// ============================================
+const params = new URLSearchParams(location.search);
+const LESSON_ID = parseInt(params.get('id') || '1');
+
 const store = {
   get: (k, def) => { try { return JSON.parse(localStorage.getItem(k)) ?? def; } catch { return def; } },
   set: (k, v) => localStorage.setItem(k, JSON.stringify(v))
 };
 
+const user = tg?.initDataUnsafe?.user || { id: 0, first_name: 'Корбар', username: null };
+
 // ============================================
-// 🛡 PREMIUM GUARD — танҳо барои Premium
+// STATE
+// ============================================
+let lessonData = null;
+let wordIndex = 0;
+let learnedWords = [];
+let allWordsLearned = false;
+let testQuestions = [];
+let testIdx = 0;
+let testAnswers = [];
+let currentPlanKey = null;
+let selectedPhotoBase64 = null;
+let uploadedPhotoUrl = null;
+
+const audioPlayer = document.getElementById('audioPlayer');
+
+// ============================================
+// ҚУЛФИ PREMIUM
 // ============================================
 function isPremiumActive() {
   const premium = store.get('premium', { active: false, expiresAt: null });
@@ -901,40 +260,61 @@ function isPremiumActive() {
 function showPremiumLockedScreen() {
   if (tg) tg.HapticFeedback?.notificationOccurred('error');
 
-  // Пинҳон кардани мундариҷаи асосӣ
-  const appContent = document.getElementById('appContent');
-  if (appContent) appContent.style.display = 'none';
-
-  // Сохтани экрани қулф
-  const lock = document.createElement('div');
-  lock.className = 'premium-lock';
-  lock.innerHTML = `
-    <div class="premium-lock-icon">👑</div>
-    <h1>Тестҳо барои Premium</h1>
-    <p>Барои истифодаи тестҳои калон Premium гиред ва ба ҳамаи 420 савол дастрасӣ пайдо кунед.</p>
-    <button class="btn-premium-lock" onclick="location.href='index.html#premium'">
-      ✨ Premium гирифтан
-    </button>
-    <button class="btn-back-lock" onclick="location.href='index.html'">
-      Ба асосӣ
-    </button>
+  document.body.innerHTML = `
+    <div style="min-height:100vh;background:#0f172a;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:40px 24px;text-align:center;font-family:Inter,system-ui,sans-serif;">
+      <div style="width:120px;height:120px;border-radius:36px;background:linear-gradient(135deg,#fbbf24,#f59e0b);display:flex;align-items:center;justify-content:center;font-size:64px;box-shadow:0 0 60px rgba(251,191,36,0.5);margin-bottom:24px;animation:floatLock 3s ease-in-out infinite;">
+        👑
+      </div>
+      <h1 style="color:#f1f5f9;font-size:24px;font-weight:900;letter-spacing:-0.5px;margin-bottom:12px;">
+        Дарси ${LESSON_ID} Premium аст
+      </h1>
+      <p style="color:#94a3b8;font-size:14px;line-height:1.6;margin-bottom:28px;max-width:320px;">
+        Дарсҳои <strong style="color:#fbbf24">1, 2, 3</strong> ройгон ҳастанд. Барои гузаштан ба дарсҳои дигар Premium лозим аст.
+      </p>
+      <button onclick="location.href='index.html#premium'" 
+        style="background:linear-gradient(135deg,#6366f1,#8b5cf6);color:#fff;border:none;padding:16px 32px;border-radius:16px;font-size:15px;font-weight:800;cursor:pointer;font-family:inherit;box-shadow:0 12px 32px rgba(99,102,241,0.4);margin-bottom:12px;">
+        ✨ Premium гирифтан
+      </button>
+      <button onclick="location.href='index.html'" 
+        style="background:transparent;color:#94a3b8;border:1px solid rgba(148,163,184,0.2);padding:14px 32px;border-radius:16px;font-size:14px;font-weight:600;cursor:pointer;font-family:inherit;">
+        Ба асосӣ
+      </button>
+    </div>
+    <style>
+      @keyframes floatLock {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-10px); }
+      }
+    </style>
   `;
-  document.body.appendChild(lock);
 }
 
 // ============================================
-// STATE
+// ҚУЛФИ ПАЙДАРПАЙ
 // ============================================
-let ALL_QUESTIONS = [];
-let TEST_QUESTIONS = [];
-let currentIdx = 0;
-let answers = [];
-let settings = { level: 'all', count: 30 };
+function isLessonUnlocked(id) {
+  if (id === 1) return true;
+  const progress = store.get('progress', { completedLessons: [] });
+  return (progress.completedLessons || []).includes(id - 1);
+}
 
-const audioPlayer = document.getElementById('audioPlayer');
+function showLockedScreen() {
+  document.body.innerHTML = `
+    <div style="padding:60px 30px;text-align:center;font-family:Inter,sans-serif;background:#0f172a;min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+      <div style="font-size:72px;margin-bottom:20px;">🔒</div>
+      <h2 style="color:#f1f5f9;font-size:22px;font-weight:800;margin-bottom:12px;">Дарс қулф аст</h2>
+      <p style="color:#94a3b8;font-size:14px;margin-bottom:24px;">
+        Аввал дарси <strong>${LESSON_ID - 1}</strong>-ро гузаред
+      </p>
+      <button onclick="location.href='lesson.html?id=${LESSON_ID - 1}'" 
+        style="background:linear-gradient(135deg,#6366f1,#8b5cf6);color:#fff;border:none;padding:14px 28px;border-radius:14px;font-size:15px;font-weight:700;cursor:pointer;font-family:inherit;">
+        Ба дарси ${LESSON_ID - 1}
+      </button>
+    </div>`;
+}
 
 // ============================================
-// AUDIO — Google TTS
+// AUDIO
 // ============================================
 function playAudio(text) {
   if (!text) return;
@@ -942,13 +322,11 @@ function playAudio(text) {
   if (!clean) return;
 
   const url = `https://translate.google.com/translate_tts?ie=UTF-8&q=${encodeURIComponent(clean)}&tl=en&client=tw-ob&_=${Date.now()}`;
-
   audioPlayer.pause();
   audioPlayer.currentTime = 0;
   audioPlayer.src = url;
   audioPlayer.load();
   audioPlayer.play().catch(() => fallbackSpeak(clean));
-
   if (tg) tg.HapticFeedback?.impactOccurred('light');
 }
 
@@ -958,117 +336,253 @@ function fallbackSpeak(text) {
   const u = new SpeechSynthesisUtterance(text);
   u.lang = 'en-US';
   u.rate = 0.85;
-  const voices = speechSynthesis.getVoices();
-  const male = voices.find(v => v.lang === 'en-US' && (v.name.includes('Male') || v.name.includes('David') || v.name.includes('Alex')))
-            || voices.find(v => v.lang === 'en-US');
-  if (male) u.voice = male;
   speechSynthesis.speak(u);
 }
 
-if ('speechSynthesis' in window) {
-  speechSynthesis.onvoiceschanged = () => speechSynthesis.getVoices();
-}
+// ============================================
+// LOAD LESSON
+// ============================================
+let ALL_LESSONS = null;
 
-// ============================================
-// LOAD
-// ============================================
-async function loadQuestions() {
-  try {
-    const r = await fetch('data/tests.json');
-    if (!r.ok) throw new Error('tests.json ёфт нашуд');
-    const data = await r.json();
-    ALL_QUESTIONS = data.questions || [];
-    document.getElementById('totalCount').textContent = ALL_QUESTIONS.length;
-    document.getElementById('testSubtitle').textContent = `${ALL_QUESTIONS.length} савол омода`;
-  } catch (e) {
-    console.error(e);
-    document.getElementById('testSubtitle').textContent = 'Хато дар боркунӣ';
-  }
-}
-
-// ============================================
-// FILTERS
-// ============================================
-document.querySelectorAll('#levelFilter .filter-btn').forEach(btn => {
-  btn.addEventListener('click', () => {
-    document.querySelectorAll('#levelFilter .filter-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    settings.level = btn.dataset.level;
-  });
-});
-
-document.querySelectorAll('#countFilter .filter-btn').forEach(btn => {
-  btn.addEventListener('click', () => {
-    document.querySelectorAll('#countFilter .filter-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    settings.count = parseInt(btn.dataset.count);
-  });
-});
-
-// ============================================
-// START
-// ============================================
-function startTest() {
-  let pool = ALL_QUESTIONS;
-  if (settings.level !== 'all') {
-    pool = pool.filter(q => q.level === settings.level);
-  }
-
-  if (pool.length === 0) {
-    alert('Саволҳо ёфт нашуданд');
+async function loadLesson() {
+  // 1. Қулфи пайдарпай
+  if (!isLessonUnlocked(LESSON_ID)) {
+    showLockedScreen();
     return;
   }
 
-  const shuffled = [...pool].sort(() => Math.random() - 0.5);
-  TEST_QUESTIONS = shuffled.slice(0, Math.min(settings.count, shuffled.length));
-  currentIdx = 0;
-  answers = [];
+  // 2. 🆕 Қулфи Premium — барои дарсҳои 4+
+  if (!FREE_LESSONS.includes(LESSON_ID) && !isPremiumActive()) {
+    showPremiumLockedScreen();
+    return;
+  }
 
-  document.getElementById('setupScreen').style.display = 'none';
-  document.getElementById('testScreen').style.display = 'flex';
-  document.getElementById('resultScreen').style.display = 'none';
+  // 3. Боркунии дарс
+  try {
+    if (!ALL_LESSONS) {
+      const r = await fetch('data/lessons.json');
+      if (!r.ok) throw new Error('lessons.json ёфт нашуд');
+      const data = await r.json();
+      ALL_LESSONS = data.lessons || {};
+    }
 
-  document.getElementById('totalNum').textContent = TEST_QUESTIONS.length;
-  document.getElementById('levelBadge').textContent = settings.level === 'all' ? 'Ҳама' : settings.level;
+    lessonData = ALL_LESSONS[LESSON_ID];
 
-  document.getElementById('pageTitle').textContent = 'Тест';
-  document.getElementById('testSubtitle').textContent = `${TEST_QUESTIONS.length} савол`;
+    if (!lessonData) {
+      const r2 = await fetch(`data/lessons/lesson-${LESSON_ID}.json`);
+      if (!r2.ok) throw new Error('Дарс ёфт нашуд');
+      lessonData = await r2.json();
+    }
 
-  if (tg) tg.HapticFeedback?.impactOccurred('medium');
-  renderQuestion();
+    // Уникалӣ
+    const uniqueWords = [];
+    const seen = new Set();
+    (lessonData.words || []).forEach(w => {
+      if (!seen.has(w.en)) {
+        seen.add(w.en);
+        uniqueWords.push(w);
+      }
+    });
+    lessonData.words = uniqueWords;
+
+    renderHeader();
+    renderWord();
+  } catch (e) {
+    document.body.innerHTML = `
+      <div style="padding:40px;text-align:center;color:#94a3b8;font-family:Inter,sans-serif;">
+        <h2 style="color:#f1f5f9;font-size:20px;">Хато</h2>
+        <p style="margin:12px 0;">${e.message}</p>
+        <button class="btn-primary" onclick="location.href='index.html'">Бозгашт</button>
+      </div>`;
+  }
+}
+
+function renderHeader() {
+  document.getElementById('lessonTitle').textContent = lessonData.title;
+  document.getElementById('lessonSubtitle').textContent =
+    `${lessonData.level} · ${lessonData.words.length} калима`;
+  document.getElementById('instructionText').textContent =
+    lessonData.instruction || 'Ҳамаи калимаҳоро дар дафтар нависед!';
 }
 
 // ============================================
-// RENDER QUESTION
+// WORD STAGE — 1-то-1
 // ============================================
+function renderWord() {
+  const words = lessonData.words;
+
+  if (wordIndex >= words.length) {
+    finishWordsStage();
+    return;
+  }
+
+  const w = words[wordIndex];
+  const total = words.length;
+  const pct = (wordIndex / total) * 100;
+
+  document.getElementById('progressFill').style.width = pct + '%';
+  document.getElementById('progressText').textContent = `${wordIndex + 1} / ${total}`;
+
+  const stage = document.getElementById('wordStage');
+  stage.innerHTML = `
+    <div class="word-card-one">
+      <div class="word-badge">${wordIndex + 1} / ${total}</div>
+      <div class="word-en">${escapeHtml(w.en)}</div>
+      <div class="word-tj">${escapeHtml(w.tj)}</div>
+      ${w.ex ? `<div class="word-example">${escapeHtml(w.ex)}</div>` : ''}
+    </div>
+  `;
+
+  requestAnimationFrame(() => {
+    stage.querySelector('.word-card-one')?.classList.add('show');
+  });
+
+  const btnLearned = document.getElementById('btnLearned');
+  if (wordIndex === total - 1) {
+    btnLearned.innerHTML = `<svg class="icon"><use href="#i-check"/></svg><span>Тамом</span>`;
+  } else {
+    btnLearned.innerHTML = `<svg class="icon"><use href="#i-check"/></svg><span>Омӯхтам</span>`;
+  }
+
+  setTimeout(() => playAudio(w.en), 300);
+}
+
+function markLearned() {
+  const w = lessonData.words[wordIndex];
+  if (w && !learnedWords.includes(w.en)) learnedWords.push(w.en);
+  if (tg) tg.HapticFeedback?.impactOccurred('medium');
+  wordIndex++;
+  renderWord();
+}
+
+function listenCurrent() {
+  const w = lessonData.words[wordIndex];
+  if (w) playAudio(w.en);
+}
+
+// ============================================
+// FINISH WORDS → MODAL
+// ============================================
+function finishWordsStage() {
+  allWordsLearned = true;
+
+  document.getElementById('progressFill').style.width = '100%';
+  document.getElementById('progressText').textContent =
+    `${lessonData.words.length} / ${lessonData.words.length}`;
+
+  document.getElementById('wordsCountModal').textContent = lessonData.words.length;
+  document.getElementById('testTimeModal').classList.add('open');
+
+  if (tg) tg.HapticFeedback?.notificationOccurred('success');
+}
+
+function reviewWords() {
+  document.getElementById('testTimeModal').classList.remove('open');
+  wordIndex = 0;
+  renderWord();
+}
+
+function startTestFromModal() {
+  document.getElementById('testTimeModal').classList.remove('open');
+  document.getElementById('stageWords').style.display = 'none';
+  startTest();
+}
+
+// ============================================
+// TEST
+// ============================================
+async function startTest() {
+  try {
+    if (!ALL_LESSONS) {
+      const r = await fetch('data/lessons.json');
+      const data = await r.json();
+      ALL_LESSONS = data.lessons || {};
+    }
+
+    // 1. Аз ҳамаи дарсҳо то ҳозир — exercises ҷамъ мекунем
+    const allExercises = [];
+    for (let id = 1; id <= LESSON_ID; id++) {
+      const lesson = ALL_LESSONS[id];
+      if (!lesson) continue;
+      (lesson.exercises || []).forEach(ex => {
+        allExercises.push({ ...ex, lessonId: id });
+      });
+    }
+
+    // 2. Агар exercises набошад — аз words автоматикӣ месозем
+    if (allExercises.length === 0) {
+      lessonData.words.forEach(w => {
+        // Options: ҷавоби дуруст + 3 нодуруст аз калимаҳои дигар
+        const wrongOptions = lessonData.words
+          .filter(x => x.tj !== w.tj)
+          .slice(0, 3)
+          .map(x => x.tj);
+
+        while (wrongOptions.length < 3) {
+          wrongOptions.push('нодуруст ' + (wrongOptions.length + 1));
+        }
+
+        allExercises.push({
+          q: `'${w.en}' чи маъно дорад?`,
+          options: [w.tj, ...wrongOptions],
+          answer: w.tj,
+          lessonId: LESSON_ID
+        });
+      });
+    }
+
+    if (allExercises.length === 0) {
+      showResult(100, 0, 0);
+      return;
+    }
+
+    // 3. Миқдори саволҳо
+    const questionCount = LESSON_ID === 1 ? 5
+                        : LESSON_ID === 2 ? 8
+                        : LESSON_ID === 3 ? 10
+                        : 15;
+
+    const shuffled = shuffleArray([...allExercises]);
+    testQuestions = shuffled.slice(0, Math.min(questionCount, shuffled.length));
+
+    testIdx = 0;
+    testAnswers = [];
+
+    document.getElementById('stageTest').style.display = 'block';
+    renderQuestion();
+  } catch (e) {
+    console.error('Test error:', e);
+    showResult(100, 0, 0);
+  }
+}
+
+function shuffleArray(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 function renderQuestion() {
-  if (currentIdx >= TEST_QUESTIONS.length) {
+  if (testIdx >= testQuestions.length) {
     finishTest();
     return;
   }
 
-  const q = TEST_QUESTIONS[currentIdx];
-  const progress = (currentIdx / TEST_QUESTIONS.length) * 100;
+  const q = testQuestions[testIdx];
+  const pct = (testIdx / testQuestions.length) * 100;
 
-  document.getElementById('currentNum').textContent = currentIdx + 1;
-  document.getElementById('testProgressBar').style.width = progress + '%';
+  document.getElementById('testProgressBar').style.width = pct + '%';
+  document.getElementById('testCounter').textContent = `${testIdx + 1} / ${testQuestions.length}`;
 
-  const options = [...q.options].sort(() => Math.random() - 0.5);
-  const hasEnglish = /[a-zA-Z]/.test(q.q);
-  const englishWord = extractEnglish(q.q);
-
+  const options = shuffleArray([...q.options]);
   const box = document.getElementById('questionBox');
   box.innerHTML = `
-    <div class="question-card">
+    <div class="test-question">
+      <div class="test-source">Аз дарси ${q.lessonId || LESSON_ID}</div>
       <h3>${escapeHtml(q.q)}</h3>
-
-      ${hasEnglish && englishWord ? `
-        <button class="btn-sound" onclick="playAudio('${englishWord.replace(/'/g, "\\'")}', this)">
-          <svg class="icon"><use href="#i-volume"/></svg>
-          Гӯш кардан
-        </button>
-      ` : ''}
-
       <div class="test-options">
         ${options.map(opt => `
           <button class="test-option" data-opt="${escapeAttr(opt)}">
@@ -1084,16 +598,8 @@ function renderQuestion() {
   });
 }
 
-function extractEnglish(text) {
-  const match = text.match(/'([^']+)'/);
-  return match ? match[1] : null;
-}
-
-// ============================================
-// ANSWER
-// ============================================
 function answerQuestion(btn) {
-  const q = TEST_QUESTIONS[currentIdx];
+  const q = testQuestions[testIdx];
   const chosen = btn.textContent.trim();
   const isCorrect = chosen === q.answer;
 
@@ -1104,130 +610,352 @@ function answerQuestion(btn) {
     else if (t === chosen && !isCorrect) b.classList.add('wrong');
   });
 
-  answers.push({ correct: isCorrect, lessonId: q.lessonId });
-
+  testAnswers.push({ correct: isCorrect });
   if (tg) tg.HapticFeedback?.notificationOccurred(isCorrect ? 'success' : 'error');
 
   setTimeout(() => {
-    currentIdx++;
+    testIdx++;
     renderQuestion();
-  }, 900);
+  }, 800);
 }
 
-// ============================================
-// FINISH
-// ============================================
 function finishTest() {
-  const correct = answers.filter(a => a.correct).length;
-  const total = answers.length;
-  const wrong = total - correct;
+  const correct = testAnswers.filter(a => a.correct).length;
+  const total = testAnswers.length;
   const percent = Math.round((correct / total) * 100);
   const passed = percent >= 70;
 
-  document.getElementById('testScreen').style.display = 'none';
-  document.getElementById('resultScreen').style.display = 'flex';
+  document.getElementById('stageTest').style.display = 'none';
+  showResult(percent, correct, total, passed);
+}
 
-  document.getElementById('pageTitle').textContent = 'Натиҷа';
-  document.getElementById('testSubtitle').textContent = passed ? 'Аъло!' : 'Такрор кунед';
+function showResult(percent, correct, total, passed = percent >= 70) {
+  document.getElementById('stageResult').style.display = 'block';
 
-  // Weak lessons
-  const byLesson = {};
-  answers.forEach(a => {
-    if (!byLesson[a.lessonId]) byLesson[a.lessonId] = { correct: 0, total: 0 };
-    byLesson[a.lessonId].total++;
-    if (a.correct) byLesson[a.lessonId].correct++;
-  });
-  const weakLessons = Object.entries(byLesson)
-    .filter(([_, s]) => s.correct / s.total < 0.7)
-    .map(([id]) => id);
-
-  document.getElementById('resultBox').innerHTML = `
-    <div class="result-circle ${passed ? 'passed' : 'failed'}">
-      <svg><use href="#${passed ? 'i-award' : 'i-x'}"/></svg>
-      <div class="pct">${percent}%</div>
+  const box = document.getElementById('resultBox');
+  box.className = `test-result ${passed ? 'passed' : 'failed'}`;
+  box.innerHTML = `
+    <div class="result-icon ${passed ? 'pass' : 'fail'}">
+      <svg class="icon icon-2xl"><use href="#${passed ? 'i-award' : 'i-x'}"/></svg>
     </div>
-
-    <h2 class="result-title">${passed ? 'Табрик!' : 'Боз кӯшиш кунед'}</h2>
-    <p class="result-subtitle">
-      ${passed ? 'Шумо тестро бомуваффақият гузаштед!' : 'Барои гузаштан 70% лозим аст'}
-    </p>
-
-    <div class="result-stats">
-      <div class="result-stat">
-        <div class="result-stat-icon green">
-          <svg class="icon"><use href="#i-check-circle"/></svg>
-        </div>
-        <div class="result-stat-info">
-          <strong>${correct}</strong>
-          <span>Дуруст</span>
-        </div>
-      </div>
-      <div class="result-stat">
-        <div class="result-stat-icon red">
-          <svg class="icon"><use href="#i-x-circle"/></svg>
-        </div>
-        <div class="result-stat-info">
-          <strong>${wrong}</strong>
-          <span>Хато</span>
-        </div>
-      </div>
-    </div>
-
-    ${weakLessons.length > 0 ? `
-      <div class="weak-lessons">
-        <h4>
-          <svg class="icon icon-xs"><use href="#i-target"/></svg>
-          Дарсҳое, ки такрор лозим аст:
-        </h4>
-        <div class="weak-chips">
-          ${weakLessons.map(id => `<span class="weak-chip">Дарси ${id}</span>`).join('')}
-        </div>
-      </div>
-    ` : ''}
-
+    <h2>${passed ? 'Табрик!' : 'Боз кӯшиш кунед'}</h2>
+    <div class="result-score">${percent}%</div>
+    <p>${correct} аз ${total} дуруст</p>
+    ${passed
+      ? `<p class="result-note">Дарси ${LESSON_ID + 1} кушода шуд! 🎉</p>`
+      : `<p class="result-note">Барои гузаштан 70% лозим аст</p>`}
     <div class="result-actions">
-      <button class="btn-result primary" onclick="retryTest()">
-        <svg class="icon"><use href="#i-refresh"/></svg>
-        Аз нав
-      </button>
-      <button class="btn-result secondary" onclick="exitTest()">
-        <svg class="icon"><use href="#i-check"/></svg>
-        Ба асосӣ
-      </button>
+      ${passed
+        ? `<button class="btn-primary" onclick="nextLesson()">
+            <svg class="icon icon-sm"><use href="#i-arrow-right"/></svg>
+            Ба дарси ${LESSON_ID + 1}
+          </button>`
+        : `<button class="btn-primary" onclick="retryTest()">
+            <svg class="icon"><use href="#i-refresh"/></svg>
+            Такрор кардан
+          </button>`}
+      <button class="btn-price" onclick="exitLesson()">Ба асосӣ</button>
     </div>
   `;
 
-  if (passed) {
-    createConfetti();
-  }
-
+  if (passed) markLessonComplete(LESSON_ID, percent);
   if (tg) tg.HapticFeedback?.notificationOccurred(passed ? 'success' : 'error');
 }
 
-function createConfetti() {
-  const colors = ['#fbbf24', '#f59e0b', '#6366f1', '#8b5cf6', '#ec4899', '#10b981'];
-  for (let i = 0; i < 40; i++) {
-    const c = document.createElement('div');
-    c.className = 'confetti';
-    c.style.left = Math.random() * 100 + '%';
-    c.style.background = colors[Math.floor(Math.random() * colors.length)];
-    c.style.animationDelay = Math.random() * 3 + 's';
-    c.style.animationDuration = (2 + Math.random() * 2) + 's';
-    c.style.borderRadius = Math.random() > 0.5 ? '50%' : '0';
-    document.body.appendChild(c);
-    setTimeout(() => c.remove(), 5000);
+function retryTest() {
+  document.getElementById('stageResult').style.display = 'none';
+  startTest();
+}
+
+function nextLesson() {
+  window.location.href = `lesson.html?id=${LESSON_ID + 1}`;
+}
+
+function markLessonComplete(id, score) {
+  const progress = store.get('progress', { completedLessons: [], testScores: {} });
+  if (!progress.completedLessons.includes(id)) {
+    progress.completedLessons.push(id);
+    progress.completedLessons.sort((a, b) => a - b);
+  }
+  progress.testScores[id] = Math.max(progress.testScores[id] || 0, score);
+  store.set('progress', progress);
+}
+
+function exitLesson() {
+  window.location.href = 'index.html';
+}
+
+// ============================================
+// PREMIUM ORDER
+// ============================================
+const PREMIUM_PLANS = {
+  '1day':   { label: '1 рӯз',   price: 4,    days: 1 },
+  '1week':  { label: '1 ҳафта', price: 25,   days: 7 },
+  '1month': { label: '1 моҳ',   price: 100,  days: 30 },
+  '1year':  { label: '1 сол',   price: 1199, days: 365 }
+};
+
+function openPremiumOrder(planKey) {
+  const plan = PREMIUM_PLANS[planKey];
+  if (!plan) return;
+
+  currentPlanKey = planKey;
+  document.getElementById('orderPlanLabel').textContent = plan.label;
+  document.getElementById('orderPlanPrice').textContent = plan.price + ' сомонӣ';
+  document.getElementById('cardNumberText').textContent = CARD_NUMBER;
+
+  selectedPhotoBase64 = null;
+  uploadedPhotoUrl = null;
+  document.getElementById('photoPreview').style.display = 'flex';
+  document.getElementById('photoSelected').style.display = 'none';
+  document.getElementById('btnSendOrder').disabled = true;
+
+  document.getElementById('premiumOrderModal').classList.add('open');
+}
+
+function closePremiumOrder() {
+  document.getElementById('premiumOrderModal').classList.remove('open');
+}
+
+function copyCardNumber() {
+  navigator.clipboard.writeText(CARD_NUMBER).then(() => {
+    showToast('✅ Номер нусхабардорӣ шуд');
+    if (tg) tg.HapticFeedback?.notificationOccurred('success');
+  }).catch(() => {
+    const input = document.createElement('input');
+    input.value = CARD_NUMBER;
+    document.body.appendChild(input);
+    input.select();
+    document.execCommand('copy');
+    input.remove();
+    showToast('✅ Номер нусхабардорӣ шуд');
+  });
+}
+
+// ============================================
+// IMAGE COMPRESSION
+// ============================================
+function compressImage(file, maxWidth = 1200, quality = 0.85) {
+  return new Promise((resolve, reject) => {
+    const reader = new FileReader();
+    reader.onload = (e) => {
+      const img = new Image();
+      img.onload = () => {
+        const canvas = document.createElement('canvas');
+        let { width, height } = img;
+
+        if (width > maxWidth) {
+          height = (height * maxWidth) / width;
+          width = maxWidth;
+        }
+
+        canvas.width = width;
+        canvas.height = height;
+        const ctx = canvas.getContext('2d');
+        ctx.drawImage(img, 0, 0, width, height);
+
+        const compressed = canvas.toDataURL('image/jpeg', quality);
+        resolve(compressed);
+      };
+      img.onerror = reject;
+      img.src = e.target.result;
+    };
+    reader.onerror = reject;
+    reader.readAsDataURL(file);
+  });
+}
+
+// ============================================
+// IMGBB
+// ============================================
+async function uploadToImgBB(base64Image) {
+  const base64Data = base64Image.replace(/^data:image\/\w+;base64,/, '');
+  const formData = new FormData();
+  formData.append('key', IMGBB_API_KEY);
+  formData.append('image', base64Data);
+
+  const res = await fetch('https://api.imgbb.com/1/upload', {
+    method: 'POST',
+    body: formData
+  });
+
+  if (!res.ok) throw new Error('ImgBB upload failed: ' + res.status);
+  const json = await res.json();
+
+  if (!json.success || !json.data) throw new Error(json.error?.message || 'ImgBB error');
+  return json.data.display_url || json.data.url;
+}
+
+// ============================================
+// PHOTO SELECT
+// ============================================
+async function handlePhotoSelect(event) {
+  const file = event.target.files[0];
+  if (!file) return;
+
+  if (!file.type.startsWith('image/')) {
+    showToast('Танҳо сурат қабул мешавад');
+    return;
+  }
+
+  if (file.size > 10 * 1024 * 1024) {
+    showToast('Ҳаҷми сурат аз 10 МБ зиёд аст');
+    return;
+  }
+
+  const btn = document.getElementById('btnSendOrder');
+  const originalText = btn.innerHTML;
+  btn.disabled = true;
+  btn.innerHTML = '<svg class="icon icon-sm"><use href="#i-refresh"/></svg> Фишурдан...';
+
+  try {
+    selectedPhotoBase64 = await compressImage(file, 1200, 0.85);
+
+    document.getElementById('photoImg').src = selectedPhotoBase64;
+    document.getElementById('photoPreview').style.display = 'none';
+    document.getElementById('photoSelected').style.display = 'block';
+
+    btn.innerHTML = '<svg class="icon icon-sm"><use href="#i-refresh"/></svg> Боркунӣ...';
+    uploadedPhotoUrl = await uploadToImgBB(selectedPhotoBase64);
+    console.log('✅ Расм ба ImgBB бор шуд:', uploadedPhotoUrl);
+
+    btn.disabled = false;
+    btn.innerHTML = originalText;
+
+    if (tg) tg.HapticFeedback?.notificationOccurred('success');
+    showToast('✅ Расм омода аст');
+  } catch (e) {
+    console.error('Photo upload error:', e);
+    showToast('Хато: ' + e.message);
+    selectedPhotoBase64 = null;
+    uploadedPhotoUrl = null;
+    document.getElementById('photoPreview').style.display = 'flex';
+    document.getElementById('photoSelected').style.display = 'none';
+    btn.disabled = true;
+    btn.innerHTML = originalText;
   }
 }
 
-function retryTest() {
-  document.getElementById('resultScreen').style.display = 'none';
-  document.getElementById('setupScreen').style.display = 'flex';
-  document.getElementById('pageTitle').textContent = 'Тести калон';
-  document.getElementById('testSubtitle').textContent = `${ALL_QUESTIONS.length} савол омода`;
+function removePhoto() {
+  selectedPhotoBase64 = null;
+  uploadedPhotoUrl = null;
+  const input = document.getElementById('paymentPhoto');
+  if (input) input.value = '';
+  document.getElementById('photoPreview').style.display = 'flex';
+  document.getElementById('photoSelected').style.display = 'none';
+  document.getElementById('btnSendOrder').disabled = true;
 }
 
-function exitTest() {
-  window.location.href = 'index.html';
+// ============================================
+// SEND ORDER
+// ============================================
+async function sendPremiumOrder() {
+  if (!uploadedPhotoUrl) {
+    showToast('Скриншоти пардохтро интихоб кунед');
+    return;
+  }
+
+  const plan = PREMIUM_PLANS[currentPlanKey];
+  if (!plan) return;
+
+  const btn = document.getElementById('btnSendOrder');
+  btn.disabled = true;
+  btn.innerHTML = '<svg class="icon icon-sm"><use href="#i-refresh"/></svg> Фиристода мешавад...';
+
+  const order = {
+    userId: user.id,
+    userName: user.first_name || 'Корбар',
+    userUsername: user.username || null,
+    plan: currentPlanKey,
+    planLabel: plan.label,
+    planPrice: plan.price,
+    planDays: plan.days,
+    photo: uploadedPhotoUrl,
+    status: 'pending',
+    createdAt: Date.now()
+  };
+
+  try {
+    let orderId = 'order_' + Date.now();
+
+    if (db) {
+      const ref = db.ref('premium_orders').push();
+      orderId = ref.key;
+      order.orderId = orderId;
+      await ref.set(order);
+      console.log('✅ Фармоиш ба Firebase фиристода шуд:', orderId);
+    } else {
+      throw new Error('Firebase пайваст нест');
+    }
+
+    if (tg) tg.HapticFeedback?.notificationOccurred('success');
+    showSuccessPopup(order, orderId);
+
+  } catch (e) {
+    console.error('Order error:', e);
+    showToast('Хато дар фиристодан: ' + e.message);
+    btn.disabled = false;
+    btn.innerHTML = '<svg class="icon icon-sm"><use href="#i-send"/></svg> Фиристодан';
+  }
+}
+
+// ============================================
+// SUCCESS POPUP — 2 тугма
+// ============================================
+function showSuccessPopup(order, orderId) {
+  closePremiumOrder();
+
+  const botLink = `https://t.me/${ADMIN_BOT}?start=${orderId}`;
+
+  const popup = document.createElement('div');
+  popup.className = 'modal open';
+  popup.style.zIndex = '10000';
+  popup.innerHTML = `
+    <div class="modal-backdrop" onclick="this.parentElement.remove()"></div>
+    <div class="modal-content" style="max-width:400px;text-align:center;border-radius:24px 24px 0 0">
+      <div style="padding:8px 0 20px">
+        <div style="font-size:70px;margin-bottom:12px;animation:bounceIn 0.6s ease">✅</div>
+        <h2 style="font-size:22px;font-weight:900;margin-bottom:8px">Фармоиш қабул шуд!</h2>
+        <p style="color:var(--text-2);font-size:13px;line-height:1.6;margin-bottom:24px">
+          Фармоиши шумо ба админ фиристода шуд.<br>
+          Баъд аз тасдиқ Premium худкор фаъол мешавад.
+        </p>
+
+        <div style="background:var(--bg-2);border-radius:14px;padding:14px;margin-bottom:20px;text-align:left;font-size:12px;">
+          <div style="display:flex;justify-content:space-between;margin-bottom:6px">
+            <span style="color:var(--text-2)">Нақша:</span>
+            <strong>${escapeHtml(order.planLabel)}</strong>
+          </div>
+          <div style="display:flex;justify-content:space-between">
+            <span style="color:var(--text-2)">Маблағ:</span>
+            <strong style="color:#fbbf24">${order.planPrice} сомонӣ</strong>
+          </div>
+        </div>
+
+        <button id="btnOpenBot"
+          style="width:100%;padding:16px;background:linear-gradient(135deg,#229ED9,#1a7ba8);color:#fff;border:none;border-radius:14px;font-size:15px;font-weight:800;cursor:pointer;font-family:inherit;display:flex;align-items:center;justify-content:center;gap:10px;margin-bottom:10px;box-shadow:0 8px 24px rgba(34,158,217,0.4);">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-.86.2-1.3l15.97-6.16c.73-.33 1.43.18 1.15 1.3l-2.72 12.81c-.19.91-.74 1.13-1.5.71L12.6 16.3l-1.99 1.93c-.23.23-.42.42-.83.42z"/>
+          </svg>
+          Хабар ба админ дар Telegram
+        </button>
+
+        <button onclick="this.closest('.modal').remove()"
+          style="width:100%;padding:14px;background:var(--bg-2);color:var(--text);border:1px solid var(--card-border);border-radius:14px;font-size:14px;font-weight:700;cursor:pointer;font-family:inherit;">
+          Пӯшидан
+        </button>
+      </div>
+    </div>
+  `;
+  document.body.appendChild(popup);
+
+  document.getElementById('btnOpenBot').addEventListener('click', () => {
+    if (tg?.openTelegramLink) {
+      tg.openTelegramLink(botLink);
+    } else {
+      window.open(botLink, '_blank');
+    }
+  });
 }
 
 // ============================================
@@ -1240,15 +968,56 @@ function escapeHtml(s) {
 function escapeAttr(s) {
   return String(s).replace(/"/g, '&quot;').replace(/'/g, '&#39;');
 }
+function showToast(msg) {
+  const t = document.createElement('div');
+  t.className = 'toast';
+  t.textContent = msg;
+  document.body.appendChild(t);
+  setTimeout(() => {
+    t.style.opacity = '0';
+    setTimeout(() => t.remove(), 300);
+  }, 2200);
+}
 
 // ============================================
-// START — танҳо барои Premium
+// START
 // ============================================
-if (isPremiumActive()) {
-  loadQuestions();
-} else {
-  showPremiumLockedScreen();
-}
+loadLesson();
 </script>
+
+<style>
+@keyframes bounceIn {
+  0% { transform: scale(0); }
+  50% { transform: scale(1.15); }
+  100% { transform: scale(1); }
+}
+
+.photo-preview {
+  width: 100%;
+  height: 160px;
+  border: 2px dashed var(--card-border);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  cursor: pointer;
+  transition: all 0.2s;
+  color: var(--text-2);
+  background: rgba(99, 102, 241, 0.03);
+}
+.photo-preview:active {
+  background: rgba(99, 102, 241, 0.1);
+  border-color: var(--primary);
+}
+.photo-preview p {
+  font-size: 13px;
+  font-weight: 600;
+}
+.photo-preview .icon {
+  color: var(--primary);
+}
+</style>
 </body>
 </html>
