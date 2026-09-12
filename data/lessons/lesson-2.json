@@ -1,114 +1,78 @@
 {
   "id": 2,
-  "title": "Луғат 2: Асосҳо",
+  "title": "Луғат 2: Оила",
   "level": "Ибтидоӣ - Starkov",
   "free": true,
   "words": [
     {
-      "en": "blue",
-      "tj": "кабуд",
-      "ex": "Ex: blue is useful."
-    },
-    {
       "en": "mother",
       "tj": "модар",
-      "ex": "Ex: mother is useful."
+      "ex": "Ex: My mother is kind."
     },
     {
       "en": "father",
       "tj": "падар",
-      "ex": "Ex: father is useful."
+      "ex": "Ex: My father is strong."
     },
     {
       "en": "sister",
       "tj": "хоҳар",
-      "ex": "Ex: sister is useful."
+      "ex": "Ex: My sister is small."
     },
     {
       "en": "brother",
       "tj": "бародар",
-      "ex": "Ex: brother is useful."
+      "ex": "Ex: My brother is a student."
+    },
+    {
+      "en": "grandmother",
+      "tj": "бибӣ",
+      "ex": "Ex: My grandmother is old."
+    },
+    {
+      "en": "grandfather",
+      "tj": "бобо",
+      "ex": "Ex: My grandfather is wise."
+    },
+    {
+      "en": "family",
+      "tj": "оила",
+      "ex": "Ex: I love my family."
     },
     {
       "en": "house",
       "tj": "хона",
-      "ex": "Ex: house is useful."
-    },
-    {
-      "en": "school",
-      "tj": "мактаб",
-      "ex": "Ex: school is useful."
-    },
-    {
-      "en": "teacher",
-      "tj": "омӯзгор",
-      "ex": "Ex: teacher is useful."
-    },
-    {
-      "en": "pupil",
-      "tj": "хонанда",
-      "ex": "Ex: pupil is useful."
-    },
-    {
-      "en": "good",
-      "tj": "хуб",
-      "ex": "Ex: good is useful."
+      "ex": "Ex: Our house is big."
     }
   ],
-  "phrases": [],
+  "phrases": [
+    {
+      "en": "This is my mother.",
+      "tj": "Ин модари ман аст."
+    },
+    {
+      "en": "I love my family.",
+      "tj": "Ман оилаамро дӯст медорам."
+    }
+  ],
   "text": null,
   "exercises": [
     {
-      "q": "'blue' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "кабуд"
-      ],
-      "answer": "кабуд"
-    },
-    {
       "q": "'mother' чи маъно дорад?",
-      "options": [
-        "модар",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
-      ],
+      "options": ["падар", "модар", "хоҳар", "бибӣ"],
       "answer": "модар"
     },
     {
       "q": "'father' чи маъно дорад?",
-      "options": [
-        "падар",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
-      ],
+      "options": ["бобо", "падар", "бародар", "модар"],
       "answer": "падар"
     },
     {
-      "q": "'sister' чи маъно дорад?",
-      "options": [
-        "хоҳар",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "хоҳар"
-    },
-    {
-      "q": "'brother' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "бародар",
-        "нодуруст A"
-      ],
-      "answer": "бародар"
+      "q": "'family' чи маъно дорад?",
+      "options": ["дӯст", "оила", "хона", "мактаб"],
+      "answer": "оила"
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 10
+  "wordsCount": 8
 }
