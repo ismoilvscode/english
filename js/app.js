@@ -18,7 +18,7 @@ const user = tg?.initDataUnsafe?.user || {
 const IS_ADMIN = Number(user.id) === ADMIN_ID;
 
 // ============================================================
-// CONFIG — Танзимҳои шумо
+// CONFIG
 // ============================================================
 const CONFIG = {
   CARD_NUMBER: '+992933217883',
@@ -64,7 +64,7 @@ const PREMIUM_PLANS = {
 };
 
 // ============================================================
-// 🔓 ПРЕМИУМ — санҷиши фаъол
+// 🔓 PREMIUM
 // ============================================================
 function isPremiumActive() {
   return premium.active && Date.now() < (premium.expiresAt || 0);
@@ -73,13 +73,20 @@ function isPremiumActive() {
 // ============================================================
 // 🧹 ТОЗА КАРДАНИ КОРБАРОНИ СОХТАГӢ
 // ============================================================
+// ID-и воқеии Telegram: 5-10 рақам (мисли 8406121228)
+// ID-и сохтагӣ: хурдтар аз 1 миллион (мисли 1, 100, 12345)
+function isValidTelegramId(id) {
+  const n = Number(id);
+  return n > 1000000;   // > 1 миллион = корбари воқеӣ
+}
+
 function cleanupFakeUsers() {
   const users = store.get('allUsers', {});
   const cleaned = {};
   let removed = 0;
 
   for (const [id, u] of Object.entries(users)) {
-    if (Number(id) < 100000000) cleaned[id] = u;
+    if (isValidTelegramId(id)) cleaned[id] = u;
     else removed++;
   }
 
@@ -97,19 +104,15 @@ function isLessonUnlocked(id) {
 }
 
 // ============================================================
-// 🎧 PREMIUM SYNC — аз Firebase ба localStorage
+// 🎧 PREMIUM SYNC
 // ============================================================
 function initPremiumSync() {
   if (!user.id) return;
-  if (typeof listenMyPremiumFromFirebase !== 'function') {
-    console.warn('⚠️ listenMyPremiumFromFirebase нест');
-    return;
-  }
+  if (typeof listenMyPremiumFromFirebase !== 'function') return;
 
   listenMyPremiumFromFirebase(user.id, data => {
     const wasActive = isPremiumActive();
 
-    // 1. Premium фаъол дар Firebase
     if (data.isPremium && data.premiumExpiresAt && Date.now() < data.premiumExpiresAt) {
       premium = {
         active: true,
@@ -120,15 +123,10 @@ function initPremiumSync() {
       store.set('premium', premium);
 
       if (!wasActive) {
-        // 🎯 POPUP ТАНҲО 1 БОР (бо expiresAt track мекунем)
         const popupKey = 'premium_popup_' + data.premiumExpiresAt;
-        const alreadyShown = localStorage.getItem(popupKey);
-
-        if (!alreadyShown) {
+        if (!localStorage.getItem(popupKey)) {
           localStorage.setItem(popupKey, '1');
-
           showToast('👑 Premium фаъол шуд!');
-
           if (tg) {
             tg.HapticFeedback?.notificationOccurred('success');
             const days = Math.ceil((data.premiumExpiresAt - Date.now()) / 86400000);
@@ -139,55 +137,36 @@ function initPremiumSync() {
             });
           }
         }
-
-        // UI навсозӣ
         renderProfile();
         updateTestLockUI();
         renderLessons('all');
         updateStats();
         renderContinueLessons();
       }
-    }
-    // 2. Premium нест шуд
-    else if (!data.isPremium && premium.active) {
+    } else if (!data.isPremium && premium.active) {
       premium = { active: false, plan: null, startedAt: null, expiresAt: null };
       store.set('premium', premium);
-
       renderProfile();
       updateTestLockUI();
       renderLessons('all');
       updateStats();
       renderContinueLessons();
     }
-    // 3. Мӯҳлат гузашт
-    else if (data.isPremium && data.premiumExpiresAt && Date.now() >= data.premiumExpiresAt) {
-      if (premium.active) {
-        premium = { active: false, plan: null, startedAt: null, expiresAt: null };
-        store.set('premium', premium);
-        renderProfile();
-        updateTestLockUI();
-        renderLessons('all');
-        updateStats();
-        renderContinueLessons();
-      }
-    }
   });
 }
 
 // ============================================================
-// 🔔 NOTIFICATIONS LISTENER
+// 🔔 NOTIFICATIONS
 // ============================================================
 function initNotificationsListener() {
   if (!user.id) return;
   if (typeof listenMyNotifications !== 'function') return;
 
   listenMyNotifications(user.id, notif => {
-    // 🎯 Танҳо 1 бор барои ҳар notification
     const notifKey = 'notif_shown_' + notif.id;
     if (localStorage.getItem(notifKey)) return;
     localStorage.setItem(notifKey, '1');
 
-    // ⚠️ premium_approved-ро нишон намедиҳем — initPremiumSync аллакай нишон медиҳад
     if (notif.type === 'premium_rejected') {
       showToast('❌ Фармоиш рад шуд');
       if (tg) {
@@ -199,7 +178,6 @@ function initNotificationsListener() {
       }
     }
 
-    // Нишона ҳамчун хондашуда дар Firebase
     if (db && user.id && notif.id) {
       db.ref(`notifications/${user.id}/${notif.id}`).update({ read: true }).catch(() => {});
     }
@@ -275,7 +253,6 @@ async function initApp() {
   await loadManifest();
   renderAll();
 
-  // 🎧 Premium sync — кӯшиш кун, агар Firebase ҳоло омода бошад
   initPremiumSync();
   initNotificationsListener();
 
@@ -534,7 +511,7 @@ function avatarFallback(img, initial) {
 }
 
 // ============================================================
-// TEST PAGE — Танҳо барои Premium
+// TEST PAGE
 // ============================================================
 function openTestPage() {
   if (!isPremiumActive()) {
@@ -543,7 +520,6 @@ function openTestPage() {
     setTimeout(() => navigateTo('premium'), 700);
     return;
   }
-
   if (tg) tg.HapticFeedback?.impactOccurred('medium');
   window.location.href = 'test.html';
 }
@@ -565,7 +541,7 @@ function updateTestLockUI() {
 }
 
 // ============================================================
-// RATING
+// 🏆 RATING — ДУРУСТ ШУД
 // ============================================================
 function renderRating(filter = 'all') {
   syncMyUser();
@@ -574,6 +550,7 @@ function renderRating(filter = 'all') {
   const container = document.getElementById('ratingList');
   const myCard = document.getElementById('myRankCard');
 
+  // Loading
   if (container) {
     container.innerHTML = `
       <div style="text-align:center;padding:40px;color:var(--text-2);font-size:13px;">
@@ -584,36 +561,51 @@ function renderRating(filter = 'all') {
   if (podium) podium.innerHTML = '';
   if (myCard) myCard.innerHTML = '';
 
+  // Кӯшиш кун аз Firebase
   if (typeof listenRatingRealtime === 'function') {
-    listenRatingRealtime(users => {
-      users = users.filter(u => Number(u.id) < 100000000);
+    console.log('🏆 Рейтинг аз Firebase бор мешавад...');
 
-      let filtered = users;
-      if (filter === 'week') {
-        const weekAgo = Date.now() - 7 * 86400000;
-        filtered = users.filter(u => u.lastActive > weekAgo);
-      } else if (filter === 'month') {
-        const monthAgo = Date.now() - 30 * 86400000;
-        filtered = users.filter(u => u.lastActive > monthAgo);
-      }
+    try {
+      listenRatingRealtime(users => {
+        console.log('🏆 Firebase users:', users.length);
 
-      renderRatingUI(filtered);
-    });
+        // ⚠️ ҲЕҶ ФИЛТР НАКУНЕМ — ҳамаи корбаронро нишон медиҳем
+        const validUsers = (users || []).filter(u => u && u.id);
+
+        let filtered = validUsers;
+        if (filter === 'week') {
+          const weekAgo = Date.now() - 7 * 86400000;
+          filtered = validUsers.filter(u => (u.lastActive || 0) > weekAgo);
+        } else if (filter === 'month') {
+          const monthAgo = Date.now() - 30 * 86400000;
+          filtered = validUsers.filter(u => (u.lastActive || 0) > monthAgo);
+        }
+
+        renderRatingUI(filtered);
+      });
+    } catch (e) {
+      console.error('❌ Firebase rating error:', e);
+      // Fallback ба local
+      const list = getLocalRatingList(filter, 100);
+      renderRatingUI(list);
+    }
   } else {
+    console.warn('⚠️ listenRatingRealtime нест — аз localStorage');
     const list = getLocalRatingList(filter, 100);
     renderRatingUI(list);
   }
 }
 
 function getLocalRatingList(filter = 'all', limit = 100) {
-  let users = Object.values(allUsers).filter(u => Number(u.id) < 100000000);
+  // ⚠️ ҲЕҶ ФИЛТР — ҳамаи корбарон
+  let users = Object.values(allUsers).filter(u => u && u.id);
 
   if (filter === 'week') {
     const weekAgo = Date.now() - 7 * 86400000;
-    users = users.filter(u => u.lastActive > weekAgo);
+    users = users.filter(u => (u.lastActive || 0) > weekAgo);
   } else if (filter === 'month') {
     const monthAgo = Date.now() - 30 * 86400000;
-    users = users.filter(u => u.lastActive > monthAgo);
+    users = users.filter(u => (u.lastActive || 0) > monthAgo);
   }
 
   users.sort((a, b) => (b.totalScore || 0) - (a.totalScore || 0));
@@ -639,23 +631,24 @@ function renderRatingUI(users) {
     return;
   }
 
+  // Топ-3
   if (podium && users.length >= 3) {
     const [first, second, third] = users;
     podium.innerHTML = `
       <div class="podium-item podium-2" onclick="showUserInfo(${second.id})">
         ${podiumAvatar(second, '2')}
-        <div class="podium-name">${escapeHtml(second.name)}</div>
+        <div class="podium-name">${escapeHtml(second.name || 'Корбар')}</div>
         <div class="podium-score">${second.totalScore || 0}</div>
       </div>
       <div class="podium-item podium-1" onclick="showUserInfo(${first.id})">
         <div class="podium-crown"><svg class="icon"><use href="#i-crown"/></svg></div>
         ${podiumAvatar(first, '1')}
-        <div class="podium-name">${escapeHtml(first.name)}</div>
+        <div class="podium-name">${escapeHtml(first.name || 'Корбар')}</div>
         <div class="podium-score">${first.totalScore || 0}</div>
       </div>
       <div class="podium-item podium-3" onclick="showUserInfo(${third.id})">
         ${podiumAvatar(third, '3')}
-        <div class="podium-name">${escapeHtml(third.name)}</div>
+        <div class="podium-name">${escapeHtml(third.name || 'Корбар')}</div>
         <div class="podium-score">${third.totalScore || 0}</div>
       </div>
     `;
@@ -663,6 +656,7 @@ function renderRatingUI(users) {
     podium.innerHTML = '';
   }
 
+  // Ҷои худ
   const myRank = users.findIndex(u => Number(u.id) === Number(user.id)) + 1;
   if (myCard) {
     if (myRank > 0) {
@@ -704,7 +698,7 @@ function renderRatingUI(users) {
         ${listAvatar(u)}
         <div class="rating-info">
           <div class="rating-name">
-            ${escapeHtml(u.name)}
+            ${escapeHtml(u.name || 'Корбар')}
             ${u.isPremium ? '<span title="Premium">👑</span>' : ''}
             ${u.isAdmin ? '<span title="Admin">🛡</span>' : ''}
             ${isMe ? '<span class="you-tag">Шумо</span>' : ''}
@@ -722,7 +716,7 @@ function podiumAvatar(u, rank) {
   return `
     <div class="podium-avatar" data-initial="${initial}">
       ${u.photo
-        ? `<img src="${u.photo}" alt="${escapeHtml(u.name)}" onerror="this.parentElement.innerHTML='<span class=\\'avatar-letter\\'>${initial}</span>'">`
+        ? `<img src="${u.photo}" alt="${escapeHtml(u.name || 'Корбар')}" onerror="this.parentElement.innerHTML='<span class=\\'avatar-letter\\'>${initial}</span>'">`
         : `<span class="avatar-letter">${initial}</span>`}
     </div>
     <div class="podium-rank">${rank}</div>
@@ -734,7 +728,7 @@ function listAvatar(u) {
   return `
     <div class="rating-avatar" data-initial="${initial}">
       ${u.photo
-        ? `<img src="${u.photo}" alt="${escapeHtml(u.name)}" onerror="this.parentElement.innerHTML='<span class=\\'avatar-letter\\'>${initial}</span>'">`
+        ? `<img src="${u.photo}" alt="${escapeHtml(u.name || 'Корбар')}" onerror="this.parentElement.innerHTML='<span class=\\'avatar-letter\\'>${initial}</span>'">`
         : `<span class="avatar-letter">${initial}</span>`}
     </div>
   `;
@@ -761,7 +755,7 @@ function showUserInfo(userId) {
 }
 
 function showUserPopup(u) {
-  const msg = `👤 ${u.name}\n📚 ${u.lessonsCount || 0} дарс\n🎯 ${u.avgScore || 0}% миёна\n⭐ ${u.totalScore || 0} хол`;
+  const msg = `👤 ${u.name || 'Корбар'}\n📚 ${u.lessonsCount || 0} дарс\n🎯 ${u.avgScore || 0}% миёна\n⭐ ${u.totalScore || 0} хол`;
   if (tg) {
     tg.showPopup({
       title: 'Профили корбар',
@@ -979,7 +973,7 @@ function compressImage(file, maxWidth = 1200, quality = 0.85) {
 }
 
 // ============================================================
-// IMGBB — Боркунии расм ба CDN
+// IMGBB
 // ============================================================
 async function uploadToImgBB(base64Image) {
   const base64Data = base64Image.replace(/^data:image\/\w+;base64,/, '');
@@ -993,15 +987,10 @@ async function uploadToImgBB(base64Image) {
     body: formData
   });
 
-  if (!res.ok) {
-    throw new Error('ImgBB upload failed: ' + res.status);
-  }
+  if (!res.ok) throw new Error('ImgBB upload failed: ' + res.status);
 
   const json = await res.json();
-
-  if (!json.success || !json.data) {
-    throw new Error(json.error?.message || 'ImgBB upload error');
-  }
+  if (!json.success || !json.data) throw new Error(json.error?.message || 'ImgBB error');
 
   return json.data.display_url || json.data.url;
 }
@@ -1027,7 +1016,6 @@ function openPremiumOrder(planKey) {
   document.getElementById('orderPlanPrice').textContent = plan.price + ' сомонӣ';
   document.getElementById('cardNumberText').textContent = CONFIG.CARD_NUMBER;
 
-  // Reset
   selectedPhotoBase64 = null;
   uploadedPhotoUrl = null;
   document.getElementById('photoPreview').style.display = 'flex';
@@ -1066,9 +1054,6 @@ function fallbackCopy(text) {
   showToast('✅ Номер нусхабардорӣ шуд');
 }
 
-// ============================================================
-// PHOTO SELECT — танҳо 1 расм + фишурдан + боркунӣ ба ImgBB
-// ============================================================
 async function handlePhotoSelect(event) {
   const file = event.target.files[0];
   if (!file) return;
@@ -1089,15 +1074,12 @@ async function handlePhotoSelect(event) {
   btn.innerHTML = '<svg class="icon icon-sm"><use href="#i-refresh"/></svg> Фишурдан...';
 
   try {
-    // 1. Фишурдан
     selectedPhotoBase64 = await compressImage(file, 1200, 0.85);
 
-    // 2. Нишон додан дар preview
     document.getElementById('photoImg').src = selectedPhotoBase64;
     document.getElementById('photoPreview').style.display = 'none';
     document.getElementById('photoSelected').style.display = 'block';
 
-    // 3. Боркунӣ ба ImgBB
     btn.innerHTML = '<svg class="icon icon-sm"><use href="#i-refresh"/></svg> Боркунӣ...';
 
     uploadedPhotoUrl = await uploadToImgBB(selectedPhotoBase64);
@@ -1109,7 +1091,6 @@ async function handlePhotoSelect(event) {
 
     if (tg) tg.HapticFeedback?.notificationOccurred('success');
     showToast('✅ Расм омода аст');
-
   } catch (e) {
     console.error('Photo upload error:', e);
     showToast('Хато: ' + e.message);
@@ -1132,9 +1113,6 @@ function removePhoto() {
   document.getElementById('btnSendOrder').disabled = true;
 }
 
-// ============================================================
-// SEND ORDER — Firebase + Telegram
-// ============================================================
 async function sendPremiumOrder() {
   if (!uploadedPhotoUrl) {
     showToast('Скриншоти пардохтро интихоб кунед');
@@ -1176,7 +1154,6 @@ async function sendPremiumOrder() {
 
     if (tg) tg.HapticFeedback?.notificationOccurred('success');
     showSuccessPopup(order, orderId);
-
   } catch (e) {
     console.error('Order error:', e);
     showToast('Хато дар фиристодан: ' + e.message);
@@ -1185,9 +1162,6 @@ async function sendPremiumOrder() {
   }
 }
 
-// ============================================================
-// SUCCESS POPUP — 2 тугма
-// ============================================================
 function showSuccessPopup(order, orderId) {
   closePremiumOrder();
 
@@ -1207,10 +1181,7 @@ function showSuccessPopup(order, orderId) {
           Баъд аз тасдиқ Premium худкор фаъол мешавад.
         </p>
 
-        <div style="
-          background:var(--bg-2);border-radius:14px;padding:14px;
-          margin-bottom:20px;text-align:left;font-size:12px;
-        ">
+        <div style="background:var(--bg-2);border-radius:14px;padding:14px;margin-bottom:20px;text-align:left;font-size:12px;">
           <div style="display:flex;justify-content:space-between;margin-bottom:6px">
             <span style="color:var(--text-2)">Нақша:</span>
             <strong>${escapeHtml(order.planLabel)}</strong>
@@ -1222,15 +1193,7 @@ function showSuccessPopup(order, orderId) {
         </div>
 
         <button id="btnOpenBot"
-          style="
-            width:100%;padding:16px;
-            background:linear-gradient(135deg,#229ED9,#1a7ba8);
-            color:#fff;border:none;border-radius:14px;
-            font-size:15px;font-weight:800;cursor:pointer;font-family:inherit;
-            display:flex;align-items:center;justify-content:center;gap:10px;
-            margin-bottom:10px;
-            box-shadow:0 8px 24px rgba(34,158,217,0.4);
-          ">
+          style="width:100%;padding:16px;background:linear-gradient(135deg,#229ED9,#1a7ba8);color:#fff;border:none;border-radius:14px;font-size:15px;font-weight:800;cursor:pointer;font-family:inherit;display:flex;align-items:center;justify-content:center;gap:10px;margin-bottom:10px;box-shadow:0 8px 24px rgba(34,158,217,0.4);">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
             <path d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-.86.2-1.3l15.97-6.16c.73-.33 1.43.18 1.15 1.3l-2.72 12.81c-.19.91-.74 1.13-1.5.71L12.6 16.3l-1.99 1.93c-.23.23-.42.42-.83.42z"/>
           </svg>
@@ -1238,12 +1201,7 @@ function showSuccessPopup(order, orderId) {
         </button>
 
         <button onclick="this.closest('.modal').remove()"
-          style="
-            width:100%;padding:14px;
-            background:var(--bg-2);color:var(--text);
-            border:1px solid var(--card-border);border-radius:14px;
-            font-size:14px;font-weight:700;cursor:pointer;font-family:inherit;
-          ">
+          style="width:100%;padding:14px;background:var(--bg-2);color:var(--text);border:1px solid var(--card-border);border-radius:14px;font-size:14px;font-weight:700;cursor:pointer;font-family:inherit;">
           Пӯшидан
         </button>
       </div>
@@ -1280,17 +1238,12 @@ function showToast(msg) {
 }
 
 // ============================================================
-// FIREBASE READY — даъвати ҳамаи listener-ҳо
+// FIREBASE READY
 // ============================================================
 function onFirebaseReady() {
   console.log('🔥 Firebase пайваст шуд');
-
   syncMyUser();
-
-  // 🎧 Premium sync — МУҲИМ! Ин ҷо даъват мешавад, чунки db омода шуд
   initPremiumSync();
-
-  // 🔔 Notifications
   initNotificationsListener();
 
   const ratingPage = document.querySelector('[data-page="rating"]');
@@ -1305,28 +1258,20 @@ function onFirebaseReady() {
 }
 
 // ============================================================
-// ADMIN RENDER (минималӣ — админ дар admin.js)
+// ADMIN RENDER
 // ============================================================
 function renderAdmin() {
   if (!IS_ADMIN) return;
 
-  const container = document.getElementById('adminRating');
-  if (container) {
-    container.innerHTML = `
-      <div style="text-align:center;padding:20px;color:var(--text-2);font-size:13px;">
-        <div class="loader" style="margin:0 auto 12px;"></div>
-        Бор мешавад...
-      </div>`;
-  }
-
   const renderList = (users) => {
-    users = users.filter(u => Number(u.id) < 100000000);
+    // ⚠️ ҲЕҶ ФИЛТР
+    const validUsers = users.filter(u => u && u.id);
 
-    const premiumCount = users.filter(u => u.isPremium).length;
-    const activeCount = users.filter(u => u.lastActive > Date.now() - 7 * 86400000).length;
+    const premiumCount = validUsers.filter(u => u.isPremium).length;
+    const activeCount = validUsers.filter(u => (u.lastActive || 0) > Date.now() - 7 * 86400000).length;
 
     const set = (id, v) => { const el = document.getElementById(id); if (el) el.textContent = v; };
-    set('adminTotalUsers', users.length);
+    set('adminTotalUsers', validUsers.length);
     set('adminPremiumUsers', premiumCount);
     set('adminActiveUsers', activeCount);
   };
