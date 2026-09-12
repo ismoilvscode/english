@@ -1,713 +1,440 @@
 {
   "id": 20,
-  "title": "Луғат ва ибораҳо 20",
+  "title": "Иборасозӣ 20: Сафар ва самтҳо",
   "level": "Ибтидоӣ - Starkov",
   "free": false,
   "words": [
     {
-      "en": "water",
-      "tj": "об",
-      "ex": "Ex: water is useful."
+      "en": "neighbour",
+      "tj": "ҳамсоя",
+      "ex": "My neighbour has a big garden."
     },
     {
-      "en": "bread",
-      "tj": "нон",
-      "ex": "Ex: bread is useful."
+      "en": "visitor",
+      "tj": "меҳмон",
+      "ex": "The visitor comes in the evening."
     },
     {
-      "en": "a book",
-      "tj": "китоб",
-      "ex": "Ex: a book is useful."
+      "en": "journey",
+      "tj": "сафар",
+      "ex": "The journey to the city is long."
     },
     {
-      "en": "a pen",
-      "tj": "қалам",
-      "ex": "Ex: a pen is useful."
+      "en": "trip",
+      "tj": "саёҳат",
+      "ex": "We go on a trip to the mountain."
     },
     {
-      "en": "a desk",
-      "tj": "мизи дарсӣ",
-      "ex": "Ex: a desk is useful."
+      "en": "ticket",
+      "tj": "чипта",
+      "ex": "I buy a ticket for the train."
     },
     {
-      "en": "a bag",
-      "tj": "халта",
-      "ex": "Ex: a bag is useful."
+      "en": "luggage",
+      "tj": "бор",
+      "ex": "My luggage is in the car."
     },
     {
-      "en": "a cat",
-      "tj": "гурба",
-      "ex": "Ex: a cat is useful."
+      "en": "passport",
+      "tj": "шиноснома",
+      "ex": "I show my passport at the airport."
     },
     {
-      "en": "a dog",
-      "tj": "саг",
-      "ex": "Ex: a dog is useful."
+      "en": "airport",
+      "tj": "фурудгоҳ",
+      "ex": "The plane is at the airport."
     },
     {
-      "en": "red",
-      "tj": "сурх",
-      "ex": "Ex: red is useful."
+      "en": "station",
+      "tj": "истгоҳ",
+      "ex": "The train is at the station."
     },
     {
-      "en": "blue",
-      "tj": "кабуд",
-      "ex": "Ex: blue is useful."
+      "en": "map",
+      "tj": "харита",
+      "ex": "I look at the map."
     },
     {
-      "en": "mother",
-      "tj": "модар",
-      "ex": "Ex: mother is useful."
+      "en": "direction",
+      "tj": "самт",
+      "ex": "We walk in the right direction."
     },
     {
-      "en": "father",
-      "tj": "падар",
-      "ex": "Ex: father is useful."
+      "en": "left",
+      "tj": "чап",
+      "ex": "Turn left near the school."
     },
     {
-      "en": "sister",
-      "tj": "хоҳар",
-      "ex": "Ex: sister is useful."
+      "en": "right",
+      "tj": "рост",
+      "ex": "The garden is on the right."
     },
     {
-      "en": "brother",
-      "tj": "бародар",
-      "ex": "Ex: brother is useful."
+      "en": "near",
+      "tj": "наздик",
+      "ex": "My house is near the river."
     },
     {
-      "en": "house",
-      "tj": "хона",
-      "ex": "Ex: house is useful."
-    },
-    {
-      "en": "school",
-      "tj": "мактаб",
-      "ex": "Ex: school is useful."
-    },
-    {
-      "en": "teacher",
-      "tj": "омӯзгор",
-      "ex": "Ex: teacher is useful."
-    },
-    {
-      "en": "pupil",
-      "tj": "хонанда",
-      "ex": "Ex: pupil is useful."
-    },
-    {
-      "en": "good",
-      "tj": "хуб",
-      "ex": "Ex: good is useful."
-    },
-    {
-      "en": "bad",
-      "tj": "бад",
-      "ex": "Ex: bad is useful."
-    },
-    {
-      "en": "big",
-      "tj": "калон",
-      "ex": "Ex: big is useful."
-    },
-    {
-      "en": "small",
-      "tj": "хурд",
-      "ex": "Ex: small is useful."
-    },
-    {
-      "en": "new",
-      "tj": "нав",
-      "ex": "Ex: new is useful."
-    },
-    {
-      "en": "old",
-      "tj": "кӯҳна",
-      "ex": "Ex: old is useful."
-    },
-    {
-      "en": "happy",
-      "tj": "хушбахт",
-      "ex": "Ex: happy is useful."
-    },
-    {
-      "en": "sad",
-      "tj": "ғамгин",
-      "ex": "Ex: sad is useful."
-    },
-    {
-      "en": "to read",
-      "tj": "хондан",
-      "ex": "Ex: to read is useful."
-    },
-    {
-      "en": "to write",
-      "tj": "навиштан",
-      "ex": "Ex: to write is useful."
-    },
-    {
-      "en": "to speak",
-      "tj": "гап задан",
-      "ex": "Ex: to speak is useful."
-    },
-    {
-      "en": "to learn",
-      "tj": "омӯхтан",
-      "ex": "Ex: to learn is useful."
-    },
-    {
-      "en": "to go",
-      "tj": "рафтан",
-      "ex": "Ex: to go is useful."
-    },
-    {
-      "en": "to come",
-      "tj": "омадан",
-      "ex": "Ex: to come is useful."
-    },
-    {
-      "en": "morning",
-      "tj": "субҳ",
-      "ex": "Ex: morning is useful."
-    },
-    {
-      "en": "day",
-      "tj": "рӯз",
-      "ex": "Ex: day is useful."
-    },
-    {
-      "en": "evening",
-      "tj": "бегоҳ",
-      "ex": "Ex: evening is useful."
-    },
-    {
-      "en": "night",
-      "tj": "шаб",
-      "ex": "Ex: night is useful."
-    },
-    {
-      "en": "today",
-      "tj": "имрӯз",
-      "ex": "Ex: today is useful."
-    },
-    {
-      "en": "tomorrow",
-      "tj": "фардо",
-      "ex": "Ex: tomorrow is useful."
-    },
-    {
-      "en": "yesterday",
-      "tj": "дируз",
-      "ex": "Ex: yesterday is useful."
-    },
-    {
-      "en": "one",
-      "tj": "як",
-      "ex": "Ex: one is useful."
-    },
-    {
-      "en": "two",
-      "tj": "ду",
-      "ex": "Ex: two is useful."
-    },
-    {
-      "en": "three",
-      "tj": "се",
-      "ex": "Ex: three is useful."
-    },
-    {
-      "en": "four",
-      "tj": "чор",
-      "ex": "Ex: four is useful."
-    },
-    {
-      "en": "five",
-      "tj": "панҷ",
-      "ex": "Ex: five is useful."
-    },
-    {
-      "en": "apple",
-      "tj": "себ",
-      "ex": "Ex: apple is useful."
-    },
-    {
-      "en": "water",
-      "tj": "об",
-      "ex": "Ex: water is useful."
-    },
-    {
-      "en": "bread",
-      "tj": "нон",
-      "ex": "Ex: bread is useful."
-    },
-    {
-      "en": "a book",
-      "tj": "китоб",
-      "ex": "Ex: a book is useful."
+      "en": "far",
+      "tj": "дур",
+      "ex": "The mountain is far from the city."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 20)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "My neighbour has a big garden near the river.",
+      "tj": "Ҳамсояи ман дар назди дарё боғи калон дорад."
     },
     {
-      "en": "I'm working on lesson 20",
-      "tj": "Ман дарси 20-ро меомӯзам"
+      "en": "The visitor comes to my house in the evening.",
+      "tj": "Меҳмон бегоҳ ба хонаи ман меояд."
+    },
+    {
+      "en": "The journey to the big city is long.",
+      "tj": "Сафар ба шаҳри калон дароз аст."
+    },
+    {
+      "en": "We go on a trip to the mountain in summer.",
+      "tj": "Мо дар тобистон ба кӯҳ ба саёҳат меравем."
+    },
+    {
+      "en": "I buy a ticket for the train at the station.",
+      "tj": "Ман дар истгоҳ барои қатора чипта мехарам."
+    },
+    {
+      "en": "My luggage is in the car near the house.",
+      "tj": "Бори ман дар мошин дар назди хона аст."
+    },
+    {
+      "en": "I show my passport at the airport.",
+      "tj": "Ман дар фурудгоҳ шиносномаамро нишон медиҳам."
+    },
+    {
+      "en": "The plane is at the airport in the morning.",
+      "tj": "Ҳавопаймо субҳ дар фурудгоҳ аст."
+    },
+    {
+      "en": "The train is at the station near the city.",
+      "tj": "Қатора дар истгоҳи назди шаҳр аст."
+    },
+    {
+      "en": "I look at the map to find the right direction.",
+      "tj": "Ман ба харита нигоҳ мекунам, то самти дурустро ёбам."
+    },
+    {
+      "en": "We walk in the right direction to the village.",
+      "tj": "Мо ба самти дуруст ба деҳа қадам мезанем."
+    },
+    {
+      "en": "Turn left near the big school.",
+      "tj": "Дар назди мактаби калон ба чап гард."
+    },
+    {
+      "en": "The garden is on the right near the fence.",
+      "tj": "Боғ дар тарафи рост дар назди девор аст."
+    },
+    {
+      "en": "My house is near the river and the bridge.",
+      "tj": "Хонаи ман дар назди дарё ва пул аст."
+    },
+    {
+      "en": "The mountain is far from the city.",
+      "tj": "Кӯҳ аз шаҳр дур аст."
+    },
+    {
+      "en": "My neighbour feeds the horse and the cow every morning.",
+      "tj": "Ҳамсояи ман ҳар субҳ ба асп ва гов хӯрок медиҳад."
+    },
+    {
+      "en": "The visitor brings a gift for my grandmother.",
+      "tj": "Меҳмон барои бибии ман тӯҳфа меорад."
+    },
+    {
+      "en": "The journey to the village is short and beautiful.",
+      "tj": "Сафар ба деҳа кӯтоҳ ва зебо аст."
+    },
+    {
+      "en": "We buy tickets for the trip to the sea.",
+      "tj": "Мо барои саёҳат ба баҳр чипта мехарем."
+    },
+    {
+      "en": "My father carries the luggage to the car.",
+      "tj": "Падарам борро ба мошин мебардорад."
+    },
+    {
+      "en": "I need my passport for the journey to the city.",
+      "tj": "Ман барои сафар ба шаҳр шиносномаамро лозим дорам."
+    },
+    {
+      "en": "The airport is far from my house.",
+      "tj": "Фурудгоҳ аз хонаи ман дур аст."
+    },
+    {
+      "en": "We wait for the train at the station in the morning.",
+      "tj": "Мо субҳ дар истгоҳ барои қатора интизор мешавем."
+    },
+    {
+      "en": "The map shows the direction to the mountain.",
+      "tj": "Харита самтро ба кӯҳ нишон медиҳад."
+    },
+    {
+      "en": "My friend lives near the school, not far from the garden.",
+      "tj": "Дӯсти ман дар назди мактаб зиндагӣ мекунад, на дур аз боғ."
     }
   ],
   "text": null,
   "exercises": [
     {
-      "q": "'water' чи маъно дорад?",
+      "q": "«Ҳамсояи ман дар назди дарё боғи калон дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "об",
-        "нодуруст B",
-        "нодуруст A"
+        "My neighbour has a big garden near the river.",
+        "My neighbour has a big garden near the mountain.",
+        "My neighbour has a small garden near the river.",
+        "My friend has a big garden near the river."
       ],
-      "answer": "об"
+      "answer": "My neighbour has a big garden near the river."
     },
     {
-      "q": "'bread' чи маъно дорад?",
+      "q": "«Меҳмон бегоҳ ба хонаи ман меояд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нон",
-        "нодуруст C",
-        "нодуруст B"
+        "The visitor comes to my house in the evening.",
+        "The visitor comes to my house in the morning.",
+        "The visitor comes to my garden in the evening.",
+        "The neighbour comes to my house in the evening."
       ],
-      "answer": "нон"
+      "answer": "The visitor comes to my house in the evening."
     },
     {
-      "q": "'a book' чи маъно дорад?",
+      "q": "«Сафар ба шаҳри калон дароз аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "китоб",
-        "нодуруст C",
-        "нодуруст B"
+        "The journey to the big city is long.",
+        "The journey to the big village is long.",
+        "The trip to the big city is long.",
+        "The journey to the big city is short."
       ],
-      "answer": "китоб"
+      "answer": "The journey to the big city is long."
     },
     {
-      "q": "'a pen' чи маъно дорад?",
+      "q": "«Мо дар тобистон ба кӯҳ ба саёҳат меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "қалам",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "We go on a trip to the mountain in summer.",
+        "We go on a trip to the mountain in spring.",
+        "We go on a journey to the mountain in summer.",
+        "We go on a trip to the river in summer."
       ],
-      "answer": "қалам"
+      "answer": "We go on a trip to the mountain in summer."
     },
     {
-      "q": "'a desk' чи маъно дорад?",
+      "q": "«Ман дар истгоҳ барои қатора чипта мехарам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "мизи дарсӣ",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "I buy a ticket for the train at the station.",
+        "I buy a ticket for the bus at the station.",
+        "I buy a ticket for the train at the airport.",
+        "I sell a ticket for the train at the station."
       ],
-      "answer": "мизи дарсӣ"
+      "answer": "I buy a ticket for the train at the station."
     },
     {
-      "q": "'a bag' чи маъно дорад?",
+      "q": "«Бори ман дар мошин дар назди хона аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "халта",
-        "нодуруст C"
+        "My luggage is in the car near the house.",
+        "My luggage is in the car near the garden.",
+        "My luggage is in the bus near the house.",
+        "My ticket is in the car near the house."
       ],
-      "answer": "халта"
+      "answer": "My luggage is in the car near the house."
     },
     {
-      "q": "'a cat' чи маъно дорад?",
+      "q": "«Ман дар фурудгоҳ шиносномаамро нишон медиҳам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "гурба"
+        "I show my passport at the airport.",
+        "I show my ticket at the airport.",
+        "I show my passport at the station.",
+        "I show my luggage at the airport."
       ],
-      "answer": "гурба"
+      "answer": "I show my passport at the airport."
     },
     {
-      "q": "'a dog' чи маъно дорад?",
+      "q": "«Ҳавопаймо субҳ дар фурудгоҳ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "саг"
+        "The plane is at the airport in the morning.",
+        "The plane is at the airport in the evening.",
+        "The train is at the airport in the morning.",
+        "The plane is at the station in the morning."
       ],
-      "answer": "саг"
+      "answer": "The plane is at the airport in the morning."
     },
     {
-      "q": "'red' чи маъно дорад?",
+      "q": "«Қатора дар истгоҳи назди шаҳр аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "сурх",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The train is at the station near the city.",
+        "The train is at the station near the village.",
+        "The bus is at the station near the city.",
+        "The train is at the airport near the city."
       ],
-      "answer": "сурх"
+      "answer": "The train is at the station near the city."
     },
     {
-      "q": "'blue' чи маъно дорад?",
+      "q": "«Ман ба харита нигоҳ мекунам, то самти дурустро ёбам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "кабуд",
-        "нодуруст C",
-        "нодуруст A"
+        "I look at the map to find the right direction.",
+        "I look at the map to find the right city.",
+        "I look at the book to find the right direction.",
+        "I look at the map to find the right station."
       ],
-      "answer": "кабуд"
+      "answer": "I look at the map to find the right direction."
     },
     {
-      "q": "'mother' чи маъно дорад?",
+      "q": "«Мо ба самти дуруст ба деҳа қадам мезанем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "модар"
+        "We walk in the right direction to the village.",
+        "We walk in the right direction to the city.",
+        "We walk in the wrong direction to the village.",
+        "We run in the right direction to the village."
       ],
-      "answer": "модар"
+      "answer": "We walk in the right direction to the village."
     },
     {
-      "q": "'father' чи маъно дорад?",
+      "q": "«Дар назди мактаби калон ба чап гард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "падар",
-        "нодуруст C"
+        "Turn left near the big school.",
+        "Turn right near the big school.",
+        "Turn left near the small school.",
+        "Turn left near the big house."
       ],
-      "answer": "падар"
+      "answer": "Turn left near the big school."
     },
     {
-      "q": "'sister' чи маъно дорад?",
+      "q": "«Боғ дар тарафи рост дар назди девор аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "хоҳар",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The garden is on the right near the fence.",
+        "The garden is on the left near the fence.",
+        "The garden is on the right near the house.",
+        "The farm is on the right near the fence."
       ],
-      "answer": "хоҳар"
+      "answer": "The garden is on the right near the fence."
     },
     {
-      "q": "'brother' чи маъно дорад?",
+      "q": "«Хонаи ман дар назди дарё ва пул аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "бародар",
-        "нодуруст A",
-        "нодуруст C"
+        "My house is near the river and the bridge.",
+        "My house is near the river and the mountain.",
+        "My house is near the sea and the bridge.",
+        "My house is far from the river and the bridge."
       ],
-      "answer": "бародар"
+      "answer": "My house is near the river and the bridge."
     },
     {
-      "q": "'house' чи маъно дорад?",
+      "q": "«Кӯҳ аз шаҳр дур аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "хона",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The mountain is far from the city.",
+        "The mountain is near the city.",
+        "The mountain is far from the village.",
+        "The river is far from the city."
       ],
-      "answer": "хона"
+      "answer": "The mountain is far from the city."
     },
     {
-      "q": "'school' чи маъно дорад?",
+      "q": "«Ҳамсояи ман ҳар субҳ ба асп ва гов хӯрок медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "мактаб",
-        "нодуруст B",
-        "нодуруст A"
+        "My neighbour feeds the horse and the cow every morning.",
+        "My neighbour feeds the horse and the sheep every morning.",
+        "My neighbour feeds the cow and the horse every evening.",
+        "My friend feeds the horse and the cow every morning."
       ],
-      "answer": "мактаб"
+      "answer": "My neighbour feeds the horse and the cow every morning."
     },
     {
-      "q": "'teacher' чи маъно дорад?",
+      "q": "«Меҳмон барои бибии ман тӯҳфа меорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "омӯзгор"
+        "The visitor brings a gift for my grandmother.",
+        "The visitor brings a gift for my grandfather.",
+        "The neighbour brings a gift for my grandmother.",
+        "The visitor sends a gift for my grandmother."
       ],
-      "answer": "омӯзгор"
+      "answer": "The visitor brings a gift for my grandmother."
     },
     {
-      "q": "'pupil' чи маъно дорад?",
+      "q": "«Сафар ба деҳа кӯтоҳ ва зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "хонанда",
-        "нодуруст B"
+        "The journey to the village is short and beautiful.",
+        "The journey to the village is long and beautiful.",
+        "The trip to the village is short and beautiful.",
+        "The journey to the city is short and beautiful."
       ],
-      "answer": "хонанда"
+      "answer": "The journey to the village is short and beautiful."
     },
     {
-      "q": "'good' чи маъно дорад?",
+      "q": "«Мо барои саёҳат ба баҳр чипта мехарем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "хуб",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "We buy tickets for the trip to the sea.",
+        "We buy tickets for the trip to the mountain.",
+        "We buy tickets for the journey to the sea.",
+        "We sell tickets for the trip to the sea."
       ],
-      "answer": "хуб"
+      "answer": "We buy tickets for the trip to the sea."
     },
     {
-      "q": "'bad' чи маъно дорад?",
+      "q": "«Падарам борро ба мошин мебардорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "бад",
-        "нодуруст B",
-        "нодуруст A"
+        "My father carries the luggage to the car.",
+        "My father carries the luggage to the bus.",
+        "My mother carries the luggage to the car.",
+        "My father carries the bag to the car."
       ],
-      "answer": "бад"
+      "answer": "My father carries the luggage to the car."
     },
     {
-      "q": "'big' чи маъно дорад?",
+      "q": "«Ман барои сафар ба шаҳр шиносномаамро лозим дорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "калон",
-        "нодуруст B",
-        "нодуруст C"
+        "I need my passport for the journey to the city.",
+        "I need my passport for the journey to the village.",
+        "I need my ticket for the journey to the city.",
+        "I need my luggage for the journey to the city."
       ],
-      "answer": "калон"
+      "answer": "I need my passport for the journey to the city."
     },
     {
-      "q": "'small' чи маъно дорад?",
+      "q": "«Фурудгоҳ аз хонаи ман дур аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "хурд",
-        "нодуруст C"
+        "The airport is far from my house.",
+        "The airport is near my house.",
+        "The station is far from my house.",
+        "The airport is far from my garden."
       ],
-      "answer": "хурд"
+      "answer": "The airport is far from my house."
     },
     {
-      "q": "'new' чи маъно дорад?",
+      "q": "«Мо субҳ дар истгоҳ барои қатора интизор мешавем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "нав"
+        "We wait for the train at the station in the morning.",
+        "We wait for the train at the station in the evening.",
+        "We wait for the bus at the station in the morning.",
+        "We look for the train at the station in the morning."
       ],
-      "answer": "нав"
+      "answer": "We wait for the train at the station in the morning."
     },
     {
-      "q": "'old' чи маъно дорад?",
+      "q": "«Харита самтро ба кӯҳ нишон медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "кӯҳна",
-        "нодуруст B",
-        "нодуруст A"
+        "The map shows the direction to the mountain.",
+        "The map shows the direction to the river.",
+        "The map shows the way to the mountain.",
+        "The book shows the direction to the mountain."
       ],
-      "answer": "кӯҳна"
+      "answer": "The map shows the direction to the mountain."
     },
     {
-      "q": "'happy' чи маъно дорад?",
+      "q": "«Дӯсти ман дар назди мактаб зиндагӣ мекунад, на дур аз боғ» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "хушбахт"
+        "My friend lives near the school, not far from the garden.",
+        "My friend lives near the school, not far from the house.",
+        "My neighbour lives near the school, not far from the garden.",
+        "My friend lives near the city, not far from the garden."
       ],
-      "answer": "хушбахт"
-    },
-    {
-      "q": "'sad' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "ғамгин",
-        "нодуруст A"
-      ],
-      "answer": "ғамгин"
-    },
-    {
-      "q": "'to read' чи маъно дорад?",
-      "options": [
-        "хондан",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "хондан"
-    },
-    {
-      "q": "'to write' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "навиштан"
-      ],
-      "answer": "навиштан"
-    },
-    {
-      "q": "'to speak' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "гап задан",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "гап задан"
-    },
-    {
-      "q": "'to learn' чи маъно дорад?",
-      "options": [
-        "омӯхтан",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "омӯхтан"
-    },
-    {
-      "q": "'to go' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "рафтан",
-        "нодуруст C"
-      ],
-      "answer": "рафтан"
-    },
-    {
-      "q": "'to come' чи маъно дорад?",
-      "options": [
-        "омадан",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "омадан"
-    },
-    {
-      "q": "'morning' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "субҳ",
-        "нодуруст B"
-      ],
-      "answer": "субҳ"
-    },
-    {
-      "q": "'day' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "рӯз",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "рӯз"
-    },
-    {
-      "q": "'evening' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "бегоҳ"
-      ],
-      "answer": "бегоҳ"
-    },
-    {
-      "q": "'night' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "шаб",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "шаб"
-    },
-    {
-      "q": "'today' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "имрӯз",
-        "нодуруст A"
-      ],
-      "answer": "имрӯз"
-    },
-    {
-      "q": "'tomorrow' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "фардо",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "фардо"
-    },
-    {
-      "q": "'yesterday' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "дируз"
-      ],
-      "answer": "дируз"
-    },
-    {
-      "q": "'one' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "як",
-        "нодуруст A"
-      ],
-      "answer": "як"
-    },
-    {
-      "q": "'two' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "ду",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "ду"
-    },
-    {
-      "q": "'three' чи маъно дорад?",
-      "options": [
-        "се",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "се"
-    },
-    {
-      "q": "'four' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "чор",
-        "нодуруст B"
-      ],
-      "answer": "чор"
-    },
-    {
-      "q": "'five' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "панҷ",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "панҷ"
-    },
-    {
-      "q": "'apple' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "себ",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "себ"
+      "answer": "My friend lives near the school, not far from the garden."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 48
+  "wordsCount": 15
 }
