@@ -12,41 +12,23 @@ const firebaseConfig = {
   appId: "1:149204965139:web:b4c1bc35b4a373cddc2ce6"
 };
 
-// ============================================================
-// БОРКУНИИ FIREBASE SDK (compat version)
-// ============================================================
-(function loadFirebase() {
-  const scripts = [
-    'https://www.gstatic.com/firebasejs/10.7.0/firebase-app-compat.js',
-    'https://www.gstatic.com/firebasejs/10.7.0/firebase-database-compat.js'
-  ];
-  let loaded = 0;
-  scripts.forEach(src => {
-    const s = document.createElement('script');
-    s.src = src;
-    s.onload = () => {
-      loaded++;
-      if (loaded === scripts.length) initFirebase();
-    };
-    document.head.appendChild(s);
-  });
-})();
-
 let db = null;
 let isFirebaseReady = false;
 
-function initFirebase() {
-  try {
-    if (!firebase.apps.length) {
-      firebase.initializeApp(firebaseConfig);
-    }
-    db = firebase.database();
-    isFirebaseReady = true;
-    console.log('✅ Firebase омода');
-    if (typeof onFirebaseReady === 'function') onFirebaseReady();
-  } catch (e) {
-    console.error('❌ Firebase:', e);
+// Firebase SDK аллакай дар HTML бор шудааст
+try {
+  if (!firebase.apps.length) {
+    firebase.initializeApp(firebaseConfig);
   }
+  db = firebase.database();
+  isFirebaseReady = true;
+  console.log('✅ Firebase омода');
+
+  if (typeof onFirebaseReady === 'function') {
+    setTimeout(onFirebaseReady, 100);
+  }
+} catch (e) {
+  console.error('❌ Firebase:', e);
 }
 
 // ============================================================
@@ -54,9 +36,7 @@ function initFirebase() {
 // ============================================================
 function saveUserToFirebase(userData) {
   if (!isFirebaseReady || !userData.id) return;
-
-  const userRef = db.ref('users/' + userData.id);
-  userRef.update({
+  db.ref('users/' + userData.id).update({
     id: userData.id,
     name: userData.name,
     username: userData.username || null,
@@ -71,56 +51,35 @@ function saveUserToFirebase(userData) {
 }
 
 // ============================================================
-// ХОНДАНИ РЕЙТИНГ
-// ============================================================
-function fetchRatingFromFirebase(callback, limit = 100) {
-  if (!isFirebaseReady) {
-    callback([]);
-    return;
-  }
-
-  db.ref('users')
-    .orderByChild('totalScore')
-    .limitToLast(limit)
-    .once('value')
-    .then(snapshot => {
-      const users = [];
-      snapshot.forEach(child => {
-        users.push(child.val());
-      });
-      users.sort((a, b) => (b.totalScore || 0) - (a.totalScore || 0));
-      callback(users);
-    })
-    .catch(err => {
-      console.error('Firebase read error:', err);
-      callback([]);
-    });
-}
-
-// ============================================================
 // РЕЙТИНГ REAL-TIME
 // ============================================================
 let ratingListener = null;
 
 function listenRatingRealtime(callback) {
-  if (!isFirebaseReady) return;
+  if (!isFirebaseReady || !db) {
+    console.warn('⚠️ Firebase нест');
+    callback([]);
+    return;
+  }
 
   if (ratingListener) {
     db.ref('users').off('value', ratingListener);
   }
+
+  console.log('🏆 Firebase рейтинг бор мешавад...');
 
   ratingListener = db.ref('users')
     .orderByChild('totalScore')
     .limitToLast(100)
     .on('value', snapshot => {
       const users = [];
-      snapshot.forEach(child => {
-        users.push(child.val());
-      });
+      snapshot.forEach(child => users.push(child.val()));
       users.sort((a, b) => (b.totalScore || 0) - (a.totalScore || 0));
+      console.log('🏆 Firebase users:', users.length);
       callback(users);
     }, err => {
-      console.error('Firebase listen error:', err);
+      console.error('❌ Firebase listen error:', err);
+      callback([]);
     });
 }
 
@@ -132,14 +91,13 @@ function fetchUserFromFirebase(userId, callback) {
     callback(null);
     return;
   }
-
   db.ref('users/' + userId).once('value').then(snapshot => {
     callback(snapshot.val());
   });
 }
 
 // ============================================================
-// 🎧 PREMIUM SYNC — real-time аз Firebase
+// 🎧 PREMIUM SYNC
 // ============================================================
 let myPremiumListener = null;
 
@@ -153,20 +111,17 @@ function listenMyPremiumFromFirebase(userId, callback) {
   myPremiumListener = db.ref('users/' + userId).on('value', snap => {
     const data = snap.val();
     if (!data) return;
-
     callback({
       isPremium: !!data.isPremium,
       premiumPlan: data.premiumPlan || null,
       premiumStartedAt: data.premiumStartedAt || null,
       premiumExpiresAt: data.premiumExpiresAt || null
     });
-  }, err => {
-    console.error('Premium listener error:', err);
-  });
+  }, err => console.error('Premium listener error:', err));
 }
 
 // ============================================================
-// 🔔 NOTIFICATIONS — real-time
+// 🔔 NOTIFICATIONS
 // ============================================================
 let notifListener = null;
 
