@@ -1,140 +1,104 @@
-import json
-import random
+{
+  "total": 90,
+  "generatedAt": "2026-09-10T00:00:00.000Z",
+  "levels": ["Ибтидоӣ", "Миёна", "Пешрафта", "Street English"],
+  "questions": [
+    { "id": 1, "lessonId": 1, "level": "Ибтидоӣ", "q": "«китоб» ба англисӣ чӣ мешавад?", "options": ["a book", "a pen", "a desk", "a bag"], "answer": "a book" },
+    { "id": 2, "lessonId": 1, "level": "Ибтидоӣ", "q": "«қалам» ба англисӣ чӣ мешавад?", "options": ["a pen", "a book", "a bag", "a desk"], "answer": "a pen" },
+    { "id": 3, "lessonId": 1, "level": "Ибтидоӣ", "q": "«мизи дарсӣ» ба англисӣ чӣ мешавад?", "options": ["a desk", "a bag", "a book", "a pen"], "answer": "a desk" },
+    { "id": 4, "lessonId": 1, "level": "Ибтидоӣ", "q": "«халта» ба англисӣ чӣ мешавад?", "options": ["a bag", "a desk", "a pen", "a book"], "answer": "a bag" },
+    { "id": 5, "lessonId": 1, "level": "Ибтидоӣ", "q": "«гурба» ба англисӣ чӣ мешавад?", "options": ["a cat", "a dog", "a book", "a pen"], "answer": "a cat" },
+    { "id": 6, "lessonId": 1, "level": "Ибтидоӣ", "q": "«саг» ба англисӣ чӣ мешавад?", "options": ["a dog", "a cat", "a bag", "a desk"], "answer": "a dog" },
+    { "id": 7, "lessonId": 1, "level": "Ибтидоӣ", "q": "«сурх» ба англисӣ чӣ мешавад?", "options": ["red", "blue", "green", "black"], "answer": "red" },
+    { "id": 8, "lessonId": 1, "level": "Ибтидоӣ", "q": "«кабуд» ба англисӣ чӣ мешавад?", "options": ["blue", "red", "green", "white"], "answer": "blue" },
 
-# 50 ҷуфти калима барои сатҳи Ибтидоӣ
-beginner_pairs = [
-    ("китоб", "book"), ("қалам", "pen"), ("мизи дарсӣ", "desk"), ("халта", "bag"),
-    ("гурба", "cat"), ("саг", "dog"), ("сурх", "red"), ("кабуд", "blue"),
-    ("модар", "mother"), ("падар", "father"), ("хоҳар", "sister"), ("бародар", "brother"),
-    ("хона", "house"), ("мактаб", "school"), ("омӯзгор", "teacher"), ("хонанда", "pupil"),
-    ("хуб", "good"), ("бад", "bad"), ("калон", "big"), ("хурд", "small"),
-    ("нав", "new"), ("кӯҳна", "old"), ("хушбахт", "happy"), ("ғамгин", "sad"),
-    ("хондан", "read"), ("навиштан", "write"), ("гап задан", "speak"), ("омӯхтан", "learn"),
-    ("рафтан", "go"), ("омадан", "come"), ("субҳ", "morning"), ("рӯз", "day"),
-    ("бегоҳ", "evening"), ("шаб", "night"), ("имрӯз", "today"), ("фардо", "tomorrow"),
-    ("дируз", "yesterday"), ("як", "one"), ("ду", "two"), ("се", "three"),
-    ("чор", "four"), ("панҷ", "five"), ("себ", "apple"), ("об", "water"),
-    ("нон", "bread"), ("духтар", "girl"), ("писар", "boy"), ("мард", "man"),
-    ("зан", "woman"), ("дӯст", "friend")
-]
+    { "id": 9, "lessonId": 2, "level": "Ибтидоӣ", "q": "«модар» ба англисӣ чӣ мешавад?", "options": ["mother", "father", "sister", "brother"], "answer": "mother" },
+    { "id": 10, "lessonId": 2, "level": "Ибтидоӣ", "q": "«падар» ба англисӣ чӣ мешавад?", "options": ["father", "mother", "brother", "sister"], "answer": "father" },
+    { "id": 11, "lessonId": 2, "level": "Ибтидоӣ", "q": "«хоҳар» ба англисӣ чӣ мешавад?", "options": ["sister", "brother", "mother", "father"], "answer": "sister" },
+    { "id": 12, "lessonId": 2, "level": "Ибтидоӣ", "q": "«бародар» ба англисӣ чӣ мешавад?", "options": ["brother", "sister", "father", "mother"], "answer": "brother" },
+    { "id": 13, "lessonId": 2, "level": "Ибтидоӣ", "q": "«хона» ба англисӣ чӣ мешавад?", "options": ["house", "school", "bag", "desk"], "answer": "house" },
+    { "id": 14, "lessonId": 2, "level": "Ибтидоӣ", "q": "«мактаб» ба англисӣ чӣ мешавад?", "options": ["school", "house", "teacher", "pupil"], "answer": "school" },
+    { "id": 15, "lessonId": 2, "level": "Ибтидоӣ", "q": "«омӯзгор» ба англисӣ чӣ мешавад?", "options": ["teacher", "pupil", "school", "house"], "answer": "teacher" },
+    { "id": 16, "lessonId": 2, "level": "Ибтидоӣ", "q": "«хонанда» ба англисӣ чӣ мешавад?", "options": ["pupil", "teacher", "school", "mother"], "answer": "pupil" },
+    { "id": 17, "lessonId": 2, "level": "Ибтидоӣ", "q": "«хуб» ба англисӣ чӣ мешавад?", "options": ["good", "bad", "big", "small"], "answer": "good" },
 
-# 50 ҷуфти калима барои сатҳи Миёна
-intermediate_pairs = [
-    ("фаҳмидан", "understand"), ("шарҳ додан", "explain"), ("муҳим", "important"),
-    ("гуногун", "different"), ("душвор", "difficult"), ("осон", "easy"),
-    ("ҷолиб", "interesting"), ("ба ёд овардан", "remember"), ("фаромӯш кардан", "forget"),
-    ("вазифаи хонагӣ", "homework"), ("машқ", "exercise"), ("матн", "text"),
-    ("ҳикоя", "story"), ("савол", "question"), ("ҷавоб", "answer"),
-    ("кӯмак кардан", "help"), ("кор кардан", "work"), ("хӯрдан", "eat"),
-    ("нӯшидан", "drink"), ("дидан", "see"), ("шунидан", "hear"), ("гуфтан", "say"),
-    ("пурсидан", "ask"), ("ҷавоб додан", "reply"), ("харидан", "buy"),
-    ("фурӯхтан", "sell"), ("кушодан", "open"), ("пӯшидан", "close"),
-    ("сар кардан", "begin"), ("тамом кардан", "finish"), ("кӯшиш кардан", "try"),
-    ("ҳал кардан", "solve"), ("интизор шудан", "wait"), ("ёд гирифтан", "memorize"),
-    ("такрор кардан", "repeat"), ("тарҷума кардан", "translate"), ("тасвир кардан", "describe"),
-    ("интихоб кардан", "choose"), ("тағйир додан", "change"), ("муқоиса кардан", "compare"),
-    ("ҳисоб кардан", "calculate"), ("баҳо додан", "evaluate"), ("ташкил кардан", "organize"),
-    ("идора кардан", "manage"), ("эҳтиёҷ доштан", "need"), ("пешниҳод кардан", "suggest"),
-    ("қабул кардан", "accept"), ("рад кардан", "refuse"), ("давом додан", "continue"),
-    ("қатъ кардан", "stop")
-]
+    { "id": 18, "lessonId": 3, "level": "Ибтидоӣ", "q": "«бад» ба англисӣ чӣ мешавад?", "options": ["bad", "good", "sad", "old"], "answer": "bad" },
+    { "id": 19, "lessonId": 3, "level": "Ибтидоӣ", "q": "«калон» ба англисӣ чӣ мешавад?", "options": ["big", "small", "new", "old"], "answer": "big" },
+    { "id": 20, "lessonId": 3, "level": "Ибтидоӣ", "q": "«хурд» ба англисӣ чӣ мешавад?", "options": ["small", "big", "new", "sad"], "answer": "small" },
+    { "id": 21, "lessonId": 3, "level": "Ибтидоӣ", "q": "«нав» ба англисӣ чӣ мешавад?", "options": ["new", "old", "big", "small"], "answer": "new" },
+    { "id": 22, "lessonId": 3, "level": "Ибтидоӣ", "q": "«кӯҳна» ба англисӣ чӣ мешавад?", "options": ["old", "new", "bad", "small"], "answer": "old" },
+    { "id": 23, "lessonId": 3, "level": "Ибтидоӣ", "q": "«хушбахт» ба англисӣ чӣ мешавад?", "options": ["happy", "sad", "good", "big"], "answer": "happy" },
+    { "id": 24, "lessonId": 3, "level": "Ибтидоӣ", "q": "«ғамгин» ба англисӣ чӣ мешавад?", "options": ["sad", "happy", "bad", "old"], "answer": "sad" },
+    { "id": 25, "lessonId": 3, "level": "Ибтидоӣ", "q": "«хондан» ба англисӣ чӣ мешавад?", "options": ["to read", "to write", "to speak", "to learn"], "answer": "to read" },
+    { "id": 26, "lessonId": 3, "level": "Ибтидоӣ", "q": "«навиштан» ба англисӣ чӣ мешавад?", "options": ["to write", "to read", "to speak", "to learn"], "answer": "to write" },
 
-# 50 ҷуфти калима барои сатҳи Пешрафта
-advanced_pairs = [
-    ("имконият", "opportunity"), ("таҷриба", "experience"), ("муҳит", "environment"),
-    ("муошират", "communication"), ("маориф", "education"), ("рушд", "development"),
-    ("дастовард", "achievement"), ("чолиш", "challenge"), ("дониш", "knowledge"),
-    ("гуфтугӯ", "conversation"), ("равонӣ", "fluency"), ("боварӣ", "confidence"),
-    ("талаффуз", "pronunciation"), ("луғат", "vocabulary"), ("грамматика", "grammar"),
-    ("таъсир", "influence"), ("натиҷа", "result"), ("сабаб", "reason"),
-    ("мақсад", "goal"), ("қарор", "decision"), ("масъулият", "responsibility"),
-    ("ҳамкорӣ", "cooperation"), ("муваффақият", "success"), ("номуваффақият", "failure"),
-    ("имтиҳон", "exam"), ("тадқиқот", "research"), ("технология", "technology"),
-    ("ҷамъият", "society"), ("фарҳанг", "culture"), ("таърих", "history"),
-    ("сиёсат", "politics"), ("иқтисод", "economy"), ("муносибат", "relationship"),
-    ("эҳтиром", "respect"), ("эътимод", "trust"), ("мустақилия", "independence"),
-    ("адолат", "justice"), ("озодӣ", "freedom"), ("ҳуқуқ", "right"),
-    ("вазифа", "duty"), ("қонун", "law"), ("сулҳ", "peace"), ("ҷанг", "war"),
-    ("саломатӣ", "health"), ("беморӣ", "disease"), ("табобат", "treatment"),
-    ("пешгирӣ", "prevention"), ("омӯзиш", "training"), ("малака", "skill"),
-    ("қобилият", "ability")
-]
+    { "id": 27, "lessonId": 4, "level": "Ибтидоӣ", "q": "«гап задан» ба англисӣ чӣ мешавад?", "options": ["to speak", "to read", "to write", "to learn"], "answer": "to speak" },
+    { "id": 28, "lessonId": 4, "level": "Ибтидоӣ", "q": "«омӯхтан» ба англисӣ чӣ мешавад?", "options": ["to learn", "to speak", "to go", "to come"], "answer": "to learn" },
+    { "id": 29, "lessonId": 4, "level": "Ибтидоӣ", "q": "«рафтан» ба англисӣ чӣ мешавад?", "options": ["to go", "to come", "to read", "to write"], "answer": "to go" },
+    { "id": 30, "lessonId": 4, "level": "Ибтидоӣ", "q": "«омадан» ба англисӣ чӣ мешавад?", "options": ["to come", "to go", "to speak", "to learn"], "answer": "to come" },
+    { "id": 31, "lessonId": 4, "level": "Ибтидоӣ", "q": "«субҳ» ба англисӣ чӣ мешавад?", "options": ["morning", "day", "evening", "night"], "answer": "morning" },
+    { "id": 32, "lessonId": 4, "level": "Ибтидоӣ", "q": "«рӯз» ба англисӣ чӣ мешавад?", "options": ["day", "morning", "evening", "night"], "answer": "day" },
+    { "id": 33, "lessonId": 4, "level": "Ибтидоӣ", "q": "«бегоҳ» ба англисӣ чӣ мешавад?", "options": ["evening", "morning", "day", "night"], "answer": "evening" },
+    { "id": 34, "lessonId": 4, "level": "Ибтидоӣ", "q": "«шаб» ба англисӣ чӣ мешавад?", "options": ["night", "day", "morning", "evening"], "answer": "night" },
+    { "id": 35, "lessonId": 4, "level": "Ибтидоӣ", "q": "«имрӯз» ба англисӣ чӣ мешавад?", "options": ["today", "tomorrow", "yesterday", "day"], "answer": "today" },
+    { "id": 36, "lessonId": 4, "level": "Ибтидоӣ", "q": "«фардо» ба англисӣ чӣ мешавад?", "options": ["tomorrow", "today", "yesterday", "night"], "answer": "tomorrow" },
+    { "id": 37, "lessonId": 4, "level": "Ибтидоӣ", "q": "«дируз» ба англисӣ чӣ мешавад?", "options": ["yesterday", "today", "tomorrow", "evening"], "answer": "yesterday" },
+    { "id": 38, "lessonId": 4, "level": "Ибтидоӣ", "q": "«як» ба англисӣ чӣ мешавад?", "options": ["one", "two", "three", "four"], "answer": "one" },
+    { "id": 39, "lessonId": 4, "level": "Ибтидоӣ", "q": "«ду» ба англисӣ чӣ мешавад?", "options": ["two", "one", "three", "five"], "answer": "two" },
 
-# 50 ҷуфти калима барои сатҳи Street English
-street_pairs = [
-    ("салом", "hello"), ("хайр", "goodbye"), ("лутфан", "please"), ("ташаккур", "thanks"),
-    ("бубахшед", "sorry"), ("ҳа", "yes"), ("не", "no"), ("дӯст", "friend"),
-    ("бародар", "brother"), ("хоҳар", "sister"), ("модар", "mother"), ("падар", "father"),
-    ("хона", "house"), ("мактаб", "school"), ("омӯзгор", "teacher"), ("донишҷӯ", "student"),
-    ("китоб", "book"), ("қалам", "pen"), ("об", "water"), ("нон", "bread"),
-    ("чой", "tea"), ("шир", "milk"), ("себ", "apple"), ("гӯшт", "meat"),
-    ("моҳӣ", "fish"), ("гурба", "cat"), ("саг", "dog"), ("мошин", "car"),
-    ("автобус", "bus"), ("поезд", "train"), ("роҳ", "road"), ("шаҳр", "city"),
-    ("деҳа", "village"), ("бозор", "market"), ("пул", "money"), ("кор", "work"),
-    ("вақт", "time"), ("рӯз", "day"), ("шаб", "night"), ("субҳ", "morning"),
-    ("бегоҳ", "evening"), ("имрӯз", "today"), ("фардо", "tomorrow"), ("дируз", "yesterday"),
-    ("сурх", "red"), ("кабуд", "blue"), ("сабз", "green"), ("сиёҳ", "black"),
-    ("сафед", "white"), ("калон", "big")
-]
+    { "id": 40, "lessonId": 5, "level": "Ибтидоӣ", "q": "«се» ба англисӣ чӣ мешавад?", "options": ["three", "two", "four", "five"], "answer": "three" },
+    { "id": 41, "lessonId": 5, "level": "Ибтидоӣ", "q": "«чор» ба англисӣ чӣ мешавад?", "options": ["four", "three", "five", "two"], "answer": "four" },
+    { "id": 42, "lessonId": 5, "level": "Ибтидоӣ", "q": "«панҷ» ба англисӣ чӣ мешавад?", "options": ["five", "four", "three", "two"], "answer": "five" },
+    { "id": 43, "lessonId": 5, "level": "Ибтидоӣ", "q": "«себ» ба англисӣ чӣ мешавад?", "options": ["apple", "water", "bread", "book"], "answer": "apple" },
+    { "id": 44, "lessonId": 5, "level": "Ибтидоӣ", "q": "«об» ба англисӣ чӣ мешавад?", "options": ["water", "apple", "bread", "milk"], "answer": "water" },
+    { "id": 45, "lessonId": 5, "level": "Ибтидоӣ", "q": "«нон» ба англисӣ чӣ мешавад?", "options": ["bread", "water", "apple", "book"], "answer": "bread" },
 
-def create_questions(pairs, level, start_id):
-    questions = []
-    english_list = [e for _, e in pairs]
-    tajik_list = [t for t, _ in pairs]
-    qid = start_id
+    { "id": 46, "lessonId": 21, "level": "Миёна", "q": "«фаҳмидан» ба англисӣ чӣ мешавад?", "options": ["understand", "explain", "remember", "forget"], "answer": "understand" },
+    { "id": 47, "lessonId": 21, "level": "Миёна", "q": "«шарҳ додан» ба англисӣ чӣ мешавад?", "options": ["explain", "understand", "remember", "forget"], "answer": "explain" },
+    { "id": 48, "lessonId": 21, "level": "Миёна", "q": "«муҳим» ба англисӣ чӣ мешавад?", "options": ["important", "different", "difficult", "easy"], "answer": "important" },
+    { "id": 49, "lessonId": 21, "level": "Миёна", "q": "«гуногун» ба англисӣ чӣ мешавад?", "options": ["different", "important", "difficult", "easy"], "answer": "different" },
+    { "id": 50, "lessonId": 21, "level": "Миёна", "q": "«душвор» ба англисӣ чӣ мешавад?", "options": ["difficult", "easy", "important", "different"], "answer": "difficult" },
+    { "id": 51, "lessonId": 21, "level": "Миёна", "q": "«осон» ба англисӣ чӣ мешавад?", "options": ["easy", "difficult", "important", "different"], "answer": "easy" },
+    { "id": 52, "lessonId": 21, "level": "Миёна", "q": "«ҷолиб» ба англисӣ чӣ мешавад?", "options": ["interesting", "difficult", "important", "different"], "answer": "interesting" },
+    { "id": 53, "lessonId": 21, "level": "Миёна", "q": "«ба ёд овардан» ба англисӣ чӣ мешавад?", "options": ["remember", "forget", "understand", "explain"], "answer": "remember" },
+    { "id": 54, "lessonId": 21, "level": "Миёна", "q": "«фаромӯш кардан» ба англисӣ чӣ мешавад?", "options": ["forget", "remember", "understand", "explain"], "answer": "forget" },
+    { "id": 55, "lessonId": 21, "level": "Миёна", "q": "«вазифаи хонагӣ» ба англисӣ чӣ мешавад?", "options": ["homework", "exercise", "text", "story"], "answer": "homework" },
+    { "id": 56, "lessonId": 21, "level": "Миёна", "q": "«машқ» ба англисӣ чӣ мешавад?", "options": ["exercise", "homework", "text", "story"], "answer": "exercise" },
+    { "id": 57, "lessonId": 21, "level": "Миёна", "q": "«матн» ба англисӣ чӣ мешавад?", "options": ["text", "story", "question", "answer"], "answer": "text" },
+    { "id": 58, "lessonId": 21, "level": "Миёна", "q": "«ҳикоя» ба англисӣ чӣ мешавад?", "options": ["story", "text", "question", "answer"], "answer": "story" },
+    { "id": 59, "lessonId": 21, "level": "Миёна", "q": "«савол» ба англисӣ чӣ мешавад?", "options": ["question", "answer", "text", "story"], "answer": "question" },
+    { "id": 60, "lessonId": 21, "level": "Миёна", "q": "«ҷавоб» ба англисӣ чӣ мешавад?", "options": ["answer", "question", "story", "text"], "answer": "answer" },
 
-    for tajik, english in pairs:
-        # Tajik -> English
-        distractors = [x for x in english_list if x != english]
-        options = [english] + random.sample(distractors, 3)
-        random.shuffle(options)
-        questions.append({
-            "id": qid,
-            "lessonId": qid,
-            "level": level,
-            "q": f"«{tajik}» ба англисӣ чӣ мешавад?",
-            "options": options,
-            "answer": english
-        })
-        qid += 1
+    { "id": 61, "lessonId": 51, "level": "Пешрафта", "q": "«имконият» ба англисӣ чӣ мешавад?", "options": ["opportunity", "experience", "environment", "communication"], "answer": "opportunity" },
+    { "id": 62, "lessonId": 51, "level": "Пешрафта", "q": "«таҷриба» ба англисӣ чӣ мешавад?", "options": ["experience", "opportunity", "environment", "education"], "answer": "experience" },
+    { "id": 63, "lessonId": 51, "level": "Пешрафта", "q": "«муҳит» ба англисӣ чӣ мешавад?", "options": ["environment", "opportunity", "experience", "development"], "answer": "environment" },
+    { "id": 64, "lessonId": 51, "level": "Пешрафта", "q": "«муошират» ба англисӣ чӣ мешавад?", "options": ["communication", "conversation", "education", "development"], "answer": "communication" },
+    { "id": 65, "lessonId": 51, "level": "Пешрафта", "q": "«маориф» ба англисӣ чӣ мешавад?", "options": ["education", "development", "achievement", "challenge"], "answer": "education" },
+    { "id": 66, "lessonId": 51, "level": "Пешрафта", "q": "«рушд» ба англисӣ чӣ мешавад?", "options": ["development", "education", "achievement", "challenge"], "answer": "development" },
+    { "id": 67, "lessonId": 51, "level": "Пешрафта", "q": "«дастовард» ба англисӣ чӣ мешавад?", "options": ["achievement", "challenge", "knowledge", "conversation"], "answer": "achievement" },
+    { "id": 68, "lessonId": 51, "level": "Пешрафта", "q": "«чолиш» ба англисӣ чӣ мешавад?", "options": ["challenge", "achievement", "knowledge", "confidence"], "answer": "challenge" },
+    { "id": 69, "lessonId": 51, "level": "Пешрафта", "q": "«дониш» ба англисӣ чӣ мешавад?", "options": ["knowledge", "conversation", "fluency", "confidence"], "answer": "knowledge" },
+    { "id": 70, "lessonId": 51, "level": "Пешрафта", "q": "«гуфтугӯ» ба англисӣ чӣ мешавад?", "options": ["conversation", "knowledge", "fluency", "confidence"], "answer": "conversation" },
+    { "id": 71, "lessonId": 51, "level": "Пешрафта", "q": "«равонӣ» ба англисӣ чӣ мешавад?", "options": ["fluency", "confidence", "pronunciation", "vocabulary"], "answer": "fluency" },
+    { "id": 72, "lessonId": 51, "level": "Пешрафта", "q": "«боварӣ» ба англисӣ чӣ мешавад?", "options": ["confidence", "fluency", "pronunciation", "vocabulary"], "answer": "confidence" },
+    { "id": 73, "lessonId": 51, "level": "Пешрафта", "q": "«талаффуз» ба англисӣ чӣ мешавад?", "options": ["pronunciation", "vocabulary", "grammar", "fluency"], "answer": "pronunciation" },
+    { "id": 74, "lessonId": 51, "level": "Пешрафта", "q": "«луғат» ба англисӣ чӣ мешавад?", "options": ["vocabulary", "grammar", "pronunciation", "confidence"], "answer": "vocabulary" },
+    { "id": 75, "lessonId": 51, "level": "Пешрафта", "q": "«грамматика» ба англисӣ чӣ мешавад?", "options": ["grammar", "vocabulary", "pronunciation", "fluency"], "answer": "grammar" },
 
-        # English -> Tajik
-        distractors = [x for x in tajik_list if x != tajik]
-        options = [tajik] + random.sample(distractors, 3)
-        random.shuffle(options)
-        questions.append({
-            "id": qid,
-            "lessonId": qid,
-            "level": level,
-            "q": f"Калимаи «{english}» чи маъно дорад?",
-            "options": options,
-            "answer": tajik
-        })
-        qid += 1
-    return questions
-
-all_questions = []
-current_id = 1
-
-# Сохтани 400 савол
-all_questions.extend(create_questions(beginner_pairs, "Ибтидоӣ", current_id))
-current_id += 100
-all_questions.extend(create_questions(intermediate_pairs, "Миёна", current_id))
-current_id += 100
-all_questions.extend(create_questions(advanced_pairs, "Пешрафта", current_id))
-current_id += 100
-all_questions.extend(create_questions(street_pairs, "Street English", current_id))
-
-# Сохтани файли ниҳоӣ
-output = {
-    "total": 400,
-    "generatedAt": "2026-09-10T00:00:00.000Z",
-    "levels": ["Ибтидоӣ", "Миёна", "Пешрафта", "Street English"],
-    "questions": all_questions
+    { "id": 76, "lessonId": 101, "level": "Street English", "q": "Калимаи «opportunity» чи маъно дорад?", "options": ["имконият", "таҷриба", "муҳит", "муошират"], "answer": "имконият" },
+    { "id": 77, "lessonId": 101, "level": "Street English", "q": "Калимаи «experience» чи маъно дорад?", "options": ["таҷриба", "имконият", "муҳит", "муошират"], "answer": "таҷриба" },
+    { "id": 78, "lessonId": 101, "level": "Street English", "q": "Калимаи «environment» чи маъно дорад?", "options": ["муҳит", "имконият", "таҷриба", "рушд"], "answer": "муҳит" },
+    { "id": 79, "lessonId": 101, "level": "Street English", "q": "Калимаи «communication» чи маъно дорад?", "options": ["муошират", "гуфтугӯ", "маориф", "рушд"], "answer": "муошират" },
+    { "id": 80, "lessonId": 101, "level": "Street English", "q": "Калимаи «education» чи маъно дорад?", "options": ["маориф", "рушд", "дастовард", "чолиш"], "answer": "маориф" },
+    { "id": 81, "lessonId": 101, "level": "Street English", "q": "Калимаи «development» чи маъно дорад?", "options": ["рушд", "маориф", "дастовард", "чолиш"], "answer": "рушд" },
+    { "id": 82, "lessonId": 101, "level": "Street English", "q": "Калимаи «achievement» чи маъно дорад?", "options": ["дастовард", "чолиш", "дониш", "гуфтугӯ"], "answer": "дастовард" },
+    { "id": 83, "lessonId": 101, "level": "Street English", "q": "Калимаи «challenge» чи маъно дорад?", "options": ["чолиш", "дастовард", "дониш", "боварӣ"], "answer": "чолиш" },
+    { "id": 84, "lessonId": 101, "level": "Street English", "q": "Калимаи «knowledge» чи маъно дорад?", "options": ["дониш", "гуфтугӯ", "равонӣ", "боварӣ"], "answer": "дониш" },
+    { "id": 85, "lessonId": 101, "level": "Street English", "q": "Калимаи «conversation» чи маъно дорад?", "options": ["гуфтугӯ", "дониш", "равонӣ", "боварӣ"], "answer": "гуфтугӯ" },
+    { "id": 86, "lessonId": 101, "level": "Street English", "q": "Калимаи «fluency» чи маъно дорад?", "options": ["равонӣ", "боварӣ", "талаффуз", "луғат"], "answer": "равонӣ" },
+    { "id": 87, "lessonId": 101, "level": "Street English", "q": "Калимаи «confidence» чи маъно дорад?", "options": ["боварӣ", "равонӣ", "талаффуз", "луғат"], "answer": "боварӣ" },
+    { "id": 88, "lessonId": 101, "level": "Street English", "q": "Калимаи «pronunciation» чи маъно дорад?", "options": ["талаффуз", "луғат", "грамматика", "равонӣ"], "answer": "талаффуз" },
+    { "id": 89, "lessonId": 101, "level": "Street English", "q": "Калимаи «vocabulary» чи маъно дорад?", "options": ["луғат", "грамматика", "талаффуз", "боварӣ"], "answer": "луғат" },
+    { "id": 90, "lessonId": 101, "level": "Street English", "q": "Калимаи «grammar» чи маъно дорад?", "options": ["грамматика", "луғат", "талаффуз", "равонӣ"], "answer": "грамматика" }
+  ]
 }
-
-# Навиштан ба файл
-with open("tests_400.json", "w", encoding="utf-8") as f:
-    json.dump(output, f, ensure_ascii=False, indent=2)
-
-print("Файли 'tests_400.json' бомуваффақият сохта шуд! Дар он 400 савол мавҷуд аст.")
