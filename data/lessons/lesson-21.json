@@ -6,118 +6,118 @@
   "words": [
     {
       "en": "understand",
-      "tj": "тарҷумаи understand",
+      "tj": "фаҳмидан",
       "ex": "I understand English."
     },
     {
       "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "tj": "шарҳ додан",
+      "ex": "I explain the lesson."
     },
     {
       "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "tj": "муҳим",
+      "ex": "English is important."
     },
     {
       "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "tj": "гуногун",
+      "ex": "English is different."
     },
     {
       "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "tj": "душвор",
+      "ex": "English is difficult."
     },
     {
       "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "tj": "осон",
+      "ex": "English is easy."
     },
     {
       "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "tj": "ҷолиб",
+      "ex": "English is interesting."
     },
     {
       "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "tj": "ба ёд овардан",
+      "ex": "I remember English words."
     },
     {
       "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "tj": "фаромӯш кардан",
+      "ex": "I forget English words."
     },
     {
       "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "tj": "вазифаи хонагӣ",
+      "ex": "I do my English homework."
     },
     {
       "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "tj": "машқ",
+      "ex": "I do English exercises."
     },
     {
       "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "tj": "матн",
+      "ex": "I read the English text."
     },
     {
       "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "tj": "ҳикоя",
+      "ex": "I read an English story."
     },
     {
       "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "tj": "савол",
+      "ex": "I ask a question in English."
     },
     {
       "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
+      "tj": "ҷавоб",
+      "ex": "I answer the question."
     },
     {
       "en": "understand",
-      "tj": "тарҷумаи understand",
+      "tj": "фаҳмидан",
       "ex": "I understand English."
     },
     {
       "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "tj": "шарҳ додан",
+      "ex": "I explain the lesson."
     },
     {
       "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "tj": "муҳим",
+      "ex": "English is important."
     },
     {
       "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "tj": "гуногун",
+      "ex": "English is different."
     },
     {
       "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "tj": "душвор",
+      "ex": "English is difficult."
     }
   ],
   "phrases": [
     {
       "en": "How are you doing today? (Lesson 21)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "tj": "Имрӯз чӣ хел ҳастӣ? (Дарси 21)"
     },
     {
       "en": "I'm working on lesson 21",
-      "tj": "Ман дарси 21-ро меомӯзам"
+      "tj": "Ман дар дарси 21 кор мекунам."
     }
   ],
   "text": {
     "en": "Text for lesson 21. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 21 is about Миёна - Синфи 4. I write all words in my notebook. Level 21 text.",
-    "tj": "Матни дарси 21..."
+    "tj": "Матн барои дарси 21. Номи ман Исмоил аст. Ман дар Душанбе зиндагӣ мекунам. Ман ҳар рӯз англисӣ меомӯзам. Дарси 21 дар бораи Миёна - Синфи 4 аст. Ман ҳамаи калимаҳоро дар дафтарам менависам. Матни сатҳи 21."
   },
   "exercises": [
     {
@@ -125,20 +125,20 @@
       "options": [
         "нодуруст C",
         "нодуруст A",
-        "тарҷумаи understand",
+        "фаҳмидан",
         "нодуруст B"
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "фаҳмидан"
     },
     {
       "q": "'explain' чи маъно дорад?",
       "options": [
         "нодуруст A",
-        "тарҷумаи explain",
+        "шарҳ додан",
         "нодуруст C",
         "нодуруст B"
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "шарҳ додан"
     },
     {
       "q": "'important' чи маъно дорад?",
@@ -146,49 +146,49 @@
         "нодуруст A",
         "нодуруст B",
         "нодуруст C",
-        "тарҷумаи important"
+        "муҳим"
       ],
-      "answer": "тарҷумаи important"
+      "answer": "муҳим"
     },
     {
       "q": "'different' чи маъно дорад?",
       "options": [
         "нодуруст C",
-        "тарҷумаи different",
+        "гуногун",
         "нодуруст A",
         "нодуруст B"
       ],
-      "answer": "тарҷумаи different"
+      "answer": "гуногун"
     },
     {
       "q": "'difficult' чи маъно дорад?",
       "options": [
-        "тарҷумаи difficult",
+        "душвор",
         "нодуруст B",
         "нодуруст A",
         "нодуруст C"
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "душвор"
     },
     {
       "q": "'easy' чи маъно дорад?",
       "options": [
         "нодуруст A",
         "нодуруст B",
-        "тарҷумаи easy",
+        "осон",
         "нодуруст C"
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "осон"
     },
     {
       "q": "'interesting' чи маъно дорад?",
       "options": [
         "нодуруст C",
-        "тарҷумаи interesting",
+        "ҷолиб",
         "нодуруст A",
         "нодуруст B"
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "ҷолиб"
     },
     {
       "q": "'remember' чи маъно дорад?",
@@ -196,39 +196,39 @@
         "нодуруст A",
         "нодуруст C",
         "нодуруст B",
-        "тарҷумаи remember"
+        "ба ёд овардан"
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "ба ёд овардан"
     },
     {
       "q": "'forget' чи маъно дорад?",
       "options": [
         "нодуруст C",
-        "тарҷумаи forget",
+        "фаромӯш кардан",
         "нодуруст B",
         "нодуруст A"
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "фаромӯш кардан"
     },
     {
       "q": "'homework' чи маъно дорад?",
       "options": [
         "нодуруст B",
-        "тарҷумаи homework",
+        "вазифаи хонагӣ",
         "нодуруст A",
         "нодуруст C"
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "вазифаи хонагӣ"
     },
     {
       "q": "'exercise' чи маъно дорад?",
       "options": [
-        "тарҷумаи exercise",
+        "машқ",
         "нодуруст A",
         "нодуруст C",
         "нодуруст B"
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "машқ"
     },
     {
       "q": "'text' чи маъно дорад?",
@@ -236,49 +236,49 @@
         "нодуруст C",
         "нодуруст A",
         "нодуруст B",
-        "тарҷумаи text"
+        "матн"
       ],
-      "answer": "тарҷумаи text"
+      "answer": "матн"
     },
     {
       "q": "'story' чи маъно дорад?",
       "options": [
         "нодуруст B",
-        "тарҷумаи story",
+        "ҳикоя",
         "нодуруст C",
         "нодуруст A"
       ],
-      "answer": "тарҷумаи story"
+      "answer": "ҳикоя"
     },
     {
       "q": "'question' чи маъно дорад?",
       "options": [
-        "тарҷумаи question",
+        "савол",
         "нодуруст B",
         "нодуруст C",
         "нодуруст A"
       ],
-      "answer": "тарҷумаи question"
+      "answer": "савол"
     },
     {
       "q": "'answer' чи маъно дорад?",
       "options": [
         "нодуруст A",
-        "тарҷумаи answer",
+        "ҷавоб",
         "нодуруст C",
         "нодуруст B"
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "ҷавоб"
     },
     {
       "q": "'understand' чи маъно дорад?",
       "options": [
-        "тарҷумаи understand",
+        "фаҳмидан",
         "нодуруст B",
         "нодуруст C",
         "нодуруст A"
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "фаҳмидан"
     },
     {
       "q": "'explain' чи маъно дорад?",
@@ -286,9 +286,9 @@
         "нодуруст C",
         "нодуруст B",
         "нодуруст A",
-        "тарҷумаи explain"
+        "шарҳ додан"
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "шарҳ додан"
     },
     {
       "q": "'important' чи маъно дорад?",
@@ -296,9 +296,9 @@
         "нодуруст C",
         "нодуруст A",
         "нодуруст B",
-        "тарҷумаи important"
+        "муҳим"
       ],
-      "answer": "тарҷумаи important"
+      "answer": "муҳим"
     },
     {
       "q": "'different' чи маъно дорад?",
@@ -306,19 +306,19 @@
         "нодуруст B",
         "нодуруст A",
         "нодуруст C",
-        "тарҷумаи different"
+        "гуногун"
       ],
-      "answer": "тарҷумаи different"
+      "answer": "гуногун"
     },
     {
       "q": "'difficult' чи маъно дорад?",
       "options": [
         "нодуруст C",
         "нодуруст B",
-        "тарҷумаи difficult",
+        "душвор",
         "нодуруст A"
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "душвор"
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
