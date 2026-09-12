@@ -7,47 +7,72 @@
     {
       "en": "a book",
       "tj": "китоб",
-      "ex": "Ex: a book is useful."
+      "ex": "Ex: This is a book."
     },
     {
-      "en": "a pen",
+      "en": "a pencil",
       "tj": "қалам",
-      "ex": "Ex: a pen is useful."
+      "ex": "Ex: I have a pencil."
     },
     {
       "en": "a desk",
       "tj": "мизи дарсӣ",
-      "ex": "Ex: a desk is useful."
+      "ex": "Ex: The desk is big."
     },
     {
       "en": "a bag",
       "tj": "халта",
-      "ex": "Ex: a bag is useful."
+      "ex": "Ex: My bag is black."
     },
     {
       "en": "a cat",
       "tj": "гурба",
-      "ex": "Ex: a cat is useful."
+      "ex": "Ex: The cat is small."
     },
     {
       "en": "a dog",
       "tj": "саг",
-      "ex": "Ex: a dog is useful."
+      "ex": "Ex: The dog is white."
     },
     {
       "en": "red",
       "tj": "сурх",
-      "ex": "Ex: red is useful."
+      "ex": "Ex: The pen is red."
     },
     {
       "en": "blue",
       "tj": "кабуд",
-      "ex": "Ex: blue is useful."
+      "ex": "Ex: The sky is blue."
     }
   ],
-  "phrases": [],
+  "phrases": [
+    {
+      "en": "What is this?",
+      "tj": "Ин чист?"
+    },
+    {
+      "en": "This is a book.",
+      "tj": "Ин китоб аст."
+    }
+  ],
   "text": null,
-  "exercises": [],
+  "exercises": [
+    {
+      "q": "'a book' чи маъно дорад?",
+      "options": ["қалам", "китоб", "халта", "миз"],
+      "answer": "китоб"
+    },
+    {
+      "q": "'a pencil' чи маъно дорад?",
+      "options": ["қалам", "китоб", "гурба", "саг"],
+      "answer": "қалам"
+    },
+    {
+      "q": "'red' чи маъно дорад?",
+      "options": ["кабуд", "сурх", "сабз", "сиёҳ"],
+      "answer": "сурх"
+    }
+  ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
   "wordsCount": 8
 }
