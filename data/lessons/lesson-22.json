@@ -1,401 +1,440 @@
 {
   "id": 22,
-  "title": "Матн ва машқҳо 22",
-  "level": "Миёна - Синфи 4",
+  "title": "Иборасозӣ 22: Хона, меҳмон ва рӯзҳои истироҳат",
+  "level": "Ибтидоӣ - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "фаҳмидан",
-      "ex": "I understand English."
+      "en": "guest",
+      "tj": "меҳмон",
+      "ex": "The guest comes to my house."
     },
     {
-      "en": "explain",
-      "tj": "шарҳ додан",
-      "ex": "I explain the lesson."
+      "en": "host",
+      "tj": "соҳибхона",
+      "ex": "My father is a good host."
     },
     {
-      "en": "important",
-      "tj": "муҳим",
-      "ex": "English is important."
+      "en": "invitation",
+      "tj": "даъватнома",
+      "ex": "I send an invitation to my friend."
     },
     {
-      "en": "different",
-      "tj": "гуногун",
-      "ex": "English is different."
+      "en": "party",
+      "tj": "базм",
+      "ex": "We have a party in the garden."
     },
     {
-      "en": "difficult",
-      "tj": "душвор",
-      "ex": "English is difficult."
+      "en": "holiday",
+      "tj": "иди",
+      "ex": "Today is a big holiday."
     },
     {
-      "en": "easy",
-      "tj": "осон",
-      "ex": "English is easy."
+      "en": "weekend",
+      "tj": "охири ҳафта",
+      "ex": "We rest at the weekend."
     },
     {
-      "en": "interesting",
-      "tj": "ҷолиб",
-      "ex": "English is interesting."
+      "en": "birthday",
+      "tj": "рӯзи таваллуд",
+      "ex": "My birthday is in May."
     },
     {
-      "en": "remember",
-      "tj": "ба ёд овардан",
-      "ex": "I remember English words."
+      "en": "cake",
+      "tj": "торт",
+      "ex": "My mother bakes a cake."
     },
     {
-      "en": "forget",
-      "tj": "фаромӯш кардан",
-      "ex": "I forget English words."
+      "en": "candle",
+      "tj": "шамъ",
+      "ex": "I see a candle on the table."
     },
     {
-      "en": "homework",
-      "tj": "вазифаи хонагӣ",
-      "ex": "I do my English homework."
+      "en": "present",
+      "tj": "тӯҳфа",
+      "ex": "This is a present for you."
     },
     {
-      "en": "exercise",
-      "tj": "машқ",
-      "ex": "I do English exercises."
+      "en": "music",
+      "tj": "мусиқӣ",
+      "ex": "We listen to music."
     },
     {
-      "en": "text",
-      "tj": "матн",
-      "ex": "I read the English text."
+      "en": "dance",
+      "tj": "рақс",
+      "ex": "The children dance in the garden."
     },
     {
-      "en": "story",
-      "tj": "ҳикоя",
-      "ex": "I read an English story."
+      "en": "song",
+      "tj": "суруд",
+      "ex": "She sings a beautiful song."
     },
     {
-      "en": "question",
-      "tj": "савол",
-      "ex": "I ask a question in English."
+      "en": "photo",
+      "tj": "акс",
+      "ex": "We take a photo near the tree."
     },
     {
-      "en": "answer",
-      "tj": "ҷавоб",
-      "ex": "I answer the question."
-    },
-    {
-      "en": "understand",
-      "tj": "фаҳмидан",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "шарҳ додан",
-      "ex": "I explain the lesson."
-    },
-    {
-      "en": "important",
-      "tj": "муҳим",
-      "ex": "English is important."
-    },
-    {
-      "en": "different",
-      "tj": "гуногун",
-      "ex": "English is different."
-    },
-    {
-      "en": "difficult",
-      "tj": "душвор",
-      "ex": "English is difficult."
-    },
-    {
-      "en": "improve",
-      "tj": "беҳтар кардан",
-      "ex": "I improve my English."
-    },
-    {
-      "en": "practice",
-      "tj": "машқ кардан",
-      "ex": "I practice English every day."
-    },
-    {
-      "en": "language",
-      "tj": "забон",
-      "ex": "English is a language."
-    },
-    {
-      "en": "grammar",
-      "tj": "грамматика",
-      "ex": "I learn English grammar."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "захираи калимаҳо",
-      "ex": "I learn new vocabulary."
+      "en": "memory",
+      "tj": "хотира",
+      "ex": "This is a good memory."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 22)",
-      "tj": "Имрӯз чӣ хел ҳастӣ? (Дарси 22)"
+      "en": "The guest comes to my house in the evening.",
+      "tj": "Меҳмон бегоҳ ба хонаи ман меояд."
     },
     {
-      "en": "I'm working on lesson 22",
-      "tj": "Ман дарси 22-ро меомӯзам."
+      "en": "My father is a good host.",
+      "tj": "Падари ман соҳибхонаи хуб аст."
+    },
+    {
+      "en": "I send an invitation to my friend.",
+      "tj": "Ман ба дӯстам даъватнома мефиристам."
+    },
+    {
+      "en": "We have a party in the garden.",
+      "tj": "Мо дар боғ базм дорем."
+    },
+    {
+      "en": "Today is a big holiday.",
+      "tj": "Имрӯз иди калон аст."
+    },
+    {
+      "en": "We rest at the weekend.",
+      "tj": "Мо дар охири ҳафта дам мегирем."
+    },
+    {
+      "en": "My birthday is in May.",
+      "tj": "Рӯзи таваллуди ман дар моҳи май аст."
+    },
+    {
+      "en": "My mother bakes a cake for my birthday.",
+      "tj": "Модарам барои рӯзи таваллуди ман торт мепазад."
+    },
+    {
+      "en": "I see a candle on the table.",
+      "tj": "Ман дар миз шамъ мебинам."
+    },
+    {
+      "en": "This is a present for you.",
+      "tj": "Ин тӯҳфа барои шумост."
+    },
+    {
+      "en": "We listen to music in the evening.",
+      "tj": "Мо бегоҳ ба мусиқӣ гӯш мекунем."
+    },
+    {
+      "en": "The children dance in the garden.",
+      "tj": "Кӯдакон дар боғ рақс мекунанд."
+    },
+    {
+      "en": "She sings a beautiful song.",
+      "tj": "Ӯ суруди зебо мехонад."
+    },
+    {
+      "en": "We take a photo near the tree.",
+      "tj": "Мо дар назди дарахт акс мегирем."
+    },
+    {
+      "en": "This is a good memory.",
+      "tj": "Ин хотираи хуб аст."
+    },
+    {
+      "en": "The guest brings a present for the child.",
+      "tj": "Меҳмон барои кӯдак тӯҳфа меорад."
+    },
+    {
+      "en": "My mother cooks dinner and my father invites the guests.",
+      "tj": "Модарам хӯроки шом мепазад ва падарам меҳмононро даъват мекунад."
+    },
+    {
+      "en": "The doctor helps the small child and the nurse brings water.",
+      "tj": "Духтур ба кӯдаки хурд кӯмак мекунад ва ҳамшира об меорад."
+    },
+    {
+      "en": "The teacher explains the new word and the pupil writes it.",
+      "tj": "Муаллим калимаи навро шарҳ медиҳад ва хонанда онро менависад."
+    },
+    {
+      "en": "The farmer works in the field and the baker bakes bread.",
+      "tj": "Деҳқон дар киштзор кор мекунад ва нонвой нон мепазад."
+    },
+    {
+      "en": "We listen to music and dance at the party.",
+      "tj": "Мо дар базм ба мусиқӣ гӯш мекунем ва рақс мекунем."
+    },
+    {
+      "en": "I wish to travel to the big city in spring.",
+      "tj": "Ман орзу мекунам, ки дар баҳор ба шаҳри калон сафар кунам."
+    },
+    {
+      "en": "The weather is good and we go to the lake.",
+      "tj": "Обу ҳаво хуб аст ва мо ба кӯл меравем."
+    },
+    {
+      "en": "The neighbour feeds the cow and the sheep every morning.",
+      "tj": "Ҳамсоя ҳар субҳ ба гов ва гӯсфанд хӯрок медиҳад."
+    },
+    {
+      "en": "I promise to help my mother in the kitchen.",
+      "tj": "Ман ваъда медиҳам, ки ба модарам дар ошхона кӯмак мекунам."
     }
   ],
-  "text": {
-    "en": "Text for lesson 22. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 22 is about Миёна - Синфи 4. I write all words in my notebook. Level 22 text.",
-    "tj": "Матн барои дарси 22. Номи ман Исмоил аст. Ман дар Душанбе зиндагӣ мекунам. Ман ҳар рӯз англисӣ меомӯзам. Дарси 22 дар бораи Миёна - Синфи 4 аст. Ман ҳамаи калимаҳоро дар дафтарам менависам. Матни сатҳи 22."
-  },
+  "text": null,
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Меҳмон бегоҳ ба хонаи ман меояд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "фаҳмидан",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The guest comes to my house in the evening.",
+        "The guest comes to my house in the morning.",
+        "The guest comes to my garden in the evening.",
+        "The visitor comes to my house in the evening."
       ],
-      "answer": "фаҳмидан"
+      "answer": "The guest comes to my house in the evening."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Падари ман соҳибхонаи хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "шарҳ додан",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "My father is a good host.",
+        "My father is a good guest.",
+        "My mother is a good host.",
+        "My father is a good doctor."
       ],
-      "answer": "шарҳ додан"
+      "answer": "My father is a good host."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Ман ба дӯстам даъватнома мефиристам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "муҳим",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "I send an invitation to my friend.",
+        "I send an invitation to my mother.",
+        "I bring an invitation to my friend.",
+        "I send a letter to my friend."
       ],
-      "answer": "муҳим"
+      "answer": "I send an invitation to my friend."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Мо дар боғ базм дорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "гуногун",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "We have a party in the garden.",
+        "We have a party in the house.",
+        "We have a party in the forest.",
+        "We have a holiday in the garden."
       ],
-      "answer": "гуногун"
+      "answer": "We have a party in the garden."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Имрӯз иди калон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "душвор",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Today is a big holiday.",
+        "Today is a small holiday.",
+        "Today is a good day.",
+        "Tomorrow is a big holiday."
       ],
-      "answer": "душвор"
+      "answer": "Today is a big holiday."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Мо дар охири ҳафта дам мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "осон",
-        "нодуруст B",
-        "нодуруст C"
+        "We rest at the weekend.",
+        "We work at the weekend.",
+        "We rest in the evening.",
+        "We rest in the afternoon."
       ],
-      "answer": "осон"
+      "answer": "We rest at the weekend."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Рӯзи таваллуди ман дар моҳи май аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "ҷолиб",
-        "нодуруст B",
-        "нодуруст A"
+        "My birthday is in May.",
+        "My birthday is in April.",
+        "My holiday is in May.",
+        "My birthday is in June."
       ],
-      "answer": "ҷолиб"
+      "answer": "My birthday is in May."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Модарам барои рӯзи таваллуди ман торт мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "ба ёд овардан",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "My mother bakes a cake for my birthday.",
+        "My mother cooks a cake for my birthday.",
+        "My grandmother bakes a cake for my birthday.",
+        "My mother bakes a cake for my holiday."
       ],
-      "answer": "ба ёд овардан"
+      "answer": "My mother bakes a cake for my birthday."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Ман дар миз шамъ мебинам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "фаромӯш кардан",
-        "нодуруст A",
-        "нодуруст B"
+        "I see a candle on the table.",
+        "I see a candle on the desk.",
+        "I see a cake on the table.",
+        "I see a candle in the room."
       ],
-      "answer": "фаромӯш кардан"
+      "answer": "I see a candle on the table."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Ин тӯҳфа барои шумост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "вазифаи хонагӣ"
+        "This is a present for you.",
+        "This is a present for me.",
+        "This is a gift for him.",
+        "This is a present for her."
       ],
-      "answer": "вазифаи хонагӣ"
+      "answer": "This is a present for you."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Мо бегоҳ ба мусиқӣ гӯш мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "машқ",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "We listen to music in the evening.",
+        "We listen to music in the morning.",
+        "We listen to the song in the evening.",
+        "We listen to music in the afternoon."
       ],
-      "answer": "машқ"
+      "answer": "We listen to music in the evening."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Кӯдакон дар боғ рақс мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "матн",
-        "нодуруст B",
-        "нодуруст C"
+        "The children dance in the garden.",
+        "The children dance in the house.",
+        "The children sing in the garden.",
+        "The pupils dance in the garden."
       ],
-      "answer": "матн"
+      "answer": "The children dance in the garden."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Ӯ суруди зебо мехонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "ҳикоя",
-        "нодуруст B",
-        "нодуруст A"
+        "She sings a beautiful song.",
+        "He sings a beautiful song.",
+        "She sings a good song.",
+        "She listens to a beautiful song."
       ],
-      "answer": "ҳикоя"
+      "answer": "She sings a beautiful song."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Мо дар назди дарахт акс мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "савол",
-        "нодуруст C"
+        "We take a photo near the tree.",
+        "We take a photo near the flower.",
+        "We take a photo near the house.",
+        "We take a photo near the fence."
       ],
-      "answer": "савол"
+      "answer": "We take a photo near the tree."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Ин хотираи хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "ҷавоб"
+        "This is a good memory.",
+        "This is a bad memory.",
+        "This is a good photo.",
+        "This is a good present."
       ],
-      "answer": "ҷавоб"
+      "answer": "This is a good memory."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Меҳмон барои кӯдак тӯҳфа меорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "фаҳмидан",
-        "нодуруст C"
+        "The guest brings a present for the child.",
+        "The guest brings a present for the mother.",
+        "The guest sends a present for the child.",
+        "The host brings a present for the child."
       ],
-      "answer": "фаҳмидан"
+      "answer": "The guest brings a present for the child."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Модарам хӯроки шом мепазад ва падарам меҳмононро даъват мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "шарҳ додан",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "My mother cooks dinner and my father invites the guests.",
+        "My mother cooks lunch and my father invites the guests.",
+        "My mother cooks dinner and my father invites the neighbours.",
+        "My grandmother cooks dinner and my father invites the guests."
       ],
-      "answer": "шарҳ додан"
+      "answer": "My mother cooks dinner and my father invites the guests."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Духтур ба кӯдаки хурд кӯмак мекунад ва ҳамшира об меорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "муҳим",
-        "нодуруст A",
-        "нодуруст C"
+        "The doctor helps the small child and the nurse brings water.",
+        "The doctor helps the small child and the nurse brings milk.",
+        "The doctor saves the small child and the nurse brings water.",
+        "The nurse helps the small child and the doctor brings water."
       ],
-      "answer": "муҳим"
+      "answer": "The doctor helps the small child and the nurse brings water."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Муаллим калимаи навро шарҳ медиҳад ва хонанда онро менависад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "гуногун",
-        "нодуруст C"
+        "The teacher explains the new word and the pupil writes it.",
+        "The teacher explains the old word and the pupil writes it.",
+        "The teacher explains the new word and the pupil reads it.",
+        "The teacher explains the new word and the student writes it."
       ],
-      "answer": "гуногун"
+      "answer": "The teacher explains the new word and the pupil writes it."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Деҳқон дар киштзор кор мекунад ва нонвой нон мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "душвор",
-        "нодуруст B",
-        "нодуруст A"
+        "The farmer works in the field and the baker bakes bread.",
+        "The farmer works in the field and the cook bakes bread.",
+        "The farmer works in the garden and the baker bakes bread.",
+        "The worker works in the field and the baker bakes bread."
       ],
-      "answer": "душвор"
+      "answer": "The farmer works in the field and the baker bakes bread."
     },
     {
-      "q": "'improve' чи маъно дорад?",
+      "q": "«Мо дар базм ба мусиқӣ гӯш мекунем ва рақс мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "беҳтар кардан",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "We listen to music and dance at the party.",
+        "We listen to music and sing at the party.",
+        "We listen to songs and dance at the party.",
+        "We listen to music and dance at the holiday."
       ],
-      "answer": "беҳтар кардан"
+      "answer": "We listen to music and dance at the party."
     },
     {
-      "q": "'practice' чи маъно дорад?",
+      "q": "«Ман орзу мекунам, ки дар баҳор ба шаҳри калон сафар кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "машқ кардан",
-        "нодуруст B",
-        "нодуруст C"
+        "I wish to travel to the big city in spring.",
+        "I wish to travel to the big village in spring.",
+        "I hope to travel to the big city in spring.",
+        "I wish to go to the big city in summer."
       ],
-      "answer": "машқ кардан"
+      "answer": "I wish to travel to the big city in spring."
     },
     {
-      "q": "'language' чи маъно дорад?",
+      "q": "«Обу ҳаво хуб аст ва мо ба кӯл меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "забон",
-        "нодуруст C"
+        "The weather is good and we go to the lake.",
+        "The weather is bad and we go to the lake.",
+        "The weather is good and we go to the sea.",
+        "The weather is good and we go to the forest."
       ],
-      "answer": "забон"
+      "answer": "The weather is good and we go to the lake."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ҳамсоя ҳар субҳ ба гов ва гӯсфанд хӯрок медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "грамматика"
+        "The neighbour feeds the cow and the sheep every morning.",
+        "The neighbour feeds the cow and the horse every morning.",
+        "The neighbour feeds the cow and the sheep every evening.",
+        "The farmer feeds the cow and the sheep every morning."
       ],
-      "answer": "грамматика"
+      "answer": "The neighbour feeds the cow and the sheep every morning."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ман ваъда медиҳам, ки ба модарам дар ошхона кӯмак мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "захираи калимаҳо",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "I promise to help my mother in the kitchen.",
+        "I promise to help my mother in the garden.",
+        "I hope to help my mother in the kitchen.",
+        "I promise to help my sister in the kitchen."
       ],
-      "answer": "захираи калимаҳо"
+      "answer": "I promise to help my mother in the kitchen."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 25
+  "wordsCount": 15
 }
