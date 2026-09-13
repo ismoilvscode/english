@@ -1,326 +1,440 @@
 {
   "id": 21,
-  "title": "Матн ва машқҳо 21",
-  "level": "Миёна - Синфи 4",
+  "title": "Иборасозӣ 21: Ҳаво, обу ҳаво ва сайёҳат",
+  "level": "Ибтидоӣ - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "фаҳмидан",
-      "ex": "I understand English."
+      "en": "weather",
+      "tj": "обу ҳаво",
+      "ex": "The weather is cold today."
     },
     {
-      "en": "explain",
-      "tj": "шарҳ додан",
-      "ex": "I explain the lesson."
+      "en": "sunny",
+      "tj": "офтобӣ",
+      "ex": "It is sunny in the morning."
     },
     {
-      "en": "important",
-      "tj": "муҳим",
-      "ex": "English is important."
+      "en": "rainy",
+      "tj": "боронӣ",
+      "ex": "The day is rainy."
     },
     {
-      "en": "different",
-      "tj": "гуногун",
-      "ex": "English is different."
+      "en": "windy",
+      "tj": "шамолнок",
+      "ex": "It is windy in the evening."
     },
     {
-      "en": "difficult",
-      "tj": "душвор",
-      "ex": "English is difficult."
+      "en": "cloudy",
+      "tj": "абрнок",
+      "ex": "The sky is cloudy."
     },
     {
-      "en": "easy",
-      "tj": "осон",
-      "ex": "English is easy."
+      "en": "snowy",
+      "tj": "барфнок",
+      "ex": "The winter is snowy."
     },
     {
-      "en": "interesting",
-      "tj": "ҷолиб",
-      "ex": "English is interesting."
+      "en": "umbrella",
+      "tj": "чатр",
+      "ex": "I take my umbrella."
     },
     {
-      "en": "remember",
-      "tj": "ба ёд овардан",
-      "ex": "I remember English words."
+      "en": "coat",
+      "tj": "пальто",
+      "ex": "My coat is warm."
     },
     {
-      "en": "forget",
-      "tj": "фаромӯш кардан",
-      "ex": "I forget English words."
+      "en": "boots",
+      "tj": "муза",
+      "ex": "My boots are black."
     },
     {
-      "en": "homework",
-      "tj": "вазифаи хонагӣ",
-      "ex": "I do my English homework."
+      "en": "season",
+      "tj": "фасл",
+      "ex": "Spring is my favourite season."
     },
     {
-      "en": "exercise",
-      "tj": "машқ",
-      "ex": "I do English exercises."
+      "en": "forecast",
+      "tj": "пешгӯӣ",
+      "ex": "The forecast is good today."
     },
     {
-      "en": "text",
-      "tj": "матн",
-      "ex": "I read the English text."
+      "en": "temperature",
+      "tj": "ҳарорат",
+      "ex": "The temperature is warm."
     },
     {
-      "en": "story",
-      "tj": "ҳикоя",
-      "ex": "I read an English story."
+      "en": "beach",
+      "tj": "соҳил",
+      "ex": "We go to the beach in summer."
     },
     {
-      "en": "question",
-      "tj": "савол",
-      "ex": "I ask a question in English."
+      "en": "forest",
+      "tj": "ҷангал",
+      "ex": "The forest is green and beautiful."
     },
     {
-      "en": "answer",
-      "tj": "ҷавоб",
-      "ex": "I answer the question."
-    },
-    {
-      "en": "understand",
-      "tj": "фаҳмидан",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "шарҳ додан",
-      "ex": "I explain the lesson."
-    },
-    {
-      "en": "important",
-      "tj": "муҳим",
-      "ex": "English is important."
-    },
-    {
-      "en": "different",
-      "tj": "гуногун",
-      "ex": "English is different."
-    },
-    {
-      "en": "difficult",
-      "tj": "душвор",
-      "ex": "English is difficult."
+      "en": "lake",
+      "tj": "кӯл",
+      "ex": "The lake is near the village."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 21)",
-      "tj": "Имрӯз чӣ хел ҳастӣ? (Дарси 21)"
+      "en": "The weather is cold today.",
+      "tj": "Имрӯз обу ҳаво хунук аст."
     },
     {
-      "en": "I'm working on lesson 21",
-      "tj": "Ман дар дарси 21 кор мекунам."
+      "en": "It is sunny in the morning.",
+      "tj": "Субҳ офтобӣ аст."
+    },
+    {
+      "en": "The day is rainy and cloudy.",
+      "tj": "Рӯз боронӣ ва абрнок аст."
+    },
+    {
+      "en": "It is windy in the evening.",
+      "tj": "Бегоҳ шамолнок аст."
+    },
+    {
+      "en": "The winter is snowy and cold.",
+      "tj": "Зимистон барфнок ва хунук аст."
+    },
+    {
+      "en": "I take my umbrella when it rains.",
+      "tj": "Ман вақте борон меборад, чатрамро мегирам."
+    },
+    {
+      "en": "My coat is warm and new.",
+      "tj": "Пальтои ман гарм ва нав аст."
+    },
+    {
+      "en": "My boots are black and old.",
+      "tj": "Музаҳои ман сиёҳ ва кӯҳна ҳастанд."
+    },
+    {
+      "en": "Spring is my favourite season.",
+      "tj": "Баҳор фасли дӯстдоштаи ман аст."
+    },
+    {
+      "en": "The forecast is good today.",
+      "tj": "Пешгӯии имрӯз хуб аст."
+    },
+    {
+      "en": "The temperature is warm in summer.",
+      "tj": "Ҳарорат дар тобистон гарм аст."
+    },
+    {
+      "en": "We go to the beach in summer.",
+      "tj": "Мо дар тобистон ба соҳил меравем."
+    },
+    {
+      "en": "The forest is green and beautiful.",
+      "tj": "Ҷангал сабз ва зебо аст."
+    },
+    {
+      "en": "The lake is near the village.",
+      "tj": "Кӯл дар назди деҳа аст."
+    },
+    {
+      "en": "The weather is good and we go to the lake.",
+      "tj": "Обу ҳаво хуб аст ва мо ба кӯл меравем."
+    },
+    {
+      "en": "My mother cooks dinner and my father feeds the horse.",
+      "tj": "Модарам хӯроки шом мепазад ва падарам ба асп хӯрок медиҳад."
+    },
+    {
+      "en": "The teacher explains the new word to the pupil.",
+      "tj": "Муаллим ба хонанда калимаи навро шарҳ медиҳад."
+    },
+    {
+      "en": "The baker bakes bread and the farmer works in the field.",
+      "tj": "Нонвой нон мепазад ва деҳқон дар киштзор кор мекунад."
+    },
+    {
+      "en": "I promise to help my mother in the kitchen.",
+      "tj": "Ман ваъда медиҳам, ки ба модарам дар ошхона кӯмак мекунам."
+    },
+    {
+      "en": "The visitor brings a gift for my grandmother.",
+      "tj": "Меҳмон барои бибии ман тӯҳфа меорад."
+    },
+    {
+      "en": "The journey to the mountain is long and beautiful.",
+      "tj": "Сафар ба кӯҳ дароз ва зебо аст."
+    },
+    {
+      "en": "We buy tickets for the trip to the sea.",
+      "tj": "Мо барои саёҳат ба баҳр чипта мехарем."
+    },
+    {
+      "en": "The doctor saves the small child and the nurse helps him.",
+      "tj": "Духтур кӯдаки хурдро наҷот медиҳад ва ҳамшира ба ӯ кӯмак мекунад."
+    },
+    {
+      "en": "My neighbour feeds the cow and the sheep every morning.",
+      "tj": "Ҳамсояи ман ҳар субҳ ба гов ва гӯсфанд хӯрок медиҳад."
+    },
+    {
+      "en": "I wish to travel to the big city in spring.",
+      "tj": "Ман орзу мекунам, ки дар баҳор ба шаҳри калон сафар кунам."
     }
   ],
-  "text": {
-    "en": "Text for lesson 21. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 21 is about Миёна - Синфи 4. I write all words in my notebook. Level 21 text.",
-    "tj": "Матн барои дарси 21. Номи ман Исмоил аст. Ман дар Душанбе зиндагӣ мекунам. Ман ҳар рӯз англисӣ меомӯзам. Дарси 21 дар бораи Миёна - Синфи 4 аст. Ман ҳамаи калимаҳоро дар дафтарам менависам. Матни сатҳи 21."
-  },
+  "text": null,
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Имрӯз обу ҳаво хунук аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "фаҳмидан",
-        "нодуруст B"
+        "The weather is cold today.",
+        "The weather is warm today.",
+        "The day is cold today.",
+        "The weather is good today."
       ],
-      "answer": "фаҳмидан"
+      "answer": "The weather is cold today."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Субҳ офтобӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "шарҳ додан",
-        "нодуруст C",
-        "нодуруст B"
+        "It is sunny in the morning.",
+        "It is sunny in the evening.",
+        "It is rainy in the morning.",
+        "It is windy in the morning."
       ],
-      "answer": "шарҳ додан"
+      "answer": "It is sunny in the morning."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Рӯз боронӣ ва абрнок аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "муҳим"
+        "The day is rainy and cloudy.",
+        "The day is rainy and windy.",
+        "The day is sunny and cloudy.",
+        "The day is snowy and cloudy."
       ],
-      "answer": "муҳим"
+      "answer": "The day is rainy and cloudy."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Бегоҳ шамолнок аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "гуногун",
-        "нодуруст A",
-        "нодуруст B"
+        "It is windy in the evening.",
+        "It is windy in the morning.",
+        "It is cloudy in the evening.",
+        "It is cold in the evening."
       ],
-      "answer": "гуногун"
+      "answer": "It is windy in the evening."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Зимистон барфнок ва хунук аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "душвор",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "The winter is snowy and cold.",
+        "The winter is rainy and cold.",
+        "The summer is snowy and cold.",
+        "The winter is warm and sunny."
       ],
-      "answer": "душвор"
+      "answer": "The winter is snowy and cold."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Ман вақте борон меборад, чатрамро мегирам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "осон",
-        "нодуруст C"
+        "I take my umbrella when it rains.",
+        "I take my coat when it rains.",
+        "I take my umbrella when it snows.",
+        "I take my bag when it rains."
       ],
-      "answer": "осон"
+      "answer": "I take my umbrella when it rains."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Пальтои ман гарм ва нав аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "ҷолиб",
-        "нодуруст A",
-        "нодуруст B"
+        "My coat is warm and new.",
+        "My coat is cold and new.",
+        "My shirt is warm and new.",
+        "My coat is warm and old."
       ],
-      "answer": "ҷолиб"
+      "answer": "My coat is warm and new."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Музаҳои ман сиёҳ ва кӯҳна ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "ба ёд овардан"
+        "My boots are black and old.",
+        "My boots are white and old.",
+        "My shoes are black and old.",
+        "My boots are black and new."
       ],
-      "answer": "ба ёд овардан"
+      "answer": "My boots are black and old."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Баҳор фасли дӯстдоштаи ман аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "фаромӯш кардан",
-        "нодуруст B",
-        "нодуруст A"
+        "Spring is my favourite season.",
+        "Summer is my favourite season.",
+        "Spring is a good season.",
+        "Autumn is my favourite season."
       ],
-      "answer": "фаромӯш кардан"
+      "answer": "Spring is my favourite season."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Пешгӯии имрӯз хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "вазифаи хонагӣ",
-        "нодуруст A",
-        "нодуруст C"
+        "The forecast is good today.",
+        "The forecast is bad today.",
+        "The weather is good today.",
+        "The forecast is cold today."
       ],
-      "answer": "вазифаи хонагӣ"
+      "answer": "The forecast is good today."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Ҳарорат дар тобистон гарм аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "машқ",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The temperature is warm in summer.",
+        "The temperature is cold in summer.",
+        "The temperature is warm in winter.",
+        "The weather is warm in summer."
       ],
-      "answer": "машқ"
+      "answer": "The temperature is warm in summer."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Мо дар тобистон ба соҳил меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "матн"
+        "We go to the beach in summer.",
+        "We go to the beach in winter.",
+        "We go to the forest in summer.",
+        "We go to the lake in summer."
       ],
-      "answer": "матн"
+      "answer": "We go to the beach in summer."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Ҷангал сабз ва зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "ҳикоя",
-        "нодуруст C",
-        "нодуруст A"
+        "The forest is green and beautiful.",
+        "The forest is green and small.",
+        "The lake is green and beautiful.",
+        "The forest is old and beautiful."
       ],
-      "answer": "ҳикоя"
+      "answer": "The forest is green and beautiful."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Кӯл дар назди деҳа аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "савол",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The lake is near the village.",
+        "The lake is near the city.",
+        "The river is near the village.",
+        "The lake is near the forest."
       ],
-      "answer": "савол"
+      "answer": "The lake is near the village."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Обу ҳаво хуб аст ва мо ба кӯл меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "ҷавоб",
-        "нодуруст C",
-        "нодуруст B"
+        "The weather is good and we go to the lake.",
+        "The weather is bad and we go to the lake.",
+        "The weather is good and we go to the sea.",
+        "The weather is cold and we go to the lake."
       ],
-      "answer": "ҷавоб"
+      "answer": "The weather is good and we go to the lake."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Модарам хӯроки шом мепазад ва падарам ба асп хӯрок медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "фаҳмидан",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "My mother cooks dinner and my father feeds the horse.",
+        "My mother cooks lunch and my father feeds the horse.",
+        "My mother cooks dinner and my father feeds the cow.",
+        "My sister cooks dinner and my father feeds the horse."
       ],
-      "answer": "фаҳмидан"
+      "answer": "My mother cooks dinner and my father feeds the horse."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Муаллим ба хонанда калимаи навро шарҳ медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "шарҳ додан"
+        "The teacher explains the new word to the pupil.",
+        "The teacher explains the old word to the pupil.",
+        "The teacher explains the new word to the student.",
+        "The pupil explains the new word to the teacher."
       ],
-      "answer": "шарҳ додан"
+      "answer": "The teacher explains the new word to the pupil."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Нонвой нон мепазад ва деҳқон дар киштзор кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "муҳим"
+        "The baker bakes bread and the farmer works in the field.",
+        "The baker bakes bread and the worker works in the field.",
+        "The cook bakes bread and the farmer works in the field.",
+        "The baker cooks bread and the farmer works in the field."
       ],
-      "answer": "муҳим"
+      "answer": "The baker bakes bread and the farmer works in the field."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Ман ваъда медиҳам, ки ба модарам дар ошхона кӯмак мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "гуногун"
+        "I promise to help my mother in the kitchen.",
+        "I promise to help my mother in the garden.",
+        "I hope to help my mother in the kitchen.",
+        "I promise to help my sister in the kitchen."
       ],
-      "answer": "гуногун"
+      "answer": "I promise to help my mother in the kitchen."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Меҳмон барои бибии ман тӯҳфа меорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "душвор",
-        "нодуруст A"
+        "The visitor brings a gift for my grandmother.",
+        "The visitor brings a gift for my grandfather.",
+        "The neighbour brings a gift for my grandmother.",
+        "The visitor sends a gift for my grandmother."
       ],
-      "answer": "душвор"
+      "answer": "The visitor brings a gift for my grandmother."
+    },
+    {
+      "q": "«Сафар ба кӯҳ дароз ва зебо аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The journey to the mountain is long and beautiful.",
+        "The journey to the mountain is short and beautiful.",
+        "The trip to the mountain is long and beautiful.",
+        "The journey to the river is long and beautiful."
+      ],
+      "answer": "The journey to the mountain is long and beautiful."
+    },
+    {
+      "q": "«Мо барои саёҳат ба баҳр чипта мехарем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We buy tickets for the trip to the sea.",
+        "We buy tickets for the trip to the mountain.",
+        "We buy tickets for the trip to the lake.",
+        "We sell tickets for the trip to the sea."
+      ],
+      "answer": "We buy tickets for the trip to the sea."
+    },
+    {
+      "q": "«Духтур кӯдаки хурдро наҷот медиҳад ва ҳамшира ба ӯ кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The doctor saves the small child and the nurse helps him.",
+        "The doctor saves the small child and the nurse helps her.",
+        "The nurse saves the small child and the doctor helps him.",
+        "The doctor saves the big child and the nurse helps him."
+      ],
+      "answer": "The doctor saves the small child and the nurse helps him."
+    },
+    {
+      "q": "«Ҳамсояи ман ҳар субҳ ба гов ва гӯсфанд хӯрок медиҳад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My neighbour feeds the cow and the sheep every morning.",
+        "My neighbour feeds the cow and the horse every morning.",
+        "My friend feeds the cow and the sheep every morning.",
+        "My neighbour feeds the cow and the sheep every evening."
+      ],
+      "answer": "My neighbour feeds the cow and the sheep every morning."
+    },
+    {
+      "q": "«Ман орзу мекунам, ки дар баҳор ба шаҳри калон сафар кунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I wish to travel to the big city in spring.",
+        "I wish to travel to the big village in spring.",
+        "I hope to travel to the big city in spring.",
+        "I wish to go to the big city in spring."
+      ],
+      "answer": "I wish to travel to the big city in spring."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 20
+  "wordsCount": 15
 }
