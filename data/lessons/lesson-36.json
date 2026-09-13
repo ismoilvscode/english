@@ -1,431 +1,672 @@
 {
   "id": 36,
-  "title": "Матн ва машқҳо 36",
-  "level": "Миёна - Синфи 4",
+  "title": "Матн 36: Кори хона ва кӯмак ба волидон",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "chore",
+      "tj": "кори хона",
+      "ex": "Every child has some chores at home."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "to sweep",
+      "tj": "ҷорӯб кардан",
+      "ex": "I sweep the floor every morning."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "broom",
+      "tj": "ҷорӯб",
+      "ex": "The broom is near the door."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "floor",
+      "tj": "фарш",
+      "ex": "Our floor is clean."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "carpet",
+      "tj": "гилем",
+      "ex": "The carpet is on the floor."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "to dust",
+      "tj": "чанг тоза кардан",
+      "ex": "I dust the table and the shelves."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "dish",
+      "tj": "зарф",
+      "ex": "There are many dishes in the kitchen."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "to wash the dishes",
+      "tj": "зарфҳоро шустан",
+      "ex": "My sister washes the dishes after dinner."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "to water",
+      "tj": "об додан",
+      "ex": "I water the flowers every evening."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "rubbish",
+      "tj": "ахлот",
+      "ex": "The rubbish is in the bin."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "pillow",
+      "tj": "болиш",
+      "ex": "My pillow is soft and white."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "blanket",
+      "tj": "кӯрпа",
+      "ex": "The blanket is warm in winter."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "sheet",
+      "tj": "чадрап",
+      "ex": "My mother changes the sheets every week."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "tidy",
+      "tj": "ҷамъу ҷӯр",
+      "ex": "My room is always tidy."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
+      "en": "untidy",
+      "tj": "ноҷӯр",
+      "ex": "His room is very untidy today."
     },
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
-    },
-    {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
-    },
-    {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
-    },
-    {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
-    },
-    {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "to be tired",
+      "tj": "хаста шудан",
+      "ex": "My mother is tired in the evening."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 36)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Every child has some chores at home.",
+      "tj": "Ҳар як кӯдак дар хона коре дорад."
     },
     {
-      "en": "I'm working on lesson 36",
-      "tj": "Ман дарси 36-ро меомӯзам"
+      "en": "I sweep the floor every morning with a broom.",
+      "tj": "Ман ҳар субҳ фаршро бо ҷорӯб ҷорӯб мекунам."
+    },
+    {
+      "en": "The carpet is on the floor in the living room.",
+      "tj": "Гилем дар фарши ҳуҷраи меҳмонхона аст."
+    },
+    {
+      "en": "I dust the table and the shelves every Saturday.",
+      "tj": "Ман ҳар шанбе миз ва рафҳоро чанг тоза мекунам."
+    },
+    {
+      "en": "My sister washes the dishes after dinner.",
+      "tj": "Хоҳари ман баъд аз хӯроки шом зарфҳоро мешӯяд."
+    },
+    {
+      "en": "I water the flowers every evening in summer.",
+      "tj": "Ман дар тобистон ҳар бегоҳ гулҳоро об медиҳам."
+    },
+    {
+      "en": "The rubbish is in the bin near the door.",
+      "tj": "Ахлот дар сабади назди дар аст."
+    },
+    {
+      "en": "My pillow is soft and my blanket is warm.",
+      "tj": "Болиши ман мулоим ва кӯрпаи ман гарм аст."
+    },
+    {
+      "en": "My mother changes the sheets every week.",
+      "tj": "Модарам ҳар ҳафта чадрапҳоро иваз мекунад."
+    },
+    {
+      "en": "My room is always tidy and clean.",
+      "tj": "Ҳуҷраи ман ҳамеша ҷамъу ҷӯр ва тоза аст."
+    },
+    {
+      "en": "His room is very untidy today.",
+      "tj": "Ҳуҷраи ӯ имрӯз хеле ноҷӯр аст."
+    },
+    {
+      "en": "My mother is tired in the evening.",
+      "tj": "Модарам бегоҳ хаста мешавад."
+    },
+    {
+      "en": "I help my mother because I love her very much.",
+      "tj": "Ман ба модарам кӯмак мекунам, зеро ки ман ӯро хеле дӯст медорам."
+    },
+    {
+      "en": "Together we can do all the chores quickly.",
+      "tj": "Мо якҷоя ҳамаи корҳои хонаро зуд иҷро карда метавонем."
+    },
+    {
+      "en": "A tidy house is a happy house.",
+      "tj": "Хонаи ҷамъу ҷӯр — хонаи хушбахтӣ аст."
+    },
+    {
+      "en": "Children must help their parents every day.",
+      "tj": "Кӯдакон бояд ҳар рӯз ба волидонашон кӯмак кунанд."
     }
   ],
   "text": {
-    "en": "Text for lesson 36. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 36 is about Миёна - Синфи 4. I write all words in my notebook. Level 36 text.",
-    "tj": "Матни дарси 36..."
+    "en": "Housework and Helping Parents\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my mother, father, sister and brother. We live in a big flat. Every day we have many chores at home. Everybody in our family helps.\n\nIn the morning my mother gets up early and makes breakfast. My father takes out the rubbish and goes to work. I make my bed and help my little brother to dress. My sister Zuhro sweeps the floor with a broom. Then she dusts the table and the shelves. After breakfast I wash the dishes with warm water and soap.\n\nOn Saturday we do the big cleaning. My mother washes the sheets and the blankets. My father cleans the carpets with a special machine. Zuhro and I clean our rooms. My room is always tidy — my books are on the shelf, my clothes are in the wardrobe and my toys are in the box. My brother's room is sometimes untidy — his toys are on the floor and his books are under the bed. But we always help him to put everything in its place.\n\nIn the evening I water the flowers in our flat. We have many beautiful flowers on the windowsills. My grandmother gave us these flowers. She says: \"Flowers make a house beautiful and happy.\" After that I feed our cat. Her name is Mushuk. She is very kind and clever. She likes milk and fish. When I sit down to do my homework, she sits near me and sleeps.\n\nMy mother works in an office and she is often tired in the evening. When she comes home, she cooks dinner. My father helps her in the kitchen. He peels the potatoes and cuts the bread. Zuhro and I set the table. We put the plates, the spoons, the forks, the knives and the cups on the table. We also put bread, cheese and fruit on the table. It is very nice when the whole family sits together at one table.\n\nAfter dinner I help my mother to wash the dishes. She washes and I dry them. Then I take out the rubbish and put it in the big bin near the house. My father says: \"A tidy house is a happy house. Every child must help his parents.\"\n\nI love my family very much. I want to help my parents every day, not only on Saturday. I want to make our home a happy place. When I grow up, I want to have my own family and teach my children to help their parents too.",
+    "tj": "Кори хона ва кӯмак ба волидон\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо модар, падар, хоҳар ва бародарам зиндагӣ мекунам. Мо дар хонаи калон зиндагӣ мекунем. Ҳар рӯз мо дар хона корҳои зиёд дорем. Дар оилаи мо ҳама кӯмак мекунанд.\n\nСубҳ модарам барвақт аз ҷой мехезад ва наҳорӣ мепазад. Падарам ахлотро берун мебарорад ва ба кор меравад. Ман кати худро ҷамъ мекунам ва ба бародари хурдиам либос пӯшиданро кӯмак мекунам. Хоҳарам Зуҳро фаршро бо ҷорӯб ҷорӯб мекунад. Баъд ӯ миз ва рафҳоро чанг тоза мекунад. Баъд аз наҳорӣ ман зарфҳоро бо оби гарм ва собун мешӯям.\n\nРӯзи шанбе мо тозакории калон мекунем. Модарам чадрапҳо ва кӯрпаҳоро мешӯяд. Падарам гилемҳоро бо мошини махсус тоза мекунад. Зуҳро ва ман ҳуҷраҳои худро тоза мекунем. Ҳуҷраи ман ҳамеша ҷамъу ҷӯр аст — китобҳоям дар раф, либосҳоям дар шкаф ва бозичаҳоям дар қуттӣ ҳастанд. Ҳуҷраи бародарам баъзан ноҷӯр аст — бозичаҳояш дар фарш ва китобҳояш дар зери кат ҳастанд. Аммо мо ҳамеша ба ӯ кӯмак мекунем, ки ҳама чизро дар ҷои худ гузорад.\n\nБегоҳ ман гулҳоро дар хонаи мо об медиҳам. Мо дар тирезаҳо гулҳои зебои зиёд дорем. Бибиам ин гулҳоро ба мо додааст. Ӯ мегӯяд: «Гулҳо хонаро зебо ва хушбахт мекунанд.» Баъд аз он ман ба гурбаи мо хӯрок медиҳам. Номи ӯ Мушук аст. Ӯ хеле меҳрубон ва зирак аст. Ӯ шир ва моҳӣ дӯст медорад. Вақте ки ман барои иҷрои вазифаи хонагӣ менишинам, ӯ дар назди ман менишинад ва мехобад.\n\nМодарам дар идора кор мекунад ва ӯ бегоҳ аксар вақт хаста мешавад. Вақте ки ӯ ба хона меояд, ӯ хӯроки шом мепазад. Падарам дар ошхона ба ӯ кӯмак мекунад. Ӯ картошкаро тоза мекунад ва нонро мебурад. Зуҳро ва ман мизро омода мекунем. Мо табақҳо, қошуқҳо, чангакҳо, кордҳо ва пиёлаҳоро ба миз мегузорем. Мо инчунин нон, панир ва меваҳоро ба миз мегузорем. Хеле хуш аст, вақте ки тамоми оила дар як миз якҷоя менишинад.\n\nБаъд аз хӯроки шом ман ба модарам зарфҳоро шустан кӯмак мекунам. Ӯ мешӯяд ва ман онҳоро хушк мекунам. Баъд ман ахлотро берун мебарорам ва онро ба сабади калони назди хона мегузорам. Падарам мегӯяд: «Хонаи ҷамъу ҷӯр — хонаи хушбахтӣ аст. Ҳар як кӯдак бояд ба волидонаш кӯмак кунад.»\n\nМан оилаамро хеле дӯст медорам. Ман мехоҳам ҳар рӯз ба волидонам кӯмак кунам, на танҳо рӯзи шанбе. Ман мехоҳам хонаи моро ҷои хушбахтӣ созам. Вақте ки ман калон мешавам, ман мехоҳам оилаи худро дошта бошам ва ба кӯдаконам кӯмак кардан ба волидонашонро омӯзонам."
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Ҳар як кӯдак дар хона коре дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи understand",
-        "нодуруст B",
-        "нодуруст C"
+        "Every child has some chores at home.",
+        "Every child has some work at home.",
+        "Every child has some chores at school.",
+        "Every pupil has some chores at home."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "Every child has some chores at home."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Ман ҳар субҳ фаршро бо ҷорӯб ҷорӯб мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи explain",
-        "нодуруст C",
-        "нодуруст A"
+        "I sweep the floor every morning with a broom.",
+        "I sweep the floor every evening with a broom.",
+        "I clean the floor every morning with a broom.",
+        "I sweep the carpet every morning with a broom."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "I sweep the floor every morning with a broom."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Гилем дар фарши ҳуҷраи меҳмонхона аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи important"
+        "The carpet is on the floor in the living room.",
+        "The carpet is on the floor in the bedroom.",
+        "The carpet is on the floor in the kitchen.",
+        "The pillow is on the floor in the living room."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "The carpet is on the floor in the living room."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Ман ҳар шанбе миз ва рафҳоро чанг тоза мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи different",
-        "нодуруст A"
+        "I dust the table and the shelves every Saturday.",
+        "I dust the table and the shelves every Sunday.",
+        "I clean the table and the shelves every Saturday.",
+        "I dust the carpet and the shelves every Saturday."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "I dust the table and the shelves every Saturday."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Хоҳари ман баъд аз хӯроки шом зарфҳоро мешӯяд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи difficult",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "My sister washes the dishes after dinner.",
+        "My sister washes the dishes after lunch.",
+        "My mother washes the dishes after dinner.",
+        "My sister washes the plates after dinner."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "My sister washes the dishes after dinner."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Ман дар тобистон ҳар бегоҳ гулҳоро об медиҳам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи easy"
+        "I water the flowers every evening in summer.",
+        "I water the flowers every morning in summer.",
+        "I water the flowers every evening in spring.",
+        "I water the trees every evening in summer."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "I water the flowers every evening in summer."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Ахлот дар сабади назди дар аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи interesting"
+        "The rubbish is in the bin near the door.",
+        "The rubbish is in the bin near the window.",
+        "The rubbish is in the box near the door.",
+        "The bread is in the bin near the door."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "The rubbish is in the bin near the door."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Болиши ман мулоим ва кӯрпаи ман гарм аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи remember",
-        "нодуруст C"
+        "My pillow is soft and my blanket is warm.",
+        "My pillow is warm and my blanket is soft.",
+        "My pillow is soft and my sheet is warm.",
+        "My pillow is soft and my blanket is white."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "My pillow is soft and my blanket is warm."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Модарам ҳар ҳафта чадрапҳоро иваз мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи forget"
+        "My mother changes the sheets every week.",
+        "My mother changes the sheets every month.",
+        "My mother washes the sheets every week.",
+        "My sister changes the sheets every week."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "My mother changes the sheets every week."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Ҳуҷраи ман ҳамеша ҷамъу ҷӯр ва тоза аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи homework",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "My room is always tidy and clean.",
+        "My room is always tidy and big.",
+        "My house is always tidy and clean.",
+        "My room is sometimes tidy and clean."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "My room is always tidy and clean."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Ҳуҷраи ӯ имрӯз хеле ноҷӯр аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи exercise"
+        "His room is very untidy today.",
+        "Her room is very untidy today.",
+        "His room is very tidy today.",
+        "His house is very untidy today."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "His room is very untidy today."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Модарам бегоҳ хаста мешавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи text",
-        "нодуруст B"
+        "My mother is tired in the evening.",
+        "My mother is tired in the morning.",
+        "My father is tired in the evening.",
+        "My mother is happy in the evening."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "My mother is tired in the evening."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Ман ба модарам кӯмак мекунам, зеро ки ман ӯро хеле дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи story",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "I help my mother because I love her very much.",
+        "I help my mother because I love him very much.",
+        "I help my father because I love him very much.",
+        "I help my mother because I like her very much."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "I help my mother because I love her very much."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Мо якҷоя ҳамаи корҳои хонаро зуд иҷро карда метавонем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи question"
+        "Together we can do all the chores quickly.",
+        "Together we can do all the chores slowly.",
+        "Together we can do all the work quickly.",
+        "Together we can do all the chores well."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "Together we can do all the chores quickly."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Хонаи ҷамъу ҷӯр — хонаи хушбахтӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи answer",
-        "нодуруст C"
+        "A tidy house is a happy house.",
+        "A tidy house is a beautiful house.",
+        "A clean house is a happy house.",
+        "A tidy room is a happy room."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "A tidy house is a happy house."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Кӯдакон бояд ҳар рӯз ба волидонашон кӯмак кунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи understand",
-        "нодуруст C"
+        "Children must help their parents every day.",
+        "Children must help their parents every weekend.",
+        "Children must help their mother every day.",
+        "Children must help their parents every morning."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "Children must help their parents every day."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Мо дар хонаи калон зиндагӣ мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи explain",
-        "нодуруст C"
+        "We live in a big flat.",
+        "We live in a small flat.",
+        "We live in a big house.",
+        "We live in a big room."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "We live in a big flat."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Ҳар рӯз мо дар хона корҳои зиёд дорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи important"
+        "Every day we have many chores at home.",
+        "Every day we have many chores at school.",
+        "Every day we have much work at home.",
+        "Every day we have many lessons at home."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "Every day we have many chores at home."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Дар оилаи мо ҳама кӯмак мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи different",
-        "нодуруст C"
+        "Everybody in our family helps.",
+        "Everybody in our house helps.",
+        "Everybody in our family works.",
+        "All in our family help."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "Everybody in our family helps."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Субҳ модарам барвақт аз ҷой мехезад ва наҳорӣ мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи difficult",
-        "нодуруст A"
+        "In the morning my mother gets up early and makes breakfast.",
+        "In the morning my mother gets up early and cooks breakfast.",
+        "In the evening my mother gets up early and makes breakfast.",
+        "In the morning my grandmother gets up early and makes breakfast."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "In the morning my mother gets up early and makes breakfast."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Падарам ахлотро берун мебарорад ва ба кор меравад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи easy",
-        "нодуруст C",
-        "нодуруст B"
+        "My father takes out the rubbish and goes to work.",
+        "My father takes out the rubbish and goes to school.",
+        "My mother takes out the rubbish and goes to work.",
+        "My father puts out the rubbish and goes to work."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "My father takes out the rubbish and goes to work."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Ман кати худро ҷамъ мекунам ва ба бародари хурдиам либос пӯшиданро кӯмак мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи interesting",
-        "нодуруст C"
+        "I make my bed and help my little brother to dress.",
+        "I make my bed and help my little sister to dress.",
+        "I make the bed and help my little brother to dress.",
+        "I do my bed and help my little brother to dress."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "I make my bed and help my little brother to dress."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Хоҳарам Зуҳро фаршро бо ҷорӯб ҷорӯб мекунад. Баъд ӯ миз ва рафҳоро чанг тоза мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи remember",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "My sister Zuhro sweeps the floor with a broom. Then she dusts the table and the shelves.",
+        "My sister Zuhro sweeps the floor with a broom. Then she cleans the table and the shelves.",
+        "My sister Zuhro sweeps the carpet with a broom. Then she dusts the table and the shelves.",
+        "My sister Zuhro sweeps the floor with a broom. Then she dusts the carpet and the shelves."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "My sister Zuhro sweeps the floor with a broom. Then she dusts the table and the shelves."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Баъд аз наҳорӣ ман зарфҳоро бо оби гарм ва собун мешӯям» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи forget",
-        "нодуруст C"
+        "After breakfast I wash the dishes with warm water and soap.",
+        "After dinner I wash the dishes with warm water and soap.",
+        "After breakfast I wash the dishes with cold water and soap.",
+        "After breakfast I wash the plates with warm water and soap."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "After breakfast I wash the dishes with warm water and soap."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Рӯзи шанбе мо тозакории калон мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи homework",
-        "нодуруст B"
+        "On Saturday we do the big cleaning.",
+        "On Sunday we do the big cleaning.",
+        "On Saturday we do the small cleaning.",
+        "On Saturday we make the big cleaning."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "On Saturday we do the big cleaning."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Модарам чадрапҳо ва кӯрпаҳоро мешӯяд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи exercise",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "My mother washes the sheets and the blankets.",
+        "My mother washes the sheets and the pillows.",
+        "My grandmother washes the sheets and the blankets.",
+        "My mother changes the sheets and the blankets."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "My mother washes the sheets and the blankets."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Падарам гилемҳоро бо мошини махсус тоза мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи text",
-        "нодуруст A"
+        "My father cleans the carpets with a special machine.",
+        "My father cleans the carpets with a special broom.",
+        "My mother cleans the carpets with a special machine.",
+        "My father washes the carpets with a special machine."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "My father cleans the carpets with a special machine."
+    },
+    {
+      "q": "«Ҳуҷраи ман ҳамеша ҷамъу ҷӯр аст — китобҳоям дар раф, либосҳоям дар шкаф ва бозичаҳоям дар қуттӣ ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My room is always tidy — my books are on the shelf, my clothes are in the wardrobe and my toys are in the box.",
+        "My room is always tidy — my books are on the table, my clothes are in the wardrobe and my toys are in the box.",
+        "My room is sometimes tidy — my books are on the shelf, my clothes are in the wardrobe and my toys are in the box.",
+        "My room is always clean — my books are on the shelf, my clothes are in the wardrobe and my toys are in the box."
+      ],
+      "answer": "My room is always tidy — my books are on the shelf, my clothes are in the wardrobe and my toys are in the box."
+    },
+    {
+      "q": "«Ҳуҷраи бародарам баъзан ноҷӯр аст — бозичаҳояш дар фарш ва китобҳояш дар зери кат ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My brother's room is sometimes untidy — his toys are on the floor and his books are under the bed.",
+        "My brother's room is always untidy — his toys are on the floor and his books are under the bed.",
+        "My sister's room is sometimes untidy — her toys are on the floor and her books are under the bed.",
+        "My brother's room is sometimes untidy — his toys are on the bed and his books are under the bed."
+      ],
+      "answer": "My brother's room is sometimes untidy — his toys are on the floor and his books are under the bed."
+    },
+    {
+      "q": "«Аммо мо ҳамеша ба ӯ кӯмак мекунем, ки ҳама чизро дар ҷои худ гузорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "But we always help him to put everything in its place.",
+        "But we sometimes help him to put everything in its place.",
+        "And we always help him to put everything in its place.",
+        "But we always help her to put everything in its place."
+      ],
+      "answer": "But we always help him to put everything in its place."
+    },
+    {
+      "q": "«Бегоҳ ман гулҳоро дар хонаи мо об медиҳам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In the evening I water the flowers in our flat.",
+        "In the morning I water the flowers in our flat.",
+        "In the evening I water the flowers in our garden.",
+        "In the evening I water the trees in our flat."
+      ],
+      "answer": "In the evening I water the flowers in our flat."
+    },
+    {
+      "q": "«Мо дар тирезаҳо гулҳои зебои зиёд дорем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We have many beautiful flowers on the windowsills.",
+        "We have many beautiful flowers in the garden.",
+        "We have many beautiful flowers on the table.",
+        "We have many good flowers on the windowsills."
+      ],
+      "answer": "We have many beautiful flowers on the windowsills."
+    },
+    {
+      "q": "«Бибиам ин гулҳоро ба мо додааст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandmother gave us these flowers.",
+        "My grandmother gave them these flowers.",
+        "My mother gave us these flowers.",
+        "My grandmother brought us these flowers."
+      ],
+      "answer": "My grandmother gave us these flowers."
+    },
+    {
+      "q": "«Ӯ мегӯяд: \"Гулҳо хонаро зебо ва хушбахт мекунанд.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "She says: \"Flowers make a house beautiful and happy.\"",
+        "He says: \"Flowers make a house beautiful and happy.\"",
+        "She says: \"Flowers make a house beautiful and clean.\"",
+        "She says: \"Flowers make a room beautiful and happy.\""
+      ],
+      "answer": "She says: \"Flowers make a house beautiful and happy.\""
+    },
+    {
+      "q": "«Баъд аз он ман ба гурбаи мо хӯрок медиҳам. Номи ӯ Мушук аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "After that I feed our cat. Her name is Mushuk.",
+        "After that I feed our cat. His name is Mushuk.",
+        "After that I feed our dog. Her name is Mushuk.",
+        "After that I feed our cat. Her name is Mushuk."
+      ],
+      "answer": "After that I feed our cat. Her name is Mushuk."
+    },
+    {
+      "q": "«Ӯ хеле меҳрубон ва зирак аст. Ӯ шир ва моҳӣ дӯст медорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "She is very kind and clever. She likes milk and fish.",
+        "She is very kind and clever. She likes milk and meat.",
+        "He is very kind and clever. He likes milk and fish.",
+        "She is very kind and clever. She likes water and fish."
+      ],
+      "answer": "She is very kind and clever. She likes milk and fish."
+    },
+    {
+      "q": "«Вақте ки ман барои иҷрои вазифаи хонагӣ менишинам, ӯ дар назди ман менишинад ва мехобад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I sit down to do my homework, she sits near me and sleeps.",
+        "When I sit down to do my homework, she sits near me and plays.",
+        "When I sit down to read a book, she sits near me and sleeps.",
+        "When I sit down to do my homework, he sits near me and sleeps."
+      ],
+      "answer": "When I sit down to do my homework, she sits near me and sleeps."
+    },
+    {
+      "q": "«Модарам дар идора кор мекунад ва ӯ бегоҳ аксар вақт хаста мешавад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My mother works in an office and she is often tired in the evening.",
+        "My mother works in a hospital and she is often tired in the evening.",
+        "My mother works in an office and she is sometimes tired in the evening.",
+        "My father works in an office and he is often tired in the evening."
+      ],
+      "answer": "My mother works in an office and she is often tired in the evening."
+    },
+    {
+      "q": "«Вақте ки ӯ ба хона меояд, ӯ хӯроки шом мепазад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When she comes home, she cooks dinner.",
+        "When she comes home, she makes dinner.",
+        "When he comes home, he cooks dinner.",
+        "When she comes home, she cooks lunch."
+      ],
+      "answer": "When she comes home, she cooks dinner."
+    },
+    {
+      "q": "«Падарам дар ошхона ба ӯ кӯмак мекунад. Ӯ картошкаро тоза мекунад ва нонро мебурад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father helps her in the kitchen. He peels the potatoes and cuts the bread.",
+        "My father helps her in the kitchen. He peels the potatoes and cuts the meat.",
+        "My father helps him in the kitchen. He peels the potatoes and cuts the bread.",
+        "My father helps her in the kitchen. She peels the potatoes and cuts the bread."
+      ],
+      "answer": "My father helps her in the kitchen. He peels the potatoes and cuts the bread."
+    },
+    {
+      "q": "«Зуҳро ва ман мизро омода мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Zuhro and I set the table.",
+        "Zuhro and I make the table.",
+        "Zuhro and I clean the table.",
+        "Zuhro and my brother set the table."
+      ],
+      "answer": "Zuhro and I set the table."
+    },
+    {
+      "q": "«Мо табақҳо, қошуқҳо, чангакҳо, кордҳо ва пиёлаҳоро ба миз мегузорем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We put the plates, the spoons, the forks, the knives and the cups on the table.",
+        "We put the plates, the spoons, the forks, the knives and the cups on the desk.",
+        "We put the dishes, the spoons, the forks, the knives and the cups on the table.",
+        "We put the plates, the spoons, the forks, the knives and the glasses on the table."
+      ],
+      "answer": "We put the plates, the spoons, the forks, the knives and the cups on the table."
+    },
+    {
+      "q": "«Мо инчунин нон, панир ва меваҳоро ба миз мегузорем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We also put bread, cheese and fruit on the table.",
+        "We also put bread, butter and fruit on the table.",
+        "We also put bread, cheese and vegetables on the table.",
+        "We also put bread, cheese and fruits on the table."
+      ],
+      "answer": "We also put bread, cheese and fruit on the table."
+    },
+    {
+      "q": "«Хеле хуш аст, вақте ки тамоми оила дар як миз якҷоя менишинад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It is very nice when the whole family sits together at one table.",
+        "It is very good when the whole family sits together at one table.",
+        "It is very nice when the whole family sits together at the table.",
+        "It is very nice when all the family sits together at one table."
+      ],
+      "answer": "It is very nice when the whole family sits together at one table."
+    },
+    {
+      "q": "«Баъд аз хӯроки шом ман ба модарам зарфҳоро шустан кӯмак мекунам. Ӯ мешӯяд ва ман онҳоро хушк мекунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "After dinner I help my mother to wash the dishes. She washes and I dry them.",
+        "After lunch I help my mother to wash the dishes. She washes and I dry them.",
+        "After dinner I help my mother to wash the dishes. She washes and I clean them.",
+        "After dinner I help my mother to wash the plates. She washes and I dry them."
+      ],
+      "answer": "After dinner I help my mother to wash the dishes. She washes and I dry them."
+    },
+    {
+      "q": "«Баъд ман ахлотро берун мебарорам ва онро ба сабади калони назди хона мегузорам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Then I take out the rubbish and put it in the big bin near the house.",
+        "Then I take out the rubbish and put it in the big bin near the door.",
+        "Then I take out the rubbish and put it in the small bin near the house.",
+        "Then I put out the rubbish and put it in the big bin near the house."
+      ],
+      "answer": "Then I take out the rubbish and put it in the big bin near the house."
+    },
+    {
+      "q": "«Падарам мегӯяд: \"Хонаи ҷамъу ҷӯр — хонаи хушбахтӣ аст. Ҳар як кӯдак бояд ба волидонаш кӯмак кунад.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father says: \"A tidy house is a happy house. Every child must help his parents.\"",
+        "My father says: \"A clean house is a happy house. Every child must help his parents.\"",
+        "My mother says: \"A tidy house is a happy house. Every child must help his parents.\"",
+        "My father says: \"A tidy house is a happy house. Every child must help his mother.\""
+      ],
+      "answer": "My father says: \"A tidy house is a happy house. Every child must help his parents.\""
+    },
+    {
+      "q": "«Ман оилаамро хеле дӯст медорам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I love my family very much.",
+        "I love my mother very much.",
+        "I like my family very much.",
+        "I love my house very much."
+      ],
+      "answer": "I love my family very much."
+    },
+    {
+      "q": "«Ман мехоҳам ҳар рӯз ба волидонам кӯмак кунам, на танҳо рӯзи шанбе» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to help my parents every day, not only on Saturday.",
+        "I want to help my parents every day, not only on Sunday.",
+        "I want to help my parents every morning, not only on Saturday.",
+        "I want to help my mother every day, not only on Saturday."
+      ],
+      "answer": "I want to help my parents every day, not only on Saturday."
+    },
+    {
+      "q": "«Ман мехоҳам хонаи моро ҷои хушбахтӣ созам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to make our home a happy place.",
+        "I want to make our house a happy place.",
+        "I want to make our home a beautiful place.",
+        "I want to make our flat a happy place."
+      ],
+      "answer": "I want to make our home a happy place."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам оилаи худро дошта бошам ва ба кӯдаконам кӯмак кардан ба волидонашонро омӯзонам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to have my own family and teach my children to help their parents too.",
+        "When I grow up, I want to have my own family and teach my children to help their mother too.",
+        "When I grow up, I want to have a big family and teach my children to help their parents too.",
+        "When I grow up, I want to have my own family and teach my pupils to help their parents too."
+      ],
+      "answer": "When I grow up, I want to have my own family and teach my children to help their parents too."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 27
+  "wordsCount": 16
 }
