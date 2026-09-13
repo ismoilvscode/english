@@ -340,7 +340,7 @@ function fallbackSpeak(text) {
 }
 
 // ============================================
-// LOAD LESSON
+// LOAD LESSON  (ИСЛОҲ ШУД)
 // ============================================
 let ALL_LESSONS = null;
 
@@ -351,7 +351,7 @@ async function loadLesson() {
     return;
   }
 
-  // 2. 🆕 Қулфи Premium — барои дарсҳои 4+
+  // 2. Қулфи Premium — барои дарсҳои 4+
   if (!FREE_LESSONS.includes(LESSON_ID) && !isPremiumActive()) {
     showPremiumLockedScreen();
     return;
@@ -359,22 +359,31 @@ async function loadLesson() {
 
   // 3. Боркунии дарс
   try {
-    if (!ALL_LESSONS) {
-      const r = await fetch('data/lessons.json');
-      if (!r.ok) throw new Error('lessons.json ёфт нашуд');
-      const data = await r.json();
-      ALL_LESSONS = data.lessons || {};
+    // ✅ АВВАЛ — аз файли алоҳидаи дарс
+    try {
+      const r = await fetch(`data/lessons/lesson-${LESSON_ID}.json`);
+      if (r.ok) {
+        lessonData = await r.json();
+        console.log('✅ Аз файли алоҳида бор шуд: lesson-' + LESSON_ID + '.json');
+      }
+    } catch (e) {
+      console.warn('Файли алоҳида ёфт нашуд, аз lessons.json мегирем');
     }
 
-    lessonData = ALL_LESSONS[LESSON_ID];
-
+    // ✅ АГАР НАБОШАД — аз lessons.json
     if (!lessonData) {
-      const r2 = await fetch(`data/lessons/lesson-${LESSON_ID}.json`);
-      if (!r2.ok) throw new Error('Дарс ёфт нашуд');
-      lessonData = await r2.json();
+      if (!ALL_LESSONS) {
+        const r = await fetch('data/lessons.json');
+        if (!r.ok) throw new Error('lessons.json ёфт нашуд');
+        const data = await r.json();
+        ALL_LESSONS = data.lessons || {};
+      }
+      lessonData = ALL_LESSONS[LESSON_ID];
     }
 
-    // Уникалӣ
+    if (!lessonData) throw new Error('Дарс ёфт нашуд');
+
+    // Уникалӣ — калимаҳои такрорӣ нест кунем
     const uniqueWords = [];
     const seen = new Set();
     (lessonData.words || []).forEach(w => {
@@ -489,30 +498,49 @@ function startTestFromModal() {
 }
 
 // ============================================
-// TEST
+// TEST — ИСЛОҲ ШУД ✅
+// Асосан аз ДАРСИ ҶОРӢ, каме аз 5 дарси охирин
 // ============================================
 async function startTest() {
   try {
-    if (!ALL_LESSONS) {
-      const r = await fetch('data/lessons.json');
-      const data = await r.json();
-      ALL_LESSONS = data.lessons || {};
+    // ========================================
+    // 1. АВВАЛ — exercises-и ДАРСИ ҶОРӢ
+    // ========================================
+    let currentLessonExercises = [];
+
+    if (lessonData && Array.isArray(lessonData.exercises) && lessonData.exercises.length > 0) {
+      currentLessonExercises = lessonData.exercises.map(ex => ({
+        ...ex,
+        lessonId: LESSON_ID
+      }));
+      console.log(`✅ Аз дарси ҷорӣ (${LESSON_ID}): ${currentLessonExercises.length} савол`);
     }
 
-    // 1. Аз ҳамаи дарсҳо то ҳозир — exercises ҷамъ мекунем
-    const allExercises = [];
-    for (let id = 1; id <= LESSON_ID; id++) {
-      const lesson = ALL_LESSONS[id];
-      if (!lesson) continue;
-      (lesson.exercises || []).forEach(ex => {
-        allExercises.push({ ...ex, lessonId: id });
-      });
+    // Агар дарси ҷорӣ exercises надошта бошад — аз файли алоҳида бор кунем
+    if (currentLessonExercises.length === 0) {
+      try {
+        const r = await fetch(`data/lessons/lesson-${LESSON_ID}.json`);
+        if (r.ok) {
+          const data = await r.json();
+          if (Array.isArray(data.exercises) && data.exercises.length > 0) {
+            currentLessonExercises = data.exercises.map(ex => ({
+              ...ex,
+              lessonId: LESSON_ID
+            }));
+            console.log(`✅ Аз файли алоҳида (${LESSON_ID}): ${currentLessonExercises.length} савол`);
+          }
+        }
+      } catch (e) {
+        console.warn('Lesson file not found:', e);
+      }
     }
 
-    // 2. Агар exercises набошад — аз words автоматикӣ месозем
-    if (allExercises.length === 0) {
+    // ========================================
+    // 2. Агар ҳоло ҳам холӣ — аз КАЛИМАҲОИ ДАРСИ ҶОРӢ созем
+    // ========================================
+    if (currentLessonExercises.length === 0 && lessonData && Array.isArray(lessonData.words)) {
+      console.log('⚠️ Аз калимаҳои дарси ҷорӣ саволҳо месозем');
       lessonData.words.forEach(w => {
-        // Options: ҷавоби дуруст + 3 нодуруст аз калимаҳои дигар
         const wrongOptions = lessonData.words
           .filter(x => x.tj !== w.tj)
           .slice(0, 3)
@@ -522,7 +550,7 @@ async function startTest() {
           wrongOptions.push('нодуруст ' + (wrongOptions.length + 1));
         }
 
-        allExercises.push({
+        currentLessonExercises.push({
           q: `'${w.en}' чи маъно дорад?`,
           options: [w.tj, ...wrongOptions],
           answer: w.tj,
@@ -531,19 +559,82 @@ async function startTest() {
       });
     }
 
-    if (allExercises.length === 0) {
+    if (currentLessonExercises.length === 0) {
       showResult(100, 0, 0);
       return;
     }
 
+    // ========================================
     // 3. Миқдори саволҳо
+    // ========================================
     const questionCount = LESSON_ID === 1 ? 5
                         : LESSON_ID === 2 ? 8
                         : LESSON_ID === 3 ? 10
                         : 15;
 
-    const shuffled = shuffleArray([...allExercises]);
-    testQuestions = shuffled.slice(0, Math.min(questionCount, shuffled.length));
+    // ========================================
+    // 4. АСОСАН аз дарси ҷорӣ — ҳадди ақал 80%
+    // ========================================
+    const shuffledCurrent = shuffleArray([...currentLessonExercises]);
+
+    // Ҳадди ақал 80% аз дарси ҷорӣ, аммо на бештар аз он чӣ ҳаст
+    const minFromCurrent = Math.ceil(questionCount * 0.8);
+    const mainCount = Math.min(minFromCurrent, shuffledCurrent.length);
+
+    let selectedQuestions = shuffledCurrent.slice(0, mainCount);
+    console.log(`📚 Аз дарси ҷорӣ интихоб шуд: ${selectedQuestions.length} савол`);
+
+    // ========================================
+    // 5. Агар кам бошад — аз 5 дарси ОХИРИН илова кунем
+    // ========================================
+    if (selectedQuestions.length < questionCount) {
+      const previousExercises = [];
+      const startFrom = Math.max(1, LESSON_ID - 5);
+
+      console.log(`🔎 Аз дарсҳои ${startFrom} то ${LESSON_ID - 1} саволҳо меҷӯем...`);
+
+      for (let id = startFrom; id < LESSON_ID; id++) {
+        let lesson = ALL_LESSONS?.[id];
+
+        // Агар дар ALL_LESSONS набошад — аз файли алоҳида бор кунем
+        if (!lesson) {
+          try {
+            const r = await fetch(`data/lessons/lesson-${id}.json`);
+            if (r.ok) {
+              lesson = await r.json();
+            }
+          } catch (e) { /* ignore */ }
+        }
+
+        if (lesson && Array.isArray(lesson.exercises)) {
+          lesson.exercises.forEach(ex => {
+            previousExercises.push({ ...ex, lessonId: id });
+          });
+        }
+      }
+
+      console.log(`📚 Аз дарсҳои қаблӣ: ${previousExercises.length} савол`);
+
+      const shuffledPrev = shuffleArray(previousExercises);
+      const needed = questionCount - selectedQuestions.length;
+
+      selectedQuestions = [
+        ...selectedQuestions,
+        ...shuffledPrev.slice(0, needed)
+      ];
+    }
+
+    // ========================================
+    // 6. Омехтани ниҳоӣ
+    // ========================================
+    testQuestions = shuffleArray(selectedQuestions);
+
+    if (testQuestions.length === 0) {
+      showResult(100, 0, 0);
+      return;
+    }
+
+    console.log(`✅ Ҳамагӣ ${testQuestions.length} савол барои тест`);
 
     testIdx = 0;
     testAnswers = [];
