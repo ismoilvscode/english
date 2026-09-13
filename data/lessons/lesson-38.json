@@ -1,760 +1,680 @@
 {
-  "id": 37,
-  "title": "Матн 37: Интернет ва технология дар ҳаёти мо",
+  "id": 38,
+  "title": "Матн 38: Нақлиёт ва сафар",
   "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "internet",
-      "tj": "интернет",
-      "ex": "The internet helps us learn new things."
+      "en": "transport",
+      "tj": "нақлиёт",
+      "ex": "There are many kinds of transport in our city."
     },
     {
-      "en": "website",
-      "tj": "сомона",
-      "ex": "I visit an interesting website every day."
+      "en": "tram",
+      "tj": "трамвай",
+      "ex": "The tram goes along the street."
     },
     {
-      "en": "email",
-      "tj": "почтаи электронӣ",
-      "ex": "I send an email to my teacher."
+      "en": "trolleybus",
+      "tj": "троллейбус",
+      "ex": "The trolleybus is slow but clean."
     },
     {
-      "en": "message",
-      "tj": "паём",
-      "ex": "My friend sends me a message on the phone."
+      "en": "underground",
+      "tj": "метро",
+      "ex": "The underground is very fast."
     },
     {
-      "en": "screen",
-      "tj": "экран",
-      "ex": "The screen of my computer is big."
+      "en": "taxi",
+      "tj": "такси",
+      "ex": "We take a taxi when we are late."
     },
     {
-      "en": "to click",
-      "tj": "пахш кардан",
-      "ex": "Click here to open the website."
+      "en": "helicopter",
+      "tj": "чархбол",
+      "ex": "The helicopter flies over the mountains."
     },
     {
-      "en": "to search",
-      "tj": "ҷустуҷӯ кардан",
-      "ex": "I search for new words on the internet."
+      "en": "rocket",
+      "tj": "ракета",
+      "ex": "A rocket flies into space."
     },
     {
-      "en": "password",
-      "tj": "рамз",
-      "ex": "My password is a secret."
+      "en": "motorcycle",
+      "tj": "мотосикл",
+      "ex": "My uncle rides a motorcycle."
     },
     {
-      "en": "online",
-      "tj": "онлайн",
-      "ex": "We have online lessons in winter."
+      "en": "truck",
+      "tj": "мошини боркаш",
+      "ex": "The truck carries heavy things."
     },
     {
-      "en": "offline",
-      "tj": "офлайн",
-      "ex": "I read books offline."
+      "en": "to ride",
+      "tj": "савор шудан",
+      "ex": "I ride my bicycle to school."
     },
     {
-      "en": "to print",
-      "tj": "чоп кардан",
-      "ex": "I print my homework for school."
+      "en": "to drive",
+      "tj": "рондан",
+      "ex": "My father drives a car very well."
     },
     {
-      "en": "printer",
-      "tj": "принтер",
-      "ex": "Our printer is new and fast."
+      "en": "to fly",
+      "tj": "парвоз кардан",
+      "ex": "Planes fly high in the sky."
     },
     {
-      "en": "to save",
-      "tj": "нигоҳ доштан",
-      "ex": "Save your file before you close it."
+      "en": "to take off",
+      "tj": "баромадан (тайёра)",
+      "ex": "The plane takes off at nine o'clock."
     },
     {
-      "en": "file",
-      "tj": "файл",
-      "ex": "This file has many photos."
+      "en": "to land",
+      "tj": "фуруд омадан",
+      "ex": "The plane lands at the airport."
     },
     {
-      "en": "folder",
-      "tj": "папка",
-      "ex": "I put my files in the folder."
+      "en": "timetable",
+      "tj": "ҷадвали ҳаракат",
+      "ex": "I look at the timetable at the station."
     },
     {
-      "en": "technology",
-      "tj": "технология",
-      "ex": "Technology changes our life every day."
+      "en": "route",
+      "tj": "масир",
+      "ex": "This bus route goes to the centre."
     }
   ],
   "phrases": [
     {
-      "en": "The internet helps us learn new things every day.",
-      "tj": "Интернет ҳар рӯз ба мо чизҳои нав омӯхтан кӯмак мекунад."
+      "en": "There are many kinds of transport in our city.",
+      "tj": "Дар шаҳри мо нақлиёти зиёд ҳаст."
     },
     {
-      "en": "I visit an interesting website about animals.",
-      "tj": "Ман ҳар рӯз ба сомонаи ҷолиб дар бораи ҳайвонот медароям."
+      "en": "The tram goes along the street to the centre.",
+      "tj": "Трамвай дар кӯча ба марказ меравад."
     },
     {
-      "en": "I send an email to my teacher every week.",
-      "tj": "Ман ҳар ҳафта ба муаллимам почтаи электронӣ мефиристам."
+      "en": "The trolleybus is slow but clean.",
+      "tj": "Троллейбус оҳиста аст, аммо тоза."
     },
     {
-      "en": "My friend sends me a message on the phone.",
-      "tj": "Дӯсти ман ба ман дар телефон паём мефиристад."
+      "en": "The underground is very fast and clean.",
+      "tj": "Метро хеле тез ва тоза аст."
     },
     {
-      "en": "The screen of my computer is big and clean.",
-      "tj": "Экрани компютери ман калон ва тоза аст."
+      "en": "We take a taxi when we are late.",
+      "tj": "Мо вақте ки дер мекунем, такси мегирем."
     },
     {
-      "en": "Click here to open the website.",
-      "tj": "Барои кушодани сомона ин ҷоро пахш кунед."
+      "en": "The helicopter flies over the high mountains.",
+      "tj": "Чархбол аз болои кӯҳҳои баланд парвоз мекунад."
     },
     {
-      "en": "I search for new words on the internet.",
-      "tj": "Ман дар интернет калимаҳои навро ҷустуҷӯ мекунам."
+      "en": "A rocket flies into space.",
+      "tj": "Ракета ба кайҳон парвоз мекунад."
     },
     {
-      "en": "My password is a secret and I never tell it to anyone.",
-      "tj": "Рамзи ман сирр аст ва ман онро ҳеҷ гоҳ ба касе намегӯям."
+      "en": "My uncle rides a motorcycle to work.",
+      "tj": "Амакам бо мотосикл ба кор меравад."
     },
     {
-      "en": "We have online lessons in winter.",
-      "tj": "Мо дар зимистон дарсҳои онлайн дорем."
+      "en": "The truck carries heavy things to the shop.",
+      "tj": "Мошини боркаш чизҳои вазнинро ба дукон мебарад."
     },
     {
-      "en": "I read books offline in the evening.",
-      "tj": "Ман бегоҳ китобҳоро офлайн мехонам."
+      "en": "I ride my bicycle to school every morning.",
+      "tj": "Ман ҳар субҳ бо дучарха ба мактаб меравам."
     },
     {
-      "en": "I print my homework for school.",
-      "tj": "Ман вазифаи хонагиамро барои мактаб чоп мекунам."
+      "en": "My father drives a car very well.",
+      "tj": "Падарам мошинро хеле хуб меронад."
     },
     {
-      "en": "Our printer is new and very fast.",
-      "tj": "Принтери мо нав ва хеле тез аст."
+      "en": "Planes fly high in the blue sky.",
+      "tj": "Тайёраҳо дар осмони кабуд баланд парвоз мекунанд."
     },
     {
-      "en": "Save your file before you close it.",
-      "tj": "Файлатро пеш аз пӯшидан нигоҳ дор."
+      "en": "The plane takes off at nine o'clock in the morning.",
+      "tj": "Тайёра субҳ соати нӯҳ баромад мекунад."
     },
     {
-      "en": "This file has many photos of my family.",
-      "tj": "Ин файл аксҳои зиёди оилаи маро дорад."
+      "en": "The plane lands at the airport in the evening.",
+      "tj": "Тайёра бегоҳ дар фурудгоҳ фуруд меояд."
     },
     {
-      "en": "I put my files in the folder.",
-      "tj": "Ман файлҳоямро ба папка мегузорам."
+      "en": "I look at the timetable at the station.",
+      "tj": "Ман дар истгоҳ ба ҷадвали ҳаракат нигоҳ мекунам."
     },
     {
-      "en": "Technology changes our life every day.",
-      "tj": "Технология ҳар рӯз ҳаёти моро тағйир медиҳад."
+      "en": "This bus route goes to the centre of the city.",
+      "tj": "Ин масири автобус ба маркази шаҳр меравад."
     }
   ],
   "text": {
-    "en": "The Internet and Technology in Our Life\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe. In our flat we have a computer, a laptop, two phones and a printer. My father works with the computer at his office. My mother uses the internet every day. My sister Zuhro studies online in winter. And I like technology very much.\n\nTechnology is very useful in our life. It helps us learn new things, talk to our friends and find interesting information. The internet is a very big library. On the internet we can read books, watch videos, listen to music and search for new words. When I do not understand an English word, I search for it on the internet and find its translation. My teacher says: \"The internet is a good teacher, but you must use it carefully.\"\n\nEvery day I use my father's computer. First I turn it on and wait for the screen. Then I open a website about animals or nature. I read texts and look at beautiful photos of wild animals — the snow leopard, the brown bear and the eagle. I save my favourite photos in a special folder. When I want to send a photo to my friend Farid, I click the button \"send\" and my message goes to his phone. It is very quick and easy.\n\nMy mother has an email. She sends emails to her colleagues at work. She writes letters to her sister in Russia. My sister Zuhro studies at the university and she often does her homework online. She has an account on a special website. She has a password — she never tells her password to anyone. My father says: \"A password is a secret. Never give your password to other people!\"\n\nIn winter, when it is very cold and snowy, our school sometimes has online lessons. Our teacher opens a website, and we see her on the screen of our computer. We listen to her, answer her questions and write exercises in our notebooks. It is very interesting! We can study at home and it is safe.\n\nSometimes I want to print a text or a photo. I click the button \"print\", and the printer prints my file on paper. My mother also prints some documents for her work. Our printer is new and very fast.\n\nThe internet has good sides and bad sides. Good sides: we learn a lot, we talk to our friends, we read books and we find answers to our questions. Bad sides: some children play computer games all day and do not do their homework. Some children look at bad websites. Some children tell their passwords to other people and lose their accounts. We must be careful online.\n\nMy parents say: \"Use the computer for one hour a day, not more. Do not forget about books, sport and your family. The computer is our helper, not our master.\"\n\nI love technology. When I grow up, I want to be a programmer like my cousin. I want to make new websites and new computer programmes. I want to help my school and my country. But I also want to remember the words of my father: \"The computer is our helper, not our master. Books, sport and family are the most important things in our life.\"",
-    "tj": "Интернет ва технология дар ҳаёти мо\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе зиндагӣ мекунам. Дар хонаи мо компютер, лаптоп, ду телефон ва принтер ҳастанд. Падарам дар идорааш бо компютер кор мекунад. Модарам ҳар рӯз интернетро истифода мебарад. Хоҳарам Зуҳро дар зимистон онлайн таҳсил мекунад. Ва ман технологияро хеле дӯст медорам.\n\nТехнология дар ҳаёти мо хеле фоиданок аст. Он ба мо чизҳои нав омӯхтан, бо дӯстонамон сӯҳбат кардан ва маълумоти ҷолиб ёфтан кӯмак мекунад. Интернет китобхонаи хеле калон аст. Дар интернет мо метавонем китобҳо хонем, видео тамошо кунем, мусиқӣ гӯш кунем ва калимаҳои нав ҷустуҷӯ кунем. Вақте ки ман калимаи англисиро намефаҳмам, ман онро дар интернет ҷустуҷӯ мекунам ва тарҷумаи онро меёбам. Муаллимам мегӯяд: «Интернет муаллими хуб аст, аммо ту бояд онро бодиққат истифода барӣ.»\n\nҲар рӯз ман компютери падарамро истифода мебарам. Аввал ман онро равшан мекунам ва ба экран интизор мешавам. Баъд ман сомонае дар бораи ҳайвонот ё табиат мекушоям. Ман матнҳо мехонам ва ба аксҳои зебои ҳайвоноти ваҳшӣ нигоҳ мекунам — барфпланг, хирси қаҳваранг ва уқоб. Ман аксҳои дӯстдоштаи худро дар папкаи махсус нигоҳ медорам. Вақте ки ман мехоҳам аксеро ба дӯстам Фарид фиристам, ман тугмаи «фиристодан»-ро пахш мекунам ва паёми ман ба телефони ӯ меравад. Ин хеле зуд ва осон аст.\n\nМодарам почтаи электронӣ дорад. Ӯ ба ҳамкасбони худ дар кор почтаи электронӣ мефиристад. Ӯ ба хоҳараш дар Русия мактубҳо менависад. Хоҳарам Зуҳро дар донишгоҳ таҳсил мекунад ва ӯ аксар вақт вазифаи хонагиашро онлайн иҷро мекунад. Ӯ дар сомонаи махсус ҳисоб дорад. Ӯ рамз дорад — ӯ ҳеҷ гоҳ рамзашро ба касе намегӯяд. Падарам мегӯяд: «Рамз сирр аст. Ҳеҷ гоҳ рамзи худро ба одамони дигар надиҳед!»\n\nДар зимистон, вақте ки хеле хунук ва барфнок аст, мактаби мо баъзан дарсҳои онлайн дорад. Муаллимаи мо сомонаро мекушояд ва мо ӯро дар экрани компютери худ мебинем. Мо ба ӯ гӯш мекунем, ба саволҳояш ҷавоб медиҳем ва машқҳоро дар дафтарҳоямон менависем. Ин хеле ҷолиб аст! Мо метавонем дар хона таҳсил кунем ва ин бехатар аст.\n\nБаъзан ман мехоҳам матн ё акс чоп кунам. Ман тугмаи «чоп»-ро пахш мекунам ва принтер файли маро дар коғаз чоп мекунад. Модарам инчунин баъзе ҳуҷҷатҳоро барои кори худ чоп мекунад. Принтери мо нав ва хеле тез аст.\n\nИнтернет тарафҳои хуб ва тарафҳои бад дорад. Тарафҳои хуб: мо бисёр чизҳоро меомӯзем, бо дӯстонамон сӯҳбат мекунем, китобҳо мехонем ва ба саволҳои худ ҷавоб меёбем. Тарафҳои бад: баъзе кӯдакон тамоми рӯз бозиҳои компютериро бозӣ мекунанд ва вазифаи хонагиашонро иҷро намекунанд. Баъзе кӯдакон ба сомонаҳои бад нигоҳ мекунанд. Баъзе кӯдакон рамзи худро ба одамони дигар мегӯянд ва ҳисоби худро гум мекунанд. Мо бояд онлайн бодиққат бошем.\n\nВолидонам мегӯянд: «Компютерро як соат дар як рӯз истифода бар, на бештар. Дар бораи китобҳо, варзиш ва оилаат фаромӯш накун. Компютер ёвари мост, на хоҷаи мо.»\n\nМан технологияро дӯст медорам. Вақте ки ман калон мешавам, ман мехоҳам барномасоз шавам, ба мисли амакбачаам. Ман мехоҳам сомонаҳои нав ва барномаҳои нави компютерӣ созам. Ман мехоҳам ба мактабам ва кишварам кӯмак кунам. Аммо ман инчунин мехоҳам суханони падарамро ба ёд дорам: «Компютер ёвари мост, на хоҷаи мо. Китобҳо, варзиш ва оила муҳимтарин чизҳо дар ҳаёти мо ҳастанд.»"
+    "en": "Transport and Travel\n\nMy name is Ismoil. I live in Dushanbe. Every day I see many kinds of transport in the streets of our city: cars, buses, trolleybuses, taxis, motorcycles and bicycles. Some people go to work on foot, some go by bus, and some go by car. Transport is very important in our life. It helps people move from one place to another quickly.\n\nMy father has a car. He drives very well. He goes to work by car every morning. My mother does not drive. She goes to her office by bus. The bus stops near our house. My sister Zuhro goes to the university by trolleybus. The trolleybus is slow, but it is clean and cheap. I ride my bicycle to school. I like my bicycle very much. It is red and new. When the weather is bad, I go to school by bus with my friend Farid.\n\nIn big cities like Moscow or London there is an underground — the metro. The underground is very fast. Trains go under the ground all day and all night. Millions of people use the metro every day. My uncle lives in Moscow. He says: \"The metro is the best transport in the big city. It is fast, cheap and always on time.\"\n\nWhen we want to go to the village, we take a bus or my father's car. We drive past fields, forests and small villages. My little brother likes to look out of the window. He sees cows, sheep and horses in the fields. He says: \"Look! A big white horse!\" The route to the village is very beautiful.\n\nSometimes we travel by plane. Last summer we flew to Khujand. The plane took off at nine o'clock in the morning and landed at ten o'clock. We were at the airport at eight o'clock. My father showed our passports and tickets. My mother took our luggage. We got on the plane and sat down near the window. The plane flew high in the sky. We could see the mountains and the rivers of our country from above. It was very beautiful!\n\nThere are also helicopters and rockets. Helicopters fly over the mountains and help people in far villages. They bring food and medicine to sick people. Rockets fly into space. They take people and satellites into the sky. Astronauts travel by rocket. It is a very dangerous but interesting job.\n\nAt the train station we can see a big timetable. It shows when the trains come and when they go. The train is a very good transport for a long journey. It is not as fast as a plane, but it is comfortable. You can sleep, read a book or look out of the window.\n\nEvery kind of transport is good in its own way. Bicycles are good for short trips and for our health. Buses are good for many people at once. Cars are fast and comfortable. Trains are good for long journeys. Planes are the fastest. Rockets take us into space.\n\nWhen I grow up, I want to be a pilot. I want to fly planes to different countries. I want to see the whole world and meet many people. But most of all I want to come home to my family and my beautiful city Dushanbe.",
+    "tj": "Нақлиёт ва сафар\n\nНоми ман Исмоил аст. Ман дар Душанбе зиндагӣ мекунам. Ҳар рӯз ман дар кӯчаҳои шаҳри мо нақлиёти зиёдро мебинам: мошинҳо, автобусҳо, троллейбусҳо, таксиҳо, мотосиклҳо ва дучархаҳо. Баъзе одамон пиёда ба кор мераванд, баъзе бо автобус мераванд ва баъзе бо мошин мераванд. Нақлиёт дар ҳаёти мо хеле муҳим аст. Он ба одамон кӯмак мекунад, ки зуд аз як ҷо ба ҷои дигар гузаранд.\n\nПадари ман мошин дорад. Ӯ хеле хуб меронад. Ӯ ҳар субҳ бо мошин ба кор меравад. Модарам ронандагӣ намекунад. Ӯ бо автобус ба идорааш меравад. Автобус дар назди хонаи мо меистад. Хоҳарам Зуҳро бо троллейбус ба донишгоҳ меравад. Троллейбус оҳиста аст, аммо тоза ва арзон аст. Ман бо дучарха ба мактаб меравам. Ман дучархаамро хеле дӯст медорам. Он сурх ва нав аст. Вақте ки обу ҳаво бад аст, ман бо дӯстам Фарид бо автобус ба мактаб меравам.\n\nДар шаҳрҳои калон ба мисли Маскав ё Лондон метро ҳаст. Метро хеле тез аст. Қатораҳо тамоми рӯз ва тамоми шаб дар зери замин мераванд. Ҳар рӯз миллионҳо одамон метроро истифода мебаранд. Амакам дар Маскав зиндагӣ мекунад. Ӯ мегӯяд: «Метро беҳтарин нақлиёт дар шаҳри калон аст. Он тез, арзон ва ҳамеша сари вақт аст.»\n\nВақте ки мо мехоҳем ба деҳа равем, мо автобус ё мошини падарамро мегирем. Мо аз паҳлӯи киштзорҳо, ҷангалҳо ва деҳаҳои хурд мегузарем. Бародари хурдии ман аз тиреза нигоҳ карданро дӯст медорад. Ӯ дар киштзорҳо говҳо, гӯсфандҳо ва аспҳоро мебинад. Ӯ мегӯяд: «Нигоҳ кун! Аспи калони сафед!» Масир ба деҳа хеле зебо аст.\n\nБаъзан мо бо тайёра сафар мекунем. Тобистони гузашта мо ба Хуҷанд парвоз кардем. Тайёра субҳ соати нӯҳ баромад кард ва соати даҳ фуруд омад. Мо соати ҳашт дар фурудгоҳ будем. Падарам шиносномаҳо ва чиптаҳои моро нишон дод. Модарам бори моро гирифт. Мо ба тайёра савор шудем ва дар назди тиреза нишастем. Тайёра дар осмон баланд парвоз кард. Мо аз боло кӯҳҳо ва дарёҳои кишварамонро дида метавонистем. Ин хеле зебо буд!\n\nИнчунин чархболҳо ва ракетаҳо ҳастанд. Чархболҳо аз болои кӯҳҳо парвоз мекунанд ва ба одамон дар деҳаҳои дур кӯмак мекунанд. Онҳо ба беморон ғизо ва дору меоранд. Ракетаҳо ба кайҳон парвоз мекунанд. Онҳо одамон ва моҳвораҳоро ба осмон мебаранд. Кайҳоннавардон бо ракета сафар мекунанд. Ин кори хеле хатарнок, аммо ҷолиб аст.\n\nДар истгоҳи қатора мо ҷадвали калони ҳаракатро дида метавонем. Он нишон медиҳад, ки қатораҳо кай меоянд ва кай мераванд. Қатора барои сафари дароз нақлиёти хеле хуб аст. Он ба тезӣ ба тайёра нест, аммо бароҳат аст. Шумо метавонед хобед, китоб хонед ё аз тиреза нигоҳ кунед.\n\nҲар як нақлиёт бо роҳи худ хуб аст. Дучархаҳо барои сафарҳои кӯтоҳ ва барои саломатии мо хубанд. Автобусҳо барои одамони зиёд дар як вақт хубанд. Мошинҳо тез ва бароҳат ҳастанд. Қатораҳо барои сафарҳои дароз хубанд. Тайёраҳо тезтарин ҳастанд. Ракетаҳо моро ба кайҳон мебаранд.\n\nВақте ки ман калон мешавам, ман мехоҳам лётчик шавам. Ман мехоҳам тайёраҳоро ба кишварҳои гуногун парвоз кунам. Ман мехоҳам тамоми ҷаҳонро бинам ва бо одамони зиёд вохӯрам. Аммо аз ҳама бештар ман мехоҳам ба хона, ба оилаам ва ба шаҳри зебои Душанбеи худ баргардам."
   },
   "exercises": [
     {
-      "q": "«Интернет ҳар рӯз ба мо чизҳои нав омӯхтан кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Дар шаҳри мо нақлиёти зиёд ҳаст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "The internet helps us learn new things every day.",
-        "The internet helps us learn good things every day.",
-        "The internet helps us learn new words every day.",
-        "The internet helps them learn new things every day."
+        "There are many kinds of transport in our city.",
+        "There are many kinds of transport in our country.",
+        "There are many kinds of cars in our city.",
+        "There is much transport in our city."
       ],
-      "answer": "The internet helps us learn new things every day."
+      "answer": "There are many kinds of transport in our city."
     },
     {
-      "q": "«Ман ба сомонаи ҷолиб дар бораи ҳайвонот медароям» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Трамвай дар кӯча ба марказ меравад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "I visit an interesting website about animals.",
-        "I visit an interesting website about nature.",
-        "I visit a good website about animals.",
-        "I open an interesting website about animals."
+        "The tram goes along the street to the centre.",
+        "The tram goes along the street to the park.",
+        "The trolleybus goes along the street to the centre.",
+        "The tram goes along the road to the centre."
       ],
-      "answer": "I visit an interesting website about animals."
+      "answer": "The tram goes along the street to the centre."
     },
     {
-      "q": "«Ман ҳар ҳафта ба муаллимам почтаи электронӣ мефиристам» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Троллейбус оҳиста аст, аммо тоза» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "I send an email to my teacher every week.",
-        "I send an email to my teacher every day.",
-        "I send a letter to my teacher every week.",
-        "I write an email to my teacher every week."
+        "The trolleybus is slow but clean.",
+        "The trolleybus is fast but clean.",
+        "The tram is slow but clean.",
+        "The trolleybus is slow but cheap."
       ],
-      "answer": "I send an email to my teacher every week."
+      "answer": "The trolleybus is slow but clean."
     },
     {
-      "q": "«Дӯсти ман ба ман дар телефон паём мефиристад» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Метро хеле тез ва тоза аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "My friend sends me a message on the phone.",
-        "My friend sends me a message on the computer.",
-        "My brother sends me a message on the phone.",
-        "My friend sends me a letter on the phone."
+        "The underground is very fast and clean.",
+        "The underground is very fast and new.",
+        "The metro is very slow and clean.",
+        "The underground is very quick and clean."
       ],
-      "answer": "My friend sends me a message on the phone."
+      "answer": "The underground is very fast and clean."
     },
     {
-      "q": "«Экрани компютери ман калон ва тоза аст» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Мо вақте ки дер мекунем, такси мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "The screen of my computer is big and clean.",
-        "The screen of my computer is big and new.",
-        "The screen of my computer is small and clean.",
-        "The screen of my laptop is big and clean."
+        "We take a taxi when we are late.",
+        "We take a taxi when we are early.",
+        "We take a bus when we are late.",
+        "We get a taxi when we are late."
       ],
-      "answer": "The screen of my computer is big and clean."
+      "answer": "We take a taxi when we are late."
     },
     {
-      "q": "«Барои кушодани сомона ин ҷоро пахш кунед» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Чархбол аз болои кӯҳҳои баланд парвоз мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "Click here to open the website.",
-        "Click there to open the website.",
-        "Click here to close the website.",
-        "Click here to save the website."
+        "The helicopter flies over the high mountains.",
+        "The helicopter flies over the high trees.",
+        "The plane flies over the high mountains.",
+        "The helicopter flies above the high mountains."
       ],
-      "answer": "Click here to open the website."
+      "answer": "The helicopter flies over the high mountains."
     },
     {
-      "q": "«Ман дар интернет калимаҳои навро ҷустуҷӯ мекунам» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Ракета ба кайҳон парвоз мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "I search for new words on the internet.",
-        "I search for new words in the internet.",
-        "I look for new words on the internet.",
-        "I search for old words on the internet."
+        "A rocket flies into space.",
+        "A rocket flies into the sky.",
+        "A helicopter flies into space.",
+        "A rocket goes into space."
       ],
-      "answer": "I search for new words on the internet."
+      "answer": "A rocket flies into space."
     },
     {
-      "q": "«Рамзи ман сирр аст ва ман онро ҳеҷ гоҳ ба касе намегӯям» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Амакам бо мотосикл ба кор меравад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "My password is a secret and I never tell it to anyone.",
-        "My password is a secret and I never tell it to my friend.",
-        "My password is a secret and I never give it to anyone.",
-        "My password is a secret and I never show it to anyone."
+        "My uncle rides a motorcycle to work.",
+        "My uncle rides a motorcycle to school.",
+        "My father rides a motorcycle to work.",
+        "My uncle drives a motorcycle to work."
       ],
-      "answer": "My password is a secret and I never tell it to anyone."
+      "answer": "My uncle rides a motorcycle to work."
     },
     {
-      "q": "«Мо дар зимистон дарсҳои онлайн дорем» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Мошини боркаш чизҳои вазнинро ба дукон мебарад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "We have online lessons in winter.",
-        "We have online lessons in spring.",
-        "We have online classes in winter.",
-        "We have online lessons in summer."
+        "The truck carries heavy things to the shop.",
+        "The truck carries heavy things to the market.",
+        "The bus carries heavy things to the shop.",
+        "The truck takes heavy things to the shop."
       ],
-      "answer": "We have online lessons in winter."
+      "answer": "The truck carries heavy things to the shop."
     },
     {
-      "q": "«Ман бегоҳ китобҳоро офлайн мехонам» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Ман ҳар субҳ бо дучарха ба мактаб меравам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "I read books offline in the evening.",
-        "I read books offline in the morning.",
-        "I read books offline at night.",
-        "I read texts offline in the evening."
+        "I ride my bicycle to school every morning.",
+        "I ride my bicycle to school every day.",
+        "I go by bicycle to school every morning.",
+        "I ride my bike to school every morning."
       ],
-      "answer": "I read books offline in the evening."
+      "answer": "I ride my bicycle to school every morning."
     },
     {
-      "q": "«Ман вазифаи хонагиамро барои мактаб чоп мекунам» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Падарам мошинро хеле хуб меронад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "I print my homework for school.",
-        "I print my homework for the school.",
-        "I print my book for school.",
-        "I write my homework for school."
+        "My father drives a car very well.",
+        "My father drives a car very good.",
+        "My father rides a car very well.",
+        "My brother drives a car very well."
       ],
-      "answer": "I print my homework for school."
+      "answer": "My father drives a car very well."
     },
     {
-      "q": "«Принтери мо нав ва хеле тез аст» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Тайёраҳо дар осмони кабуд баланд парвоз мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "Our printer is new and very fast.",
-        "Our printer is new and very good.",
-        "Our computer is new and very fast.",
-        "Our printer is old and very fast."
+        "Planes fly high in the blue sky.",
+        "Planes fly high in the grey sky.",
+        "Birds fly high in the blue sky.",
+        "Planes fly quickly in the blue sky."
       ],
-      "answer": "Our printer is new and very fast."
+      "answer": "Planes fly high in the blue sky."
     },
     {
-      "q": "«Файлатро пеш аз пӯшидан нигоҳ дор» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Тайёра субҳ соати нӯҳ баромад мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "Save your file before you close it.",
-        "Save your file before you open it.",
-        "Save your folder before you close it.",
-        "Print your file before you close it."
+        "The plane takes off at nine o'clock in the morning.",
+        "The plane takes off at nine o'clock in the evening.",
+        "The plane lands at nine o'clock in the morning.",
+        "The plane takes off at eight o'clock in the morning."
       ],
-      "answer": "Save your file before you close it."
+      "answer": "The plane takes off at nine o'clock in the morning."
     },
     {
-      "q": "«Ин файл аксҳои зиёди оилаи маро дорад» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Тайёра бегоҳ дар фурудгоҳ фуруд меояд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "This file has many photos of my family.",
-        "This file has many photos of my friends.",
-        "This folder has many photos of my family.",
-        "This file has many photos of my country."
+        "The plane lands at the airport in the evening.",
+        "The plane lands at the airport in the morning.",
+        "The plane takes off at the airport in the evening.",
+        "The plane lands at the station in the evening."
       ],
-      "answer": "This file has many photos of my family."
+      "answer": "The plane lands at the airport in the evening."
     },
     {
-      "q": "«Ман файлҳоямро ба папка мегузорам» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Ман дар истгоҳ ба ҷадвали ҳаракат нигоҳ мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "I put my files in the folder.",
-        "I put my files in the file.",
-        "I put my folders in the file.",
-        "I save my files in the folder."
+        "I look at the timetable at the station.",
+        "I look at the timetable at the airport.",
+        "I look at the map at the station.",
+        "I look at the timetable in the station."
       ],
-      "answer": "I put my files in the folder."
+      "answer": "I look at the timetable at the station."
     },
     {
-      "q": "«Технология ҳар рӯз ҳаёти моро тағйир медиҳад» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Ин масири автобус ба маркази шаҳр меравад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "Technology changes our life every day.",
-        "Technology changes our life every year.",
-        "Technology changes our work every day.",
-        "Technology makes our life every day."
+        "This bus route goes to the centre of the city.",
+        "This bus route goes to the park of the city.",
+        "This route goes to the centre of the city.",
+        "This bus route goes to the centre of the town."
       ],
-      "answer": "Technology changes our life every day."
+      "answer": "This bus route goes to the centre of the city."
     },
     {
-      "q": "«Дар хонаи мо компютер, лаптоп, ду телефон ва принтер ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Ҳар рӯз ман дар кӯчаҳои шаҳри мо нақлиёти зиёдро мебинам: мошинҳо, автобусҳо, троллейбусҳо, таксиҳо, мотосиклҳо ва дучархаҳо» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "In our flat we have a computer, a laptop, two phones and a printer.",
-        "In our house we have a computer, a laptop, two phones and a printer.",
-        "In our flat we have a computer, a laptop, three phones and a printer.",
-        "In our flat we have a computer, a laptop, two phones and a computer."
+        "Every day I see many kinds of transport in the streets of our city: cars, buses, trolleybuses, taxis, motorcycles and bicycles.",
+        "Every day I see many kinds of transport in the streets of our city: cars, buses, trolleybuses, taxis, motorcycles and bikes.",
+        "Every day I see many kinds of transport in the streets of our country: cars, buses, trolleybuses, taxis, motorcycles and bicycles.",
+        "Every day I see many kinds of transport in the streets of our city: cars, buses, trams, taxis, motorcycles and bicycles."
       ],
-      "answer": "In our flat we have a computer, a laptop, two phones and a printer."
+      "answer": "Every day I see many kinds of transport in the streets of our city: cars, buses, trolleybuses, taxis, motorcycles and bicycles."
     },
     {
-      "q": "«Падарам дар идорааш бо компютер кор мекунад» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Баъзе одамон пиёда ба кор мераванд, баъзе бо автобус мераванд ва баъзе бо мошин мераванд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "My father works with the computer at his office.",
-        "My father works with the computer at his home.",
-        "My mother works with the computer at her office.",
-        "My father plays with the computer at his office."
+        "Some people go to work on foot, some go by bus, and some go by car.",
+        "Some people go to work on foot, some go by bus, and some go by taxi.",
+        "Some people go to school on foot, some go by bus, and some go by car.",
+        "Some people go to work by car, some go by bus, and some go on foot."
       ],
-      "answer": "My father works with the computer at his office."
+      "answer": "Some people go to work on foot, some go by bus, and some go by car."
     },
     {
-      "q": "«Модарам ҳар рӯз интернетро истифода мебарад» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Нақлиёт дар ҳаёти мо хеле муҳим аст. Он ба одамон кӯмак мекунад, ки зуд аз як ҷо ба ҷои дигар гузаранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "My mother uses the internet every day.",
-        "My mother uses the computer every day.",
-        "My mother uses the internet every morning.",
-        "My father uses the internet every day."
+        "Transport is very important in our life. It helps people move from one place to another quickly.",
+        "Transport is very important in our life. It helps people go from one place to another quickly.",
+        "Transport is very important in our country. It helps people move from one place to another quickly.",
+        "Transport is very useful in our life. It helps people move from one place to another quickly."
       ],
-      "answer": "My mother uses the internet every day."
+      "answer": "Transport is very important in our life. It helps people move from one place to another quickly."
     },
     {
-      "q": "«Хоҳарам Зуҳро дар зимистон онлайн таҳсил мекунад» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Модарам ронандагӣ намекунад. Ӯ бо автобус ба идорааш меравад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "My sister Zuhro studies online in winter.",
-        "My sister Zuhro studies online in summer.",
-        "My sister Zuhro works online in winter.",
-        "My brother Zuhro studies online in winter."
+        "My mother does not drive. She goes to her office by bus.",
+        "My mother does not drive. She goes to her work by bus.",
+        "My mother does not ride. She goes to her office by bus.",
+        "My sister does not drive. She goes to her office by bus."
       ],
-      "answer": "My sister Zuhro studies online in winter."
+      "answer": "My mother does not drive. She goes to her office by bus."
     },
     {
-      "q": "«Технология дар ҳаёти мо хеле фоиданок аст» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Хоҳарам Зуҳро бо троллейбус ба донишгоҳ меравад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "Technology is very useful in our life.",
-        "Technology is very useful in our work.",
-        "Technology is very good in our life.",
-        "The internet is very useful in our life."
+        "My sister Zuhro goes to the university by trolleybus.",
+        "My sister Zuhro goes to the university by bus.",
+        "My sister Zuhro goes to the school by trolleybus.",
+        "My brother Zuhro goes to the university by trolleybus."
       ],
-      "answer": "Technology is very useful in our life."
+      "answer": "My sister Zuhro goes to the university by trolleybus."
     },
     {
-      "q": "«Он ба мо чизҳои нав омӯхтан, бо дӯстонамон сӯҳбат кардан ва маълумоти ҷолиб ёфтан кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Вақте ки обу ҳаво бад аст, ман бо дӯстам Фарид бо автобус ба мактаб меравам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "It helps us learn new things, talk to our friends and find interesting information.",
-        "It helps us learn new things, talk to our friends and find new information.",
-        "It helps us learn new words, talk to our friends and find interesting information.",
-        "It helps us learn new things, talk to our parents and find interesting information."
+        "When the weather is bad, I go to school by bus with my friend Farid.",
+        "When the weather is bad, I go to school by car with my friend Farid.",
+        "When the weather is cold, I go to school by bus with my friend Farid.",
+        "When the weather is bad, I go to school by trolleybus with my friend Farid."
       ],
-      "answer": "It helps us learn new things, talk to our friends and find interesting information."
+      "answer": "When the weather is bad, I go to school by bus with my friend Farid."
     },
     {
-      "q": "«Интернет китобхонаи хеле калон аст» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Дар шаҳрҳои калон ба мисли Маскав ё Лондон метро ҳаст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "The internet is a very big library.",
-        "The internet is a very good library.",
-        "The internet is a very big book.",
-        "The library is a very big internet."
+        "In big cities like Moscow or London there is an underground.",
+        "In big cities like Moscow or London there is a metro.",
+        "In big countries like Moscow or London there is an underground.",
+        "In big cities like Moscow or Paris there is an underground."
       ],
-      "answer": "The internet is a very big library."
+      "answer": "In big cities like Moscow or London there is an underground."
     },
     {
-      "q": "«Дар интернет мо метавонем китобҳо хонем, видео тамошо кунем, мусиқӣ гӯш кунем ва калимаҳои нав ҷустуҷӯ кунем» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Қатораҳо тамоми рӯз ва тамоми шаб дар зери замин мераванд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "On the internet we can read books, watch videos, listen to music and search for new words.",
-        "On the internet we can read books, watch videos, listen to songs and search for new words.",
-        "On the internet we can read texts, watch videos, listen to music and search for new words.",
-        "In the internet we can read books, watch videos, listen to music and search for new words."
+        "Trains go under the ground all day and all night.",
+        "Trains go under the ground all day and all evening.",
+        "Buses go under the ground all day and all night.",
+        "Trains go under the ground all morning and all night."
       ],
-      "answer": "On the internet we can read books, watch videos, listen to music and search for new words."
+      "answer": "Trains go under the ground all day and all night."
     },
     {
-      "q": "«Вақте ки ман калимаи англисиро намефаҳмам, ман онро дар интернет ҷустуҷӯ мекунам ва тарҷумаи онро меёбам» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Ҳар рӯз миллионҳо одамон метроро истифода мебаранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "When I do not understand an English word, I search for it on the internet and find its translation.",
-        "When I do not understand an English word, I search for it on the internet and find its meaning.",
-        "When I do not understand a word, I search for it on the internet and find its translation.",
-        "When I do not understand an English word, I look for it on the internet and find its translation."
+        "Millions of people use the metro every day.",
+        "Millions of people use the metro every morning.",
+        "Many people use the metro every day.",
+        "Millions of people use the underground every day."
       ],
-      "answer": "When I do not understand an English word, I search for it on the internet and find its translation."
+      "answer": "Millions of people use the metro every day."
     },
     {
-      "q": "«Муаллимам мегӯяд: \"Интернет муаллими хуб аст, аммо ту бояд онро бодиққат истифода барӣ.\"» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Амакам дар Маскав зиндагӣ мекунад. Ӯ мегӯяд: \"Метро беҳтарин нақлиёт дар шаҳри калон аст.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "My teacher says: \"The internet is a good teacher, but you must use it carefully.\"",
-        "My teacher says: \"The internet is a good library, but you must use it carefully.\"",
-        "My mother says: \"The internet is a good teacher, but you must use it carefully.\"",
-        "My teacher says: \"The internet is a good teacher, but you must use it every day.\""
+        "My uncle lives in Moscow. He says: \"The metro is the best transport in the big city.\"",
+        "My uncle lives in Moscow. He says: \"The metro is the best transport in the big country.\"",
+        "My aunt lives in Moscow. She says: \"The metro is the best transport in the big city.\"",
+        "My uncle lives in London. He says: \"The metro is the best transport in the big city.\""
       ],
-      "answer": "My teacher says: \"The internet is a good teacher, but you must use it carefully.\""
+      "answer": "My uncle lives in Moscow. He says: \"The metro is the best transport in the big city.\""
     },
     {
-      "q": "«Ҳар рӯз ман компютери падарамро истифода мебарам» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Он тез, арзон ва ҳамеша сари вақт аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "Every day I use my father's computer.",
-        "Every day I use my mother's computer.",
-        "Every morning I use my father's computer.",
-        "Every day I use my brother's computer."
+        "It is fast, cheap and always on time.",
+        "It is quick, cheap and always on time.",
+        "It is fast, expensive and always on time.",
+        "It is fast, cheap and always in time."
       ],
-      "answer": "Every day I use my father's computer."
+      "answer": "It is fast, cheap and always on time."
     },
     {
-      "q": "«Аввал ман онро равшан мекунам ва ба экран интизор мешавам» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Вақте ки мо мехоҳем ба деҳа равем, мо автобус ё мошини падарамро мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "First I turn it on and wait for the screen.",
-        "First I turn it off and wait for the screen.",
-        "First I open it and wait for the screen.",
-        "First I turn it on and look at the screen."
+        "When we want to go to the village, we take a bus or my father's car.",
+        "When we want to go to the village, we take a bus and my father's car.",
+        "When we want to go to the city, we take a bus or my father's car.",
+        "When we want to go to the village, we take a taxi or my father's car."
       ],
-      "answer": "First I turn it on and wait for the screen."
+      "answer": "When we want to go to the village, we take a bus or my father's car."
     },
     {
-      "q": "«Баъд ман сомонае дар бораи ҳайвонот ё табиат мекушоям» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Мо аз паҳлӯи киштзорҳо, ҷангалҳо ва деҳаҳои хурд мегузарем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "Then I open a website about animals or nature.",
-        "Then I open a website about animals and nature.",
-        "Then I open a website about animals or birds.",
-        "Then I close a website about animals or nature."
+        "We drive past fields, forests and small villages.",
+        "We drive past fields, forests and small cities.",
+        "We go past fields, forests and small villages.",
+        "We drive past gardens, forests and small villages."
       ],
-      "answer": "Then I open a website about animals or nature."
+      "answer": "We drive past fields, forests and small villages."
     },
     {
-      "q": "«Ман матнҳо мехонам ва ба аксҳои зебои ҳайвоноти ваҳшӣ нигоҳ мекунам — барфпланг, хирси қаҳваранг ва уқоб» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Бародари хурдии ман аз тиреза нигоҳ карданро дӯст медорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "I read texts and look at beautiful photos of wild animals — the snow leopard, the brown bear and the eagle.",
-        "I read texts and look at beautiful photos of wild animals — the snow leopard, the brown bear and the falcon.",
-        "I read books and look at beautiful photos of wild animals — the snow leopard, the brown bear and the eagle.",
-        "I read texts and look at good photos of wild animals — the snow leopard, the brown bear and the eagle."
+        "My little brother likes to look out of the window.",
+        "My little sister likes to look out of the window.",
+        "My little brother likes to look out of the door.",
+        "My big brother likes to look out of the window."
       ],
-      "answer": "I read texts and look at beautiful photos of wild animals — the snow leopard, the brown bear and the eagle."
+      "answer": "My little brother likes to look out of the window."
     },
     {
-      "q": "«Ман аксҳои дӯстдоштаи худро дар папкаи махсус нигоҳ медорам» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Ӯ дар киштзорҳо говҳо, гӯсфандҳо ва аспҳоро мебинад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "I save my favourite photos in a special folder.",
-        "I save my favourite photos in a special file.",
-        "I put my favourite photos in a special folder.",
-        "I save my good photos in a special folder."
+        "He sees cows, sheep and horses in the fields.",
+        "He sees cows, sheep and horses in the gardens.",
+        "She sees cows, sheep and horses in the fields.",
+        "He sees cows, sheep and goats in the fields."
       ],
-      "answer": "I save my favourite photos in a special folder."
+      "answer": "He sees cows, sheep and horses in the fields."
     },
     {
-      "q": "«Вақте ки ман мехоҳам аксеро ба дӯстам Фарид фиристам, ман тугмаи \"фиристодан\"-ро пахш мекунам ва паёми ман ба телефони ӯ меравад» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Баъзан мо бо тайёра сафар мекунем. Тобистони гузашта мо ба Хуҷанд парвоз кардем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "When I want to send a photo to my friend Farid, I click the button \"send\" and my message goes to his phone.",
-        "When I want to send a photo to my friend Farid, I click the button \"send\" and my message goes to his computer.",
-        "When I want to send a message to my friend Farid, I click the button \"send\" and my message goes to his phone.",
-        "When I want to send a photo to my friend Farid, I push the button \"send\" and my message goes to his phone."
+        "Sometimes we travel by plane. Last summer we flew to Khujand.",
+        "Sometimes we travel by plane. Last summer we flew to Dushanbe.",
+        "Sometimes we travel by bus. Last summer we flew to Khujand.",
+        "Sometimes we travel by plane. Last spring we flew to Khujand."
       ],
-      "answer": "When I want to send a photo to my friend Farid, I click the button \"send\" and my message goes to his phone."
+      "answer": "Sometimes we travel by plane. Last summer we flew to Khujand."
     },
     {
-      "q": "«Ин хеле зуд ва осон аст» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Тайёра субҳ соати нӯҳ баромад кард ва соати даҳ фуруд омад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "It is very quick and easy.",
-        "It is very fast and easy.",
-        "It is very quick and good.",
-        "It is very quick and simple."
+        "The plane took off at nine o'clock in the morning and landed at ten o'clock.",
+        "The plane took off at nine o'clock in the morning and landed at eleven o'clock.",
+        "The plane took off at nine o'clock in the evening and landed at ten o'clock.",
+        "The plane landed at nine o'clock in the morning and took off at ten o'clock."
       ],
-      "answer": "It is very quick and easy."
+      "answer": "The plane took off at nine o'clock in the morning and landed at ten o'clock."
     },
     {
-      "q": "«Модарам почтаи электронӣ дорад. Ӯ ба ҳамкасбони худ дар кор почтаи электронӣ мефиристад» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Мо соати ҳашт дар фурудгоҳ будем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "My mother has an email. She sends emails to her colleagues at work.",
-        "My mother has an email. She sends emails to her friends at work.",
-        "My mother has an email. She writes emails to her colleagues at work.",
-        "My father has an email. He sends emails to his colleagues at work."
+        "We were at the airport at eight o'clock.",
+        "We were at the airport at nine o'clock.",
+        "We were at the station at eight o'clock.",
+        "They were at the airport at eight o'clock."
       ],
-      "answer": "My mother has an email. She sends emails to her colleagues at work."
+      "answer": "We were at the airport at eight o'clock."
     },
     {
-      "q": "«Ӯ ба хоҳараш дар Русия мактубҳо менависад» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Падарам шиносномаҳо ва чиптаҳои моро нишон дод» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "She writes letters to her sister in Russia.",
-        "She writes letters to her sister in Tajikistan.",
-        "She writes emails to her sister in Russia.",
-        "He writes letters to his sister in Russia."
+        "My father showed our passports and tickets.",
+        "My father showed our passports and bags.",
+        "My mother showed our passports and tickets.",
+        "My father showed his passports and tickets."
       ],
-      "answer": "She writes letters to her sister in Russia."
+      "answer": "My father showed our passports and tickets."
     },
     {
-      "q": "«Хоҳарам Зуҳро дар донишгоҳ таҳсил мекунад ва ӯ аксар вақт вазифаи хонагиашро онлайн иҷро мекунад» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Мо ба тайёра савор шудем ва дар назди тиреза нишастем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "My sister Zuhro studies at the university and she often does her homework online.",
-        "My sister Zuhro studies at the university and she sometimes does her homework online.",
-        "My sister Zuhro studies at school and she often does her homework online.",
-        "My sister Zuhro works at the university and she often does her homework online."
+        "We got on the plane and sat down near the window.",
+        "We got on the plane and sat down near the door.",
+        "We got off the plane and sat down near the window.",
+        "We got on the bus and sat down near the window."
       ],
-      "answer": "My sister Zuhro studies at the university and she often does her homework online."
+      "answer": "We got on the plane and sat down near the window."
     },
     {
-      "q": "«Ӯ дар сомонаи махсус ҳисоб дорад» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Тайёра дар осмон баланд парвоз кард. Мо аз боло кӯҳҳо ва дарёҳои кишварамонро дида метавонистем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "She has an account on a special website.",
-        "She has an account on a special site.",
-        "He has an account on a special website.",
-        "She has a password on a special website."
+        "The plane flew high in the sky. We could see the mountains and the rivers of our country from above.",
+        "The plane flew high in the sky. We could see the mountains and the rivers of our city from above.",
+        "The plane flew high in the sky. We could see the fields and the rivers of our country from above.",
+        "The plane flew high in the sky. We could see the mountains and the lakes of our country from above."
       ],
-      "answer": "She has an account on a special website."
+      "answer": "The plane flew high in the sky. We could see the mountains and the rivers of our country from above."
     },
     {
-      "q": "«Ӯ рамз дорад — ӯ ҳеҷ гоҳ рамзашро ба касе намегӯяд» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Чархболҳо аз болои кӯҳҳо парвоз мекунанд ва ба одамон дар деҳаҳои дур кӯмак мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "She has a password — she never tells her password to anyone.",
-        "She has a password — she never tells her password to her friend.",
-        "She has a password — she never shows her password to anyone.",
-        "He has a password — he never tells his password to anyone."
+        "Helicopters fly over the mountains and help people in far villages.",
+        "Helicopters fly over the mountains and help people in far cities.",
+        "Planes fly over the mountains and help people in far villages.",
+        "Helicopters fly over the forests and help people in far villages."
       ],
-      "answer": "She has a password — she never tells her password to anyone."
+      "answer": "Helicopters fly over the mountains and help people in far villages."
     },
     {
-      "q": "«Падарам мегӯяд: \"Рамз сирр аст. Ҳеҷ гоҳ рамзи худро ба одамони дигар надиҳед!\"» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Онҳо ба беморон ғизо ва дору меоранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "My father says: \"A password is a secret. Never give your password to other people!\"",
-        "My father says: \"A password is a secret. Never tell your password to other people!\"",
-        "My mother says: \"A password is a secret. Never give your password to other people!\"",
-        "My father says: \"A password is a secret. Never show your password to other people!\""
+        "They bring food and medicine to sick people.",
+        "They bring food and water to sick people.",
+        "They bring food and medicine to old people.",
+        "They bring bread and medicine to sick people."
       ],
-      "answer": "My father says: \"A password is a secret. Never give your password to other people!\""
+      "answer": "They bring food and medicine to sick people."
     },
     {
-      "q": "«Дар зимистон, вақте ки хеле хунук ва барфнок аст, мактаби мо баъзан дарсҳои онлайн дорад» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Кайҳоннавардон бо ракета сафар мекунанд. Ин кори хеле хатарнок, аммо ҷолиб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "In winter, when it is very cold and snowy, our school sometimes has online lessons.",
-        "In winter, when it is very cold and snowy, our school often has online lessons.",
-        "In autumn, when it is very cold and snowy, our school sometimes has online lessons.",
-        "In winter, when it is very cold and rainy, our school sometimes has online lessons."
+        "Astronauts travel by rocket. It is a very dangerous but interesting job.",
+        "Astronauts travel by rocket. It is a very dangerous but good job.",
+        "Cosmonauts travel by rocket. It is a very dangerous but interesting job.",
+        "Astronauts fly by rocket. It is a very dangerous but interesting job."
       ],
-      "answer": "In winter, when it is very cold and snowy, our school sometimes has online lessons."
+      "answer": "Astronauts travel by rocket. It is a very dangerous but interesting job."
     },
     {
-      "q": "«Муаллимаи мо сомонаро мекушояд ва мо ӯро дар экрани компютери худ мебинем» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Дар истгоҳи қатора мо ҷадвали калони ҳаракатро дида метавонем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "Our teacher opens a website, and we see her on the screen of our computer.",
-        "Our teacher opens a website, and we see her on the screen of our laptop.",
-        "Our teacher opens a website, and we see him on the screen of our computer.",
-        "Our teacher closes a website, and we see her on the screen of our computer."
+        "At the train station we can see a big timetable.",
+        "At the bus station we can see a big timetable.",
+        "At the train station we can see a big map.",
+        "At the station we can see a big timetable."
       ],
-      "answer": "Our teacher opens a website, and we see her on the screen of our computer."
+      "answer": "At the train station we can see a big timetable."
     },
     {
-      "q": "«Мо ба ӯ гӯш мекунем, ба саволҳояш ҷавоб медиҳем ва машқҳоро дар дафтарҳоямон менависем» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Он нишон медиҳад, ки қатораҳо кай меоянд ва кай мераванд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "We listen to her, answer her questions and write exercises in our notebooks.",
-        "We listen to her, answer her questions and write exercises in our textbooks.",
-        "We listen to him, answer his questions and write exercises in our notebooks.",
-        "We listen to her, answer her questions and write letters in our notebooks."
+        "It shows when the trains come and when they go.",
+        "It shows when the trains come and when they leave.",
+        "It shows when the buses come and when they go.",
+        "It shows where the trains come and where they go."
       ],
-      "answer": "We listen to her, answer her questions and write exercises in our notebooks."
+      "answer": "It shows when the trains come and when they go."
     },
     {
-      "q": "«Ин хеле ҷолиб аст! Мо метавонем дар хона таҳсил кунем ва ин бехатар аст» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Қатора барои сафари дароз нақлиёти хеле хуб аст. Он ба тезӣ ба тайёра нест, аммо бароҳат аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "It is very interesting! We can study at home and it is safe.",
-        "It is very interesting! We can study at home and it is good.",
-        "It is very good! We can study at home and it is safe.",
-        "It is very interesting! We can learn at home and it is safe."
+        "The train is a very good transport for a long journey. It is not as fast as a plane, but it is comfortable.",
+        "The train is a very good transport for a long journey. It is not as quick as a plane, but it is comfortable.",
+        "The train is a very good transport for a short journey. It is not as fast as a plane, but it is comfortable.",
+        "The bus is a very good transport for a long journey. It is not as fast as a plane, but it is comfortable."
       ],
-      "answer": "It is very interesting! We can study at home and it is safe."
+      "answer": "The train is a very good transport for a long journey. It is not as fast as a plane, but it is comfortable."
     },
     {
-      "q": "«Баъзан ман мехоҳам матн ё акс чоп кунам» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Шумо метавонед хобед, китоб хонед ё аз тиреза нигоҳ кунед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "Sometimes I want to print a text or a photo.",
-        "Sometimes I want to print a text or a book.",
-        "Often I want to print a text or a photo.",
-        "Sometimes I want to save a text or a photo."
+        "You can sleep, read a book or look out of the window.",
+        "You can sleep, read a book or look out of the door.",
+        "You can sleep, read a text or look out of the window.",
+        "You can rest, read a book or look out of the window."
       ],
-      "answer": "Sometimes I want to print a text or a photo."
+      "answer": "You can sleep, read a book or look out of the window."
     },
     {
-      "q": "«Ман тугмаи \"чоп\"-ро пахш мекунам ва принтер файли маро дар коғаз чоп мекунад» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Ҳар як нақлиёт бо роҳи худ хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "I click the button \"print\", and the printer prints my file on paper.",
-        "I click the button \"print\", and the printer prints my file on the paper.",
-        "I push the button \"print\", and the printer prints my file on paper.",
-        "I click the button \"print\", and the printer prints my folder on paper."
+        "Every kind of transport is good in its own way.",
+        "Every kind of transport is good in its own life.",
+        "Every transport is good in its own way.",
+        "Every kind of transport is useful in its own way."
       ],
-      "answer": "I click the button \"print\", and the printer prints my file on paper."
+      "answer": "Every kind of transport is good in its own way."
     },
     {
-      "q": "«Модарам инчунин баъзе ҳуҷҷатҳоро барои кори худ чоп мекунад» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Дучархаҳо барои сафарҳои кӯтоҳ ва барои саломатии мо хубанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "My mother also prints some documents for her work.",
-        "My mother also prints some documents for his work.",
-        "My father also prints some documents for his work.",
-        "My mother also prints some texts for her work."
+        "Bicycles are good for short trips and for our health.",
+        "Bicycles are good for long trips and for our health.",
+        "Bicycles are good for short trips and for our body.",
+        "Bikes are good for short trips and for our health."
       ],
-      "answer": "My mother also prints some documents for her work."
+      "answer": "Bicycles are good for short trips and for our health."
     },
     {
-      "q": "«Интернет тарафҳои хуб ва тарафҳои бад дорад» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Автобусҳо барои одамони зиёд дар як вақт хубанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "The internet has good sides and bad sides.",
-        "The internet has good sides and good sides.",
-        "The internet has bad sides and bad sides.",
-        "The computer has good sides and bad sides."
+        "Buses are good for many people at once.",
+        "Buses are good for many people at the same time.",
+        "Buses are useful for many people at once.",
+        "Trains are good for many people at once."
       ],
-      "answer": "The internet has good sides and bad sides."
+      "answer": "Buses are good for many people at once."
     },
     {
-      "q": "«Тарафҳои хуб: мо бисёр чизҳоро меомӯзем, бо дӯстонамон сӯҳбат мекунем, китобҳо мехонем ва ба саволҳои худ ҷавоб меёбем» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Мошинҳо тез ва бароҳат ҳастанд. Қатораҳо барои сафарҳои дароз хубанд. Тайёраҳо тезтарин ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "Good sides: we learn a lot, we talk to our friends, we read books and we find answers to our questions.",
-        "Good sides: we learn a lot, we talk to our friends, we read texts and we find answers to our questions.",
-        "Good sides: we learn a lot, we talk to our parents, we read books and we find answers to our questions.",
-        "Good sides: we learn new things, we talk to our friends, we read books and we find answers to our questions."
+        "Cars are fast and comfortable. Trains are good for long journeys. Planes are the fastest.",
+        "Cars are fast and comfortable. Buses are good for long journeys. Planes are the fastest.",
+        "Cars are quick and comfortable. Trains are good for long journeys. Planes are the fastest.",
+        "Cars are fast and comfortable. Trains are good for long journeys. Planes are the quickest."
       ],
-      "answer": "Good sides: we learn a lot, we talk to our friends, we read books and we find answers to our questions."
+      "answer": "Cars are fast and comfortable. Trains are good for long journeys. Planes are the fastest."
     },
     {
-      "q": "«Тарафҳои бад: баъзе кӯдакон тамоми рӯз бозиҳои компютериро бозӣ мекунанд ва вазифаи хонагиашонро иҷро намекунанд» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам лётчик шавам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "Bad sides: some children play computer games all day and do not do their homework.",
-        "Bad sides: some children play computer games all day and do not write their homework.",
-        "Bad sides: some pupils play computer games all day and do not do their homework.",
-        "Bad sides: some children play computer games all night and do not do their homework."
+        "When I grow up, I want to be a pilot.",
+        "When I grow up, I want to be a driver.",
+        "When I grow up, I want to be a pilot.",
+        "When I grow up, I want to be a cosmonaut."
       ],
-      "answer": "Bad sides: some children play computer games all day and do not do their homework."
+      "answer": "When I grow up, I want to be a pilot."
     },
     {
-      "q": "«Баъзе кӯдакон ба сомонаҳои бад нигоҳ мекунанд» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Ман мехоҳам тайёраҳоро ба кишварҳои гуногун парвоз кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "Some children look at bad websites.",
-        "Some children look at good websites.",
-        "Some pupils look at bad websites.",
-        "Some children visit bad websites."
+        "I want to fly planes to different countries.",
+        "I want to fly planes to different cities.",
+        "I want to drive planes to different countries.",
+        "I want to fly planes to different places."
       ],
-      "answer": "Some children look at bad websites."
+      "answer": "I want to fly planes to different countries."
     },
     {
-      "q": "«Баъзе кӯдакон рамзи худро ба одамони дигар мегӯянд ва ҳисоби худро гум мекунанд» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Ман мехоҳам тамоми ҷаҳонро бинам ва бо одамони зиёд вохӯрам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "Some children tell their passwords to other people and lose their accounts.",
-        "Some children give their passwords to other people and lose their accounts.",
-        "Some children tell their passwords to their friends and lose their accounts.",
-        "Some people tell their passwords to other people and lose their accounts."
+        "I want to see the whole world and meet many people.",
+        "I want to see the whole world and meet many friends.",
+        "I want to see the whole country and meet many people.",
+        "I want to see the whole world and visit many people."
       ],
-      "answer": "Some children tell their passwords to other people and lose their accounts."
+      "answer": "I want to see the whole world and meet many people."
     },
     {
-      "q": "«Мо бояд онлайн бодиққат бошем» чӣ тавр ба англисӣ мешавад?",
+      "q": "«Аммо аз ҳама бештар ман мехоҳам ба хона, ба оилаам ва ба шаҳри зебои Душанбеи худ баргардам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "We must be careful online.",
-        "We must be careful offline.",
-        "We must be quiet online.",
-        "We must be careful in the internet."
+        "But most of all I want to come home to my family and my beautiful city Dushanbe.",
+        "But most of all I want to come home to my friends and my beautiful city Dushanbe.",
+        "But most of all I want to go home to my family and my beautiful city Dushanbe.",
+        "But most of all I want to come home to my family and my beautiful village."
       ],
-      "answer": "We must be careful online."
-    },
-    {
-      "q": "«Волидонам мегӯянд: \"Компютерро як соат дар як рӯз истифода бар, на бештар.\"» чӣ тавр ба англисӣ мешавад?",
-      "options": [
-        "My parents say: \"Use the computer for one hour a day, not more.\"",
-        "My parents say: \"Use the computer for two hours a day, not more.\"",
-        "My parents say: \"Use the computer for one hour a day, not less.\"",
-        "My parents say: \"Use the phone for one hour a day, not more.\""
-      ],
-      "answer": "My parents say: \"Use the computer for one hour a day, not more.\""
-    },
-    {
-      "q": "«Дар бораи китобҳо, варзиш ва оилаат фаромӯш накун» чӣ тавр ба англисӣ мешавад?",
-      "options": [
-        "Do not forget about books, sport and your family.",
-        "Do not forget about books, sport and your friends.",
-        "Do not forget about books, games and your family.",
-        "Do not forget about books, music and your family."
-      ],
-      "answer": "Do not forget about books, sport and your family."
-    },
-    {
-      "q": "«Компютер ёвари мост, на хоҷаи мо» чӣ тавр ба англисӣ мешавад?",
-      "options": [
-        "The computer is our helper, not our master.",
-        "The computer is our master, not our helper.",
-        "The computer is our friend, not our master.",
-        "The internet is our helper, not our master."
-      ],
-      "answer": "The computer is our helper, not our master."
-    },
-    {
-      "q": "«Ман технологияро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
-      "options": [
-        "I love technology.",
-        "I like technology.",
-        "I love the internet.",
-        "I love computers."
-      ],
-      "answer": "I love technology."
-    },
-    {
-      "q": "«Вақте ки ман калон мешавам, ман мехоҳам барномасоз шавам, ба мисли амакбачаам» чӣ тавр ба англисӣ мешавад?",
-      "options": [
-        "When I grow up, I want to be a programmer like my cousin.",
-        "When I grow up, I want to be a programmer like my brother.",
-        "When I grow up, I want to be a programmer like my uncle.",
-        "When I grow up, I want to be a programmer like my friend."
-      ],
-      "answer": "When I grow up, I want to be a programmer like my cousin."
-    },
-    {
-      "q": "«Ман мехоҳам сомонаҳои нав ва барномаҳои нави компютерӣ созам» чӣ тавр ба англисӣ мешавад?",
-      "options": [
-        "I want to make new websites and new computer programmes.",
-        "I want to make new websites and new computer games.",
-        "I want to create new websites and new computer programmes.",
-        "I want to make good websites and new computer programmes."
-      ],
-      "answer": "I want to make new websites and new computer programmes."
-    },
-    {
-      "q": "«Ман мехоҳам ба мактабам ва кишварам кӯмак кунам» чӣ тавр ба англисӣ мешавад?",
-      "options": [
-        "I want to help my school and my country.",
-        "I want to help my school and my city.",
-        "I want to help my family and my country.",
-        "I want to help my friends and my country."
-      ],
-      "answer": "I want to help my school and my country."
-    },
-    {
-      "q": "«Аммо ман инчунин мехоҳам суханони падарамро ба ёд дорам: \"Компютер ёвари мост, на хоҷаи мо. Китобҳо, варзиш ва оила муҳимтарин чизҳо дар ҳаёти мо ҳастанд.\"» чӣ тавр ба англисӣ мешавад?",
-      "options": [
-        "But I also want to remember the words of my father: \"The computer is our helper, not our master. Books, sport and family are the most important things in our life.\"",
-        "But I also want to remember the words of my father: \"The computer is our helper, not our master. Books, sport and family are the most important things in our country.\"",
-        "But I also want to remember the words of my mother: \"The computer is our helper, not our master. Books, sport and family are the most important things in our life.\"",
-        "But I also want to remember the words of my father: \"The computer is our friend, not our master. Books, sport and family are the most important things in our life.\""
-      ],
-      "answer": "But I also want to remember the words of my father: \"The computer is our helper, not our master. Books, sport and family are the most important things in our life.\""
+      "answer": "But most of all I want to come home to my family and my beautiful city Dushanbe."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
