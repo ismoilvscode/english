@@ -1,341 +1,440 @@
 {
   "id": 24,
-  "title": "Матн ва машқҳо 24",
-  "level": "Миёна - Синфи 4",
+  "title": "Иборасозӣ 24: Рӯзҳои корӣ, сафар ва табиат",
+  "level": "Ибтидоӣ - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "to travel",
+      "tj": "сафар кардан",
+      "ex": "We travel to the village in summer."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "to visit",
+      "tj": "дидан кардан",
+      "ex": "I visit my grandmother every week."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "to write",
+      "tj": "навиштан",
+      "ex": "She writes a letter to her friend."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "to read",
+      "tj": "хондан",
+      "ex": "My father reads a book in the evening."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "to open",
+      "tj": "кушодан",
+      "ex": "I open the window in the morning."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "to close",
+      "tj": "пӯшидан",
+      "ex": "She closes the door and goes to bed."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "to buy",
+      "tj": "харидан",
+      "ex": "We buy bread and milk from the shop."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "to sell",
+      "tj": "фурӯхтан",
+      "ex": "The farmer sells vegetables at the market."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "market",
+      "tj": "бозор",
+      "ex": "My mother goes to the market."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "shop",
+      "tj": "дукон",
+      "ex": "The shop is near our house."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "money",
+      "tj": "пул",
+      "ex": "I need money to buy a book."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "price",
+      "tj": "нарх",
+      "ex": "The price of bread is good."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "cheap",
+      "tj": "арзон",
+      "ex": "The apples are cheap today."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "expensive",
+      "tj": "гарон",
+      "ex": "This coat is expensive."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
-    },
-    {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "free",
+      "tj": "ройгон",
+      "ex": "The water is free in the café."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 24)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "We travel to the village in summer and visit our grandmother.",
+      "tj": "Мо дар тобистон ба деҳа сафар мекунем ва бибиамонро дидан мекунем."
     },
     {
-      "en": "I'm working on lesson 24",
-      "tj": "Ман дарси 24-ро меомӯзам"
+      "en": "I visit my grandfather every weekend and help him in the garden.",
+      "tj": "Ман ҳар охири ҳафта бобоямро дидан мекунам ва дар боғ ба ӯ кӯмак мекунам."
+    },
+    {
+      "en": "She writes a letter to her friend and puts it in the bag.",
+      "tj": "Ӯ ба дӯсташ мактуб менависад ва онро ба халта мегузорад."
+    },
+    {
+      "en": "My father reads a book in the evening and my mother cooks dinner.",
+      "tj": "Падарам бегоҳ китоб мехонад ва модарам хӯроки шом мепазад."
+    },
+    {
+      "en": "I open the window in the morning and close it in the evening.",
+      "tj": "Ман субҳ тирезаро мекушоям ва бегоҳ онро мепӯшам."
+    },
+    {
+      "en": "She closes the door, puts the book on the table and goes to bed.",
+      "tj": "Ӯ дарро мепӯшад, китобро ба миз мегузорад ва ба хоб меравад."
+    },
+    {
+      "en": "We buy bread, milk and cheese from the shop every morning.",
+      "tj": "Мо ҳар субҳ аз дукон нон, шир ва панир мехарем."
+    },
+    {
+      "en": "The farmer sells vegetables and fruits at the market.",
+      "tj": "Деҳқон дар бозор сабзавот ва меваҳо мефурӯшад."
+    },
+    {
+      "en": "My mother goes to the market and buys cheap vegetables.",
+      "tj": "Модарам ба бозор меравад ва сабзавоти арзон мехарад."
+    },
+    {
+      "en": "The shop is near our house and the prices are good.",
+      "tj": "Дукон дар назди хонаи мо аст ва нархҳо хуб ҳастанд."
+    },
+    {
+      "en": "I need money to buy a new book for school.",
+      "tj": "Ман барои харидани китоби нав барои мактаб пул лозим дорам."
+    },
+    {
+      "en": "The price of apples is cheap but the price of meat is expensive.",
+      "tj": "Нархи себҳо арзон аст, аммо нархи гӯшт гарон аст."
+    },
+    {
+      "en": "This coat is expensive and that shirt is cheap.",
+      "tj": "Ин пальто гарон аст ва он курта арзон аст."
+    },
+    {
+      "en": "The water is free but the juice is expensive.",
+      "tj": "Об ройгон аст, аммо шарбат гарон аст."
+    },
+    {
+      "en": "We always buy cheap bread and never buy expensive meat.",
+      "tj": "Мо ҳамеша нони арзон мехарем ва ҳеҷ гоҳ гӯшти гарон намехарем."
+    },
+    {
+      "en": "My father travels to the big city and visits his friend.",
+      "tj": "Падарам ба шаҳри калон сафар мекунад ва дӯсташро дидан мекунад."
+    },
+    {
+      "en": "The doctor opens the door and the nurse brings water for the sick child.",
+      "tj": "Духтур дарро мекушояд ва ҳамшира барои кӯдаки бемор об меорад."
+    },
+    {
+      "en": "My kind grandmother always bakes bread and sells it at the market.",
+      "tj": "Бибии меҳрубонам ҳамеша нон мепазад ва онро дар бозор мефурӯшад."
+    },
+    {
+      "en": "I write a letter to my friend and thank him for the help.",
+      "tj": "Ман ба дӯстам мактуб менависам ва ба ӯ барои кӯмак ташаккур мекунам."
+    },
+    {
+      "en": "The children always laugh together and never cry at school.",
+      "tj": "Кӯдакон ҳамеша якҷоя механдем ва ҳеҷ гоҳ дар мактаб гиря намекунанд."
+    },
+    {
+      "en": "We open the shop early in the morning and close it late in the evening.",
+      "tj": "Мо дуконро субҳ барвақт мекушоем ва бегоҳ дер мепӯшем."
+    },
+    {
+      "en": "The farmer sells cheap apples and expensive cheese at the market.",
+      "tj": "Деҳқон дар бозор себҳои арзон ва панири гарон мефурӯшад."
+    },
+    {
+      "en": "I buy a present for my friend and put it on the table for the party.",
+      "tj": "Ман барои дӯстам тӯҳфа мехарам ва онро барои базм ба миз мегузорам."
+    },
+    {
+      "en": "My mother reads a book and my father writes a letter to his brother.",
+      "tj": "Модарам китоб мехонад ва падарам ба бародараш мактуб менависад."
+    },
+    {
+      "en": "We always help our neighbours and together work in the beautiful garden.",
+      "tj": "Мо ҳамеша ба ҳамсояҳоямон кӯмак мекунем ва якҷоя дар боғи зебо кор мекунем."
     }
   ],
-  "text": {
-    "en": "Text for lesson 24. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 24 is about Миёна - Синфи 4. I write all words in my notebook. Level 24 text.",
-    "tj": "Матни дарси 24..."
-  },
+  "text": null,
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Мо дар тобистон ба деҳа сафар мекунем ва бибиамонро дидан мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи understand",
-        "нодуруст B"
+        "We travel to the village in summer and visit our grandmother.",
+        "We travel to the village in spring and visit our grandmother.",
+        "We travel to the city in summer and visit our grandmother.",
+        "We travel to the village in summer and visit our grandfather."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "We travel to the village in summer and visit our grandmother."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Ман ҳар охири ҳафта бобоямро дидан мекунам ва дар боғ ба ӯ кӯмак мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи explain",
-        "нодуруст B",
-        "нодуруст C"
+        "I visit my grandfather every weekend and help him in the garden.",
+        "I visit my grandmother every weekend and help her in the garden.",
+        "I visit my grandfather every weekend and help him in the field.",
+        "I visit my grandfather every morning and help him in the garden."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "I visit my grandfather every weekend and help him in the garden."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Ӯ ба дӯсташ мактуб менависад ва онро ба халта мегузорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи important",
-        "нодуруст A",
-        "нодуруст B"
+        "She writes a letter to her friend and puts it in the bag.",
+        "She writes a letter to her mother and puts it in the bag.",
+        "She writes a book to her friend and puts it in the bag.",
+        "She reads a letter to her friend and puts it in the bag."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "She writes a letter to her friend and puts it in the bag."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Падарам бегоҳ китоб мехонад ва модарам хӯроки шом мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи different"
+        "My father reads a book in the evening and my mother cooks dinner.",
+        "My father reads a book in the evening and my mother bakes dinner.",
+        "My father reads a book in the morning and my mother cooks dinner.",
+        "My brother reads a book in the evening and my mother cooks dinner."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "My father reads a book in the evening and my mother cooks dinner."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Ман субҳ тирезаро мекушоям ва бегоҳ онро мепӯшам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи difficult",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "I open the window in the morning and close it in the evening.",
+        "I open the window in the morning and close it in the afternoon.",
+        "I open the door in the morning and close it in the evening.",
+        "I open the window in the evening and close it in the morning."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "I open the window in the morning and close it in the evening."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Ӯ дарро мепӯшад, китобро ба миз мегузорад ва ба хоб меравад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи easy"
+        "She closes the door, puts the book on the table and goes to bed.",
+        "She opens the door, puts the book on the table and goes to bed.",
+        "She closes the window, puts the book on the table and goes to bed.",
+        "He closes the door, puts the book on the table and goes to bed."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "She closes the door, puts the book on the table and goes to bed."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Мо ҳар субҳ аз дукон нон, шир ва панир мехарем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи interesting"
+        "We buy bread, milk and cheese from the shop every morning.",
+        "We buy bread, milk and meat from the shop every morning.",
+        "We buy bread, water and cheese from the shop every morning.",
+        "We sell bread, milk and cheese at the shop every morning."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "We buy bread, milk and cheese from the shop every morning."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Деҳқон дар бозор сабзавот ва меваҳо мефурӯшад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи remember",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "The farmer sells vegetables and fruits at the market.",
+        "The farmer sells vegetables and fruits at the shop.",
+        "The farmer buys vegetables and fruits at the market.",
+        "The baker sells vegetables and fruits at the market."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "The farmer sells vegetables and fruits at the market."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Модарам ба бозор меравад ва сабзавоти арзон мехарад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи forget",
-        "нодуруст A",
-        "нодуруст B"
+        "My mother goes to the market and buys cheap vegetables.",
+        "My mother goes to the market and buys expensive vegetables.",
+        "My mother goes to the shop and buys cheap vegetables.",
+        "My grandmother goes to the market and buys cheap vegetables."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "My mother goes to the market and buys cheap vegetables."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Дукон дар назди хонаи мо аст ва нархҳо хуб ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи homework",
-        "нодуруст C"
+        "The shop is near our house and the prices are good.",
+        "The shop is near our school and the prices are good.",
+        "The market is near our house and the prices are good.",
+        "The shop is near our house and the prices are bad."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "The shop is near our house and the prices are good."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Ман барои харидани китоби нав барои мактаб пул лозим дорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи exercise",
-        "нодуруст A"
+        "I need money to buy a new book for school.",
+        "I need money to buy a new bag for school.",
+        "I want money to buy a new book for school.",
+        "I need money to buy a new book for the shop."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "I need money to buy a new book for school."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Нархи себҳо арзон аст, аммо нархи гӯшт гарон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи text"
+        "The price of apples is cheap but the price of meat is expensive.",
+        "The price of apples is expensive but the price of meat is cheap.",
+        "The price of bread is cheap but the price of meat is expensive.",
+        "The price of apples is cheap and the price of meat is expensive."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "The price of apples is cheap but the price of meat is expensive."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Ин пальто гарон аст ва он курта арзон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи story",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "This coat is expensive and that shirt is cheap.",
+        "This coat is cheap and that shirt is expensive.",
+        "This hat is expensive and that shirt is cheap.",
+        "This coat is expensive and that dress is cheap."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "This coat is expensive and that shirt is cheap."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Об ройгон аст, аммо шарбат гарон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи question",
-        "нодуруст B"
+        "The water is free but the juice is expensive.",
+        "The water is expensive but the juice is free.",
+        "The water is free and the juice is expensive.",
+        "The milk is free but the juice is expensive."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "The water is free but the juice is expensive."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Мо ҳамеша нони арзон мехарем ва ҳеҷ гоҳ гӯшти гарон намехарем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи answer",
-        "нодуруст B"
+        "We always buy cheap bread and never buy expensive meat.",
+        "We always buy expensive bread and never buy cheap meat.",
+        "We sometimes buy cheap bread and never buy expensive meat.",
+        "We always buy cheap bread and never buy expensive cheese."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "We always buy cheap bread and never buy expensive meat."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Падарам ба шаҳри калон сафар мекунад ва дӯсташро дидан мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи understand"
+        "My father travels to the big city and visits his friend.",
+        "My father travels to the big village and visits his friend.",
+        "My mother travels to the big city and visits her friend.",
+        "My father travels to the big city and visits his brother."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "My father travels to the big city and visits his friend."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Духтур дарро мекушояд ва ҳамшира барои кӯдаки бемор об меорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи explain",
-        "нодуруст C",
-        "нодуруст B"
+        "The doctor opens the door and the nurse brings water for the sick child.",
+        "The doctor closes the door and the nurse brings water for the sick child.",
+        "The doctor opens the door and the nurse brings milk for the sick child.",
+        "The nurse opens the door and the doctor brings water for the sick child."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "The doctor opens the door and the nurse brings water for the sick child."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Бибии меҳрубонам ҳамеша нон мепазад ва онро дар бозор мефурӯшад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи important"
+        "My kind grandmother always bakes bread and sells it at the market.",
+        "My kind grandmother always bakes a cake and sells it at the market.",
+        "My kind grandmother sometimes bakes bread and sells it at the market.",
+        "My kind mother always bakes bread and sells it at the market."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "My kind grandmother always bakes bread and sells it at the market."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Ман ба дӯстам мактуб менависам ва ба ӯ барои кӯмак ташаккур мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи different",
-        "нодуруст B"
+        "I write a letter to my friend and thank him for the help.",
+        "I write a letter to my mother and thank her for the help.",
+        "I read a letter to my friend and thank him for the help.",
+        "I write a letter to my friend and thank her for the help."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "I write a letter to my friend and thank him for the help."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Кӯдакон ҳамеша якҷоя механдем ва ҳеҷ гоҳ дар мактаб гиря намекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи difficult"
+        "The children always laugh together and never cry at school.",
+        "The children sometimes laugh together and never cry at school.",
+        "The pupils always laugh together and never cry at school.",
+        "The children always laugh together and never cry at home."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "The children always laugh together and never cry at school."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Мо дуконро субҳ барвақт мекушоем ва бегоҳ дер мепӯшем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи easy",
-        "нодуруст B"
+        "We open the shop early in the morning and close it late in the evening.",
+        "We open the shop early in the morning and close it early in the evening.",
+        "We close the shop early in the morning and open it late in the evening.",
+        "We open the market early in the morning and close it late in the evening."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "We open the shop early in the morning and close it late in the evening."
+    },
+    {
+      "q": "«Деҳқон дар бозор себҳои арзон ва панири гарон мефурӯшад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The farmer sells cheap apples and expensive cheese at the market.",
+        "The farmer sells expensive apples and cheap cheese at the market.",
+        "The farmer sells cheap apples and expensive meat at the market.",
+        "The baker sells cheap apples and expensive cheese at the market."
+      ],
+      "answer": "The farmer sells cheap apples and expensive cheese at the market."
+    },
+    {
+      "q": "«Ман барои дӯстам тӯҳфа мехарам ва онро барои базм ба миз мегузорам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I buy a present for my friend and put it on the table for the party.",
+        "I buy a present for my mother and put it on the table for the party.",
+        "I buy a present for my friend and put it on the table for my birthday.",
+        "I sell a present for my friend and put it on the table for the party."
+      ],
+      "answer": "I buy a present for my friend and put it on the table for the party."
+    },
+    {
+      "q": "«Модарам китоб мехонад ва падарам ба бародараш мактуб менависад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My mother reads a book and my father writes a letter to his brother.",
+        "My mother reads a book and my father writes a letter to his sister.",
+        "My father reads a book and my mother writes a letter to his brother.",
+        "My mother reads a book and my brother writes a letter to his brother."
+      ],
+      "answer": "My mother reads a book and my father writes a letter to his brother."
+    },
+    {
+      "q": "«Мо ҳамеша ба ҳамсояҳоямон кӯмак мекунем ва якҷоя дар боғи зебо кор мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We always help our neighbours and together work in the beautiful garden.",
+        "We sometimes help our neighbours and together work in the beautiful garden.",
+        "We always help our friends and together work in the beautiful garden.",
+        "We always help our neighbours and together work in the big garden."
+      ],
+      "answer": "We always help our neighbours and together work in the beautiful garden."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 21
+  "wordsCount": 15
 }
