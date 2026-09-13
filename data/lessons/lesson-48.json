@@ -1,521 +1,692 @@
 {
   "id": 48,
-  "title": "Матн ва машқҳо 48",
-  "level": "Миёна - Синфи 4",
+  "title": "Матн 48: Ҳаёти деҳот ва шаҳр",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "village",
+      "tj": "деҳа",
+      "ex": "My grandmother lives in a small village."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "countryside",
+      "tj": "деҳот",
+      "ex": "We often go to the countryside in summer."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "quiet",
+      "tj": "ором",
+      "ex": "The village is quiet and peaceful."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "noisy",
+      "tj": "сершумор",
+      "ex": "The city is very noisy in the morning."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "fresh",
+      "tj": "тоза",
+      "ex": "The air in the village is fresh and clean."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "crowded",
+      "tj": "серодам",
+      "ex": "The streets of the city are crowded."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "peaceful",
+      "tj": "осуда",
+      "ex": "Village life is peaceful and calm."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "to breathe",
+      "tj": "нафас гирифтан",
+      "ex": "It is easy to breathe fresh air in the countryside."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "to relax",
+      "tj": "дам гирифтан",
+      "ex": "We relax in the village at the weekend."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "to live",
+      "tj": "зиндагӣ кардан",
+      "ex": "Some people live in the city, some in the village."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "convenient",
+      "tj": "қулай",
+      "ex": "City life is convenient for many people."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "hospital",
+      "tj": "беморхона",
+      "ex": "There is a big hospital in our city."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "factory",
+      "tj": "завод",
+      "ex": "My uncle works in a factory in the city."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "nature",
+      "tj": "табиат",
+      "ex": "We love the nature of our village."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
+      "en": "traffic",
+      "tj": "ҳаракати мошинҳо",
+      "ex": "The traffic in the city is very heavy."
     },
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
-    },
-    {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
-    },
-    {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
-    },
-    {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
-    },
-    {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
-    },
-    {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
-    },
-    {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
-    },
-    {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
-    },
-    {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "to be tired of",
+      "tj": "хаста шудан аз",
+      "ex": "I am tired of the noise of the city."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 48)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "My grandmother lives in a small village near the mountains.",
+      "tj": "Бибиам дар деҳаи хурде дар назди кӯҳҳо зиндагӣ мекунад."
     },
     {
-      "en": "I'm working on lesson 48",
-      "tj": "Ман дарси 48-ро меомӯзам"
+      "en": "We often go to the countryside in summer.",
+      "tj": "Мо дар тобистон аксар вақт ба деҳот меравем."
+    },
+    {
+      "en": "The village is quiet and peaceful.",
+      "tj": "Деҳа ором ва осуда аст."
+    },
+    {
+      "en": "The city is very noisy in the morning.",
+      "tj": "Шаҳр субҳ хеле сершумор аст."
+    },
+    {
+      "en": "The air in the village is fresh and clean.",
+      "tj": "Ҳаво дар деҳа тоза ва пок аст."
+    },
+    {
+      "en": "The streets of the city are always crowded.",
+      "tj": "Кӯчаҳои шаҳр ҳамеша серодам ҳастанд."
+    },
+    {
+      "en": "Village life is peaceful and calm.",
+      "tj": "Ҳаёти деҳа осуда ва ором аст."
+    },
+    {
+      "en": "It is easy to breathe fresh air in the countryside.",
+      "tj": "Дар деҳот ҳавои тоза нафас гирифтан осон аст."
+    },
+    {
+      "en": "We relax in the village at the weekend.",
+      "tj": "Мо дар деҳа рӯзҳои истироҳат дам мегирем."
+    },
+    {
+      "en": "Some people live in the city, some in the village.",
+      "tj": "Баъзе одамон дар шаҳр зиндагӣ мекунанд, баъзе дар деҳа."
+    },
+    {
+      "en": "City life is convenient for many people.",
+      "tj": "Ҳаёти шаҳр барои одамони зиёд қулай аст."
+    },
+    {
+      "en": "There is a big hospital and many schools in our city.",
+      "tj": "Дар шаҳри мо беморхонаи калон ва мактабҳои зиёд ҳастанд."
+    },
+    {
+      "en": "My uncle works in a factory in the city.",
+      "tj": "Амакам дар завод дар шаҳр кор мекунад."
+    },
+    {
+      "en": "We love the nature of our village very much.",
+      "tj": "Мо табиати деҳаи худро хеле дӯст медорем."
+    },
+    {
+      "en": "The traffic in the city is very heavy in the evening.",
+      "tj": "Ҳаракати мошинҳо дар шаҳр бегоҳ хеле зиёд аст."
+    },
+    {
+      "en": "I am tired of the noise of the city and want to go to the village.",
+      "tj": "Ман аз садои шаҳр хаста шудаам ва мехоҳам ба деҳа равам."
     }
   ],
   "text": {
-    "en": "Text for lesson 48. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 48 is about Миёна - Синфи 4. I write all words in my notebook. Level 48 text.",
-    "tj": "Матни дарси 48..."
+    "en": "Village Life and City Life\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe, a big and beautiful city. But my grandmother and grandfather live in a small village in the mountains, not far from the city. In summer I often go there and I know both the city and the village very well. Today I want to tell you about the life in the village and the life in the city.\n\nThe village is a very quiet and peaceful place. There are no big factories and no heavy traffic. In the morning you can hear birds singing and roosters crowing. In the evening you can see thousands of stars in the dark sky. The air in the village is fresh and clean, and it is very easy to breathe. The water in the village is cold and clean — it comes from the mountain river.\n\nIn the village everyone knows each other. People are very kind and hospitable. When my family and I come to the village, all our neighbours come to our house to say hello. They bring us fresh milk, cheese, fruits and vegetables from their gardens. My grandmother always cooks a big dinner and we all sit at one table. We eat, talk and laugh together. It is a very nice and warm feeling.\n\nIn the village life is not very convenient, but it is very healthy. There are no big shops, no cinemas and no universities. There is only one small school and one small hospital. If you want to buy something, you must go to the city. But people in the village work in their gardens, feed their animals, and eat fresh food every day. They are strong, healthy and happy.\n\nMy grandfather works in his garden all day. He grows wheat, potatoes and vegetables. He has two cows, ten sheep and a horse. My grandmother milks the cows, makes butter and cheese, and cooks very tasty food. My uncle works in the village too. He is a farmer. Every morning he goes to the field and works there all day. He says: \"In the village every day is a holiday, because I breathe fresh air, work with my hands, and live with nature.\"\n\nThe city is very different from the village. The city is big, noisy and crowded. There are many cars, buses and people in the streets. There are big shops, cinemas, museums, theatres and universities. City life is very convenient. You can buy everything you want. You can go to a good hospital or to a good school. You can find any job — a factory, an office or a bank. My father works in a big hospital in the city. My mother works in an office. My sister studies at the university.\n\nBut city life also has its problems. The air in the city is not always clean, because there are many cars and factories. The streets are always crowded. In the morning there is heavy traffic and people are in a hurry. It is often noisy, and sometimes it is difficult to relax. Some people say: \"I am tired of the noise of the city. I want to live in the village!\"\n\nWhat kind of life is better — the village or the city? I think that both have good sides and bad sides. The village is good for your health and for a quiet life. The city is good for work, for study and for a convenient life. Many people live in the city and go to the village at the weekend to have a good rest. Other people live in the village and go to the city to work or to study.\n\nI love both the city and the village. I live in the city, but my heart is always in the village with my grandmother and grandfather. In the future, when I grow up and become a doctor, I want to work in both places. I want to help people in the big city hospital, but I also want to go to the village and help the people there. And I want to breathe fresh mountain air and enjoy the beautiful nature of my country.\n\nBoth the village and the city are parts of our life. We must love and respect them both. The village gives us health, quiet and the beauty of nature. The city gives us work, education and a convenient life. Wherever we live, the most important thing is to be kind, healthy and happy.",
+    "tj": "Ҳаёти деҳа ва ҳаёти шаҳр\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе, шаҳри калон ва зебо зиндагӣ мекунам. Аммо биби ва бобои ман дар деҳаи хурде дар кӯҳҳо, на дур аз шаҳр зиндагӣ мекунанд. Дар тобистон ман аксар вақт ба он ҷо меравам ва ман ҳам шаҳрро ва ҳам деҳаро хеле хуб медонам. Имрӯз ман мехоҳам ба шумо дар бораи ҳаёти деҳа ва ҳаёти шаҳр нақл кунам.\n\nДеҳа ҷои хеле ором ва осуда аст. Дар он заводҳои калон ва ҳаракати зиёди мошинҳо нест. Субҳ шумо суруди паррандаҳо ва овози хурӯсҳоро шунида метавонед. Бегоҳ шумо ҳазорон ситораро дар осмони торик дида метавонед. Ҳаво дар деҳа тоза ва пок аст ва нафас гирифтан хеле осон аст. Оби деҳа хунук ва тоза аст — он аз дарёи кӯҳӣ меояд.\n\nДар деҳа ҳама якдигарро мешиносанд. Мардум хеле меҳрубон ва меҳмоннавоз ҳастанд. Вақте ки ман ва оилаам ба деҳа меоем, ҳамаи ҳамсояҳоямон ба хонаи мо меоянд, то ки салом диҳанд. Онҳо ба мо шири тоза, панир, меваҳо ва сабзавот аз боғҳои худ меоранд. Бибиам ҳамеша хӯроки калон мепазад ва мо ҳама дар як миз менишинем. Мо якҷоя мехӯрем, сӯҳбат мекунем ва механдем. Ин ҳисси хеле хуш ва гарм аст.\n\nДар деҳа ҳаёт чандон қулай нест, аммо он хеле солим аст. Дӯконҳои калон, кинотеатрҳо ва донишгоҳҳо нест. Танҳо як мактаби хурд ва як беморхонаи хурд ҳаст. Агар шумо чизеро харидан хоҳед, шумо бояд ба шаҳр равед. Аммо мардум дар деҳа дар боғҳои худ кор мекунанд, ба ҳайвоноти худ хӯрок медиҳанд ва ҳар рӯз ғизои тоза мехӯранд. Онҳо қавӣ, солим ва хушбахт ҳастанд.\n\nБобоям тамоми рӯз дар боғи худ кор мекунад. Ӯ гандум, картошка ва сабзавот парвариш мекунад. Ӯ ду гов, даҳ гӯсфанд ва як асп дорад. Бибиам говҳоро медӯшад, равған ва панир месозад ва ғизои хеле бомазза мепазад. Амакам низ дар деҳа кор мекунад. Ӯ деҳқон аст. Ҳар субҳ ӯ ба киштзор меравад ва тамоми рӯз дар он ҷо кор мекунад. Ӯ мегӯяд: «Дар деҳа ҳар рӯз ид аст, зеро ки ман ҳавои тоза нафас мегирам, бо дастҳоям кор мекунам ва бо табиат зиндагӣ мекунам.»\n\nШаҳр аз деҳа хеле фарқ мекунад. Шаҳр калон, сершумор ва серодам аст. Дар кӯчаҳо мошинҳо, автобусҳо ва одамони зиёд ҳастанд. Дӯконҳои калон, кинотеатрҳо, музейҳо, театрҳо ва донишгоҳҳо ҳастанд. Ҳаёти шаҳр хеле қулай аст. Шумо метавонед ҳама чизеро, ки мехоҳед, харед. Шумо метавонед ба беморхонаи хуб ё ба мактаби хуб равед. Шумо метавонед ҳар гуна корро ёбед — завод, идора ё бонк. Падарам дар беморхонаи калон дар шаҳр кор мекунад. Модарам дар идора кор мекунад. Хоҳарам дар донишгоҳ таҳсил мекунад.\n\nАммо ҳаёти шаҳр мушкилоти худро низ дорад. Ҳаво дар шаҳр на ҳамеша тоза аст, зеро ки мошинҳо ва заводҳои зиёд ҳастанд. Кӯчаҳо ҳамеша серодам ҳастанд. Субҳ ҳаракати мошинҳо хеле зиёд аст ва мардум шитоб мекунанд. Аксар вақт сершумор аст ва баъзан дам гирифтан душвор аст. Баъзе одамон мегӯянд: «Ман аз садои шаҳр хаста шудаам. Ман мехоҳам дар деҳа зиндагӣ кунам!»\n\nКадом ҳаёт беҳтар аст — деҳа ё шаҳр? Ман фикр мекунам, ки ҳарду тарафҳои хуб ва тарафҳои бад доранд. Деҳа барои саломатӣ ва барои ҳаёти ором хуб аст. Шаҳр барои кор, барои таҳсил ва барои ҳаёти қулай хуб аст. Одамони зиёд дар шаҳр зиндагӣ мекунанд ва рӯзҳои истироҳат ба деҳа мераванд, то ки хуб дам гиранд. Одамони дигар дар деҳа зиндагӣ мекунанд ва ба шаҳр барои кор ё таҳсил мераванд.\n\nМан ҳам шаҳрро ва ҳам деҳаро дӯст медорам. Ман дар шаҳр зиндагӣ мекунам, аммо дили ман ҳамеша дар деҳа бо биби ва бобоям аст. Дар оянда, вақте ки ман калон мешавам ва духтур мешавам, ман мехоҳам дар ҳарду ҷо кор кунам. Ман мехоҳам ба одамон дар беморхонаи калони шаҳр кӯмак кунам, аммо ман инчунин мехоҳам ба деҳа равам ва ба мардуми он ҷо кӯмак кунам. Ва ман мехоҳам ҳавои тозаи кӯҳӣ нафас гирам ва аз табиати зебои кишварам лаззат барам.\n\nҲам деҳа ва ҳам шаҳр қисмҳои ҳаёти мо ҳастанд. Мо бояд ҳардуро дӯст дорем ва эҳтиром кунем. Деҳа ба мо саломатӣ, оромӣ ва зебоии табиатро медиҳад. Шаҳр ба мо кор, маориф ва ҳаёти қулай медиҳад. Дар ҳар ҷое, ки мо зиндагӣ мекунем, муҳимтарин чиз ин аст, ки меҳрубон, солим ва хушбахт бошем."
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Бибиам дар деҳаи хурде дар назди кӯҳҳо зиндагӣ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи understand"
+        "My grandmother lives in a small village near the mountains.",
+        "My grandmother lives in a small village near the mountain.",
+        "My grandmother lives in the small village near the mountains.",
+        "My grandmother lives in a small village at the mountains."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "My grandmother lives in a small village near the mountains."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Мо дар тобистон аксар вақт ба деҳот меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи explain",
-        "нодуруст C"
+        "We often go to the countryside in summer.",
+        "We often go to the countryside in the summer.",
+        "We often go to the village in summer.",
+        "We often go to the country in summer."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "We often go to the countryside in summer."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Деҳа ором ва осуда аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи important"
+        "The village is quiet and peaceful.",
+        "The village is quiet and peaceful.",
+        "The village is quiet and calm.",
+        "The village is quiet and good."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "The village is quiet and peaceful."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Шаҳр субҳ хеле сершумор аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи different",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "The city is very noisy in the morning.",
+        "The city is very noisy in the evening.",
+        "The town is very noisy in the morning.",
+        "The city is very noisy in the morning."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "The city is very noisy in the morning."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Ҳаво дар деҳа тоза ва пок аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи difficult"
+        "The air in the village is fresh and clean.",
+        "The air in the village is fresh and clear.",
+        "The air in the village is fresh and pure.",
+        "The air in the village is fresh and good."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "The air in the village is fresh and clean."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Кӯчаҳои шаҳр ҳамеша серодам ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи easy"
+        "The streets of the city are always crowded.",
+        "The streets in the city are always crowded.",
+        "The streets of the city are always busy.",
+        "The streets of the city are always full of people."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "The streets of the city are always crowded."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Ҳаёти деҳа осуда ва ором аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи interesting",
-        "нодуруст A",
-        "нодуруст C"
+        "Village life is peaceful and calm.",
+        "Village life is peaceful and quiet.",
+        "The village life is peaceful and calm.",
+        "Village life is calm and peaceful."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "Village life is peaceful and calm."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Дар деҳот ҳавои тоза нафас гирифтан осон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи remember"
+        "It is easy to breathe fresh air in the countryside.",
+        "It is easy to breathe fresh air in the village.",
+        "It is easy to breathe fresh air in the country.",
+        "It is easy to breathe clean air in the countryside."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "It is easy to breathe fresh air in the countryside."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Мо дар деҳа рӯзҳои истироҳат дам мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи forget",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "We relax in the village at the weekend.",
+        "We relax in the village at weekends.",
+        "We have a rest in the village at the weekend.",
+        "We relax in the village on the weekend."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "We relax in the village at the weekend."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Баъзе одамон дар шаҳр зиндагӣ мекунанд, баъзе дар деҳа» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи homework"
+        "Some people live in the city, some in the village.",
+        "Some people live in the city and some in the village.",
+        "Some people live in the city, others in the village.",
+        "Some people live in the city, some live in the village."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "Some people live in the city, some in the village."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Ҳаёти шаҳр барои одамони зиёд қулай аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи exercise"
+        "City life is convenient for many people.",
+        "City life is convenient for a lot of people.",
+        "The city life is convenient for many people.",
+        "City life is comfortable for many people."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "City life is convenient for many people."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Дар шаҳри мо беморхонаи калон ва мактабҳои зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи text",
-        "нодуруст C"
+        "There is a big hospital and many schools in our city.",
+        "There are a big hospital and many schools in our city.",
+        "There is a big hospital and many schools in our town.",
+        "There is a large hospital and many schools in our city."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "There is a big hospital and many schools in our city."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Амакам дар завод дар шаҳр кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи story",
-        "нодуруст B",
-        "нодуруст C"
+        "My uncle works in a factory in the city.",
+        "My uncle works in a factory in the city.",
+        "My uncle works at a factory in the city.",
+        "My uncle works in a plant in the city."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "My uncle works in a factory in the city."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Мо табиати деҳаи худро хеле дӯст медорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи question",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "We love the nature of our village very much.",
+        "We love the nature of our village a lot.",
+        "We love nature of our village very much.",
+        "We love the nature of the village very much."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "We love the nature of our village very much."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Ҳаракати мошинҳо дар шаҳр бегоҳ хеле зиёд аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи answer",
-        "нодуруст B",
-        "нодуруст C"
+        "The traffic in the city is very heavy in the evening.",
+        "The traffic in the city is very heavy in the morning.",
+        "The traffic in the town is very heavy in the evening.",
+        "The traffic in the city is very busy in the evening."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "The traffic in the city is very heavy in the evening."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Ман аз садои шаҳр хаста шудаам ва мехоҳам ба деҳа равам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи understand",
-        "нодуруст A",
-        "нодуруст B"
+        "I am tired of the noise of the city and want to go to the village.",
+        "I am tired of the noise of the city and I want to go to the village.",
+        "I am tired from the noise of the city and want to go to the village.",
+        "I am tired of the city noise and want to go to the village."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "I am tired of the noise of the city and want to go to the village."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Ман дар Душанбе, шаҳри калон ва зебо зиндагӣ мекунам. Аммо биби ва бобои ман дар деҳаи хурде дар кӯҳҳо зиндагӣ мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи explain",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "I live in Dushanbe, a big and beautiful city. But my grandmother and grandfather live in a small village in the mountains.",
+        "I live in Dushanbe, a big and beautiful city. But my grandmother and grandfather live in a small village in the mountains.",
+        "I live in Dushanbe, the big and beautiful city. But my grandmother and grandfather live in a small village in the mountains.",
+        "I live in Dushanbe, a big and nice city. But my grandmother and grandfather live in a small village in the mountains."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "I live in Dushanbe, a big and beautiful city. But my grandmother and grandfather live in a small village in the mountains."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Дар тобистон ман аксар вақт ба он ҷо меравам ва ман ҳам шаҳрро ва ҳам деҳаро хеле хуб медонам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи important",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "In summer I often go there and I know both the city and the village very well.",
+        "In summer I often go there and I know both the city and the village very well.",
+        "In the summer I often go there and I know both the city and the village very well.",
+        "In summer I often go there and I know both the city and the village well."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "In summer I often go there and I know both the city and the village very well."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Имрӯз ман мехоҳам ба шумо дар бораи ҳаёти деҳа ва ҳаёти шаҳр нақл кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи different",
-        "нодуруст C"
+        "Today I want to tell you about the life in the village and the life in the city.",
+        "Today I want to tell you about the life in the village and the life in the city.",
+        "Today I want to tell you about life in the village and life in the city.",
+        "Today I want to speak to you about the life in the village and the life in the city."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "Today I want to tell you about the life in the village and the life in the city."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Деҳа ҷои хеле ором ва осуда аст. Дар он заводҳои калон ва ҳаракати зиёди мошинҳо нест» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи difficult",
-        "нодуруст A"
+        "The village is a very quiet and peaceful place. There are no big factories and no heavy traffic.",
+        "The village is a very quiet and peaceful place. There are no big factories and no heavy traffic.",
+        "The village is a very quiet and peaceful place. There are not any big factories and no heavy traffic.",
+        "The village is a very quiet and peaceful place. There are no big plants and no heavy traffic."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "The village is a very quiet and peaceful place. There are no big factories and no heavy traffic."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Субҳ шумо суруди паррандаҳо ва овози хурӯсҳоро шунида метавонед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи easy",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "In the morning you can hear birds singing and roosters crowing.",
+        "In the morning you can hear birds singing and roosters crowing.",
+        "In the morning you can hear the birds singing and the roosters crowing.",
+        "In the morning you can hear birds singing and cocks crowing."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "In the morning you can hear birds singing and roosters crowing."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Бегоҳ шумо ҳазорон ситораро дар осмони торик дида метавонед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи interesting"
+        "In the evening you can see thousands of stars in the dark sky.",
+        "In the evening you can see thousands of stars in the dark sky.",
+        "In the evening you can see thousands of stars in the black sky.",
+        "In the evening you can see thousands of stars in the dark sky."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "In the evening you can see thousands of stars in the dark sky."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Ҳаво дар деҳа тоза ва пок аст ва нафас гирифтан хеле осон аст. Оби деҳа хунук ва тоза аст — он аз дарёи кӯҳӣ меояд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи remember",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "The air in the village is fresh and clean, and it is very easy to breathe. The water in the village is cold and clean — it comes from the mountain river.",
+        "The air in the village is fresh and clean and it is very easy to breathe. The water in the village is cold and clean — it comes from the mountain river.",
+        "The air in the village is fresh and clean, and it is very easy to breathe. The water in the village is cold and clean, it comes from the mountain river.",
+        "The air in the village is fresh and clean, and it is very easy to breathe. The water in the village is cold and clean — it comes from the mountain stream."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "The air in the village is fresh and clean, and it is very easy to breathe. The water in the village is cold and clean — it comes from the mountain river."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Дар деҳа ҳама якдигарро мешиносанд. Мардум хеле меҳрубон ва меҳмоннавоз ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи forget",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "In the village everyone knows each other. People are very kind and hospitable.",
+        "In the village everyone knows each other. People are very kind and hospitable.",
+        "In the village everybody knows each other. People are very kind and hospitable.",
+        "In the village all people know each other. People are very kind and hospitable."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "In the village everyone knows each other. People are very kind and hospitable."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Вақте ки ман ва оилаам ба деҳа меоем, ҳамаи ҳамсояҳоямон ба хонаи мо меоянд, то ки салом диҳанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи homework",
-        "нодуруст B"
+        "When my family and I come to the village, all our neighbours come to our house to say hello.",
+        "When my family and I come to the village, all our neighbours come to our house to say hello.",
+        "When my family and I come to the village, all our neighbours come to our house to greet us.",
+        "When my family and I come to the village, all our neighbours come to our house for saying hello."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "When my family and I come to the village, all our neighbours come to our house to say hello."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Онҳо ба мо шири тоза, панир, меваҳо ва сабзавот аз боғҳои худ меоранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи exercise",
-        "нодуруст B",
-        "нодуруст C"
+        "They bring us fresh milk, cheese, fruits and vegetables from their gardens.",
+        "They bring us fresh milk, cheese, fruits and vegetables from their gardens.",
+        "They bring us fresh milk, cheese, fruit and vegetables from their gardens.",
+        "They bring to us fresh milk, cheese, fruits and vegetables from their gardens."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "They bring us fresh milk, cheese, fruits and vegetables from their gardens."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Бибиам ҳамеша хӯроки калон мепазад ва мо ҳама дар як миз менишинем. Мо якҷоя мехӯрем, сӯҳбат мекунем ва механдем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи text"
+        "My grandmother always cooks a big dinner and we all sit at one table. We eat, talk and laugh together.",
+        "My grandmother always cooks a big dinner and we all sit at one table. We eat, talk and laugh together.",
+        "My grandmother always makes a big dinner and we all sit at one table. We eat, talk and laugh together.",
+        "My grandmother always cooks a big supper and we all sit at one table. We eat, talk and laugh together."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "My grandmother always cooks a big dinner and we all sit at one table. We eat, talk and laugh together."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Ин ҳисси хеле хуш ва гарм аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи story",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "It is a very nice and warm feeling.",
+        "It is a very good and warm feeling.",
+        "It is a very pleasant and warm feeling.",
+        "It is a very nice and warm emotion."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "It is a very nice and warm feeling."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Дар деҳа ҳаёт чандон қулай нест, аммо он хеле солим аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи question"
+        "In the village life is not very convenient, but it is very healthy.",
+        "In the village life is not very convenient, but it is very healthy.",
+        "In the village life is not very comfortable, but it is very healthy.",
+        "In the village life is not convenient, but it is very healthy."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "In the village life is not very convenient, but it is very healthy."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Дӯконҳои калон, кинотеатрҳо ва донишгоҳҳо нест. Танҳо як мактаби хурд ва як беморхонаи хурд ҳаст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи answer",
-        "нодуруст A"
+        "There are no big shops, no cinemas and no universities. There is only one small school and one small hospital.",
+        "There are no big shops, no cinemas and no universities. There is only one small school and one small hospital.",
+        "There are not any big shops, no cinemas and no universities. There is only one small school and one small hospital.",
+        "There are no big shops, no cinemas and no universities. There is only a small school and a small hospital."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "There are no big shops, no cinemas and no universities. There is only one small school and one small hospital."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Агар шумо чизеро харидан хоҳед, шумо бояд ба шаҳр равед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи understand"
+        "If you want to buy something, you must go to the city.",
+        "If you want to buy something, you must go to the city.",
+        "If you want to buy anything, you must go to the city.",
+        "If you want to buy something, you have to go to the city."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "If you want to buy something, you must go to the city."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Аммо мардум дар деҳа дар боғҳои худ кор мекунанд, ба ҳайвоноти худ хӯрок медиҳанд ва ҳар рӯз ғизои тоза мехӯранд. Онҳо қавӣ, солим ва хушбахт ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи explain"
+        "But people in the village work in their gardens, feed their animals, and eat fresh food every day. They are strong, healthy and happy.",
+        "But people in the village work in their gardens, feed their animals and eat fresh food every day. They are strong, healthy and happy.",
+        "But people in the village work in their gardens, feed their animals, and eat fresh food every day. They are strong, healthy and happy.",
+        "But people in the village work in their gardens, feed their animals, and eat fresh food every day. They are strong, healthy and happy."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "But people in the village work in their gardens, feed their animals, and eat fresh food every day. They are strong, healthy and happy."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Бобоям тамоми рӯз дар боғи худ кор мекунад. Ӯ гандум, картошка ва сабзавот парвариш мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи important",
-        "нодуруст B"
+        "My grandfather works in his garden all day. He grows wheat, potatoes and vegetables.",
+        "My grandfather works in his garden all day. He grows wheat, potatoes and vegetables.",
+        "My grandfather works in his garden all day. He grows wheat, potato and vegetables.",
+        "My grandfather works all day in his garden. He grows wheat, potatoes and vegetables."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "My grandfather works in his garden all day. He grows wheat, potatoes and vegetables."
+    },
+    {
+      "q": "«Ӯ ду гов, даҳ гӯсфанд ва як асп дорад. Бибиам говҳоро медӯшад, равған ва панир месозад ва ғизои хеле бомазза мепазад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He has two cows, ten sheep and a horse. My grandmother milks the cows, makes butter and cheese, and cooks very tasty food.",
+        "He has two cows, ten sheep and a horse. My grandmother milks the cows, makes butter and cheese and cooks very tasty food.",
+        "He has two cows, ten sheep and a horse. My grandmother milks the cows, makes butter and cheese, and cooks very tasty food.",
+        "He has two cows, ten sheep and one horse. My grandmother milks the cows, makes butter and cheese, and cooks very tasty food."
+      ],
+      "answer": "He has two cows, ten sheep and a horse. My grandmother milks the cows, makes butter and cheese, and cooks very tasty food."
+    },
+    {
+      "q": "«Амакам низ дар деҳа кор мекунад. Ӯ деҳқон аст. Ҳар субҳ ӯ ба киштзор меравад ва тамоми рӯз дар он ҷо кор мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My uncle works in the village too. He is a farmer. Every morning he goes to the field and works there all day.",
+        "My uncle works in the village too. He is a farmer. Every morning he goes to the field and works there all day.",
+        "My uncle also works in the village. He is a farmer. Every morning he goes to the field and works there all day.",
+        "My uncle works in the village too. He is a farmer. Every morning he goes to the field and works there the whole day."
+      ],
+      "answer": "My uncle works in the village too. He is a farmer. Every morning he goes to the field and works there all day."
+    },
+    {
+      "q": "«Ӯ мегӯяд: \"Дар деҳа ҳар рӯз ид аст, зеро ки ман ҳавои тоза нафас мегирам, бо дастҳоям кор мекунам ва бо табиат зиндагӣ мекунам.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He says: \"In the village every day is a holiday, because I breathe fresh air, work with my hands, and live with nature.\"",
+        "He says: \"In the village every day is a holiday because I breathe fresh air, work with my hands, and live with nature.\"",
+        "He says: \"In the village every day is a holiday, because I breathe fresh air, work with my hands and live with nature.\"",
+        "He says: \"In the village every day is a holiday, because I take fresh air, work with my hands, and live with nature.\""
+      ],
+      "answer": "He says: \"In the village every day is a holiday, because I breathe fresh air, work with my hands, and live with nature.\""
+    },
+    {
+      "q": "«Шаҳр аз деҳа хеле фарқ мекунад. Шаҳр калон, сершумор ва серодам аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The city is very different from the village. The city is big, noisy and crowded.",
+        "The city is very different from the village. The city is big, noisy and crowded.",
+        "The city differs very much from the village. The city is big, noisy and crowded.",
+        "The city is very different from the village. The city is large, noisy and crowded."
+      ],
+      "answer": "The city is very different from the village. The city is big, noisy and crowded."
+    },
+    {
+      "q": "«Дар кӯчаҳо мошинҳо, автобусҳо ва одамони зиёд ҳастанд. Дӯконҳои калон, кинотеатрҳо, музейҳо, театрҳо ва донишгоҳҳо ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "There are many cars, buses and people in the streets. There are big shops, cinemas, museums, theatres and universities.",
+        "There are many cars, buses and people in the streets. There are big shops, cinemas, museums, theatres and universities.",
+        "There are many cars, buses and people in the streets. There are big shops, cinemas, museums, theatres and universities.",
+        "There are many cars, buses and people in the streets. There are large shops, cinemas, museums, theatres and universities."
+      ],
+      "answer": "There are many cars, buses and people in the streets. There are big shops, cinemas, museums, theatres and universities."
+    },
+    {
+      "q": "«Ҳаёти шаҳр хеле қулай аст. Шумо метавонед ҳама чизеро, ки мехоҳед, харед. Шумо метавонед ба беморхонаи хуб ё ба мактаби хуб равед. Шумо метавонед ҳар гуна корро ёбед — завод, идора ё бонк» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "City life is very convenient. You can buy everything you want. You can go to a good hospital or to a good school. You can find any job — a factory, an office or a bank.",
+        "City life is very convenient. You can buy everything you want. You can go to a good hospital or to a good school. You can find any job — a factory, an office or a bank.",
+        "City life is very convenient. You can buy all you want. You can go to a good hospital or to a good school. You can find any job — a factory, an office or a bank.",
+        "City life is very comfortable. You can buy everything you want. You can go to a good hospital or to a good school. You can find any job — a factory, an office or a bank."
+      ],
+      "answer": "City life is very convenient. You can buy everything you want. You can go to a good hospital or to a good school. You can find any job — a factory, an office or a bank."
+    },
+    {
+      "q": "«Падарам дар беморхонаи калон дар шаҳр кор мекунад. Модарам дар идора кор мекунад. Хоҳарам дар донишгоҳ таҳсил мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father works in a big hospital in the city. My mother works in an office. My sister studies at the university.",
+        "My father works in a big hospital in the city. My mother works in an office. My sister studies at the university.",
+        "My father works in a big hospital in the city. My mother works in an office. My sister studies in the university.",
+        "My father works in a big hospital in the city. My mother works at an office. My sister studies at the university."
+      ],
+      "answer": "My father works in a big hospital in the city. My mother works in an office. My sister studies at the university."
+    },
+    {
+      "q": "«Аммо ҳаёти шаҳр мушкилоти худро низ дорад. Ҳаво дар шаҳр на ҳамеша тоза аст, зеро ки мошинҳо ва заводҳои зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "But city life also has its problems. The air in the city is not always clean, because there are many cars and factories.",
+        "But city life also has its problems. The air in the city is not always clean, because there are many cars and factories.",
+        "But city life also has its problems. The air in the city is not always fresh, because there are many cars and factories.",
+        "But city life also has its own problems. The air in the city is not always clean, because there are many cars and factories."
+      ],
+      "answer": "But city life also has its problems. The air in the city is not always clean, because there are many cars and factories."
+    },
+    {
+      "q": "«Кӯчаҳо ҳамеша серодам ҳастанд. Субҳ ҳаракати мошинҳо хеле зиёд аст ва мардум шитоб мекунанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The streets are always crowded. In the morning there is heavy traffic and people are in a hurry.",
+        "The streets are always crowded. In the morning there is heavy traffic and people are in a hurry.",
+        "The streets are always crowded. In the morning the traffic is heavy and people are in a hurry.",
+        "The streets are always full of people. In the morning there is heavy traffic and people are in a hurry."
+      ],
+      "answer": "The streets are always crowded. In the morning there is heavy traffic and people are in a hurry."
+    },
+    {
+      "q": "«Аксар вақт сершумор аст ва баъзан дам гирифтан душвор аст. Баъзе одамон мегӯянд: \"Ман аз садои шаҳр хаста шудаам. Ман мехоҳам дар деҳа зиндагӣ кунам!\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It is often noisy, and sometimes it is difficult to relax. Some people say: \"I am tired of the noise of the city. I want to live in the village!\"",
+        "It is often noisy and sometimes it is difficult to relax. Some people say: \"I am tired of the noise of the city. I want to live in the village!\"",
+        "It is often noisy, and sometimes it is difficult to have a rest. Some people say: \"I am tired of the noise of the city. I want to live in the village!\"",
+        "It is often noisy, and sometimes it is hard to relax. Some people say: \"I am tired of the noise of the city. I want to live in the village!\""
+      ],
+      "answer": "It is often noisy, and sometimes it is difficult to relax. Some people say: \"I am tired of the noise of the city. I want to live in the village!\""
+    },
+    {
+      "q": "«Кадом ҳаёт беҳтар аст — деҳа ё шаҳр? Ман фикр мекунам, ки ҳарду тарафҳои хуб ва тарафҳои бад доранд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "What kind of life is better — the village or the city? I think that both have good sides and bad sides.",
+        "What kind of life is better — the village or the city? I think that both have good sides and bad sides.",
+        "Which life is better — the village or the city? I think that both have good sides and bad sides.",
+        "What kind of life is better — the village or the city? I think that both have good and bad sides."
+      ],
+      "answer": "What kind of life is better — the village or the city? I think that both have good sides and bad sides."
+    },
+    {
+      "q": "«Деҳа барои саломатӣ ва барои ҳаёти ором хуб аст. Шаҳр барои кор, барои таҳсил ва барои ҳаёти қулай хуб аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The village is good for your health and for a quiet life. The city is good for work, for study and for a convenient life.",
+        "The village is good for your health and for a quiet life. The city is good for work, for study and for a convenient life.",
+        "The village is good for health and for a quiet life. The city is good for work, for study and for a convenient life.",
+        "The village is good for your health and for the quiet life. The city is good for work, for study and for a convenient life."
+      ],
+      "answer": "The village is good for your health and for a quiet life. The city is good for work, for study and for a convenient life."
+    },
+    {
+      "q": "«Одамони зиёд дар шаҳр зиндагӣ мекунанд ва рӯзҳои истироҳат ба деҳа мераванд, то ки хуб дам гиранд. Одамони дигар дар деҳа зиндагӣ мекунанд ва ба шаҳр барои кор ё таҳсил мераванд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Many people live in the city and go to the village at the weekend to have a good rest. Other people live in the village and go to the city to work or to study.",
+        "Many people live in the city and go to the village at the weekend to have a good rest. Other people live in the village and go to the city to work or study.",
+        "Many people live in the city and go to the village at the weekend for a good rest. Other people live in the village and go to the city to work or to study.",
+        "Many people live in the city and go to the village at weekends to have a good rest. Other people live in the village and go to the city to work or to study."
+      ],
+      "answer": "Many people live in the city and go to the village at the weekend to have a good rest. Other people live in the village and go to the city to work or to study."
+    },
+    {
+      "q": "«Ман ҳам шаҳрро ва ҳам деҳаро дӯст медорам. Ман дар шаҳр зиндагӣ мекунам, аммо дили ман ҳамеша дар деҳа бо биби ва бобоям аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I love both the city and the village. I live in the city, but my heart is always in the village with my grandmother and grandfather.",
+        "I love both the city and the village. I live in the city, but my heart is always in the village with my grandmother and grandfather.",
+        "I love both the city and the village. I live in the city, but my heart is always in the village with my grandmother and my grandfather.",
+        "I love both the city and the village. I live in the city, but my heart is always in the village with my grandmother and grandfather."
+      ],
+      "answer": "I love both the city and the village. I live in the city, but my heart is always in the village with my grandmother and grandfather."
+    },
+    {
+      "q": "«Дар оянда, вақте ки ман калон мешавам ва духтур мешавам, ман мехоҳам дар ҳарду ҷо кор кунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In the future, when I grow up and become a doctor, I want to work in both places.",
+        "In the future, when I grow up and become a doctor, I want to work in both places.",
+        "In future, when I grow up and become a doctor, I want to work in both places.",
+        "In the future, when I grow up and become a doctor, I want to work in both of the places."
+      ],
+      "answer": "In the future, when I grow up and become a doctor, I want to work in both places."
+    },
+    {
+      "q": "«Ман мехоҳам ба одамон дар беморхонаи калони шаҳр кӯмак кунам, аммо ман инчунин мехоҳам ба деҳа равам ва ба мардуми он ҷо кӯмак кунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to help people in the big city hospital, but I also want to go to the village and help the people there.",
+        "I want to help people in the big city hospital, but I also want to go to the village and help the people there.",
+        "I want to help people in the big city hospital, but I also want to go to the village and help people there.",
+        "I want to help people in the big hospital of the city, but I also want to go to the village and help the people there."
+      ],
+      "answer": "I want to help people in the big city hospital, but I also want to go to the village and help the people there."
+    },
+    {
+      "q": "«Ва ман мехоҳам ҳавои тозаи кӯҳӣ нафас гирам ва аз табиати зебои кишварам лаззат барам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "And I want to breathe fresh mountain air and enjoy the beautiful nature of my country.",
+        "And I want to breathe fresh mountain air and enjoy the beautiful nature of my country.",
+        "And I want to breathe the fresh mountain air and enjoy the beautiful nature of my country.",
+        "And I want to breathe fresh mountain air and to enjoy the beautiful nature of my country."
+      ],
+      "answer": "And I want to breathe fresh mountain air and enjoy the beautiful nature of my country."
+    },
+    {
+      "q": "«Ҳам деҳа ва ҳам шаҳр қисмҳои ҳаёти мо ҳастанд. Мо бояд ҳардуро дӯст дорем ва эҳтиром кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Both the village and the city are parts of our life. We must love and respect them both.",
+        "Both the village and the city are parts of our life. We must love and respect them both.",
+        "Both the village and the city are parts of our life. We must love and respect both of them.",
+        "Both the village and the city are parts of our life. We should love and respect them both."
+      ],
+      "answer": "Both the village and the city are parts of our life. We must love and respect them both."
+    },
+    {
+      "q": "«Деҳа ба мо саломатӣ, оромӣ ва зебоии табиатро медиҳад. Шаҳр ба мо кор, маориф ва ҳаёти қулай медиҳад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The village gives us health, quiet and the beauty of nature. The city gives us work, education and a convenient life.",
+        "The village gives us health, quiet and the beauty of nature. The city gives us work, education and a convenient life.",
+        "The village gives us health, calm and the beauty of nature. The city gives us work, education and a convenient life.",
+        "The village gives us health, quiet and beauty of nature. The city gives us work, education and a convenient life."
+      ],
+      "answer": "The village gives us health, quiet and the beauty of nature. The city gives us work, education and a convenient life."
+    },
+    {
+      "q": "«Дар ҳар ҷое, ки мо зиндагӣ мекунем, муҳимтарин чиз ин аст, ки меҳрубон, солим ва хушбахт бошем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Wherever we live, the most important thing is to be kind, healthy and happy.",
+        "Wherever we live, the most important thing is to be kind, healthy and happy.",
+        "Wherever we live, the most important thing is to be kind, healthy and happy.",
+        "Wherever we live, the most important thing is that we are kind, healthy and happy."
+      ],
+      "answer": "Wherever we live, the most important thing is to be kind, healthy and happy."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 33
+  "wordsCount": 16
 }
