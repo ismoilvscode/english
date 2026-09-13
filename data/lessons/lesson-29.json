@@ -1,386 +1,424 @@
 {
   "id": 29,
-  "title": "Матн ва машқҳо 29",
-  "level": "Миёна - Синфи 4",
+  "title": "Матн 29: Дӯстӣ ва мактаби ман",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "classmate",
+      "tj": "ҳамсинф",
+      "ex": "My classmate Farid helps me with English."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "blackboard",
+      "tj": "тахтаи синф",
+      "ex": "The teacher writes new words on the blackboard."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "chalk",
+      "tj": "табишқа",
+      "ex": "The teacher uses chalk on the blackboard."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "desk",
+      "tj": "мизи хонанда",
+      "ex": "My books are on the desk."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "break",
+      "tj": "танаффус",
+      "ex": "At break we play in the yard."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "library",
+      "tj": "китобхона",
+      "ex": "We read books in the library."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "carefully",
+      "tj": "бо диққат",
+      "ex": "Listen carefully to the teacher."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "quickly",
+      "tj": "зуд",
+      "ex": "The clever pupil answers quickly."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "slowly",
+      "tj": "оҳиста",
+      "ex": "The small boy walks slowly."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "quietly",
+      "tj": "оромона",
+      "ex": "The children sit quietly in the class."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "loudly",
+      "tj": "баланд",
+      "ex": "The birds sing loudly in the morning."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
-    },
-    {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
-    },
-    {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
-    },
-    {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
-    },
-    {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
-    },
-    {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "together",
+      "tj": "якҷоя",
+      "ex": "We study together in the library."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 29)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "My classmate Farid helps me with English.",
+      "tj": "Ҳамсинфи ман Фарид дар англисӣ ба ман кӯмак мекунад."
     },
     {
-      "en": "I'm working on lesson 29",
-      "tj": "Ман дарси 29-ро меомӯзам"
+      "en": "The teacher writes new words on the blackboard.",
+      "tj": "Муаллим калимаҳои навро дар тахтаи синф менависад."
+    },
+    {
+      "en": "The teacher uses chalk on the blackboard.",
+      "tj": "Муаллим дар тахтаи синф табишқа истифода мебарад."
+    },
+    {
+      "en": "My books are on the desk.",
+      "tj": "Китобҳои ман дар мизи хонанда ҳастанд."
+    },
+    {
+      "en": "At break we play in the yard.",
+      "tj": "Дар танаффус мо дар ҳавлӣ бозӣ мекунем."
+    },
+    {
+      "en": "We read books in the library.",
+      "tj": "Мо дар китобхона китобҳо мехонем."
+    },
+    {
+      "en": "Listen carefully to the teacher.",
+      "tj": "Ба муаллим бо диққат гӯш кунед."
+    },
+    {
+      "en": "The clever pupil answers quickly.",
+      "tj": "Хонандаи зирак зуд ҷавоб медиҳад."
+    },
+    {
+      "en": "The small boy walks slowly.",
+      "tj": "Писари хурд оҳиста қадам мезанад."
+    },
+    {
+      "en": "The children sit quietly in the class.",
+      "tj": "Кӯдакон дар синф оромона менишинанд."
+    },
+    {
+      "en": "The birds sing loudly in the morning.",
+      "tj": "Паррандаҳо субҳ баланд суруд мехонанд."
+    },
+    {
+      "en": "We study together in the library.",
+      "tj": "Мо якҷоя дар китобхона меомӯзем."
+    },
+    {
+      "en": "My friend and I always go to school together.",
+      "tj": "Ман ва дӯстам ҳамеша якҷоя ба мактаб меравем."
+    },
+    {
+      "en": "The teacher explains the new lesson carefully and we listen quietly.",
+      "tj": "Муаллим дарси навро бо диққат шарҳ медиҳад ва мо оромона гӯш мекунем."
     }
   ],
   "text": {
-    "en": "Text for lesson 29. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 29 is about Миёна - Синфи 4. I write all words in my notebook. Level 29 text.",
-    "tj": "Матни дарси 29..."
+    "en": "Friendship and My School\n\nMy name is Ismoil. I study at a big school in Dushanbe. My school is near our house. Every morning I go to school on foot with my classmate Farid. Farid is my best friend. He is a clever and kind boy. He always helps me with English. We study together in the library after lessons.\n\nOur classroom is big and clean. There are many desks and chairs in it. The blackboard is on the wall. The teacher writes new words on the blackboard with chalk. We write them carefully in our notebooks. We have many subjects: English, Tajik, math, history, geography and biology. My favourite subject is English. I love English because it is an interesting and important language.\n\nIn our class there are twenty pupils. We are all friends. We help each other and never fight. At break we go out to the yard. We run, jump and play together. We laugh loudly and talk about our lessons. Sometimes we go to the library. The library is big and quiet. There are many books on the shelves. I like to read stories and fairy tales. My friend Farid likes to read books about animals and nature. We read slowly and carefully because we want to understand every word.\n\nEvery day I get up early in the morning. I wash my hands and face. I have breakfast with my family. I usually eat bread with butter, cheese and drink tea. Then I take my bag and go to school. I always come to school quickly, because I do not like to be late. My father says: \"Early to bed and early to rise makes a man healthy, wealthy and wise.\"\n\nAfter school I come home. I eat lunch and rest a little. Then I do my homework. I read my textbook carefully and write exercises in my notebook. When I do not understand a word, I ask my teacher or my friend Farid. They always help me. In the evening I help my mother in the kitchen. We talk about our day and laugh together. Sometimes I listen to music or read a book.\n\nOn Saturday and Sunday I do not go to school. I visit my grandmother and grandfather in the village with my family. We help them in the garden. We pick apples and vegetables together. My grandmother cooks a good dinner. We eat and talk. I love my school, my teachers, my classmates and my family. Friendship is a very important thing in our life.",
+    "tj": "Дӯстӣ ва мактаби ман\n\nНоми ман Исмоил аст. Ман дар мактаби калоне дар Душанбе таҳсил мекунам. Мактаби ман дар назди хонаи мост. Ҳар субҳ ман бо ҳамсинфи худ Фарид пиёда ба мактаб меравам. Фарид беҳтарин дӯсти ман аст. Ӯ писари зирак ва меҳрубон аст. Ӯ ҳамеша дар англисӣ ба ман кӯмак мекунад. Мо баъд аз дарсҳо якҷоя дар китобхона меомӯзем.\n\nСинфхонаи мо калон ва тоза аст. Дар он мизҳо ва курсӣҳои зиёд ҳастанд. Тахтаи синф дар девор аст. Муаллим калимаҳои навро бо табишқа дар тахтаи синф менависад. Мо онҳоро бо диққат дар дафтарҳоямон менависем. Мо фанҳои зиёд дорем: англисӣ, тоҷикӣ, математика, таърих, ҷуғрофия ва биология. Фани дӯстдоштаи ман англисӣ аст. Ман англисиро дӯст медорам, зеро ки он забони ҷолиб ва муҳим аст.\n\nДар синфи мо бист хонанда ҳаст. Мо ҳама дӯст ҳастем. Мо ба якдигар кӯмак мекунем ва ҳеҷ гоҳ ҷанҷол намекунем. Дар танаффус мо ба ҳавлӣ мебароем. Мо якҷоя медаваем, меҷаҳем ва бозӣ мекунем. Мо баланд механдем ва дар бораи дарсҳоямон суҳбат мекунем. Баъзан мо ба китобхона меравем. Китобхона калон ва ором аст. Дар рафҳо китобҳои зиёд ҳастанд. Ман ҳикояҳо ва афсонаҳоро хонданро дӯст медорам. Дӯсти ман Фарид китобҳо дар бораи ҳайвонот ва табиатро хонданро дӯст медорад. Мо оҳиста ва бо диққат мехонем, зеро ки мо ҳар як калимаро фаҳмидан мехоҳем.\n\nҲар рӯз ман субҳ барвақт аз ҷой мехезам. Дастҳо ва рӯямро мешӯям. Ман бо оилаам наҳорӣ мехӯрам. Ман одатан нонро бо равған, панир мехӯрам ва чой менӯшам. Баъд халтаамро мегирам ва ба мактаб меравам. Ман ҳамеша зуд ба мактаб меоям, зеро ки ман дер монданро дӯст намедорам. Падарам мегӯяд: «Барвақт хоб кун ва барвақт аз ҷой хез, то ки солим, бой ва доно бошӣ.»\n\nБаъд аз мактаб ман ба хона меоям. Ман хӯроки нисфирӯзӣ мехӯрам ва каме дам мегирам. Баъд ман вазифаи хонагиамро иҷро мекунам. Ман китоби дарсиамро бо диққат мехонам ва машқҳоро дар дафтарам менависам. Вақте ки ман калимаеро намефаҳмам, ман аз муаллимам ё аз дӯстам Фарид мепурсам. Онҳо ҳамеша ба ман кӯмак мекунанд. Бегоҳ ман ба модарам дар ошхона кӯмак мекунам. Мо дар бораи рӯзи худ суҳбат мекунем ва якҷоя механдем. Баъзан ман ба мусиқӣ гӯш мекунам ё китоб мехонам.\n\nРӯзи шанбе ва якшанбе ман ба мактаб намеравам. Ман бо оилаам биби ва бобоямонро дар деҳа дидан мекунам. Мо ба онҳо дар боғ кӯмак мекунем. Мо якҷоя себҳо ва сабзавотро мечинам. Бибиам хӯроки хуб мепазад. Мо мехӯрем ва суҳбат мекунем. Ман мактабам, муаллимонам, ҳамсинфонам ва оилаамро дӯст медорам. Дӯстӣ дар ҳаёти мо чизеи хеле муҳим аст."
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Ҳамсинфи ман Фарид дар англисӣ ба ман кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи understand",
-        "нодуруст A",
-        "нодуруст C"
+        "My classmate Farid helps me with English.",
+        "My classmate Farid helps me with Tajik.",
+        "My friend Farid helps me with English.",
+        "My classmate Farid helps me with math."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "My classmate Farid helps me with English."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Муаллим калимаҳои навро дар тахтаи синф менависад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи explain"
+        "The teacher writes new words on the blackboard.",
+        "The teacher writes old words on the blackboard.",
+        "The teacher writes new words in the notebook.",
+        "The teacher writes new letters on the blackboard."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "The teacher writes new words on the blackboard."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Муаллим дар тахтаи синф табишқа истифода мебарад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи important",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "The teacher uses chalk on the blackboard.",
+        "The teacher uses a pen on the blackboard.",
+        "The teacher uses chalk on the desk.",
+        "The pupil uses chalk on the blackboard."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "The teacher uses chalk on the blackboard."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Китобҳои ман дар мизи хонанда ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи different",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "My books are on the desk.",
+        "My books are on the table.",
+        "My notebooks are on the desk.",
+        "My books are in the desk."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "My books are on the desk."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Дар танаффус мо дар ҳавлӣ бозӣ мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи difficult"
+        "At break we play in the yard.",
+        "At break we play in the garden.",
+        "At break we run in the yard.",
+        "At break we play in the park."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "At break we play in the yard."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Мо дар китобхона китобҳо мехонем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи easy"
+        "We read books in the library.",
+        "We read books in the classroom.",
+        "We write books in the library.",
+        "We read texts in the library."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "We read books in the library."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Ба муаллим бо диққат гӯш кунед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи interesting",
-        "нодуруст A",
-        "нодуруст B"
+        "Listen carefully to the teacher.",
+        "Listen quietly to the teacher.",
+        "Look carefully at the teacher.",
+        "Listen carefully to the mother."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "Listen carefully to the teacher."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Хонандаи зирак зуд ҷавоб медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи remember",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "The clever pupil answers quickly.",
+        "The clever pupil answers slowly.",
+        "The kind pupil answers quickly.",
+        "The clever student answers quickly."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "The clever pupil answers quickly."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Писари хурд оҳиста қадам мезанад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи forget"
+        "The small boy walks slowly.",
+        "The small boy walks quickly.",
+        "The small girl walks slowly.",
+        "The big boy walks slowly."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "The small boy walks slowly."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Кӯдакон дар синф оромона менишинанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи homework"
+        "The children sit quietly in the class.",
+        "The children sit quietly in the yard.",
+        "The pupils sit quietly in the class.",
+        "The children stand quietly in the class."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "The children sit quietly in the class."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Паррандаҳо субҳ баланд суруд мехонанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи exercise",
-        "нодуруст A",
-        "нодуруст B"
+        "The birds sing loudly in the morning.",
+        "The birds sing loudly in the evening.",
+        "The birds sing quietly in the morning.",
+        "The birds fly loudly in the morning."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "The birds sing loudly in the morning."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Мо якҷоя дар китобхона меомӯзем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи text"
+        "We study together in the library.",
+        "We study together in the classroom.",
+        "We read together in the library.",
+        "We work together in the library."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "We study together in the library."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Ман ва дӯстам ҳамеша якҷоя ба мактаб меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи story",
-        "нодуруст B"
+        "My friend and I always go to school together.",
+        "My friend and I sometimes go to school together.",
+        "My classmate and I always go to school together.",
+        "My friend and I always come to school together."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "My friend and I always go to school together."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Муаллим дарси навро бо диққат шарҳ медиҳад ва мо оромона гӯш мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи question"
+        "The teacher explains the new lesson carefully and we listen quietly.",
+        "The teacher explains the old lesson carefully and we listen quietly.",
+        "The teacher explains the new lesson carefully and we listen loudly.",
+        "The teacher explains the new lesson slowly and we listen quietly."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "The teacher explains the new lesson carefully and we listen quietly."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Фани дӯстдоштаи ман англисӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи answer",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "My favourite subject is English.",
+        "My favourite lesson is English.",
+        "My favourite subject is math.",
+        "My favourite language is English."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "My favourite subject is English."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Ман англисиро дӯст медорам, зеро ки он забони ҷолиб ва муҳим аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи understand",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "I love English because it is an interesting and important language.",
+        "I love English because it is an interesting and beautiful language.",
+        "I love English because it is an easy and important language.",
+        "I love Tajik because it is an interesting and important language."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "I love English because it is an interesting and important language."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Дар синфи мо бист хонанда ҳаст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи explain",
-        "нодуруст A",
-        "нодуруст C"
+        "In our class there are twenty pupils.",
+        "In our class there are twenty students.",
+        "In our class there are ten pupils.",
+        "In our school there are twenty pupils."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "In our class there are twenty pupils."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Мо ба якдигар кӯмак мекунем ва ҳеҷ гоҳ ҷанҷол намекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи important",
-        "нодуруст A"
+        "We help each other and never fight.",
+        "We help each other and never cry.",
+        "We help our teacher and never fight.",
+        "We help each other and never forget."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "We help each other and never fight."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Китобхона калон ва ором аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи different",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "The library is big and quiet.",
+        "The library is big and clean.",
+        "The classroom is big and quiet.",
+        "The library is small and quiet."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "The library is big and quiet."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Дар рафҳо китобҳои зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи difficult",
-        "нодуруст A",
-        "нодуруст B"
+        "There are many books on the shelves.",
+        "There are many books on the desks.",
+        "There are many notebooks on the shelves.",
+        "There are many books in the library."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "There are many books on the shelves."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Ман ҳикояҳо ва афсонаҳоро хонданро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи easy",
-        "нодуруст C"
+        "I like to read stories and fairy tales.",
+        "I like to read books and fairy tales.",
+        "I like to read stories and books.",
+        "I like to write stories and fairy tales."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "I like to read stories and fairy tales."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Дӯсти ман Фарид китобҳо дар бораи ҳайвонот ва табиатро хонданро дӯст медорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи interesting",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "My friend Farid likes to read books about animals and nature.",
+        "My friend Farid likes to read books about animals and cities.",
+        "My classmate Farid likes to read books about animals and nature.",
+        "My friend Farid likes to read books about birds and nature."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "My friend Farid likes to read books about animals and nature."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Мо оҳиста ва бо диққат мехонем, зеро ки мо ҳар як калимаро фаҳмидан мехоҳем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи remember",
-        "нодуруст A",
-        "нодуруст C"
+        "We read slowly and carefully because we want to understand every word.",
+        "We read quickly and carefully because we want to understand every word.",
+        "We read slowly and carefully because we want to learn every word.",
+        "We read slowly and loudly because we want to understand every word."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "We read slowly and carefully because we want to understand every word."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Ман ҳамеша зуд ба мактаб меоям, зеро ки ман дер монданро дӯст намедорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи forget",
-        "нодуруст B"
+        "I always come to school quickly because I do not like to be late.",
+        "I always come to school quickly because I do not like to be early.",
+        "I sometimes come to school quickly because I do not like to be late.",
+        "I always go to school quickly because I do not like to be late."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "I always come to school quickly because I do not like to be late."
+    },
+    {
+      "q": "«Вақте ки ман калимаеро намефаҳмам, ман аз муаллимам ё аз дӯстам Фарид мепурсам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I do not understand a word, I ask my teacher or my friend Farid.",
+        "When I do not understand a lesson, I ask my teacher or my friend Farid.",
+        "When I do not understand a word, I ask my mother or my friend Farid.",
+        "When I do not understand a word, I ask my teacher and my friend Farid."
+      ],
+      "answer": "When I do not understand a word, I ask my teacher or my friend Farid."
+    },
+    {
+      "q": "«Баъзан ман ба мусиқӣ гӯш мекунам ё китоб мехонам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Sometimes I listen to music or read a book.",
+        "Sometimes I listen to songs or read a book.",
+        "Sometimes I listen to music and read a book.",
+        "Often I listen to music or read a book."
+      ],
+      "answer": "Sometimes I listen to music or read a book."
+    },
+    {
+      "q": "«Мо якҷоя себҳо ва сабзавотро мечинам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We pick apples and vegetables together.",
+        "We pick fruits and vegetables together.",
+        "We pick apples and fruits together.",
+        "We eat apples and vegetables together."
+      ],
+      "answer": "We pick apples and vegetables together."
+    },
+    {
+      "q": "«Ман мактабам, муаллимонам, ҳамсинфонам ва оилаамро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I love my school, my teachers, my classmates and my family.",
+        "I love my school, my teachers, my friends and my family.",
+        "I love my school, my classmates, my teachers and my house.",
+        "I love my school, my books, my classmates and my family."
+      ],
+      "answer": "I love my school, my teachers, my classmates and my family."
+    },
+    {
+      "q": "«Дӯстӣ дар ҳаёти мо чизеи хеле муҳим аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Friendship is a very important thing in our life.",
+        "Friendship is a very good thing in our life.",
+        "Friendship is a very important thing in our school.",
+        "Friendship is a very important word in our life."
+      ],
+      "answer": "Friendship is a very important thing in our life."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 24
+  "wordsCount": 12
 }
