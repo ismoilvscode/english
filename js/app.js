@@ -43,6 +43,21 @@ const store = {
   del: (k) => localStorage.removeItem(k)
 };
 
+// ============================================================
+// RESET HAMAGON — ин фақат он вақт кор мекунад, ки шумо
+// FORCE_RESET_VERSION-ро зиёд карда push кунед. Дар он лаҳза,
+// пешрафти ҲАМАИ корбарон (аз ҳама дастгоҳҳо) худкор пок мешавад,
+// вақте ки онҳо барномаро кушоянд — шумо ба телефони онҳо ниёз
+// надоред. Барои гирифтани ин натиҷа, танҳо рақами поёнро зиёд
+// кунед (масалан аз 1 ба 2) ва дар GitHub push кунед.
+// ============================================================
+const FORCE_RESET_VERSION = 1;
+const _savedResetVersion = store.get('_forceResetVersion', 0);
+if (_savedResetVersion !== FORCE_RESET_VERSION) {
+  store.del('progress');
+  store.set('_forceResetVersion', FORCE_RESET_VERSION);
+}
+
 let progress = store.get('progress', {
   completedLessons: [],
   testScores: {},
