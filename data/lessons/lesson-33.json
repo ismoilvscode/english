@@ -1,416 +1,652 @@
 {
   "id": 33,
-  "title": "Матн ва машқҳо 33",
-  "level": "Миёна - Синфи 4",
+  "title": "Матн 33: Варзиш ва саломатӣ",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "sport",
+      "tj": "варзиш",
+      "ex": "Sport is good for our health."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "health",
+      "tj": "саломатӣ",
+      "ex": "Good food is good for health."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "healthy",
+      "tj": "солим",
+      "ex": "My grandmother is very healthy."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "team",
+      "tj": "даста",
+      "ex": "Our team plays football very well."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "player",
+      "tj": "бозингар",
+      "ex": "He is a good football player."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "football",
+      "tj": "футбол",
+      "ex": "We play football after school."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "volleyball",
+      "tj": "волейбол",
+      "ex": "Girls play volleyball in the yard."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "basketball",
+      "tj": "баскетбол",
+      "ex": "Basketball is an interesting game."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "tennis",
+      "tj": "теннис",
+      "ex": "They play tennis on Sunday."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "chess",
+      "tj": "шатранҷ",
+      "ex": "My grandfather plays chess very well."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "swimming",
+      "tj": "шиноварӣ",
+      "ex": "Swimming is good for the body."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "running",
+      "tj": "давидан",
+      "ex": "Running in the morning is useful."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "strong",
+      "tj": "қавӣ",
+      "ex": "Sport makes our body strong."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
-    },
-    {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
-    },
-    {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
-    },
-    {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
-    },
-    {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "weak",
+      "tj": "заиф",
+      "ex": "A weak body needs sport."
     },
     {
       "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "tj": "машқ",
+      "ex": "I do morning exercises every day."
+    },
+    {
+      "en": "gym",
+      "tj": "варзишгоҳ",
+      "ex": "We go to the gym on Monday."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 33)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Sport is good for our health.",
+      "tj": "Варзиш барои саломатии мо хуб аст."
     },
     {
-      "en": "I'm working on lesson 33",
-      "tj": "Ман дарси 33-ро меомӯзам"
+      "en": "Good food is good for health.",
+      "tj": "Ғизои хуб барои саломатӣ хуб аст."
+    },
+    {
+      "en": "My grandmother is very healthy.",
+      "tj": "Бибии ман хеле солим аст."
+    },
+    {
+      "en": "Our team plays football very well.",
+      "tj": "Дастаи мо футболро хеле хуб бозӣ мекунад."
+    },
+    {
+      "en": "He is a good football player.",
+      "tj": "Ӯ бозингари хуб футбол аст."
+    },
+    {
+      "en": "We play football after school.",
+      "tj": "Мо баъд аз мактаб футбол бозӣ мекунем."
+    },
+    {
+      "en": "Girls play volleyball in the yard.",
+      "tj": "Духтарон дар ҳавлӣ волейбол бозӣ мекунанд."
+    },
+    {
+      "en": "Basketball is an interesting game.",
+      "tj": "Баскетбол бозии ҷолиб аст."
+    },
+    {
+      "en": "They play tennis on Sunday.",
+      "tj": "Онҳо рӯзи якшанбе теннис бозӣ мекунанд."
+    },
+    {
+      "en": "My grandfather plays chess very well.",
+      "tj": "Бобоям шатранҷро хеле хуб бозӣ мекунад."
+    },
+    {
+      "en": "Swimming is good for the body.",
+      "tj": "Шиноварӣ барои бадан хуб аст."
+    },
+    {
+      "en": "Running in the morning is useful.",
+      "tj": "Давидан дар субҳ фоиданок аст."
+    },
+    {
+      "en": "Sport makes our body strong.",
+      "tj": "Варзиш бадани моро қавӣ мекунад."
+    },
+    {
+      "en": "A weak body needs sport.",
+      "tj": "Бадани заиф варзиш лозим дорад."
+    },
+    {
+      "en": "I do morning exercises every day.",
+      "tj": "Ман ҳар рӯз машқҳои субҳро иҷро мекунам."
+    },
+    {
+      "en": "We go to the gym on Monday.",
+      "tj": "Мо рӯзи душанбе ба варзишгоҳ меравем."
     }
   ],
   "text": {
-    "en": "Text for lesson 33. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 33 is about Миёна - Синфи 4. I write all words in my notebook. Level 33 text.",
-    "tj": "Матни дарси 33..."
+    "en": "Sport and Health\n\nMy name is Ismoil. I am a pupil of class four. I want to be healthy and strong. Sport is very important for our health. Sport makes our body strong and our mind clear. Doctors say: \"Sport is the best medicine.\" I agree with them.\n\nEvery morning I do my morning exercises. I get up at seven o'clock, open the window and do exercises for ten minutes. Then I wash my hands and face with cold water. I eat a good breakfast: bread with butter, cheese, an egg and a cup of hot tea. I never eat too much sugar and I never drink cold water after sport. Good food is very important for our health. Fruits, vegetables, milk and meat are useful food. Sweets, cakes and ice-cream are not very useful.\n\nWe have a good gym at our school. We go there on Monday and Wednesday. Our teacher of sport is very kind. He is a good football player. He teaches us to play football, volleyball and basketball. We run, jump, swim and play different games. In winter we ski and skate. In summer we swim in the lake or in the river. I like swimming very much. Swimming is good for the body and for the legs and arms.\n\nAfter school we play football in the school yard. My team is very good. My friend Farid is a good football player. He runs very quickly and jumps very high. Another friend of mine, Zafar, plays chess very well. He is a very clever boy. My sister Zuhro plays volleyball with her friends. She is tall and strong. My father plays tennis on Sunday. My mother does not play sport, but she walks in the park every evening.\n\nOn Saturday my family and I go to the mountains. We walk in the mountains and breathe fresh air. We eat fruit and drink cold water from the mountain river. In the evening we come home and rest. It is a very good day for our health.\n\nEvery year in our city we have a big sport holiday. All the pupils of our school take part in it. We run, jump, play football and swim. The best players get presents and medals. Last year my friend Farid won a gold medal. I won a silver medal. We were very happy.\n\nWhen I grow up, I want to be a doctor. I want to help sick people and teach them how to be healthy. I want to tell them about sport and good food. I want all the people of my country to be strong and healthy.",
+    "tj": "Варзиш ва саломатӣ\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман мехоҳам солим ва қавӣ бошам. Варзиш барои саломатии мо хеле муҳим аст. Варзиш бадани моро қавӣ ва зеҳни моро равшан мекунад. Духтурон мегӯянд: «Варзиш беҳтарин дору аст.» Ман бо онҳо розӣ ҳастам.\n\nҲар субҳ ман машқҳои субҳро иҷро мекунам. Ман соати ҳафт аз ҷой мехезам, тирезаро мекушоям ва даҳ дақиқа машқ мекунам. Баъд дастҳо ва рӯямро бо оби хунук мешӯям. Ман наҳории хуб мехӯрам: нон бо равған, панир, тухм ва як пиёла чойи гарм. Ман ҳеҷ гоҳ шакарро аз ҳад зиёд намехӯрам ва ман ҳеҷ гоҳ баъд аз варзиш оби хунук наменӯшам. Ғизои хуб барои саломатии мо хеле муҳим аст. Меваҳо, сабзавот, шир ва гӯшт ғизои фоиданок ҳастанд. Шириниҳо, тортҳо ва яхмосҳо чандон фоиданок нестанд.\n\nМо дар мактаби худ варзишгоҳи хуб дорем. Мо рӯзи душанбе ва чоршанбе ба он ҷо меравем. Муаллими варзиши мо хеле меҳрубон аст. Ӯ бозингари хуб футбол аст. Ӯ ба мо футбол, волейбол ва баскетбол бозӣ карданро меомӯзонад. Мо медаваем, меҷаҳем, шино мекунем ва бозиҳои гуногун бозӣ мекунем. Дар зимистон мо лижаронӣ ва конкиронӣ мекунем. Дар тобистон мо дар кӯл ё дар дарё шино мекунем. Ман шиновариро хеле дӯст медорам. Шиноварӣ барои бадан ва барои пойҳо ва дастҳо хуб аст.\n\nБаъд аз мактаб мо дар ҳавлии мактаб футбол бозӣ мекунем. Дастаи ман хеле хуб аст. Дӯсти ман Фарид бозингари хуб футбол аст. Ӯ хеле зуд медавад ва хеле баланд меҷаҳад. Дӯсти дигари ман Зафар шатранҷро хеле хуб бозӣ мекунад. Ӯ писари хеле зирак аст. Хоҳари ман Зуҳро бо дӯстонаш волейбол бозӣ мекунад. Ӯ баланд ва қавӣ аст. Падари ман рӯзи якшанбе теннис бозӣ мекунад. Модари ман варзиш намекунад, аммо ӯ ҳар бегоҳ дар боғи истироҳат қадам мезанад.\n\nРӯзи шанбе ман ва оилаам ба кӯҳҳо меравем. Мо дар кӯҳҳо қадам мезанем ва ҳавои тоза нафас мегирем. Мо мева мехӯрем ва аз дарёи кӯҳӣ оби хунук менӯшем. Бегоҳ мо ба хона меоем ва дам мегирем. Ин барои саломатии мо рӯзи хеле хуб аст.\n\nҲар сол дар шаҳри мо иди калони варзишӣ дорем. Ҳамаи хонандагони мактаби мо дар он иштирок мекунанд. Мо медаваем, меҷаҳем, футбол бозӣ мекунем ва шино мекунем. Беҳтарин бозингарон тӯҳфаҳо ва медалҳо мегиранд. Соли гузашта дӯсти ман Фарид медали тилло гирифт. Ман медали нуқра гирифтам. Мо хеле хушҳол будем.\n\nВақте ки ман калон мешавам, ман мехоҳам духтур шавам. Ман мехоҳам ба беморон кӯмак кунам ва ба онҳо солим буданро омӯзонам. Ман мехоҳам ба онҳо дар бораи варзиш ва ғизои хуб нақл кунам. Ман мехоҳам, ки ҳамаи мардуми кишварам қавӣ ва солим бошанд."
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Варзиш барои саломатии мо хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи understand",
-        "нодуруст A",
-        "нодуруст B"
+        "Sport is good for our health.",
+        "Sport is good for our body.",
+        "Sport is useful for our health.",
+        "Sport is good for the health."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "Sport is good for our health."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Ғизои хуб барои саломатӣ хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи explain"
+        "Good food is good for health.",
+        "Good food is good for the health.",
+        "Good food is useful for health.",
+        "Good food is good for our health."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "Good food is good for health."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Бибии ман хеле солим аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи important",
-        "нодуруст B"
+        "My grandmother is very healthy.",
+        "My grandmother is very strong.",
+        "My grandfather is very healthy.",
+        "My grandmother is very happy."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "My grandmother is very healthy."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Дастаи мо футболро хеле хуб бозӣ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи different"
+        "Our team plays football very well.",
+        "Our team plays football very good.",
+        "Our team plays volleyball very well.",
+        "Our players play football very well."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "Our team plays football very well."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Ӯ бозингари хуб футбол аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи difficult",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "He is a good football player.",
+        "He is a good player of football.",
+        "He is a good volleyball player.",
+        "She is a good football player."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "He is a good football player."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Мо баъд аз мактаб футбол бозӣ мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи easy",
-        "нодуруст C"
+        "We play football after school.",
+        "We play football before school.",
+        "We play volleyball after school.",
+        "We play football after the school."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "We play football after school."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Духтарон дар ҳавлӣ волейбол бозӣ мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи interesting",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Girls play volleyball in the yard.",
+        "Girls play volleyball in the garden.",
+        "Boys play volleyball in the yard.",
+        "Girls play basketball in the yard."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "Girls play volleyball in the yard."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Баскетбол бозии ҷолиб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи remember"
+        "Basketball is an interesting game.",
+        "Basketball is a good game.",
+        "Volleyball is an interesting game.",
+        "Basketball is an interesting sport."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "Basketball is an interesting game."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Онҳо рӯзи якшанбе теннис бозӣ мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи forget"
+        "They play tennis on Sunday.",
+        "They play tennis on Saturday.",
+        "We play tennis on Sunday.",
+        "They play chess on Sunday."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "They play tennis on Sunday."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Бобоям шатранҷро хеле хуб бозӣ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи homework",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "My grandfather plays chess very well.",
+        "My grandfather plays chess very good.",
+        "My grandmother plays chess very well.",
+        "My grandfather plays tennis very well."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "My grandfather plays chess very well."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Шиноварӣ барои бадан хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи exercise"
+        "Swimming is good for the body.",
+        "Swimming is useful for the body.",
+        "Running is good for the body.",
+        "Swimming is good for health."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "Swimming is good for the body."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Давидан дар субҳ фоиданок аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи text"
+        "Running in the morning is useful.",
+        "Running in the evening is useful.",
+        "Swimming in the morning is useful.",
+        "Running in the morning is good."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "Running in the morning is useful."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Варзиш бадани моро қавӣ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи story",
-        "нодуруст A",
-        "нодуруст C"
+        "Sport makes our body strong.",
+        "Sport makes our body healthy.",
+        "Sport makes our body good.",
+        "Sport makes the body strong."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "Sport makes our body strong."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Бадани заиф варзиш лозим дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи question",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "A weak body needs sport.",
+        "A weak body needs food.",
+        "A strong body needs sport.",
+        "A weak body wants sport."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "A weak body needs sport."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Ман ҳар рӯз машқҳои субҳро иҷро мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи answer",
-        "нодуруст C",
-        "нодуруст B"
+        "I do morning exercises every day.",
+        "I do morning exercises every morning.",
+        "I do my morning exercises every day.",
+        "I do exercises every day."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "I do morning exercises every day."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Мо рӯзи душанбе ба варзишгоҳ меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи understand",
-        "нодуруст C"
+        "We go to the gym on Monday.",
+        "We go to the gym on Sunday.",
+        "We go to the gym on Tuesday.",
+        "We go to the stadium on Monday."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "We go to the gym on Monday."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Духтурон мегӯянд: \"Варзиш беҳтарин дору аст.\" Ман бо онҳо розӣ ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи explain"
+        "Doctors say: \"Sport is the best medicine.\" I agree with them.",
+        "Doctors say: \"Sport is the best doctor.\" I agree with them.",
+        "Teachers say: \"Sport is the best medicine.\" I agree with them.",
+        "Doctors say: \"Food is the best medicine.\" I agree with them."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "Doctors say: \"Sport is the best medicine.\" I agree with them."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Ҳар субҳ ман машқҳои субҳро иҷро мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи important"
+        "Every morning I do my morning exercises.",
+        "Every morning I do morning exercises.",
+        "Every evening I do my morning exercises.",
+        "Every morning I make my morning exercises."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "Every morning I do my morning exercises."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Ман соати ҳафт аз ҷой мехезам, тирезаро мекушоям ва даҳ дақиқа машқ мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи different",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "I get up at seven o'clock, open the window and do exercises for ten minutes.",
+        "I get up at six o'clock, open the window and do exercises for ten minutes.",
+        "I get up at seven o'clock, open the door and do exercises for ten minutes.",
+        "I get up at seven o'clock, open the window and do exercises for five minutes."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "I get up at seven o'clock, open the window and do exercises for ten minutes."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Баъд дастҳо ва рӯямро бо оби хунук мешӯям» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи difficult",
-        "нодуруст B"
+        "Then I wash my hands and face with cold water.",
+        "Then I wash my hands and face with warm water.",
+        "Then I wash my hands and hair with cold water.",
+        "Then I clean my hands and face with cold water."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "Then I wash my hands and face with cold water."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Ман наҳории хуб мехӯрам: нон бо равған, панир, тухм ва як пиёла чойи гарм» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи easy",
-        "нодуруст C",
-        "нодуруст B"
+        "I eat a good breakfast: bread with butter, cheese, an egg and a cup of hot tea.",
+        "I eat a good breakfast: bread with butter, cheese, an egg and a cup of cold tea.",
+        "I eat a good breakfast: bread with cheese, butter, an egg and a cup of hot tea.",
+        "I eat a good breakfast: bread with butter, milk, an egg and a cup of hot tea."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "I eat a good breakfast: bread with butter, cheese, an egg and a cup of hot tea."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Ман ҳеҷ гоҳ шакарро аз ҳад зиёд намехӯрам ва ман ҳеҷ гоҳ баъд аз варзиш оби хунук наменӯшам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи interesting",
-        "нодуруст B"
+        "I never eat too much sugar and I never drink cold water after sport.",
+        "I never eat too much sugar and I never drink cold water after food.",
+        "I sometimes eat too much sugar and I never drink cold water after sport.",
+        "I never eat too much sugar and I never drink hot water after sport."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "I never eat too much sugar and I never drink cold water after sport."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Меваҳо, сабзавот, шир ва гӯшт ғизои фоиданок ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи remember",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "Fruits, vegetables, milk and meat are useful food.",
+        "Fruits, vegetables, milk and bread are useful food.",
+        "Fruits, vegetables, water and meat are useful food.",
+        "Apples, vegetables, milk and meat are useful food."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "Fruits, vegetables, milk and meat are useful food."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Шириниҳо, тортҳо ва яхмосҳо чандон фоиданок нестанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи forget",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "Sweets, cakes and ice-cream are not very useful.",
+        "Sweets, cakes and ice-cream are not useful.",
+        "Sweets, bread and ice-cream are not very useful.",
+        "Sweets, cakes and milk are not very useful."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "Sweets, cakes and ice-cream are not very useful."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Мо дар мактаби худ варзишгоҳи хуб дорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи homework",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "We have a good gym at our school.",
+        "We have a good stadium at our school.",
+        "We have a good gym at school.",
+        "They have a good gym at our school."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "We have a good gym at our school."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Мо рӯзи душанбе ва чоршанбе ба он ҷо меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи exercise",
-        "нодуруст A"
+        "We go there on Monday and Wednesday.",
+        "We go there on Monday and Tuesday.",
+        "We go there on Tuesday and Wednesday.",
+        "We go to school on Monday and Wednesday."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "We go there on Monday and Wednesday."
+    },
+    {
+      "q": "«Муаллими варзиши мо хеле меҳрубон аст. Ӯ бозингари хуб футбол аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Our teacher of sport is very kind. He is a good football player.",
+        "Our teacher of sport is very kind. He is a good volleyball player.",
+        "Our teacher of sport is very clever. He is a good football player.",
+        "Our teacher of sport is very kind. She is a good football player."
+      ],
+      "answer": "Our teacher of sport is very kind. He is a good football player."
+    },
+    {
+      "q": "«Ӯ ба мо футбол, волейбол ва баскетбол бозӣ карданро меомӯзонад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He teaches us to play football, volleyball and basketball.",
+        "He teaches us to play football, tennis and basketball.",
+        "He teaches us to play football, volleyball and tennis.",
+        "She teaches us to play football, volleyball and basketball."
+      ],
+      "answer": "He teaches us to play football, volleyball and basketball."
+    },
+    {
+      "q": "«Мо медаваем, меҷаҳем, шино мекунем ва бозиҳои гуногун бозӣ мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We run, jump, swim and play different games.",
+        "We run, jump, swim and play football games.",
+        "We run, jump, swim and play different sports.",
+        "We run, walk, swim and play different games."
+      ],
+      "answer": "We run, jump, swim and play different games."
+    },
+    {
+      "q": "«Дар зимистон мо лижаронӣ ва конкиронӣ мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In winter we ski and skate.",
+        "In winter we ski and play.",
+        "In winter we swim and skate.",
+        "In summer we ski and skate."
+      ],
+      "answer": "In winter we ski and skate."
+    },
+    {
+      "q": "«Дар тобистон мо дар кӯл ё дар дарё шино мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In summer we swim in the lake or in the river.",
+        "In summer we swim in the lake and in the river.",
+        "In winter we swim in the lake or in the river.",
+        "In summer we swim in the sea or in the river."
+      ],
+      "answer": "In summer we swim in the lake or in the river."
+    },
+    {
+      "q": "«Ман шиновариро хеле дӯст медорам. Шиноварӣ барои бадан ва барои пойҳо ва дастҳо хуб аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I like swimming very much. Swimming is good for the body and for the legs and arms.",
+        "I like swimming very much. Swimming is good for the body and for the legs and hands.",
+        "I like swimming very much. Swimming is useful for the body and for the legs and arms.",
+        "I love swimming very much. Swimming is good for the body and for the legs and arms."
+      ],
+      "answer": "I like swimming very much. Swimming is good for the body and for the legs and arms."
+    },
+    {
+      "q": "«Баъд аз мактаб мо дар ҳавлии мактаб футбол бозӣ мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "After school we play football in the school yard.",
+        "After school we play football in the school garden.",
+        "Before school we play football in the school yard.",
+        "After school we play volleyball in the school yard."
+      ],
+      "answer": "After school we play football in the school yard."
+    },
+    {
+      "q": "«Дӯсти ман Фарид бозингари хуб футбол аст. Ӯ хеле зуд медавад ва хеле баланд меҷаҳад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My friend Farid is a good football player. He runs very quickly and jumps very high.",
+        "My friend Farid is a good volleyball player. He runs very quickly and jumps very high.",
+        "My friend Farid is a good football player. He runs very fast and jumps very high.",
+        "My classmate Farid is a good football player. He runs very quickly and jumps very high."
+      ],
+      "answer": "My friend Farid is a good football player. He runs very quickly and jumps very high."
+    },
+    {
+      "q": "«Дӯсти дигари ман Зафар шатранҷро хеле хуб бозӣ мекунад. Ӯ писари хеле зирак аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Another friend of mine, Zafar, plays chess very well. He is a very clever boy.",
+        "My friend Zafar plays chess very well. He is a very clever boy.",
+        "Another friend of mine, Zafar, plays tennis very well. He is a very clever boy.",
+        "Another friend of mine, Zafar, plays chess very well. He is a very kind boy."
+      ],
+      "answer": "Another friend of mine, Zafar, plays chess very well. He is a very clever boy."
+    },
+    {
+      "q": "«Хоҳари ман Зуҳро бо дӯстонаш волейбол бозӣ мекунад. Ӯ баланд ва қавӣ аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My sister Zuhro plays volleyball with her friends. She is tall and strong.",
+        "My sister Zuhro plays volleyball with her friends. She is small and strong.",
+        "My sister Zuhro plays basketball with her friends. She is tall and strong.",
+        "My sister Zuhro plays volleyball with her friends. She is tall and kind."
+      ],
+      "answer": "My sister Zuhro plays volleyball with her friends. She is tall and strong."
+    },
+    {
+      "q": "«Падари ман рӯзи якшанбе теннис бозӣ мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father plays tennis on Sunday.",
+        "My father plays tennis on Saturday.",
+        "My brother plays tennis on Sunday.",
+        "My father plays chess on Sunday."
+      ],
+      "answer": "My father plays tennis on Sunday."
+    },
+    {
+      "q": "«Модари ман варзиш намекунад, аммо ӯ ҳар бегоҳ дар боғи истироҳат қадам мезанад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My mother does not play sport, but she walks in the park every evening.",
+        "My mother does not play sport, but she walks in the garden every evening.",
+        "My mother does not play sport, but she walks in the park every morning.",
+        "My mother does not do sport, but she walks in the park every evening."
+      ],
+      "answer": "My mother does not play sport, but she walks in the park every evening."
+    },
+    {
+      "q": "«Рӯзи шанбе ман ва оилаам ба кӯҳҳо меравем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "On Saturday my family and I go to the mountains.",
+        "On Sunday my family and I go to the mountains.",
+        "On Saturday my family and I go to the village.",
+        "On Saturday my friends and I go to the mountains."
+      ],
+      "answer": "On Saturday my family and I go to the mountains."
+    },
+    {
+      "q": "«Мо дар кӯҳҳо қадам мезанем ва ҳавои тоза нафас мегирем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We walk in the mountains and breathe fresh air.",
+        "We walk in the mountains and breathe good air.",
+        "We walk in the forest and breathe fresh air.",
+        "We walk in the mountains and take fresh air."
+      ],
+      "answer": "We walk in the mountains and breathe fresh air."
+    },
+    {
+      "q": "«Мо мева мехӯрем ва аз дарёи кӯҳӣ оби хунук менӯшем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We eat fruit and drink cold water from the mountain river.",
+        "We eat fruits and drink cold water from the mountain river.",
+        "We eat fruit and drink warm water from the mountain river.",
+        "We eat fruit and drink cold water from the mountain lake."
+      ],
+      "answer": "We eat fruit and drink cold water from the mountain river."
+    },
+    {
+      "q": "«Бегоҳ мо ба хона меоем ва дам мегирем. Ин барои саломатии мо рӯзи хеле хуб аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In the evening we come home and rest. It is a very good day for our health.",
+        "In the evening we come home and rest. It is a very good day for our body.",
+        "In the evening we go home and rest. It is a very good day for our health.",
+        "In the evening we come home and sleep. It is a very good day for our health."
+      ],
+      "answer": "In the evening we come home and rest. It is a very good day for our health."
+    },
+    {
+      "q": "«Ҳар сол дар шаҳри мо иди калони варзишӣ дорем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Every year in our city we have a big sport holiday.",
+        "Every year in our school we have a big sport holiday.",
+        "Every year in our city we have a big holiday.",
+        "Every month in our city we have a big sport holiday."
+      ],
+      "answer": "Every year in our city we have a big sport holiday."
+    },
+    {
+      "q": "«Ҳамаи хонандагони мактаби мо дар он иштирок мекунанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "All the pupils of our school take part in it.",
+        "All the pupils of our school take part in them.",
+        "All the students of our school take part in it.",
+        "All the children of our school take part in it."
+      ],
+      "answer": "All the pupils of our school take part in it."
+    },
+    {
+      "q": "«Беҳтарин бозингарон тӯҳфаҳо ва медалҳо мегиранд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The best players get presents and medals.",
+        "The good players get presents and medals.",
+        "The best players get presents and books.",
+        "The best pupils get presents and medals."
+      ],
+      "answer": "The best players get presents and medals."
+    },
+    {
+      "q": "«Соли гузашта дӯсти ман Фарид медали тилло гирифт. Ман медали нуқра гирифтам. Мо хеле хушҳол будем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Last year my friend Farid won a gold medal. I won a silver medal. We were very happy.",
+        "Last year my friend Farid won a silver medal. I won a gold medal. We were very happy.",
+        "Last year my friend Farid won a gold medal. I won a silver medal. We were very sad.",
+        "Last year my brother Farid won a gold medal. I won a silver medal. We were very happy."
+      ],
+      "answer": "Last year my friend Farid won a gold medal. I won a silver medal. We were very happy."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам духтур шавам. Ман мехоҳам ба беморон кӯмак кунам ва ба онҳо солим буданро омӯзонам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to be a doctor. I want to help sick people and teach them how to be healthy.",
+        "When I grow up, I want to be a doctor. I want to help old people and teach them how to be healthy.",
+        "When I grow up, I want to be a doctor. I want to help sick people and teach them how to be strong.",
+        "When I grow up, I want to be a teacher. I want to help sick people and teach them how to be healthy."
+      ],
+      "answer": "When I grow up, I want to be a doctor. I want to help sick people and teach them how to be healthy."
+    },
+    {
+      "q": "«Ман мехоҳам ба онҳо дар бораи варзиш ва ғизои хуб нақл кунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to tell them about sport and good food.",
+        "I want to tell them about sport and good water.",
+        "I want to tell them about sport and useful food.",
+        "I want to say them about sport and good food."
+      ],
+      "answer": "I want to tell them about sport and good food."
+    },
+    {
+      "q": "«Ман мехоҳам, ки ҳамаи мардуми кишварам қавӣ ва солим бошанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want all the people of my country to be strong and healthy.",
+        "I want all the people of my city to be strong and healthy.",
+        "I want all the people of my country to be strong and happy.",
+        "I want all the pupils of my country to be strong and healthy."
+      ],
+      "answer": "I want all the people of my country to be strong and healthy."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 26
+  "wordsCount": 16
 }
