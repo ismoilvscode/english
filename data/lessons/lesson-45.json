@@ -1,506 +1,712 @@
 {
   "id": 45,
-  "title": "Матн ва машқҳо 45",
-  "level": "Миёна - Синфи 4",
+  "title": "Матн 45: Рӯзҳои истироҳат ва фароғат",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "leisure",
+      "tj": "фароғат",
+      "ex": "Leisure time is very important for everyone."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "hobby",
+      "tj": "машғулияти дӯстдошта",
+      "ex": "My hobby is drawing."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "picnic",
+      "tj": "сайругашт",
+      "ex": "We had a picnic in the park."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "barbecue",
+      "tj": "кабобпазӣ",
+      "ex": "My father makes a barbecue on Sundays."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "camping",
+      "tj": "хейманишинӣ",
+      "ex": "In summer we go camping in the mountains."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "tent",
+      "tj": "хейма",
+      "ex": "We put up our tent near the river."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "campfire",
+      "tj": "оташи хейма",
+      "ex": "We sat around the campfire and sang songs."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "fishing",
+      "tj": "моҳигирӣ",
+      "ex": "My grandfather likes fishing very much."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "to hike",
+      "tj": "пиёдагардӣ кардан",
+      "ex": "We hike in the mountains every summer."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "to go for a walk",
+      "tj": "ба сайругашт рафтан",
+      "ex": "We go for a walk in the park every evening."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "to spend time",
+      "tj": "вақт гузарондан",
+      "ex": "I like to spend time with my family."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "to enjoy",
+      "tj": "лаззат бурдан",
+      "ex": "We enjoy our weekend very much."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "to be fond of",
+      "tj": "шавқ доштан ба",
+      "ex": "I am fond of playing chess."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "to be keen on",
+      "tj": "хеле шавқ доштан ба",
+      "ex": "My brother is keen on football."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
+      "en": "free time",
+      "tj": "вақти холӣ",
+      "ex": "In my free time I read books."
     },
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
-    },
-    {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
-    },
-    {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
-    },
-    {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
-    },
-    {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
-    },
-    {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
-    },
-    {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
-    },
-    {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
-    },
-    {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "to have a rest",
+      "tj": "дам гирифтан",
+      "ex": "We have a good rest at the weekend."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 45)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Leisure time is very important for everyone.",
+      "tj": "Вақти фароғат барои ҳар кас хеле муҳим аст."
     },
     {
-      "en": "I'm working on lesson 45",
-      "tj": "Ман дарси 45-ро меомӯзам"
+      "en": "My hobby is drawing and playing chess.",
+      "tj": "Машғулияти дӯстдоштаи ман расмкашӣ ва шатранҷбозӣ аст."
+    },
+    {
+      "en": "We had a picnic in the park last Sunday.",
+      "tj": "Мо рӯзи якшанбеи гузашта дар боғи истироҳат сайругашт доштем."
+    },
+    {
+      "en": "My father makes a barbecue for the whole family on Sundays.",
+      "tj": "Падарам рӯзҳои якшанбе барои тамоми оила кабоб мепазад."
+    },
+    {
+      "en": "In summer we go camping in the mountains.",
+      "tj": "Дар тобистон мо ба кӯҳҳо ба хейманишинӣ меравем."
+    },
+    {
+      "en": "We put up our tent near the river and made a campfire.",
+      "tj": "Мо хеймаи худро дар назди дарё гузоштем ва оташи хейма фурӯзон кардем."
+    },
+    {
+      "en": "We sat around the campfire and sang beautiful songs.",
+      "tj": "Мо гирди оташи хейма нишастем ва сурудҳои зебо хондем."
+    },
+    {
+      "en": "My grandfather is fond of fishing very much.",
+      "tj": "Бобоям ба моҳигирӣ хеле шавқ дорад."
+    },
+    {
+      "en": "We hike in the mountains every summer with our father.",
+      "tj": "Мо ҳар тобистон бо падарам дар кӯҳҳо пиёдагардӣ мекунем."
+    },
+    {
+      "en": "We go for a walk in the park every evening.",
+      "tj": "Мо ҳар бегоҳ ба сайругашт дар боғи истироҳат меравем."
+    },
+    {
+      "en": "I like to spend time with my family and friends.",
+      "tj": "Ман вақтро бо оила ва дӯстонам гузаронданро дӯст медорам."
+    },
+    {
+      "en": "We enjoy our weekend very much.",
+      "tj": "Мо аз рӯзҳои истироҳати худ хеле лаззат мебарем."
+    },
+    {
+      "en": "I am fond of playing chess with my grandfather.",
+      "tj": "Ман ба шатранҷбозӣ бо бобоям шавқ дорам."
+    },
+    {
+      "en": "My brother is keen on football and basketball.",
+      "tj": "Бародарам ба футбол ва баскетбол хеле шавқ дорад."
+    },
+    {
+      "en": "In my free time I read books and listen to music.",
+      "tj": "Дар вақти холии худ ман китоб мехонам ва ба мусиқӣ гӯш мекунам."
+    },
+    {
+      "en": "We have a good rest at the weekend.",
+      "tj": "Мо дар рӯзҳои истироҳат хуб дам мегирем."
     }
   ],
   "text": {
-    "en": "Text for lesson 45. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 45 is about Миёна - Синфи 4. I write all words in my notebook. Level 45 text.",
-    "tj": "Матни дарси 45..."
+    "en": "Weekends and Leisure\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. All week I study at school, do my homework and help my parents. But Saturday and Sunday are my favourite days — these are my days off. On these days I do not go to school. I have a lot of free time and I can do what I like.\n\nEvery person needs leisure time. Leisure is the time when we do not work or study. We can rest, play, read, walk or do our hobbies. Rest is very important for our health and for our good mood. If a person works or studies all the time and never rests, he or she becomes tired and sad. So we all need weekends and holidays.\n\nI have many hobbies. I am fond of drawing and playing chess. I am also keen on reading books about animals and nature. My hobby helps me to relax and to learn new things. My father says: \"A hobby is not a waste of time. It is food for the soul.\"\n\nOn Saturday morning I usually help my mother about the house. I sweep the floor, water the flowers and take out the rubbish. Then I go to the library or to my friend Farid's house. We read books, play chess or do our homework together. In the afternoon I go for a walk with my friends. We ride our bicycles in the park or play football in the yard.\n\nOn Sunday my family and I usually have a good rest. In spring and summer we often have a picnic in the park or go camping in the mountains. My father puts up a tent, my mother makes a barbecue and my sister and I play and run about. We sit around the campfire in the evening and sing songs or tell funny stories. My grandfather tells us interesting stories about his youth. He is fond of fishing very much and often goes fishing with my father. Sometimes we go hiking in the mountains for the whole day. We take some food and water with us and walk for many hours. It is a very good rest.\n\nIn autumn and winter we cannot go camping, because it is cold and rainy. On cold days we stay at home. We play board games, read books or watch a good film. Sometimes we go to the museum or to the theatre. My sister Zuhro is fond of music and often plays the piano for us. My mother likes to cook something tasty on Sundays. She makes a big cake and we all eat it together. It is very nice to spend time with family.\n\nMy friend Farid is keen on football. He plays football every Saturday with his team. He wants to become a famous football player. My classmate Zuhro is fond of drawing. She draws beautiful pictures of nature. Another friend of mine, Zafar, is keen on chess. He plays chess very well and often wins games.\n\nI think that everyone must have a hobby. A hobby helps us to relax, to make new friends and to learn new things. It makes our life more interesting and more beautiful. Some people say: \"I have no time for hobbies.\" But I think they are wrong. We can always find a little time for the things we love.\n\nMy parents say: \"Work is important, but rest is also important. A good rest gives us new energy and new ideas.\" I agree with them. So I try to have a good rest every weekend and every holiday. I love my weekends! They are the best days of the week. When I grow up, I want to teach my children to love rest and leisure as much as I do.",
+    "tj": "Рӯзҳои истироҳат ва фароғат\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Тамоми ҳафта ман дар мактаб таҳсил мекунам, вазифаи хонагиамро иҷро мекунам ва ба волидонам кӯмак мекунам. Аммо шанбе ва якшанбе рӯзҳои дӯстдоштаи ман ҳастанд — ин рӯзҳои истироҳати ман ҳастанд. Дар ин рӯзҳо ман ба мактаб намеравам. Ман вақти холии зиёд дорам ва ман метавонам коре, ки дӯст медорам, кунам.\n\nҲар як одам ба вақти фароғат ниёз дорад. Фароғат вақтест, ки мо кор намекунем ва таҳсил намекунем. Мо метавонем дам гирем, бозӣ кунем, китоб хонем, қадам занем ё ба машғулияти дӯстдоштаи худ машғул шавем. Дам гирифтан барои саломатии мо ва барои рӯҳияи хуб хеле муҳим аст. Агар одам тамоми вақт кор кунад ё таҳсил кунад ва ҳеҷ гоҳ дам нагирад, ӯ хаста ва ғамгин мешавад. Бинобар ин ҳамаи мо ба рӯзҳои истироҳат ва идҳо ниёз дорем.\n\nМан машғулиятҳои дӯстдоштаи зиёд дорам. Ман ба расмкашӣ ва шатранҷбозӣ шавқ дорам. Ман инчунин ба хондани китобҳо дар бораи ҳайвонот ва табиат шавқ дорам. Машғулияти дӯстдоштаи ман ба ман дам гирифтан ва чизҳои нав омӯхтан кӯмак мекунад. Падарам мегӯяд: «Машғулияти дӯстдошта исрофи вақт нест. Он ғизои рӯҳ аст.»\n\nРӯзи шанбе ман одатан ба модарам дар корҳои хона кӯмак мекунам. Ман фаршро ҷорӯб мекунам, гулҳоро об медиҳам ва ахлотро берун мебарорам. Баъд ман ба китобхона ё ба хонаи дӯстам Фарид меравам. Мо китобҳо мехонем, шатранҷ бозӣ мекунем ё вазифаи хонагиамонро якҷоя иҷро мекунем. Баъд аз нисфирӯзӣ ман бо дӯстонам ба сайругашт меравам. Мо дар боғи истироҳат дучарха меронем ё дар ҳавлӣ футбол бозӣ мекунем.\n\nРӯзи якшанбе ман ва оилаам одатан хуб дам мегирем. Дар баҳор ва тобистон мо аксар вақт дар боғи истироҳат сайругашт мекунем ё ба кӯҳҳо ба хейманишинӣ меравем. Падарам хейма мегузорад, модарам кабоб мепазад ва хоҳару бародарам ва ман бозӣ мекунем ва медаваем. Бегоҳ мо гирди оташи хейма менишинем ва суруд мехонем ё ҳикояҳои хандаовар нақл мекунем. Бобоям ба мо ҳикояҳои ҷолиб дар бораи ҷавонии худ нақл мекунад. Ӯ ба моҳигирӣ хеле шавқ дорад ва аксар вақт бо падарам ба моҳигирӣ меравад. Баъзан мо тамоми рӯз дар кӯҳҳо пиёдагардӣ мекунем. Мо бо худ каме ғизо ва об мегирем ва соатҳои зиёд қадам мезанем. Ин дамгирии хеле хуб аст.\n\nДар тирамоҳ ва зимистон мо ба хейманишинӣ рафта наметавонем, зеро ки хунук ва боронӣ аст. Дар рӯзҳои хунук мо дар хона мемонем. Мо бозиҳои рӯимизӣ бозӣ мекунем, китоб мехонем ё филми хуб тамошо мекунем. Баъзан мо ба музей ё ба театр меравем. Хоҳарам Зуҳро ба мусиқӣ шавқ дорад ва аксар вақт барои мо пианино менавозад. Модарам рӯзҳои якшанбе чизеи бомазза пухтанро дӯст медорад. Ӯ торти калон мепазад ва мо ҳама якҷоя онро мехӯрем. Вақт гузарондан бо оила хеле хуш аст.\n\nДӯсти ман Фарид ба футбол хеле шавқ дорад. Ӯ ҳар рӯзи шанбе бо дастаи худ футбол бозӣ мекунад. Ӯ мехоҳад бозингари машҳури футбол шавад. Ҳамсинфи ман Зуҳро ба расмкашӣ шавқ дорад. Ӯ расмҳои зебои табиатро мекашад. Дӯсти дигари ман Зафар ба шатранҷ шавқ дорад. Ӯ шатранҷро хеле хуб бозӣ мекунад ва аксар вақт ғолиб мешавад.\n\nМан фикр мекунам, ки ҳар кас бояд машғулияти дӯстдошта дошта бошад. Машғулияти дӯстдошта ба мо дам гирифтан, дӯстони нав ёфтан ва чизҳои нав омӯхтан кӯмак мекунад. Он ҳаёти моро ҷолибтар ва зеботар мекунад. Баъзе одамон мегӯянд: «Ман барои машғулиятҳои дӯстдошта вақт надорам.» Аммо ман фикр мекунам, ки онҳо хато мекунанд. Мо ҳамеша метавонем барои чизҳое, ки дӯст медорем, каме вақт ёбем.\n\nВолидонам мегӯянд: «Кор муҳим аст, аммо дам гирифтан низ муҳим аст. Дамгирии хуб ба мо энергияи нав ва фикрҳои нав медиҳад.» Ман бо онҳо розӣ ҳастам. Бинобар ин ман кӯшиш мекунам, ки ҳар рӯзи истироҳат ва ҳар ид хуб дам гирам. Ман рӯзҳои истироҳати худро дӯст медорам! Онҳо беҳтарин рӯзҳои ҳафта ҳастанд. Вақте ки ман калон мешавам, ман мехоҳам ба кӯдаконам дам гирифтан ва фароғатро ба мисли худам дӯст доштанро омӯзонам."
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Вақти фароғат барои ҳар кас хеле муҳим аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи understand"
+        "Leisure time is very important for everyone.",
+        "Leisure time is very important for everybody.",
+        "Free time is very important for everyone.",
+        "Leisure time is important for everyone."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "Leisure time is very important for everyone."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Машғулияти дӯстдоштаи ман расмкашӣ ва шатранҷбозӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи explain",
-        "нодуруст A"
+        "My hobby is drawing and playing chess.",
+        "My hobby is to draw and play chess.",
+        "My hobby is drawing and chess.",
+        "My hobby is painting and playing chess."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "My hobby is drawing and playing chess."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Мо рӯзи якшанбеи гузашта дар боғи истироҳат сайругашт доштем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи important",
-        "нодуруст B",
-        "нодуруст C"
+        "We had a picnic in the park last Sunday.",
+        "We had a picnic in the park on last Sunday.",
+        "We had a picnic in the garden last Sunday.",
+        "We had a picnic in the park last Saturday."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "We had a picnic in the park last Sunday."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Падарам рӯзҳои якшанбе барои тамоми оила кабоб мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи different",
-        "нодуруст B",
-        "нодуруст A"
+        "My father makes a barbecue for the whole family on Sundays.",
+        "My father makes a barbecue for all the family on Sundays.",
+        "My father makes barbecue for the whole family on Sundays.",
+        "My father cooks a barbecue for the whole family on Sundays."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "My father makes a barbecue for the whole family on Sundays."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Дар тобистон мо ба кӯҳҳо ба хейманишинӣ меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи difficult"
+        "In summer we go camping in the mountains.",
+        "In summer we go camping to the mountains.",
+        "In summer we go to camp in the mountains.",
+        "In summer we go camping in the mountain."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "In summer we go camping in the mountains."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Мо хеймаи худро дар назди дарё гузоштем ва оташи хейма фурӯзон кардем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи easy"
+        "We put up our tent near the river and made a campfire.",
+        "We put up our tent near the river and made a fire.",
+        "We put our tent near the river and made a campfire.",
+        "We put up the tent near the river and made a campfire."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "We put up our tent near the river and made a campfire."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Мо гирди оташи хейма нишастем ва сурудҳои зебо хондем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи interesting",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "We sat around the campfire and sang beautiful songs.",
+        "We sat round the campfire and sang beautiful songs.",
+        "We sat around the campfire and sang good songs.",
+        "We sat around the fire and sang beautiful songs."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "We sat around the campfire and sang beautiful songs."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Бобоям ба моҳигирӣ хеле шавқ дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи remember",
-        "нодуруст C"
+        "My grandfather is fond of fishing very much.",
+        "My grandfather is very fond of fishing.",
+        "My grandfather is fond of fish very much.",
+        "My grandfather is keen on fishing very much."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "My grandfather is fond of fishing very much."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Мо ҳар тобистон бо падарам дар кӯҳҳо пиёдагардӣ мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи forget",
-        "нодуруст B"
+        "We hike in the mountains every summer with our father.",
+        "We hike in the mountains every summer with my father.",
+        "We go hiking in the mountains every summer with our father.",
+        "We hike in the mountain every summer with our father."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "We hike in the mountains every summer with our father."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Мо ҳар бегоҳ ба сайругашт дар боғи истироҳат меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи homework",
-        "нодуруст B"
+        "We go for a walk in the park every evening.",
+        "We go for a walk in the park every day.",
+        "We go for a walk in the garden every evening.",
+        "We go for a walk to the park every evening."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "We go for a walk in the park every evening."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Ман вақтро бо оила ва дӯстонам гузаронданро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи exercise",
-        "нодуруст C"
+        "I like to spend time with my family and friends.",
+        "I like spending time with my family and friends.",
+        "I like to spend time with my family and my friends.",
+        "I love to spend time with my family and friends."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "I like to spend time with my family and friends."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Мо аз рӯзҳои истироҳати худ хеле лаззат мебарем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи text",
-        "нодуруст C",
-        "нодуруст A"
+        "We enjoy our weekend very much.",
+        "We enjoy our weekends very much.",
+        "We enjoy our weekend a lot.",
+        "We like our weekend very much."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "We enjoy our weekend very much."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Ман ба шатранҷбозӣ бо бобоям шавқ дорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи story",
-        "нодуруст B",
-        "нодуруст C"
+        "I am fond of playing chess with my grandfather.",
+        "I am fond of chess with my grandfather.",
+        "I am fond to play chess with my grandfather.",
+        "I am keen on playing chess with my grandfather."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "I am fond of playing chess with my grandfather."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Бародарам ба футбол ва баскетбол хеле шавқ дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи question",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "My brother is keen on football and basketball.",
+        "My brother is keen on football and basket.",
+        "My brother is fond of football and basketball.",
+        "My brother is keen in football and basketball."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "My brother is keen on football and basketball."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Дар вақти холии худ ман китоб мехонам ва ба мусиқӣ гӯш мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи answer",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "In my free time I read books and listen to music.",
+        "In my free time I read books and listen to the music.",
+        "In my free time I read book and listen to music.",
+        "In my free time I read books and hear music."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "In my free time I read books and listen to music."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Мо дар рӯзҳои истироҳат хуб дам мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи understand",
-        "нодуруст A"
+        "We have a good rest at the weekend.",
+        "We have a good rest at weekends.",
+        "We have a good rest on the weekend.",
+        "We have good rest at the weekend."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "We have a good rest at the weekend."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Тамоми ҳафта ман дар мактаб таҳсил мекунам, вазифаи хонагиамро иҷро мекунам ва ба волидонам кӯмак мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи explain",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "All week I study at school, do my homework and help my parents.",
+        "All week I study at school, do my homework and help my parents.",
+        "The whole week I study at school, do my homework and help my parents.",
+        "All week I study at school, make my homework and help my parents."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "All week I study at school, do my homework and help my parents."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Аммо шанбе ва якшанбе рӯзҳои дӯстдоштаи ман ҳастанд — ин рӯзҳои истироҳати ман ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи important",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "But Saturday and Sunday are my favourite days — these are my days off.",
+        "But Saturday and Sunday are my favourite days — they are my days off.",
+        "But Saturday and Sunday are my favourite days — this is my days off.",
+        "But Saturday and Sunday are my favourite days — these are my day off."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "But Saturday and Sunday are my favourite days — these are my days off."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Дар ин рӯзҳо ман ба мактаб намеравам. Ман вақти холии зиёд дорам ва ман метавонам коре, ки дӯст медорам, кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи different",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "On these days I do not go to school. I have a lot of free time and I can do what I like.",
+        "On these days I don't go to school. I have a lot of free time and I can do what I like.",
+        "On these days I do not go to school. I have much free time and I can do what I like.",
+        "On these days I do not go to school. I have a lot of free time and I can do what I love."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "On these days I do not go to school. I have a lot of free time and I can do what I like."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Ҳар як одам ба вақти фароғат ниёз дорад. Фароғат вақтест, ки мо кор намекунем ва таҳсил намекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи difficult",
-        "нодуруст C",
-        "нодуруст A"
+        "Every person needs leisure time. Leisure is the time when we do not work or study.",
+        "Every person needs leisure time. Leisure is the time when we don't work or study.",
+        "Each person needs leisure time. Leisure is the time when we do not work or study.",
+        "Every person needs free time. Leisure is the time when we do not work or study."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "Every person needs leisure time. Leisure is the time when we do not work or study."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Мо метавонем дам гирем, бозӣ кунем, китоб хонем, қадам занем ё ба машғулияти дӯстдоштаи худ машғул шавем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи easy"
+        "We can rest, play, read, walk or do our hobbies.",
+        "We can have a rest, play, read, walk or do our hobbies.",
+        "We can rest, play, read, walk or do our hobby.",
+        "We can rest, play, read, go for a walk or do our hobbies."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "We can rest, play, read, walk or do our hobbies."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Дам гирифтан барои саломатии мо ва барои рӯҳияи хуб хеле муҳим аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи interesting",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Rest is very important for our health and for our good mood.",
+        "Rest is very important for our health and for our mood.",
+        "A rest is very important for our health and for our good mood.",
+        "Rest is very important for health and for our good mood."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "Rest is very important for our health and for our good mood."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Агар одам тамоми вақт кор кунад ё таҳсил кунад ва ҳеҷ гоҳ дам нагирад, ӯ хаста ва ғамгин мешавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи remember",
-        "нодуруст A"
+        "If a person works or studies all the time and never rests, he or she becomes tired and sad.",
+        "If a person works or studies all the time and never has a rest, he or she becomes tired and sad.",
+        "If a man works or studies all the time and never rests, he or she becomes tired and sad.",
+        "If a person works or studies all the time and never rests, he or she gets tired and sad."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "If a person works or studies all the time and never rests, he or she becomes tired and sad."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Бинобар ин ҳамаи мо ба рӯзҳои истироҳат ва идҳо ниёз дорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи forget",
-        "нодуруст A",
-        "нодуруст C"
+        "So we all need weekends and holidays.",
+        "That is why we all need weekends and holidays.",
+        "So all of us need weekends and holidays.",
+        "So we all need the weekends and holidays."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "So we all need weekends and holidays."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Ман машғулиятҳои дӯстдоштаи зиёд дорам. Ман ба расмкашӣ ва шатранҷбозӣ шавқ дорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи homework",
-        "нодуруст C"
+        "I have many hobbies. I am fond of drawing and playing chess.",
+        "I have a lot of hobbies. I am fond of drawing and playing chess.",
+        "I have many hobbies. I am fond of drawing and chess.",
+        "I have many hobbies. I am keen on drawing and playing chess."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "I have many hobbies. I am fond of drawing and playing chess."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Ман инчунин ба хондани китобҳо дар бораи ҳайвонот ва табиат шавқ дорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи exercise",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "I am also keen on reading books about animals and nature.",
+        "I am also fond of reading books about animals and nature.",
+        "I also am keen on reading books about animals and nature.",
+        "I am also keen on reading books about animals and the nature."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "I am also keen on reading books about animals and nature."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Машғулияти дӯстдоштаи ман ба ман дам гирифтан ва чизҳои нав омӯхтан кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи text",
-        "нодуруст C",
-        "нодуруст B"
+        "My hobby helps me to relax and to learn new things.",
+        "My hobby helps me relax and learn new things.",
+        "My hobby helps me to have a rest and to learn new things.",
+        "My hobby helps me to relax and learn new things."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "My hobby helps me to relax and to learn new things."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Падарам мегӯяд: \"Машғулияти дӯстдошта исрофи вақт нест. Он ғизои рӯҳ аст.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи story"
+        "My father says: \"A hobby is not a waste of time. It is food for the soul.\"",
+        "My father says: \"A hobby is not wasting time. It is food for the soul.\"",
+        "My father says: \"A hobby is not a waste of time. It is food for the mind.\"",
+        "My father says: \"A hobby is not a waste of time. It is food for our soul.\""
       ],
-      "answer": "тарҷумаи story"
+      "answer": "My father says: \"A hobby is not a waste of time. It is food for the soul.\""
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Рӯзи шанбе ман одатан ба модарам дар корҳои хона кӯмак мекунам. Ман фаршро ҷорӯб мекунам, гулҳоро об медиҳам ва ахлотро берун мебарорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи question",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "On Saturday morning I usually help my mother about the house. I sweep the floor, water the flowers and take out the rubbish.",
+        "On Saturday morning I usually help my mother about the house. I sweep the floor, water the flowers and take out the rubbish.",
+        "On Saturday morning I usually help my mother about the house. I sweep the floor, water the flowers and put out the rubbish.",
+        "On Saturday morning I usually help my mother about the house. I clean the floor, water the flowers and take out the rubbish."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "On Saturday morning I usually help my mother about the house. I sweep the floor, water the flowers and take out the rubbish."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Баъд ман ба китобхона ё ба хонаи дӯстам Фарид меравам. Мо китобҳо мехонем, шатранҷ бозӣ мекунем ё вазифаи хонагиамонро якҷоя иҷро мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи answer",
-        "нодуруст B"
+        "Then I go to the library or to my friend Farid's house. We read books, play chess or do our homework together.",
+        "Then I go to the library or to my friend's house. We read books, play chess or do our homework together.",
+        "Then I go to the library or to the house of my friend Farid. We read books, play chess or do our homework together.",
+        "Then I go to the library or to my friend Farid's house. We read books, play chess or make our homework together."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "Then I go to the library or to my friend Farid's house. We read books, play chess or do our homework together."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Баъд аз нисфирӯзӣ ман бо дӯстонам ба сайругашт меравам. Мо дар боғи истироҳат дучарха меронем ё дар ҳавлӣ футбол бозӣ мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи understand",
-        "нодуруст A",
-        "нодуруст C"
+        "In the afternoon I go for a walk with my friends. We ride our bicycles in the park or play football in the yard.",
+        "In the afternoon I go for a walk with my friends. We ride our bikes in the park or play football in the yard.",
+        "In the afternoon I go for a walk with my friends. We ride our bicycles in the park or play football in the garden.",
+        "In the afternoon I go for a walk with my friends. We ride bicycles in the park or play football in the yard."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "In the afternoon I go for a walk with my friends. We ride our bicycles in the park or play football in the yard."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Рӯзи якшанбе ман ва оилаам одатан хуб дам мегирем. Дар баҳор ва тобистон мо аксар вақт дар боғи истироҳат сайругашт мекунем ё ба кӯҳҳо ба хейманишинӣ меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи explain",
-        "нодуруст B",
-        "нодуруст C"
+        "On Sunday my family and I usually have a good rest. In spring and summer we often have a picnic in the park or go camping in the mountains.",
+        "On Sunday my family and I usually have a good rest. In spring and summer we often have a picnic in the park or go camping to the mountains.",
+        "On Sunday my family and I usually have a good rest. In spring and summer we often have a picnic in the garden or go camping in the mountains.",
+        "On Sunday my family and I usually have a good rest. In spring and summer we often have picnics in the park or go camping in the mountains."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "On Sunday my family and I usually have a good rest. In spring and summer we often have a picnic in the park or go camping in the mountains."
+    },
+    {
+      "q": "«Падарам хейма мегузорад, модарам кабоб мепазад ва хоҳару бародарам ва ман бозӣ мекунем ва медаваем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father puts up a tent, my mother makes a barbecue and my sister and I play and run about.",
+        "My father puts up a tent, my mother makes a barbecue and my sister and I play and run.",
+        "My father puts up a tent, my mother cooks a barbecue and my sister and I play and run about.",
+        "My father puts up the tent, my mother makes a barbecue and my sister and I play and run about."
+      ],
+      "answer": "My father puts up a tent, my mother makes a barbecue and my sister and I play and run about."
+    },
+    {
+      "q": "«Бегоҳ мо гирди оташи хейма менишинем ва суруд мехонем ё ҳикояҳои хандаовар нақл мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We sit around the campfire in the evening and sing songs or tell funny stories.",
+        "In the evening we sit around the campfire and sing songs or tell funny stories.",
+        "We sit around the campfire in the evening and sing songs or tell funny stories.",
+        "We sit round the campfire in the evening and sing songs or tell funny stories."
+      ],
+      "answer": "We sit around the campfire in the evening and sing songs or tell funny stories."
+    },
+    {
+      "q": "«Бобоям ба мо ҳикояҳои ҷолиб дар бораи ҷавонии худ нақл мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandfather tells us interesting stories about his youth.",
+        "My grandfather tells us interesting stories about his young years.",
+        "My grandfather tells us good stories about his youth.",
+        "My grandfather tells us interesting stories of his youth."
+      ],
+      "answer": "My grandfather tells us interesting stories about his youth."
+    },
+    {
+      "q": "«Ӯ ба моҳигирӣ хеле шавқ дорад ва аксар вақт бо падарам ба моҳигирӣ меравад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He is fond of fishing very much and often goes fishing with my father.",
+        "He is very fond of fishing and often goes fishing with my father.",
+        "He is keen on fishing very much and often goes fishing with my father.",
+        "He is fond of fishing very much and often goes to fish with my father."
+      ],
+      "answer": "He is fond of fishing very much and often goes fishing with my father."
+    },
+    {
+      "q": "«Баъзан мо тамоми рӯз дар кӯҳҳо пиёдагардӣ мекунем. Мо бо худ каме ғизо ва об мегирем ва соатҳои зиёд қадам мезанем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Sometimes we go hiking in the mountains for the whole day. We take some food and water with us and walk for many hours.",
+        "Sometimes we go hiking in the mountains for the whole day. We take some food and water with us and walk for many hours.",
+        "Sometimes we hike in the mountains for the whole day. We take some food and water with us and walk for many hours.",
+        "Sometimes we go hiking in the mountains all day. We take some food and water with us and walk for many hours."
+      ],
+      "answer": "Sometimes we go hiking in the mountains for the whole day. We take some food and water with us and walk for many hours."
+    },
+    {
+      "q": "«Ин дамгирии хеле хуб аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It is a very good rest.",
+        "This is a very good rest.",
+        "It is a very nice rest.",
+        "It is a very good holiday."
+      ],
+      "answer": "It is a very good rest."
+    },
+    {
+      "q": "«Дар тирамоҳ ва зимистон мо ба хейманишинӣ рафта наметавонем, зеро ки хунук ва боронӣ аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In autumn and winter we cannot go camping, because it is cold and rainy.",
+        "In autumn and winter we can't go camping, because it is cold and rainy.",
+        "In autumn and winter we cannot go camping, as it is cold and rainy.",
+        "In autumn and winter we cannot go camping, because it is cold and rain."
+      ],
+      "answer": "In autumn and winter we cannot go camping, because it is cold and rainy."
+    },
+    {
+      "q": "«Дар рӯзҳои хунук мо дар хона мемонем. Мо бозиҳои рӯимизӣ бозӣ мекунем, китоб мехонем ё филми хуб тамошо мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "On cold days we stay at home. We play board games, read books or watch a good film.",
+        "On cold days we stay at home. We play table games, read books or watch a good film.",
+        "On cold days we stay at home. We play board games, read books or see a good film.",
+        "On cold days we stay at home. We play board games, read books or watch a good movie."
+      ],
+      "answer": "On cold days we stay at home. We play board games, read books or watch a good film."
+    },
+    {
+      "q": "«Хоҳарам Зуҳро ба мусиқӣ шавқ дорад ва аксар вақт барои мо пианино менавозад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My sister Zuhro is fond of music and often plays the piano for us.",
+        "My sister Zuhro is fond of music and often plays piano for us.",
+        "My sister Zuhro is keen on music and often plays the piano for us.",
+        "My sister Zuhro is fond of music and often plays the piano to us."
+      ],
+      "answer": "My sister Zuhro is fond of music and often plays the piano for us."
+    },
+    {
+      "q": "«Модарам рӯзҳои якшанбе чизеи бомазза пухтанро дӯст медорад. Ӯ торти калон мепазад ва мо ҳама якҷоя онро мехӯрем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My mother likes to cook something tasty on Sundays. She makes a big cake and we all eat it together.",
+        "My mother likes cooking something tasty on Sundays. She makes a big cake and we all eat it together.",
+        "My mother likes to cook something tasty on Sundays. She bakes a big cake and we all eat it together.",
+        "My mother likes to cook tasty things on Sundays. She makes a big cake and we all eat it together."
+      ],
+      "answer": "My mother likes to cook something tasty on Sundays. She makes a big cake and we all eat it together."
+    },
+    {
+      "q": "«Вақт гузарондан бо оила хеле хуш аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It is very nice to spend time with family.",
+        "It is very nice to spend time with the family.",
+        "It is very good to spend time with family.",
+        "It is very nice to spend time with your family."
+      ],
+      "answer": "It is very nice to spend time with family."
+    },
+    {
+      "q": "«Дӯсти ман Фарид ба футбол хеле шавқ дорад. Ӯ ҳар рӯзи шанбе бо дастаи худ футбол бозӣ мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My friend Farid is keen on football. He plays football every Saturday with his team.",
+        "My friend Farid is keen on football. He plays football every Saturday with his team.",
+        "My friend Farid is very keen on football. He plays football every Saturday with his team.",
+        "My friend Farid is fond of football. He plays football every Saturday with his team."
+      ],
+      "answer": "My friend Farid is keen on football. He plays football every Saturday with his team."
+    },
+    {
+      "q": "«Ӯ мехоҳад бозингари машҳури футбол шавад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He wants to become a famous football player.",
+        "He wants to be a famous football player.",
+        "He wants to become a famous player of football.",
+        "He wants to become the famous football player."
+      ],
+      "answer": "He wants to become a famous football player."
+    },
+    {
+      "q": "«Ҳамсинфи ман Зуҳро ба расмкашӣ шавқ дорад. Ӯ расмҳои зебои табиатро мекашад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My classmate Zuhro is fond of drawing. She draws beautiful pictures of nature.",
+        "My classmate Zuhro is keen on drawing. She draws beautiful pictures of nature.",
+        "My classmate Zuhro is fond of painting. She draws beautiful pictures of nature.",
+        "My classmate Zuhro is fond of drawing. She paints beautiful pictures of nature."
+      ],
+      "answer": "My classmate Zuhro is fond of drawing. She draws beautiful pictures of nature."
+    },
+    {
+      "q": "«Дӯсти дигари ман Зафар ба шатранҷ шавқ дорад. Ӯ шатранҷро хеле хуб бозӣ мекунад ва аксар вақт ғолиб мешавад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Another friend of mine, Zafar, is keen on chess. He plays chess very well and often wins games.",
+        "My other friend Zafar is keen on chess. He plays chess very well and often wins games.",
+        "Another friend of mine, Zafar, is fond of chess. He plays chess very well and often wins games.",
+        "Another friend of mine, Zafar, is keen on chess. He plays chess very good and often wins games."
+      ],
+      "answer": "Another friend of mine, Zafar, is keen on chess. He plays chess very well and often wins games."
+    },
+    {
+      "q": "«Ман фикр мекунам, ки ҳар кас бояд машғулияти дӯстдошта дошта бошад. Машғулияти дӯстдошта ба мо дам гирифтан, дӯстони нав ёфтан ва чизҳои нав омӯхтан кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I think that everyone must have a hobby. A hobby helps us to relax, to make new friends and to learn new things.",
+        "I think that everyone should have a hobby. A hobby helps us to relax, to make new friends and to learn new things.",
+        "I think that everybody must have a hobby. A hobby helps us to relax, to make new friends and to learn new things.",
+        "I think that everyone must have a hobby. A hobby helps us relax, make new friends and learn new things."
+      ],
+      "answer": "I think that everyone must have a hobby. A hobby helps us to relax, to make new friends and to learn new things."
+    },
+    {
+      "q": "«Он ҳаёти моро ҷолибтар ва зеботар мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It makes our life more interesting and more beautiful.",
+        "It makes our life more interesting and beautiful.",
+        "It makes our lives more interesting and more beautiful.",
+        "It makes our life interesting and beautiful."
+      ],
+      "answer": "It makes our life more interesting and more beautiful."
+    },
+    {
+      "q": "«Баъзе одамон мегӯянд: \"Ман барои машғулиятҳои дӯстдошта вақт надорам.\" Аммо ман фикр мекунам, ки онҳо хато мекунанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Some people say: \"I have no time for hobbies.\" But I think they are wrong.",
+        "Some people say: \"I have not time for hobbies.\" But I think they are wrong.",
+        "Some people say: \"I don't have time for hobbies.\" But I think they are wrong.",
+        "Some people say: \"I have no time for hobby.\" But I think they are wrong."
+      ],
+      "answer": "Some people say: \"I have no time for hobbies.\" But I think they are wrong."
+    },
+    {
+      "q": "«Мо ҳамеша метавонем барои чизҳое, ки дӯст медорем, каме вақт ёбем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We can always find a little time for the things we love.",
+        "We can always find a little time for things we love.",
+        "We can always find some time for the things we love.",
+        "We can always find a little time for the things that we love."
+      ],
+      "answer": "We can always find a little time for the things we love."
+    },
+    {
+      "q": "«Волидонам мегӯянд: \"Кор муҳим аст, аммо дам гирифтан низ муҳим аст. Дамгирии хуб ба мо энергияи нав ва фикрҳои нав медиҳад.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My parents say: \"Work is important, but rest is also important. A good rest gives us new energy and new ideas.\"",
+        "My parents say: \"Work is important, but rest is important too. A good rest gives us new energy and new ideas.\"",
+        "My parents say: \"Work is important, but rest is also important. Good rest gives us new energy and new ideas.\"",
+        "My parents say: \"Work is important, but rest is also important. A good rest gives us new energy and new thoughts.\""
+      ],
+      "answer": "My parents say: \"Work is important, but rest is also important. A good rest gives us new energy and new ideas.\""
+    },
+    {
+      "q": "«Ман бо онҳо розӣ ҳастам. Бинобар ин ман кӯшиш мекунам, ки ҳар рӯзи истироҳат ва ҳар ид хуб дам гирам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I agree with them. So I try to have a good rest every weekend and every holiday.",
+        "I agree with them. So I try to have a good rest at every weekend and every holiday.",
+        "I agree with them. That is why I try to have a good rest every weekend and every holiday.",
+        "I agree with them. So I try to have good rest every weekend and every holiday."
+      ],
+      "answer": "I agree with them. So I try to have a good rest every weekend and every holiday."
+    },
+    {
+      "q": "«Ман рӯзҳои истироҳати худро дӯст медорам! Онҳо беҳтарин рӯзҳои ҳафта ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I love my weekends! They are the best days of the week.",
+        "I love my weekend! They are the best days of the week.",
+        "I love my weekends! They are the best days of a week.",
+        "I love my weekends! These are the best days of the week."
+      ],
+      "answer": "I love my weekends! They are the best days of the week."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам ба кӯдаконам дам гирифтан ва фароғатро ба мисли худам дӯст доштанро омӯзонам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to teach my children to love rest and leisure as much as I do.",
+        "When I grow up, I want to teach my children to love rest and leisure as much as I do.",
+        "When I grow up, I want to teach my children to love rest and leisure as much as me.",
+        "When I grow up, I want to teach my children to love rest and leisure like I do."
+      ],
+      "answer": "When I grow up, I want to teach my children to love rest and leisure as much as I do."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 32
+  "wordsCount": 16
 }
