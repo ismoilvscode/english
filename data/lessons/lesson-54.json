@@ -1,416 +1,622 @@
 {
   "id": 54,
-  "title": "Муоширати воқеӣ 54",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 54: Ояндаи касби ман",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "career",
+      "tj": "касб / фаъолияти касбӣ",
+      "ex": "I want to have a good career."
+    },
+    {
+      "en": "to choose",
+      "tj": "интихоб кардан",
+      "ex": "I must choose my future profession."
+    },
+    {
+      "en": "choice",
+      "tj": "интихоб",
+      "ex": "It is a very important choice."
+    },
+    {
+      "en": "to be interested in",
+      "tj": "шавқ доштан ба",
+      "ex": "I am interested in medicine."
+    },
+    {
+      "en": "to be good at",
+      "tj": "хуб будан дар",
+      "ex": "I am good at English and biology."
+    },
+    {
+      "en": "to prepare",
+      "tj": "омода кардан / омода шудан",
+      "ex": "I prepare for my exams every day."
+    },
+    {
+      "en": "exam",
+      "tj": "имтиҳон",
+      "ex": "I must pass my exams well."
+    },
+    {
+      "en": "to pass an exam",
+      "tj": "имтиҳон супоридан",
+      "ex": "I want to pass my exams with good marks."
+    },
+    {
+      "en": "to enter",
+      "tj": "дохил шудан",
+      "ex": "I want to enter the university."
+    },
+    {
+      "en": "to graduate from",
+      "tj": "хатм кардан",
+      "ex": "She graduated from the university last year."
+    },
+    {
+      "en": "university degree",
+      "tj": "дипломи донишгоҳ",
+      "ex": "He has a university degree."
     },
     {
       "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "tj": "таҷриба",
+      "ex": "A good doctor needs a lot of experience."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "to work as",
+      "tj": "кор кардан ҳамчун",
+      "ex": "My father works as a doctor."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "to succeed in life",
+      "tj": "дар ҳаёт муваффақ шудан",
+      "ex": "A hard-working person can succeed in life."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "to be useful",
+      "tj": "фоиданок будан",
+      "ex": "I want to be useful to my country."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "citizen",
+      "tj": "шаҳрванд",
+      "ex": "I want to be a good citizen of my country."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 54)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "I want to have a good career and a happy life.",
+      "tj": "Ман мехоҳам касби хуб ва ҳаёти хушбахт дошта бошам."
     },
     {
-      "en": "I'm working on lesson 54",
-      "tj": "Ман дарси 54-ро меомӯзам"
+      "en": "I must choose my future profession very carefully.",
+      "tj": "Ман бояд касби ояндаи худро бодиққат интихоб кунам."
+    },
+    {
+      "en": "It is a very important choice for every person.",
+      "tj": "Ин барои ҳар як одам интихоби хеле муҳим аст."
+    },
+    {
+      "en": "I am interested in medicine and I want to help sick people.",
+      "tj": "Ман ба тиб шавқ дорам ва мехоҳам ба беморон кӯмак кунам."
+    },
+    {
+      "en": "I am good at English and biology at school.",
+      "tj": "Ман дар мактаб дар англисӣ ва биология хуб ҳастам."
+    },
+    {
+      "en": "I prepare for my exams every day.",
+      "tj": "Ман ҳар рӯз барои имтиҳонҳоям омода мешавам."
+    },
+    {
+      "en": "I must pass my exams with good marks.",
+      "tj": "Ман бояд имтиҳонҳоямро бо баҳои хуб супорам."
+    },
+    {
+      "en": "I want to pass my exams and enter the university.",
+      "tj": "Ман мехоҳам имтиҳонҳоямро супорам ва ба донишгоҳ дохил шавам."
+    },
+    {
+      "en": "My sister graduated from the university last year.",
+      "tj": "Хоҳарам соли гузашта донишгоҳро хатм кард."
+    },
+    {
+      "en": "After university I will have a university degree.",
+      "tj": "Баъд аз донишгоҳ ман дипломи донишгоҳ хоҳам дошт."
+    },
+    {
+      "en": "A good doctor needs a lot of experience.",
+      "tj": "Духтури хуб таҷрибаи зиёд лозим дорад."
+    },
+    {
+      "en": "My father works as a doctor in a big hospital.",
+      "tj": "Падарам дар беморхонаи калон ҳамчун духтур кор мекунад."
+    },
+    {
+      "en": "A hard-working person can succeed in life.",
+      "tj": "Одами меҳнатдӯст дар ҳаёт муваффақ шуда метавонад."
+    },
+    {
+      "en": "I want to be useful to my country and my people.",
+      "tj": "Ман мехоҳам ба кишварам ва мардумам фоиданок бошам."
+    },
+    {
+      "en": "I want to be a good citizen of my country.",
+      "tj": "Ман мехоҳам шаҳрванди хуби кишварам бошам."
+    },
+    {
+      "en": "My dream is to become a doctor and to make my parents proud.",
+      "tj": "Орзуи ман духтур шудан ва волидонамро ифтихор кардан аст."
     }
   ],
   "text": {
-    "en": "Text for lesson 54. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 54 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 54 text.",
-    "tj": "Матни дарси 54..."
+    "en": "The Future Profession of Mine\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. Like every child, I often think about my future. What will I be when I grow up? What profession will I choose? It is a very important choice for every person.\n\nA career is the work that a person does all his life. Some people work as doctors, some as teachers, some as engineers, some as farmers and some as drivers. Every profession is important and useful. Without doctors we cannot cure sick people. Without teachers we cannot learn. Without farmers we cannot have food. Without drivers we cannot travel. All professions are necessary for a good life.\n\nI am interested in medicine. When I was small, I often went to the hospital with my mother. I saw kind doctors who helped sick people. They were very clever and very kind. I looked at them and I thought: \"When I grow up, I want to be like them. I want to help sick people and save their lives.\" Since that time, my dream has not changed. I want to become a doctor.\n\nTo become a good doctor, I must study very well at school. I am good at English and biology. I also like chemistry and math. These subjects are very important for a future doctor. Biology helps us to understand the human body. Chemistry helps us to understand medicines. Math helps us to count correctly. English helps us to read foreign books and to speak with foreign doctors.\n\nEvery day I prepare for my lessons. I do all my homework, I read books and I write exercises. When I do not understand something, I ask my teacher or my parents. My father is a doctor, so he explains many interesting things to me about medicine. He tells me about different illnesses and different medicines. Sometimes he takes me to his hospital and shows me how doctors work. I like to watch them very much. It is a very difficult job, but it is also very important and very useful.\n\nWhen I finish school, I must pass my final exams very well. Then I want to enter the medical university in Dushanbe. There I will study for six years. I will learn many new subjects: anatomy, physiology, pharmacology and many others. After university I will have a university degree and I will work as a doctor in a hospital. A good doctor needs a lot of experience, so I will work hard and learn from older doctors.\n\nMy parents say: \"If you want to succeed in life, you must work hard every day. You must not be lazy. You must be patient and kind. And you must love your work.\" I agree with them. A lazy person cannot become a good doctor. A good doctor must love people and help them day and night. My father says: \"When you save a life, you save a whole world.\" These words are very important for me.\n\nI also want to help my country. Tajikistan needs good doctors, good teachers and good engineers. Our country needs people who love their motherland and who work for its good. I want to be useful to my country and to my people. I want to be a good citizen of my country.\n\nWhen I grow up and become a doctor, I want to help people in our villages and in our mountains. I want to build new hospitals and schools. I want to make my country healthy and strong. My parents will be very proud of me, and I will be very happy.\n\nI know that my dream is not easy. The way to it is long and difficult. But I am not afraid. I have courage, I have patience and I have a big wish to help people. Step by step, year after year, I will reach my goal. I will become a good doctor. And when my dream comes true, I will say to all children of my country: \"Believe in your dreams! Study hard, be kind, and one day your dream will come true!\"",
+    "tj": "Ояндаи касби ман\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Мисли ҳар як кӯдак, ман аксар вақт дар бораи ояндаи худ фикр мекунам. Вақте ки ман калон мешавам, ман кӣ хоҳам шуд? Кадом касбро интихоб мекунам? Ин барои ҳар як одам интихоби хеле муҳим аст.\n\nКасб корест, ки одам тамоми умри худ мекунад. Баъзе одамон ҳамчун духтур кор мекунанд, баъзе ҳамчун муаллим, баъзе ҳамчун муҳандис, баъзе ҳамчун деҳқон ва баъзе ҳамчун ронанда. Ҳар як касб муҳим ва фоиданок аст. Бе духтурон мо беморонро табобат карда наметавонем. Бе муаллимон мо омӯхта наметавонем. Бе деҳқонон мо ғизо дошта наметавонем. Бе ронандагон мо сафар карда наметавонем. Ҳамаи касбҳо барои ҳаёти хуб заруранд.\n\nМан ба тиб шавқ дорам. Вақте ки ман хурд будам, ман аксар вақт бо модарам ба беморхона мерафтам. Ман духтурони меҳрубонро медидам, ки ба беморон кӯмак мекарданд. Онҳо хеле зирак ва хеле меҳрубон буданд. Ман ба онҳо нигоҳ мекардам ва фикр мекардам: «Вақте ки ман калон мешавам, ман мехоҳам мисли онҳо бошам. Ман мехоҳам ба беморон кӯмак кунам ва ҳаёти онҳоро наҷот диҳам.» Аз ҳамон вақт орзуи ман тағйир наёфтааст. Ман мехоҳам духтур шавам.\n\nБарои духтури хуб шудан, ман бояд дар мактаб хеле хуб таҳсил кунам. Ман дар англисӣ ва биология хуб ҳастам. Ман инчунин химия ва математикаро дӯст медорам. Ин фанҳо барои духтури оянда хеле муҳим ҳастанд. Биология ба мо дар фаҳмидани бадани одам кӯмак мекунад. Химия ба мо дар фаҳмидани доруҳо кӯмак мекунад. Математика ба мо дар дуруст ҳисоб кардан кӯмак мекунад. Англисӣ ба мо дар хондани китобҳои хориҷӣ ва дар гап задан бо духтурони хориҷӣ кӯмак мекунад.\n\nҲар рӯз ман барои дарсҳоям омода мешавам. Ман ҳамаи вазифаҳои хонагиамро иҷро мекунам, китобҳо мехонам ва машқҳоро менависам. Вақте ки ман чизеро намефаҳмам, ман аз муаллимам ё аз волидонам мепурсам. Падарам духтур аст, бинобар ин ӯ ба ман чизҳои ҷолиби зиёдро дар бораи тиб шарҳ медиҳад. Ӯ ба ман дар бораи бемориҳои гуногун ва доруҳои гуногун нақл мекунад. Баъзан ӯ маро ба беморхонаи худ мебарад ва нишон медиҳад, ки духтурон чӣ тавр кор мекунанд. Ман тамошо кардани онҳоро хеле дӯст медорам. Ин кори хеле душвор аст, аммо он инчунин хеле муҳим ва хеле фоиданок аст.\n\nВақте ки ман мактабро хатм мекунам, ман бояд имтиҳонҳои ниҳоиамро хеле хуб супорам. Баъд ман мехоҳам ба донишгоҳи тиббӣ дар Душанбе дохил шавам. Дар он ҷо ман шаш сол таҳсил мекунам. Ман фанҳои нави зиёдро меомӯзам: анатомия, физиология, фармакология ва дигарон. Баъд аз донишгоҳ ман дипломи донишгоҳ хоҳам дошт ва ман ҳамчун духтур дар беморхона кор хоҳам кард. Духтури хуб таҷрибаи зиёд лозим дорад, бинобар ин ман бо ҷидду ҷаҳд кор мекунам ва аз духтурони калонтар меомӯзам.\n\nВолидонам мегӯянд: «Агар шумо дар ҳаёт муваффақ шудан хоҳед, шумо бояд ҳар рӯз бо ҷидду ҷаҳд кор кунед. Шумо набояд танбал бошед. Шумо бояд сабрнок ва меҳрубон бошед. Ва шумо бояд кори худро дӯст доред.» Ман бо онҳо розӣ ҳастам. Одами танбал духтури хуб шуда наметавонад. Духтури хуб бояд одамонро дӯст дорад ва шабу рӯз ба онҳо кӯмак кунад. Падарам мегӯяд: «Вақте ки шумо як ҳаётро наҷот медиҳед, шумо тамоми ҷаҳонро наҷот медиҳед.» Ин суханон барои ман хеле муҳим ҳастанд.\n\nМан инчунин мехоҳам ба кишварам кӯмак кунам. Тоҷикистон ба духтурони хуб, муаллимони хуб ва муҳандисони хуб ниёз дорад. Кишвари мо ба одамонеро ниёз дорад, ки Ватани худро дӯст медоранд ва барои некии он кор мекунанд. Ман мехоҳам ба кишварам ва мардумам фоиданок бошам. Ман мехоҳам шаҳрванди хуби кишварам бошам.\n\nВақте ки ман калон мешавам ва духтур мешавам, ман мехоҳам ба одамон дар деҳаҳо ва дар кӯҳҳои мо кӯмак кунам. Ман мехоҳам беморхонаҳо ва мактабҳои нав созам. Ман мехоҳам кишварамро солим ва қавӣ созам. Волидонам ба ман хеле ифтихор хоҳанд кард ва ман хеле хушбахт хоҳам буд.\n\nМан медонам, ки орзуи ман осон нест. Роҳ ба сӯи он дароз ва душвор аст. Аммо ман наметарсам. Ман ҷасорат дорам, ман сабр дорам ва ман хоҳиши бузурги кӯмак кардан ба одамонро дорам. Қадам ба қадам, сол ба сол, ман ба ҳадафи худ мерасам. Ман духтури хуб мешавам. Ва вақте ки орзуи ман амалӣ мешавад, ман ба ҳамаи кӯдакони кишварам мегӯям: «Ба орзуҳои худ бовар кунед! Бо ҷидду ҷаҳд таҳсил кунед, меҳрубон бошед ва як рӯз орзуи шумо амалӣ хоҳад шуд!»"
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ман мехоҳам касби хуб ва ҳаёти хушбахт дошта бошам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "I want to have a good career and a happy life.",
+        "I want to have a good profession and a happy life.",
+        "I want to have a good career and happy life.",
+        "I want to have a good career and a happy live."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "I want to have a good career and a happy life."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман бояд касби ояндаи худро бодиққат интихоб кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст C"
+        "I must choose my future profession very carefully.",
+        "I must choose my future profession carefully.",
+        "I should choose my future profession very carefully.",
+        "I must choose my future career very carefully."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I must choose my future profession very carefully."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ин барои ҳар як одам интихоби хеле муҳим аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "It is a very important choice for every person.",
+        "It is a very important choice for every man.",
+        "It is a very important choice for each person.",
+        "It is the very important choice for every person."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "It is a very important choice for every person."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ман ба тиб шавқ дорам ва мехоҳам ба беморон кӯмак кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст C"
+        "I am interested in medicine and I want to help sick people.",
+        "I am interested in medicine and I want to help sick people.",
+        "I am interested in medicine and want to help sick people.",
+        "I am interested in the medicine and I want to help sick people."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "I am interested in medicine and I want to help sick people."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ман дар мактаб дар англисӣ ва биология хуб ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст B"
+        "I am good at English and biology at school.",
+        "I am good in English and biology at school.",
+        "I am good at English and Biology at school.",
+        "I am good at English and biology in school."
       ],
-      "answer": "тарҷума: education"
+      "answer": "I am good at English and biology at school."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Ман ҳар рӯз барои имтиҳонҳоям омода мешавам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: development",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "I prepare for my exams every day.",
+        "I prepare for my exams every morning.",
+        "I get ready for my exams every day.",
+        "I prepare my exams every day."
       ],
-      "answer": "тарҷума: development"
+      "answer": "I prepare for my exams every day."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ман бояд имтиҳонҳоямро бо баҳои хуб супорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: achievement"
+        "I must pass my exams with good marks.",
+        "I must pass my exams with good marks.",
+        "I should pass my exams with good marks.",
+        "I must pass my exams with good grades."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "I must pass my exams with good marks."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ман мехоҳам имтиҳонҳоямро супорам ва ба донишгоҳ дохил шавам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: challenge",
-        "нодуруст C"
+        "I want to pass my exams and enter the university.",
+        "I want to pass my exams and to enter the university.",
+        "I want to pass my exams and go to the university.",
+        "I want to pass my exams and enter a university."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "I want to pass my exams and enter the university."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Хоҳарам соли гузашта донишгоҳро хатм кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: knowledge",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "My sister graduated from the university last year.",
+        "My sister graduated from university last year.",
+        "My sister finished the university last year.",
+        "My sister graduated the university last year."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "My sister graduated from the university last year."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Баъд аз донишгоҳ ман дипломи донишгоҳ хоҳам дошт» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: conversation"
+        "After university I will have a university degree.",
+        "After the university I will have a university degree.",
+        "After university I will have the university degree.",
+        "After university I will get a university degree."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "After university I will have a university degree."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Духтури хуб таҷрибаи зиёд лозим дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: fluency"
+        "A good doctor needs a lot of experience.",
+        "A good doctor needs much experience.",
+        "A good doctor needs a lot of experiences.",
+        "The good doctor needs a lot of experience."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "A good doctor needs a lot of experience."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Падарам дар беморхонаи калон ҳамчун духтур кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "My father works as a doctor in a big hospital.",
+        "My father works like a doctor in a big hospital.",
+        "My father works as doctor in a big hospital.",
+        "My father works as a doctor at a big hospital."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "My father works as a doctor in a big hospital."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Одами меҳнатдӯст дар ҳаёт муваффақ шуда метавонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: pronunciation",
-        "нодуруст A"
+        "A hard-working person can succeed in life.",
+        "A hard-working man can succeed in life.",
+        "A hard-working person can succeed in the life.",
+        "A hardworking person can succeed in life."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "A hard-working person can succeed in life."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ман мехоҳам ба кишварам ва мардумам фоиданок бошам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: vocabulary",
-        "нодуруст B"
+        "I want to be useful to my country and my people.",
+        "I want to be useful for my country and my people.",
+        "I want to be useful to my country and people.",
+        "I want to be useful for my country and people."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "I want to be useful to my country and my people."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ман мехоҳам шаҳрванди хуби кишварам бошам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: grammar",
-        "нодуруст B"
+        "I want to be a good citizen of my country.",
+        "I want to be a good citizen of the country.",
+        "I want to become a good citizen of my country.",
+        "I want to be a good citizen in my country."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "I want to be a good citizen of my country."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Орзуи ман духтур шудан ва волидонамро ифтихор кардан аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "My dream is to become a doctor and to make my parents proud.",
+        "My dream is to become a doctor and to make my parents proud.",
+        "My dream is becoming a doctor and making my parents proud.",
+        "My dream is to become a doctor and make my parents proud."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "My dream is to become a doctor and to make my parents proud."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Мисли ҳар як кӯдак, ман аксар вақт дар бораи ояндаи худ фикр мекунам. Вақте ки ман калон мешавам, ман кӣ хоҳам шуд?» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: experience"
+        "Like every child, I often think about my future. What will I be when I grow up?",
+        "Like every child, I often think about my future. Who will I be when I grow up?",
+        "As every child, I often think about my future. What will I be when I grow up?",
+        "Like every child, I often think about the future. What will I be when I grow up?"
       ],
-      "answer": "тарҷума: experience"
+      "answer": "Like every child, I often think about my future. What will I be when I grow up?"
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Кадом касбро интихоб мекунам? Ин барои ҳар як одам интихоби хеле муҳим аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст C"
+        "What profession will I choose? It is a very important choice for every person.",
+        "What profession will I choose? It is a very important choice for every man.",
+        "What profession shall I choose? It is a very important choice for every person.",
+        "What profession will I choose? It is the very important choice for every person."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "What profession will I choose? It is a very important choice for every person."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Касб корест, ки одам тамоми умри худ мекунад. Баъзе одамон ҳамчун духтур кор мекунанд, баъзе ҳамчун муаллим, баъзе ҳамчун муҳандис, баъзе ҳамчун деҳқон ва баъзе ҳамчун ронанда» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: communication",
-        "нодуруст C",
-        "нодуруст A"
+        "A career is the work that a person does all his life. Some people work as doctors, some as teachers, some as engineers, some as farmers and some as drivers.",
+        "A career is the work that a person does all his life. Some people work as doctors, some as teachers, some as engineers, some as farmers and some as drivers.",
+        "A career is the work which a person does all his life. Some people work as doctors, some as teachers, some as engineers, some as farmers and some as drivers.",
+        "A career is the work that a person does all his life. Some people work like doctors, some like teachers, some like engineers, some like farmers and some like drivers."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "A career is the work that a person does all his life. Some people work as doctors, some as teachers, some as engineers, some as farmers and some as drivers."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ҳар як касб муҳим ва фоиданок аст. Бе духтурон мо беморонро табобат карда наметавонем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: education"
+        "Every profession is important and useful. Without doctors we cannot cure sick people.",
+        "Every profession is important and useful. Without doctors we can't cure sick people.",
+        "Each profession is important and useful. Without doctors we cannot cure sick people.",
+        "Every profession is important and useful. Without the doctors we cannot cure sick people."
       ],
-      "answer": "тарҷума: education"
+      "answer": "Every profession is important and useful. Without doctors we cannot cure sick people."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Бе муаллимон мо омӯхта наметавонем. Бе деҳқонон мо ғизо дошта наметавонем. Бе ронандагон мо сафар карда наметавонем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: development",
-        "нодуруст C"
+        "Without teachers we cannot learn. Without farmers we cannot have food. Without drivers we cannot travel.",
+        "Without teachers we cannot learn. Without farmers we cannot have food. Without drivers we cannot travel.",
+        "Without teachers we can't learn. Without farmers we cannot have food. Without drivers we cannot travel.",
+        "Without teachers we cannot learn. Without farmers we cannot have food. Without drivers we can't travel."
       ],
-      "answer": "тарҷума: development"
+      "answer": "Without teachers we cannot learn. Without farmers we cannot have food. Without drivers we cannot travel."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ҳамаи касбҳо барои ҳаёти хуб заруранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: achievement",
-        "нодуруст A",
-        "нодуруст B"
+        "All professions are necessary for a good life.",
+        "All professions are necessary for good life.",
+        "All professions are needed for a good life.",
+        "All the professions are necessary for a good life."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "All professions are necessary for a good life."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Вақте ки ман хурд будам, ман аксар вақт бо модарам ба беморхона мерафтам. Ман духтурони меҳрубонро медидам, ки ба беморон кӯмак мекарданд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст B"
+        "When I was small, I often went to the hospital with my mother. I saw kind doctors who helped sick people.",
+        "When I was small, I often went to the hospital with my mother. I saw kind doctors which helped sick people.",
+        "When I was little, I often went to the hospital with my mother. I saw kind doctors who helped sick people.",
+        "When I was small I often went to the hospital with my mother. I saw kind doctors who helped sick people."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "When I was small, I often went to the hospital with my mother. I saw kind doctors who helped sick people."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Онҳо хеле зирак ва хеле меҳрубон буданд. Ман ба онҳо нигоҳ мекардам ва фикр мекардам: \"Вақте ки ман калон мешавам, ман мехоҳам мисли онҳо бошам.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: knowledge",
-        "нодуруст A",
-        "нодуруст C"
+        "They were very clever and very kind. I looked at them and I thought: \"When I grow up, I want to be like them.\"",
+        "They were very clever and very kind. I looked at them and thought: \"When I grow up, I want to be like them.\"",
+        "They were very clever and very kind. I looked at them and I thought: \"When I grow up, I want to become like them.\"",
+        "They were very smart and very kind. I looked at them and I thought: \"When I grow up, I want to be like them.\""
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "They were very clever and very kind. I looked at them and I thought: \"When I grow up, I want to be like them.\""
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Ман мехоҳам ба беморон кӯмак кунам ва ҳаёти онҳоро наҷот диҳам.\" Аз ҳамон вақт орзуи ман тағйир наёфтааст. Ман мехоҳам духтур шавам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: conversation"
+        "I want to help sick people and save their lives. Since that time, my dream has not changed. I want to become a doctor.",
+        "I want to help sick people and to save their lives. Since that time, my dream has not changed. I want to become a doctor.",
+        "I want to help sick people and save their lives. Since that time my dream has not changed. I want to become a doctor.",
+        "I want to help sick people and save their lives. Since that time, my dream has not changed. I want to be a doctor."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "I want to help sick people and save their lives. Since that time, my dream has not changed. I want to become a doctor."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Барои духтури хуб шудан, ман бояд дар мактаб хеле хуб таҳсил кунам. Ман дар англисӣ ва биология хуб ҳастам. Ман инчунин химия ва математикаро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: fluency",
-        "нодуруст A",
-        "нодуруст C"
+        "To become a good doctor, I must study very well at school. I am good at English and biology. I also like chemistry and math.",
+        "To become a good doctor, I must study very well at school. I am good at English and biology. I also like chemistry and math.",
+        "To become a good doctor I must study very well at school. I am good at English and biology. I also like chemistry and math.",
+        "To become a good doctor, I must study very well at school. I am good in English and biology. I also like chemistry and math."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "To become a good doctor, I must study very well at school. I am good at English and biology. I also like chemistry and math."
+    },
+    {
+      "q": "«Ин фанҳо барои духтури оянда хеле муҳим ҳастанд. Биология ба мо дар фаҳмидани бадани одам кӯмак мекунад. Химия ба мо дар фаҳмидани доруҳо кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "These subjects are very important for a future doctor. Biology helps us to understand the human body. Chemistry helps us to understand medicines.",
+        "These subjects are very important for a future doctor. Biology helps us to understand the human body. Chemistry helps us to understand medicines.",
+        "These subjects are very important for the future doctor. Biology helps us to understand the human body. Chemistry helps us to understand medicines.",
+        "These subjects are very important for a future doctor. Biology helps us understand the human body. Chemistry helps us understand medicines."
+      ],
+      "answer": "These subjects are very important for a future doctor. Biology helps us to understand the human body. Chemistry helps us to understand medicines."
+    },
+    {
+      "q": "«Математика ба мо дар дуруст ҳисоб кардан кӯмак мекунад. Англисӣ ба мо дар хондани китобҳои хориҷӣ ва дар гап задан бо духтурони хориҷӣ кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Math helps us to count correctly. English helps us to read foreign books and to speak with foreign doctors.",
+        "Math helps us to count correctly. English helps us to read foreign books and speak with foreign doctors.",
+        "Math helps us to count correctly. English helps us to read foreign books and to speak to foreign doctors.",
+        "Maths helps us to count correctly. English helps us to read foreign books and to speak with foreign doctors."
+      ],
+      "answer": "Math helps us to count correctly. English helps us to read foreign books and to speak with foreign doctors."
+    },
+    {
+      "q": "«Ҳар рӯз ман барои дарсҳоям омода мешавам. Ман ҳамаи вазифаҳои хонагиамро иҷро мекунам, китобҳо мехонам ва машқҳоро менависам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Every day I prepare for my lessons. I do all my homework, I read books and I write exercises.",
+        "Every day I prepare for my lessons. I do all my homework, read books and write exercises.",
+        "Every day I prepare for my lessons. I do all my homework, I read books and write exercises.",
+        "Every day I get ready for my lessons. I do all my homework, I read books and I write exercises."
+      ],
+      "answer": "Every day I prepare for my lessons. I do all my homework, I read books and I write exercises."
+    },
+    {
+      "q": "«Вақте ки ман чизеро намефаҳмам, ман аз муаллимам ё аз волидонам мепурсам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I do not understand something, I ask my teacher or my parents.",
+        "When I don't understand something, I ask my teacher or my parents.",
+        "When I do not understand anything, I ask my teacher or my parents.",
+        "When I do not understand something, I ask my teacher and my parents."
+      ],
+      "answer": "When I do not understand something, I ask my teacher or my parents."
+    },
+    {
+      "q": "«Падарам духтур аст, бинобар ин ӯ ба ман чизҳои ҷолиби зиёдро дар бораи тиб шарҳ медиҳад. Ӯ ба ман дар бораи бемориҳои гуногун ва доруҳои гуногун нақл мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father is a doctor, so he explains many interesting things to me about medicine. He tells me about different illnesses and different medicines.",
+        "My father is a doctor, that is why he explains many interesting things to me about medicine. He tells me about different illnesses and different medicines.",
+        "My father is a doctor, so he explains to me many interesting things about medicine. He tells me about different illnesses and different medicines.",
+        "My father is a doctor, so he explains many interesting things to me about medicine. He tells me about different diseases and different medicines."
+      ],
+      "answer": "My father is a doctor, so he explains many interesting things to me about medicine. He tells me about different illnesses and different medicines."
+    },
+    {
+      "q": "«Баъзан ӯ маро ба беморхонаи худ мебарад ва нишон медиҳад, ки духтурон чӣ тавр кор мекунанд. Ман тамошо кардани онҳоро хеле дӯст медорам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Sometimes he takes me to his hospital and shows me how doctors work. I like to watch them very much.",
+        "Sometimes he takes me to his hospital and shows me how doctors work. I like watching them very much.",
+        "Sometimes he takes me to his hospital and shows me how doctors work. I very much like to watch them.",
+        "Sometimes he brings me to his hospital and shows me how doctors work. I like to watch them very much."
+      ],
+      "answer": "Sometimes he takes me to his hospital and shows me how doctors work. I like to watch them very much."
+    },
+    {
+      "q": "«Ин кори хеле душвор аст, аммо он инчунин хеле муҳим ва хеле фоиданок аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It is a very difficult job, but it is also very important and very useful.",
+        "It is a very difficult work, but it is also very important and very useful.",
+        "It is a very hard job, but it is also very important and very useful.",
+        "It is a very difficult job, but it is very important and very useful too."
+      ],
+      "answer": "It is a very difficult job, but it is also very important and very useful."
+    },
+    {
+      "q": "«Вақте ки ман мактабро хатм мекунам, ман бояд имтиҳонҳои ниҳоиамро хеле хуб супорам. Баъд ман мехоҳам ба донишгоҳи тиббӣ дар Душанбе дохил шавам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I finish school, I must pass my final exams very well. Then I want to enter the medical university in Dushanbe.",
+        "When I finish school, I must pass my final exams very well. Then I want to enter the medical university in Dushanbe.",
+        "When I finish school I must pass my final exams very well. Then I want to enter the medical university in Dushanbe.",
+        "When I finish school, I must pass my final exams very well. Then I want to enter a medical university in Dushanbe."
+      ],
+      "answer": "When I finish school, I must pass my final exams very well. Then I want to enter the medical university in Dushanbe."
+    },
+    {
+      "q": "«Дар он ҷо ман шаш сол таҳсил мекунам. Ман фанҳои нави зиёдро меомӯзам: анатомия, физиология, фармакология ва дигарон» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "There I will study for six years. I will learn many new subjects: anatomy, physiology, pharmacology and many others.",
+        "There I will study for six years. I will learn many new subjects: anatomy, physiology, pharmacology and others.",
+        "There I will study six years. I will learn many new subjects: anatomy, physiology, pharmacology and many others.",
+        "There I will study for six years. I will study many new subjects: anatomy, physiology, pharmacology and many others."
+      ],
+      "answer": "There I will study for six years. I will learn many new subjects: anatomy, physiology, pharmacology and many others."
+    },
+    {
+      "q": "«Баъд аз донишгоҳ ман дипломи донишгоҳ хоҳам дошт ва ман ҳамчун духтур дар беморхона кор хоҳам кард. Духтури хуб таҷрибаи зиёд лозим дорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "After university I will have a university degree and I will work as a doctor in a hospital. A good doctor needs a lot of experience.",
+        "After university I will have a university degree and I will work as a doctor in a hospital. A good doctor needs much experience.",
+        "After the university I will have a university degree and I will work as a doctor in a hospital. A good doctor needs a lot of experience.",
+        "After university I will have a university degree and work as a doctor in a hospital. A good doctor needs a lot of experience."
+      ],
+      "answer": "After university I will have a university degree and I will work as a doctor in a hospital. A good doctor needs a lot of experience."
+    },
+    {
+      "q": "«Волидонам мегӯянд: \"Агар шумо дар ҳаёт муваффақ шудан хоҳед, шумо бояд ҳар рӯз бо ҷидду ҷаҳд кор кунед. Шумо набояд танбал бошед. Шумо бояд сабрнок ва меҳрубон бошед.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My parents say: \"If you want to succeed in life, you must work hard every day. You must not be lazy. You must be patient and kind.\"",
+        "My parents say: \"If you want to succeed in life, you must work hard every day. You mustn't be lazy. You must be patient and kind.\"",
+        "My parents say: \"If you want to succeed in life you must work hard every day. You must not be lazy. You must be patient and kind.\"",
+        "My parents say: \"If you want to succeed in life, you should work hard every day. You must not be lazy. You must be patient and kind.\""
+      ],
+      "answer": "My parents say: \"If you want to succeed in life, you must work hard every day. You must not be lazy. You must be patient and kind.\""
+    },
+    {
+      "q": "«Ва шумо бояд кори худро дӯст доред.\" Ман бо онҳо розӣ ҳастам. Одами танбал духтури хуб шуда наметавонад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "And you must love your work.\" I agree with them. A lazy person cannot become a good doctor.",
+        "And you must love your work.\" I agree with them. A lazy man cannot become a good doctor.",
+        "And you must love your work.\" I agree with them. A lazy person cannot be a good doctor.",
+        "And you must love your work.\" I agree with them. A lazy person can not become a good doctor."
+      ],
+      "answer": "And you must love your work.\" I agree with them. A lazy person cannot become a good doctor."
+    },
+    {
+      "q": "«Духтури хуб бояд одамонро дӯст дорад ва шабу рӯз ба онҳо кӯмак кунад. Падарам мегӯяд: \"Вақте ки шумо як ҳаётро наҷот медиҳед, шумо тамоми ҷаҳонро наҷот медиҳед.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "A good doctor must love people and help them day and night. My father says: \"When you save a life, you save a whole world.\"",
+        "A good doctor must love people and help them day and night. My father says: \"When you save a life you save a whole world.\"",
+        "A good doctor must love people and help them day and night. My father says: \"When you save one life, you save a whole world.\"",
+        "A good doctor should love people and help them day and night. My father says: \"When you save a life, you save a whole world.\""
+      ],
+      "answer": "A good doctor must love people and help them day and night. My father says: \"When you save a life, you save a whole world.\""
+    },
+    {
+      "q": "«Ин суханон барои ман хеле муҳим ҳастанд. Ман инчунин мехоҳам ба кишварам кӯмак кунам. Тоҷикистон ба духтурони хуб, муаллимони хуб ва муҳандисони хуб ниёз дорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "These words are very important for me. I also want to help my country. Tajikistan needs good doctors, good teachers and good engineers.",
+        "These words are very important for me. I also want to help my country. Tajikistan needs good doctors, good teachers and good engineers.",
+        "These words are very important to me. I also want to help my country. Tajikistan needs good doctors, good teachers and good engineers.",
+        "These words are very important for me. I want to help my country too. Tajikistan needs good doctors, good teachers and good engineers."
+      ],
+      "answer": "These words are very important for me. I also want to help my country. Tajikistan needs good doctors, good teachers and good engineers."
+    },
+    {
+      "q": "«Кишвари мо ба одамонеро ниёз дорад, ки Ватани худро дӯст медоранд ва барои некии он кор мекунанд. Ман мехоҳам ба кишварам ва мардумам фоиданок бошам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Our country needs people who love their motherland and who work for its good. I want to be useful to my country and my people.",
+        "Our country needs people who love their motherland and work for its good. I want to be useful to my country and my people.",
+        "Our country needs people who love their motherland and who work for its good. I want to be useful for my country and my people.",
+        "Our country needs people that love their motherland and who work for its good. I want to be useful to my country and my people."
+      ],
+      "answer": "Our country needs people who love their motherland and who work for its good. I want to be useful to my country and my people."
+    },
+    {
+      "q": "«Ман мехоҳам шаҳрванди хуби кишварам бошам. Вақте ки ман калон мешавам ва духтур мешавам, ман мехоҳам ба одамон дар деҳаҳо ва дар кӯҳҳои мо кӯмак кунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to be a good citizen of my country. When I grow up and become a doctor, I want to help people in our villages and in our mountains.",
+        "I want to be a good citizen of my country. When I grow up and become a doctor, I want to help people in our villages and in the mountains.",
+        "I want to become a good citizen of my country. When I grow up and become a doctor, I want to help people in our villages and in our mountains.",
+        "I want to be a good citizen of my country. When I grow up and become a doctor I want to help people in our villages and in our mountains."
+      ],
+      "answer": "I want to be a good citizen of my country. When I grow up and become a doctor, I want to help people in our villages and in our mountains."
+    },
+    {
+      "q": "«Ман мехоҳам беморхонаҳо ва мактабҳои нав созам. Ман мехоҳам кишварамро солим ва қавӣ созам. Волидонам ба ман хеле ифтихор хоҳанд кард ва ман хеле хушбахт хоҳам буд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to build new hospitals and schools. I want to make my country healthy and strong. My parents will be very proud of me, and I will be very happy.",
+        "I want to build new hospitals and schools. I want to make my country healthy and strong. My parents will be very proud of me and I will be very happy.",
+        "I want to build new hospitals and schools. I want to make my country healthy and strong. My parents will be very proud of me, and I will be happy.",
+        "I want to build new hospitals and schools. I want to make my country healthy and strong. My parents will be proud of me, and I will be very happy."
+      ],
+      "answer": "I want to build new hospitals and schools. I want to make my country healthy and strong. My parents will be very proud of me, and I will be very happy."
+    },
+    {
+      "q": "«Ман медонам, ки орзуи ман осон нест. Роҳ ба сӯи он дароз ва душвор аст. Аммо ман наметарсам. Ман ҷасорат дорам, ман сабр дорам ва ман хоҳиши бузурги кӯмак кардан ба одамонро дорам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I know that my dream is not easy. The way to it is long and difficult. But I am not afraid. I have courage, I have patience and I have a big wish to help people.",
+        "I know that my dream is not easy. The way to it is long and difficult. But I am not afraid. I have courage, I have patience and I have a big wish to help people.",
+        "I know my dream is not easy. The way to it is long and difficult. But I am not afraid. I have courage, I have patience and I have a big wish to help people.",
+        "I know that my dream is not easy. The way to it is long and difficult. But I'm not afraid. I have courage, I have patience and I have a big wish to help people."
+      ],
+      "answer": "I know that my dream is not easy. The way to it is long and difficult. But I am not afraid. I have courage, I have patience and I have a big wish to help people."
+    },
+    {
+      "q": "«Қадам ба қадам, сол ба сол, ман ба ҳадафи худ мерасам. Ман духтури хуб мешавам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Step by step, year after year, I will reach my goal. I will become a good doctor.",
+        "Step by step, year after year, I will reach my goal. I will become a good doctor.",
+        "Step by step, year by year, I will reach my goal. I will become a good doctor.",
+        "Step by step, year after year, I will achieve my goal. I will become a good doctor."
+      ],
+      "answer": "Step by step, year after year, I will reach my goal. I will become a good doctor."
+    },
+    {
+      "q": "«Ва вақте ки орзуи ман амалӣ мешавад, ман ба ҳамаи кӯдакони кишварам мегӯям: \"Ба орзуҳои худ бовар кунед! Бо ҷидду ҷаҳд таҳсил кунед, меҳрубон бошед ва як рӯз орзуи шумо амалӣ хоҳад шуд!\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "And when my dream comes true, I will say to all children of my country: \"Believe in your dreams! Study hard, be kind, and one day your dream will come true!\"",
+        "And when my dream comes true, I will tell all children of my country: \"Believe in your dreams! Study hard, be kind, and one day your dream will come true!\"",
+        "And when my dream comes true, I will say to all the children of my country: \"Believe in your dreams! Study hard, be kind, and one day your dream will come true!\"",
+        "And when my dream comes true, I will say to all children of my country: \"Believe in your dreams! Study hard, be kind and one day your dream will come true!\""
+      ],
+      "answer": "And when my dream comes true, I will say to all children of my country: \"Believe in your dreams! Study hard, be kind, and one day your dream will come true!\""
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 26
+  "wordsCount": 16
 }
