@@ -1,491 +1,692 @@
 {
   "id": 43,
-  "title": "Матн ва машқҳо 43",
-  "level": "Миёна - Синфи 4",
+  "title": "Матн 43: Мусиқӣ ва санъат",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "musician",
+      "tj": "мусиқачӣ",
+      "ex": "My uncle is a famous musician."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "instrument",
+      "tj": "асбоби мусиқӣ",
+      "ex": "The piano is a beautiful instrument."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "orchestra",
+      "tj": "оркестр",
+      "ex": "The orchestra plays beautiful music."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "concert",
+      "tj": "концерт",
+      "ex": "We went to a concert in the evening."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "stage",
+      "tj": "сахна",
+      "ex": "The singer stands on the stage."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "audience",
+      "tj": "тамошобин",
+      "ex": "The audience claps after the song."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "composer",
+      "tj": "бастакор",
+      "ex": "The composer writes new music."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "melody",
+      "tj": "оханг",
+      "ex": "This melody is very beautiful."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "voice",
+      "tj": "овоз",
+      "ex": "She has a very beautiful voice."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "choir",
+      "tj": "хор",
+      "ex": "The school choir sings on holidays."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "to perform",
+      "tj": "иҷро кардан",
+      "ex": "The singers perform on the stage."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "to compose",
+      "tj": "эҷод кардан",
+      "ex": "My father composes songs for children."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "applause",
+      "tj": "чапакзанӣ",
+      "ex": "Loud applause was heard after the concert."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "talented",
+      "tj": "боистеъдод",
+      "ex": "My sister is a talented girl."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
+      "en": "microphone",
+      "tj": "микрофон",
+      "ex": "The singer holds a microphone in his hand."
     },
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
-    },
-    {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
-    },
-    {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
-    },
-    {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
-    },
-    {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
-    },
-    {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
-    },
-    {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
-    },
-    {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
-    },
-    {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "to tune",
+      "tj": "соз кардан",
+      "ex": "The musician tunes his instrument before playing."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 43)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "My uncle is a famous musician and plays the piano.",
+      "tj": "Амакам мусиқачии машҳур аст ва пианино менавозад."
     },
     {
-      "en": "I'm working on lesson 43",
-      "tj": "Ман дарси 43-ро меомӯзам"
+      "en": "The piano is a very beautiful instrument.",
+      "tj": "Пианино асбоби мусиқии хеле зебо аст."
+    },
+    {
+      "en": "The orchestra plays beautiful music on the stage.",
+      "tj": "Оркестр дар сахна мусиқии зебо менавозад."
+    },
+    {
+      "en": "We went to a concert in the evening and listened to good music.",
+      "tj": "Мо бегоҳ ба концерт рафтем ва мусиқии хуб гӯш кардем."
+    },
+    {
+      "en": "The singer stands on the stage with a microphone in his hand.",
+      "tj": "Сароянда дар сахна бо микрофон дар дасташ меистад."
+    },
+    {
+      "en": "The audience claps loudly after every song.",
+      "tj": "Тамошобин баъд аз ҳар як суруд баланд чапак мезанад."
+    },
+    {
+      "en": "The composer writes new music for children.",
+      "tj": "Бастакор барои кӯдакон мусиқии нав менависад."
+    },
+    {
+      "en": "This melody is very beautiful and pleasant.",
+      "tj": "Ин оханг хеле зебо ва хушоянд аст."
+    },
+    {
+      "en": "My aunt has a very beautiful voice.",
+      "tj": "Аммаам овози хеле зебо дорад."
+    },
+    {
+      "en": "Our school choir sings on all big holidays.",
+      "tj": "Хори мактаби мо дар ҳамаи идҳои калон суруд мехонад."
+    },
+    {
+      "en": "The singers perform on the stage in beautiful national clothes.",
+      "tj": "Сарояндагон дар сахна бо либосҳои зебои миллӣ иҷро мекунанд."
+    },
+    {
+      "en": "My father composes songs for children.",
+      "tj": "Падарам барои кӯдакон сурудҳо эҷод мекунад."
+    },
+    {
+      "en": "Loud applause was heard after the concert.",
+      "tj": "Баъд аз концерт чапакзании баланд шунида шуд."
+    },
+    {
+      "en": "My sister is a very talented girl and she sings very well.",
+      "tj": "Хоҳари ман духтари хеле боистеъдод аст ва ӯ хеле хуб суруд мехонад."
+    },
+    {
+      "en": "The musician tunes his instrument before playing.",
+      "tj": "Мусиқачӣ асбобашро пеш аз навохтан соз мекунад."
+    },
+    {
+      "en": "Music makes our life beautiful and happy.",
+      "tj": "Мусиқӣ ҳаёти моро зебо ва хушбахт мекунад."
     }
   ],
   "text": {
-    "en": "Text for lesson 43. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 43 is about Миёна - Синфи 4. I write all words in my notebook. Level 43 text.",
-    "tj": "Матни дарси 43..."
+    "en": "Music and Art\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe. I love music very much. In our family there are many musicians. My father plays the guitar and composes songs for children. My mother plays the piano. My aunt has a very beautiful voice and she often sings at concerts. My uncle is a famous musician. He plays many instruments: the piano, the violin and the national drum — the doira.\n\nMusic is a wonderful art. It makes our life beautiful and happy. There are many kinds of music: classical music, folk music, pop music and national music. My favourite is national Tajik music. It has beautiful melodies and a special rhythm. When I listen to Tajik music, I feel happy and proud of my country.\n\nIn Tajikistan we have many national instruments. The most famous is the doira — a small drum. There is also the rubob — a string instrument, the nay — a flute, the tanbur and the sato. Tajik musicians have played these instruments for hundreds of years. Their melodies are famous all over the world. Foreign tourists come to Tajikistan to listen to our musicians.\n\nLast month our class went to a big concert in the theatre. The concert hall was full. The audience sat quietly and waited. Then the curtain opened and the musicians came onto the stage. They were dressed in beautiful national clothes. The conductor raised his hand, and the orchestra began to play. The music was wonderful! Then a young singer came onto the stage. She held a microphone in her hand and sang a beautiful Tajik song. Her voice was clear and strong. The audience clapped loudly. After the concert we met the musicians and the singer. They were very kind and told us about their work.\n\nThe conductor of the orchestra said: \"To be a good musician, you need three things: talent, a lot of practice and a great love for music. Music is not only a job — it is our life.\" I will always remember these words.\n\nMy sister Zuhro is a very talented girl. She plays the piano and sings in our school choir. The choir sings on all big holidays. Last Navruz the choir sang a beautiful song about spring and our country. The audience clapped for a long time. My mother was in the hall and she was very proud of Zuhro.\n\nI also want to learn to play a musical instrument. My father says: \"Choose an instrument and I will teach you. But remember: music needs patience. You must practise every day, even when you do not want to.\" I think I will choose the guitar like my father. I want to compose my own songs and sing them for my family and friends.\n\nArt is a great treasure of every nation. Artists, musicians, singers and composers make our life more beautiful. We must respect them and be proud of them. When I grow up, I want to be a musician like my father. I want to compose beautiful melodies and to make people happy with my music.",
+    "tj": "Мусиқӣ ва санъат\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе зиндагӣ мекунам. Ман мусиқиро хеле дӯст медорам. Дар оилаи мо мусиқачиёни зиёд ҳастанд. Падарам гитара менавозад ва барои кӯдакон сурудҳо эҷод мекунад. Модарам пианино менавозад. Аммаам овози хеле зебо дорад ва ӯ аксар вақт дар концертҳо суруд мехонад. Амакам мусиқачии машҳур аст. Ӯ асбобҳои зиёдро менавозад: пианино, скрипка ва доираи миллӣ.\n\nМусиқӣ санъати аҷоиб аст. Он ҳаёти моро зебо ва хушбахт мекунад. Навъҳои зиёди мусиқӣ ҳастанд: мусиқии классикӣ, мусиқии халқӣ, мусиқии поп ва мусиқии миллӣ. Мусиқии дӯстдоштаи ман мусиқии миллии тоҷикӣ аст. Он охангҳои зебо ва ритми махсус дорад. Вақте ки ман мусиқии тоҷикиро гӯш мекунам, ман худро хушбахт ҳис мекунам ва ба кишварам ифтихор мекунам.\n\nДар Тоҷикистон мо асбобҳои мусиқии миллии зиёд дорем. Машҳуртарини онҳо доира аст — нақораи хурд. Инчунин рубоб — асбоби торӣ, най — флейта, танбур ва сато ҳастанд. Мусиқачиёни тоҷик ин асбобҳоро садҳо сол менавозанд. Оҳангҳои онҳо дар тамоми ҷаҳон машҳур ҳастанд. Сайёҳони хориҷӣ ба Тоҷикистон меоянд, то ки мусиқачиёни моро гӯш кунанд.\n\nМоҳи гузашта синфи мо ба концерти калон дар театр рафт. Толори концерт пур буд. Тамошобин оромона нишаста, интизор мешуданд. Баъд парда кушода шуд ва мусиқачиён ба сахна баромаданд. Онҳо либосҳои зебои миллӣ дар бар доштанд. Дирижёр дасташро бардошт ва оркестр навохтанро оғоз кард. Мусиқӣ аҷоиб буд! Баъд сарояндаи ҷавон ба сахна баромад. Ӯ микрофонро дар дасташ дошт ва суруди зебои тоҷикиро хонд. Овози ӯ тоза ва қавӣ буд. Тамошобин баланд чапак заданд. Баъд аз концерт мо бо мусиқачиён ва сароянда вохӯрдем. Онҳо хеле меҳрубон буданд ва ба мо дар бораи кори худ нақл карданд.\n\nДирижёри оркестр гуфт: «Барои мусиқачии хуб будан се чиз лозим аст: истеъдод, машқи зиёд ва муҳаббати бузург ба мусиқӣ. Мусиқӣ на танҳо кор аст — он ҳаёти мост.» Ман ин суханонро ҳамеша ба ёд хоҳам дошт.\n\nХоҳари ман Зуҳро духтари хеле боистеъдод аст. Ӯ пианино менавозад ва дар хори мактаби мо суруд мехонад. Хор дар ҳамаи идҳои калон суруд мехонад. Наврӯзи гузашта хор суруди зебо дар бораи баҳор ва кишвари моро хонд. Тамошобин муддати дароз чапак заданд. Модарам дар толор буд ва ӯ ба Зуҳро хеле ифтихор мекард.\n\nМан низ мехоҳам навохтани ягон асбоби мусиқиро омӯзам. Падарам мегӯяд: «Асбоберо интихоб кун ва ман ба ту омӯзонида метавонам. Аммо дар хотир дор: мусиқӣ сабрро талаб мекунад. Ту бояд ҳар рӯз машқ кунӣ, ҳатто вақте ки намехоҳӣ.» Ман фикр мекунам, ки ман гитараро ба мисли падарам интихоб хоҳам кард. Ман мехоҳам сурудҳои худро эҷод кунам ва онҳоро барои оила ва дӯстонам суруд хонам.\n\nСанъат ганҷи бузурги ҳар як миллат аст. Ҳунармандон, мусиқачиён, сарояндагон ва бастакорон ҳаёти моро зеботару хушбахттар мекунанд. Мо бояд онҳоро эҳтиром кунем ва ба онҳо ифтихор кунем. Вақте ки ман калон мешавам, ман мехоҳам мусиқачӣ шавам, ба мисли падарам. Ман мехоҳам охангҳои зебо эҷод кунам ва бо мусиқии худ одамонро хушбахт кунам."
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Амакам мусиқачии машҳур аст ва пианино менавозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи understand"
+        "My uncle is a famous musician and plays the piano.",
+        "My uncle is a good musician and plays the piano.",
+        "My father is a famous musician and plays the piano.",
+        "My uncle is a famous musician and plays the guitar."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "My uncle is a famous musician and plays the piano."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Пианино асбоби мусиқии хеле зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи explain",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The piano is a very beautiful instrument.",
+        "The piano is a beautiful instrument.",
+        "The guitar is a very beautiful instrument.",
+        "The piano is a very good instrument."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "The piano is a very beautiful instrument."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Оркестр дар сахна мусиқии зебо менавозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи important"
+        "The orchestra plays beautiful music on the stage.",
+        "The orchestra plays good music on the stage.",
+        "The orchestra plays beautiful music on the scene.",
+        "The musicians play beautiful music on the stage."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "The orchestra plays beautiful music on the stage."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Мо бегоҳ ба концерт рафтем ва мусиқии хуб гӯш кардем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи different"
+        "We went to a concert in the evening and listened to good music.",
+        "We went to a concert in the evening and heard good music.",
+        "We went to the concert in the evening and listened to good music.",
+        "We went to a concert in the morning and listened to good music."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "We went to a concert in the evening and listened to good music."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Сароянда дар сахна бо микрофон дар дасташ меистад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи difficult"
+        "The singer stands on the stage with a microphone in his hand.",
+        "The singer stands on the stage with a microphone in her hand.",
+        "The singer stands on the scene with a microphone in his hand.",
+        "The singer sits on the stage with a microphone in his hand."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "The singer stands on the stage with a microphone in his hand."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Тамошобин баъд аз ҳар як суруд баланд чапак мезанад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи easy",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "The audience claps loudly after every song.",
+        "The audience claps after every song.",
+        "The audience claps loudly after each song.",
+        "The audience claps loudly after every music."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "The audience claps loudly after every song."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Бастакор барои кӯдакон мусиқии нав менависад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи interesting"
+        "The composer writes new music for children.",
+        "The composer writes new songs for children.",
+        "The composer creates new music for children.",
+        "The musician writes new music for children."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "The composer writes new music for children."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Ин оханг хеле зебо ва хушоянд аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи remember",
-        "нодуруст A",
-        "нодуруст B"
+        "This melody is very beautiful and pleasant.",
+        "This melody is beautiful and pleasant.",
+        "This song is very beautiful and pleasant.",
+        "That melody is very beautiful and pleasant."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "This melody is very beautiful and pleasant."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Аммаам овози хеле зебо дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи forget",
-        "нодуруст C",
-        "нодуруст B"
+        "My aunt has a very beautiful voice.",
+        "My aunt has a beautiful voice.",
+        "My mother has a very beautiful voice.",
+        "My aunt has a very good voice."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "My aunt has a very beautiful voice."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Хори мактаби мо дар ҳамаи идҳои калон суруд мехонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи homework",
-        "нодуруст C"
+        "Our school choir sings on all big holidays.",
+        "Our school choir sings on all holidays.",
+        "Our city choir sings on all big holidays.",
+        "Our school choir sings at all big holidays."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "Our school choir sings on all big holidays."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Сарояндагон дар сахна бо либосҳои зебои миллӣ иҷро мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи exercise",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The singers perform on the stage in beautiful national clothes.",
+        "The singers perform on the stage in beautiful national dress.",
+        "The singers play on the stage in beautiful national clothes.",
+        "The musicians perform on the stage in beautiful national clothes."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "The singers perform on the stage in beautiful national clothes."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Падарам барои кӯдакон сурудҳо эҷод мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи text",
-        "нодуруст B",
-        "нодуруст C"
+        "My father composes songs for children.",
+        "My father writes songs for children.",
+        "My father creates songs for children.",
+        "My grandfather composes songs for children."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "My father composes songs for children."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Баъд аз концерт чапакзании баланд шунида шуд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи story",
-        "нодуруст C",
-        "нодуруст A"
+        "Loud applause was heard after the concert.",
+        "Loud applause was heard after the concert.",
+        "Loud clapping was heard after the concert.",
+        "Loud applause was heard after the music."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "Loud applause was heard after the concert."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Хоҳари ман духтари хеле боистеъдод аст ва ӯ хеле хуб суруд мехонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи question"
+        "My sister is a very talented girl and she sings very well.",
+        "My sister is a talented girl and she sings very well.",
+        "My sister is a very talented girl and she sings very good.",
+        "My sister is a very gifted girl and she sings very well."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "My sister is a very talented girl and she sings very well."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Мусиқачӣ асбобашро пеш аз навохтан соз мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи answer",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "The musician tunes his instrument before playing.",
+        "The musician tunes his instrument before the playing.",
+        "The musician tunes his instruments before playing.",
+        "The musician tunes the instrument before playing."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "The musician tunes his instrument before playing."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Мусиқӣ ҳаёти моро зебо ва хушбахт мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи understand",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "Music makes our life beautiful and happy.",
+        "Music makes our life beautiful and good.",
+        "Music makes our lives beautiful and happy.",
+        "The music makes our life beautiful and happy."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "Music makes our life beautiful and happy."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Дар оилаи мо мусиқачиёни зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи explain"
+        "In our family there are many musicians.",
+        "In our house there are many musicians.",
+        "In our family there are a lot of musicians.",
+        "In our family we have many musicians."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "In our family there are many musicians."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Падарам гитара менавозад ва барои кӯдакон сурудҳо эҷод мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи important",
-        "нодуруст B"
+        "My father plays the guitar and composes songs for children.",
+        "My father plays guitar and composes songs for children.",
+        "My father plays the guitar and writes songs for children.",
+        "My father plays the guitar and creates songs for children."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "My father plays the guitar and composes songs for children."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Модарам пианино менавозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи different",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "My mother plays the piano.",
+        "My mother plays piano.",
+        "My sister plays the piano.",
+        "My mother plays the pianino."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "My mother plays the piano."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Аммаам овози хеле зебо дорад ва ӯ аксар вақт дар концертҳо суруд мехонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи difficult",
-        "нодуруст A"
+        "My aunt has a very beautiful voice and she often sings at concerts.",
+        "My aunt has a beautiful voice and she often sings at concerts.",
+        "My aunt has a very beautiful voice and she often sings in concerts.",
+        "My aunt has a very good voice and she often sings at concerts."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "My aunt has a very beautiful voice and she often sings at concerts."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Амакам мусиқачии машҳур аст. Ӯ асбобҳои зиёдро менавозад: пианино, скрипка ва доираи миллӣ» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи easy",
-        "нодуруст C",
-        "нодуруст B"
+        "My uncle is a famous musician. He plays many instruments: the piano, the violin and the national drum — the doira.",
+        "My uncle is a famous musician. He plays many instruments: the piano, the violin and the national drum — doira.",
+        "My uncle is a famous musician. He plays many instruments: piano, violin and the national drum — the doira.",
+        "My uncle is a famous musician. He plays many instruments: the piano, the guitar and the national drum — the doira."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "My uncle is a famous musician. He plays many instruments: the piano, the violin and the national drum — the doira."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Мусиқӣ санъати аҷоиб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи interesting",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "Music is a wonderful art.",
+        "Music is a beautiful art.",
+        "Music is a good art.",
+        "The music is a wonderful art."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "Music is a wonderful art."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Навъҳои зиёди мусиқӣ ҳастанд: мусиқии классикӣ, мусиқии халқӣ, мусиқии поп ва мусиқии миллӣ» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи remember",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "There are many kinds of music: classical music, folk music, pop music and national music.",
+        "There are many types of music: classical music, folk music, pop music and national music.",
+        "There are many kinds of music: classical music, folk music, pop music and national songs.",
+        "There are many kinds of music: classical music, folk songs, pop music and national music."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "There are many kinds of music: classical music, folk music, pop music and national music."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Мусиқии дӯстдоштаи ман мусиқии миллии тоҷикӣ аст. Он охангҳои зебо ва ритми махсус дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи forget",
-        "нодуруст C"
+        "My favourite is national Tajik music. It has beautiful melodies and a special rhythm.",
+        "My favourite music is national Tajik music. It has beautiful melodies and a special rhythm.",
+        "My favourite is national Tajik music. It has beautiful melodies and a special rhythm.",
+        "My favourite is Tajik national music. It has beautiful melodies and a special rhythm."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "My favourite is national Tajik music. It has beautiful melodies and a special rhythm."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Вақте ки ман мусиқии тоҷикиро гӯш мекунам, ман худро хушбахт ҳис мекунам ва ба кишварам ифтихор мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи homework",
-        "нодуруст A",
-        "нодуруст B"
+        "When I listen to Tajik music, I feel happy and proud of my country.",
+        "When I listen to the Tajik music, I feel happy and proud of my country.",
+        "When I listen to Tajik music, I feel happy and proud of my country.",
+        "When I hear Tajik music, I feel happy and proud of my country."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "When I listen to Tajik music, I feel happy and proud of my country."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Дар Тоҷикистон мо асбобҳои мусиқии миллии зиёд дорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи exercise",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "In Tajikistan we have many national musical instruments.",
+        "In Tajikistan we have many national music instruments.",
+        "In Tajikistan we have a lot of national musical instruments.",
+        "In Tajikistan we have many national instruments."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "In Tajikistan we have many national musical instruments."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Машҳуртарини онҳо доира аст — нақораи хурд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи text"
+        "The most famous is the doira — a small drum.",
+        "The most famous is the doira — a small national drum.",
+        "The most famous is the doira — the small drum.",
+        "The most famous one is the doira — a small drum."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "The most famous is the doira — a small drum."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Мусиқачиёни тоҷик ин асбобҳоро садҳо сол менавозанд. Оҳангҳои онҳо дар тамоми ҷаҳон машҳур ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи story",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "Tajik musicians have played these instruments for hundreds of years. Their melodies are famous all over the world.",
+        "Tajik musicians have played these instruments for hundreds of years. Their melodies are well-known all over the world.",
+        "Tajik musicians play these instruments for hundreds of years. Their melodies are famous all over the world.",
+        "Tajik musicians have played these instruments for many years. Their melodies are famous all over the world."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "Tajik musicians have played these instruments for hundreds of years. Their melodies are famous all over the world."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Сайёҳони хориҷӣ ба Тоҷикистон меоянд, то ки мусиқачиёни моро гӯш кунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи question",
-        "нодуруст C"
+        "Foreign tourists come to Tajikistan to listen to our musicians.",
+        "Foreign tourists come to Tajikistan to hear our musicians.",
+        "Foreign tourists come to Tajikistan to listen to our music.",
+        "Foreign tourists come to Tajikistan so as to listen to our musicians."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "Foreign tourists come to Tajikistan to listen to our musicians."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Моҳи гузашта синфи мо ба концерти калон дар театр рафт» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи answer",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "Last month our class went to a big concert in the theatre.",
+        "Last month our class went to a big concert in the theater.",
+        "Last month our class went to a big concert at the theatre.",
+        "Last week our class went to a big concert in the theatre."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "Last month our class went to a big concert in the theatre."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Толори концерт пур буд. Тамошобин оромона нишаста, интизор мешуданд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи understand"
+        "The concert hall was full. The audience sat quietly and waited.",
+        "The concert hall was full. The audience sat quietly and were waiting.",
+        "The concert hall was full. The audience were sitting quietly and waited.",
+        "The hall was full. The audience sat quietly and waited."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "The concert hall was full. The audience sat quietly and waited."
+    },
+    {
+      "q": "«Баъд парда кушода шуд ва мусиқачиён ба сахна баромаданд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Then the curtain opened and the musicians came onto the stage.",
+        "Then the curtain opened and the musicians came onto the scene.",
+        "Then the curtain opened and the musicians went onto the stage.",
+        "Then the curtain opened and the musicians came to the stage."
+      ],
+      "answer": "Then the curtain opened and the musicians came onto the stage."
+    },
+    {
+      "q": "«Онҳо либосҳои зебои миллӣ дар бар доштанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "They were dressed in beautiful national clothes.",
+        "They were wearing beautiful national clothes.",
+        "They had beautiful national clothes on.",
+        "They put on beautiful national clothes."
+      ],
+      "answer": "They were dressed in beautiful national clothes."
+    },
+    {
+      "q": "«Дирижёр дасташро бардошт ва оркестр навохтанро оғоз кард. Мусиқӣ аҷоиб буд!» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The conductor raised his hand, and the orchestra began to play. The music was wonderful!",
+        "The conductor raised his hand and the orchestra began to play. The music was wonderful!",
+        "The conductor put up his hand, and the orchestra began to play. The music was wonderful!",
+        "The conductor raised his arm, and the orchestra began to play. The music was wonderful!"
+      ],
+      "answer": "The conductor raised his hand, and the orchestra began to play. The music was wonderful!"
+    },
+    {
+      "q": "«Баъд сарояндаи ҷавон ба сахна баромад. Ӯ микрофонро дар дасташ дошт ва суруди зебои тоҷикиро хонд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Then a young singer came onto the stage. She held a microphone in her hand and sang a beautiful Tajik song.",
+        "Then a young singer came onto the stage. She had a microphone in her hand and sang a beautiful Tajik song.",
+        "Then a young singer came onto the stage. She held a microphone in her hand and sang a beautiful Tajik song.",
+        "Then a young singer came onto the scene. She held a microphone in her hand and sang a beautiful Tajik song."
+      ],
+      "answer": "Then a young singer came onto the stage. She held a microphone in her hand and sang a beautiful Tajik song."
+    },
+    {
+      "q": "«Овози ӯ тоза ва қавӣ буд. Тамошобин баланд чапак заданд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Her voice was clear and strong. The audience clapped loudly.",
+        "Her voice was clear and strong. The audience clapped loud.",
+        "Her voice was clear and strong. The audience clapped very loudly.",
+        "His voice was clear and strong. The audience clapped loudly."
+      ],
+      "answer": "Her voice was clear and strong. The audience clapped loudly."
+    },
+    {
+      "q": "«Баъд аз концерт мо бо мусиқачиён ва сароянда вохӯрдем. Онҳо хеле меҳрубон буданд ва ба мо дар бораи кори худ нақл карданд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "After the concert we met the musicians and the singer. They were very kind and told us about their work.",
+        "After the concert we met the musicians and the singers. They were very kind and told us about their work.",
+        "After the concert we met the musicians and the singer. They were very kind and told us about their job.",
+        "After the concert we met with the musicians and the singer. They were very kind and told us about their work."
+      ],
+      "answer": "After the concert we met the musicians and the singer. They were very kind and told us about their work."
+    },
+    {
+      "q": "«Дирижёри оркестр гуфт: \"Барои мусиқачии хуб будан се чиз лозим аст: истеъдод, машқи зиёд ва муҳаббати бузург ба мусиқӣ.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The conductor of the orchestra said: \"To be a good musician, you need three things: talent, a lot of practice and a great love for music.\"",
+        "The conductor of the orchestra said: \"To be a good musician, you need three things: talent, much practice and a great love for music.\"",
+        "The conductor of the orchestra said: \"To be a good musician, you need three things: talent, a lot of practice and great love for music.\"",
+        "The conductor of the orchestra told: \"To be a good musician, you need three things: talent, a lot of practice and a great love for music.\""
+      ],
+      "answer": "The conductor of the orchestra said: \"To be a good musician, you need three things: talent, a lot of practice and a great love for music.\""
+    },
+    {
+      "q": "«Мусиқӣ на танҳо кор аст — он ҳаёти мост» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Music is not only a job — it is our life.",
+        "Music is not just a job — it is our life.",
+        "Music is not only work — it is our life.",
+        "The music is not only a job — it is our life."
+      ],
+      "answer": "Music is not only a job — it is our life."
+    },
+    {
+      "q": "«Ман ин суханонро ҳамеша ба ёд хоҳам дошт» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I will always remember these words.",
+        "I will always remember these words.",
+        "I shall always remember these words.",
+        "I will always keep these words in my memory."
+      ],
+      "answer": "I will always remember these words."
+    },
+    {
+      "q": "«Хоҳари ман Зуҳро духтари хеле боистеъдод аст. Ӯ пианино менавозад ва дар хори мактаби мо суруд мехонад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My sister Zuhro is a very talented girl. She plays the piano and sings in our school choir.",
+        "My sister Zuhro is a talented girl. She plays the piano and sings in our school choir.",
+        "My sister Zuhro is a very talented girl. She plays piano and sings in our school choir.",
+        "My sister Zuhro is a very gifted girl. She plays the piano and sings in our school choir."
+      ],
+      "answer": "My sister Zuhro is a very talented girl. She plays the piano and sings in our school choir."
+    },
+    {
+      "q": "«Хор дар ҳамаи идҳои калон суруд мехонад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The choir sings on all big holidays.",
+        "The choir sings at all big holidays.",
+        "The choir sings on all the big holidays.",
+        "The choir sings during all big holidays."
+      ],
+      "answer": "The choir sings on all big holidays."
+    },
+    {
+      "q": "«Наврӯзи гузашта хор суруди зебо дар бораи баҳор ва кишвари моро хонд. Тамошобин муддати дароз чапак заданд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Last Navruz the choir sang a beautiful song about spring and our country. The audience clapped for a long time.",
+        "Last Navruz the choir sang a beautiful song about spring and our country. The audience clapped for a long time.",
+        "Last Navruz the choir sang a nice song about spring and our country. The audience clapped for a long time.",
+        "Last Navruz the choir sang a beautiful song about spring and our country. The audience clapped a long time."
+      ],
+      "answer": "Last Navruz the choir sang a beautiful song about spring and our country. The audience clapped for a long time."
+    },
+    {
+      "q": "«Модарам дар толор буд ва ӯ ба Зуҳро хеле ифтихор мекард» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My mother was in the hall and she was very proud of Zuhro.",
+        "My mother was in the hall and she was proud of Zuhro.",
+        "My mother was in the concert hall and she was very proud of Zuhro.",
+        "My mother was in the hall and she was very proud for Zuhro."
+      ],
+      "answer": "My mother was in the hall and she was very proud of Zuhro."
+    },
+    {
+      "q": "«Ман низ мехоҳам навохтани ягон асбоби мусиқиро омӯзам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I also want to learn to play a musical instrument.",
+        "I also want to learn to play some musical instrument.",
+        "I want to learn to play a musical instrument too.",
+        "I also want to learn to play a music instrument."
+      ],
+      "answer": "I also want to learn to play a musical instrument."
+    },
+    {
+      "q": "«Падарам мегӯяд: \"Асбоберо интихоб кун ва ман ба ту омӯзонида метавонам.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father says: \"Choose an instrument and I will teach you.\"",
+        "My father says: \"Choose an instrument and I can teach you.\"",
+        "My father says: \"Choose an instrument and I shall teach you.\"",
+        "My father says: \"Choose some instrument and I will teach you.\""
+      ],
+      "answer": "My father says: \"Choose an instrument and I will teach you.\""
+    },
+    {
+      "q": "«Аммо дар хотир дор: мусиқӣ сабрро талаб мекунад. Ту бояд ҳар рӯз машқ кунӣ, ҳатто вақте ки намехоҳӣ» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "But remember: music needs patience. You must practise every day, even when you do not want to.",
+        "But remember: music requires patience. You must practise every day, even when you do not want to.",
+        "But remember: music needs patience. You must practise every day, even when you don't want to.",
+        "But remember: music needs patience. You should practise every day, even when you do not want to."
+      ],
+      "answer": "But remember: music needs patience. You must practise every day, even when you do not want to."
+    },
+    {
+      "q": "«Ман фикр мекунам, ки ман гитараро ба мисли падарам интихоб хоҳам кард» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I think I will choose the guitar like my father.",
+        "I think I shall choose the guitar like my father.",
+        "I think that I will choose the guitar like my father.",
+        "I think I will choose a guitar like my father."
+      ],
+      "answer": "I think I will choose the guitar like my father."
+    },
+    {
+      "q": "«Ман мехоҳам сурудҳои худро эҷод кунам ва онҳоро барои оила ва дӯстонам суруд хонам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to compose my own songs and sing them for my family and friends.",
+        "I want to compose my songs and sing them for my family and friends.",
+        "I want to create my own songs and sing them for my family and friends.",
+        "I want to compose my own songs and to sing them for my family and friends."
+      ],
+      "answer": "I want to compose my own songs and sing them for my family and friends."
+    },
+    {
+      "q": "«Санъат ганҷи бузурги ҳар як миллат аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Art is a great treasure of every nation.",
+        "Art is a great treasure of every people.",
+        "Art is the great treasure of every nation.",
+        "Art is a big treasure of every nation."
+      ],
+      "answer": "Art is a great treasure of every nation."
+    },
+    {
+      "q": "«Ҳунармандон, мусиқачиён, сарояндагон ва бастакорон ҳаёти моро зеботару хушбахттар мекунанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Artists, musicians, singers and composers make our life more beautiful and happier.",
+        "Artists, musicians, singers and composers make our life more beautiful and happy.",
+        "Artists, musicians, singers and composers make our lives more beautiful and happier.",
+        "Artists, musicians, singers and composers make our life more beautiful and more happy."
+      ],
+      "answer": "Artists, musicians, singers and composers make our life more beautiful and happier."
+    },
+    {
+      "q": "«Мо бояд онҳоро эҳтиром кунем ва ба онҳо ифтихор кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must respect them and be proud of them.",
+        "We must respect them and be proud for them.",
+        "We should respect them and be proud of them.",
+        "We must respect them and be proud of it."
+      ],
+      "answer": "We must respect them and be proud of them."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам мусиқачӣ шавам, ба мисли падарам. Ман мехоҳам охангҳои зебо эҷод кунам ва бо мусиқии худ одамонро хушбахт кунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to be a musician like my father. I want to compose beautiful melodies and to make people happy with my music.",
+        "When I grow up, I want to be a musician like my father. I want to compose beautiful melodies and make people happy with my music.",
+        "When I grow up, I want to become a musician like my father. I want to compose beautiful melodies and to make people happy with my music.",
+        "When I grow up, I want to be a musician as my father. I want to compose beautiful melodies and to make people happy with my music."
+      ],
+      "answer": "When I grow up, I want to be a musician like my father. I want to compose beautiful melodies and to make people happy with my music."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 31
+  "wordsCount": 16
 }
