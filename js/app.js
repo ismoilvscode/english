@@ -1,4 +1,11 @@
 // ============================================================
+// APP VERSION — ҳар бор ки маълумоти data/*.json-ро иваз мекунед,
+// ин рақамро зиёд кунед (масалан 5, 6, 7...), то Telegram кэши
+// куҳнаро истифода набарад ва файлҳои навро бор кунад.
+// ============================================================
+const APP_VERSION = 4;
+
+// ============================================================
 // TELEGRAM
 // ============================================================
 const tg = window.Telegram?.WebApp;
@@ -289,7 +296,7 @@ let LESSONS = [];
 
 async function loadManifest() {
   try {
-    const r = await fetch('data/manifest.json');
+    const r = await fetch(`data/manifest.json?v=${APP_VERSION}`);
     const data = await r.json();
     LESSONS = data.lessons || [];
   } catch (e) {
