@@ -1,401 +1,782 @@
 {
   "id": 52,
-  "title": "Муоширати воқеӣ 52",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 52: Шаҳрҳои машҳур ва ёдгориҳои ҷаҳон",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "landmark",
+      "tj": "ёдгории машҳур",
+      "ex": "The Eiffel Tower is a famous landmark of Paris."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "tower",
+      "tj": "бурҷ",
+      "ex": "The Eiffel Tower is very tall."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "palace",
+      "tj": "қаср",
+      "ex": "The Queen lives in a big palace."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "castle",
+      "tj": "қалъа",
+      "ex": "There are many old castles in Europe."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "pyramid",
+      "tj": "пирамида",
+      "ex": "The pyramids in Egypt are very old."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "wall",
+      "tj": "девор",
+      "ex": "The Great Wall of China is very long."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "statue",
+      "tj": "ҳайкал",
+      "ex": "The Statue of Liberty is in New York."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "bridge",
+      "tj": "пул",
+      "ex": "The Golden Gate Bridge is in San Francisco."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "square",
+      "tj": "майдон",
+      "ex": "Red Square is in the centre of Moscow."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "temple",
+      "tj": "ибодатхона",
+      "ex": "There are many old temples in Asia."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "fountain",
+      "tj": "фаввора",
+      "ex": "The fountain is very beautiful at night."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "tourist",
+      "tj": "сайёҳ",
+      "ex": "Many tourists visit our country every year."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "guide",
+      "tj": "роҳбалад",
+      "ex": "The guide told us about the history of the city."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "sight",
+      "tj": "манзара",
+      "ex": "The view from the mountain is a beautiful sight."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "ancient",
+      "tj": "қадимӣ",
+      "ex": "This is an ancient city with a long history."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to be worth seeing",
+      "tj": "арзиши диданро дорад",
+      "ex": "This museum is worth seeing."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 52)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "The Eiffel Tower is a famous landmark of Paris.",
+      "tj": "Бурҷи Эйфел ёдгории машҳури Париж аст."
     },
     {
-      "en": "I'm working on lesson 52",
-      "tj": "Ман дарси 52-ро меомӯзам"
+      "en": "The Eiffel Tower is very tall — more than three hundred metres.",
+      "tj": "Бурҷи Эйфел хеле баланд аст — беш аз сесад метр."
+    },
+    {
+      "en": "The Queen of England lives in a big palace in London.",
+      "tj": "Маликаи Англия дар қасри калон дар Лондон зиндагӣ мекунад."
+    },
+    {
+      "en": "There are many old castles in Europe.",
+      "tj": "Дар Аврупо қалъаҳои кӯҳнаи зиёд ҳастанд."
+    },
+    {
+      "en": "The pyramids in Egypt are very old and famous.",
+      "tj": "Пирамидаҳо дар Миср хеле қадимӣ ва машҳур ҳастанд."
+    },
+    {
+      "en": "The Great Wall of China is very long and old.",
+      "tj": "Девори Бузурги Чин хеле дароз ва қадимӣ аст."
+    },
+    {
+      "en": "The Statue of Liberty is in New York.",
+      "tj": "Ҳайкали Озодӣ дар Ню Йорк аст."
+    },
+    {
+      "en": "The Golden Gate Bridge is a famous bridge in San Francisco.",
+      "tj": "Пули Дарвозаи Тиллоӣ пули машҳур дар Сан-Франсиско аст."
+    },
+    {
+      "en": "Red Square is in the centre of Moscow.",
+      "tj": "Майдони Сурх дар маркази Маскав аст."
+    },
+    {
+      "en": "There are many old temples in Asia.",
+      "tj": "Дар Осиё ибодатхонаҳои кӯҳнаи зиёд ҳастанд."
+    },
+    {
+      "en": "The fountain in our city is very beautiful at night.",
+      "tj": "Фаввора дар шаҳри мо шабона хеле зебо аст."
+    },
+    {
+      "en": "Many tourists visit our country every year.",
+      "tj": "Ҳар сол сайёҳони зиёд ба кишвари мо меоянд."
+    },
+    {
+      "en": "The guide told us about the history of the ancient city.",
+      "tj": "Роҳбалад ба мо дар бораи таърихи шаҳри қадимӣ нақл кард."
+    },
+    {
+      "en": "The view from the mountain is a beautiful sight.",
+      "tj": "Манзара аз кӯҳ зебо аст."
+    },
+    {
+      "en": "This ancient city has a very long history.",
+      "tj": "Ин шаҳри қадимӣ таърихи хеле дароз дорад."
+    },
+    {
+      "en": "This museum is worth seeing — you will like it.",
+      "tj": "Ин музей арзиши диданро дорад — ба шумо писанд меояд."
     }
   ],
   "text": {
-    "en": "Text for lesson 52. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 52 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 52 text.",
-    "tj": "Матни дарси 52..."
+    "en": "Famous Cities and Landmarks of the World\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe, the capital of Tajikistan. I love geography and I love to read about different countries. In my books I see many beautiful photos of famous cities and famous landmarks. Today I want to tell you about some of the most famous cities and sights of the world.\n\nA landmark is a famous place or a famous building. Every big city has its own landmarks. Millions of tourists come to see them every year. They take photos, buy presents and learn about the history of the place. A tourist guide helps people to find interesting places and tells them about their history. Tourists also like to buy small presents for their family and friends.\n\nLet us start with Europe. The most famous landmark of Paris is the Eiffel Tower. It is more than three hundred metres tall and it is made of iron. It was built in 1889 by a French engineer named Gustave Eiffel. Today it is the symbol of Paris and of all France. Tourists from all over the world come to Paris to look at the Eiffel Tower. In the evening the tower shines with bright lights and it is a wonderful sight.\n\nIn London the most famous landmarks are the Tower of London, the Houses of Parliament with Big Ben, and Buckingham Palace. The Queen of England lives in Buckingham Palace. Big Ben is a famous clock tower. When people in London hear Big Ben, they know the exact time. The Tower of London is very old — it is more than nine hundred years old.\n\nIn Italy there is a very old and very famous city — Rome. Rome is often called \"the Eternal City\". In Rome there is a very big and very old building — the Colosseum. It is more than two thousand years old. Long ago, in the Colosseum, people watched different games and shows. Today it is one of the most famous sights of the ancient world.\n\nIn Russia the most famous city is Moscow. In the centre of Moscow there is Red Square. On Red Square there is a beautiful old temple with colourful domes — St. Basil's Cathedral. It is one of the most beautiful buildings in the world. In Moscow there is also the Kremlin and many old palaces and museums.\n\nNow let us travel to Asia. In China there is the Great Wall of China. It is one of the greatest landmarks of the world. The Great Wall is more than twenty thousand kilometres long. It was built many centuries ago to protect China from enemies. Today it is a symbol of China and a place where many tourists come every year.\n\nIn India there is the Taj Mahal. It is a big and beautiful building made of white marble. It was built by an Indian emperor for his wife. The Taj Mahal is one of the most beautiful buildings in the world. In Japan there are many old temples and beautiful gardens. In our own country Tajikistan there are also many famous places — the Pamir Mountains, the ancient city of Khujand, the beautiful lake Iskanderkul and the Hissar Fortress.\n\nIn Africa the most famous country for tourists is Egypt. In Egypt there are the famous pyramids of Giza. The pyramids are more than four thousand years old. They were built as tombs for Egyptian kings — the pharaohs. The biggest pyramid is the Pyramid of Cheops. Not far from the pyramids there is a very big statue — the Sphinx. It has the body of a lion and the head of a man. The pyramids are the only one of the Seven Wonders of the Ancient World that still stands today.\n\nIn North America there are two very famous landmarks. In New York there is the Statue of Liberty. It is a very big statue of a woman with a torch in her hand. It was a present from France to the people of America. It is a symbol of freedom. In San Francisco there is the Golden Gate Bridge. It is a very long and very beautiful red bridge.\n\nIn South America there is the Amazon River and the Amazon rainforest. It is the biggest rainforest in the world. Many kinds of animals and plants live there. In Australia there is the famous Sydney Opera House. It has a very interesting shape and it looks like big white sails. It is one of the most famous buildings in the world.\n\nEvery country has its own famous places. Some of them are ancient and some are modern. Some are big and some are small. But they are all very important. They tell us about the history, the culture and the life of the people who built them. When we travel and see different landmarks, we learn more about our world.\n\nI want to travel around the world and see all these famous places with my own eyes. I want to walk in Paris near the Eiffel Tower. I want to see the Great Wall of China. I want to see the pyramids in Egypt. I want to see the Statue of Liberty in New York. And I want to tell all people in the world about my beautiful country Tajikistan — about our high mountains, our clean rivers and our beautiful ancient cities.\n\nOur world is full of wonders. It is very important to travel, to learn and to see new places. When we travel, we make new friends, we learn new languages and we understand other peoples better. So let us study hard, learn foreign languages and one day travel around the world!",
+    "tj": "Шаҳрҳои машҳур ва ёдгориҳои ҷаҳон\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе, пойтахти Тоҷикистон зиндагӣ мекунам. Ман ҷуғрофияро дӯст медорам ва ман дар бораи кишварҳои гуногун хонданро дӯст медорам. Дар китобҳоям ман аксҳои зебои шаҳрҳои машҳур ва ёдгориҳои машҳурро мебинам. Имрӯз ман мехоҳам ба шумо дар бораи баъзе аз машҳуртарин шаҳрҳо ва манзараҳои ҷаҳон нақл кунам.\n\nЁдгорӣ ҷои машҳур ё бинои машҳур аст. Ҳар як шаҳри калон ёдгориҳои худро дорад. Ҳар сол миллионҳо сайёҳон барои дидани онҳо меоянд. Онҳо акс мегиранд, тӯҳфаҳо мехаранд ва дар бораи таърихи ин ҷо меомӯзанд. Роҳбалад ба одамон дар ёфтани ҷойҳои ҷолиб кӯмак мекунад ва дар бораи таърихи онҳо нақл мекунад. Сайёҳон инчунин тӯҳфаҳои хурд барои оила ва дӯстони худ хариданро дӯст медоранд.\n\nБиёед аз Аврупо сар кунем. Машҳуртарин ёдгории Париж Бурҷи Эйфел аст. Он беш аз сесад метр баландӣ дорад ва аз оҳан сохта шудааст. Он дар соли 1889 аз ҷониби муҳандиси фаронсавӣ Гюстав Эйфел сохта шудааст. Имрӯз он рамзи Париж ва тамоми Фаронса аст. Сайёҳон аз тамоми ҷаҳон ба Париж меоянд, то ки ба Бурҷи Эйфел нигоҳ кунанд. Бегоҳ бурҷ бо чароғҳои дурахшон медурахшад ва ин манзараи аҷоиб аст.\n\nДар Лондон машҳуртарин ёдгориҳо Бурҷи Лондон, Хонаҳои Парлумон бо Биг Бен ва Қасри Букингем ҳастанд. Маликаи Англия дар Қасри Букингем зиндагӣ мекунад. Биг Бен бурҷи соати машҳур аст. Вақте ки одамон дар Лондон Биг Бенро мешунаванд, онҳо вақти дақиқро медонанд. Бурҷи Лондон хеле қадимӣ аст — он беш аз нӯҳсад сол дорад.\n\nДар Италия шаҳри хеле қадимӣ ва хеле машҳур — Рум ҳаст. Румро аксар вақт «Шаҳри абадӣ» меноманд. Дар Рум бинои хеле калон ва хеле қадимӣ — Колизей ҳаст. Он беш аз ду ҳазор сол дорад. Пештар дар Колизей одамон бозиҳо ва намоишҳои гуногунро тамошо мекарданд. Имрӯз он яке аз машҳуртарин манзараҳои ҷаҳони қадим аст.\n\nДар Русия машҳуртарин шаҳр Маскав аст. Дар маркази Маскав Майдони Сурх ҳаст. Дар Майдони Сурх ибодатхонаи кӯҳнаи зебо бо гунбазҳои рангин — Ибодатхонаи Василий Блаженний ҳаст. Он яке аз зеботарин биноҳо дар ҷаҳон аст. Дар Маскав инчунин Кремл ва қасрҳо ва музейҳои кӯҳнаи зиёд ҳастанд.\n\nҲоло биёед ба Осиё сафар кунем. Дар Чин Девори Бузурги Чин ҳаст. Он яке аз бузургтарин ёдгориҳои ҷаҳон аст. Девори Бузург беш аз бист ҳазор километр дарозӣ дорад. Он асрҳои зиёд пеш сохта шудааст, то ки Чинро аз душманон муҳофизат кунад. Имрӯз он рамзи Чин ва ҷои зиёдест, ки ҳар сол сайёҳони зиёд ба он меоянд.\n\nДар Ҳиндустон Тоҷ Маҳал ҳаст. Он бинои калон ва зебои аз мармари сафед сохташуда аст. Он аз ҷониби императори ҳиндӣ барои зани худ сохта шудааст. Тоҷ Маҳал яке аз зеботарин биноҳо дар ҷаҳон аст. Дар Ҷопон ибодатхонаҳои кӯҳна ва боғҳои зебои зиёд ҳастанд. Дар кишвари худи мо Тоҷикистон низ ҷойҳои машҳури зиёд ҳастанд — Кӯҳҳои Помир, шаҳри қадимии Хуҷанд, кӯли зебои Искандаркӯл ва Қалъаи Ҳисор.\n\nДар Африқо машҳуртарин кишвар барои сайёҳон Миср аст. Дар Миср пирамидаҳои машҳури Гизa ҳастанд. Пирамидаҳо беш аз чор ҳазор сол доранд. Онҳо ҳамчун қабрҳо барои подшоҳони мисрӣ — фиръавнҳо сохта шудаанд. Калонтарин пирамида Пирамидаи Хеопс аст. На дур аз пирамидаҳо ҳайкали хеле калон — Сфинкс ҳаст. Он бадани шер ва сари одам дорад. Пирамидаҳо танҳо яке аз Ҳафт Мӯъҷизаи Ҷаҳони Қадим ҳастанд, ки то имрӯз боқӣ мондааст.\n\nДар Амрикои Шимолӣ ду ёдгории хеле машҳур ҳастанд. Дар Ню Йорк Ҳайкали Озодӣ ҳаст. Он ҳайкали хеле калони зан бо машъал дар дасташ аст. Он тӯҳфа аз Фаронса ба мардуми Амрико буд. Он рамзи озодӣ аст. Дар Сан-Франсиско Пули Дарвозаи Тиллоӣ ҳаст. Он пули хеле дароз ва хеле зебои сурх аст.\n\nДар Амрикои Ҷанубӣ дарёи Амазонка ва ҷангали борони Амазонка ҳастанд. Он калонтарин ҷангали боронӣ дар ҷаҳон аст. Дар он ҷо навъҳои зиёди ҳайвонот ва растаниҳо зиндагӣ мекунанд. Дар Австралия Операи машҳури Сидней ҳаст. Он шакли хеле ҷолиб дорад ва ба бодбонҳои калони сафед монанд аст. Он яке аз машҳуртарин биноҳо дар ҷаҳон аст.\n\nҲар як кишвар ҷойҳои машҳури худро дорад. Баъзеи онҳо қадимӣ ва баъзеи онҳо муосир ҳастанд. Баъзеи онҳо калон ва баъзеи онҳо хурд ҳастанд. Аммо ҳамаи онҳо хеле муҳим ҳастанд. Онҳо ба мо дар бораи таърих, фарҳанг ва ҳаёти мардуме, ки онҳоро сохтаанд, нақл мекунанд. Вақте ки мо сафар мекунем ва ёдгориҳои гуногунро мебинем, мо дар бораи ҷаҳони худ бештар меомӯзем.\n\nМан мехоҳам дар тамоми ҷаҳон сафар кунам ва ҳамаи ин ҷойҳои машҳурро бо чашмони худ бинам. Ман мехоҳам дар Париж дар назди Бурҷи Эйфел қадам занам. Ман мехоҳам Девори Бузурги Чинро бинам. Ман мехоҳам пирамидаҳоро дар Миср бинам. Ман мехоҳам Ҳайкали Озодиро дар Ню Йорк бинам. Ва ман мехоҳам ба ҳамаи одамон дар ҷаҳон дар бораи кишвари зебои худ Тоҷикистон нақл кунам — дар бораи кӯҳҳои баланди мо, дарёҳои тозаи мо ва шаҳрҳои зебои қадимии мо.\n\nҶаҳони мо пур аз мӯъҷизаҳо аст. Сафар кардан, омӯхтан ва дидани ҷойҳои нав хеле муҳим аст. Вақте ки мо сафар мекунем, мо дӯстони нав пайдо мекунем, забонҳои нав меомӯзем ва мардумони дигарро беҳтар мефаҳмем. Пас, биёед бо ҷидду ҷаҳд таҳсил кунем, забонҳои хориҷиро омӯзем ва як рӯз дар тамоми ҷаҳон сафар кунем!"
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Бурҷи Эйфел ёдгории машҳури Париж аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The Eiffel Tower is a famous landmark of Paris.",
+        "The Eiffel Tower is the famous landmark of Paris.",
+        "The Eiffel Tower is a famous sight of Paris.",
+        "The Eiffel Tower is a famous place of Paris."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "The Eiffel Tower is a famous landmark of Paris."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Бурҷи Эйфел хеле баланд аст — беш аз сесад метр» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The Eiffel Tower is very tall — more than three hundred metres.",
+        "The Eiffel Tower is very high — more than three hundred metres.",
+        "The Eiffel Tower is very tall — over three hundred metres.",
+        "The Eiffel Tower is very tall — more than three hundred meters."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The Eiffel Tower is very tall — more than three hundred metres."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Маликаи Англия дар қасри калон дар Лондон зиндагӣ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: environment"
+        "The Queen of England lives in a big palace in London.",
+        "The Queen of England lives in a big castle in London.",
+        "The Queen of England lives in the big palace in London.",
+        "The Queen of Britain lives in a big palace in London."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "The Queen of England lives in a big palace in London."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Дар Аврупо қалъаҳои кӯҳнаи зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: communication",
-        "нодуруст C",
-        "нодуруст B"
+        "There are many old castles in Europe.",
+        "There are many ancient castles in Europe.",
+        "There are a lot of old castles in Europe.",
+        "There are many old palaces in Europe."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "There are many old castles in Europe."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Пирамидаҳо дар Миср хеле қадимӣ ва машҳур ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: education",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The pyramids in Egypt are very old and famous.",
+        "The pyramids in Egypt are very ancient and famous.",
+        "The pyramids in Egypt are very old and well-known.",
+        "The pyramids of Egypt are very old and famous."
       ],
-      "answer": "тарҷума: education"
+      "answer": "The pyramids in Egypt are very old and famous."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Девори Бузурги Чин хеле дароз ва қадимӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: development"
+        "The Great Wall of China is very long and old.",
+        "The Great Wall of China is very long and ancient.",
+        "The Great Wall of China is very long and very old.",
+        "The Great Wall of China is very long and old."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The Great Wall of China is very long and old."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ҳайкали Озодӣ дар Ню Йорк аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: achievement",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "The Statue of Liberty is in New York.",
+        "The Statue of Freedom is in New York.",
+        "The Statue of Liberty is in the New York.",
+        "The statue of Liberty is in New York."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The Statue of Liberty is in New York."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Пули Дарвозаи Тиллоӣ пули машҳур дар Сан-Франсиско аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: challenge"
+        "The Golden Gate Bridge is a famous bridge in San Francisco.",
+        "The Golden Gate Bridge is the famous bridge in San Francisco.",
+        "The Gold Gate Bridge is a famous bridge in San Francisco.",
+        "The Golden Gate Bridge is a famous bridge of San Francisco."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The Golden Gate Bridge is a famous bridge in San Francisco."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Майдони Сурх дар маркази Маскав аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: knowledge",
-        "нодуруст C",
-        "нодуруст A"
+        "Red Square is in the centre of Moscow.",
+        "The Red Square is in the centre of Moscow.",
+        "Red Square is in the center of Moscow.",
+        "Red Square is in the middle of Moscow."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "Red Square is in the centre of Moscow."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Дар Осиё ибодатхонаҳои кӯҳнаи зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: conversation"
+        "There are many old temples in Asia.",
+        "There are many ancient temples in Asia.",
+        "There are a lot of old temples in Asia.",
+        "There are many old temples in the Asia."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "There are many old temples in Asia."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Фаввора дар шаҳри мо шабона хеле зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: fluency"
+        "The fountain in our city is very beautiful at night.",
+        "The fountain in our city is very beautiful in the night.",
+        "The fountain in our town is very beautiful at night.",
+        "The fountain in our city is very nice at night."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "The fountain in our city is very beautiful at night."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ҳар сол сайёҳони зиёд ба кишвари мо меоянд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "Many tourists visit our country every year.",
+        "A lot of tourists visit our country every year.",
+        "Many tourists come to our country every year.",
+        "Many tourists visit our country each year."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "Many tourists visit our country every year."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Роҳбалад ба мо дар бораи таърихи шаҳри қадимӣ нақл кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: pronunciation"
+        "The guide told us about the history of the ancient city.",
+        "The guide told us the history of the ancient city.",
+        "The guide told to us about the history of the ancient city.",
+        "The guide said to us about the history of the ancient city."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "The guide told us about the history of the ancient city."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Манзара аз кӯҳ зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: vocabulary",
-        "нодуруст B"
+        "The view from the mountain is a beautiful sight.",
+        "The view from the mountain is beautiful sight.",
+        "The sight from the mountain is a beautiful sight.",
+        "The view from the mountain is a beautiful view."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "The view from the mountain is a beautiful sight."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ин шаҳри қадимӣ таърихи хеле дароз дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: grammar",
-        "нодуруст C"
+        "This ancient city has a very long history.",
+        "This old city has a very long history.",
+        "This ancient town has a very long history.",
+        "This ancient city has very long history."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "This ancient city has a very long history."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ин музей арзиши диданро дорад — ба шумо писанд меояд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст A"
+        "This museum is worth seeing — you will like it.",
+        "This museum is worth seeing — you will like it.",
+        "This museum is worth seeing — you'll like it.",
+        "This museum is worth seeing — you will enjoy it."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "This museum is worth seeing — you will like it."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман ҷуғрофияро дӯст медорам ва ман дар бораи кишварҳои гуногун хонданро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст B"
+        "I love geography and I love to read about different countries.",
+        "I love geography and I love reading about different countries.",
+        "I like geography and I love to read about different countries.",
+        "I love geography and I love to read about the different countries."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I love geography and I love to read about different countries."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Дар китобҳоям ман аксҳои зебои шаҳрҳои машҳур ва ёдгориҳои машҳурро мебинам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст B"
+        "In my books I see many beautiful photos of famous cities and famous landmarks.",
+        "In my books I see many beautiful photos of famous cities and landmarks.",
+        "In my books I see beautiful photos of famous cities and famous landmarks.",
+        "In my books I see many beautiful pictures of famous cities and famous landmarks."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "In my books I see many beautiful photos of famous cities and famous landmarks."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ёдгорӣ ҷои машҳур ё бинои машҳур аст. Ҳар як шаҳри калон ёдгориҳои худро дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: communication",
-        "нодуруст B"
+        "A landmark is a famous place or a famous building. Every big city has its own landmarks.",
+        "A landmark is a famous place or a famous building. Each big city has its own landmarks.",
+        "A landmark is a famous place or a famous building. Every large city has its own landmarks.",
+        "A landmark is a famous place or a famous building. Every big city has its landmarks."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "A landmark is a famous place or a famous building. Every big city has its own landmarks."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ҳар сол миллионҳо сайёҳон барои дидани онҳо меоянд. Онҳо акс мегиранд, тӯҳфаҳо мехаранд ва дар бораи таърихи ин ҷо меомӯзанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: education",
-        "нодуруст C"
+        "Millions of tourists come to see them every year. They take photos, buy presents and learn about the history of the place.",
+        "Millions of tourists come to see them every year. They take photos, buy presents and learn about the history of the place.",
+        "Millions of tourists come to see them every year. They take photos, buy gifts and learn about the history of the place.",
+        "Millions of tourists come to see them every year. They take pictures, buy presents and learn about the history of the place."
       ],
-      "answer": "тарҷума: education"
+      "answer": "Millions of tourists come to see them every year. They take photos, buy presents and learn about the history of the place."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Роҳбалад ба одамон дар ёфтани ҷойҳои ҷолиб кӯмак мекунад ва дар бораи таърихи онҳо нақл мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: development"
+        "A tourist guide helps people to find interesting places and tells them about their history.",
+        "A guide helps people to find interesting places and tells them about their history.",
+        "The tourist guide helps people to find interesting places and tells them about their history.",
+        "A tourist guide helps people find interesting places and tells them about their history."
       ],
-      "answer": "тарҷума: development"
+      "answer": "A tourist guide helps people to find interesting places and tells them about their history."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Сайёҳон инчунин тӯҳфаҳои хурд барои оила ва дӯстони худ хариданро дӯст медоранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: achievement"
+        "Tourists also like to buy small presents for their family and friends.",
+        "Tourists also like buying small presents for their family and friends.",
+        "Tourists like to buy small presents for their family and friends too.",
+        "Tourists also like to buy small souvenirs for their family and friends."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "Tourists also like to buy small presents for their family and friends."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Биёед аз Аврупо сар кунем. Машҳуртарин ёдгории Париж Бурҷи Эйфел аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "Let us start with Europe. The most famous landmark of Paris is the Eiffel Tower.",
+        "Let's start with Europe. The most famous landmark of Paris is the Eiffel Tower.",
+        "Let us start with Europe. The most famous landmark in Paris is the Eiffel Tower.",
+        "Let's begin with Europe. The most famous landmark of Paris is the Eiffel Tower."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "Let us start with Europe. The most famous landmark of Paris is the Eiffel Tower."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Он беш аз сесад метр баландӣ дорад ва аз оҳан сохта шудааст. Он дар соли 1889 аз ҷониби муҳандиси фаронсавӣ Гюстав Эйфел сохта шудааст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: knowledge"
+        "It is more than three hundred metres tall and it is made of iron. It was built in 1889 by a French engineer named Gustave Eiffel.",
+        "It is more than three hundred metres tall and it is made of iron. It was built in 1889 by a French engineer called Gustave Eiffel.",
+        "It is over three hundred metres tall and it is made of iron. It was built in 1889 by a French engineer named Gustave Eiffel.",
+        "It is more than three hundred metres high and it is made of iron. It was built in 1889 by a French engineer named Gustave Eiffel."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "It is more than three hundred metres tall and it is made of iron. It was built in 1889 by a French engineer named Gustave Eiffel."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Имрӯз он рамзи Париж ва тамоми Фаронса аст. Сайёҳон аз тамоми ҷаҳон ба Париж меоянд, то ки ба Бурҷи Эйфел нигоҳ кунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: conversation",
-        "нодуруст C"
+        "Today it is the symbol of Paris and of all France. Tourists from all over the world come to Paris to look at the Eiffel Tower.",
+        "Today it is the symbol of Paris and of all France. Tourists from all over the world come to Paris to look at the Eiffel Tower.",
+        "Today it is a symbol of Paris and of all France. Tourists from all over the world come to Paris to look at the Eiffel Tower.",
+        "Today it is the symbol of Paris and all France. Tourists from all over the world come to Paris to look at the Eiffel Tower."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "Today it is the symbol of Paris and of all France. Tourists from all over the world come to Paris to look at the Eiffel Tower."
+    },
+    {
+      "q": "«Бегоҳ бурҷ бо чароғҳои дурахшон медурахшад ва ин манзараи аҷоиб аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In the evening the tower shines with bright lights and it is a wonderful sight.",
+        "In the evening the tower shines with bright lights and it is a wonderful sight.",
+        "In the evening the tower shines with bright lights and that is a wonderful sight.",
+        "At night the tower shines with bright lights and it is a wonderful sight."
+      ],
+      "answer": "In the evening the tower shines with bright lights and it is a wonderful sight."
+    },
+    {
+      "q": "«Дар Лондон машҳуртарин ёдгориҳо Бурҷи Лондон, Хонаҳои Парлумон бо Биг Бен ва Қасри Букингем ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In London the most famous landmarks are the Tower of London, the Houses of Parliament with Big Ben, and Buckingham Palace.",
+        "In London the most famous landmarks are the Tower of London, the Houses of Parliament with Big Ben and Buckingham Palace.",
+        "In London the most famous sights are the Tower of London, the Houses of Parliament with Big Ben, and Buckingham Palace.",
+        "In London the most famous landmarks are the Tower of London, the Houses of Parliament with Big Ben, and Buckingham Palace."
+      ],
+      "answer": "In London the most famous landmarks are the Tower of London, the Houses of Parliament with Big Ben, and Buckingham Palace."
+    },
+    {
+      "q": "«Маликаи Англия дар Қасри Букингем зиндагӣ мекунад. Биг Бен бурҷи соати машҳур аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The Queen of England lives in Buckingham Palace. Big Ben is a famous clock tower.",
+        "The Queen of England lives in Buckingham Palace. Big Ben is the famous clock tower.",
+        "The Queen of Britain lives in Buckingham Palace. Big Ben is a famous clock tower.",
+        "The Queen of England lives in the Buckingham Palace. Big Ben is a famous clock tower."
+      ],
+      "answer": "The Queen of England lives in Buckingham Palace. Big Ben is a famous clock tower."
+    },
+    {
+      "q": "«Вақте ки одамон дар Лондон Биг Бенро мешунаванд, онҳо вақти дақиқро медонанд. Бурҷи Лондон хеле қадимӣ аст — он беш аз нӯҳсад сол дорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When people in London hear Big Ben, they know the exact time. The Tower of London is very old — it is more than nine hundred years old.",
+        "When people in London hear Big Ben, they know the exact time. The Tower of London is very ancient — it is more than nine hundred years old.",
+        "When people in London hear Big Ben they know the exact time. The Tower of London is very old — it is more than nine hundred years old.",
+        "When people in London hear Big Ben, they know the exact time. The Tower of London is very old — it is over nine hundred years old."
+      ],
+      "answer": "When people in London hear Big Ben, they know the exact time. The Tower of London is very old — it is more than nine hundred years old."
+    },
+    {
+      "q": "«Дар Италия шаҳри хеле қадимӣ ва хеле машҳур — Рум ҳаст. Румро аксар вақт \"Шаҳри абадӣ\" меноманд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In Italy there is a very old and very famous city — Rome. Rome is often called \"the Eternal City\".",
+        "In Italy there is a very old and very famous city — Rome. Rome is often called \"the Eternal City\".",
+        "In Italy there is a very ancient and very famous city — Rome. Rome is often called \"the Eternal City\".",
+        "In Italy there is a very old and very famous city — Rome. Rome is often named \"the Eternal City\"."
+      ],
+      "answer": "In Italy there is a very old and very famous city — Rome. Rome is often called \"the Eternal City\"."
+    },
+    {
+      "q": "«Дар Рум бинои хеле калон ва хеле қадимӣ — Колизей ҳаст. Он беш аз ду ҳазор сол дорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In Rome there is a very big and very old building — the Colosseum. It is more than two thousand years old.",
+        "In Rome there is a very big and very ancient building — the Colosseum. It is more than two thousand years old.",
+        "In Rome there is a very large and very old building — the Colosseum. It is more than two thousand years old.",
+        "In Rome there is a very big and very old building — Colosseum. It is more than two thousand years old."
+      ],
+      "answer": "In Rome there is a very big and very old building — the Colosseum. It is more than two thousand years old."
+    },
+    {
+      "q": "«Пештар дар Колизей одамон бозиҳо ва намоишҳои гуногунро тамошо мекарданд. Имрӯз он яке аз машҳуртарин манзараҳои ҷаҳони қадим аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Long ago, in the Colosseum, people watched different games and shows. Today it is one of the most famous sights of the ancient world.",
+        "Long ago in the Colosseum people watched different games and shows. Today it is one of the most famous sights of the ancient world.",
+        "Long ago, in the Colosseum, people watched different games and shows. Today it is one of the most famous sights of the ancient world.",
+        "Long ago, in the Colosseum, people watched different games and shows. Today it is one of the most famous sights of the ancient world."
+      ],
+      "answer": "Long ago, in the Colosseum, people watched different games and shows. Today it is one of the most famous sights of the ancient world."
+    },
+    {
+      "q": "«Дар Русия машҳуртарин шаҳр Маскав аст. Дар маркази Маскав Майдони Сурх ҳаст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In Russia the most famous city is Moscow. In the centre of Moscow there is Red Square.",
+        "In Russia, the most famous city is Moscow. In the centre of Moscow there is Red Square.",
+        "In Russia the most famous city is Moscow. In the center of Moscow there is Red Square.",
+        "In Russia the most famous city is Moscow. In the middle of Moscow there is Red Square."
+      ],
+      "answer": "In Russia the most famous city is Moscow. In the centre of Moscow there is Red Square."
+    },
+    {
+      "q": "«Дар Майдони Сурх ибодатхонаи кӯҳнаи зебо бо гунбазҳои рангин — Ибодатхонаи Василий Блаженний ҳаст. Он яке аз зеботарин биноҳо дар ҷаҳон аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "On Red Square there is a beautiful old temple with colourful domes — St. Basil's Cathedral. It is one of the most beautiful buildings in the world.",
+        "On Red Square there is a beautiful old temple with colourful domes — St. Basil's Cathedral. It is one of the most beautiful buildings in the world.",
+        "On Red Square there is a beautiful old temple with colorful domes — St. Basil's Cathedral. It is one of the most beautiful buildings in the world.",
+        "On Red Square there is a beautiful ancient temple with colourful domes — St. Basil's Cathedral. It is one of the most beautiful buildings in the world."
+      ],
+      "answer": "On Red Square there is a beautiful old temple with colourful domes — St. Basil's Cathedral. It is one of the most beautiful buildings in the world."
+    },
+    {
+      "q": "«Дар Маскав инчунин Кремл ва қасрҳо ва музейҳои кӯҳнаи зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In Moscow there is also the Kremlin and many old palaces and museums.",
+        "In Moscow there are also the Kremlin and many old palaces and museums.",
+        "In Moscow there is also the Kremlin and many ancient palaces and museums.",
+        "In Moscow there is also the Kremlin and a lot of old palaces and museums."
+      ],
+      "answer": "In Moscow there is also the Kremlin and many old palaces and museums."
+    },
+    {
+      "q": "«Ҳоло биёед ба Осиё сафар кунем. Дар Чин Девори Бузурги Чин ҳаст. Он яке аз бузургтарин ёдгориҳои ҷаҳон аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Now let us travel to Asia. In China there is the Great Wall of China. It is one of the greatest landmarks of the world.",
+        "Now let's travel to Asia. In China there is the Great Wall of China. It is one of the greatest landmarks of the world.",
+        "Now let us travel to Asia. In China there is the Great Wall of China. It is one of the greatest landmarks in the world.",
+        "Now let's travel to Asia. In China there is the Great Wall of China. It is one of the greatest sights of the world."
+      ],
+      "answer": "Now let us travel to Asia. In China there is the Great Wall of China. It is one of the greatest landmarks of the world."
+    },
+    {
+      "q": "«Девори Бузург беш аз бист ҳазор километр дарозӣ дорад. Он асрҳои зиёд пеш сохта шудааст, то ки Чинро аз душманон муҳофизат кунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The Great Wall is more than twenty thousand kilometres long. It was built many centuries ago to protect China from enemies.",
+        "The Great Wall is over twenty thousand kilometres long. It was built many centuries ago to protect China from enemies.",
+        "The Great Wall is more than twenty thousand kilometres long. It was built many centuries ago to defend China from enemies.",
+        "The Great Wall is more than twenty thousand kilometers long. It was built many centuries ago to protect China from enemies."
+      ],
+      "answer": "The Great Wall is more than twenty thousand kilometres long. It was built many centuries ago to protect China from enemies."
+    },
+    {
+      "q": "«Имрӯз он рамзи Чин ва ҷои зиёдест, ки ҳар сол сайёҳони зиёд ба он меоянд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Today it is a symbol of China and a place where many tourists come every year.",
+        "Today it is the symbol of China and a place where many tourists come every year.",
+        "Today it is a symbol of China and the place where many tourists come every year.",
+        "Today it is a symbol of China and a place which many tourists visit every year."
+      ],
+      "answer": "Today it is a symbol of China and a place where many tourists come every year."
+    },
+    {
+      "q": "«Дар Ҳиндустон Тоҷ Маҳал ҳаст. Он бинои калон ва зебои аз мармари сафед сохташуда аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In India there is the Taj Mahal. It is a big and beautiful building made of white marble.",
+        "In India there is the Taj Mahal. It is a big and beautiful building made of white marble.",
+        "In India there is the Taj Mahal. It is a large and beautiful building made of white marble.",
+        "In India there is Taj Mahal. It is a big and beautiful building made of white marble."
+      ],
+      "answer": "In India there is the Taj Mahal. It is a big and beautiful building made of white marble."
+    },
+    {
+      "q": "«Он аз ҷониби императори ҳиндӣ барои зани худ сохта шудааст. Тоҷ Маҳал яке аз зеботарин биноҳо дар ҷаҳон аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It was built by an Indian emperor for his wife. The Taj Mahal is one of the most beautiful buildings in the world.",
+        "It was built by an Indian emperor for his wife. The Taj Mahal is one of the most beautiful buildings in the world.",
+        "It was built by the Indian emperor for his wife. The Taj Mahal is one of the most beautiful buildings in the world.",
+        "It was built by an Indian king for his wife. The Taj Mahal is one of the most beautiful buildings in the world."
+      ],
+      "answer": "It was built by an Indian emperor for his wife. The Taj Mahal is one of the most beautiful buildings in the world."
+    },
+    {
+      "q": "«Дар Ҷопон ибодатхонаҳои кӯҳна ва боғҳои зебои зиёд ҳастанд. Дар кишвари худи мо Тоҷикистон низ ҷойҳои машҳури зиёд ҳастанд — Кӯҳҳои Помир, шаҳри қадимии Хуҷанд, кӯли зебои Искандаркӯл ва Қалъаи Ҳисор» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In Japan there are many old temples and beautiful gardens. In our own country Tajikistan there are also many famous places — the Pamir Mountains, the ancient city of Khujand, the beautiful lake Iskanderkul and the Hissar Fortress.",
+        "In Japan there are many old temples and beautiful gardens. In our own country Tajikistan there are also many famous places — the Pamir Mountains, the ancient city of Khujand, the beautiful lake Iskanderkul and the Hissar Fortress.",
+        "In Japan there are many ancient temples and beautiful gardens. In our own country Tajikistan there are also many famous places — the Pamir Mountains, the ancient city of Khujand, the beautiful lake Iskanderkul and the Hissar Fortress.",
+        "In Japan there are many old temples and beautiful gardens. In our own country Tajikistan there are also many famous places — Pamir Mountains, the ancient city of Khujand, the beautiful lake Iskanderkul and the Hissar Fortress."
+      ],
+      "answer": "In Japan there are many old temples and beautiful gardens. In our own country Tajikistan there are also many famous places — the Pamir Mountains, the ancient city of Khujand, the beautiful lake Iskanderkul and the Hissar Fortress."
+    },
+    {
+      "q": "«Дар Африқо машҳуртарин кишвар барои сайёҳон Миср аст. Дар Миср пирамидаҳои машҳури Гиза ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In Africa the most famous country for tourists is Egypt. In Egypt there are the famous pyramids of Giza.",
+        "In Africa, the most famous country for tourists is Egypt. In Egypt there are the famous pyramids of Giza.",
+        "In Africa the most famous country for tourists is Egypt. In Egypt there are the famous pyramids of Giza.",
+        "In Africa the most famous country for tourists is Egypt. In Egypt there are the famous pyramids of Giza."
+      ],
+      "answer": "In Africa the most famous country for tourists is Egypt. In Egypt there are the famous pyramids of Giza."
+    },
+    {
+      "q": "«Пирамидаҳо беш аз чор ҳазор сол доранд. Онҳо ҳамчун қабрҳо барои подшоҳони мисрӣ — фиръавнҳо сохта шудаанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The pyramids are more than four thousand years old. They were built as tombs for Egyptian kings — the pharaohs.",
+        "The pyramids are over four thousand years old. They were built as tombs for Egyptian kings — the pharaohs.",
+        "The pyramids are more than four thousand years old. They were built as tombs for the Egyptian kings — the pharaohs.",
+        "The pyramids are more than four thousand years old. They were built as graves for Egyptian kings — the pharaohs."
+      ],
+      "answer": "The pyramids are more than four thousand years old. They were built as tombs for Egyptian kings — the pharaohs."
+    },
+    {
+      "q": "«Калонтарин пирамида Пирамидаи Хеопс аст. На дур аз пирамидаҳо ҳайкали хеле калон — Сфинкс ҳаст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The biggest pyramid is the Pyramid of Cheops. Not far from the pyramids there is a very big statue — the Sphinx.",
+        "The largest pyramid is the Pyramid of Cheops. Not far from the pyramids there is a very big statue — the Sphinx.",
+        "The biggest pyramid is the Pyramid of Cheops. Not far from the pyramids there is a very big statue — the Sphinx.",
+        "The biggest pyramid is the Pyramid of Cheops. Not far from the pyramids there is a very large statue — the Sphinx."
+      ],
+      "answer": "The biggest pyramid is the Pyramid of Cheops. Not far from the pyramids there is a very big statue — the Sphinx."
+    },
+    {
+      "q": "«Он бадани шер ва сари одам дорад. Пирамидаҳо танҳо яке аз Ҳафт Мӯъҷизаи Ҷаҳони Қадим ҳастанд, ки то имрӯз боқӣ мондааст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It has the body of a lion and the head of a man. The pyramids are the only one of the Seven Wonders of the Ancient World that still stands today.",
+        "It has the body of a lion and the head of a man. The pyramids are the only ones of the Seven Wonders of the Ancient World that still stand today.",
+        "It has the body of a lion and the head of a man. The pyramids are the only one of the Seven Wonders of the Ancient World that still stands today.",
+        "It has the body of a lion and the head of a man. The pyramids are the only one of the Seven Wonders of the Ancient World that is still standing today."
+      ],
+      "answer": "It has the body of a lion and the head of a man. The pyramids are the only one of the Seven Wonders of the Ancient World that still stands today."
+    },
+    {
+      "q": "«Дар Амрикои Шимолӣ ду ёдгории хеле машҳур ҳастанд. Дар Ню Йорк Ҳайкали Озодӣ ҳаст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In North America there are two very famous landmarks. In New York there is the Statue of Liberty.",
+        "In North America there are two very famous landmarks. In New York there is the Statue of Liberty.",
+        "In North America there are two very famous sights. In New York there is the Statue of Liberty.",
+        "In North America there are two very famous landmarks. In New York there is the Statue of Freedom."
+      ],
+      "answer": "In North America there are two very famous landmarks. In New York there is the Statue of Liberty."
+    },
+    {
+      "q": "«Он ҳайкали хеле калони зан бо машъал дар дасташ аст. Он тӯҳфа аз Фаронса ба мардуми Амрико буд. Он рамзи озодӣ аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It is a very big statue of a woman with a torch in her hand. It was a present from France to the people of America. It is a symbol of freedom.",
+        "It is a very big statue of a woman with a torch in her hand. It was a present from France to the people of America. It is a symbol of freedom.",
+        "It is a very big statue of a woman with a torch in her hand. It was a gift from France to the people of America. It is a symbol of freedom.",
+        "It is a very big statue of a woman with a torch in her hand. It was a present from France to the people of the USA. It is a symbol of freedom."
+      ],
+      "answer": "It is a very big statue of a woman with a torch in her hand. It was a present from France to the people of America. It is a symbol of freedom."
+    },
+    {
+      "q": "«Дар Сан-Франсиско Пули Дарвозаи Тиллоӣ ҳаст. Он пули хеле дароз ва хеле зебои сурх аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In San Francisco there is the Golden Gate Bridge. It is a very long and very beautiful red bridge.",
+        "In San Francisco there is the Golden Gate Bridge. It is a very long and very beautiful red bridge.",
+        "In San Francisco there is the Golden Gate Bridge. It is a very long and very beautiful red bridge.",
+        "In San Francisco there is the Golden Gate Bridge. It is a very long and beautiful red bridge."
+      ],
+      "answer": "In San Francisco there is the Golden Gate Bridge. It is a very long and very beautiful red bridge."
+    },
+    {
+      "q": "«Дар Амрикои Ҷанубӣ дарёи Амазонка ва ҷангали борони Амазонка ҳастанд. Он калонтарин ҷангали боронӣ дар ҷаҳон аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In South America there is the Amazon River and the Amazon rainforest. It is the biggest rainforest in the world.",
+        "In South America there is the Amazon River and the Amazon rainforest. It is the largest rainforest in the world.",
+        "In South America there is the Amazon River and the Amazon rainforest. It is the biggest rainforest in the world.",
+        "In South America there are the Amazon River and the Amazon rainforest. It is the biggest rainforest in the world."
+      ],
+      "answer": "In South America there is the Amazon River and the Amazon rainforest. It is the biggest rainforest in the world."
+    },
+    {
+      "q": "«Дар он ҷо навъҳои зиёди ҳайвонот ва растаниҳо зиндагӣ мекунанд. Дар Австралия Операи машҳури Сидней ҳаст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Many kinds of animals and plants live there. In Australia there is the famous Sydney Opera House.",
+        "Many kinds of animals and plants live there. In Australia there is the famous Sydney Opera House.",
+        "Many kinds of animals and plants live there. In Australia there is the famous Opera House of Sydney.",
+        "Many kinds of animals and plants live there. In Australia there is the well-known Sydney Opera House."
+      ],
+      "answer": "Many kinds of animals and plants live there. In Australia there is the famous Sydney Opera House."
+    },
+    {
+      "q": "«Он шакли хеле ҷолиб дорад ва ба бодбонҳои калони сафед монанд аст. Он яке аз машҳуртарин биноҳо дар ҷаҳон аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It has a very interesting shape and it looks like big white sails. It is one of the most famous buildings in the world.",
+        "It has a very interesting shape and it looks like big white sails. It is one of the most famous buildings in the world.",
+        "It has a very interesting form and it looks like big white sails. It is one of the most famous buildings in the world.",
+        "It has a very interesting shape and it looks like big white sails. It is one of the most famous buildings of the world."
+      ],
+      "answer": "It has a very interesting shape and it looks like big white sails. It is one of the most famous buildings in the world."
+    },
+    {
+      "q": "«Ҳар як кишвар ҷойҳои машҳури худро дорад. Баъзеи онҳо қадимӣ ва баъзеи онҳо муосир ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Every country has its own famous places. Some of them are ancient and some are modern.",
+        "Each country has its own famous places. Some of them are ancient and some are modern.",
+        "Every country has its own famous places. Some of them are old and some are modern.",
+        "Every country has its famous places. Some of them are ancient and some are modern."
+      ],
+      "answer": "Every country has its own famous places. Some of them are ancient and some are modern."
+    },
+    {
+      "q": "«Баъзеи онҳо калон ва баъзеи онҳо хурд ҳастанд. Аммо ҳамаи онҳо хеле муҳим ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Some are big and some are small. But they are all very important.",
+        "Some of them are big and some are small. But they are all very important.",
+        "Some of them are big and some of them are small. But all of them are very important.",
+        "Some are big and some are small. But all of them are very important."
+      ],
+      "answer": "Some of them are big and some are small. But they are all very important."
+    },
+    {
+      "q": "«Онҳо ба мо дар бораи таърих, фарҳанг ва ҳаёти мардуме, ки онҳоро сохтаанд, нақл мекунанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "They tell us about the history, the culture and the life of the people who built them.",
+        "They tell us about the history, the culture and the life of the people that built them.",
+        "They tell us about the history, the culture and the life of the people which built them.",
+        "They tell us about history, culture and the life of the people who built them."
+      ],
+      "answer": "They tell us about the history, the culture and the life of the people who built them."
+    },
+    {
+      "q": "«Вақте ки мо сафар мекунем ва ёдгориҳои гуногунро мебинем, мо дар бораи ҷаҳони худ бештар меомӯзем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When we travel and see different landmarks, we learn more about our world.",
+        "When we travel and see different sights, we learn more about our world.",
+        "When we travel and see different landmarks we learn more about our world.",
+        "When we travel and see different landmarks, we learn more about the world."
+      ],
+      "answer": "When we travel and see different landmarks, we learn more about our world."
+    },
+    {
+      "q": "«Ман мехоҳам дар тамоми ҷаҳон сафар кунам ва ҳамаи ин ҷойҳои машҳурро бо чашмони худ бинам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to travel around the world and see all these famous places with my own eyes.",
+        "I want to travel around the world and see all these famous places with my own eyes.",
+        "I want to travel all over the world and see all these famous places with my own eyes.",
+        "I want to travel around the world and see all of these famous places with my own eyes."
+      ],
+      "answer": "I want to travel around the world and see all these famous places with my own eyes."
+    },
+    {
+      "q": "«Ман мехоҳам дар Париж дар назди Бурҷи Эйфел қадам занам. Ман мехоҳам Девори Бузурги Чинро бинам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to walk in Paris near the Eiffel Tower. I want to see the Great Wall of China.",
+        "I want to walk in Paris near the Eiffel Tower. I want to see the Great Wall of China.",
+        "I want to walk in Paris by the Eiffel Tower. I want to see the Great Wall of China.",
+        "I want to walk in Paris near the Eiffel Tower. I want to see the Great Wall in China."
+      ],
+      "answer": "I want to walk in Paris near the Eiffel Tower. I want to see the Great Wall of China."
+    },
+    {
+      "q": "«Ман мехоҳам пирамидаҳоро дар Миср бинам. Ман мехоҳам Ҳайкали Озодиро дар Ню Йорк бинам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to see the pyramids in Egypt. I want to see the Statue of Liberty in New York.",
+        "I want to see the pyramids in Egypt. I want to see the Statue of Liberty in New York.",
+        "I want to see the pyramids of Egypt. I want to see the Statue of Liberty in New York.",
+        "I want to see the pyramids in Egypt. I want to see the Statue of Freedom in New York."
+      ],
+      "answer": "I want to see the pyramids in Egypt. I want to see the Statue of Liberty in New York."
+    },
+    {
+      "q": "«Ва ман мехоҳам ба ҳамаи одамон дар ҷаҳон дар бораи кишвари зебои худ Тоҷикистон нақл кунам — дар бораи кӯҳҳои баланди мо, дарёҳои тозаи мо ва шаҳрҳои зебои қадимии мо» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "And I want to tell all people in the world about my beautiful country Tajikistan — about our high mountains, our clean rivers and our beautiful ancient cities.",
+        "And I want to tell all people in the world about my beautiful country Tajikistan — about our high mountains, our clean rivers and our beautiful ancient cities.",
+        "And I want to tell all people in the world about my beautiful country Tajikistan — about our high mountains, our clean rivers and our beautiful ancient towns.",
+        "And I want to tell all people of the world about my beautiful country Tajikistan — about our high mountains, our clean rivers and our beautiful ancient cities."
+      ],
+      "answer": "And I want to tell all people in the world about my beautiful country Tajikistan — about our high mountains, our clean rivers and our beautiful ancient cities."
+    },
+    {
+      "q": "«Ҷаҳони мо пур аз мӯъҷизаҳо аст. Сафар кардан, омӯхтан ва дидани ҷойҳои нав хеле муҳим аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Our world is full of wonders. It is very important to travel, to learn and to see new places.",
+        "Our world is full of wonders. It is very important to travel, to learn and to see new places.",
+        "Our world is full of wonders. Travel, learn and see new places — it is very important.",
+        "Our world is full of miracles. It is very important to travel, to learn and to see new places."
+      ],
+      "answer": "Our world is full of wonders. It is very important to travel, to learn and to see new places."
+    },
+    {
+      "q": "«Вақте ки мо сафар мекунем, мо дӯстони нав пайдо мекунем, забонҳои нав меомӯзем ва мардумони дигарро беҳтар мефаҳмем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When we travel, we make new friends, we learn new languages and we understand other peoples better.",
+        "When we travel, we make new friends, we learn new languages and we understand other people better.",
+        "When we travel we make new friends, we learn new languages and we understand other peoples better.",
+        "When we travel, we make new friends, learn new languages and understand other peoples better."
+      ],
+      "answer": "When we travel, we make new friends, we learn new languages and we understand other peoples better."
+    },
+    {
+      "q": "«Пас, биёед бо ҷидду ҷаҳд таҳсил кунем, забонҳои хориҷиро омӯзем ва як рӯз дар тамоми ҷаҳон сафар кунем!» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "So let us study hard, learn foreign languages and one day travel around the world!",
+        "So let's study hard, learn foreign languages and one day travel around the world!",
+        "So let us study hard, learn foreign languages and one day travel all over the world!",
+        "So let us study hard, learn foreign languages and one day travel round the world!"
+      ],
+      "answer": "So let us study hard, learn foreign languages and one day travel around the world!"
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 25
+  "wordsCount": 16
 }
