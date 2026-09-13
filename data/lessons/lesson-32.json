@@ -1,401 +1,757 @@
 {
   "id": 32,
-  "title": "Матн ва машқҳо 32",
-  "level": "Миёна - Синфи 4",
+  "title": "Матн 32: Касбҳо ва кори одамон",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "profession",
+      "tj": "касб",
+      "ex": "Teaching is a good profession."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "journalist",
+      "tj": "рӯзноманигор",
+      "ex": "My uncle is a journalist."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "translator",
+      "tj": "тарҷумон",
+      "ex": "She works as a translator."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "artist",
+      "tj": "рассом",
+      "ex": "The artist draws beautiful pictures."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "singer",
+      "tj": "сароянда",
+      "ex": "My sister wants to be a singer."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "writer",
+      "tj": "нависанда",
+      "ex": "The writer writes interesting books."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "poet",
+      "tj": "шоир",
+      "ex": "The poet writes beautiful poems."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "scientist",
+      "tj": "олим",
+      "ex": "The scientist studies nature."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "dentist",
+      "tj": "духтури дандон",
+      "ex": "I go to the dentist every year."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "vet",
+      "tj": "духтури ҳайвонот",
+      "ex": "The vet helps sick animals."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "lawyer",
+      "tj": "ҳуқуқшинос",
+      "ex": "The lawyer helps people."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "architect",
+      "tj": "меъмор",
+      "ex": "The architect builds new houses."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "programmer",
+      "tj": "барномасоз",
+      "ex": "The programmer works with computers."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "secretary",
+      "tj": "котиба",
+      "ex": "The secretary works in the office."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
-    },
-    {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
-    },
-    {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
-    },
-    {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "office",
+      "tj": "идора",
+      "ex": "My mother works in an office."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 32)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Teaching is a good profession.",
+      "tj": "Омӯзгорӣ касби хуб аст."
     },
     {
-      "en": "I'm working on lesson 32",
-      "tj": "Ман дарси 32-ро меомӯзам"
+      "en": "My uncle is a journalist and writes for a newspaper.",
+      "tj": "Амакам рӯзноманигор аст ва барои рӯзнома менависад."
+    },
+    {
+      "en": "She works as a translator at the office.",
+      "tj": "Ӯ дар идора ҳамчун тарҷумон кор мекунад."
+    },
+    {
+      "en": "The artist draws beautiful pictures of nature.",
+      "tj": "Рассом расмҳои зебои табиатро мекашад."
+    },
+    {
+      "en": "My sister wants to be a singer.",
+      "tj": "Хоҳари ман мехоҳад сароянда шавад."
+    },
+    {
+      "en": "The writer writes interesting books for children.",
+      "tj": "Нависанда барои кӯдакон китобҳои ҷолиб менависад."
+    },
+    {
+      "en": "The poet writes beautiful poems about his country.",
+      "tj": "Шоир дар бораи кишвараш шеърҳои зебо менависад."
+    },
+    {
+      "en": "The scientist studies nature and animals.",
+      "tj": "Олим табиат ва ҳайвонотро меомӯзад."
+    },
+    {
+      "en": "I go to the dentist every year.",
+      "tj": "Ман ҳар сол ба духтури дандон меравам."
+    },
+    {
+      "en": "The vet helps sick animals in the village.",
+      "tj": "Духтури ҳайвонот ба ҳайвоноти бемор дар деҳа кӯмак мекунад."
+    },
+    {
+      "en": "The lawyer helps people with their problems.",
+      "tj": "Ҳуқуқшинос ба мардум бо мушкилоти онҳо кӯмак мекунад."
+    },
+    {
+      "en": "The architect builds new houses and schools.",
+      "tj": "Меъмор хонаҳо ва мактабҳои нав месозад."
+    },
+    {
+      "en": "The programmer works with computers every day.",
+      "tj": "Барномасоз ҳар рӯз бо компютерҳо кор мекунад."
+    },
+    {
+      "en": "The secretary works in the office.",
+      "tj": "Котиба дар идора кор мекунад."
+    },
+    {
+      "en": "My mother works in a big office in the centre of the city.",
+      "tj": "Модарам дар идораи калон дар маркази шаҳр кор мекунад."
+    },
+    {
+      "en": "Every profession is important and useful.",
+      "tj": "Ҳар як касб муҳим ва фоиданок аст."
     }
   ],
   "text": {
-    "en": "Text for lesson 32. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 32 is about Миёна - Синфи 4. I write all words in my notebook. Level 32 text.",
-    "tj": "Матни дарси 32..."
+    "en": "Professions and Work of People\n\nMy name is Ismoil. I study at school. My teachers often ask us: \"What do you want to be?\" Every pupil has a dream. I want to be a doctor. My friend Farid wants to be a programmer. His sister wants to be a singer. My classmate Zuhro wants to be a teacher. Every profession is important and useful.\n\nThere are many professions in the world. Every day we meet doctors, teachers, drivers, journalists and many other people. They all work for us. We cannot live without them.\n\nMy father is a doctor. He works in a big hospital. He helps sick people every day. He gets up early in the morning and goes to work. Sometimes he works at night. He likes his profession very much. My mother works in an office. She is a secretary. She writes letters and speaks on the phone. She works with a computer.\n\nMy uncle is a journalist. He writes for a big newspaper. He travels to different cities and countries. He asks questions and writes interesting stories. My aunt is a translator. She knows English and Russian very well. She translates books and letters from English into Tajik and from Tajik into English. She works at the office with her colleagues.\n\nMy grandfather is a scientist. He studies nature and animals. He writes books about birds and flowers. My grandmother is a writer. She writes beautiful stories for children. She loves children very much.\n\nMy cousin is an artist. He draws beautiful pictures of nature: mountains, rivers, forests and flowers. His wife is a poet. She writes beautiful poems about her country, her mother and her friends. Their son is a dentist. He helps people with their teeth. Their daughter is a vet. She helps sick animals in the village. She has a cat, a dog and a small bird at home.\n\nMy neighbour is a lawyer. He helps people with their problems. He works in a big office in the centre of the city. My other neighbour is an architect. He builds new houses and schools. His wife is a programmer. She works with computers.\n\nEvery profession is very important. Doctors help sick people. Teachers teach children. Farmers grow fruits and vegetables. Drivers drive buses and cars. Journalists write about our life. Translators translate books. Artists draw pictures. Singers sing songs. Writers write books. Poets write poems. Scientists study nature. Dentists help with teeth. Vets help animals. Lawyers help people with their problems. Architects build houses. Programmers work with computers. Secretaries work in offices.\n\nAll professions are good and useful. I want to be a good doctor. I want to help my country and my people. I want to study well and learn English, Tajik, Russian, math, history, geography and biology. Then I can go to the university and study medicine. It is my big dream. When I grow up, I want to help my mother, my father and all the people of my country.",
+    "tj": "Касбҳо ва кори одамон\n\nНоми ман Исмоил аст. Ман дар мактаб таҳсил мекунам. Муаллимонам аксар вақт аз мо мепурсанд: «Шумо мехоҳед кӣ шавед?» Ҳар як хонанда орзу дорад. Ман мехоҳам духтур шавам. Дӯсти ман Фарид мехоҳад барномасоз шавад. Хоҳари ӯ мехоҳад сароянда шавад. Ҳамсинфи ман Зуҳро мехоҳад муаллим шавад. Ҳар як касб муҳим ва фоиданок аст.\n\nДар ҷаҳон касбҳои зиёд ҳастанд. Ҳар рӯз мо духтурон, муаллимон, ронандагон, рӯзноманигорон ва мардуми дигари зиёдро вохӯрда мекунем. Онҳо ҳама барои мо кор мекунанд. Мо бе онҳо зиндагӣ карда наметавонем.\n\nПадари ман духтур аст. Ӯ дар беморхонаи калон кор мекунад. Ӯ ҳар рӯз ба беморон кӯмак мекунад. Ӯ субҳ барвақт аз ҷой мехезад ва ба кор меравад. Баъзан ӯ шабона кор мекунад. Ӯ касбашро хеле дӯст медорад. Модарам дар идора кор мекунад. Ӯ котиба аст. Ӯ мактубҳо менависад ва дар телефон гап мезанад. Ӯ бо компютер кор мекунад.\n\nАмакам рӯзноманигор аст. Ӯ барои рӯзномаи калон менависад. Ӯ ба шаҳрҳо ва кишварҳои гуногун сафар мекунад. Ӯ савол медиҳад ва ҳикояҳои ҷолиб менависад. Аммаам тарҷумон аст. Ӯ англисӣ ва русиро хеле хуб медонад. Ӯ китобҳо ва мактубҳоро аз англисӣ ба тоҷикӣ ва аз тоҷикӣ ба англисӣ тарҷума мекунад. Ӯ дар идора бо ҳамкасбони худ кор мекунад.\n\nБобоям олим аст. Ӯ табиат ва ҳайвонотро меомӯзад. Ӯ дар бораи паррандаҳо ва гулҳо китобҳо менависад. Бибиам нависанда аст. Ӯ барои кӯдакон ҳикояҳои зебо менависад. Ӯ кӯдаконро хеле дӯст медорад.\n\nАмакбачаам рассом аст. Ӯ расмҳои зебои табиатро мекашад: кӯҳҳо, дарёҳо, ҷангалҳо ва гулҳо. Занаш шоир аст. Ӯ дар бораи кишвараш, модараш ва дӯстонаш шеърҳои зебо менависад. Писари онҳо духтури дандон аст. Ӯ ба мардум бо дандонҳояшон кӯмак мекунад. Духтари онҳо духтури ҳайвонот аст. Ӯ ба ҳайвоноти бемор дар деҳа кӯмак мекунад. Ӯ дар хона гурба, саг ва паррандаи хурд дорад.\n\nҲамсояи ман ҳуқуқшинос аст. Ӯ ба мардум бо мушкилоти онҳо кӯмак мекунад. Ӯ дар идораи калон дар маркази шаҳр кор мекунад. Ҳамсояи дигари ман меъмор аст. Ӯ хонаҳо ва мактабҳои нав месозад. Занаш барномасоз аст. Ӯ бо компютерҳо кор мекунад.\n\nҲар як касб хеле муҳим аст. Духтурон ба беморон кӯмак мекунанд. Муаллимон ба кӯдакон таълим медиҳанд. Деҳқонон меваҳо ва сабзавот парвариш мекунанд. Ронандагон автобусҳо ва мошинҳоро меронанд. Рӯзноманигорон дар бораи ҳаёти мо менависанд. Тарҷумонҳо китобҳоро тарҷума мекунанд. Рассомон расмҳо мекашанд. Сарояндагон сурудҳо мехонанд. Нависандагон китобҳо менависанд. Шоирон шеърҳо менависанд. Олимон табиатро меомӯзанд. Духтурони дандон бо дандонҳо кӯмак мекунанд. Духтурони ҳайвонот ба ҳайвонот кӯмак мекунанд. Ҳуқуқшиносон ба мардум бо мушкилоти онҳо кӯмак мекунанд. Меъморон хонаҳо месозанд. Барномасозон бо компютерҳо кор мекунанд. Котибаҳо дар идораҳо кор мекунанд.\n\nҲамаи касбҳо хуб ва фоиданок ҳастанд. Ман мехоҳам духтури хуб шавам. Ман мехоҳам ба кишварам ва мардумам кӯмак кунам. Ман мехоҳам хуб таҳсил кунам ва англисӣ, тоҷикӣ, русӣ, математика, таърих, ҷуғрофия ва биологияро омӯзам. Баъд ман метавонам ба донишгоҳ равам ва тибро омӯзам. Ин орзуи калони ман аст. Вақте ки ман калон мешавам, ман мехоҳам ба модарам, падарам ва ҳамаи мардуми кишварам кӯмак кунам."
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Омӯзгорӣ касби хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи understand",
-        "нодуруст C"
+        "Teaching is a good profession.",
+        "Teaching is a good work.",
+        "Teaching is a good job.",
+        "Teaching is an important profession."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "Teaching is a good profession."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Амакам рӯзноманигор аст ва барои рӯзнома менависад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи explain",
-        "нодуруст B"
+        "My uncle is a journalist and writes for a newspaper.",
+        "My uncle is a journalist and writes for a book.",
+        "My uncle is a writer and writes for a newspaper.",
+        "My aunt is a journalist and writes for a newspaper."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "My uncle is a journalist and writes for a newspaper."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Ӯ дар идора ҳамчун тарҷумон кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи important",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "She works as a translator at the office.",
+        "She works as a translator at the school.",
+        "He works as a translator at the office.",
+        "She works as a teacher at the office."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "She works as a translator at the office."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Рассом расмҳои зебои табиатро мекашад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи different",
-        "нодуруст C",
-        "нодуруст B"
+        "The artist draws beautiful pictures of nature.",
+        "The artist draws beautiful pictures of animals.",
+        "The painter draws beautiful pictures of nature.",
+        "The artist draws good pictures of nature."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "The artist draws beautiful pictures of nature."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Хоҳари ман мехоҳад сароянда шавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи difficult",
-        "нодуруст A"
+        "My sister wants to be a singer.",
+        "My sister wants to be a dancer.",
+        "My brother wants to be a singer.",
+        "My sister wants to be a teacher."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "My sister wants to be a singer."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Нависанда барои кӯдакон китобҳои ҷолиб менависад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи easy",
-        "нодуруст B"
+        "The writer writes interesting books for children.",
+        "The writer writes good books for children.",
+        "The poet writes interesting books for children.",
+        "The writer writes interesting stories for children."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "The writer writes interesting books for children."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Шоир дар бораи кишвараш шеърҳои зебо менависад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи interesting"
+        "The poet writes beautiful poems about his country.",
+        "The poet writes beautiful poems about his city.",
+        "The writer writes beautiful poems about his country.",
+        "The poet writes good poems about his country."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "The poet writes beautiful poems about his country."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Олим табиат ва ҳайвонотро меомӯзад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи remember",
-        "нодуруст A",
-        "нодуруст B"
+        "The scientist studies nature and animals.",
+        "The scientist studies nature and birds.",
+        "The scientist studies nature and people.",
+        "The vet studies nature and animals."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "The scientist studies nature and animals."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Ман ҳар сол ба духтури дандон меравам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи forget",
-        "нодуруст C"
+        "I go to the dentist every year.",
+        "I go to the dentist every month.",
+        "I go to the doctor every year.",
+        "I go to the dentist every week."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "I go to the dentist every year."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Духтури ҳайвонот ба ҳайвоноти бемор дар деҳа кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи homework"
+        "The vet helps sick animals in the village.",
+        "The vet helps sick animals in the city.",
+        "The doctor helps sick animals in the village.",
+        "The vet helps small animals in the village."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "The vet helps sick animals in the village."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Ҳуқуқшинос ба мардум бо мушкилоти онҳо кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи exercise",
-        "нодуруст A"
+        "The lawyer helps people with their problems.",
+        "The lawyer helps people with their work.",
+        "The doctor helps people with their problems.",
+        "The lawyer helps children with their problems."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "The lawyer helps people with their problems."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Меъмор хонаҳо ва мактабҳои нав месозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи text",
-        "нодуруст C"
+        "The architect builds new houses and schools.",
+        "The architect builds new houses and hospitals.",
+        "The builder builds new houses and schools.",
+        "The architect builds big houses and schools."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "The architect builds new houses and schools."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Барномасоз ҳар рӯз бо компютерҳо кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи story",
-        "нодуруст A",
-        "нодуруст C"
+        "The programmer works with computers every day.",
+        "The programmer works with computers every morning.",
+        "The programmer plays with computers every day.",
+        "The secretary works with computers every day."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "The programmer works with computers every day."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Котиба дар идора кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи question",
-        "нодуруст A"
+        "The secretary works in the office.",
+        "The secretary works in the school.",
+        "The secretary works in the hospital.",
+        "The secretary works at the office."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "The secretary works in the office."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Модарам дар идораи калон дар маркази шаҳр кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи answer",
-        "нодуруст A",
-        "нодуруст C"
+        "My mother works in a big office in the centre of the city.",
+        "My mother works in a big office in the centre of the town.",
+        "My mother works in a small office in the centre of the city.",
+        "My sister works in a big office in the centre of the city."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "My mother works in a big office in the centre of the city."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Ҳар як касб муҳим ва фоиданок аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи understand",
-        "нодуруст B",
-        "нодуруст C"
+        "Every profession is important and useful.",
+        "Every profession is good and useful.",
+        "Every work is important and useful.",
+        "Every profession is important and good."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "Every profession is important and useful."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Муаллимонам аксар вақт аз мо мепурсанд: \"Шумо мехоҳед кӣ шавед?\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи explain"
+        "My teachers often ask us: \"What do you want to be?\"",
+        "My teachers sometimes ask us: \"What do you want to be?\"",
+        "My teachers often ask us: \"What do you want to do?\"",
+        "My parents often ask us: \"What do you want to be?\""
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "My teachers often ask us: \"What do you want to be?\""
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Ҳар як хонанда орзу дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи important",
-        "нодуруст B"
+        "Every pupil has a dream.",
+        "Every pupil has a book.",
+        "Every student has a dream.",
+        "Every child has a dream."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "Every pupil has a dream."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Ман мехоҳам духтур шавам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи different",
-        "нодуруст A",
-        "нодуруст C"
+        "I want to be a doctor.",
+        "I want to be a teacher.",
+        "I want to become a doctor.",
+        "I want to be a nurse."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "I want to be a doctor."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Дӯсти ман Фарид мехоҳад барномасоз шавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи difficult",
-        "нодуруст A",
-        "нодуруст C"
+        "My friend Farid wants to be a programmer.",
+        "My friend Farid wants to be a driver.",
+        "My classmate Farid wants to be a programmer.",
+        "My friend Farid wants to be a journalist."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "My friend Farid wants to be a programmer."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Ҳамсинфи ман Зуҳро мехоҳад муаллим шавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи easy",
-        "нодуруст A"
+        "My classmate Zuhro wants to be a teacher.",
+        "My classmate Zuhro wants to be a doctor.",
+        "My friend Zuhro wants to be a teacher.",
+        "My classmate Zuhro wants to be a singer."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "My classmate Zuhro wants to be a teacher."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Дар ҷаҳон касбҳои зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи interesting",
-        "нодуруст B"
+        "There are many professions in the world.",
+        "There are many professions in our country.",
+        "There are many people in the world.",
+        "There are many works in the world."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "There are many professions in the world."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Ҳар рӯз мо духтурон, муаллимон, ронандагон, рӯзноманигорон ва мардуми дигари зиёдро вохӯрда мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи remember"
+        "Every day we meet doctors, teachers, drivers, journalists and many other people.",
+        "Every day we meet doctors, teachers, drivers, writers and many other people.",
+        "Every day we meet doctors, pupils, drivers, journalists and many other people.",
+        "Every day we see doctors, teachers, drivers, journalists and many other people."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "Every day we meet doctors, teachers, drivers, journalists and many other people."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Онҳо ҳама барои мо кор мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи forget"
+        "They all work for us.",
+        "They all work with us.",
+        "They all work for you.",
+        "They all help us."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "They all work for us."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Мо бе онҳо зиндагӣ карда наметавонем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи homework",
-        "нодуруст C"
+        "We cannot live without them.",
+        "We cannot work without them.",
+        "We cannot study without them.",
+        "We cannot live with them."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "We cannot live without them."
+    },
+    {
+      "q": "«Падари ман духтур аст. Ӯ дар беморхонаи калон кор мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father is a doctor. He works in a big hospital.",
+        "My father is a doctor. He works in a small hospital.",
+        "My mother is a doctor. She works in a big hospital.",
+        "My father is a nurse. He works in a big hospital."
+      ],
+      "answer": "My father is a doctor. He works in a big hospital."
+    },
+    {
+      "q": "«Ӯ ҳар рӯз ба беморон кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He helps sick people every day.",
+        "He helps old people every day.",
+        "She helps sick people every day.",
+        "He helps sick children every day."
+      ],
+      "answer": "He helps sick people every day."
+    },
+    {
+      "q": "«Ӯ субҳ барвақт аз ҷой мехезад ва ба кор меравад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He gets up early in the morning and goes to work.",
+        "He gets up early in the morning and goes to school.",
+        "He gets up late in the morning and goes to work.",
+        "She gets up early in the morning and goes to work."
+      ],
+      "answer": "He gets up early in the morning and goes to work."
+    },
+    {
+      "q": "«Баъзан ӯ шабона кор мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Sometimes he works at night.",
+        "Sometimes she works at night.",
+        "Often he works at night.",
+        "Sometimes he works in the evening."
+      ],
+      "answer": "Sometimes he works at night."
+    },
+    {
+      "q": "«Ӯ касбашро хеле дӯст медорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He likes his profession very much.",
+        "He likes his work very much.",
+        "She likes her profession very much.",
+        "He loves his profession very much."
+      ],
+      "answer": "He likes his profession very much."
+    },
+    {
+      "q": "«Модарам дар идора кор мекунад. Ӯ котиба аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My mother works in an office. She is a secretary.",
+        "My mother works in a school. She is a secretary.",
+        "My sister works in an office. She is a secretary.",
+        "My mother works in an office. She is a teacher."
+      ],
+      "answer": "My mother works in an office. She is a secretary."
+    },
+    {
+      "q": "«Ӯ мактубҳо менависад ва дар телефон гап мезанад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "She writes letters and speaks on the phone.",
+        "She writes books and speaks on the phone.",
+        "He writes letters and speaks on the phone.",
+        "She reads letters and speaks on the phone."
+      ],
+      "answer": "She writes letters and speaks on the phone."
+    },
+    {
+      "q": "«Ӯ бо компютер кор мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "She works with a computer.",
+        "She plays with a computer.",
+        "He works with a computer.",
+        "She works with computers."
+      ],
+      "answer": "She works with a computer."
+    },
+    {
+      "q": "«Амакам рӯзноманигор аст. Ӯ барои рӯзномаи калон менависад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My uncle is a journalist. He writes for a big newspaper.",
+        "My uncle is a writer. He writes for a big newspaper.",
+        "My aunt is a journalist. She writes for a big newspaper.",
+        "My uncle is a journalist. He writes for a big book."
+      ],
+      "answer": "My uncle is a journalist. He writes for a big newspaper."
+    },
+    {
+      "q": "«Ӯ ба шаҳрҳо ва кишварҳои гуногун сафар мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He travels to different cities and countries.",
+        "He travels to different cities and villages.",
+        "She travels to different cities and countries.",
+        "He goes to different cities and countries."
+      ],
+      "answer": "He travels to different cities and countries."
+    },
+    {
+      "q": "«Ӯ савол медиҳад ва ҳикояҳои ҷолиб менависад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He asks questions and writes interesting stories.",
+        "He asks questions and writes good stories.",
+        "She asks questions and writes interesting stories.",
+        "He asks questions and reads interesting stories."
+      ],
+      "answer": "He asks questions and writes interesting stories."
+    },
+    {
+      "q": "«Аммаам тарҷумон аст. Ӯ англисӣ ва русиро хеле хуб медонад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My aunt is a translator. She knows English and Russian very well.",
+        "My aunt is a translator. She knows English and Tajik very well.",
+        "My uncle is a translator. He knows English and Russian very well.",
+        "My aunt is a teacher. She knows English and Russian very well."
+      ],
+      "answer": "My aunt is a translator. She knows English and Russian very well."
+    },
+    {
+      "q": "«Ӯ китобҳо ва мактубҳоро аз англисӣ ба тоҷикӣ ва аз тоҷикӣ ба англисӣ тарҷума мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "She translates books and letters from English into Tajik and from Tajik into English.",
+        "She translates books and letters from English into Russian and from Russian into English.",
+        "She translates texts and letters from English into Tajik and from Tajik into English.",
+        "He translates books and letters from English into Tajik and from Tajik into English."
+      ],
+      "answer": "She translates books and letters from English into Tajik and from Tajik into English."
+    },
+    {
+      "q": "«Ӯ дар идора бо ҳамкасбони худ кор мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "She works at the office with her colleagues.",
+        "She works at the office with her friends.",
+        "He works at the office with his colleagues.",
+        "She works in the office with her colleagues."
+      ],
+      "answer": "She works at the office with her colleagues."
+    },
+    {
+      "q": "«Бобоям олим аст. Ӯ табиат ва ҳайвонотро меомӯзад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandfather is a scientist. He studies nature and animals.",
+        "My grandfather is a scientist. He studies nature and birds.",
+        "My grandmother is a scientist. She studies nature and animals.",
+        "My grandfather is a writer. He studies nature and animals."
+      ],
+      "answer": "My grandfather is a scientist. He studies nature and animals."
+    },
+    {
+      "q": "«Ӯ дар бораи паррандаҳо ва гулҳо китобҳо менависад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He writes books about birds and flowers.",
+        "He writes books about animals and flowers.",
+        "She writes books about birds and flowers.",
+        "He writes stories about birds and flowers."
+      ],
+      "answer": "He writes books about birds and flowers."
+    },
+    {
+      "q": "«Бибиам нависанда аст. Ӯ барои кӯдакон ҳикояҳои зебо менависад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandmother is a writer. She writes beautiful stories for children.",
+        "My grandmother is a poet. She writes beautiful stories for children.",
+        "My grandmother is a writer. She writes beautiful books for children.",
+        "My grandfather is a writer. He writes beautiful stories for children."
+      ],
+      "answer": "My grandmother is a writer. She writes beautiful stories for children."
+    },
+    {
+      "q": "«Ӯ кӯдаконро хеле дӯст медорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "She loves children very much.",
+        "She likes children very much.",
+        "He loves children very much.",
+        "She loves her children very much."
+      ],
+      "answer": "She loves children very much."
+    },
+    {
+      "q": "«Амакбачаам рассом аст. Ӯ расмҳои зебои табиатро мекашад: кӯҳҳо, дарёҳо, ҷангалҳо ва гулҳо» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My cousin is an artist. He draws beautiful pictures of nature: mountains, rivers, forests and flowers.",
+        "My cousin is an artist. He draws beautiful pictures of nature: mountains, lakes, forests and flowers.",
+        "My cousin is a painter. He draws beautiful pictures of nature: mountains, rivers, forests and flowers.",
+        "My uncle is an artist. He draws beautiful pictures of nature: mountains, rivers, forests and flowers."
+      ],
+      "answer": "My cousin is an artist. He draws beautiful pictures of nature: mountains, rivers, forests and flowers."
+    },
+    {
+      "q": "«Занаш шоир аст. Ӯ дар бораи кишвараш, модараш ва дӯстонаш шеърҳои зебо менависад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "His wife is a poet. She writes beautiful poems about her country, her mother and her friends.",
+        "His wife is a poet. She writes beautiful poems about her city, her mother and her friends.",
+        "His wife is a writer. She writes beautiful poems about her country, her mother and her friends.",
+        "Her husband is a poet. He writes beautiful poems about his country, his mother and his friends."
+      ],
+      "answer": "His wife is a poet. She writes beautiful poems about her country, her mother and her friends."
+    },
+    {
+      "q": "«Писари онҳо духтури дандон аст. Ӯ ба мардум бо дандонҳояшон кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Their son is a dentist. He helps people with their teeth.",
+        "Their son is a doctor. He helps people with their teeth.",
+        "Their daughter is a dentist. She helps people with their teeth.",
+        "Their son is a dentist. He helps children with their teeth."
+      ],
+      "answer": "Their son is a dentist. He helps people with their teeth."
+    },
+    {
+      "q": "«Духтари онҳо духтури ҳайвонот аст. Ӯ ба ҳайвоноти бемор дар деҳа кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Their daughter is a vet. She helps sick animals in the village.",
+        "Their daughter is a vet. She helps sick animals in the city.",
+        "Their son is a vet. He helps sick animals in the village.",
+        "Their daughter is a doctor. She helps sick animals in the village."
+      ],
+      "answer": "Their daughter is a vet. She helps sick animals in the village."
+    },
+    {
+      "q": "«Ӯ дар хона гурба, саг ва паррандаи хурд дорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "She has a cat, a dog and a small bird at home.",
+        "She has a cat, a dog and a small duck at home.",
+        "He has a cat, a dog and a small bird at home.",
+        "She has a cat, a horse and a small bird at home."
+      ],
+      "answer": "She has a cat, a dog and a small bird at home."
+    },
+    {
+      "q": "«Ҳамсояи ман ҳуқуқшинос аст. Ӯ ба мардум бо мушкилоти онҳо кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My neighbour is a lawyer. He helps people with their problems.",
+        "My neighbour is a lawyer. He helps people with their work.",
+        "My neighbour is a doctor. He helps people with their problems.",
+        "My friend is a lawyer. He helps people with their problems."
+      ],
+      "answer": "My neighbour is a lawyer. He helps people with their problems."
+    },
+    {
+      "q": "«Ӯ дар идораи калон дар маркази шаҳр кор мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He works in a big office in the centre of the city.",
+        "He works in a big office in the centre of the town.",
+        "She works in a big office in the centre of the city.",
+        "He works in a small office in the centre of the city."
+      ],
+      "answer": "He works in a big office in the centre of the city."
+    },
+    {
+      "q": "«Ҳамсояи дигари ман меъмор аст. Ӯ хонаҳо ва мактабҳои нав месозад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My other neighbour is an architect. He builds new houses and schools.",
+        "My other neighbour is an architect. He builds new houses and hospitals.",
+        "My other neighbour is a builder. He builds new houses and schools.",
+        "My friend is an architect. He builds new houses and schools."
+      ],
+      "answer": "My other neighbour is an architect. He builds new houses and schools."
+    },
+    {
+      "q": "«Занаш барномасоз аст. Ӯ бо компютерҳо кор мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "His wife is a programmer. She works with computers.",
+        "His wife is a programmer. She plays with computers.",
+        "Her husband is a programmer. He works with computers.",
+        "His wife is a secretary. She works with computers."
+      ],
+      "answer": "His wife is a programmer. She works with computers."
+    },
+    {
+      "q": "«Духтурон ба беморон кӯмак мекунанд. Муаллимон ба кӯдакон таълим медиҳанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Doctors help sick people. Teachers teach children.",
+        "Doctors help old people. Teachers teach children.",
+        "Doctors help sick people. Teachers teach pupils.",
+        "Nurses help sick people. Teachers teach children."
+      ],
+      "answer": "Doctors help sick people. Teachers teach children."
+    },
+    {
+      "q": "«Деҳқонон меваҳо ва сабзавот парвариш мекунанд. Ронандагон автобусҳо ва мошинҳоро меронанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Farmers grow fruits and vegetables. Drivers drive buses and cars.",
+        "Farmers grow fruits and vegetables. Drivers drive buses and trains.",
+        "Farmers grow fruits and flowers. Drivers drive buses and cars.",
+        "Workers grow fruits and vegetables. Drivers drive buses and cars."
+      ],
+      "answer": "Farmers grow fruits and vegetables. Drivers drive buses and cars."
+    },
+    {
+      "q": "«Ҳамаи касбҳо хуб ва фоиданок ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "All professions are good and useful.",
+        "All professions are important and useful.",
+        "All works are good and useful.",
+        "All professions are good and important."
+      ],
+      "answer": "All professions are good and useful."
+    },
+    {
+      "q": "«Ман мехоҳам духтури хуб шавам. Ман мехоҳам ба кишварам ва мардумам кӯмак кунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to be a good doctor. I want to help my country and my people.",
+        "I want to be a good doctor. I want to help my family and my people.",
+        "I want to be a good teacher. I want to help my country and my people.",
+        "I want to be a good doctor. I want to help my country and my friends."
+      ],
+      "answer": "I want to be a good doctor. I want to help my country and my people."
+    },
+    {
+      "q": "«Ман мехоҳам хуб таҳсил кунам ва англисӣ, тоҷикӣ, русӣ, математика, таърих, ҷуғрофия ва биологияро омӯзам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to study well and learn English, Tajik, Russian, math, history, geography and biology.",
+        "I want to study well and learn English, Tajik, Russian, math, history, geography and physics.",
+        "I want to study well and learn English, Tajik, Russian, math, history, biology and geography.",
+        "I want to study well and learn English, Russian, Tajik, math, history, geography and biology."
+      ],
+      "answer": "I want to study well and learn English, Tajik, Russian, math, history, geography and biology."
+    },
+    {
+      "q": "«Баъд ман метавонам ба донишгоҳ равам ва тибро омӯзам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Then I can go to the university and study medicine.",
+        "Then I can go to the university and study history.",
+        "Then I can go to the institute and study medicine.",
+        "Then I can go to the university and learn medicine."
+      ],
+      "answer": "Then I can go to the university and study medicine."
+    },
+    {
+      "q": "«Ин орзуи калони ман аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It is my big dream.",
+        "It is my good dream.",
+        "That is my big dream.",
+        "It is my big wish."
+      ],
+      "answer": "It is my big dream."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам ба модарам, падарам ва ҳамаи мардуми кишварам кӯмак кунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to help my mother, my father and all the people of my country.",
+        "When I grow up, I want to help my mother, my father and all the people of my city.",
+        "When I grow up, I want to help my family and all the people of my country.",
+        "When I grow up, I want to help my mother, my father and all my friends."
+      ],
+      "answer": "When I grow up, I want to help my mother, my father and all the people of my country."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 25
+  "wordsCount": 15
 }
