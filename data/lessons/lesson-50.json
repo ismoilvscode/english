@@ -1,536 +1,742 @@
 {
   "id": 50,
-  "title": "Матн ва машқҳо 50",
-  "level": "Миёна - Синфи 4",
+  "title": "Матн 50: Олимони бузург ва ихтироъкорон",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "scientist",
+      "tj": "олим",
+      "ex": "A scientist studies nature and the world."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "invention",
+      "tj": "ихтироъ",
+      "ex": "The telephone is a great invention."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "inventor",
+      "tj": "ихтироъкор",
+      "ex": "The inventor made a new machine."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "discovery",
+      "tj": "кашфиёт",
+      "ex": "The discovery of America was in 1492."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "to discover",
+      "tj": "кашф кардан",
+      "ex": "Scientists discover new things every year."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "to invent",
+      "tj": "ихтироъ кардан",
+      "ex": "He invented a new machine."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "laboratory",
+      "tj": "озмоишгоҳ",
+      "ex": "The scientist works in his laboratory."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "experiment",
+      "tj": "таҷриба",
+      "ex": "We did an interesting experiment at school."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "microscope",
+      "tj": "микроскоп",
+      "ex": "We look at small things through a microscope."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "telescope",
+      "tj": "телескоп",
+      "ex": "We look at the stars through a telescope."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "to explore",
+      "tj": "тадқиқ кардан",
+      "ex": "Scientists explore space and the ocean."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "space",
+      "tj": "кайҳон",
+      "ex": "Man flew into space in 1961."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "electricity",
+      "tj": "барқ",
+      "ex": "Electricity makes our life easy."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "to change the world",
+      "tj": "ҷаҳонро тағйир додан",
+      "ex": "Great people can change the world."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
+      "en": "great",
+      "tj": "бузург",
+      "ex": "He was a great scientist."
     },
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
-    },
-    {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
-    },
-    {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
-    },
-    {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
-    },
-    {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
-    },
-    {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
-    },
-    {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
-    },
-    {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
-    },
-    {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "to be famous",
+      "tj": "машҳур будан",
+      "ex": "The scientist became famous all over the world."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 50)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "A scientist studies nature and the world around us.",
+      "tj": "Олим табиат ва ҷаҳони атрофи моро меомӯзад."
     },
     {
-      "en": "I'm working on lesson 50",
-      "tj": "Ман дарси 50-ро меомӯзам"
+      "en": "The telephone is a great invention of the nineteenth century.",
+      "tj": "Телефон ихтирои бузурги асри нуздаҳум аст."
+    },
+    {
+      "en": "The inventor made a new machine for farmers.",
+      "tj": "Ихтироъкор мошини нав барои деҳқонон сохт."
+    },
+    {
+      "en": "The discovery of America was in fourteen ninety-two.",
+      "tj": "Кашфи Америка дар соли ҳазору чорсаду наваду ду буд."
+    },
+    {
+      "en": "Scientists discover new things every year.",
+      "tj": "Олимон ҳар сол чизҳои навро кашф мекунанд."
+    },
+    {
+      "en": "He invented a new machine for the factory.",
+      "tj": "Ӯ барои завод мошини нав ихтироъ кард."
+    },
+    {
+      "en": "The scientist works in his laboratory day and night.",
+      "tj": "Олим шабу рӯз дар озмоишгоҳи худ кор мекунад."
+    },
+    {
+      "en": "We did an interesting experiment at school.",
+      "tj": "Мо дар мактаб таҷрибаи ҷолиб гузаронидем."
+    },
+    {
+      "en": "We look at very small things through a microscope.",
+      "tj": "Мо ба чизҳои хеле хурд тавассути микроскоп нигоҳ мекунем."
+    },
+    {
+      "en": "We look at the stars through a telescope.",
+      "tj": "Мо ба ситораҳо тавассути телескоп нигоҳ мекунем."
+    },
+    {
+      "en": "Scientists explore space and the ocean.",
+      "tj": "Олимон кайҳон ва уқёнусро тадқиқ мекунанд."
+    },
+    {
+      "en": "Man flew into space in nineteen sixty-one.",
+      "tj": "Одам дар соли ҳазору нӯҳсаду шасту як ба кайҳон парвоз кард."
+    },
+    {
+      "en": "Electricity makes our life easy and comfortable.",
+      "tj": "Барқ ҳаёти моро осон ва бароҳат мекунад."
+    },
+    {
+      "en": "Great people can change the world for the better.",
+      "tj": "Одамони бузург метавонанд ҷаҳонро ба беҳтар тағйир диҳанд."
+    },
+    {
+      "en": "He was a great scientist and a kind man.",
+      "tj": "Ӯ олими бузург ва одами меҳрубон буд."
+    },
+    {
+      "en": "The scientist became famous all over the world.",
+      "tj": "Олим дар тамоми ҷаҳон машҳур шуд."
     }
   ],
   "text": {
-    "en": "Text for lesson 50. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 50 is about Миёна - Синфи 4. I write all words in my notebook. Level 50 text.",
-    "tj": "Матни дарси 50..."
+    "en": "Great Scientists and Inventors\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. I love to read books about great people — scientists, inventors and travellers. Their lives are very interesting. They changed our world and made our life better. Today I want to tell you about some of the greatest scientists and inventors in the history of the world.\n\nA scientist is a person who studies nature and the world around us. Scientists ask questions, do experiments and try to find answers. They work in laboratories and use special machines: microscopes to see very small things, and telescopes to see the stars and the planets. A scientist must be very clever, patient and hard-working. He or she must love science more than anything else. My father says: \"A scientist is a person who never stops asking questions.\"\n\nOne of the greatest scientists in the world was Isaac Newton. He lived in England more than three hundred years ago. Newton was a great physicist and mathematician. He discovered the law of gravity. One day he was sitting under an apple tree in his garden, and an apple fell down on his head. Newton thought: \"Why did the apple fall down? Why not up?\" He studied this question for many years and discovered the law of gravity. This discovery changed physics and astronomy forever. Newton was a very modest man. He said: \"If I have seen further, it is by standing on the shoulders of giants.\"\n\nAnother great scientist was Albert Einstein. He lived in Germany and in America in the twentieth century. Einstein was a very clever physicist. He discovered the theory of relativity. It was a very difficult theory, and many scientists did not believe it at first. But later his theory was proved to be correct. Einstein won the Nobel Prize in physics in 1921. He was a very kind and simple man. He liked music and played the violin very well. Einstein said: \"Imagination is more important than knowledge. Knowledge is limited, but imagination has no limits.\"\n\nAn outstanding woman scientist was Marie Curie. She lived in Poland and in France. She was a physicist and a chemist. She studied radioactivity. Marie Curie was the first woman in the world to win a Nobel Prize. And she won it twice! — first in physics and then in chemistry. It is a very rare thing. Marie Curie worked very hard all her life. She said: \"Nothing in life is to be feared, it is only to be understood.\" She is a great example for all girls and women who want to study science.\n\nLet me also tell you about some great inventors. An inventor is a person who makes new machines or new things. One of the most famous inventors was Thomas Edison. He lived in America. Edison invented the electric light bulb and the phonograph. He made more than one thousand inventions in his life! When people said that he was very clever, Edison answered: \"Genius is one percent inspiration and ninety-nine percent perspiration.\" This means that to invent something great, you must work very hard.\n\nAlexander Graham Bell invented the telephone in 1876. He was a teacher for deaf people, and he was also a great inventor. When he made the first telephone call, he said to his assistant: \"Mr. Watson, come here, I want to see you!\" — and his assistant heard these words from another room. It was a great moment in the history of the world. Today billions of people use telephones and mobile phones every day.\n\nThe Wright brothers — Wilbur and Orville — were two American inventors. They invented the first aeroplane. Their first flight was in 1903. The plane stayed in the air for only twelve seconds. But it was a huge step for all people. Today aeroplanes fly to every corner of the world.\n\nAnd, of course, I want to tell you about our great Tajik scientist. His name was Bobojon Gafurov. He was a famous historian and writer. He studied the history of the Tajik people and wrote many important books. He was very proud of our country and our people. There are also many other famous Tajik scientists, writers and poets: Rudaki, Ibn Sino (Avicenna), Al-Khwarizmi and others. Ibn Sino was a great doctor and philosopher. He lived a thousand years ago, but his books about medicine are still studied in universities today. Al-Khwarizmi was a great mathematician. The word \"algebra\" comes from his books. We must be proud of our great scientists!\n\nAll these great people were very different. They lived in different countries and in different centuries. But they had three things in common. First, they were very curious — they always asked questions. Second, they worked very hard — day and night, for many years. Third, they were very patient — they did not stop when they failed, but continued their work. These three qualities make a real scientist.\n\nWhen I grow up, I also want to be a scientist. I want to study biology and medicine. I want to help sick people, discover new medicines and make our world a better and healthier place. I know it is not easy. I know I must study hard, read many books and do many experiments. But I remember the words of Thomas Edison: \"Genius is one percent inspiration and ninety-nine percent perspiration.\" So I will work hard, and step by step I will reach my dream.",
+    "tj": "Олимони бузург ва ихтироъкорон\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Ман китобҳо дар бораи одамони бузург — олимон, ихтироъкорон ва сайёҳон хонданро дӯст медорам. Ҳаёти онҳо хеле ҷолиб аст. Онҳо ҷаҳони моро тағйир доданд ва ҳаёти моро беҳтар карданд. Имрӯз ман мехоҳам ба шумо дар бораи баъзе аз бузургтарин олимон ва ихтироъкорони таърихи ҷаҳон нақл кунам.\n\nОлим одамест, ки табиат ва ҷаҳони атрофи моро меомӯзад. Олимон савол медиҳанд, таҷриба мегузаронанд ва кӯшиш мекунанд, ки ҷавоб ёбанд. Онҳо дар озмоишгоҳҳо кор мекунанд ва мошинҳои махсус истифода мебаранд: микроскопро барои дидани чизҳои хеле хурд ва телескопро барои дидани ситораҳо ва сайёраҳо. Олим бояд хеле зирак, сабрнок ва меҳнатдӯст бошад. Ӯ бояд илмро аз ҳама чиз бештар дӯст дорад. Падарам мегӯяд: «Олим одамест, ки ҳеҷ гоҳ савол доданро бас намекунад.»\n\nЯке аз бузургтарин олимони ҷаҳон Исаак Нютон буд. Ӯ беш аз сесад сол пеш дар Англия зиндагӣ мекард. Нютон физик ва математики бузург буд. Ӯ қонуни ҷозибаро кашф кард. Як рӯз ӯ дар зери дарахти себ дар боғи худ нишаста буд ва себ ба сари ӯ афтод. Нютон фикр кард: «Чаро себ ба поён афтод? Чаро ба боло не?» Ӯ ин саволро солҳои зиёд омӯхт ва қонуни ҷозибаро кашф кард. Ин кашфиёт физика ва астрономияро ба таври ҳамешагӣ тағйир дод. Нютон одами хеле камтарбин буд. Ӯ гуфт: «Агар ман дуртар дида бошам, ин аз он аст, ки ман дар китфҳои азимон истодаам.»\n\nОлими дигари бузург Альберт Эйнштейн буд. Ӯ дар асри бистум дар Олмон ва дар Америка зиндагӣ мекард. Эйнштейн физики хеле зирак буд. Ӯ назарияи нисбиятро кашф кард. Ин назарияи хеле душвор буд ва бисёр олимон аввал ба он бовар накарданд. Аммо баъдтар назарияи ӯ дуруст буданаш исбот шуд. Эйнштейн дар соли 1921 Ҷоизаи Нобелро дар физика гирифт. Ӯ одами хеле меҳрубон ва содда буд. Ӯ мусиқиро дӯст медошт ва скрипкаро хеле хуб менавохт. Эйнштейн гуфт: «Тасаввур аз дониш муҳимтар аст. Дониш маҳдуд аст, аммо тасаввур ҳудуд надорад.»\n\nЗани олими барҷаста Мария Кюри буд. Ӯ дар Лаҳистон ва дар Фаронса зиндагӣ мекард. Ӯ физик ва химик буд. Ӯ радиоактивиятро меомӯхт. Мария Кюри аввалин зан дар ҷаҳон буд, ки Ҷоизаи Нобелро гирифт. Ва ӯ онро ду маротиба гирифт! — аввал дар физика ва баъд дар химия. Ин чизи хеле камёб аст. Мария Кюри тамоми умри худ хеле бо ҷидду ҷаҳд кор кард. Ӯ гуфт: «Дар ҳаёт аз ҳеҷ чиз набояд тарсид, танҳо бояд фаҳмид.» Ӯ намунаи бузург барои ҳамаи духтарон ва занонест, ки мехоҳанд илмро омӯзанд.\n\nБиёед ман инчунин ба шумо дар бораи баъзе ихтироъкорони бузург нақл кунам. Ихтироъкор одамест, ки мошинҳои нав ё чизҳои нав месозад. Яке аз машҳуртарин ихтироъкорон Томас Эдисон буд. Ӯ дар Америка зиндагӣ мекард. Эдисон лампаи барқӣ ва фонографро ихтироъ кард. Ӯ дар ҳаёти худ беш аз ҳазор ихтироъ кард! Вақте ки одамон мегуфтанд, ки ӯ хеле зирак аст, Эдисон ҷавоб медод: «Истеъдод як фоизи илҳом ва наваду нӯҳ фоизи меҳнат аст.» Ин маънои онро дорад, ки барои ихтироъ кардани чизи бузург шумо бояд хеле бо ҷидду ҷаҳд кор кунед.\n\nАлександр Грэм Белл дар соли 1876 телефонро ихтироъ кард. Ӯ муаллими одамони гунг буд ва ӯ инчунин ихтироъкори бузург буд. Вақте ки ӯ аввалин занги телефонро кард, ӯ ба ёвари худ гуфт: «Ҷаноби Ватсон, ин ҷо биёед, ман мехоҳам шуморо бинам!» — ва ёвари ӯ ин суханонро аз ҳуҷраи дигар шунид. Ин лаҳзаи бузург дар таърихи ҷаҳон буд. Имрӯз миллиардҳо одамон ҳар рӯз телефонҳо ва телефонҳои мобилӣ истифода мебаранд.\n\nБародарон Райт — Вилбур ва Орвилл — ду ихтироъкори амрикоӣ буданд. Онҳо аввалин тайёраро ихтироъ карданд. Аввалин парвози онҳо дар соли 1903 буд. Тайёра танҳо дувоздаҳ сония дар ҳаво монд. Аммо ин қадами бузург барои ҳамаи одамон буд. Имрӯз тайёраҳо ба ҳар гӯшаи ҷаҳон парвоз мекунанд.\n\nВа, албатта, ман мехоҳам ба шумо дар бораи олими бузурги тоҷики мо нақл кунам. Номи ӯ Бобоҷон Ғафуров буд. Ӯ таърихшинос ва нависандаи машҳур буд. Ӯ таърихи мардуми тоҷикро меомӯхт ва китобҳои муҳими зиёд менавишт. Ӯ ба кишвар ва мардуми мо хеле ифтихор мекард. Инчунин олимон, нависандагон ва шоирони дигари машҳури тоҷик ҳастанд: Рӯдакӣ, Ибни Сино, Ал-Хоразмӣ ва дигарон. Ибни Сино духтур ва файласуфи бузург буд. Ӯ ҳазор сол пеш зиндагӣ мекард, аммо китобҳои ӯ дар бораи тиб ҳанӯз ҳам дар донишгоҳҳо омӯхта мешаванд. Ал-Хоразмӣ математики бузург буд. Калимаи «алгебра» аз китобҳои ӯ меояд. Мо бояд ба олимони бузурги худ ифтихор кунем!\n\nҲамаи ин одамони бузург хеле гуногун буданд. Онҳо дар кишварҳои гуногун ва дар асрҳои гуногун зиндагӣ мекарданд. Аммо онҳо се чизи умумӣ доштанд. Аввал, онҳо хеле кунҷков буданд — онҳо ҳамеша савол медоданд. Дуюм, онҳо хеле бо ҷидду ҷаҳд кор мекарданд — шабу рӯз, солҳои зиёд. Сеюм, онҳо хеле сабрнок буданд — онҳо вақте ки ноком мешуданд, намеистоданд, балки кори худро идома медоданд. Ин се хислат олими ҳақиқиро месозанд.\n\nВақте ки ман калон мешавам, ман низ мехоҳам олим шавам. Ман мехоҳам биология ва тибро омӯзам. Ман мехоҳам ба беморон кӯмак кунам, доруҳои нав кашф кунам ва ҷаҳони моро ҷои беҳтар ва солимтар созам. Ман медонам, ки ин осон нест. Ман медонам, ки бояд бо ҷидду ҷаҳд таҳсил кунам, китобҳои зиёд хонам ва таҷрибаҳои зиёд гузаронам. Аммо ман суханони Томас Эдисонро ба ёд меорам: «Истеъдод як фоизи илҳом ва наваду нӯҳ фоизи меҳнат аст.» Пас, ман бо ҷидду ҷаҳд кор мекунам ва қадам ба қадам ба орзуи худ мерасам."
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Олим табиат ва ҷаҳони атрофи моро меомӯзад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи understand",
-        "нодуруст C",
-        "нодуруст B"
+        "A scientist studies nature and the world around us.",
+        "A scientist learns nature and the world around us.",
+        "A scientist studies the nature and the world around us.",
+        "The scientist studies nature and the world around us."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "A scientist studies nature and the world around us."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Телефон ихтирои бузурги асри нуздаҳум аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи explain",
-        "нодуруст B"
+        "The telephone is a great invention of the nineteenth century.",
+        "The telephone is a great invention of the 19th century.",
+        "The telephone is a great invention of nineteen century.",
+        "The telephone is the great invention of the nineteenth century."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "The telephone is a great invention of the nineteenth century."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Ихтироъкор мошини нав барои деҳқонон сохт» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи important",
-        "нодуруст B",
-        "нодуруст C"
+        "The inventor made a new machine for farmers.",
+        "The inventor built a new machine for farmers.",
+        "The inventor made a new car for farmers.",
+        "The inventor created a new machine for farmers."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "The inventor made a new machine for farmers."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Кашфи Америка дар соли ҳазору чорсаду наваду ду буд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи different",
-        "нодуруст A"
+        "The discovery of America was in fourteen ninety-two.",
+        "The discovery of America was in 1492.",
+        "The discovery of America was in fourteen hundred ninety-two.",
+        "The discovery of America happened in fourteen ninety-two."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "The discovery of America was in fourteen ninety-two."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Олимон ҳар сол чизҳои навро кашф мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи difficult",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Scientists discover new things every year.",
+        "Scientists find new things every year.",
+        "The scientists discover new things every year.",
+        "Scientists discover new things every day."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "Scientists discover new things every year."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Ӯ барои завод мошини нав ихтироъ кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи easy",
-        "нодуруст C",
-        "нодуруст A"
+        "He invented a new machine for the factory.",
+        "He invented a new machine for the plant.",
+        "He made a new machine for the factory.",
+        "He invented a new machine in the factory."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "He invented a new machine for the factory."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Олим шабу рӯз дар озмоишгоҳи худ кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи interesting",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The scientist works in his laboratory day and night.",
+        "The scientist works in his laboratory night and day.",
+        "The scientist works in the laboratory day and night.",
+        "The scientist works in his lab day and night."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "The scientist works in his laboratory day and night."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Мо дар мактаб таҷрибаи ҷолиб гузаронидем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи remember",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "We did an interesting experiment at school.",
+        "We made an interesting experiment at school.",
+        "We did an interesting experiment in school.",
+        "We did a good experiment at school."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "We did an interesting experiment at school."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Мо ба чизҳои хеле хурд тавассути микроскоп нигоҳ мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи forget",
-        "нодуруст A",
-        "нодуруст C"
+        "We look at very small things through a microscope.",
+        "We look at very small things in a microscope.",
+        "We look at very small things through the microscope.",
+        "We see very small things through a microscope."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "We look at very small things through a microscope."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Мо ба ситораҳо тавассути телескоп нигоҳ мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи homework",
-        "нодуруст C",
-        "нодуруст B"
+        "We look at the stars through a telescope.",
+        "We look at stars through a telescope.",
+        "We look at the stars in a telescope.",
+        "We look at the stars through the telescope."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "We look at the stars through a telescope."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Олимон кайҳон ва уқёнусро тадқиқ мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи exercise",
-        "нодуруст A"
+        "Scientists explore space and the ocean.",
+        "Scientists explore space and the sea.",
+        "The scientists explore space and the ocean.",
+        "Scientists explore the space and the ocean."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "Scientists explore space and the ocean."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Одам дар соли ҳазору нӯҳсаду шасту як ба кайҳон парвоз кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи text",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Man flew into space in nineteen sixty-one.",
+        "Man flew into space in 1961.",
+        "Man flew to space in nineteen sixty-one.",
+        "A man flew into space in nineteen sixty-one."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "Man flew into space in nineteen sixty-one."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Барқ ҳаёти моро осон ва бароҳат мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи story"
+        "Electricity makes our life easy and comfortable.",
+        "Electricity makes our lives easy and comfortable.",
+        "Electricity makes our life easy and good.",
+        "The electricity makes our life easy and comfortable."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "Electricity makes our life easy and comfortable."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Одамони бузург метавонанд ҷаҳонро ба беҳтар тағйир диҳанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи question",
-        "нодуруст C"
+        "Great people can change the world for the better.",
+        "Great people can change the world to the better.",
+        "Great men can change the world for the better.",
+        "Great people can change our world for the better."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "Great people can change the world for the better."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Ӯ олими бузург ва одами меҳрубон буд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи answer",
-        "нодуруст B"
+        "He was a great scientist and a kind man.",
+        "He was a great scientist and kind man.",
+        "She was a great scientist and a kind woman.",
+        "He was a great scientist and a good man."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "He was a great scientist and a kind man."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Олим дар тамоми ҷаҳон машҳур шуд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи understand"
+        "The scientist became famous all over the world.",
+        "The scientist became famous in the world.",
+        "The scientist became well-known all over the world.",
+        "The scientist became famous all around the world."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "The scientist became famous all over the world."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Ман китобҳо дар бораи одамони бузург — олимон, ихтироъкорон ва сайёҳон хонданро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи explain",
-        "нодуруст A",
-        "нодуруст C"
+        "I love to read books about great people — scientists, inventors and travellers.",
+        "I love reading books about great people — scientists, inventors and travellers.",
+        "I like to read books about great people — scientists, inventors and travellers.",
+        "I love to read books about great people — scientists, inventors and travelers."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "I love to read books about great people — scientists, inventors and travellers."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Ҳаёти онҳо хеле ҷолиб аст. Онҳо ҷаҳони моро тағйир доданд ва ҳаёти моро беҳтар карданд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи important",
-        "нодуруст A"
+        "Their lives are very interesting. They changed our world and made our life better.",
+        "Their life is very interesting. They changed our world and made our life better.",
+        "Their lives are very interesting. They changed our world and made our lives better.",
+        "Their lives are very interesting. They changed the world and made our life better."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "Their lives are very interesting. They changed our world and made our life better."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Имрӯз ман мехоҳам ба шумо дар бораи баъзе аз бузургтарин олимон ва ихтироъкорони таърихи ҷаҳон нақл кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи different",
-        "нодуруст B"
+        "Today I want to tell you about some of the greatest scientists and inventors in the history of the world.",
+        "Today I want to tell you about some of the greatest scientists and inventors in the world history.",
+        "Today I want to tell you about some of the greatest scientists and inventors in history of the world.",
+        "Today I want to tell you about some of the greatest scientists and inventors in the world's history."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "Today I want to tell you about some of the greatest scientists and inventors in the history of the world."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Олимон савол медиҳанд, таҷриба мегузаронанд ва кӯшиш мекунанд, ки ҷавоб ёбанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи difficult",
-        "нодуруст B",
-        "нодуруст A"
+        "Scientists ask questions, do experiments and try to find answers.",
+        "Scientists ask questions, make experiments and try to find answers.",
+        "Scientists ask questions, do experiments and try to find the answers.",
+        "The scientists ask questions, do experiments and try to find answers."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "Scientists ask questions, do experiments and try to find answers."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Онҳо дар озмоишгоҳҳо кор мекунанд ва мошинҳои махсус истифода мебаранд: микроскопро барои дидани чизҳои хеле хурд ва телескопро барои дидани ситораҳо ва сайёраҳо» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи easy"
+        "They work in laboratories and use special machines: microscopes to see very small things, and telescopes to see the stars and the planets.",
+        "They work in laboratories and use special machines: a microscope to see very small things, and a telescope to see the stars and the planets.",
+        "They work in the laboratories and use special machines: microscopes to see very small things, and telescopes to see the stars and the planets.",
+        "They work in laboratories and use special machines: microscopes to look at very small things, and telescopes to look at the stars and the planets."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "They work in laboratories and use special machines: microscopes to see very small things, and telescopes to see the stars and the planets."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Олим бояд хеле зирак, сабрнок ва меҳнатдӯст бошад. Ӯ бояд илмро аз ҳама чиз бештар дӯст дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи interesting",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "A scientist must be very clever, patient and hard-working. He or she must love science more than anything else.",
+        "A scientist must be very clever, patient and hard-working. He or she must love science more than anything.",
+        "A scientist must be very clever, patient and hardworking. He or she must love science more than anything else.",
+        "A scientist should be very clever, patient and hard-working. He or she must love science more than anything else."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "A scientist must be very clever, patient and hard-working. He or she must love science more than anything else."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Падарам мегӯяд: \"Олим одамест, ки ҳеҷ гоҳ савол доданро бас намекунад.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи remember",
-        "нодуруст B",
-        "нодуруст C"
+        "My father says: \"A scientist is a person who never stops asking questions.\"",
+        "My father says: \"A scientist is a man who never stops asking questions.\"",
+        "My father says: \"The scientist is a person who never stops asking questions.\"",
+        "My father says: \"A scientist is a person who never stops asking questions.\""
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "My father says: \"A scientist is a person who never stops asking questions.\""
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Яке аз бузургтарин олимони ҷаҳон Исаак Нютон буд. Ӯ беш аз сесад сол пеш дар Англия зиндагӣ мекард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи forget"
+        "One of the greatest scientists in the world was Isaac Newton. He lived in England more than three hundred years ago.",
+        "One of the greatest scientists of the world was Isaac Newton. He lived in England more than three hundred years ago.",
+        "One of the greatest scientists in the world was Isaac Newton. He lived in England over three hundred years ago.",
+        "One of the world's greatest scientists was Isaac Newton. He lived in England more than three hundred years ago."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "One of the greatest scientists in the world was Isaac Newton. He lived in England more than three hundred years ago."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Нютон физик ва математики бузург буд. Ӯ қонуни ҷозибаро кашф кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи homework",
-        "нодуруст C"
+        "Newton was a great physicist and mathematician. He discovered the law of gravity.",
+        "Newton was a great physicist and a mathematician. He discovered the law of gravity.",
+        "Newton was a great physicist and mathematician. He invented the law of gravity.",
+        "Newton was a great physicist and mathematician. He discovered the law of gravitation."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "Newton was a great physicist and mathematician. He discovered the law of gravity."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Як рӯз ӯ дар зери дарахти себ дар боғи худ нишаста буд ва себ ба сари ӯ афтод» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи exercise",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "One day he was sitting under an apple tree in his garden, and an apple fell down on his head.",
+        "One day he was sitting under an apple tree in his garden, and an apple fell on his head.",
+        "One day he was sitting under the apple tree in his garden, and an apple fell down on his head.",
+        "One day he sat under an apple tree in his garden, and an apple fell down on his head."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "One day he was sitting under an apple tree in his garden, and an apple fell down on his head."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Нютон фикр кард: \"Чаро себ ба поён афтод? Чаро ба боло не?\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи text",
-        "нодуруст A",
-        "нодуруст C"
+        "Newton thought: \"Why did the apple fall down? Why not up?\"",
+        "Newton thought: \"Why did the apple fall down? Why not up?\"",
+        "Newton thought: \"Why did an apple fall down? Why not up?\"",
+        "Newton thought: \"Why did the apple fall? Why not up?\""
       ],
-      "answer": "тарҷумаи text"
+      "answer": "Newton thought: \"Why did the apple fall down? Why not up?\""
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Ӯ ин саволро солҳои зиёд омӯхт ва қонуни ҷозибаро кашф кард. Ин кашфиёт физика ва астрономияро ба таври ҳамешагӣ тағйир дод» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи story",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "He studied this question for many years and discovered the law of gravity. This discovery changed physics and astronomy forever.",
+        "He studied this question for many years and discovered the law of gravity. This discovery changed physics and astronomy for ever.",
+        "He studied this question for many years and discovered the law of gravity. That discovery changed physics and astronomy forever.",
+        "He studied that question for many years and discovered the law of gravity. This discovery changed physics and astronomy forever."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "He studied this question for many years and discovered the law of gravity. This discovery changed physics and astronomy forever."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Нютон одами хеле камтарбин буд. Ӯ гуфт: \"Агар ман дуртар дида бошам, ин аз он аст, ки ман дар китфҳои азимон истодаам.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи question",
-        "нодуруст C",
-        "нодуруст A"
+        "Newton was a very modest man. He said: \"If I have seen further, it is by standing on the shoulders of giants.\"",
+        "Newton was a very modest man. He said: \"If I have seen further, it is because I am standing on the shoulders of giants.\"",
+        "Newton was a very modest person. He said: \"If I have seen further, it is by standing on the shoulders of giants.\"",
+        "Newton was a very modest man. He said: \"If I have seen farther, it is by standing on the shoulders of giants.\""
       ],
-      "answer": "тарҷумаи question"
+      "answer": "Newton was a very modest man. He said: \"If I have seen further, it is by standing on the shoulders of giants.\""
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Олими дигари бузург Альберт Эйнштейн буд. Ӯ дар асри бистум дар Олмон ва дар Америка зиндагӣ мекард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи answer",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "Another great scientist was Albert Einstein. He lived in Germany and in America in the twentieth century.",
+        "Another great scientist was Albert Einstein. He lived in Germany and America in the twentieth century.",
+        "The other great scientist was Albert Einstein. He lived in Germany and in America in the twentieth century.",
+        "Another great scientist was Albert Einstein. He lived in Germany and in America in the 20th century."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "Another great scientist was Albert Einstein. He lived in Germany and in America in the twentieth century."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Эйнштейн физики хеле зирак буд. Ӯ назарияи нисбиятро кашф кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи understand",
-        "нодуруст A",
-        "нодуруст B"
+        "Einstein was a very clever physicist. He discovered the theory of relativity.",
+        "Einstein was a very clever physicist. He discovered the theory of relativity.",
+        "Einstein was a very smart physicist. He discovered the theory of relativity.",
+        "Einstein was a very clever physician. He discovered the theory of relativity."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "Einstein was a very clever physicist. He discovered the theory of relativity."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Ин назарияи хеле душвор буд ва бисёр олимон аввал ба он бовар накарданд. Аммо баъдтар назарияи ӯ дуруст буданаш исбот шуд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи explain",
-        "нодуруст A",
-        "нодуруст B"
+        "It was a very difficult theory, and many scientists did not believe it at first. But later his theory was proved to be correct.",
+        "It was a very difficult theory and many scientists did not believe it at first. But later his theory was proved to be correct.",
+        "It was a very hard theory, and many scientists did not believe it at first. But later his theory was proved to be correct.",
+        "It was a very difficult theory, and many scientists did not believe in it at first. But later his theory was proved to be correct."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "It was a very difficult theory, and many scientists did not believe it at first. But later his theory was proved to be correct."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Эйнштейн дар соли 1921 Ҷоизаи Нобелро дар физика гирифт. Ӯ одами хеле меҳрубон ва содда буд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи important",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Einstein won the Nobel Prize in physics in 1921. He was a very kind and simple man.",
+        "Einstein won the Nobel Prize in physics in 1921. He was a very kind and simple person.",
+        "Einstein got the Nobel Prize in physics in 1921. He was a very kind and simple man.",
+        "Einstein won the Nobel Prize in Physics in 1921. He was a very kind and simple man."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "Einstein won the Nobel Prize in physics in 1921. He was a very kind and simple man."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Эйнштейн гуфт: \"Тасаввур аз дониш муҳимтар аст. Дониш маҳдуд аст, аммо тасаввур ҳудуд надорад.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи different",
-        "нодуруст A",
-        "нодуруст B"
+        "Einstein said: \"Imagination is more important than knowledge. Knowledge is limited, but imagination has no limits.\"",
+        "Einstein said: \"Imagination is more important than knowledge. Knowledge is limited but imagination has no limits.\"",
+        "Einstein said: \"Imagination is more important than knowledge. Knowledge is limited, but the imagination has no limits.\"",
+        "Einstein said: \"Imagination is more important than knowledge. Knowledge is limited, but imagination has no limit.\""
       ],
-      "answer": "тарҷумаи different"
+      "answer": "Einstein said: \"Imagination is more important than knowledge. Knowledge is limited, but imagination has no limits.\""
+    },
+    {
+      "q": "«Зани олими барҷаста Мария Кюри буд. Ӯ дар Лаҳистон ва дар Фаронса зиндагӣ мекард» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "An outstanding woman scientist was Marie Curie. She lived in Poland and in France.",
+        "An outstanding scientist was Marie Curie. She lived in Poland and in France.",
+        "An outstanding woman scientist was Marie Curie. She lived in Poland and France.",
+        "The outstanding woman scientist was Marie Curie. She lived in Poland and in France."
+      ],
+      "answer": "An outstanding woman scientist was Marie Curie. She lived in Poland and in France."
+    },
+    {
+      "q": "«Ӯ физик ва химик буд. Ӯ радиоактивиятро меомӯхт» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "She was a physicist and a chemist. She studied radioactivity.",
+        "She was a physicist and chemist. She studied radioactivity.",
+        "She was a physician and a chemist. She studied radioactivity.",
+        "She was a physicist and a chemist. She studied radiation."
+      ],
+      "answer": "She was a physicist and a chemist. She studied radioactivity."
+    },
+    {
+      "q": "«Мария Кюри аввалин зан дар ҷаҳон буд, ки Ҷоизаи Нобелро гирифт. Ва ӯ онро ду маротиба гирифт! — аввал дар физика ва баъд дар химия» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Marie Curie was the first woman in the world to win a Nobel Prize. And she won it twice! — first in physics and then in chemistry.",
+        "Marie Curie was the first woman in the world to win the Nobel Prize. And she won it twice! — first in physics and then in chemistry.",
+        "Marie Curie was the first woman in the world to get a Nobel Prize. And she won it twice! — first in physics and then in chemistry.",
+        "Marie Curie was the first woman in the world who won a Nobel Prize. And she won it twice! — first in physics and then in chemistry."
+      ],
+      "answer": "Marie Curie was the first woman in the world to win a Nobel Prize. And she won it twice! — first in physics and then in chemistry."
+    },
+    {
+      "q": "«Ӯ гуфт: \"Дар ҳаёт аз ҳеҷ чиз набояд тарсид, танҳо бояд фаҳмид.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "She said: \"Nothing in life is to be feared, it is only to be understood.\"",
+        "She said: \"Nothing in life is to be feared, it is only to be understood.\"",
+        "She said: \"Nothing in life must be feared, it is only to be understood.\"",
+        "She said: \"Nothing in life should be feared, it is only to be understood.\""
+      ],
+      "answer": "She said: \"Nothing in life is to be feared, it is only to be understood.\""
+    },
+    {
+      "q": "«Ихтироъкор одамест, ки мошинҳои нав ё чизҳои нав месозад. Яке аз машҳуртарин ихтироъкорон Томас Эдисон буд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "An inventor is a person who makes new machines or new things. One of the most famous inventors was Thomas Edison.",
+        "An inventor is a man who makes new machines or new things. One of the most famous inventors was Thomas Edison.",
+        "An inventor is a person who creates new machines or new things. One of the most famous inventors was Thomas Edison.",
+        "An inventor is a person who makes new machines or things. One of the most famous inventors was Thomas Edison."
+      ],
+      "answer": "An inventor is a person who makes new machines or new things. One of the most famous inventors was Thomas Edison."
+    },
+    {
+      "q": "«Ӯ дар Америка зиндагӣ мекард. Эдисон лампаи барқӣ ва фонографро ихтироъ кард. Ӯ дар ҳаёти худ беш аз ҳазор ихтироъ кард!» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He lived in America. Edison invented the electric light bulb and the phonograph. He made more than one thousand inventions in his life!",
+        "He lived in America. Edison invented the electric light bulb and the phonograph. He made over one thousand inventions in his life!",
+        "He lived in America. Edison invented the electric lamp and the phonograph. He made more than one thousand inventions in his life!",
+        "He lived in America. Edison invented the electric light bulb and the phonograph. He made more than a thousand inventions in his life!"
+      ],
+      "answer": "He lived in America. Edison invented the electric light bulb and the phonograph. He made more than one thousand inventions in his life!"
+    },
+    {
+      "q": "«Вақте ки одамон мегуфтанд, ки ӯ хеле зирак аст, Эдисон ҷавоб медод: \"Истеъдод як фоизи илҳом ва наваду нӯҳ фоизи меҳнат аст.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When people said that he was very clever, Edison answered: \"Genius is one percent inspiration and ninety-nine percent perspiration.\"",
+        "When people said that he was very clever, Edison answered: \"Genius is one percent inspiration and 99 percent perspiration.\"",
+        "When people said he was very clever, Edison answered: \"Genius is one percent inspiration and ninety-nine percent perspiration.\"",
+        "When people said that he was very smart, Edison answered: \"Genius is one percent inspiration and ninety-nine percent perspiration.\""
+      ],
+      "answer": "When people said that he was very clever, Edison answered: \"Genius is one percent inspiration and ninety-nine percent perspiration.\""
+    },
+    {
+      "q": "«Ин маънои онро дорад, ки барои ихтироъ кардани чизи бузург шумо бояд хеле бо ҷидду ҷаҳд кор кунед» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "This means that to invent something great, you must work very hard.",
+        "It means that to invent something great, you must work very hard.",
+        "This means that to invent something great you must work very hard.",
+        "This means that to make something great, you must work very hard."
+      ],
+      "answer": "This means that to invent something great, you must work very hard."
+    },
+    {
+      "q": "«Александр Грэм Белл дар соли 1876 телефонро ихтироъ кард. Ӯ муаллими одамони гунг буд ва ӯ инчунин ихтироъкори бузург буд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Alexander Graham Bell invented the telephone in 1876. He was a teacher for deaf people, and he was also a great inventor.",
+        "Alexander Graham Bell invented the telephone in 1876. He was a teacher of deaf people, and he was also a great inventor.",
+        "Alexander Graham Bell invented the telephone in 1876. He was a teacher for the deaf, and he was also a great inventor.",
+        "Alexander Graham Bell invented the telephone in eighteen seventy-six. He was a teacher for deaf people, and he was also a great inventor."
+      ],
+      "answer": "Alexander Graham Bell invented the telephone in 1876. He was a teacher for deaf people, and he was also a great inventor."
+    },
+    {
+      "q": "«Вақте ки ӯ аввалин занги телефонро кард, ӯ ба ёвари худ гуфт: \"Ҷаноби Ватсон, ин ҷо биёед, ман мехоҳам шуморо бинам!\" — ва ёвари ӯ ин суханонро аз ҳуҷраи дигар шунид» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When he made the first telephone call, he said to his assistant: \"Mr. Watson, come here, I want to see you!\" — and his assistant heard these words from another room.",
+        "When he made the first telephone call, he said to his assistant: \"Mr. Watson, come here, I want to see you!\" and his assistant heard these words from another room.",
+        "When he made the first telephone call he said to his assistant: \"Mr. Watson, come here, I want to see you!\" — and his assistant heard these words from another room.",
+        "When he made the first telephone call, he told his assistant: \"Mr. Watson, come here, I want to see you!\" — and his assistant heard these words from another room."
+      ],
+      "answer": "When he made the first telephone call, he said to his assistant: \"Mr. Watson, come here, I want to see you!\" — and his assistant heard these words from another room."
+    },
+    {
+      "q": "«Ин лаҳзаи бузург дар таърихи ҷаҳон буд. Имрӯз миллиардҳо одамон ҳар рӯз телефонҳо ва телефонҳои мобилӣ истифода мебаранд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It was a great moment in the history of the world. Today billions of people use telephones and mobile phones every day.",
+        "It was a great moment in the history of the world. Today billions of people use phones and mobile phones every day.",
+        "It was a great moment in world history. Today billions of people use telephones and mobile phones every day.",
+        "It was a great moment in the history of the world. Today billions of people use the telephone and mobile phones every day."
+      ],
+      "answer": "It was a great moment in the history of the world. Today billions of people use telephones and mobile phones every day."
+    },
+    {
+      "q": "«Бародарон Райт — Вилбур ва Орвилл — ду ихтироъкори амрикоӣ буданд. Онҳо аввалин тайёраро ихтироъ карданд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The Wright brothers — Wilbur and Orville — were two American inventors. They invented the first aeroplane.",
+        "The Wright brothers — Wilbur and Orville — were two American inventors. They invented the first airplane.",
+        "The Wright brothers — Wilbur and Orville — were two American inventors. They made the first aeroplane.",
+        "The Wright brothers — Wilbur and Orville — were two American inventors. They invented the first plane."
+      ],
+      "answer": "The Wright brothers — Wilbur and Orville — were two American inventors. They invented the first aeroplane."
+    },
+    {
+      "q": "«Аввалин парвози онҳо дар соли 1903 буд. Тайёра танҳо дувоздаҳ сония дар ҳаво монд. Аммо ин қадами бузург барои ҳамаи одамон буд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Their first flight was in 1903. The plane stayed in the air for only twelve seconds. But it was a huge step for all people.",
+        "Their first flight was in 1903. The plane stayed in the air for only twelve seconds. But it was a great step for all people.",
+        "Their first flight was in nineteen oh three. The plane stayed in the air for only twelve seconds. But it was a huge step for all people.",
+        "Their first flight was in 1903. The plane stayed in the air only twelve seconds. But it was a huge step for all people."
+      ],
+      "answer": "Their first flight was in 1903. The plane stayed in the air for only twelve seconds. But it was a huge step for all people."
+    },
+    {
+      "q": "«Ва, албатта, ман мехоҳам ба шумо дар бораи олими бузурги тоҷики мо нақл кунам. Номи ӯ Бобоҷон Ғафуров буд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "And, of course, I want to tell you about our great Tajik scientist. His name was Bobojon Gafurov.",
+        "And of course, I want to tell you about our great Tajik scientist. His name was Bobojon Gafurov.",
+        "And, of course, I want to tell you about the great Tajik scientist. His name was Bobojon Gafurov.",
+        "And, of course, I want to tell you about our great Tajik scientist. His name was Bobojon Ghafurov."
+      ],
+      "answer": "And, of course, I want to tell you about our great Tajik scientist. His name was Bobojon Gafurov."
+    },
+    {
+      "q": "«Ӯ таърихшинос ва нависандаи машҳур буд. Ӯ таърихи мардуми тоҷикро меомӯхт ва китобҳои муҳими зиёд менавишт» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He was a famous historian and writer. He studied the history of the Tajik people and wrote many important books.",
+        "He was a famous historian and a writer. He studied the history of the Tajik people and wrote many important books.",
+        "He was a well-known historian and writer. He studied the history of the Tajik people and wrote many important books.",
+        "He was a famous historian and writer. He studied the history of the Tajik people and wrote many important books."
+      ],
+      "answer": "He was a famous historian and writer. He studied the history of the Tajik people and wrote many important books."
+    },
+    {
+      "q": "«Ибни Сино духтур ва файласуфи бузург буд. Ӯ ҳазор сол пеш зиндагӣ мекард, аммо китобҳои ӯ дар бораи тиб ҳанӯз ҳам дар донишгоҳҳо омӯхта мешаванд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Ibn Sino was a great doctor and philosopher. He lived a thousand years ago, but his books about medicine are still studied in universities today.",
+        "Ibn Sino was a great doctor and philosopher. He lived a thousand years ago but his books about medicine are still studied in universities today.",
+        "Ibn Sino was a great doctor and philosopher. He lived a thousand years ago, but his books on medicine are still studied in universities today.",
+        "Ibn Sino was a great physician and philosopher. He lived a thousand years ago, but his books about medicine are still studied in universities today."
+      ],
+      "answer": "Ibn Sino was a great doctor and philosopher. He lived a thousand years ago, but his books about medicine are still studied in universities today."
+    },
+    {
+      "q": "«Ал-Хоразмӣ математики бузург буд. Калимаи \"алгебра\" аз китобҳои ӯ меояд. Мо бояд ба олимони бузурги худ ифтихор кунем!» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Al-Khwarizmi was a great mathematician. The word \"algebra\" comes from his books. We must be proud of our great scientists!",
+        "Al-Khwarizmi was a great mathematician. The word \"algebra\" comes from his books. We should be proud of our great scientists!",
+        "Al-Khwarizmi was a great mathematician. The word \"algebra\" comes from his books. We must be proud of our great scientists!",
+        "Al-Khwarizmi was a great mathematician. The word \"algebra\" comes from his books. We must be proud of our great scientists."
+      ],
+      "answer": "Al-Khwarizmi was a great mathematician. The word \"algebra\" comes from his books. We must be proud of our great scientists!"
+    },
+    {
+      "q": "«Ҳамаи ин одамони бузург хеле гуногун буданд. Онҳо дар кишварҳои гуногун ва дар асрҳои гуногун зиндагӣ мекарданд. Аммо онҳо се чизи умумӣ доштанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "All these great people were very different. They lived in different countries and in different centuries. But they had three things in common.",
+        "All these great people were very different. They lived in different countries and in different centuries. But they had three things in common.",
+        "All of these great people were very different. They lived in different countries and in different centuries. But they had three things in common.",
+        "All these great people were very different. They lived in different countries and in different centuries. But they had three things in common."
+      ],
+      "answer": "All these great people were very different. They lived in different countries and in different centuries. But they had three things in common."
+    },
+    {
+      "q": "«Аввал, онҳо хеле кунҷков буданд — онҳо ҳамеша савол медоданд. Дуюм, онҳо хеле бо ҷидду ҷаҳд кор мекарданд — шабу рӯз, солҳои зиёд. Сеюм, онҳо хеле сабрнок буданд — онҳо вақте ки ноком мешуданд, намеистоданд, балки кори худро идома медоданд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "First, they were very curious — they always asked questions. Second, they worked very hard — day and night, for many years. Third, they were very patient — they did not stop when they failed, but continued their work.",
+        "First, they were very curious — they always asked questions. Second, they worked very hard — day and night, for many years. Third, they were very patient — they did not stop when they failed but continued their work.",
+        "First, they were very curious — they always asked questions. Second, they worked very hard — day and night, for many years. Third, they were very patient — they didn't stop when they failed, but continued their work.",
+        "First, they were very curious — they always asked questions. Second, they worked very hard — day and night, for many years. Third, they were very patient — they did not stop when they failed, but went on with their work."
+      ],
+      "answer": "First, they were very curious — they always asked questions. Second, they worked very hard — day and night, for many years. Third, they were very patient — they did not stop when they failed, but continued their work."
+    },
+    {
+      "q": "«Ин се хислат олими ҳақиқиро месозанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "These three qualities make a real scientist.",
+        "These three qualities make a true scientist.",
+        "These three qualities make the real scientist.",
+        "These three qualities form a real scientist."
+      ],
+      "answer": "These three qualities make a real scientist."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман низ мехоҳам олим шавам. Ман мехоҳам биология ва тибро омӯзам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I also want to be a scientist. I want to study biology and medicine.",
+        "When I grow up, I want to be a scientist too. I want to study biology and medicine.",
+        "When I grow up, I also want to be a scientist. I want to learn biology and medicine.",
+        "When I grow up, I also want to become a scientist. I want to study biology and medicine."
+      ],
+      "answer": "When I grow up, I also want to be a scientist. I want to study biology and medicine."
+    },
+    {
+      "q": "«Ман мехоҳам ба беморон кӯмак кунам, доруҳои нав кашф кунам ва ҷаҳони моро ҷои беҳтар ва солимтар созам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to help sick people, discover new medicines and make our world a better and healthier place.",
+        "I want to help sick people, discover new drugs and make our world a better and healthier place.",
+        "I want to help sick people, discover new medicines and make our world a better and healthier place.",
+        "I want to help sick people, to discover new medicines and make our world a better and healthier place."
+      ],
+      "answer": "I want to help sick people, discover new medicines and make our world a better and healthier place."
+    },
+    {
+      "q": "«Ман медонам, ки ин осон нест. Ман медонам, ки бояд бо ҷидду ҷаҳд таҳсил кунам, китобҳои зиёд хонам ва таҷрибаҳои зиёд гузаронам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I know it is not easy. I know I must study hard, read many books and do many experiments.",
+        "I know it is not easy. I know I must study hard, read many books and make many experiments.",
+        "I know that it is not easy. I know I must study hard, read many books and do many experiments.",
+        "I know it is not easy. I know that I must study hard, read many books and do many experiments."
+      ],
+      "answer": "I know it is not easy. I know I must study hard, read many books and do many experiments."
+    },
+    {
+      "q": "«Аммо ман суханони Томас Эдисонро ба ёд меорам: \"Истеъдод як фоизи илҳом ва наваду нӯҳ фоизи меҳнат аст.\" Пас, ман бо ҷидду ҷаҳд кор мекунам ва қадам ба қадам ба орзуи худ мерасам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "But I remember the words of Thomas Edison: \"Genius is one percent inspiration and ninety-nine percent perspiration.\" So I will work hard, and step by step I will reach my dream.",
+        "But I remember the words of Thomas Edison: \"Genius is one percent inspiration and ninety-nine percent perspiration.\" So I will work hard and step by step I will reach my dream.",
+        "But I remember the words of Thomas Edison: \"Genius is one percent inspiration and ninety-nine percent perspiration.\" So I will work hard, and step by step I will achieve my dream.",
+        "But I remember the words of Thomas Edison: \"Genius is one percent inspiration and ninety-nine percent perspiration.\" So I shall work hard, and step by step I will reach my dream."
+      ],
+      "answer": "But I remember the words of Thomas Edison: \"Genius is one percent inspiration and ninety-nine percent perspiration.\" So I will work hard, and step by step I will reach my dream."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 34
+  "wordsCount": 16
 }
