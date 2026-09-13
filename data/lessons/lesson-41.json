@@ -1,476 +1,822 @@
 {
   "id": 41,
-  "title": "Матн ва машқҳо 41",
-  "level": "Миёна - Синфи 4",
+  "title": "Матн 41: Муҳофизати табиат ва экология",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "ecology",
+      "tj": "экология",
+      "ex": "Ecology is the science about nature."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "environment",
+      "tj": "муҳити зист",
+      "ex": "We must protect the environment."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "pollution",
+      "tj": "ифлосшавӣ",
+      "ex": "Air pollution is a big problem in big cities."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "to pollute",
+      "tj": "ифлос кардан",
+      "ex": "People pollute rivers and lakes."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "to recycle",
+      "tj": "коркард кардан",
+      "ex": "We must recycle paper and plastic."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "planet",
+      "tj": "сайёра",
+      "ex": "The Earth is our planet."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "Earth",
+      "tj": "Замин",
+      "ex": "The Earth is our home."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "future",
+      "tj": "оянда",
+      "ex": "We must think about the future."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "to take care of",
+      "tj": "ғамхорӣ кардан",
+      "ex": "We must take care of our planet."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "to cut down",
+      "tj": "буридан (дарахт)",
+      "ex": "People cut down many trees every year."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "fresh air",
+      "tj": "ҳавои тоза",
+      "ex": "Fresh air is good for our health."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "to breathe",
+      "tj": "нафас гирифтан",
+      "ex": "We breathe fresh air in the mountains."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "oxygen",
+      "tj": "оксиген",
+      "ex": "Trees give us oxygen."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "litter",
+      "tj": "ахлоти кӯча",
+      "ex": "Do not drop litter in the street."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
+      "en": "bin",
+      "tj": "сабади ахлот",
+      "ex": "Put your rubbish in the bin."
     },
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
-    },
-    {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
-    },
-    {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
-    },
-    {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
-    },
-    {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
-    },
-    {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
-    },
-    {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
-    },
-    {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
+      "en": "to save",
+      "tj": "наҷот додан",
+      "ex": "We must save water and electricity."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 41)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Ecology is the science about nature and the environment.",
+      "tj": "Экология илм дар бораи табиат ва муҳити зист аст."
     },
     {
-      "en": "I'm working on lesson 41",
-      "tj": "Ман дарси 41-ро меомӯзам"
+      "en": "We must protect the environment for the future.",
+      "tj": "Мо бояд муҳити зистро барои оянда муҳофизат кунем."
+    },
+    {
+      "en": "Air pollution is a big problem in big cities.",
+      "tj": "Ифлосшавии ҳаво дар шаҳрҳои калон мушкили калон аст."
+    },
+    {
+      "en": "People pollute rivers, lakes and seas with rubbish.",
+      "tj": "Одамон дарёҳо, кӯлҳо ва баҳрҳоро бо ахлот ифлос мекунанд."
+    },
+    {
+      "en": "We must recycle paper, glass and plastic.",
+      "tj": "Мо бояд коғаз, шиша ва пластикро коркард кунем."
+    },
+    {
+      "en": "The Earth is our planet and our home.",
+      "tj": "Замин сайёра ва хонаи мост."
+    },
+    {
+      "en": "We must think about the future of our planet.",
+      "tj": "Мо бояд дар бораи ояндаи сайёраи худ фикр кунем."
+    },
+    {
+      "en": "We must take care of our planet every day.",
+      "tj": "Мо бояд ҳар рӯз ба сайёраи худ ғамхорӣ кунем."
+    },
+    {
+      "en": "People cut down many trees every year.",
+      "tj": "Одамон ҳар сол дарахтони зиёдро мебуранд."
+    },
+    {
+      "en": "Fresh air is very good for our health.",
+      "tj": "Ҳавои тоза барои саломатии мо хеле хуб аст."
+    },
+    {
+      "en": "We breathe fresh air in the mountains.",
+      "tj": "Мо дар кӯҳҳо ҳавои тоза нафас мегирем."
+    },
+    {
+      "en": "Trees give us oxygen and clean air.",
+      "tj": "Дарахтон ба мо оксиген ва ҳавои тоза медиҳанд."
+    },
+    {
+      "en": "Do not drop litter in the street.",
+      "tj": "Дар кӯча ахлот напартоед."
+    },
+    {
+      "en": "Put your rubbish in the bin.",
+      "tj": "Ахлоти худро ба сабади ахлот партоед."
+    },
+    {
+      "en": "We must save water and electricity.",
+      "tj": "Мо бояд об ва барқро сарфа кунем."
+    },
+    {
+      "en": "If we do not protect nature, our future will be bad.",
+      "tj": "Агар мо табиатро муҳофизат накунем, ояндаи мо бад хоҳад буд."
     }
   ],
   "text": {
-    "en": "Text for lesson 41. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 41 is about Миёна - Синфи 4. I write all words in my notebook. Level 41 text.",
-    "tj": "Матни дарси 41..."
+    "en": "Nature Protection and Ecology\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. I love nature very much. I love the mountains, the forests, the rivers and the animals. But today nature is in danger. People pollute the air, the water and the ground. We must protect our planet. We must think about the future.\n\nEcology is the science about nature and the environment. It teaches us how to live in peace with nature. Ecologists study the air, the water, the forests and the animals. They tell us what is good and what is bad for our planet. Everyone must listen to them.\n\nOne of the biggest problems today is air pollution. In big cities there are many cars, buses and factories. They put bad smoke into the air. This smoke is very dangerous for our health. In some cities the air is so dirty that people cannot breathe well. They get ill and cannot work. Trees help us because they clean the air and give us oxygen. But people cut down many trees every year. This is a very big problem.\n\nAnother problem is water pollution. People throw rubbish into rivers, lakes and seas. Factories put dirty water into rivers. Fish and other animals die in this dirty water. In some countries people do not have clean water to drink. We must save water. We must not throw rubbish into rivers and lakes.\n\nLitter is also a big problem. When people walk in parks or forests, they drop litter on the ground. Plastic bags, bottles and paper stay in nature for many years. They look ugly and they are bad for animals. Some animals eat this plastic and die. We must always put our rubbish in the bin. We must recycle paper, glass and plastic.\n\nWhat can we do to help our planet? First, we must not drop litter in the streets, parks and forests. Second, we must plant trees and flowers. Third, we must save water and electricity. Fourth, we must use bicycles more and cars less. Fifth, we must feed birds and animals in winter. Sixth, we must tell other people about ecology. If everyone does these small things, our planet will be clean and beautiful.\n\nMy family and I try to help nature. In our flat we have many flowers on the windowsills. We save water and electricity. We recycle paper and plastic. Every year in spring we plant trees near our school. My grandfather has a big garden. He never uses bad chemicals. He says: \"Nature gives us everything: air, water, food and beauty. We must thank nature and take care of it.\"\n\nI love my country Tajikistan very much. We have beautiful mountains, clean rivers and green forests. We have the snow leopard, the brown bear, the eagle and many other rare animals. We must protect all of them for our children and grandchildren. When I grow up, I want to be an ecologist. I want to help nature and teach people to love and protect our beautiful planet. The Earth is our home. Let us take care of it together!",
+    "tj": "Муҳофизати табиат ва экология\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Ман табиатро хеле дӯст медорам. Ман кӯҳҳо, ҷангалҳо, дарёҳо ва ҳайвонотро дӯст медорам. Аммо имрӯз табиат дар хатар аст. Одамон ҳаво, об ва заминро ифлос мекунанд. Мо бояд сайёраи худро муҳофизат кунем. Мо бояд дар бораи оянда фикр кунем.\n\nЭкология илм дар бораи табиат ва муҳити зист аст. Он ба мо меомӯзонад, ки чӣ тавр бо табиат дар сулҳ зиндагӣ кунем. Экологҳо ҳаво, об, ҷангалҳо ва ҳайвонотро меомӯзанд. Онҳо ба мо мегӯянд, ки чӣ барои сайёраи мо хуб аст ва чӣ бад аст. Ҳама бояд ба онҳо гӯш кунанд.\n\nЯке аз мушкилоти калонтарин имрӯз ифлосшавии ҳавост. Дар шаҳрҳои калон мошинҳо, автобусҳо ва заводҳои зиёд ҳастанд. Онҳо дудҳои бадро ба ҳаво мебароранд. Ин дуд барои саломатии мо хеле хатарнок аст. Дар баъзе шаҳрҳо ҳаво он қадар чиркин аст, ки одамон наметавонанд хуб нафас гиранд. Онҳо бемор мешаванд ва наметавонанд кор кунанд. Дарахтон ба мо кӯмак мекунанд, зеро ки онҳо ҳаворо тоза мекунанд ва ба мо оксиген медиҳанд. Аммо одамон ҳар сол дарахтони зиёдро мебуранд. Ин мушкили хеле калон аст.\n\nМушкили дигар ифлосшавии об аст. Одамон ахлотро ба дарёҳо, кӯлҳо ва баҳрҳо мепартоянд. Заводҳо оби чиркинро ба дарёҳо мебароранд. Моҳиҳо ва ҳайвоноти дигар дар ин оби чиркин мемиранд. Дар баъзе кишварҳо одамон оби тоза барои нӯшидан надоранд. Мо бояд обро сарфа кунем. Мо набояд ахлотро ба дарёҳо ва кӯлҳо партоем.\n\nАхлоти кӯча низ мушкили калон аст. Вақте ки одамон дар боғҳо ё ҷангалҳо қадам мезананд, онҳо ахлотро ба замин мепартоянд. Халтаҳои пластикӣ, шишаҳо ва коғазҳо солҳои зиёд дар табиат мемонанд. Онҳо зишт менамоянд ва барои ҳайвонот бад ҳастанд. Баъзе ҳайвонот ин пластикро мехӯранд ва мемиранд. Мо бояд ҳамеша ахлоти худро ба сабади ахлот партоем. Мо бояд коғаз, шиша ва пластикро коркард кунем.\n\nБарои кӯмак ба сайёраи худ мо чӣ кор карда метавонем? Аввал, мо набояд дар кӯчаҳо, боғҳо ва ҷангалҳо ахлот партоем. Дуюм, мо бояд дарахтон ва гулҳо шинонем. Сеюм, мо бояд об ва барқро сарфа кунем. Чорум, мо бояд дучархаҳоро бештар ва мошинҳоро камтар истифода барем. Панҷум, мо бояд дар зимистон ба паррандаҳо ва ҳайвонот хӯрок диҳем. Шашум, мо бояд ба одамони дигар дар бораи экология нақл кунем. Агар ҳар кас ин корҳои хурдро кунад, сайёраи мо тоза ва зебо хоҳад шуд.\n\nМан ва оилаам кӯшиш мекунем, ки ба табиат кӯмак кунем. Дар хонаи мо дар тирезаҳо гулҳои зиёд ҳастанд. Мо об ва барқро сарфа мекунем. Мо коғаз ва пластикро коркард мекунем. Ҳар сол дар баҳор мо дар назди мактабамон дарахтон мешинонем. Бобоям боғи калон дорад. Ӯ ҳеҷ гоҳ кимиёвии бадро истифода намебарад. Ӯ мегӯяд: «Табиат ба мо ҳама чизро медиҳад: ҳаво, об, ғизо ва зебоиро. Мо бояд ба табиат ташаккур гӯем ва ба он ғамхорӣ кунем.»\n\nМан кишвари Тоҷикистонамро хеле дӯст медорам. Мо кӯҳҳои зебо, дарёҳои тоза ва ҷангалҳои сабз дорем. Мо барфпланг, хирси қаҳваранг, уқоб ва ҳайвоноти дигари камёб дорем. Мо бояд ҳамаи онҳоро барои кӯдакон ва набераҳоямон муҳофизат кунем. Вақте ки ман калон мешавам, ман мехоҳам эколог шавам. Ман мехоҳам ба табиат кӯмак кунам ва ба одамон табиатро дӯст доштан ва сайёраи зебоямонро муҳофизат карданро омӯзонам. Замин хонаи мост. Биёед якҷоя ба он ғамхорӣ кунем!"
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Экология илм дар бораи табиат ва муҳити зист аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи understand",
-        "нодуруст C"
+        "Ecology is the science about nature and the environment.",
+        "Ecology is the science about nature and animals.",
+        "Ecology is the study about nature and the environment.",
+        "Ecology is the science of nature and the environment."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "Ecology is the science about nature and the environment."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Мо бояд муҳити зистро барои оянда муҳофизат кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи explain"
+        "We must protect the environment for the future.",
+        "We must protect the nature for the future.",
+        "We should protect the environment for the future.",
+        "We must protect the environment for our future."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "We must protect the environment for the future."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Ифлосшавии ҳаво дар шаҳрҳои калон мушкили калон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи important"
+        "Air pollution is a big problem in big cities.",
+        "Air pollution is a big problem in big towns.",
+        "Water pollution is a big problem in big cities.",
+        "Air pollution is a great problem in big cities."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "Air pollution is a big problem in big cities."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Одамон дарёҳо, кӯлҳо ва баҳрҳоро бо ахлот ифлос мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи different",
-        "нодуруст C"
+        "People pollute rivers, lakes and seas with rubbish.",
+        "People pollute rivers, lakes and seas with litter.",
+        "People pollute rivers, lakes and oceans with rubbish.",
+        "People make rivers, lakes and seas dirty with rubbish."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "People pollute rivers, lakes and seas with rubbish."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Мо бояд коғаз, шиша ва пластикро коркард кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи difficult"
+        "We must recycle paper, glass and plastic.",
+        "We must recycle paper, bottles and plastic.",
+        "We should recycle paper, glass and plastic.",
+        "We must recycle paper, glass and metal."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "We must recycle paper, glass and plastic."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Замин сайёра ва хонаи мост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи easy",
-        "нодуруст B",
-        "нодуруст A"
+        "The Earth is our planet and our home.",
+        "The Earth is our planet and our house.",
+        "The Earth is a planet and our home.",
+        "The Earth is our world and our home."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "The Earth is our planet and our home."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Мо бояд дар бораи ояндаи сайёраи худ фикр кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи interesting"
+        "We must think about the future of our planet.",
+        "We must think about the future of our Earth.",
+        "We should think about the future of our planet.",
+        "We must think of the future of our planet."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "We must think about the future of our planet."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Мо бояд ҳар рӯз ба сайёраи худ ғамхорӣ кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи remember",
-        "нодуруст B",
-        "нодуруст C"
+        "We must take care of our planet every day.",
+        "We must take care of our Earth every day.",
+        "We should take care of our planet every day.",
+        "We must look after our planet every day."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "We must take care of our planet every day."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Одамон ҳар сол дарахтони зиёдро мебуранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи forget",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "People cut down many trees every year.",
+        "People cut many trees every year.",
+        "People cut down many forests every year.",
+        "People cut down many trees every day."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "People cut down many trees every year."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Ҳавои тоза барои саломатии мо хеле хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи homework",
-        "нодуруст A",
-        "нодуруст B"
+        "Fresh air is very good for our health.",
+        "Clean air is very good for our health.",
+        "Fresh air is good for our health.",
+        "Fresh air is very useful for our health."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "Fresh air is very good for our health."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Мо дар кӯҳҳо ҳавои тоза нафас мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи exercise",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "We breathe fresh air in the mountains.",
+        "We take fresh air in the mountains.",
+        "We breathe fresh air in the forest.",
+        "We breathe clean air in the mountains."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "We breathe fresh air in the mountains."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Дарахтон ба мо оксиген ва ҳавои тоза медиҳанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи text",
-        "нодуруст C",
-        "нодуруст B"
+        "Trees give us oxygen and clean air.",
+        "Trees give us oxygen and fresh air.",
+        "Trees give us oxygen and good air.",
+        "Trees bring us oxygen and clean air."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "Trees give us oxygen and clean air."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Дар кӯча ахлот напартоед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи story",
-        "нодуруст B"
+        "Do not drop litter in the street.",
+        "Do not drop rubbish in the street.",
+        "Do not throw litter in the street.",
+        "Don't drop litter in the street."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "Do not drop litter in the street."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Ахлоти худро ба сабади ахлот партоед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи question",
-        "нодуруст A"
+        "Put your rubbish in the bin.",
+        "Put your litter in the bin.",
+        "Put your rubbish in the box.",
+        "Put your rubbish into the bin."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "Put your rubbish in the bin."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Мо бояд об ва барқро сарфа кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи answer",
-        "нодуруст B",
-        "нодуруст C"
+        "We must save water and electricity.",
+        "We must save water and energy.",
+        "We should save water and electricity.",
+        "We must keep water and electricity."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "We must save water and electricity."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Агар мо табиатро муҳофизат накунем, ояндаи мо бад хоҳад буд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи understand",
-        "нодуруст B",
-        "нодуруст A"
+        "If we do not protect nature, our future will be bad.",
+        "If we don't protect nature, our future will be bad.",
+        "If we do not protect the nature, our future will be bad.",
+        "If we do not save nature, our future will be bad."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "If we do not protect nature, our future will be bad."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Ман табиатро хеле дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи explain",
-        "нодуруст C"
+        "I love nature very much.",
+        "I love the nature very much.",
+        "I like nature very much.",
+        "I love nature a lot."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "I love nature very much."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Ман кӯҳҳо, ҷангалҳо, дарёҳо ва ҳайвонотро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи important",
-        "нодуруст B",
-        "нодуруст A"
+        "I love the mountains, the forests, the rivers and the animals.",
+        "I love mountains, forests, rivers and animals.",
+        "I love the mountains, the forests, the lakes and the animals.",
+        "I like the mountains, the forests, the rivers and the animals."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "I love the mountains, the forests, the rivers and the animals."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Аммо имрӯз табиат дар хатар аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи different"
+        "But today nature is in danger.",
+        "But now nature is in danger.",
+        "But today the nature is in danger.",
+        "But today nature is in trouble."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "But today nature is in danger."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Одамон ҳаво, об ва заминро ифлос мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи difficult"
+        "People pollute the air, the water and the ground.",
+        "People pollute air, water and ground.",
+        "People pollute the air, the water and the land.",
+        "People make the air, the water and the ground dirty."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "People pollute the air, the water and the ground."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Мо бояд сайёраи худро муҳофизат кунем. Мо бояд дар бораи оянда фикр кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи easy",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "We must protect our planet. We must think about the future.",
+        "We must protect our Earth. We must think about the future.",
+        "We should protect our planet. We must think about the future.",
+        "We must save our planet. We must think about the future."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "We must protect our planet. We must think about the future."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Он ба мо меомӯзонад, ки чӣ тавр бо табиат дар сулҳ зиндагӣ кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи interesting",
-        "нодуруст C"
+        "It teaches us how to live in peace with nature.",
+        "It teaches us how to live in peace with the nature.",
+        "It teaches us to live in peace with nature.",
+        "It shows us how to live in peace with nature."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "It teaches us how to live in peace with nature."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Экологҳо ҳаво, об, ҷангалҳо ва ҳайвонотро меомӯзанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи remember",
-        "нодуруст A"
+        "Ecologists study the air, the water, the forests and the animals.",
+        "Ecologists study air, water, forests and animals.",
+        "Ecologists study the air, the water, the forests and the birds.",
+        "Ecologists learn about the air, the water, the forests and the animals."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "Ecologists study the air, the water, the forests and the animals."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Онҳо ба мо мегӯянд, ки чӣ барои сайёраи мо хуб аст ва чӣ бад аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи forget",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "They tell us what is good and what is bad for our planet.",
+        "They tell us what is good and what is bad for our Earth.",
+        "They say to us what is good and what is bad for our planet.",
+        "They tell us what is good and what is bad for the planet."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "They tell us what is good and what is bad for our planet."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Ҳама бояд ба онҳо гӯш кунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи homework"
+        "Everyone must listen to them.",
+        "Everybody must listen to them.",
+        "Everyone should listen to them.",
+        "Everyone must listen to him."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "Everyone must listen to them."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Яке аз мушкилоти калонтарин имрӯз ифлосшавии ҳавост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи exercise",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "One of the biggest problems today is air pollution.",
+        "One of the biggest problems today is water pollution.",
+        "One of the greatest problems today is air pollution.",
+        "One of the biggest problems now is air pollution."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "One of the biggest problems today is air pollution."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Дар шаҳрҳои калон мошинҳо, автобусҳо ва заводҳои зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи text"
+        "In big cities there are many cars, buses and factories.",
+        "In big cities there are many cars, buses and plants.",
+        "In big towns there are many cars, buses and factories.",
+        "In big cities there are a lot of cars, buses and factories."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "In big cities there are many cars, buses and factories."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Онҳо дудҳои бадро ба ҳаво мебароранд. Ин дуд барои саломатии мо хеле хатарнок аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи story",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "They put bad smoke into the air. This smoke is very dangerous for our health.",
+        "They put bad smoke into the air. This smoke is very bad for our health.",
+        "They put bad smoke into the air. That smoke is very dangerous for our health.",
+        "They send bad smoke into the air. This smoke is very dangerous for our health."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "They put bad smoke into the air. This smoke is very dangerous for our health."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Дар баъзе шаҳрҳо ҳаво он қадар чиркин аст, ки одамон наметавонанд хуб нафас гиранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи question"
+        "In some cities the air is so dirty that people cannot breathe well.",
+        "In some cities the air is so dirty that people can not breathe well.",
+        "In some towns the air is so dirty that people cannot breathe well.",
+        "In some cities the air is very dirty that people cannot breathe well."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "In some cities the air is so dirty that people cannot breathe well."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Онҳо бемор мешаванд ва наметавонанд кор кунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи answer"
+        "They get ill and cannot work.",
+        "They become ill and cannot work.",
+        "They get sick and cannot work.",
+        "They fall ill and cannot work."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "They get ill and cannot work."
+    },
+    {
+      "q": "«Дарахтон ба мо кӯмак мекунанд, зеро ки онҳо ҳаворо тоза мекунанд ва ба мо оксиген медиҳанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Trees help us because they clean the air and give us oxygen.",
+        "Trees help us because they clean air and give us oxygen.",
+        "Trees help us because they make the air clean and give us oxygen.",
+        "Trees help us as they clean the air and give us oxygen."
+      ],
+      "answer": "Trees help us because they clean the air and give us oxygen."
+    },
+    {
+      "q": "«Аммо одамон ҳар сол дарахтони зиёдро мебуранд. Ин мушкили хеле калон аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "But people cut down many trees every year. This is a very big problem.",
+        "But people cut many trees every year. This is a very big problem.",
+        "But people cut down many trees every year. That is a very big problem.",
+        "But people cut down many trees every year. It is a very big problem."
+      ],
+      "answer": "But people cut down many trees every year. This is a very big problem."
+    },
+    {
+      "q": "«Мушкили дигар ифлосшавии об аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Another problem is water pollution.",
+        "The other problem is water pollution.",
+        "Another problem is air pollution.",
+        "One more problem is water pollution."
+      ],
+      "answer": "Another problem is water pollution."
+    },
+    {
+      "q": "«Одамон ахлотро ба дарёҳо, кӯлҳо ва баҳрҳо мепартоянд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "People throw rubbish into rivers, lakes and seas.",
+        "People throw litter into rivers, lakes and seas.",
+        "People throw rubbish into rivers, lakes and oceans.",
+        "People drop rubbish into rivers, lakes and seas."
+      ],
+      "answer": "People throw rubbish into rivers, lakes and seas."
+    },
+    {
+      "q": "«Заводҳо оби чиркинро ба дарёҳо мебароранд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Factories put dirty water into rivers.",
+        "Factories put dirty water into the rivers.",
+        "Factories throw dirty water into rivers.",
+        "Factories send dirty water into rivers."
+      ],
+      "answer": "Factories put dirty water into rivers."
+    },
+    {
+      "q": "«Моҳиҳо ва ҳайвоноти дигар дар ин оби чиркин мемиранд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Fish and other animals die in this dirty water.",
+        "Fish and other animals die in that dirty water.",
+        "Fish and other animals die in the dirty water.",
+        "Fishes and other animals die in this dirty water."
+      ],
+      "answer": "Fish and other animals die in this dirty water."
+    },
+    {
+      "q": "«Дар баъзе кишварҳо одамон оби тоза барои нӯшидан надоранд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In some countries people do not have clean water to drink.",
+        "In some countries people don't have clean water to drink.",
+        "In some countries people have no clean water to drink.",
+        "In some countries people do not have fresh water to drink."
+      ],
+      "answer": "In some countries people do not have clean water to drink."
+    },
+    {
+      "q": "«Мо бояд обро сарфа кунем. Мо набояд ахлотро ба дарёҳо ва кӯлҳо партоем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must save water. We must not throw rubbish into rivers and lakes.",
+        "We must save water. We must not throw litter into rivers and lakes.",
+        "We should save water. We must not throw rubbish into rivers and lakes.",
+        "We must save water. We must not drop rubbish into rivers and lakes."
+      ],
+      "answer": "We must save water. We must not throw rubbish into rivers and lakes."
+    },
+    {
+      "q": "«Ахлоти кӯча низ мушкили калон аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Litter is also a big problem.",
+        "Litter is a big problem too.",
+        "Rubbish is also a big problem.",
+        "Litter is also a great problem."
+      ],
+      "answer": "Litter is also a big problem."
+    },
+    {
+      "q": "«Вақте ки одамон дар боғҳо ё ҷангалҳо қадам мезананд, онҳо ахлотро ба замин мепартоянд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When people walk in parks or forests, they drop litter on the ground.",
+        "When people walk in the parks or forests, they drop litter on the ground.",
+        "When people walk in parks and forests, they drop litter on the ground.",
+        "When people walk in parks or forests, they drop litter on the land."
+      ],
+      "answer": "When people walk in parks or forests, they drop litter on the ground."
+    },
+    {
+      "q": "«Халтаҳои пластикӣ, шишаҳо ва коғазҳо солҳои зиёд дар табиат мемонанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Plastic bags, bottles and paper stay in nature for many years.",
+        "Plastic bags, bottles and papers stay in nature for many years.",
+        "Plastic bags, glass and paper stay in nature for many years.",
+        "Plastic bags, bottles and paper stay in the nature for many years."
+      ],
+      "answer": "Plastic bags, bottles and paper stay in nature for many years."
+    },
+    {
+      "q": "«Онҳо зишт менамоянд ва барои ҳайвонот бад ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "They look ugly and they are bad for animals.",
+        "They look ugly and are bad for animals.",
+        "They look ugly and they are bad for the animals.",
+        "They are ugly and they are bad for animals."
+      ],
+      "answer": "They look ugly and they are bad for animals."
+    },
+    {
+      "q": "«Баъзе ҳайвонот ин пластикро мехӯранд ва мемиранд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Some animals eat this plastic and die.",
+        "Some animals eat that plastic and die.",
+        "Some animals eat the plastic and die.",
+        "Some animals eat this plastic and they die."
+      ],
+      "answer": "Some animals eat this plastic and die."
+    },
+    {
+      "q": "«Мо бояд ҳамеша ахлоти худро ба сабади ахлот партоем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must always put our rubbish in the bin.",
+        "We must always put our litter in the bin.",
+        "We should always put our rubbish in the bin.",
+        "We must always put our rubbish into the bin."
+      ],
+      "answer": "We must always put our rubbish in the bin."
+    },
+    {
+      "q": "«Барои кӯмак ба сайёраи худ мо чӣ кор карда метавонем?» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "What can we do to help our planet?",
+        "What can we do to help the planet?",
+        "What can we do to save our planet?",
+        "What can we do to help our Earth?"
+      ],
+      "answer": "What can we do to help our planet?"
+    },
+    {
+      "q": "«Аввал, мо набояд дар кӯчаҳо, боғҳо ва ҷангалҳо ахлот партоем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "First, we must not drop litter in the streets, parks and forests.",
+        "First, we must not drop litter in streets, parks and forests.",
+        "First, we must not throw litter in the streets, parks and forests.",
+        "First, we must not drop rubbish in the streets, parks and forests."
+      ],
+      "answer": "First, we must not drop litter in the streets, parks and forests."
+    },
+    {
+      "q": "«Дуюм, мо бояд дарахтон ва гулҳо шинонем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Second, we must plant trees and flowers.",
+        "Second, we should plant trees and flowers.",
+        "Secondly, we must plant trees and flowers.",
+        "Second, we must plant trees and flowers everywhere."
+      ],
+      "answer": "Second, we must plant trees and flowers."
+    },
+    {
+      "q": "«Сеюм, мо бояд об ва барқро сарфа кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Third, we must save water and electricity.",
+        "Thirdly, we must save water and electricity.",
+        "Third, we should save water and electricity.",
+        "Third, we must save water and energy."
+      ],
+      "answer": "Third, we must save water and electricity."
+    },
+    {
+      "q": "«Чорум, мо бояд дучархаҳоро бештар ва мошинҳоро камтар истифода барем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Fourth, we must use bicycles more and cars less.",
+        "Fourthly, we must use bicycles more and cars less.",
+        "Fourth, we should use bicycles more and cars less.",
+        "Fourth, we must use bikes more and cars less."
+      ],
+      "answer": "Fourth, we must use bicycles more and cars less."
+    },
+    {
+      "q": "«Панҷум, мо бояд дар зимистон ба паррандаҳо ва ҳайвонот хӯрок диҳем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Fifth, we must feed birds and animals in winter.",
+        "Fifthly, we must feed birds and animals in winter.",
+        "Fifth, we must feed the birds and animals in winter.",
+        "Fifth, we must give food to birds and animals in winter."
+      ],
+      "answer": "Fifth, we must feed birds and animals in winter."
+    },
+    {
+      "q": "«Шашум, мо бояд ба одамони дигар дар бораи экология нақл кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Sixth, we must tell other people about ecology.",
+        "Sixthly, we must tell other people about ecology.",
+        "Sixth, we should tell other people about ecology.",
+        "Sixth, we must tell other people about the ecology."
+      ],
+      "answer": "Sixth, we must tell other people about ecology."
+    },
+    {
+      "q": "«Агар ҳар кас ин корҳои хурдро кунад, сайёраи мо тоза ва зебо хоҳад шуд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "If everyone does these small things, our planet will be clean and beautiful.",
+        "If everybody does these small things, our planet will be clean and beautiful.",
+        "If everyone does these small things, our Earth will be clean and beautiful.",
+        "If everyone does these little things, our planet will be clean and beautiful."
+      ],
+      "answer": "If everyone does these small things, our planet will be clean and beautiful."
+    },
+    {
+      "q": "«Ман ва оилаам кӯшиш мекунем, ки ба табиат кӯмак кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My family and I try to help nature.",
+        "My family and I try to help the nature.",
+        "My family and I try to help our nature.",
+        "My family and me try to help nature."
+      ],
+      "answer": "My family and I try to help nature."
+    },
+    {
+      "q": "«Дар хонаи мо дар тирезаҳо гулҳои зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In our flat we have many flowers on the windowsills.",
+        "In our house we have many flowers on the windowsills.",
+        "In our flat we have many flowers on the windows.",
+        "In our flat there are many flowers on the windowsills."
+      ],
+      "answer": "In our flat we have many flowers on the windowsills."
+    },
+    {
+      "q": "«Мо об ва барқро сарфа мекунем. Мо коғаз ва пластикро коркард мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We save water and electricity. We recycle paper and plastic.",
+        "We save water and energy. We recycle paper and plastic.",
+        "We save water and electricity. We recycle paper and glass.",
+        "We keep water and electricity. We recycle paper and plastic."
+      ],
+      "answer": "We save water and electricity. We recycle paper and plastic."
+    },
+    {
+      "q": "«Ҳар сол дар баҳор мо дар назди мактабамон дарахтон мешинонем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Every year in spring we plant trees near our school.",
+        "Every spring we plant trees near our school.",
+        "Every year in spring we plant trees near the school.",
+        "Every year in spring we plant flowers near our school."
+      ],
+      "answer": "Every year in spring we plant trees near our school."
+    },
+    {
+      "q": "«Бобоям боғи калон дорад. Ӯ ҳеҷ гоҳ кимиёвии бадро истифода намебарад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandfather has a big garden. He never uses bad chemicals.",
+        "My grandfather has a big garden. He never uses bad chemistry.",
+        "My grandfather has a big garden. He never uses bad chemical.",
+        "My grandfather has a big garden. He doesn't use bad chemicals."
+      ],
+      "answer": "My grandfather has a big garden. He never uses bad chemicals."
+    },
+    {
+      "q": "«Ӯ мегӯяд: \"Табиат ба мо ҳама чизро медиҳад: ҳаво, об, ғизо ва зебоиро.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He says: \"Nature gives us everything: air, water, food and beauty.\"",
+        "He says: \"Nature gives us all: air, water, food and beauty.\"",
+        "He says: \"Nature gives us everything: air, water, food and beauty.\"",
+        "He says: \"The nature gives us everything: air, water, food and beauty.\""
+      ],
+      "answer": "He says: \"Nature gives us everything: air, water, food and beauty.\""
+    },
+    {
+      "q": "«Мо бояд ба табиат ташаккур гӯем ва ба он ғамхорӣ кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must thank nature and take care of it.",
+        "We must thank the nature and take care of it.",
+        "We should thank nature and take care of it.",
+        "We must thank nature and look after it."
+      ],
+      "answer": "We must thank nature and take care of it."
+    },
+    {
+      "q": "«Ман кишвари Тоҷикистонамро хеле дӯст медорам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I love my country Tajikistan very much.",
+        "I love my country Tajikistan a lot.",
+        "I love Tajikistan very much.",
+        "I love my country Tajikistan so much."
+      ],
+      "answer": "I love my country Tajikistan very much."
+    },
+    {
+      "q": "«Мо кӯҳҳои зебо, дарёҳои тоза ва ҷангалҳои сабз дорем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We have beautiful mountains, clean rivers and green forests.",
+        "We have beautiful mountains, clean rivers and green woods.",
+        "We have beautiful mountains, fresh rivers and green forests.",
+        "We have wonderful mountains, clean rivers and green forests."
+      ],
+      "answer": "We have beautiful mountains, clean rivers and green forests."
+    },
+    {
+      "q": "«Мо барфпланг, хирси қаҳваранг, уқоб ва ҳайвоноти дигари камёб дорем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We have the snow leopard, the brown bear, the eagle and many other rare animals.",
+        "We have the snow leopard, the brown bear, the falcon and many other rare animals.",
+        "We have the snow leopard, the brown bear, the eagle and other rare animals.",
+        "We have snow leopard, brown bear, eagle and many other rare animals."
+      ],
+      "answer": "We have the snow leopard, the brown bear, the eagle and many other rare animals."
+    },
+    {
+      "q": "«Мо бояд ҳамаи онҳоро барои кӯдакон ва набераҳоямон муҳофизат кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must protect all of them for our children and grandchildren.",
+        "We must protect them all for our children and grandchildren.",
+        "We must save all of them for our children and grandchildren.",
+        "We must protect all of them for our children and our grandchildren."
+      ],
+      "answer": "We must protect all of them for our children and grandchildren."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам эколог шавам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to be an ecologist.",
+        "When I grow up, I want to become an ecologist.",
+        "When I grow up, I want to be a ecologist.",
+        "When I will grow up, I want to be an ecologist."
+      ],
+      "answer": "When I grow up, I want to be an ecologist."
+    },
+    {
+      "q": "«Ман мехоҳам ба табиат кӯмак кунам ва ба одамон табиатро дӯст доштан ва сайёраи зебоямонро муҳофизат карданро омӯзонам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to help nature and teach people to love and protect our beautiful planet.",
+        "I want to help nature and teach people to love and save our beautiful planet.",
+        "I want to help the nature and teach people to love and protect our beautiful planet.",
+        "I want to help nature and teach people to love and protect the beautiful planet."
+      ],
+      "answer": "I want to help nature and teach people to love and protect our beautiful planet."
+    },
+    {
+      "q": "«Замин хонаи мост. Биёед якҷоя ба он ғамхорӣ кунем!» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The Earth is our home. Let us take care of it together!",
+        "The Earth is our home. Let's take care of it together!",
+        "The Earth is our house. Let us take care of it together!",
+        "The Earth is our home. Let us look after it together!"
+      ],
+      "answer": "The Earth is our home. Let us take care of it together!"
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 30
+  "wordsCount": 16
 }
