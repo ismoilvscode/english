@@ -1,341 +1,440 @@
 {
   "id": 23,
-  "title": "Матн ва машқҳо 23",
-  "level": "Миёна - Синфи 4",
+  "title": "Иборасозӣ 23: Дӯстӣ, кӯмак ва рӯзҳои махсус",
+  "level": "Ибтидоӣ - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "to thank",
+      "tj": "ташаккур кардан",
+      "ex": "I thank my friend for the help."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "to smile",
+      "tj": "табассум кардан",
+      "ex": "She smiles at her grandmother."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "to laugh",
+      "tj": "хандидан",
+      "ex": "The children laugh in the garden."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "to cry",
+      "tj": "гиря кардан",
+      "ex": "The small child cries in the evening."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "to give",
+      "tj": "додан",
+      "ex": "I give a present to my friend."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "to bring",
+      "tj": "овардан",
+      "ex": "My father brings bread from the shop."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "to take",
+      "tj": "гирифтан",
+      "ex": "I take my bag and go to school."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "to put",
+      "tj": "гузоштан",
+      "ex": "She puts the flowers on the table."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "kind",
+      "tj": "меҳрубон",
+      "ex": "My grandmother is very kind."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "clever",
+      "tj": "зирак",
+      "ex": "The pupil is clever and happy."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "together",
+      "tj": "якҷоя",
+      "ex": "We work together in the garden."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "always",
+      "tj": "ҳамеша",
+      "ex": "He always helps his mother."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "sometimes",
+      "tj": "баъзан",
+      "ex": "We sometimes visit the lake."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "never",
+      "tj": "ҳеҷ гоҳ",
+      "ex": "She never forgets her friends."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
-    },
-    {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "friendly",
+      "tj": "дӯстона",
+      "ex": "The teacher is friendly with the pupils."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 23)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "I thank my friend for the help.",
+      "tj": "Ман ба дӯстам барои кӯмак ташаккур мекунам."
     },
     {
-      "en": "I'm working on lesson 23",
-      "tj": "Ман дарси 23-ро меомӯзам"
+      "en": "She always smiles at her grandmother.",
+      "tj": "Ӯ ҳамеша ба бибиаш табассум мекунад."
+    },
+    {
+      "en": "The children laugh together in the garden.",
+      "tj": "Кӯдакон якҷоя дар боғ механдем."
+    },
+    {
+      "en": "The small child sometimes cries in the evening.",
+      "tj": "Кӯдаки хурд баъзан бегоҳ гиря мекунад."
+    },
+    {
+      "en": "I give a present to my friend on his birthday.",
+      "tj": "Ман ба дӯстам дар рӯзи таваллудаш тӯҳфа медиҳам."
+    },
+    {
+      "en": "My father brings bread and water from the shop.",
+      "tj": "Падарам аз дукон нон ва об меорад."
+    },
+    {
+      "en": "I take my bag and go to school early.",
+      "tj": "Ман халтаамро мегирам ва барвақт ба мактаб меравам."
+    },
+    {
+      "en": "She puts the flowers on the big table.",
+      "tj": "Ӯ гулҳоро ба мизи калон мегузорад."
+    },
+    {
+      "en": "My grandmother is very kind and friendly.",
+      "tj": "Бибии ман хеле меҳрубон ва дӯстона аст."
+    },
+    {
+      "en": "The clever pupil always answers the questions.",
+      "tj": "Хонандаи зирак ҳамеша ба саволҳо ҷавоб медиҳад."
+    },
+    {
+      "en": "We work together in the field from morning to evening.",
+      "tj": "Мо якҷоя дар киштзор аз субҳ то бегоҳ кор мекунем."
+    },
+    {
+      "en": "He always helps his mother and never forgets his homework.",
+      "tj": "Ӯ ҳамеша ба модараш кӯмак мекунад ва ҳеҷ гоҳ вазифаи хонагиашро фаромӯш намекунад."
+    },
+    {
+      "en": "We sometimes go to the lake together and talk about the weather.",
+      "tj": "Мо баъзан якҷоя ба кӯл меравем ва дар бораи обу ҳаво суҳбат мекунем."
+    },
+    {
+      "en": "She never cries at school and always smiles at the teacher.",
+      "tj": "Ӯ ҳеҷ гоҳ дар мактаб гиря намекунад ва ҳамеша ба муаллим табассум мекунад."
+    },
+    {
+      "en": "The friendly doctor always helps the sick child and thanks the nurse.",
+      "tj": "Духтури дӯстона ҳамеша ба кӯдаки бемор кӯмак мекунад ва ба ҳамшира ташаккур мекунад."
+    },
+    {
+      "en": "I bring a cake and put it on the table for my birthday party.",
+      "tj": "Ман торт меорам ва онро барои базми рӯзи таваллудам ба миз мегузорам."
+    },
+    {
+      "en": "The clever pupil takes the book and puts it in the bag.",
+      "tj": "Хонандаи зирак китобро мегирад ва онро ба халта мегузорад."
+    },
+    {
+      "en": "My kind grandmother always brings presents for the children.",
+      "tj": "Бибии меҳрубонам ҳамеша барои кӯдакон тӯҳфаҳо меорад."
+    },
+    {
+      "en": "We sometimes invite our friends and laugh together in the garden.",
+      "tj": "Мо баъзан дӯстонамонро даъват мекунем ва якҷоя дар боғ механдем."
+    },
+    {
+      "en": "The farmer brings vegetables and fruits from the field.",
+      "tj": "Деҳқон аз киштзор сабзавот ва меваҳо меорад."
+    },
+    {
+      "en": "I always thank my parents for their help and love.",
+      "tj": "Ман ҳамеша ба волидонам барои кӯмак ва муҳаббаташон ташаккур мекунам."
+    },
+    {
+      "en": "The nurse is very kind and she never forgets the sick people.",
+      "tj": "Ҳамшира хеле меҳрубон аст ва ӯ ҳеҷ гоҳ беморонро фаромӯш намекунад."
+    },
+    {
+      "en": "The visitor puts the present on the table and smiles at the child.",
+      "tj": "Меҳмон тӯҳфаро ба миз мегузорад ва ба кӯдак табассум мекунад."
+    },
+    {
+      "en": "We always work together and help our neighbours in the village.",
+      "tj": "Мо ҳамеша якҷоя кор мекунем ва ба ҳамсояҳоямон дар деҳа кӯмак мекунем."
+    },
+    {
+      "en": "The friendly teacher always smiles and explains the new words to the pupils.",
+      "tj": "Муаллими дӯстона ҳамеша табассум мекунад ва калимаҳои навро ба хонандагон шарҳ медиҳад."
     }
   ],
-  "text": {
-    "en": "Text for lesson 23. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 23 is about Миёна - Синфи 4. I write all words in my notebook. Level 23 text.",
-    "tj": "Матни дарси 23..."
-  },
+  "text": null,
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Ман ба дӯстам барои кӯмак ташаккур мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи understand",
-        "нодуруст A",
-        "нодуруст B"
+        "I thank my friend for the help.",
+        "I thank my mother for the help.",
+        "I thank my friend for the gift.",
+        "I thank my teacher for the help."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "I thank my friend for the help."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Ӯ ҳамеша ба бибиаш табассум мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи explain",
-        "нодуруст A"
+        "She always smiles at her grandmother.",
+        "She sometimes smiles at her grandmother.",
+        "She always smiles at her mother.",
+        "He always smiles at his grandmother."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "She always smiles at her grandmother."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Кӯдакон якҷоя дар боғ механдем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи important",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The children laugh together in the garden.",
+        "The children laugh together in the house.",
+        "The children smile together in the garden.",
+        "The pupils laugh together in the garden."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "The children laugh together in the garden."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Кӯдаки хурд баъзан бегоҳ гиря мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи different",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The small child sometimes cries in the evening.",
+        "The small child always cries in the evening.",
+        "The small child sometimes cries in the morning.",
+        "The big child sometimes cries in the evening."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "The small child sometimes cries in the evening."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Ман ба дӯстам дар рӯзи таваллудаш тӯҳфа медиҳам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи difficult",
-        "нодуруст C",
-        "нодуруст A"
+        "I give a present to my friend on his birthday.",
+        "I give a present to my friend on his holiday.",
+        "I give a present to my mother on his birthday.",
+        "I bring a present to my friend on his birthday."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "I give a present to my friend on his birthday."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Падарам аз дукон нон ва об меорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи easy",
-        "нодуруст A"
+        "My father brings bread and water from the shop.",
+        "My father brings bread and milk from the shop.",
+        "My mother brings bread and water from the shop.",
+        "My father takes bread and water from the shop."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "My father brings bread and water from the shop."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Ман халтаамро мегирам ва барвақт ба мактаб меравам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи interesting",
-        "нодуруст A"
+        "I take my bag and go to school early.",
+        "I take my book and go to school early.",
+        "I take my bag and go to school late.",
+        "I put my bag and go to school early."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "I take my bag and go to school early."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Ӯ гулҳоро ба мизи калон мегузорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи remember",
-        "нодуруст C",
-        "нодуруст B"
+        "She puts the flowers on the big table.",
+        "She puts the flowers on the small table.",
+        "He puts the flowers on the big table.",
+        "She puts the book on the big table."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "She puts the flowers on the big table."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Бибии ман хеле меҳрубон ва дӯстона аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи forget",
-        "нодуруст B"
+        "My grandmother is very kind and friendly.",
+        "My grandmother is very kind and clever.",
+        "My grandfather is very kind and friendly.",
+        "My mother is very kind and friendly."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "My grandmother is very kind and friendly."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Хонандаи зирак ҳамеша ба саволҳо ҷавоб медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи homework",
-        "нодуруст B"
+        "The clever pupil always answers the questions.",
+        "The clever pupil sometimes answers the questions.",
+        "The clever student always answers the questions.",
+        "The friendly pupil always answers the questions."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "The clever pupil always answers the questions."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Мо якҷоя дар киштзор аз субҳ то бегоҳ кор мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи exercise",
-        "нодуруст B",
-        "нодуруст A"
+        "We work together in the field from morning to evening.",
+        "We work together in the garden from morning to evening.",
+        "We work together in the field from morning to night.",
+        "We rest together in the field from morning to evening."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "We work together in the field from morning to evening."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Ӯ ҳамеша ба модараш кӯмак мекунад ва ҳеҷ гоҳ вазифаи хонагиашро фаромӯш намекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи text",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "He always helps his mother and never forgets his homework.",
+        "He always helps his mother and sometimes forgets his homework.",
+        "She always helps her mother and never forgets her homework.",
+        "He always helps his father and never forgets his homework."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "He always helps his mother and never forgets his homework."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Мо баъзан якҷоя ба кӯл меравем ва дар бораи обу ҳаво суҳбат мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи story"
+        "We sometimes go to the lake together and talk about the weather.",
+        "We often go to the lake together and talk about the weather.",
+        "We sometimes go to the river together and talk about the weather.",
+        "We sometimes go to the lake together and talk about the city."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "We sometimes go to the lake together and talk about the weather."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Ӯ ҳеҷ гоҳ дар мактаб гиря намекунад ва ҳамеша ба муаллим табассум мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи question",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "She never cries at school and always smiles at the teacher.",
+        "She never cries at school and sometimes smiles at the teacher.",
+        "He never cries at school and always smiles at the teacher.",
+        "She never laughs at school and always smiles at the teacher."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "She never cries at school and always smiles at the teacher."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Духтури дӯстона ҳамеша ба кӯдаки бемор кӯмак мекунад ва ба ҳамшира ташаккур мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи answer",
-        "нодуруст A",
-        "нодуруст C"
+        "The friendly doctor always helps the sick child and thanks the nurse.",
+        "The friendly doctor sometimes helps the sick child and thanks the nurse.",
+        "The kind doctor always helps the sick child and thanks the nurse.",
+        "The friendly nurse always helps the sick child and thanks the doctor."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "The friendly doctor always helps the sick child and thanks the nurse."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Ман торт меорам ва онро барои базми рӯзи таваллудам ба миз мегузорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи understand",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "I bring a cake and put it on the table for my birthday party.",
+        "I bring a cake and put it on the table for my holiday.",
+        "I bring a present and put it on the table for my birthday party.",
+        "I take a cake and put it on the table for my birthday party."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "I bring a cake and put it on the table for my birthday party."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Хонандаи зирак китобро мегирад ва онро ба халта мегузорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи explain"
+        "The clever pupil takes the book and puts it in the bag.",
+        "The clever pupil takes the book and puts it on the desk.",
+        "The clever student takes the book and puts it in the bag.",
+        "The friendly pupil takes the book and puts it in the bag."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "The clever pupil takes the book and puts it in the bag."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Бибии меҳрубонам ҳамеша барои кӯдакон тӯҳфаҳо меорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи important"
+        "My kind grandmother always brings presents for the children.",
+        "My kind grandmother sometimes brings presents for the children.",
+        "My kind mother always brings presents for the children.",
+        "My kind grandmother always brings bread for the children."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "My kind grandmother always brings presents for the children."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Мо баъзан дӯстонамонро даъват мекунем ва якҷоя дар боғ механдем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи different",
-        "нодуруст B"
+        "We sometimes invite our friends and laugh together in the garden.",
+        "We often invite our friends and laugh together in the garden.",
+        "We sometimes invite our friends and smile together in the garden.",
+        "We sometimes invite our neighbours and laugh together in the garden."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "We sometimes invite our friends and laugh together in the garden."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Деҳқон аз киштзор сабзавот ва меваҳо меорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи difficult",
-        "нодуруст C"
+        "The farmer brings vegetables and fruits from the field.",
+        "The farmer brings vegetables and fruits from the garden.",
+        "The farmer takes vegetables and fruits from the field.",
+        "The worker brings vegetables and fruits from the field."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "The farmer brings vegetables and fruits from the field."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Ман ҳамеша ба волидонам барои кӯмак ва муҳаббаташон ташаккур мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи easy",
-        "нодуруст C"
+        "I always thank my parents for their help and love.",
+        "I sometimes thank my parents for their help and love.",
+        "I always thank my friends for their help and love.",
+        "I always thank my parents for their help and presents."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "I always thank my parents for their help and love."
+    },
+    {
+      "q": "«Ҳамшира хеле меҳрубон аст ва ӯ ҳеҷ гоҳ беморонро фаромӯш намекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The nurse is very kind and she never forgets the sick people.",
+        "The nurse is very kind and she sometimes forgets the sick people.",
+        "The doctor is very kind and she never forgets the sick people.",
+        "The nurse is very friendly and she never forgets the sick people."
+      ],
+      "answer": "The nurse is very kind and she never forgets the sick people."
+    },
+    {
+      "q": "«Меҳмон тӯҳфаро ба миз мегузорад ва ба кӯдак табассум мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The visitor puts the present on the table and smiles at the child.",
+        "The visitor puts the present on the table and smiles at the mother.",
+        "The guest puts the present on the table and smiles at the child.",
+        "The visitor puts the cake on the table and smiles at the child."
+      ],
+      "answer": "The visitor puts the present on the table and smiles at the child."
+    },
+    {
+      "q": "«Мо ҳамеша якҷоя кор мекунем ва ба ҳамсояҳоямон дар деҳа кӯмак мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We always work together and help our neighbours in the village.",
+        "We sometimes work together and help our neighbours in the village.",
+        "We always work together and help our friends in the village.",
+        "We always rest together and help our neighbours in the village."
+      ],
+      "answer": "We always work together and help our neighbours in the village."
+    },
+    {
+      "q": "«Муаллими дӯстона ҳамеша табассум мекунад ва калимаҳои навро ба хонандагон шарҳ медиҳад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The friendly teacher always smiles and explains the new words to the pupils.",
+        "The friendly teacher sometimes smiles and explains the new words to the pupils.",
+        "The kind teacher always smiles and explains the new words to the pupils.",
+        "The friendly teacher always smiles and explains the old words to the pupils."
+      ],
+      "answer": "The friendly teacher always smiles and explains the new words to the pupils."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 21
+  "wordsCount": 15
 }
