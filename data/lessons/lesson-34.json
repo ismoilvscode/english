@@ -1,416 +1,662 @@
 {
   "id": 34,
-  "title": "Матн ва машқҳо 34",
-  "level": "Миёна - Синфи 4",
+  "title": "Матн 34: Саломатӣ ва беморӣ",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "illness",
+      "tj": "беморӣ",
+      "ex": "Illness is a bad thing."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "to be ill",
+      "tj": "бемор будан",
+      "ex": "I am ill today."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "headache",
+      "tj": "дарди сар",
+      "ex": "I have a bad headache."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "toothache",
+      "tj": "дарди дандон",
+      "ex": "My little brother has a toothache."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "stomachache",
+      "tj": "дарди шикам",
+      "ex": "She has a stomachache after lunch."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "cough",
+      "tj": "сулфа",
+      "ex": "My cough is very bad."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "cold",
+      "tj": "шарм",
+      "ex": "I have a cold and a cough."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "temperature",
+      "tj": "ҳарорат",
+      "ex": "The doctor checks my temperature."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "medicine",
+      "tj": "дору",
+      "ex": "I take my medicine three times a day."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "pill",
+      "tj": "ҳаб",
+      "ex": "Take one pill after dinner."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "doctor",
+      "tj": "духтур",
+      "ex": "The doctor comes to our house."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "patient",
+      "tj": "бемор",
+      "ex": "The patient is in the hospital."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "ill",
+      "tj": "бемор",
+      "ex": "My grandmother is ill."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "healthy",
+      "tj": "солим",
+      "ex": "We want to be healthy."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
-    },
-    {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "rest",
+      "tj": "дам",
+      "ex": "You need to rest at home."
     },
     {
       "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
-    },
-    {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
-    },
-    {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
-    },
-    {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "tj": "муҳим",
+      "ex": "It is important to drink water."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 34)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Illness is a bad thing for every person.",
+      "tj": "Беморӣ барои ҳар як одам чизи бад аст."
     },
     {
-      "en": "I'm working on lesson 34",
-      "tj": "Ман дарси 34-ро меомӯзам"
+      "en": "I am ill today and I stay at home.",
+      "tj": "Ман имрӯз бемор ҳастам ва дар хона мемонам."
+    },
+    {
+      "en": "I have a bad headache and a high temperature.",
+      "tj": "Ман дарди сахти сар ва ҳарорати баланд дорам."
+    },
+    {
+      "en": "My little brother has a toothache.",
+      "tj": "Бародари хурди ман дарди дандон дорад."
+    },
+    {
+      "en": "She has a stomachache after lunch.",
+      "tj": "Ӯ баъд аз хӯроки нисфирӯзӣ дарди шикам дорад."
+    },
+    {
+      "en": "My cough is very bad today.",
+      "tj": "Сулфаи ман имрӯз хеле бад аст."
+    },
+    {
+      "en": "I have a cold and a cough.",
+      "tj": "Ман шарм ва сулфа дорам."
+    },
+    {
+      "en": "The doctor checks my temperature every morning.",
+      "tj": "Духтур ҳар субҳ ҳарорати маро месанҷад."
+    },
+    {
+      "en": "I take my medicine three times a day.",
+      "tj": "Ман доруи худро се маротиба дар як рӯз менӯшам."
+    },
+    {
+      "en": "Take one pill after dinner and rest.",
+      "tj": "Баъд аз хӯроки шом як ҳаб нӯш кун ва дам гир."
+    },
+    {
+      "en": "The doctor comes to our house in the evening.",
+      "tj": "Духтур бегоҳ ба хонаи мо меояд."
+    },
+    {
+      "en": "The patient is in the hospital near the park.",
+      "tj": "Бемор дар беморхонаи назди боғи истироҳат аст."
+    },
+    {
+      "en": "My grandmother is ill and I help her.",
+      "tj": "Бибии ман бемор аст ва ман ба ӯ кӯмак мекунам."
+    },
+    {
+      "en": "We want to be healthy and strong.",
+      "tj": "Мо мехоҳем солим ва қавӣ бошем."
+    },
+    {
+      "en": "You need to rest at home for three days.",
+      "tj": "Ба шумо лозим аст, ки се рӯз дар хона дам гиред."
+    },
+    {
+      "en": "It is important to drink warm water every day.",
+      "tj": "Ҳар рӯз оби гарм нӯшидан муҳим аст."
     }
   ],
   "text": {
-    "en": "Text for lesson 34. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 34 is about Миёна - Синфи 4. I write all words in my notebook. Level 34 text.",
-    "tj": "Матни дарси 34..."
+    "en": "Health and Illness\n\nMy name is Ismoil. Yesterday I did not go to school, because I was ill. In the morning I got up and felt bad. I had a bad headache and a high temperature. My mother touched my head and said: \"You are ill, my son. You must stay at home and rest.\"\n\nMy mother called the doctor. The doctor came to our house in the morning. She was a kind woman. She said: \"Good morning! How are you feeling today?\" I answered: \"I have a bad headache and a cough. My temperature is high.\" The doctor checked my temperature and listened to my breathing. Then she said: \"You have a cold. You must drink warm water, take medicine three times a day and stay in bed. You cannot go to school for three days.\"\n\nThe doctor wrote a prescription and gave me some pills. She said to my mother: \"Give him one pill after breakfast, one pill after lunch and one pill after dinner. He must drink a lot of warm water and eat light food. No ice-cream and no cold water!\" Then the doctor said goodbye and left.\n\nI stayed in bed all day. My mother brought me warm tea with lemon and honey. She cooked a light soup for lunch. My sister Zuhro read me an interesting book about animals. My brother played quietly in my room. My father came home early from work and sat near my bed. He told me funny stories and I laughed. It was nice to have all my family around me, but I was still ill.\n\nIn the evening my friend Farid came to see me. He brought me my homework from school and some fruits. He said: \"Get well soon, Ismoil! All our classmates miss you.\" I thanked him and promised to come back to school soon.\n\nToday I feel much better. My headache is gone and my temperature is normal. I still have a small cough, but it is not bad. I do not go to school today — the doctor said I must rest for one more day. Tomorrow I will go back to school and see all my friends and my teacher.\n\nI have learned an important lesson: we must take care of our health every day. We must eat good food, drink clean water, do morning exercises and sleep eight hours every night. We must wear warm clothes in winter and never drink cold water after sport. When we are healthy, we can study well, play with our friends and help our family. Health is the most important thing in our life.",
+    "tj": "Саломатӣ ва беморӣ\n\nНоми ман Исмоил аст. Дирӯз ман ба мактаб нарафтам, зеро ки бемор будам. Субҳ ман аз ҷой хестам ва ҳолатам бад шуд. Ман дарди сахти сар ва ҳарорати баланд доштам. Модарам пешонаи маро ламс кард ва гуфт: «Ту бемор ҳастӣ, писарам. Ту бояд дар хона бимонӣ ва дам гирӣ.»\n\nМодарам ба духтур занг зад. Духтур субҳ ба хонаи мо омад. Ӯ зани меҳрубон буд. Ӯ гуфт: «Субҳ ба хайр! Имрӯз ҳолати шумо чӣ хел аст?» Ман ҷавоб додам: «Ман дарди сахти сар ва сулфа дорам. Ҳароратам баланд аст.» Духтур ҳарорати маро санҷид ва нафаскашии маро гӯш кард. Баъд ӯ гуфт: «Шумо шарм доред. Шумо бояд оби гарм нӯшед, доруро се маротиба дар як рӯз нӯшед ва дар кат бихобед. Шумо се рӯз ба мактаб рафта наметавонед.»\n\nДухтур ретсепт навишт ва ба ман чанд ҳаб дод. Ӯ ба модарам гуфт: «Ба ӯ баъд аз наҳорӣ як ҳаб, баъд аз хӯроки нисфирӯзӣ як ҳаб ва баъд аз хӯроки шом як ҳаб диҳед. Ӯ бояд оби гарми зиёд нӯшад ва ғизои сабук хӯрад. Яхмос не ва оби хунук не!» Баъд духтур хайр гуфт ва рафт.\n\nМан тамоми рӯз дар кат мондам. Модарам ба ман чойи гарм бо лимӯ ва асал овард. Ӯ барои хӯроки нисфирӯзӣ шӯрбои сабук пухт. Хоҳарам Зуҳро ба ман китоби ҷолиб дар бораи ҳайвонот хонд. Бародарам дар ҳуҷраи ман оромона бозӣ кард. Падарам барвақт аз кор ба хона омад ва дар назди кати ман нишаст. Ӯ ба ман ҳикояҳои хандаовар нақл кард ва ман хандидам. Хуш буд, ки тамоми оилаам дар гирди ман буданд, аммо ман ҳанӯз бемор будам.\n\nБегоҳ дӯсти ман Фарид ба дидани ман омад. Ӯ ба ман вазифаи хонагиамро аз мактаб ва чанд мева овард. Ӯ гуфт: «Зуд шифо ёб, Исмоил! Ҳамаи ҳамсинфони мо туро пазмон шудаанд.» Ман ба ӯ ташаккур гуфтам ва ваъда додам, ки ба зудӣ ба мактаб бармегардам.\n\nИмрӯз ман худро хеле беҳтар ҳис мекунам. Дарди сарам рафт ва ҳароратам муқаррарӣ аст. Ман ҳанӯз сулфаи хурд дорам, аммо он бад нест. Ман имрӯз ба мактаб намеравам — духтур гуфт, ки ман бояд боз як рӯз дам гирам. Пагоҳ ман ба мактаб бармегардам ва ҳамаи дӯстон ва муаллимамро мебинам.\n\nМан дарси муҳим гирифтам: мо бояд ҳар рӯз ба саломатии худ ғамхорӣ кунем. Мо бояд ғизои хуб хӯрем, оби тоза нӯшем, машқҳои субҳро иҷро кунем ва ҳар шаб ҳашт соат хоб кунем. Мо бояд дар зимистон либосҳои гарм пӯшем ва ҳеҷ гоҳ баъд аз варзиш оби хунук нанӯшем. Вақте ки мо солим ҳастем, мо метавонем хуб таҳсил кунем, бо дӯстонамон бозӣ кунем ва ба оилаамон кӯмак кунем. Саломатӣ муҳимтарин чиз дар ҳаёти мост."
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Беморӣ барои ҳар як одам чизи бад аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи understand"
+        "Illness is a bad thing for every person.",
+        "Illness is a bad thing for every pupil.",
+        "Illness is a bad thing for every man.",
+        "Illness is a bad thing for every family."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "Illness is a bad thing for every person."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Ман имрӯз бемор ҳастам ва дар хона мемонам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи explain",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "I am ill today and I stay at home.",
+        "I am ill today and I stay at school.",
+        "I am ill today and I rest at home.",
+        "I am ill today and I sleep at home."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "I am ill today and I stay at home."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Ман дарди сахти сар ва ҳарорати баланд дорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи important",
-        "нодуруст B",
-        "нодуруст A"
+        "I have a bad headache and a high temperature.",
+        "I have a bad headache and a cough.",
+        "I have a bad toothache and a high temperature.",
+        "I have a bad headache and a bad cough."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "I have a bad headache and a high temperature."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Бародари хурди ман дарди дандон дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи different",
-        "нодуруст A"
+        "My little brother has a toothache.",
+        "My little sister has a toothache.",
+        "My big brother has a toothache.",
+        "My little brother has a headache."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "My little brother has a toothache."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Ӯ баъд аз хӯроки нисфирӯзӣ дарди шикам дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи difficult",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "She has a stomachache after lunch.",
+        "She has a stomachache after dinner.",
+        "He has a stomachache after lunch.",
+        "She has a headache after lunch."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "She has a stomachache after lunch."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Сулфаи ман имрӯз хеле бад аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи easy",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "My cough is very bad today.",
+        "My cold is very bad today.",
+        "My cough is very bad yesterday.",
+        "My temperature is very bad today."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "My cough is very bad today."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Ман шарм ва сулфа дорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи interesting",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "I have a cold and a cough.",
+        "I have a cold and a headache.",
+        "I have a temperature and a cough.",
+        "I have a cold and a toothache."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "I have a cold and a cough."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Духтур ҳар субҳ ҳарорати маро месанҷад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи remember"
+        "The doctor checks my temperature every morning.",
+        "The doctor checks my temperature every evening.",
+        "The doctor checks my body every morning.",
+        "The nurse checks my temperature every morning."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "The doctor checks my temperature every morning."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Ман доруи худро се маротиба дар як рӯз менӯшам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи forget",
-        "нодуруст B",
-        "нодуруст C"
+        "I take my medicine three times a day.",
+        "I take my medicine two times a day.",
+        "I drink my medicine three times a day.",
+        "I take my pills three times a day."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "I take my medicine three times a day."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Баъд аз хӯроки шом як ҳаб нӯш кун ва дам гир» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи homework",
-        "нодуруст B"
+        "Take one pill after dinner and rest.",
+        "Take one pill after lunch and rest.",
+        "Take two pills after dinner and rest.",
+        "Take one pill after dinner and sleep."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "Take one pill after dinner and rest."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Духтур бегоҳ ба хонаи мо меояд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи exercise",
-        "нодуруст A"
+        "The doctor comes to our house in the evening.",
+        "The doctor comes to our house in the morning.",
+        "The doctor comes to our school in the evening.",
+        "The nurse comes to our house in the evening."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "The doctor comes to our house in the evening."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Бемор дар беморхонаи назди боғи истироҳат аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи text",
-        "нодуруст A",
-        "нодуруст C"
+        "The patient is in the hospital near the park.",
+        "The patient is in the hospital near the square.",
+        "The doctor is in the hospital near the park.",
+        "The patient is in the hospital near the school."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "The patient is in the hospital near the park."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Бибии ман бемор аст ва ман ба ӯ кӯмак мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи story",
-        "нодуруст C"
+        "My grandmother is ill and I help her.",
+        "My grandmother is ill and I help him.",
+        "My grandfather is ill and I help him.",
+        "My grandmother is tired and I help her."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "My grandmother is ill and I help her."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Мо мехоҳем солим ва қавӣ бошем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи question",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "We want to be healthy and strong.",
+        "We want to be healthy and happy.",
+        "We want to be good and strong.",
+        "We want to be healthy and clever."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "We want to be healthy and strong."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Ба шумо лозим аст, ки се рӯз дар хона дам гиред» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи answer"
+        "You need to rest at home for three days.",
+        "You need to rest at home for two days.",
+        "You need to sleep at home for three days.",
+        "You need to stay at home for three days."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "You need to rest at home for three days."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Ҳар рӯз оби гарм нӯшидан муҳим аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи understand"
+        "It is important to drink warm water every day.",
+        "It is important to drink cold water every day.",
+        "It is important to drink warm tea every day.",
+        "It is good to drink warm water every day."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "It is important to drink warm water every day."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Дирӯз ман ба мактаб нарафтам, зеро ки бемор будам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи explain",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "Yesterday I did not go to school, because I was ill.",
+        "Yesterday I did not go to school, because I was tired.",
+        "Yesterday I did not go to the city, because I was ill.",
+        "Yesterday I did not go to school, because I was at home."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "Yesterday I did not go to school, because I was ill."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Субҳ ман аз ҷой хестам ва ҳолатам бад шуд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи important",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "In the morning I got up and felt bad.",
+        "In the evening I got up and felt bad.",
+        "In the morning I got up and felt good.",
+        "In the morning I woke up and felt bad."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "In the morning I got up and felt bad."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Модарам пешонаи маро ламс кард ва гуфт: \"Ту бемор ҳастӣ, писарам.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи different",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "My mother touched my head and said: \"You are ill, my son.\"",
+        "My mother touched my hand and said: \"You are ill, my son.\"",
+        "My mother touched my head and said: \"You are tired, my son.\"",
+        "My father touched my head and said: \"You are ill, my son.\""
       ],
-      "answer": "тарҷумаи different"
+      "answer": "My mother touched my head and said: \"You are ill, my son.\""
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Модарам ба духтур занг зад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи difficult",
-        "нодуруст B",
-        "нодуруст C"
+        "My mother called the doctor.",
+        "My mother called the nurse.",
+        "My father called the doctor.",
+        "My mother phoned the doctor."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "My mother called the doctor."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Духтур субҳ ба хонаи мо омад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи easy",
-        "нодуруст B",
-        "нодуруст A"
+        "The doctor came to our house in the morning.",
+        "The doctor came to our house in the evening.",
+        "The nurse came to our house in the morning.",
+        "The doctor went to our house in the morning."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "The doctor came to our house in the morning."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Субҳ ба хайр! Имрӯз ҳолати шумо чӣ хел аст?» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи interesting",
-        "нодуруст B"
+        "Good morning! How are you feeling today?",
+        "Good morning! How are you today?",
+        "Good evening! How are you feeling today?",
+        "Good morning! What are you feeling today?"
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "Good morning! How are you feeling today?"
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Ман ҷавоб додам: \"Ман дарди сахти сар ва сулфа дорам. Ҳароратам баланд аст.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи remember",
-        "нодуруст A"
+        "I answered: \"I have a bad headache and a cough. My temperature is high.\"",
+        "I answered: \"I have a bad headache and a cough. My temperature is high.\"",
+        "I answered: \"I have a bad headache and a cold. My temperature is high.\"",
+        "I answered: \"I have a bad toothache and a cough. My temperature is high.\""
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "I answered: \"I have a bad headache and a cough. My temperature is high.\""
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Духтур ҳарорати маро санҷид ва нафаскашии маро гӯш кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи forget",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "The doctor checked my temperature and listened to my breathing.",
+        "The doctor checked my body and listened to my breathing.",
+        "The doctor checked my temperature and listened to my heart.",
+        "The nurse checked my temperature and listened to my breathing."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "The doctor checked my temperature and listened to my breathing."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Шумо шарм доред. Шумо бояд оби гарм нӯшед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи homework",
-        "нодуруст B",
-        "нодуруст A"
+        "You have a cold. You must drink warm water.",
+        "You have a cold. You must drink cold water.",
+        "You have a cough. You must drink warm water.",
+        "You have a cold. You must drink warm tea."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "You have a cold. You must drink warm water."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Духтур ретсепт навишт ва ба ман чанд ҳаб дод» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи exercise",
-        "нодуруст A",
-        "нодуруст B"
+        "The doctor wrote a prescription and gave me some pills.",
+        "The doctor wrote a prescription and gave me some medicine.",
+        "The doctor wrote a letter and gave me some pills.",
+        "The nurse wrote a prescription and gave me some pills."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "The doctor wrote a prescription and gave me some pills."
+    },
+    {
+      "q": "«Ӯ бояд оби гарми зиёд нӯшад ва ғизои сабук хӯрад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He must drink a lot of warm water and eat light food.",
+        "He must drink a lot of cold water and eat light food.",
+        "She must drink a lot of warm water and eat light food.",
+        "He must drink a lot of warm water and eat good food."
+      ],
+      "answer": "He must drink a lot of warm water and eat light food."
+    },
+    {
+      "q": "«Яхмос не ва оби хунук не!» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "No ice-cream and no cold water!",
+        "No ice-cream and no warm water!",
+        "No cake and no cold water!",
+        "No ice-cream and no cold tea!"
+      ],
+      "answer": "No ice-cream and no cold water!"
+    },
+    {
+      "q": "«Ман тамоми рӯз дар кат мондам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I stayed in bed all day.",
+        "I stayed in bed all morning.",
+        "I slept in bed all day.",
+        "I stayed at home all day."
+      ],
+      "answer": "I stayed in bed all day."
+    },
+    {
+      "q": "«Модарам ба ман чойи гарм бо лимӯ ва асал овард» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My mother brought me warm tea with lemon and honey.",
+        "My mother brought me cold tea with lemon and honey.",
+        "My grandmother brought me warm tea with lemon and honey.",
+        "My mother brought me warm tea with milk and honey."
+      ],
+      "answer": "My mother brought me warm tea with lemon and honey."
+    },
+    {
+      "q": "«Ӯ барои хӯроки нисфирӯзӣ шӯрбои сабук пухт» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "She cooked a light soup for lunch.",
+        "She cooked a light soup for dinner.",
+        "She made a light soup for lunch.",
+        "He cooked a light soup for lunch."
+      ],
+      "answer": "She cooked a light soup for lunch."
+    },
+    {
+      "q": "«Хоҳарам Зуҳро ба ман китоби ҷолиб дар бораи ҳайвонот хонд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My sister Zuhro read me an interesting book about animals.",
+        "My sister Zuhro read me an interesting book about birds.",
+        "My sister Zuhro read me a good book about animals.",
+        "My cousin Zuhro read me an interesting book about animals."
+      ],
+      "answer": "My sister Zuhro read me an interesting book about animals."
+    },
+    {
+      "q": "«Бародарам дар ҳуҷраи ман оромона бозӣ кард» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My brother played quietly in my room.",
+        "My brother played quietly in my garden.",
+        "My sister played quietly in my room.",
+        "My brother played loudly in my room."
+      ],
+      "answer": "My brother played quietly in my room."
+    },
+    {
+      "q": "«Падарам барвақт аз кор ба хона омад ва дар назди кати ман нишаст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father came home early from work and sat near my bed.",
+        "My father came home late from work and sat near my bed.",
+        "My mother came home early from work and sat near my bed.",
+        "My father came home early from work and sat on my bed."
+      ],
+      "answer": "My father came home early from work and sat near my bed."
+    },
+    {
+      "q": "«Ӯ ба ман ҳикояҳои хандаовар нақл кард ва ман хандидам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He told me funny stories and I laughed.",
+        "He told me funny stories and I smiled.",
+        "She told me funny stories and I laughed.",
+        "He told me good stories and I laughed."
+      ],
+      "answer": "He told me funny stories and I laughed."
+    },
+    {
+      "q": "«Хуш буд, ки тамоми оилаам дар гирди ман буданд, аммо ман ҳанӯз бемор будам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It was nice to have all my family around me, but I was still ill.",
+        "It was nice to have all my family near me, but I was still ill.",
+        "It was good to have all my family around me, but I was still ill.",
+        "It was nice to have all my friends around me, but I was still ill."
+      ],
+      "answer": "It was nice to have all my family around me, but I was still ill."
+    },
+    {
+      "q": "«Бегоҳ дӯсти ман Фарид ба дидани ман омад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In the evening my friend Farid came to see me.",
+        "In the morning my friend Farid came to see me.",
+        "In the evening my classmate Farid came to see me.",
+        "In the evening my friend Farid came to visit my mother."
+      ],
+      "answer": "In the evening my friend Farid came to see me."
+    },
+    {
+      "q": "«Ӯ ба ман вазифаи хонагиамро аз мактаб ва чанд мева овард» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He brought me my homework from school and some fruits.",
+        "He brought me my homework from school and some books.",
+        "He brought me my book from school and some fruits.",
+        "She brought me my homework from school and some fruits."
+      ],
+      "answer": "He brought me my homework from school and some fruits."
+    },
+    {
+      "q": "«Зуд шифо ёб, Исмоил! Ҳамаи ҳамсинфони мо туро пазмон шудаанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Get well soon, Ismoil! All our classmates miss you.",
+        "Get well soon, Ismoil! All our friends miss you.",
+        "Get well soon, Farid! All our classmates miss you.",
+        "Get well soon, Ismoil! All our teachers miss you."
+      ],
+      "answer": "Get well soon, Ismoil! All our classmates miss you."
+    },
+    {
+      "q": "«Ман ба ӯ ташаккур гуфтам ва ваъда додам, ки ба зудӣ ба мактаб бармегардам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I thanked him and promised to come back to school soon.",
+        "I thanked her and promised to come back to school soon.",
+        "I thanked him and promised to go to school soon.",
+        "I thanked him and hoped to come back to school soon."
+      ],
+      "answer": "I thanked him and promised to come back to school soon."
+    },
+    {
+      "q": "«Имрӯз ман худро хеле беҳтар ҳис мекунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Today I feel much better.",
+        "Today I feel very good.",
+        "Today I feel a little better.",
+        "Today I feel very well."
+      ],
+      "answer": "Today I feel much better."
+    },
+    {
+      "q": "«Дарди сарам рафт ва ҳароратам муқаррарӣ аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My headache is gone and my temperature is normal.",
+        "My headache is gone and my temperature is good.",
+        "My cough is gone and my temperature is normal.",
+        "My headache is bad and my temperature is normal."
+      ],
+      "answer": "My headache is gone and my temperature is normal."
+    },
+    {
+      "q": "«Ман ҳанӯз сулфаи хурд дорам, аммо он бад нест» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I still have a small cough, but it is not bad.",
+        "I still have a small cold, but it is not bad.",
+        "I still have a bad cough, but it is not bad.",
+        "I still have a small cough, but it is not good."
+      ],
+      "answer": "I still have a small cough, but it is not bad."
+    },
+    {
+      "q": "«Ман имрӯз ба мактаб намеравам — духтур гуфт, ки ман бояд боз як рӯз дам гирам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I do not go to school today — the doctor said I must rest for one more day.",
+        "I do not go to school today — the doctor said I must rest for two more days.",
+        "I do not go to school today — the doctor said I must sleep for one more day.",
+        "I do not go to school today — my mother said I must rest for one more day."
+      ],
+      "answer": "I do not go to school today — the doctor said I must rest for one more day."
+    },
+    {
+      "q": "«Пагоҳ ман ба мактаб бармегардам ва ҳамаи дӯстон ва муаллимамро мебинам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Tomorrow I will go back to school and see all my friends and my teacher.",
+        "Tomorrow I will go back to school and see all my classmates and my teacher.",
+        "Tomorrow I will come back to school and see all my friends and my teacher.",
+        "Tomorrow I will go to school and see all my friends and my mother."
+      ],
+      "answer": "Tomorrow I will go back to school and see all my friends and my teacher."
+    },
+    {
+      "q": "«Ман дарси муҳим гирифтам: мо бояд ҳар рӯз ба саломатии худ ғамхорӣ кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I have learned an important lesson: we must take care of our health every day.",
+        "I have learned a good lesson: we must take care of our health every day.",
+        "I have learned an important lesson: we must take care of our body every day.",
+        "I have learned an important lesson: we must take care of our family every day."
+      ],
+      "answer": "I have learned an important lesson: we must take care of our health every day."
+    },
+    {
+      "q": "«Мо бояд ғизои хуб хӯрем, оби тоза нӯшем, машқҳои субҳро иҷро кунем ва ҳар шаб ҳашт соат хоб кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must eat good food, drink clean water, do morning exercises and sleep eight hours every night.",
+        "We must eat good food, drink clean water, do exercises and sleep eight hours every night.",
+        "We must eat good food, drink clean water, do morning exercises and sleep seven hours every night.",
+        "We must eat good food, drink cold water, do morning exercises and sleep eight hours every night."
+      ],
+      "answer": "We must eat good food, drink clean water, do morning exercises and sleep eight hours every night."
+    },
+    {
+      "q": "«Мо бояд дар зимистон либосҳои гарм пӯшем ва ҳеҷ гоҳ баъд аз варзиш оби хунук нанӯшем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must wear warm clothes in winter and never drink cold water after sport.",
+        "We must wear warm clothes in winter and never drink cold water after food.",
+        "We must wear good clothes in winter and never drink cold water after sport.",
+        "We must wear warm clothes in winter and never drink warm water after sport."
+      ],
+      "answer": "We must wear warm clothes in winter and never drink cold water after sport."
+    },
+    {
+      "q": "«Вақте ки мо солим ҳастем, мо метавонем хуб таҳсил кунем, бо дӯстонамон бозӣ кунем ва ба оилаамон кӯмак кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When we are healthy, we can study well, play with our friends and help our family.",
+        "When we are healthy, we can study well, play with our classmates and help our family.",
+        "When we are ill, we can study well, play with our friends and help our family.",
+        "When we are healthy, we can study well, walk with our friends and help our family."
+      ],
+      "answer": "When we are healthy, we can study well, play with our friends and help our family."
+    },
+    {
+      "q": "«Саломатӣ муҳимтарин чиз дар ҳаёти мост» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Health is the most important thing in our life.",
+        "Health is the most important thing in our life.",
+        "Health is the best thing in our life.",
+        "Health is the most important thing in our country."
+      ],
+      "answer": "Health is the most important thing in our life."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 26
+  "wordsCount": 16
 }
