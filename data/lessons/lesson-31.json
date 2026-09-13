@@ -1,401 +1,583 @@
 {
   "id": 31,
-  "title": "Матн ва машқҳо 31",
-  "level": "Миёна - Синфи 4",
+  "title": "Матн 31: Тоҷикистон — кишвари ман",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "country",
+      "tj": "кишвар",
+      "ex": "Tajikistan is my country."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "people",
+      "tj": "мардум",
+      "ex": "The people of Tajikistan are kind."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "language",
+      "tj": "забон",
+      "ex": "Tajik is our language."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "tradition",
+      "tj": "анъана",
+      "ex": "We have many good traditions."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "custom",
+      "tj": "одат",
+      "ex": "It is an old custom in our country."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "mountain",
+      "tj": "кӯҳ",
+      "ex": "There are many mountains in Tajikistan."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "valley",
+      "tj": "води",
+      "ex": "The valley is green and beautiful."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "cotton",
+      "tj": "пахта",
+      "ex": "Tajikistan grows good cotton."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "fruit",
+      "tj": "мева",
+      "ex": "We grow many fruits in our gardens."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "apricot",
+      "tj": "зардолу",
+      "ex": "The apricot is sweet and yellow."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "guest",
+      "tj": "меҳмон",
+      "ex": "The guest is very important in our country."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "hospitality",
+      "tj": "меҳмоннавозӣ",
+      "ex": "Tajik hospitality is famous in the world."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "holiday",
+      "tj": "ид",
+      "ex": "Navruz is a big holiday in Tajikistan."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "Navruz",
+      "tj": "Наврӯз",
+      "ex": "We celebrate Navruz in March."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
-    },
-    {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
-    },
-    {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
-    },
-    {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "sumalak",
+      "tj": "сумалак",
+      "ex": "My grandmother cooks sumalak for Navruz."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 31)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Tajikistan is my country and I love it very much.",
+      "tj": "Тоҷикистон кишвари ман аст ва ман онро хеле дӯст медорам."
     },
     {
-      "en": "I'm working on lesson 31",
-      "tj": "Ман дарси 31-ро меомӯзам"
+      "en": "The people of Tajikistan are kind and friendly.",
+      "tj": "Мардуми Тоҷикистон меҳрубон ва дӯстона ҳастанд."
+    },
+    {
+      "en": "Tajik is our language and we speak it every day.",
+      "tj": "Тоҷикӣ забони мост ва мо ҳар рӯз онро гап мезанем."
+    },
+    {
+      "en": "We have many good traditions and customs.",
+      "tj": "Мо анъанаҳо ва одатҳои хуб дорем."
+    },
+    {
+      "en": "There are many mountains and valleys in Tajikistan.",
+      "tj": "Дар Тоҷикистон кӯҳҳо ва водиҳои зиёд ҳастанд."
+    },
+    {
+      "en": "The valley is green and beautiful in spring.",
+      "tj": "Водӣ дар баҳор сабз ва зебо аст."
+    },
+    {
+      "en": "We grow cotton, fruits and vegetables in our country.",
+      "tj": "Мо дар кишвари худ пахта, мева ва сабзавот парвариш мекунем."
+    },
+    {
+      "en": "The apricot is sweet and very useful.",
+      "tj": "Зардолу ширин ва хеле фоиданок аст."
+    },
+    {
+      "en": "The guest is very important in our country.",
+      "tj": "Меҳмон дар кишвари мо хеле муҳим аст."
+    },
+    {
+      "en": "Tajik hospitality is famous in the world.",
+      "tj": "Меҳмоннавозии тоҷик дар ҷаҳон машҳур аст."
+    },
+    {
+      "en": "Navruz is a big and beautiful holiday.",
+      "tj": "Наврӯз иди калон ва зебо аст."
+    },
+    {
+      "en": "We celebrate Navruz in March and cook sumalak.",
+      "tj": "Мо Наврӯзро дар моҳи март ҷашн мегирем ва сумалак мепазем."
+    },
+    {
+      "en": "My grandmother cooks sumalak for Navruz.",
+      "tj": "Бибиам барои Наврӯз сумалак мепазад."
+    },
+    {
+      "en": "We sing songs and dance together on Navruz.",
+      "tj": "Мо дар Наврӯз якҷоя суруд мехонем ва рақс мекунем."
+    },
+    {
+      "en": "I love my country, my language and my people.",
+      "tj": "Ман кишварам, забонам ва мардумамро дӯст медорам."
     }
   ],
   "text": {
-    "en": "Text for lesson 31. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 31 is about Миёна - Синфи 4. I write all words in my notebook. Level 31 text.",
-    "tj": "Матни дарси 31..."
+    "en": "Tajikistan — My Country\n\nMy name is Ismoil. I live in Dushanbe, but my country is Tajikistan. Tajikistan is a small and beautiful country in Central Asia. I love my country very much. The people of Tajikistan are kind and friendly. Our language is Tajik. We speak Tajik every day. We also learn Russian and English at school.\n\nTajikistan is a mountainous country. There are many mountains and valleys. The mountains are very high and beautiful. In summer many people go to the mountains. They walk, take photos and rest. The valleys are green and beautiful. The rivers and lakes in the mountains are clean and cold. We grow cotton, fruits and vegetables in the valleys. The apricot, apple, grape and pomegranate are famous Tajik fruits. Our apricots are sweet and very useful. We also grow good wheat and rice.\n\nThe people of Tajikistan have many good traditions and customs. Hospitality is very important in our country. When a guest comes to our house, we always give him bread and salt. We say: \"Welcome!\" We give him tea, fruits and sweets. The guest is always welcome in a Tajik home. Our grandmothers and grandfathers teach us these good traditions. We respect old people very much.\n\nNavruz is a big and beautiful holiday in Tajikistan. We celebrate Navruz in March. It is the first day of spring and the first day of the new year. On Navruz all families cook sumalak. My grandmother cooks sumalak with my mother and our neighbours. They cook it all night and sing old songs. In the morning all the people come together and eat sumalak. We also cook good food, wear new clothes and visit our friends and family. We sing songs and dance together. Navruz is my favourite holiday.\n\nIn our country we also celebrate Independence Day, Teacher's Day and many other holidays. On these days we have big parties in the centre of the city. People sing, dance and say: \"Long live Tajikistan!\"\n\nI love my country, my language and my people. Tajikistan is the best country in the world for me. I want to study well and help my country. I am proud of my country.",
+    "tj": "Тоҷикистон — кишвари ман\n\nНоми ман Исмоил аст. Ман дар Душанбе зиндагӣ мекунам, аммо кишвари ман Тоҷикистон аст. Тоҷикистон кишвари хурд ва зебо дар Осиёи Марказӣ аст. Ман кишварамро хеле дӯст медорам. Мардуми Тоҷикистон меҳрубон ва дӯстона ҳастанд. Забони мо тоҷикӣ аст. Мо ҳар рӯз тоҷикӣ гап мезанем. Мо инчунин дар мактаб русӣ ва англисӣ меомӯзем.\n\nТоҷикистон кишвари кӯҳсор аст. Дар он кӯҳҳо ва водиҳои зиёд ҳастанд. Кӯҳҳо хеле баланд ва зебо ҳастанд. Дар тобистон мардуми зиёд ба кӯҳҳо мераванд. Онҳо қадам мезананд, акс мегиранд ва дам мегиранд. Водиҳо сабз ва зебо ҳастанд. Дарёҳо ва кӯлҳо дар кӯҳҳо тоза ва хунук ҳастанд. Мо дар водиҳо пахта, мева ва сабзавот парвариш мекунем. Зардолу, себ, ангур ва анор меваҳои машҳури тоҷикӣ ҳастанд. Зардолуҳои мо ширин ва хеле фоиданок ҳастанд. Мо инчунин гандум ва биринҷи хуб парвариш мекунем.\n\nМардуми Тоҷикистон анъанаҳо ва одатҳои хуб доранд. Меҳмоннавозӣ дар кишвари мо хеле муҳим аст. Вақте ки меҳмон ба хонаи мо меояд, мо ҳамеша ба ӯ нон ва намак медиҳем. Мо мегӯем: «Хуш омадед!» Мо ба ӯ чой, меваҳо ва ширинӣ медиҳем. Меҳмон дар хонаи тоҷик ҳамеша хуш омадед аст. Бибиҳо ва бобоҳои мо ин анъанаҳои хубро ба мо меомӯзонанд. Мо пиронсолонро хеле эҳтиром мекунем.\n\nНаврӯз иди калон ва зебо дар Тоҷикистон аст. Мо Наврӯзро дар моҳи март ҷашн мегирем. Ин рӯзи якуми баҳор ва рӯзи якуми соли нав аст. Дар Наврӯз ҳамаи оилаҳо сумалак мепазанд. Бибиам бо модарам ва ҳамсояҳоямон сумалак мепазад. Онҳо тамоми шаб онро мепазанд ва сурудҳои кӯҳна мехонанд. Субҳ ҳамаи мардум якҷоя меоянд ва сумалак мехӯранд. Мо инчунин хӯроки хуб мепазем, либосҳои нав мепӯшем ва ба дӯстон ва оилаамон меравем. Мо якҷоя суруд мехонем ва рақс мекунем. Наврӯз иди дӯстдоштаи ман аст.\n\nДар кишвари мо мо инчунин Рӯзи истиқлолият, Рӯзи муаллим ва идҳои дигари зиёдро ҷашн мегирем. Дар ин рӯзҳо мо дар маркази шаҳр базмҳои калон дорем. Мардум суруд мехонанд, рақс мекунанд ва мегӯянд: «Тоҷикистон зинда бод!»\n\nМан кишварам, забонам ва мардумамро дӯст медорам. Барои ман Тоҷикистон беҳтарин кишвар дар ҷаҳон аст. Ман мехоҳам, ки хуб таҳсил кунам ва ба кишварам кӯмак кунам. Ман ба кишварам ифтихор мекунам."
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Тоҷикистон кишвари ман аст ва ман онро хеле дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи understand",
-        "нодуруст C"
+        "Tajikistan is my country and I love it very much.",
+        "Tajikistan is my country and I love it very well.",
+        "Tajikistan is my city and I love it very much.",
+        "Tajikistan is my country and I like it very much."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "Tajikistan is my country and I love it very much."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Мардуми Тоҷикистон меҳрубон ва дӯстона ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи explain",
-        "нодуруст C"
+        "The people of Tajikistan are kind and friendly.",
+        "The people of Tajikistan are kind and happy.",
+        "The people of Tajikistan are clever and friendly.",
+        "The people of Dushanbe are kind and friendly."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "The people of Tajikistan are kind and friendly."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Тоҷикӣ забони мост ва мо ҳар рӯз онро гап мезанем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи important"
+        "Tajik is our language and we speak it every day.",
+        "Tajik is our language and we speak it every morning.",
+        "Tajik is our language and we speak it every evening.",
+        "Tajik is their language and they speak it every day."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "Tajik is our language and we speak it every day."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Мо анъанаҳо ва одатҳои хуб дорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи different",
-        "нодуруст C"
+        "We have many good traditions and customs.",
+        "We have many old traditions and customs.",
+        "We have many good traditions and holidays.",
+        "They have many good traditions and customs."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "We have many good traditions and customs."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Дар Тоҷикистон кӯҳҳо ва водиҳои зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи difficult",
-        "нодуруст A"
+        "There are many mountains and valleys in Tajikistan.",
+        "There are many mountains and rivers in Tajikistan.",
+        "There are many mountains and lakes in Tajikistan.",
+        "There are many forests and valleys in Tajikistan."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "There are many mountains and valleys in Tajikistan."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Водӣ дар баҳор сабз ва зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи easy",
-        "нодуруст A",
-        "нодуруст C"
+        "The valley is green and beautiful in spring.",
+        "The valley is green and beautiful in summer.",
+        "The field is green and beautiful in spring.",
+        "The valley is yellow and beautiful in spring."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "The valley is green and beautiful in spring."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Мо дар кишвари худ пахта, мева ва сабзавот парвариш мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи interesting"
+        "We grow cotton, fruits and vegetables in our country.",
+        "We grow cotton, fruits and vegetables in our garden.",
+        "We grow wheat, fruits and vegetables in our country.",
+        "We grow cotton, flowers and vegetables in our country."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "We grow cotton, fruits and vegetables in our country."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Зардолу ширин ва хеле фоиданок аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи remember",
-        "нодуруст B",
-        "нодуруст C"
+        "The apricot is sweet and very useful.",
+        "The apricot is sweet and very beautiful.",
+        "The apple is sweet and very useful.",
+        "The apricot is yellow and very useful."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "The apricot is sweet and very useful."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Меҳмон дар кишвари мо хеле муҳим аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи forget"
+        "The guest is very important in our country.",
+        "The guest is very important in our city.",
+        "The guest is very important in our house.",
+        "The visitor is very important in our country."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "The guest is very important in our country."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Меҳмоннавозии тоҷик дар ҷаҳон машҳур аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи homework"
+        "Tajik hospitality is famous in the world.",
+        "Tajik hospitality is famous in the country.",
+        "Tajik hospitality is good in the world.",
+        "Tajik food is famous in the world."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "Tajik hospitality is famous in the world."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Наврӯз иди калон ва зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи exercise",
-        "нодуруст C",
-        "нодуруст A"
+        "Navruz is a big and beautiful holiday.",
+        "Navruz is a big and good holiday.",
+        "Navruz is an old and beautiful holiday.",
+        "Navruz is a big and beautiful day."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "Navruz is a big and beautiful holiday."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Мо Наврӯзро дар моҳи март ҷашн мегирем ва сумалак мепазем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи text"
+        "We celebrate Navruz in March and cook sumalak.",
+        "We celebrate Navruz in May and cook sumalak.",
+        "We celebrate Navruz in March and eat sumalak.",
+        "We celebrate Navruz in March and cook good food."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "We celebrate Navruz in March and cook sumalak."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Бибиам барои Наврӯз сумалак мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи story",
-        "нодуруст A"
+        "My grandmother cooks sumalak for Navruz.",
+        "My grandmother cooks sumalak for the holiday.",
+        "My mother cooks sumalak for Navruz.",
+        "My grandmother bakes sumalak for Navruz."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "My grandmother cooks sumalak for Navruz."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Мо дар Наврӯз якҷоя суруд мехонем ва рақс мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи question",
-        "нодуруст B"
+        "We sing songs and dance together on Navruz.",
+        "We sing songs and laugh together on Navruz.",
+        "We sing songs and dance together at Navruz.",
+        "We sing and dance together on Navruz."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "We sing songs and dance together on Navruz."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Ман кишварам, забонам ва мардумамро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи answer",
-        "нодуруст B"
+        "I love my country, my language and my people.",
+        "I love my country, my city and my people.",
+        "I love my country, my language and my family.",
+        "I love my country, my school and my people."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "I love my country, my language and my people."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Тоҷикистон кишвари хурд ва зебо дар Осиёи Марказӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи understand"
+        "Tajikistan is a small and beautiful country in Central Asia.",
+        "Tajikistan is a small and beautiful country in Asia.",
+        "Tajikistan is a big and beautiful country in Central Asia.",
+        "Tajikistan is a small and old country in Central Asia."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "Tajikistan is a small and beautiful country in Central Asia."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Мо инчунин дар мактаб русӣ ва англисӣ меомӯзем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи explain"
+        "We also learn Russian and English at school.",
+        "We also learn Russian and English at home.",
+        "We also study Russian and English at school.",
+        "We also learn Tajik and English at school."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "We also learn Russian and English at school."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Тоҷикистон кишвари кӯҳсор аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи important",
-        "нодуруст A",
-        "нодуруст C"
+        "Tajikistan is a mountainous country.",
+        "Tajikistan is a big country.",
+        "Tajikistan is a green country.",
+        "Tajikistan is a beautiful country."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "Tajikistan is a mountainous country."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Кӯҳҳо хеле баланд ва зебо ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи different",
-        "нодуруст C",
-        "нодуруст B"
+        "The mountains are very high and beautiful.",
+        "The mountains are very tall and beautiful.",
+        "The mountains are very high and green.",
+        "The valleys are very high and beautiful."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "The mountains are very high and beautiful."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Дар тобистон мардуми зиёд ба кӯҳҳо мераванд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи difficult",
-        "нодуруст A"
+        "In summer many people go to the mountains.",
+        "In spring many people go to the mountains.",
+        "In summer many people go to the valleys.",
+        "In summer many children go to the mountains."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "In summer many people go to the mountains."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Онҳо қадам мезананд, акс мегиранд ва дам мегиранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи easy",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "They walk, take photos and rest.",
+        "They walk, take photos and play.",
+        "They run, take photos and rest.",
+        "They walk, take presents and rest."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "They walk, take photos and rest."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Дарёҳо ва кӯлҳо дар кӯҳҳо тоза ва хунук ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи interesting",
-        "нодуруст A"
+        "The rivers and lakes in the mountains are clean and cold.",
+        "The rivers and lakes in the mountains are clean and warm.",
+        "The rivers and lakes in the valleys are clean and cold.",
+        "The rivers and seas in the mountains are clean and cold."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "The rivers and lakes in the mountains are clean and cold."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Зардолу, себ, ангур ва анор меваҳои машҳури тоҷикӣ ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи remember",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "The apricot, apple, grape and pomegranate are famous Tajik fruits.",
+        "The apricot, apple, grape and orange are famous Tajik fruits.",
+        "The apricot, apple, lemon and pomegranate are famous Tajik fruits.",
+        "The apricot, pear, grape and pomegranate are famous Tajik fruits."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "The apricot, apple, grape and pomegranate are famous Tajik fruits."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Зардолуҳои мо ширин ва хеле фоиданок ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи forget",
-        "нодуруст B"
+        "Our apricots are sweet and very useful.",
+        "Our apricots are sweet and very beautiful.",
+        "Our apples are sweet and very useful.",
+        "Our apricots are yellow and very useful."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "Our apricots are sweet and very useful."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Мо инчунин гандум ва биринҷи хуб парвариш мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи homework"
+        "We also grow good wheat and rice.",
+        "We also grow good wheat and cotton.",
+        "We also grow good fruits and rice.",
+        "We also grow good wheat and vegetables."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "We also grow good wheat and rice."
+    },
+    {
+      "q": "«Меҳмоннавозӣ дар кишвари мо хеле муҳим аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Hospitality is very important in our country.",
+        "Hospitality is very important in our city.",
+        "Hospitality is very important in our house.",
+        "Hospitality is very good in our country."
+      ],
+      "answer": "Hospitality is very important in our country."
+    },
+    {
+      "q": "«Вақте ки меҳмон ба хонаи мо меояд, мо ҳамеша ба ӯ нон ва намак медиҳем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When a guest comes to our house, we always give him bread and salt.",
+        "When a guest comes to our house, we always give him bread and tea.",
+        "When a visitor comes to our house, we always give him bread and salt.",
+        "When a guest comes to our house, we sometimes give him bread and salt."
+      ],
+      "answer": "When a guest comes to our house, we always give him bread and salt."
+    },
+    {
+      "q": "«Мо ба ӯ чой, меваҳо ва ширинӣ медиҳем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We give him tea, fruits and sweets.",
+        "We give him tea, fruits and bread.",
+        "We give her tea, fruits and sweets.",
+        "We give him milk, fruits and sweets."
+      ],
+      "answer": "We give him tea, fruits and sweets."
+    },
+    {
+      "q": "«Меҳмон дар хонаи тоҷик ҳамеша хуш омадед аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The guest is always welcome in a Tajik home.",
+        "The guest is always happy in a Tajik home.",
+        "The visitor is always welcome in a Tajik home.",
+        "The guest is sometimes welcome in a Tajik home."
+      ],
+      "answer": "The guest is always welcome in a Tajik home."
+    },
+    {
+      "q": "«Бибиҳо ва бобоҳои мо ин анъанаҳои хубро ба мо меомӯзонанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Our grandmothers and grandfathers teach us these good traditions.",
+        "Our grandmothers and grandfathers teach us these old traditions.",
+        "Our mothers and fathers teach us these good traditions.",
+        "Our grandmothers and grandfathers teach us these good customs."
+      ],
+      "answer": "Our grandmothers and grandfathers teach us these good traditions."
+    },
+    {
+      "q": "«Мо пиронсолонро хеле эҳтиром мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We respect old people very much.",
+        "We respect our parents very much.",
+        "We love old people very much.",
+        "We respect old people very well."
+      ],
+      "answer": "We respect old people very much."
+    },
+    {
+      "q": "«Ин рӯзи якуми баҳор ва рӯзи якуми соли нав аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It is the first day of spring and the first day of the new year.",
+        "It is the first day of spring and the last day of the new year.",
+        "It is the first day of summer and the first day of the new year.",
+        "It is the first day of spring and the first day of the new month."
+      ],
+      "answer": "It is the first day of spring and the first day of the new year."
+    },
+    {
+      "q": "«Дар Наврӯз ҳамаи оилаҳо сумалак мепазанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "On Navruz all families cook sumalak.",
+        "On Navruz all families eat sumalak.",
+        "On Navruz all families cook good food.",
+        "On Navruz some families cook sumalak."
+      ],
+      "answer": "On Navruz all families cook sumalak."
+    },
+    {
+      "q": "«Онҳо тамоми шаб онро мепазанд ва сурудҳои кӯҳна мехонанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "They cook it all night and sing old songs.",
+        "They cook it all day and sing old songs.",
+        "They cook it all night and sing new songs.",
+        "They bake it all night and sing old songs."
+      ],
+      "answer": "They cook it all night and sing old songs."
+    },
+    {
+      "q": "«Субҳ ҳамаи мардум якҷоя меоянд ва сумалак мехӯранд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In the morning all the people come together and eat sumalak.",
+        "In the evening all the people come together and eat sumalak.",
+        "In the morning all the people come together and cook sumalak.",
+        "In the morning all the children come together and eat sumalak."
+      ],
+      "answer": "In the morning all the people come together and eat sumalak."
+    },
+    {
+      "q": "«Мо инчунин хӯроки хуб мепазем, либосҳои нав мепӯшем ва ба дӯстон ва оилаамон меравем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We also cook good food, wear new clothes and visit our friends and family.",
+        "We also cook good food, wear old clothes and visit our friends and family.",
+        "We also cook good food, wear new clothes and visit our teachers.",
+        "We also eat good food, wear new clothes and visit our friends and family."
+      ],
+      "answer": "We also cook good food, wear new clothes and visit our friends and family."
+    },
+    {
+      "q": "«Наврӯз иди дӯстдоштаи ман аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Navruz is my favourite holiday.",
+        "Navruz is my favourite day.",
+        "Navruz is my favourite season.",
+        "Navruz is a favourite holiday."
+      ],
+      "answer": "Navruz is my favourite holiday."
+    },
+    {
+      "q": "«Дар кишвари мо мо инчунин Рӯзи истиқлолият, Рӯзи муаллим ва идҳои дигари зиёдро ҷашн мегирем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In our country we also celebrate Independence Day, Teacher's Day and many other holidays.",
+        "In our country we also celebrate Independence Day, Mother's Day and many other holidays.",
+        "In our country we also celebrate Independence Day, Teacher's Day and many other parties.",
+        "In our city we also celebrate Independence Day, Teacher's Day and many other holidays."
+      ],
+      "answer": "In our country we also celebrate Independence Day, Teacher's Day and many other holidays."
+    },
+    {
+      "q": "«Дар ин рӯзҳо мо дар маркази шаҳр базмҳои калон дорем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "On these days we have big parties in the centre of the city.",
+        "On these days we have big holidays in the centre of the city.",
+        "On these days we have big parties in the park of the city.",
+        "On those days we have big parties in the centre of the city."
+      ],
+      "answer": "On these days we have big parties in the centre of the city."
+    },
+    {
+      "q": "«Мардум суруд мехонанд, рақс мекунанд ва мегӯянд: \"Тоҷикистон зинда бод!\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "People sing, dance and say: \"Long live Tajikistan!\"",
+        "People sing, dance and say: \"Long live Dushanbe!\"",
+        "People sing, laugh and say: \"Long live Tajikistan!\"",
+        "People sing, dance and say: \"Long live my country!\""
+      ],
+      "answer": "People sing, dance and say: \"Long live Tajikistan!\""
+    },
+    {
+      "q": "«Барои ман Тоҷикистон беҳтарин кишвар дар ҷаҳон аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Tajikistan is the best country in the world for me.",
+        "Tajikistan is the best country in Asia for me.",
+        "Tajikistan is the most beautiful country in the world for me.",
+        "Tajikistan is the best city in the world for me."
+      ],
+      "answer": "Tajikistan is the best country in the world for me."
+    },
+    {
+      "q": "«Ман мехоҳам, ки хуб таҳсил кунам ва ба кишварам кӯмак кунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to study well and help my country.",
+        "I want to study well and help my family.",
+        "I want to work well and help my country.",
+        "I want to study well and love my country."
+      ],
+      "answer": "I want to study well and help my country."
+    },
+    {
+      "q": "«Ман ба кишварам ифтихор мекунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I am proud of my country.",
+        "I am happy for my country.",
+        "I am proud of my city.",
+        "I am proud of my family."
+      ],
+      "answer": "I am proud of my country."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 25
+  "wordsCount": 15
 }
