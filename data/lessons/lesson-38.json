@@ -1,446 +1,762 @@
 {
-  "id": 38,
-  "title": "Матн ва машқҳо 38",
-  "level": "Миёна - Синфи 4",
+  "id": 37,
+  "title": "Матн 37: Интернет ва технология дар ҳаёти мо",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "internet",
+      "tj": "интернет",
+      "ex": "The internet helps us learn new things."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "website",
+      "tj": "сомона",
+      "ex": "I visit an interesting website every day."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "email",
+      "tj": "почтаи электронӣ",
+      "ex": "I send an email to my teacher."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "message",
+      "tj": "паём",
+      "ex": "My friend sends me a message on the phone."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "screen",
+      "tj": "экран",
+      "ex": "The screen of my computer is big."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "to click",
+      "tj": "пахш кардан",
+      "ex": "Click here to open the website."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "to search",
+      "tj": "ҷустуҷӯ кардан",
+      "ex": "I search for new words on the internet."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "password",
+      "tj": "рамз",
+      "ex": "My password is a secret."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "online",
+      "tj": "онлайн",
+      "ex": "We have online lessons in winter."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "offline",
+      "tj": "офлайн",
+      "ex": "I read books offline."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "to print",
+      "tj": "чоп кардан",
+      "ex": "I print my homework for school."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "printer",
+      "tj": "принтер",
+      "ex": "Our printer is new and fast."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "to save",
+      "tj": "нигоҳ доштан",
+      "ex": "Save your file before you close it."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "file",
+      "tj": "файл",
+      "ex": "This file has many photos."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
+      "en": "folder",
+      "tj": "папка",
+      "ex": "I put my files in the folder."
     },
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
-    },
-    {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
-    },
-    {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
-    },
-    {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
-    },
-    {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
-    },
-    {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "technology",
+      "tj": "технология",
+      "ex": "Technology changes our life every day."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 38)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "The internet helps us learn new things every day.",
+      "tj": "Интернет ҳар рӯз ба мо чизҳои нав омӯхтан кӯмак мекунад."
     },
     {
-      "en": "I'm working on lesson 38",
-      "tj": "Ман дарси 38-ро меомӯзам"
+      "en": "I visit an interesting website about animals.",
+      "tj": "Ман ҳар рӯз ба сомонаи ҷолиб дар бораи ҳайвонот медароям."
+    },
+    {
+      "en": "I send an email to my teacher every week.",
+      "tj": "Ман ҳар ҳафта ба муаллимам почтаи электронӣ мефиристам."
+    },
+    {
+      "en": "My friend sends me a message on the phone.",
+      "tj": "Дӯсти ман ба ман дар телефон паём мефиристад."
+    },
+    {
+      "en": "The screen of my computer is big and clean.",
+      "tj": "Экрани компютери ман калон ва тоза аст."
+    },
+    {
+      "en": "Click here to open the website.",
+      "tj": "Барои кушодани сомона ин ҷоро пахш кунед."
+    },
+    {
+      "en": "I search for new words on the internet.",
+      "tj": "Ман дар интернет калимаҳои навро ҷустуҷӯ мекунам."
+    },
+    {
+      "en": "My password is a secret and I never tell it to anyone.",
+      "tj": "Рамзи ман сирр аст ва ман онро ҳеҷ гоҳ ба касе намегӯям."
+    },
+    {
+      "en": "We have online lessons in winter.",
+      "tj": "Мо дар зимистон дарсҳои онлайн дорем."
+    },
+    {
+      "en": "I read books offline in the evening.",
+      "tj": "Ман бегоҳ китобҳоро офлайн мехонам."
+    },
+    {
+      "en": "I print my homework for school.",
+      "tj": "Ман вазифаи хонагиамро барои мактаб чоп мекунам."
+    },
+    {
+      "en": "Our printer is new and very fast.",
+      "tj": "Принтери мо нав ва хеле тез аст."
+    },
+    {
+      "en": "Save your file before you close it.",
+      "tj": "Файлатро пеш аз пӯшидан нигоҳ дор."
+    },
+    {
+      "en": "This file has many photos of my family.",
+      "tj": "Ин файл аксҳои зиёди оилаи маро дорад."
+    },
+    {
+      "en": "I put my files in the folder.",
+      "tj": "Ман файлҳоямро ба папка мегузорам."
+    },
+    {
+      "en": "Technology changes our life every day.",
+      "tj": "Технология ҳар рӯз ҳаёти моро тағйир медиҳад."
     }
   ],
   "text": {
-    "en": "Text for lesson 38. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 38 is about Миёна - Синфи 4. I write all words in my notebook. Level 38 text.",
-    "tj": "Матни дарси 38..."
+    "en": "The Internet and Technology in Our Life\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe. In our flat we have a computer, a laptop, two phones and a printer. My father works with the computer at his office. My mother uses the internet every day. My sister Zuhro studies online in winter. And I like technology very much.\n\nTechnology is very useful in our life. It helps us learn new things, talk to our friends and find interesting information. The internet is a very big library. On the internet we can read books, watch videos, listen to music and search for new words. When I do not understand an English word, I search for it on the internet and find its translation. My teacher says: \"The internet is a good teacher, but you must use it carefully.\"\n\nEvery day I use my father's computer. First I turn it on and wait for the screen. Then I open a website about animals or nature. I read texts and look at beautiful photos of wild animals — the snow leopard, the brown bear and the eagle. I save my favourite photos in a special folder. When I want to send a photo to my friend Farid, I click the button \"send\" and my message goes to his phone. It is very quick and easy.\n\nMy mother has an email. She sends emails to her colleagues at work. She writes letters to her sister in Russia. My sister Zuhro studies at the university and she often does her homework online. She has an account on a special website. She has a password — she never tells her password to anyone. My father says: \"A password is a secret. Never give your password to other people!\"\n\nIn winter, when it is very cold and snowy, our school sometimes has online lessons. Our teacher opens a website, and we see her on the screen of our computer. We listen to her, answer her questions and write exercises in our notebooks. It is very interesting! We can study at home and it is safe.\n\nSometimes I want to print a text or a photo. I click the button \"print\", and the printer prints my file on paper. My mother also prints some documents for her work. Our printer is new and very fast.\n\nThe internet has good sides and bad sides. Good sides: we learn a lot, we talk to our friends, we read books and we find answers to our questions. Bad sides: some children play computer games all day and do not do their homework. Some children look at bad websites. Some children tell their passwords to other people and lose their accounts. We must be careful online.\n\nMy parents say: \"Use the computer for one hour a day, not more. Do not forget about books, sport and your family. The computer is our helper, not our master.\"\n\nI love technology. When I grow up, I want to be a programmer like my cousin. I want to make new websites and new computer programmes. I want to help my school and my country. But I also want to remember the words of my father: \"The computer is our helper, not our master. Books, sport and family are the most important things in our life.\"",
+    "tj": "Интернет ва технология дар ҳаёти мо\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе зиндагӣ мекунам. Дар хонаи мо компютер, лаптоп, ду телефон ва принтер ҳастанд. Падарам дар идорааш бо компютер кор мекунад. Модарам ҳар рӯз интернетро истифода мебарад. Хоҳарам Зуҳро дар зимистон онлайн таҳсил мекунад. Ва ман технологияро хеле дӯст медорам.\n\nТехнология дар ҳаёти мо хеле фоиданок аст. Он ба мо чизҳои нав омӯхтан, бо дӯстонамон сӯҳбат кардан ва маълумоти ҷолиб ёфтан кӯмак мекунад. Интернет китобхонаи хеле калон аст. Дар интернет мо метавонем китобҳо хонем, видео тамошо кунем, мусиқӣ гӯш кунем ва калимаҳои нав ҷустуҷӯ кунем. Вақте ки ман калимаи англисиро намефаҳмам, ман онро дар интернет ҷустуҷӯ мекунам ва тарҷумаи онро меёбам. Муаллимам мегӯяд: «Интернет муаллими хуб аст, аммо ту бояд онро бодиққат истифода барӣ.»\n\nҲар рӯз ман компютери падарамро истифода мебарам. Аввал ман онро равшан мекунам ва ба экран интизор мешавам. Баъд ман сомонае дар бораи ҳайвонот ё табиат мекушоям. Ман матнҳо мехонам ва ба аксҳои зебои ҳайвоноти ваҳшӣ нигоҳ мекунам — барфпланг, хирси қаҳваранг ва уқоб. Ман аксҳои дӯстдоштаи худро дар папкаи махсус нигоҳ медорам. Вақте ки ман мехоҳам аксеро ба дӯстам Фарид фиристам, ман тугмаи «фиристодан»-ро пахш мекунам ва паёми ман ба телефони ӯ меравад. Ин хеле зуд ва осон аст.\n\nМодарам почтаи электронӣ дорад. Ӯ ба ҳамкасбони худ дар кор почтаи электронӣ мефиристад. Ӯ ба хоҳараш дар Русия мактубҳо менависад. Хоҳарам Зуҳро дар донишгоҳ таҳсил мекунад ва ӯ аксар вақт вазифаи хонагиашро онлайн иҷро мекунад. Ӯ дар сомонаи махсус ҳисоб дорад. Ӯ рамз дорад — ӯ ҳеҷ гоҳ рамзашро ба касе намегӯяд. Падарам мегӯяд: «Рамз сирр аст. Ҳеҷ гоҳ рамзи худро ба одамони дигар надиҳед!»\n\nДар зимистон, вақте ки хеле хунук ва барфнок аст, мактаби мо баъзан дарсҳои онлайн дорад. Муаллимаи мо сомонаро мекушояд ва мо ӯро дар экрани компютери худ мебинем. Мо ба ӯ гӯш мекунем, ба саволҳояш ҷавоб медиҳем ва машқҳоро дар дафтарҳоямон менависем. Ин хеле ҷолиб аст! Мо метавонем дар хона таҳсил кунем ва ин бехатар аст.\n\nБаъзан ман мехоҳам матн ё акс чоп кунам. Ман тугмаи «чоп»-ро пахш мекунам ва принтер файли маро дар коғаз чоп мекунад. Модарам инчунин баъзе ҳуҷҷатҳоро барои кори худ чоп мекунад. Принтери мо нав ва хеле тез аст.\n\nИнтернет тарафҳои хуб ва тарафҳои бад дорад. Тарафҳои хуб: мо бисёр чизҳоро меомӯзем, бо дӯстонамон сӯҳбат мекунем, китобҳо мехонем ва ба саволҳои худ ҷавоб меёбем. Тарафҳои бад: баъзе кӯдакон тамоми рӯз бозиҳои компютериро бозӣ мекунанд ва вазифаи хонагиашонро иҷро намекунанд. Баъзе кӯдакон ба сомонаҳои бад нигоҳ мекунанд. Баъзе кӯдакон рамзи худро ба одамони дигар мегӯянд ва ҳисоби худро гум мекунанд. Мо бояд онлайн бодиққат бошем.\n\nВолидонам мегӯянд: «Компютерро як соат дар як рӯз истифода бар, на бештар. Дар бораи китобҳо, варзиш ва оилаат фаромӯш накун. Компютер ёвари мост, на хоҷаи мо.»\n\nМан технологияро дӯст медорам. Вақте ки ман калон мешавам, ман мехоҳам барномасоз шавам, ба мисли амакбачаам. Ман мехоҳам сомонаҳои нав ва барномаҳои нави компютерӣ созам. Ман мехоҳам ба мактабам ва кишварам кӯмак кунам. Аммо ман инчунин мехоҳам суханони падарамро ба ёд дорам: «Компютер ёвари мост, на хоҷаи мо. Китобҳо, варзиш ва оила муҳимтарин чизҳо дар ҳаёти мо ҳастанд.»"
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Интернет ҳар рӯз ба мо чизҳои нав омӯхтан кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи understand",
-        "нодуруст B"
+        "The internet helps us learn new things every day.",
+        "The internet helps us learn good things every day.",
+        "The internet helps us learn new words every day.",
+        "The internet helps them learn new things every day."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "The internet helps us learn new things every day."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Ман ба сомонаи ҷолиб дар бораи ҳайвонот медароям» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи explain",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "I visit an interesting website about animals.",
+        "I visit an interesting website about nature.",
+        "I visit a good website about animals.",
+        "I open an interesting website about animals."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "I visit an interesting website about animals."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Ман ҳар ҳафта ба муаллимам почтаи электронӣ мефиристам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи important"
+        "I send an email to my teacher every week.",
+        "I send an email to my teacher every day.",
+        "I send a letter to my teacher every week.",
+        "I write an email to my teacher every week."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "I send an email to my teacher every week."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Дӯсти ман ба ман дар телефон паём мефиристад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи different",
-        "нодуруст C"
+        "My friend sends me a message on the phone.",
+        "My friend sends me a message on the computer.",
+        "My brother sends me a message on the phone.",
+        "My friend sends me a letter on the phone."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "My friend sends me a message on the phone."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Экрани компютери ман калон ва тоза аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи difficult"
+        "The screen of my computer is big and clean.",
+        "The screen of my computer is big and new.",
+        "The screen of my computer is small and clean.",
+        "The screen of my laptop is big and clean."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "The screen of my computer is big and clean."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Барои кушодани сомона ин ҷоро пахш кунед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи easy"
+        "Click here to open the website.",
+        "Click there to open the website.",
+        "Click here to close the website.",
+        "Click here to save the website."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "Click here to open the website."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Ман дар интернет калимаҳои навро ҷустуҷӯ мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи interesting",
-        "нодуруст B"
+        "I search for new words on the internet.",
+        "I search for new words in the internet.",
+        "I look for new words on the internet.",
+        "I search for old words on the internet."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "I search for new words on the internet."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Рамзи ман сирр аст ва ман онро ҳеҷ гоҳ ба касе намегӯям» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи remember",
-        "нодуруст A",
-        "нодуруст C"
+        "My password is a secret and I never tell it to anyone.",
+        "My password is a secret and I never tell it to my friend.",
+        "My password is a secret and I never give it to anyone.",
+        "My password is a secret and I never show it to anyone."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "My password is a secret and I never tell it to anyone."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Мо дар зимистон дарсҳои онлайн дорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи forget",
-        "нодуруст A"
+        "We have online lessons in winter.",
+        "We have online lessons in spring.",
+        "We have online classes in winter.",
+        "We have online lessons in summer."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "We have online lessons in winter."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Ман бегоҳ китобҳоро офлайн мехонам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи homework",
-        "нодуруст A",
-        "нодуруст C"
+        "I read books offline in the evening.",
+        "I read books offline in the morning.",
+        "I read books offline at night.",
+        "I read texts offline in the evening."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "I read books offline in the evening."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Ман вазифаи хонагиамро барои мактаб чоп мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи exercise",
-        "нодуруст C"
+        "I print my homework for school.",
+        "I print my homework for the school.",
+        "I print my book for school.",
+        "I write my homework for school."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "I print my homework for school."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Принтери мо нав ва хеле тез аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи text",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Our printer is new and very fast.",
+        "Our printer is new and very good.",
+        "Our computer is new and very fast.",
+        "Our printer is old and very fast."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "Our printer is new and very fast."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Файлатро пеш аз пӯшидан нигоҳ дор» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи story",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "Save your file before you close it.",
+        "Save your file before you open it.",
+        "Save your folder before you close it.",
+        "Print your file before you close it."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "Save your file before you close it."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Ин файл аксҳои зиёди оилаи маро дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи question",
-        "нодуруст C",
-        "нодуруст B"
+        "This file has many photos of my family.",
+        "This file has many photos of my friends.",
+        "This folder has many photos of my family.",
+        "This file has many photos of my country."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "This file has many photos of my family."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Ман файлҳоямро ба папка мегузорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи answer",
-        "нодуруст C",
-        "нодуруст B"
+        "I put my files in the folder.",
+        "I put my files in the file.",
+        "I put my folders in the file.",
+        "I save my files in the folder."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "I put my files in the folder."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Технология ҳар рӯз ҳаёти моро тағйир медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи understand",
-        "нодуруст C",
-        "нодуруст B"
+        "Technology changes our life every day.",
+        "Technology changes our life every year.",
+        "Technology changes our work every day.",
+        "Technology makes our life every day."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "Technology changes our life every day."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Дар хонаи мо компютер, лаптоп, ду телефон ва принтер ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи explain",
-        "нодуруст C",
-        "нодуруст A"
+        "In our flat we have a computer, a laptop, two phones and a printer.",
+        "In our house we have a computer, a laptop, two phones and a printer.",
+        "In our flat we have a computer, a laptop, three phones and a printer.",
+        "In our flat we have a computer, a laptop, two phones and a computer."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "In our flat we have a computer, a laptop, two phones and a printer."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Падарам дар идорааш бо компютер кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи important",
-        "нодуруст A",
-        "нодуруст C"
+        "My father works with the computer at his office.",
+        "My father works with the computer at his home.",
+        "My mother works with the computer at her office.",
+        "My father plays with the computer at his office."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "My father works with the computer at his office."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Модарам ҳар рӯз интернетро истифода мебарад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи different",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "My mother uses the internet every day.",
+        "My mother uses the computer every day.",
+        "My mother uses the internet every morning.",
+        "My father uses the internet every day."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "My mother uses the internet every day."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Хоҳарам Зуҳро дар зимистон онлайн таҳсил мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи difficult",
-        "нодуруст B"
+        "My sister Zuhro studies online in winter.",
+        "My sister Zuhro studies online in summer.",
+        "My sister Zuhro works online in winter.",
+        "My brother Zuhro studies online in winter."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "My sister Zuhro studies online in winter."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Технология дар ҳаёти мо хеле фоиданок аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи easy"
+        "Technology is very useful in our life.",
+        "Technology is very useful in our work.",
+        "Technology is very good in our life.",
+        "The internet is very useful in our life."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "Technology is very useful in our life."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Он ба мо чизҳои нав омӯхтан, бо дӯстонамон сӯҳбат кардан ва маълумоти ҷолиб ёфтан кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи interesting",
-        "нодуруст C",
-        "нодуруст B"
+        "It helps us learn new things, talk to our friends and find interesting information.",
+        "It helps us learn new things, talk to our friends and find new information.",
+        "It helps us learn new words, talk to our friends and find interesting information.",
+        "It helps us learn new things, talk to our parents and find interesting information."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "It helps us learn new things, talk to our friends and find interesting information."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Интернет китобхонаи хеле калон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи remember",
-        "нодуруст C"
+        "The internet is a very big library.",
+        "The internet is a very good library.",
+        "The internet is a very big book.",
+        "The library is a very big internet."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "The internet is a very big library."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Дар интернет мо метавонем китобҳо хонем, видео тамошо кунем, мусиқӣ гӯш кунем ва калимаҳои нав ҷустуҷӯ кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи forget"
+        "On the internet we can read books, watch videos, listen to music and search for new words.",
+        "On the internet we can read books, watch videos, listen to songs and search for new words.",
+        "On the internet we can read texts, watch videos, listen to music and search for new words.",
+        "In the internet we can read books, watch videos, listen to music and search for new words."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "On the internet we can read books, watch videos, listen to music and search for new words."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Вақте ки ман калимаи англисиро намефаҳмам, ман онро дар интернет ҷустуҷӯ мекунам ва тарҷумаи онро меёбам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи homework"
+        "When I do not understand an English word, I search for it on the internet and find its translation.",
+        "When I do not understand an English word, I search for it on the internet and find its meaning.",
+        "When I do not understand a word, I search for it on the internet and find its translation.",
+        "When I do not understand an English word, I look for it on the internet and find its translation."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "When I do not understand an English word, I search for it on the internet and find its translation."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Муаллимам мегӯяд: \"Интернет муаллими хуб аст, аммо ту бояд онро бодиққат истифода барӣ.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи exercise",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "My teacher says: \"The internet is a good teacher, but you must use it carefully.\"",
+        "My teacher says: \"The internet is a good library, but you must use it carefully.\"",
+        "My mother says: \"The internet is a good teacher, but you must use it carefully.\"",
+        "My teacher says: \"The internet is a good teacher, but you must use it every day.\""
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "My teacher says: \"The internet is a good teacher, but you must use it carefully.\""
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Ҳар рӯз ман компютери падарамро истифода мебарам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи text",
-        "нодуруст A"
+        "Every day I use my father's computer.",
+        "Every day I use my mother's computer.",
+        "Every morning I use my father's computer.",
+        "Every day I use my brother's computer."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "Every day I use my father's computer."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Аввал ман онро равшан мекунам ва ба экран интизор мешавам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи story",
-        "нодуруст B",
-        "нодуруст C"
+        "First I turn it on and wait for the screen.",
+        "First I turn it off and wait for the screen.",
+        "First I open it and wait for the screen.",
+        "First I turn it on and look at the screen."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "First I turn it on and wait for the screen."
+    },
+    {
+      "q": "«Баъд ман сомонае дар бораи ҳайвонот ё табиат мекушоям» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Then I open a website about animals or nature.",
+        "Then I open a website about animals and nature.",
+        "Then I open a website about animals or birds.",
+        "Then I close a website about animals or nature."
+      ],
+      "answer": "Then I open a website about animals or nature."
+    },
+    {
+      "q": "«Ман матнҳо мехонам ва ба аксҳои зебои ҳайвоноти ваҳшӣ нигоҳ мекунам — барфпланг, хирси қаҳваранг ва уқоб» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I read texts and look at beautiful photos of wild animals — the snow leopard, the brown bear and the eagle.",
+        "I read texts and look at beautiful photos of wild animals — the snow leopard, the brown bear and the falcon.",
+        "I read books and look at beautiful photos of wild animals — the snow leopard, the brown bear and the eagle.",
+        "I read texts and look at good photos of wild animals — the snow leopard, the brown bear and the eagle."
+      ],
+      "answer": "I read texts and look at beautiful photos of wild animals — the snow leopard, the brown bear and the eagle."
+    },
+    {
+      "q": "«Ман аксҳои дӯстдоштаи худро дар папкаи махсус нигоҳ медорам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I save my favourite photos in a special folder.",
+        "I save my favourite photos in a special file.",
+        "I put my favourite photos in a special folder.",
+        "I save my good photos in a special folder."
+      ],
+      "answer": "I save my favourite photos in a special folder."
+    },
+    {
+      "q": "«Вақте ки ман мехоҳам аксеро ба дӯстам Фарид фиристам, ман тугмаи \"фиристодан\"-ро пахш мекунам ва паёми ман ба телефони ӯ меравад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I want to send a photo to my friend Farid, I click the button \"send\" and my message goes to his phone.",
+        "When I want to send a photo to my friend Farid, I click the button \"send\" and my message goes to his computer.",
+        "When I want to send a message to my friend Farid, I click the button \"send\" and my message goes to his phone.",
+        "When I want to send a photo to my friend Farid, I push the button \"send\" and my message goes to his phone."
+      ],
+      "answer": "When I want to send a photo to my friend Farid, I click the button \"send\" and my message goes to his phone."
+    },
+    {
+      "q": "«Ин хеле зуд ва осон аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It is very quick and easy.",
+        "It is very fast and easy.",
+        "It is very quick and good.",
+        "It is very quick and simple."
+      ],
+      "answer": "It is very quick and easy."
+    },
+    {
+      "q": "«Модарам почтаи электронӣ дорад. Ӯ ба ҳамкасбони худ дар кор почтаи электронӣ мефиристад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My mother has an email. She sends emails to her colleagues at work.",
+        "My mother has an email. She sends emails to her friends at work.",
+        "My mother has an email. She writes emails to her colleagues at work.",
+        "My father has an email. He sends emails to his colleagues at work."
+      ],
+      "answer": "My mother has an email. She sends emails to her colleagues at work."
+    },
+    {
+      "q": "«Ӯ ба хоҳараш дар Русия мактубҳо менависад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "She writes letters to her sister in Russia.",
+        "She writes letters to her sister in Tajikistan.",
+        "She writes emails to her sister in Russia.",
+        "He writes letters to his sister in Russia."
+      ],
+      "answer": "She writes letters to her sister in Russia."
+    },
+    {
+      "q": "«Хоҳарам Зуҳро дар донишгоҳ таҳсил мекунад ва ӯ аксар вақт вазифаи хонагиашро онлайн иҷро мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My sister Zuhro studies at the university and she often does her homework online.",
+        "My sister Zuhro studies at the university and she sometimes does her homework online.",
+        "My sister Zuhro studies at school and she often does her homework online.",
+        "My sister Zuhro works at the university and she often does her homework online."
+      ],
+      "answer": "My sister Zuhro studies at the university and she often does her homework online."
+    },
+    {
+      "q": "«Ӯ дар сомонаи махсус ҳисоб дорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "She has an account on a special website.",
+        "She has an account on a special site.",
+        "He has an account on a special website.",
+        "She has a password on a special website."
+      ],
+      "answer": "She has an account on a special website."
+    },
+    {
+      "q": "«Ӯ рамз дорад — ӯ ҳеҷ гоҳ рамзашро ба касе намегӯяд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "She has a password — she never tells her password to anyone.",
+        "She has a password — she never tells her password to her friend.",
+        "She has a password — she never shows her password to anyone.",
+        "He has a password — he never tells his password to anyone."
+      ],
+      "answer": "She has a password — she never tells her password to anyone."
+    },
+    {
+      "q": "«Падарам мегӯяд: \"Рамз сирр аст. Ҳеҷ гоҳ рамзи худро ба одамони дигар надиҳед!\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father says: \"A password is a secret. Never give your password to other people!\"",
+        "My father says: \"A password is a secret. Never tell your password to other people!\"",
+        "My mother says: \"A password is a secret. Never give your password to other people!\"",
+        "My father says: \"A password is a secret. Never show your password to other people!\""
+      ],
+      "answer": "My father says: \"A password is a secret. Never give your password to other people!\""
+    },
+    {
+      "q": "«Дар зимистон, вақте ки хеле хунук ва барфнок аст, мактаби мо баъзан дарсҳои онлайн дорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In winter, when it is very cold and snowy, our school sometimes has online lessons.",
+        "In winter, when it is very cold and snowy, our school often has online lessons.",
+        "In autumn, when it is very cold and snowy, our school sometimes has online lessons.",
+        "In winter, when it is very cold and rainy, our school sometimes has online lessons."
+      ],
+      "answer": "In winter, when it is very cold and snowy, our school sometimes has online lessons."
+    },
+    {
+      "q": "«Муаллимаи мо сомонаро мекушояд ва мо ӯро дар экрани компютери худ мебинем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Our teacher opens a website, and we see her on the screen of our computer.",
+        "Our teacher opens a website, and we see her on the screen of our laptop.",
+        "Our teacher opens a website, and we see him on the screen of our computer.",
+        "Our teacher closes a website, and we see her on the screen of our computer."
+      ],
+      "answer": "Our teacher opens a website, and we see her on the screen of our computer."
+    },
+    {
+      "q": "«Мо ба ӯ гӯш мекунем, ба саволҳояш ҷавоб медиҳем ва машқҳоро дар дафтарҳоямон менависем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We listen to her, answer her questions and write exercises in our notebooks.",
+        "We listen to her, answer her questions and write exercises in our textbooks.",
+        "We listen to him, answer his questions and write exercises in our notebooks.",
+        "We listen to her, answer her questions and write letters in our notebooks."
+      ],
+      "answer": "We listen to her, answer her questions and write exercises in our notebooks."
+    },
+    {
+      "q": "«Ин хеле ҷолиб аст! Мо метавонем дар хона таҳсил кунем ва ин бехатар аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It is very interesting! We can study at home and it is safe.",
+        "It is very interesting! We can study at home and it is good.",
+        "It is very good! We can study at home and it is safe.",
+        "It is very interesting! We can learn at home and it is safe."
+      ],
+      "answer": "It is very interesting! We can study at home and it is safe."
+    },
+    {
+      "q": "«Баъзан ман мехоҳам матн ё акс чоп кунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Sometimes I want to print a text or a photo.",
+        "Sometimes I want to print a text or a book.",
+        "Often I want to print a text or a photo.",
+        "Sometimes I want to save a text or a photo."
+      ],
+      "answer": "Sometimes I want to print a text or a photo."
+    },
+    {
+      "q": "«Ман тугмаи \"чоп\"-ро пахш мекунам ва принтер файли маро дар коғаз чоп мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I click the button \"print\", and the printer prints my file on paper.",
+        "I click the button \"print\", and the printer prints my file on the paper.",
+        "I push the button \"print\", and the printer prints my file on paper.",
+        "I click the button \"print\", and the printer prints my folder on paper."
+      ],
+      "answer": "I click the button \"print\", and the printer prints my file on paper."
+    },
+    {
+      "q": "«Модарам инчунин баъзе ҳуҷҷатҳоро барои кори худ чоп мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My mother also prints some documents for her work.",
+        "My mother also prints some documents for his work.",
+        "My father also prints some documents for his work.",
+        "My mother also prints some texts for her work."
+      ],
+      "answer": "My mother also prints some documents for her work."
+    },
+    {
+      "q": "«Интернет тарафҳои хуб ва тарафҳои бад дорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The internet has good sides and bad sides.",
+        "The internet has good sides and good sides.",
+        "The internet has bad sides and bad sides.",
+        "The computer has good sides and bad sides."
+      ],
+      "answer": "The internet has good sides and bad sides."
+    },
+    {
+      "q": "«Тарафҳои хуб: мо бисёр чизҳоро меомӯзем, бо дӯстонамон сӯҳбат мекунем, китобҳо мехонем ва ба саволҳои худ ҷавоб меёбем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Good sides: we learn a lot, we talk to our friends, we read books and we find answers to our questions.",
+        "Good sides: we learn a lot, we talk to our friends, we read texts and we find answers to our questions.",
+        "Good sides: we learn a lot, we talk to our parents, we read books and we find answers to our questions.",
+        "Good sides: we learn new things, we talk to our friends, we read books and we find answers to our questions."
+      ],
+      "answer": "Good sides: we learn a lot, we talk to our friends, we read books and we find answers to our questions."
+    },
+    {
+      "q": "«Тарафҳои бад: баъзе кӯдакон тамоми рӯз бозиҳои компютериро бозӣ мекунанд ва вазифаи хонагиашонро иҷро намекунанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Bad sides: some children play computer games all day and do not do their homework.",
+        "Bad sides: some children play computer games all day and do not write their homework.",
+        "Bad sides: some pupils play computer games all day and do not do their homework.",
+        "Bad sides: some children play computer games all night and do not do their homework."
+      ],
+      "answer": "Bad sides: some children play computer games all day and do not do their homework."
+    },
+    {
+      "q": "«Баъзе кӯдакон ба сомонаҳои бад нигоҳ мекунанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Some children look at bad websites.",
+        "Some children look at good websites.",
+        "Some pupils look at bad websites.",
+        "Some children visit bad websites."
+      ],
+      "answer": "Some children look at bad websites."
+    },
+    {
+      "q": "«Баъзе кӯдакон рамзи худро ба одамони дигар мегӯянд ва ҳисоби худро гум мекунанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Some children tell their passwords to other people and lose their accounts.",
+        "Some children give their passwords to other people and lose their accounts.",
+        "Some children tell their passwords to their friends and lose their accounts.",
+        "Some people tell their passwords to other people and lose their accounts."
+      ],
+      "answer": "Some children tell their passwords to other people and lose their accounts."
+    },
+    {
+      "q": "«Мо бояд онлайн бодиққат бошем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must be careful online.",
+        "We must be careful offline.",
+        "We must be quiet online.",
+        "We must be careful in the internet."
+      ],
+      "answer": "We must be careful online."
+    },
+    {
+      "q": "«Волидонам мегӯянд: \"Компютерро як соат дар як рӯз истифода бар, на бештар.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My parents say: \"Use the computer for one hour a day, not more.\"",
+        "My parents say: \"Use the computer for two hours a day, not more.\"",
+        "My parents say: \"Use the computer for one hour a day, not less.\"",
+        "My parents say: \"Use the phone for one hour a day, not more.\""
+      ],
+      "answer": "My parents say: \"Use the computer for one hour a day, not more.\""
+    },
+    {
+      "q": "«Дар бораи китобҳо, варзиш ва оилаат фаромӯш накун» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Do not forget about books, sport and your family.",
+        "Do not forget about books, sport and your friends.",
+        "Do not forget about books, games and your family.",
+        "Do not forget about books, music and your family."
+      ],
+      "answer": "Do not forget about books, sport and your family."
+    },
+    {
+      "q": "«Компютер ёвари мост, на хоҷаи мо» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The computer is our helper, not our master.",
+        "The computer is our master, not our helper.",
+        "The computer is our friend, not our master.",
+        "The internet is our helper, not our master."
+      ],
+      "answer": "The computer is our helper, not our master."
+    },
+    {
+      "q": "«Ман технологияро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I love technology.",
+        "I like technology.",
+        "I love the internet.",
+        "I love computers."
+      ],
+      "answer": "I love technology."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам барномасоз шавам, ба мисли амакбачаам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to be a programmer like my cousin.",
+        "When I grow up, I want to be a programmer like my brother.",
+        "When I grow up, I want to be a programmer like my uncle.",
+        "When I grow up, I want to be a programmer like my friend."
+      ],
+      "answer": "When I grow up, I want to be a programmer like my cousin."
+    },
+    {
+      "q": "«Ман мехоҳам сомонаҳои нав ва барномаҳои нави компютерӣ созам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to make new websites and new computer programmes.",
+        "I want to make new websites and new computer games.",
+        "I want to create new websites and new computer programmes.",
+        "I want to make good websites and new computer programmes."
+      ],
+      "answer": "I want to make new websites and new computer programmes."
+    },
+    {
+      "q": "«Ман мехоҳам ба мактабам ва кишварам кӯмак кунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to help my school and my country.",
+        "I want to help my school and my city.",
+        "I want to help my family and my country.",
+        "I want to help my friends and my country."
+      ],
+      "answer": "I want to help my school and my country."
+    },
+    {
+      "q": "«Аммо ман инчунин мехоҳам суханони падарамро ба ёд дорам: \"Компютер ёвари мост, на хоҷаи мо. Китобҳо, варзиш ва оила муҳимтарин чизҳо дар ҳаёти мо ҳастанд.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "But I also want to remember the words of my father: \"The computer is our helper, not our master. Books, sport and family are the most important things in our life.\"",
+        "But I also want to remember the words of my father: \"The computer is our helper, not our master. Books, sport and family are the most important things in our country.\"",
+        "But I also want to remember the words of my mother: \"The computer is our helper, not our master. Books, sport and family are the most important things in our life.\"",
+        "But I also want to remember the words of my father: \"The computer is our friend, not our master. Books, sport and family are the most important things in our life.\""
+      ],
+      "answer": "But I also want to remember the words of my father: \"The computer is our helper, not our master. Books, sport and family are the most important things in our life.\""
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 28
+  "wordsCount": 16
 }
