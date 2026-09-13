@@ -1,461 +1,842 @@
 {
   "id": 40,
-  "title": "Матн ва машқҳо 40",
-  "level": "Миёна - Синфи 4",
+  "title": "Матн 40: Дӯстӣ ва арзишҳои ҳаёт",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "friendship",
+      "tj": "дӯстӣ",
+      "ex": "True friendship is a great treasure."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "honest",
+      "tj": "ростқавл",
+      "ex": "An honest friend never tells lies."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "to trust",
+      "tj": "бовар кардан",
+      "ex": "I trust my best friend very much."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "to respect",
+      "tj": "эҳтиром кардан",
+      "ex": "We must respect our parents and teachers."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "to forgive",
+      "tj": "бубахшидан",
+      "ex": "A good friend can forgive a mistake."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "to share",
+      "tj": "тақсим кардан",
+      "ex": "I share my books and toys with my friend."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "to quarrel",
+      "tj": "ҷанҷол кардан",
+      "ex": "Good friends never quarrel for a long time."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "to make up",
+      "tj": "оштӣ шудан",
+      "ex": "After a quarrel we always make up."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "loyal",
+      "tj": "вафодор",
+      "ex": "A loyal friend is always near you."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "polite",
+      "tj": "боадаб",
+      "ex": "We must be polite to old people."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "honest",
+      "tj": "ростқавл",
+      "ex": "An honest person is loved by all."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "generous",
+      "tj": "саховатманд",
+      "ex": "A generous person always shares with others."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "patient",
+      "tj": "сабрнок",
+      "ex": "A patient person can wait for a long time."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "to believe",
+      "tj": "бовар кардан",
+      "ex": "I believe in my friend."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
+      "en": "to care about",
+      "tj": "ғамхорӣ кардан",
+      "ex": "Parents care about their children very much."
     },
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
-    },
-    {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
-    },
-    {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
-    },
-    {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
-    },
-    {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
-    },
-    {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
-    },
-    {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "to protect",
+      "tj": "муҳофизат кардан",
+      "ex": "A true friend protects his friend from trouble."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 40)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "True friendship is a great treasure.",
+      "tj": "Дӯстии ҳақиқӣ ганҷи бузург аст."
     },
     {
-      "en": "I'm working on lesson 40",
-      "tj": "Ман дарси 40-ро меомӯзам"
+      "en": "An honest friend never tells lies.",
+      "tj": "Дӯсти ростқавл ҳеҷ гоҳ дурӯғ намегӯяд."
+    },
+    {
+      "en": "I trust my best friend very much.",
+      "tj": "Ман ба беҳтарин дӯстам хеле бовар мекунам."
+    },
+    {
+      "en": "We must respect our parents and teachers.",
+      "tj": "Мо бояд волидон ва муаллимонамонро эҳтиром кунем."
+    },
+    {
+      "en": "A good friend can forgive a mistake.",
+      "tj": "Дӯсти хуб метавонад хаторо бубахшад."
+    },
+    {
+      "en": "I share my books and toys with my friend.",
+      "tj": "Ман китобҳо ва бозичаҳоямро бо дӯстам тақсим мекунам."
+    },
+    {
+      "en": "Good friends never quarrel for a long time.",
+      "tj": "Дӯстони хуб ҳеҷ гоҳ барои муддати дароз ҷанҷол намекунанд."
+    },
+    {
+      "en": "After a quarrel we always make up.",
+      "tj": "Баъд аз ҷанҷол мо ҳамеша оштӣ мешавем."
+    },
+    {
+      "en": "A loyal friend is always near you.",
+      "tj": "Дӯсти вафодор ҳамеша дар назди шумост."
+    },
+    {
+      "en": "We must be polite to old people.",
+      "tj": "Мо бояд ба пиронсолон боадаб бошем."
+    },
+    {
+      "en": "An honest person is loved by all.",
+      "tj": "Одами ростқавлро ҳама дӯст медоранд."
+    },
+    {
+      "en": "A generous person always shares with others.",
+      "tj": "Одами саховатманд ҳамеша бо дигарон тақсим мекунад."
+    },
+    {
+      "en": "A patient person can wait for a long time.",
+      "tj": "Одами сабрнок метавонад муддати дароз интизор шавад."
+    },
+    {
+      "en": "I believe in my friend.",
+      "tj": "Ман ба дӯстам бовар мекунам."
+    },
+    {
+      "en": "Parents care about their children very much.",
+      "tj": "Волидон ба фарзандони худ хеле ғамхорӣ мекунанд."
+    },
+    {
+      "en": "A true friend protects his friend from trouble.",
+      "tj": "Дӯсти ҳақиқӣ дӯсташро аз бало муҳофизат мекунад."
     }
   ],
   "text": {
-    "en": "Text for lesson 40. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 40 is about Миёна - Синфи 4. I write all words in my notebook. Level 40 text.",
-    "tj": "Матни дарси 40..."
+    "en": "Friendship and Life Values\n\nMy name is Ismoil. I am a pupil of class four. I want to tell you about my best friend Farid and about the most important values in our life.\n\nFarid is my classmate and my best friend. We have been friends for four years. Farid is a very honest and loyal boy. He never tells lies and he never speaks badly about other people. He always tells me the truth, even when the truth is not pleasant. I trust Farid very much. I know that he will always help me and never leave me in trouble. A true friend is a great treasure. Not everyone can find a real friend. I am very lucky to have Farid.\n\nFarid and I are very different. I like to read books and he likes to play football. I am quiet and he is very active. But we respect each other and we never quarrel for a long time. When we quarrel (and sometimes we do), we always make up quickly. A quarrel is not a bad thing if friends forgive each other and learn from their mistakes.\n\nWe help each other with our lessons. Farid is very good at math and I am good at English. He explains difficult problems to me and I help him with English words. We always share our books and pencils. A generous person is always happy to share with others. My grandmother says: \"A generous hand is never empty.\" I think she is right.\n\nThere are many important values in our life. The most important is honesty. An honest person is respected by everyone. We must always tell the truth, even if it is difficult. My father says: \"The truth is always the best answer.\" Another important value is kindness. We must be kind to other people, to animals and to nature. A kind word can make a sad person happy. A kind action can change a whole day.\n\nWe must also be polite. Politeness is very important in every country. We must say \"Please\" and \"Thank you\". We must say \"Good morning\" to our teachers and \"Good evening\" to our parents. We must give our seat to an old person on the bus. We must help our mother in the kitchen and our father in the garden. A polite person is loved by all.\n\nAnother important value is patience. A patient person can wait for a long time and can do a difficult job. My grandfather is a very patient man. He works in his garden every day. He plants small seeds and waits for a whole year to see beautiful flowers and big fruits. He says: \"Patience is the key to success.\" I want to be patient like my grandfather.\n\nOne more important value is to care about other people. Parents care about their children. Children must also care about their parents. When my grandmother is ill, I help her. I bring her tea and medicine. When my mother is tired, I do the dishes. When my father comes home late, I wait for him and we have dinner together. When my little brother is sad, I tell him funny stories and he laughs. Care is love in action.\n\nA true friend is a person who protects his friend from trouble. When a bigger boy wanted to fight with me at school, Farid stood near me and said: \"Do not touch him! He is my friend!\" The boy went away. I thanked Farid and said: \"You are a real friend.\" He answered: \"A friend in need is a friend indeed.\" We both laughed and went home together.\n\nI have learned an important lesson: friendship, honesty, kindness, politeness and patience are the most important values in our life. Money cannot buy them. We must work on them every day. When I grow up, I want to be a good person like my parents and my grandparents. I want to have many good friends. I want to help people and make the world a better place.",
+    "tj": "Дӯстӣ ва арзишҳои ҳаёт\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман мехоҳам ба шумо дар бораи беҳтарин дӯсти ман Фарид ва дар бораи муҳимтарин арзишҳо дар ҳаёти мо нақл кунам.\n\nФарид ҳамсинфи ман ва беҳтарин дӯсти ман аст. Мо чор сол дӯст ҳастем. Фарид писари хеле ростқавл ва вафодор аст. Ӯ ҳеҷ гоҳ дурӯғ намегӯяд ва ҳеҷ гоҳ дар бораи одамони дигар бад гап намезанад. Ӯ ҳамеша ба ман ҳақиқатро мегӯяд, ҳатто вақте ки ҳақиқат хушоянд нест. Ман ба Фарид хеле бовар мекунам. Ман медонам, ки ӯ ҳамеша ба ман кӯмак мекунад ва ҳеҷ гоҳ маро дар бало намепартояд. Дӯсти ҳақиқӣ ганҷи бузург аст. На ҳар кас метавонад дӯсти ҳақиқӣ ёбад. Ман хеле бахтиёр ҳастам, ки Фарид дорам.\n\nФарид ва ман хеле фарқ мекунем. Ман китобҳо хонданро дӯст медорам ва ӯ футбол бозӣ карданро дӯст медорад. Ман ором ҳастам ва ӯ хеле фаъол аст. Аммо мо якдигарро эҳтиром мекунем ва ҳеҷ гоҳ барои муддати дароз ҷанҷол намекунем. Вақте ки мо ҷанҷол мекунем (ва баъзан чунин мешавад), мо ҳамеша зуд оштӣ мешавем. Ҷанҷол чизи бад нест, агар дӯстон якдигарро бубахшанд ва аз хатоҳои худ сабақ гиранд.\n\nМо дар дарсҳоямон ба якдигар кӯмак мекунем. Фарид дар математика хеле хуб аст ва ман дар англисӣ хуб ҳастам. Ӯ ба ман масъалаҳои душворро шарҳ медиҳад ва ман ба ӯ бо калимаҳои англисӣ кӯмак мекунам. Мо ҳамеша китобҳо ва қаламҳоямонро тақсим мекунем. Одами саховатманд ҳамеша бо дигарон тақсим карданро дӯст медорад. Бибиам мегӯяд: «Дасти саховатманд ҳеҷ гоҳ холӣ нест.» Ман фикр мекунам, ки ӯ ҳақ аст.\n\nДар ҳаёти мо арзишҳои муҳими зиёд ҳастанд. Муҳимтарин — ростқавлӣ. Одами ростқавлро ҳама эҳтиром мекунанд. Мо бояд ҳамеша ҳақиқатро гӯем, ҳатто агар он душвор бошад. Падарам мегӯяд: «Ҳақиқат ҳамеша беҳтарин ҷавоб аст.» Арзиши дигари муҳим — меҳрубонӣ. Мо бояд ба одамони дигар, ба ҳайвонот ва ба табиат меҳрубон бошем. Калимаи меҳрубон метавонад одами ғамгинро хушҳол кунад. Амали меҳрубон метавонад тамоми рӯзро тағйир диҳад.\n\nМо инчунин бояд боадаб бошем. Адаб дар ҳар кишвар хеле муҳим аст. Мо бояд «Лутфан» ва «Ташаккур» гӯем. Мо бояд ба муаллимонамон «Субҳ ба хайр» ва ба волидонамон «Бегоҳ ба хайр» гӯем. Мо бояд дар автобус ҷои худро ба пиронсол диҳем. Мо бояд ба модарам дар ошхона ва ба падарам дар боғ кӯмак кунем. Одами боадабро ҳама дӯст медоранд.\n\nАрзиши дигари муҳим — сабр. Одами сабрнок метавонад муддати дароз интизор шавад ва кори душворро иҷро кунад. Бобоям одами хеле сабрнок аст. Ӯ ҳар рӯз дар боғи худ кор мекунад. Ӯ тухмиҳои хурд мешинонад ва тамоми сол интизор мешавад, то ки гулҳои зебо ва меваҳои калонро бинад. Ӯ мегӯяд: «Сабр калиди муваффақият аст.» Ман мехоҳам ба мисли бобоям сабрнок бошам.\n\nБоз як арзиши муҳим — ғамхорӣ кардан ба одамони дигар. Волидон ба фарзандони худ ғамхорӣ мекунанд. Кӯдакон низ бояд ба волидонашон ғамхорӣ кунанд. Вақте ки бибиам бемор аст, ман ба ӯ кӯмак мекунам. Ман ба ӯ чой ва дору меоварам. Вақте ки модарам хаста аст, ман зарфҳоро мешӯям. Вақте ки падарам дер ба хона меояд, ман ба ӯ интизор мешавам ва мо якҷоя хӯроки шом мехӯрем. Вақте ки бародари хурдиам ғамгин аст, ман ба ӯ ҳикояҳои хандаовар нақл мекунам ва ӯ механдад. Ғамхорӣ муҳаббат дар амал аст.\n\nДӯсти ҳақиқӣ одамест, ки дӯсташро аз бало муҳофизат мекунад. Вақте ки писари калонтар мехост дар мактаб бо ман ҷанҷол кунад, Фарид дар назди ман истод ва гуфт: «Ба ӯ даст назан! Ӯ дӯсти ман аст!» Писар рафт. Ман ба Фарид ташаккур гуфтам ва гуфтам: «Ту дӯсти ҳақиқӣ ҳастӣ.» Ӯ ҷавоб дод: «Дӯст дар вақти ниёз дӯсти ҳақиқӣ аст.» Мо ҳарду хандидем ва якҷоя ба хона рафтем.\n\nМан дарси муҳим гирифтам: дӯстӣ, ростқавлӣ, меҳрубонӣ, адаб ва сабр — муҳимтарин арзишҳо дар ҳаёти мо ҳастанд. Пулу мол онҳоро харида наметавонад. Мо бояд ҳар рӯз дар онҳо кор кунем. Вақте ки ман калон мешавам, ман мехоҳам одами хуб бошам, ба мисли волидон ва бобою бибиям. Ман мехоҳам дӯстони хуб дошта бошам. Ман мехоҳам ба одамон кӯмак кунам ва ҷаҳонро ҷои беҳтар созам."
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Дӯстии ҳақиқӣ ганҷи бузург аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи understand",
-        "нодуруст C",
-        "нодуруст B"
+        "True friendship is a great treasure.",
+        "Real friendship is a great treasure.",
+        "True friendship is a big treasure.",
+        "True friendship is a great gift."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "True friendship is a great treasure."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Дӯсти ростқавл ҳеҷ гоҳ дурӯғ намегӯяд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи explain",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "An honest friend never tells lies.",
+        "A good friend never tells lies.",
+        "An honest friend never says lies.",
+        "An honest person never tells lies."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "An honest friend never tells lies."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Ман ба беҳтарин дӯстам хеле бовар мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи important"
+        "I trust my best friend very much.",
+        "I trust my good friend very much.",
+        "I believe my best friend very much.",
+        "I trust my best friend a lot."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "I trust my best friend very much."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Мо бояд волидон ва муаллимонамонро эҳтиром кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи different"
+        "We must respect our parents and teachers.",
+        "We must respect our parents and friends.",
+        "We must respect our mother and teachers.",
+        "We should respect our parents and teachers."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "We must respect our parents and teachers."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Дӯсти хуб метавонад хаторо бубахшад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи difficult",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "A good friend can forgive a mistake.",
+        "A good friend can forget a mistake.",
+        "A true friend can forgive a mistake.",
+        "A good friend can forgive an error."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "A good friend can forgive a mistake."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Ман китобҳо ва бозичаҳоямро бо дӯстам тақсим мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи easy",
-        "нодуруст C",
-        "нодуруст B"
+        "I share my books and toys with my friend.",
+        "I share my books and games with my friend.",
+        "I share my books and toys with my friends.",
+        "I give my books and toys to my friend."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "I share my books and toys with my friend."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Дӯстони хуб ҳеҷ гоҳ барои муддати дароз ҷанҷол намекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи interesting",
-        "нодуруст B",
-        "нодуруст C"
+        "Good friends never quarrel for a long time.",
+        "Good friends never fight for a long time.",
+        "True friends never quarrel for a long time.",
+        "Good friends sometimes quarrel for a long time."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "Good friends never quarrel for a long time."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Баъд аз ҷанҷол мо ҳамеша оштӣ мешавем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи remember",
-        "нодуруст B",
-        "нодуруст A"
+        "After a quarrel we always make up.",
+        "After a quarrel we sometimes make up.",
+        "After a fight we always make up.",
+        "After a quarrel we always make peace."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "After a quarrel we always make up."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Дӯсти вафодор ҳамеша дар назди шумост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи forget",
-        "нодуруст C",
-        "нодуруст A"
+        "A loyal friend is always near you.",
+        "A loyal friend is always with you.",
+        "A true friend is always near you.",
+        "A loyal friend is always beside you."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "A loyal friend is always near you."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Мо бояд ба пиронсолон боадаб бошем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи homework",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "We must be polite to old people.",
+        "We must be polite to old men.",
+        "We should be polite to old people.",
+        "We must be kind to old people."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "We must be polite to old people."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Одами ростқавлро ҳама дӯст медоранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи exercise",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "An honest person is loved by all.",
+        "An honest man is loved by all.",
+        "An honest person is respected by all.",
+        "An honest person is loved by everybody."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "An honest person is loved by all."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Одами саховатманд ҳамеша бо дигарон тақсим мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи text"
+        "A generous person always shares with others.",
+        "A generous man always shares with others.",
+        "A generous person always gives to others.",
+        "A kind person always shares with others."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "A generous person always shares with others."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Одами сабрнок метавонад муддати дароз интизор шавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи story",
-        "нодуруст C"
+        "A patient person can wait for a long time.",
+        "A patient man can wait for a long time.",
+        "A patient person can wait for a long period.",
+        "A patient person can wait a long time."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "A patient person can wait for a long time."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Ман ба дӯстам бовар мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи question",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "I believe in my friend.",
+        "I believe my friend.",
+        "I trust in my friend.",
+        "I believe in my best friend."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "I believe in my friend."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Волидон ба фарзандони худ хеле ғамхорӣ мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи answer",
-        "нодуруст A"
+        "Parents care about their children very much.",
+        "Parents care for their children very much.",
+        "Parents care about their sons very much.",
+        "Parents look after their children very much."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "Parents care about their children very much."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Дӯсти ҳақиқӣ дӯсташро аз бало муҳофизат мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи understand",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "A true friend protects his friend from trouble.",
+        "A true friend protects his friend from danger.",
+        "A real friend protects his friend from trouble.",
+        "A true friend saves his friend from trouble."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "A true friend protects his friend from trouble."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Ман мехоҳам ба шумо дар бораи беҳтарин дӯсти ман Фарид нақл кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи explain"
+        "I want to tell you about my best friend Farid.",
+        "I want to tell you about my good friend Farid.",
+        "I want to tell you about my best friend Farid.",
+        "I want to speak to you about my best friend Farid."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "I want to tell you about my best friend Farid."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Фарид ҳамсинфи ман ва беҳтарин дӯсти ман аст. Мо чор сол дӯст ҳастем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи important"
+        "Farid is my classmate and my best friend. We have been friends for four years.",
+        "Farid is my classmate and my good friend. We have been friends for four years.",
+        "Farid is my classmate and my best friend. We have been friends for three years.",
+        "Farid is my friend and my best friend. We have been friends for four years."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "Farid is my classmate and my best friend. We have been friends for four years."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Фарид писари хеле ростқавл ва вафодор аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи different",
-        "нодуруст A",
-        "нодуруст B"
+        "Farid is a very honest and loyal boy.",
+        "Farid is a very honest and kind boy.",
+        "Farid is a very good and loyal boy.",
+        "Farid is a very honest and brave boy."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "Farid is a very honest and loyal boy."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Ӯ ҳамеша ба ман ҳақиқатро мегӯяд, ҳатто вақте ки ҳақиқат хушоянд нест» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи difficult",
-        "нодуруст A"
+        "He always tells me the truth, even when the truth is not pleasant.",
+        "He always tells me the truth, even when the truth is not good.",
+        "He always tells me the truth, even when it is not pleasant.",
+        "He always says the truth to me, even when the truth is not pleasant."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "He always tells me the truth, even when the truth is not pleasant."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Ман медонам, ки ӯ ҳамеша ба ман кӯмак мекунад ва ҳеҷ гоҳ маро дар бало намепартояд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи easy",
-        "нодуруст C"
+        "I know that he will always help me and never leave me in trouble.",
+        "I know that he will always help me and never leave me in danger.",
+        "I know that he always helps me and never leaves me in trouble.",
+        "I know that he will always help me and never forget me in trouble."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "I know that he will always help me and never leave me in trouble."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«На ҳар кас метавонад дӯсти ҳақиқӣ ёбад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи interesting",
-        "нодуруст B"
+        "Not everyone can find a real friend.",
+        "Not everybody can find a real friend.",
+        "Not everyone can find a true friend.",
+        "Not every person can find a real friend."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "Not everyone can find a real friend."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Ман хеле бахтиёр ҳастам, ки Фарид дорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи remember",
-        "нодуруст B",
-        "нодуруст C"
+        "I am very lucky to have Farid.",
+        "I am very happy to have Farid.",
+        "I am very lucky to have such a friend.",
+        "I am very lucky to have a friend like Farid."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "I am very lucky to have Farid."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Фарид ва ман хеле фарқ мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи forget",
-        "нодуруст B"
+        "Farid and I are very different.",
+        "Farid and I are very different people.",
+        "Farid and I are quite different.",
+        "Farid and me are very different."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "Farid and I are very different."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Ман китобҳо хонданро дӯст медорам ва ӯ футбол бозӣ карданро дӯст медорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи homework",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "I like to read books and he likes to play football.",
+        "I like reading books and he likes playing football.",
+        "I like to read books and he likes to play volleyball.",
+        "I like to read books and he loves to play football."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "I like to read books and he likes to play football."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Аммо мо якдигарро эҳтиром мекунем ва ҳеҷ гоҳ барои муддати дароз ҷанҷол намекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи exercise",
-        "нодуруст B"
+        "But we respect each other and we never quarrel for a long time.",
+        "But we respect each other and never quarrel for a long time.",
+        "But we respect each other and we never fight for a long time.",
+        "But we respect one another and we never quarrel for a long time."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "But we respect each other and we never quarrel for a long time."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Вақте ки мо ҷанҷол мекунем (ва баъзан чунин мешавад), мо ҳамеша зуд оштӣ мешавем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи text",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "When we quarrel (and sometimes we do), we always make up quickly.",
+        "When we quarrel (and sometimes we do), we always make up fast.",
+        "When we fight (and sometimes we do), we always make up quickly.",
+        "When we quarrel (and often we do), we always make up quickly."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "When we quarrel (and sometimes we do), we always make up quickly."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Ҷанҷол чизи бад нест, агар дӯстон якдигарро бубахшанд ва аз хатоҳои худ сабақ гиранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи story"
+        "A quarrel is not a bad thing if friends forgive each other and learn from their mistakes.",
+        "A quarrel is not a bad thing if friends forgive one another and learn from their mistakes.",
+        "A quarrel is not a bad thing if friends forgive each other and learn from their errors.",
+        "A fight is not a bad thing if friends forgive each other and learn from their mistakes."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "A quarrel is not a bad thing if friends forgive each other and learn from their mistakes."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Мо дар дарсҳоямон ба якдигар кӯмак мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи question",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "We help each other with our lessons.",
+        "We help each other in our lessons.",
+        "We help one another with our lessons.",
+        "We help each other with homework."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "We help each other with our lessons."
+    },
+    {
+      "q": "«Фарид дар математика хеле хуб аст ва ман дар англисӣ хуб ҳастам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Farid is very good at math and I am good at English.",
+        "Farid is very good in math and I am good in English.",
+        "Farid is very good at maths and I am good at English.",
+        "Farid is good at math and I am good at English."
+      ],
+      "answer": "Farid is very good at math and I am good at English."
+    },
+    {
+      "q": "«Ӯ ба ман масъалаҳои душворро шарҳ медиҳад ва ман ба ӯ бо калимаҳои англисӣ кӯмак мекунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He explains difficult problems to me and I help him with English words.",
+        "He explains difficult problems to me and I help him with English letters.",
+        "He explains hard problems to me and I help him with English words.",
+        "He explains difficult tasks to me and I help him with English words."
+      ],
+      "answer": "He explains difficult problems to me and I help him with English words."
+    },
+    {
+      "q": "«Мо ҳамеша китобҳо ва қаламҳоямонро тақсим мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We always share our books and pencils.",
+        "We always share our books and pens.",
+        "We always share our books and pencils with each other.",
+        "We always share our books and pens with each other."
+      ],
+      "answer": "We always share our books and pencils."
+    },
+    {
+      "q": "«Одами саховатманд ҳамеша бо дигарон тақсим карданро дӯст медорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "A generous person is always happy to share with others.",
+        "A generous person is always happy to give to others.",
+        "A generous man is always happy to share with others.",
+        "A generous person always likes to share with others."
+      ],
+      "answer": "A generous person is always happy to share with others."
+    },
+    {
+      "q": "«Бибиам мегӯяд: \"Дасти саховатманд ҳеҷ гоҳ холӣ нест.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandmother says: \"A generous hand is never empty.\"",
+        "My grandmother says: \"A generous hand is never poor.\"",
+        "My mother says: \"A generous hand is never empty.\"",
+        "My grandmother says: \"A kind hand is never empty.\""
+      ],
+      "answer": "My grandmother says: \"A generous hand is never empty.\""
+    },
+    {
+      "q": "«Дар ҳаёти мо арзишҳои муҳими зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "There are many important values in our life.",
+        "There are many important values in our lives.",
+        "There are many good values in our life.",
+        "There are many important things in our life."
+      ],
+      "answer": "There are many important values in our life."
+    },
+    {
+      "q": "«Муҳимтарин — ростқавлӣ» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The most important is honesty.",
+        "The most important value is honesty.",
+        "The most important thing is honesty.",
+        "The most important is being honest."
+      ],
+      "answer": "The most important is honesty."
+    },
+    {
+      "q": "«Мо бояд ҳамеша ҳақиқатро гӯем, ҳатто агар он душвор бошад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must always tell the truth, even if it is difficult.",
+        "We must always say the truth, even if it is difficult.",
+        "We should always tell the truth, even if it is difficult.",
+        "We must always tell the truth, even when it is difficult."
+      ],
+      "answer": "We must always tell the truth, even if it is difficult."
+    },
+    {
+      "q": "«Падарам мегӯяд: \"Ҳақиқат ҳамеша беҳтарин ҷавоб аст.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father says: \"The truth is always the best answer.\"",
+        "My father says: \"The truth is the best answer.\"",
+        "My mother says: \"The truth is always the best answer.\"",
+        "My father says: \"Truth is always the best answer.\""
+      ],
+      "answer": "My father says: \"The truth is always the best answer.\""
+    },
+    {
+      "q": "«Арзиши дигари муҳим — меҳрубонӣ» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Another important value is kindness.",
+        "Another important thing is kindness.",
+        "Another important value is being kind.",
+        "The other important value is kindness."
+      ],
+      "answer": "Another important value is kindness."
+    },
+    {
+      "q": "«Мо бояд ба одамони дигар, ба ҳайвонот ва ба табиат меҳрубон бошем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must be kind to other people, to animals and to nature.",
+        "We must be kind to other people, animals and nature.",
+        "We should be kind to other people, to animals and to nature.",
+        "We must be good to other people, to animals and to nature."
+      ],
+      "answer": "We must be kind to other people, to animals and to nature."
+    },
+    {
+      "q": "«Калимаи меҳрубон метавонад одами ғамгинро хушҳол кунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "A kind word can make a sad person happy.",
+        "A kind word can make a sad man happy.",
+        "A good word can make a sad person happy.",
+        "A kind word can make a sad person glad."
+      ],
+      "answer": "A kind word can make a sad person happy."
+    },
+    {
+      "q": "«Амали меҳрубон метавонад тамоми рӯзро тағйир диҳад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "A kind action can change a whole day.",
+        "A kind action can change the whole day.",
+        "A good action can change a whole day.",
+        "A kind act can change a whole day."
+      ],
+      "answer": "A kind action can change a whole day."
+    },
+    {
+      "q": "«Мо инчунин бояд боадаб бошем. Адаб дар ҳар кишвар хеле муҳим аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must also be polite. Politeness is very important in every country.",
+        "We must also be polite. Politeness is very important in every city.",
+        "We should also be polite. Politeness is very important in every country.",
+        "We must also be polite. Good manners are very important in every country."
+      ],
+      "answer": "We must also be polite. Politeness is very important in every country."
+    },
+    {
+      "q": "«Мо бояд \"Лутфан\" ва \"Ташаккур\" гӯем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must say \"Please\" and \"Thank you\".",
+        "We must say \"Please\" and \"Thanks\".",
+        "We should say \"Please\" and \"Thank you\".",
+        "We must tell \"Please\" and \"Thank you\"."
+      ],
+      "answer": "We must say \"Please\" and \"Thank you\"."
+    },
+    {
+      "q": "«Мо бояд ба муаллимонамон \"Субҳ ба хайр\" ва ба волидонамон \"Бегоҳ ба хайр\" гӯем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must say \"Good morning\" to our teachers and \"Good evening\" to our parents.",
+        "We must say \"Good morning\" to our teachers and \"Good evening\" to our mothers.",
+        "We should say \"Good morning\" to our teachers and \"Good evening\" to our parents.",
+        "We must say \"Good morning\" to our parents and \"Good evening\" to our teachers."
+      ],
+      "answer": "We must say \"Good morning\" to our teachers and \"Good evening\" to our parents."
+    },
+    {
+      "q": "«Мо бояд дар автобус ҷои худро ба пиронсол диҳем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must give our seat to an old person on the bus.",
+        "We must give our place to an old person on the bus.",
+        "We should give our seat to an old person on the bus.",
+        "We must give our seat to an old man on the bus."
+      ],
+      "answer": "We must give our seat to an old person on the bus."
+    },
+    {
+      "q": "«Одами боадабро ҳама дӯст медоранд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "A polite person is loved by all.",
+        "A polite man is loved by all.",
+        "A polite person is loved by everyone.",
+        "A polite person is respected by all."
+      ],
+      "answer": "A polite person is loved by all."
+    },
+    {
+      "q": "«Арзиши дигари муҳим — сабр» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Another important value is patience.",
+        "Another important thing is patience.",
+        "The other important value is patience.",
+        "Another important value is being patient."
+      ],
+      "answer": "Another important value is patience."
+    },
+    {
+      "q": "«Одами сабрнок метавонад муддати дароз интизор шавад ва кори душворро иҷро кунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "A patient person can wait for a long time and can do a difficult job.",
+        "A patient person can wait for a long time and can do a hard job.",
+        "A patient man can wait for a long time and can do a difficult job.",
+        "A patient person can wait long and can do a difficult job."
+      ],
+      "answer": "A patient person can wait for a long time and can do a difficult job."
+    },
+    {
+      "q": "«Бобоям одами хеле сабрнок аст. Ӯ ҳар рӯз дар боғи худ кор мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandfather is a very patient man. He works in his garden every day.",
+        "My grandfather is a very patient person. He works in his garden every day.",
+        "My grandfather is very patient. He works in his garden every day.",
+        "My grandfather is a very patient man. He works in his field every day."
+      ],
+      "answer": "My grandfather is a very patient man. He works in his garden every day."
+    },
+    {
+      "q": "«Ӯ тухмиҳои хурд мешинонад ва тамоми сол интизор мешавад, то ки гулҳои зебо ва меваҳои калонро бинад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He plants small seeds and waits for a whole year to see beautiful flowers and big fruits.",
+        "He plants small seeds and waits for a whole year to see beautiful flowers and big fruit.",
+        "He plants small seeds and waits for a whole year to see beautiful flowers and large fruits.",
+        "He puts small seeds and waits for a whole year to see beautiful flowers and big fruits."
+      ],
+      "answer": "He plants small seeds and waits for a whole year to see beautiful flowers and big fruits."
+    },
+    {
+      "q": "«Ӯ мегӯяд: \"Сабр калиди муваффақият аст.\" Ман мехоҳам ба мисли бобоям сабрнок бошам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He says: \"Patience is the key to success.\" I want to be patient like my grandfather.",
+        "He says: \"Patience is the key to success.\" I want to be patient as my grandfather.",
+        "He says: \"Patience is a key to success.\" I want to be patient like my grandfather.",
+        "He says: \"Patience is the key of success.\" I want to be patient like my grandfather."
+      ],
+      "answer": "He says: \"Patience is the key to success.\" I want to be patient like my grandfather."
+    },
+    {
+      "q": "«Боз як арзиши муҳим — ғамхорӣ кардан ба одамони дигар» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "One more important value is to care about other people.",
+        "One more important value is caring about other people.",
+        "Another important value is to care about other people.",
+        "One more important value is to take care of other people."
+      ],
+      "answer": "One more important value is to care about other people."
+    },
+    {
+      "q": "«Волидон ба фарзандони худ ғамхорӣ мекунанд. Кӯдакон низ бояд ба волидонашон ғамхорӣ кунанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Parents care about their children. Children must also care about their parents.",
+        "Parents care about their children. Children must care about their parents too.",
+        "Parents care for their children. Children must also care about their parents.",
+        "Parents care about their children. Children should also care about their parents."
+      ],
+      "answer": "Parents care about their children. Children must also care about their parents."
+    },
+    {
+      "q": "«Вақте ки бибиам бемор аст, ман ба ӯ кӯмак мекунам. Ман ба ӯ чой ва дору меоварам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When my grandmother is ill, I help her. I bring her tea and medicine.",
+        "When my grandmother is ill, I help her. I bring her tea and pills.",
+        "When my grandmother is sick, I help her. I bring her tea and medicine.",
+        "When my grandmother is ill, I help her. I take her tea and medicine."
+      ],
+      "answer": "When my grandmother is ill, I help her. I bring her tea and medicine."
+    },
+    {
+      "q": "«Вақте ки модарам хаста аст, ман зарфҳоро мешӯям» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When my mother is tired, I do the dishes.",
+        "When my mother is tired, I wash the dishes.",
+        "When my mother is tired, I clean the dishes.",
+        "When my mother is tired, I do the washing-up."
+      ],
+      "answer": "When my mother is tired, I do the dishes."
+    },
+    {
+      "q": "«Вақте ки падарам дер ба хона меояд, ман ба ӯ интизор мешавам ва мо якҷоя хӯроки шом мехӯрем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When my father comes home late, I wait for him and we have dinner together.",
+        "When my father comes home late, I wait for him and we have supper together.",
+        "When my father comes home late, I wait for him and we eat dinner together.",
+        "When my father comes home late, I wait for him and we have lunch together."
+      ],
+      "answer": "When my father comes home late, I wait for him and we have dinner together."
+    },
+    {
+      "q": "«Вақте ки бародари хурдиам ғамгин аст, ман ба ӯ ҳикояҳои хандаовар нақл мекунам ва ӯ механдад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When my little brother is sad, I tell him funny stories and he laughs.",
+        "When my little brother is sad, I tell him funny stories and he laughs.",
+        "When my little brother is sad, I tell him funny stories and he smiles.",
+        "When my little sister is sad, I tell her funny stories and she laughs."
+      ],
+      "answer": "When my little brother is sad, I tell him funny stories and he laughs."
+    },
+    {
+      "q": "«Ғамхорӣ муҳаббат дар амал аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Care is love in action.",
+        "Caring is love in action.",
+        "Care is love in practice.",
+        "Care is love in real life."
+      ],
+      "answer": "Care is love in action."
+    },
+    {
+      "q": "«Дӯсти ҳақиқӣ одамест, ки дӯсташро аз бало муҳофизат мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "A true friend is a person who protects his friend from trouble.",
+        "A true friend is someone who protects his friend from trouble.",
+        "A real friend is a person who protects his friend from trouble.",
+        "A true friend is a person who saves his friend from trouble."
+      ],
+      "answer": "A true friend is a person who protects his friend from trouble."
+    },
+    {
+      "q": "«Вақте ки писари калонтар мехост дар мактаб бо ман ҷанҷол кунад, Фарид дар назди ман истод ва гуфт: \"Ба ӯ даст назан! Ӯ дӯсти ман аст!\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When a bigger boy wanted to fight with me at school, Farid stood near me and said: \"Do not touch him! He is my friend!\"",
+        "When a big boy wanted to fight with me at school, Farid stood near me and said: \"Do not touch him! He is my friend!\"",
+        "When a bigger boy wanted to fight with me at school, Farid stood near me and said: \"Don't touch him! He is my friend!\"",
+        "When a bigger boy wanted to quarrel with me at school, Farid stood near me and said: \"Do not touch him! He is my friend!\""
+      ],
+      "answer": "When a bigger boy wanted to fight with me at school, Farid stood near me and said: \"Do not touch him! He is my friend!\""
+    },
+    {
+      "q": "«Ман ба Фарид ташаккур гуфтам ва гуфтам: \"Ту дӯсти ҳақиқӣ ҳастӣ.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I thanked Farid and said: \"You are a real friend.\"",
+        "I thanked Farid and said: \"You are a true friend.\"",
+        "I thanked Farid and told him: \"You are a real friend.\"",
+        "I thanked Farid and said: \"You are my real friend.\""
+      ],
+      "answer": "I thanked Farid and said: \"You are a real friend.\""
+    },
+    {
+      "q": "«Ӯ ҷавоб дод: \"Дӯст дар вақти ниёз дӯсти ҳақиқӣ аст.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He answered: \"A friend in need is a friend indeed.\"",
+        "He answered: \"A friend in need is a true friend.\"",
+        "He answered: \"A friend in trouble is a friend indeed.\"",
+        "He answered: \"A friend in need is a real friend.\""
+      ],
+      "answer": "He answered: \"A friend in need is a friend indeed.\""
+    },
+    {
+      "q": "«Ман дарси муҳим гирифтам: дӯстӣ, ростқавлӣ, меҳрубонӣ, адаб ва сабр — муҳимтарин арзишҳо дар ҳаёти мо ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I have learned an important lesson: friendship, honesty, kindness, politeness and patience are the most important values in our life.",
+        "I have learned an important lesson: friendship, honesty, kindness, politeness and patience are the most important values in our lives.",
+        "I have learned a good lesson: friendship, honesty, kindness, politeness and patience are the most important values in our life.",
+        "I have learned an important lesson: friendship, honesty, kindness, good manners and patience are the most important values in our life."
+      ],
+      "answer": "I have learned an important lesson: friendship, honesty, kindness, politeness and patience are the most important values in our life."
+    },
+    {
+      "q": "«Пулу мол онҳоро харида наметавонад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Money cannot buy them.",
+        "Money can not buy them.",
+        "Money cannot buy it.",
+        "Money cannot buy these things."
+      ],
+      "answer": "Money cannot buy them."
+    },
+    {
+      "q": "«Мо бояд ҳар рӯз дар онҳо кор кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must work on them every day.",
+        "We must work at them every day.",
+        "We should work on them every day.",
+        "We must work on it every day."
+      ],
+      "answer": "We must work on them every day."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам одами хуб бошам, ба мисли волидон ва бобою бибиям» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to be a good person like my parents and my grandparents.",
+        "When I grow up, I want to be a good man like my parents and my grandparents.",
+        "When I grow up, I want to be a good person like my parents and grandparents.",
+        "When I grow up, I want to be a good person like my mother and my grandparents."
+      ],
+      "answer": "When I grow up, I want to be a good person like my parents and my grandparents."
+    },
+    {
+      "q": "«Ман мехоҳам дӯстони хуб дошта бошам. Ман мехоҳам ба одамон кӯмак кунам ва ҷаҳонро ҷои беҳтар созам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to have many good friends. I want to help people and make the world a better place.",
+        "I want to have many good friends. I want to help people and make the world better.",
+        "I want to have many friends. I want to help people and make the world a better place.",
+        "I want to have many good friends. I want to help people and make our world a better place."
+      ],
+      "answer": "I want to have many good friends. I want to help people and make the world a better place."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 29
+  "wordsCount": 16
 }
