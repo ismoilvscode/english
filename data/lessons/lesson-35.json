@@ -1,431 +1,612 @@
 {
   "id": 35,
-  "title": "Матн ва машқҳо 35",
-  "level": "Миёна - Синфи 4",
+  "title": "Матн 35: Ҳайвоноти ваҳшӣ ва хонагӣ",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "wild animal",
+      "tj": "ҳайвони ваҳшӣ",
+      "ex": "The wolf is a wild animal."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "domestic animal",
+      "tj": "ҳайвони хонагӣ",
+      "ex": "The cow is a domestic animal."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "snow leopard",
+      "tj": "барфпланг",
+      "ex": "The snow leopard lives in the mountains."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "mountain goat",
+      "tj": "бузи кӯҳӣ",
+      "ex": "The mountain goat jumps on the rocks."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "brown bear",
+      "tj": "хирси қаҳваранг",
+      "ex": "The brown bear sleeps in winter."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "eagle",
+      "tj": "уқоб",
+      "ex": "The eagle flies high in the sky."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "falcon",
+      "tj": "лочин",
+      "ex": "The falcon is a very fast bird."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "to hunt",
+      "tj": "шикор кардан",
+      "ex": "Wild animals hunt for food."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "hunter",
+      "tj": "шикорчӣ",
+      "ex": "The hunter walks in the forest."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "dangerous",
+      "tj": "хатарнок",
+      "ex": "The tiger is a dangerous animal."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "safe",
+      "tj": "бехатар",
+      "ex": "Our village is a safe place."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "to be afraid of",
+      "tj": "тарсидан аз",
+      "ex": "I am afraid of the big dog."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "to hide",
+      "tj": "пинҳон шудан",
+      "ex": "The fox hides in the forest."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "to bite",
+      "tj": "газидан",
+      "ex": "A wolf can bite very hard."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
+      "en": "to attack",
+      "tj": "ҳуҷум кардан",
+      "ex": "A bear can attack a man."
     },
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
-    },
-    {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
-    },
-    {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
-    },
-    {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
-    },
-    {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "to protect",
+      "tj": "муҳофизат кардан",
+      "ex": "We must protect wild animals."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 35)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "The wolf is a wild animal.",
+      "tj": "Гург ҳайвони ваҳшӣ аст."
     },
     {
-      "en": "I'm working on lesson 35",
-      "tj": "Ман дарси 35-ро меомӯзам"
+      "en": "The cow and the sheep are domestic animals.",
+      "tj": "Гов ва гӯсфанд ҳайвоноти хонагӣ ҳастанд."
+    },
+    {
+      "en": "The snow leopard lives in the mountains of Tajikistan.",
+      "tj": "Барфпланг дар кӯҳҳои Тоҷикистон зиндагӣ мекунад."
+    },
+    {
+      "en": "The mountain goat jumps on the high rocks.",
+      "tj": "Бузи кӯҳӣ дар сангҳои баланд меҷаҳад."
+    },
+    {
+      "en": "The brown bear sleeps in winter in a cave.",
+      "tj": "Хирси қаҳваранг дар зимистон дар ғор мехобад."
+    },
+    {
+      "en": "The eagle flies high in the blue sky.",
+      "tj": "Уқоб дар осмони кабуд баланд парвоз мекунад."
+    },
+    {
+      "en": "The falcon is a very fast bird.",
+      "tj": "Лочин паррандаи хеле тез аст."
+    },
+    {
+      "en": "Wild animals hunt for food in the forest.",
+      "tj": "Ҳайвоноти ваҳшӣ дар ҷангал барои хӯрок шикор мекунанд."
+    },
+    {
+      "en": "The hunter walks in the forest with his dog.",
+      "tj": "Шикорчӣ бо сагаш дар ҷангал қадам мезанад."
+    },
+    {
+      "en": "The tiger is a dangerous animal.",
+      "tj": "Тигр ҳайвони хатарнок аст."
+    },
+    {
+      "en": "Our village is a safe place for children.",
+      "tj": "Деҳаи мо барои кӯдакон ҷои бехатар аст."
+    },
+    {
+      "en": "I am afraid of the big dog near the gate.",
+      "tj": "Ман аз саги калони назди дарвоза метарсам."
+    },
+    {
+      "en": "The fox hides in the forest from the hunter.",
+      "tj": "Рӯбоҳ дар ҷангал аз шикорчӣ пинҳон мешавад."
+    },
+    {
+      "en": "A wolf can bite very hard.",
+      "tj": "Гург метавонад хеле сахт газад."
+    },
+    {
+      "en": "A bear can attack a man in the forest.",
+      "tj": "Хирс метавонад дар ҷангал ба одам ҳуҷум кунад."
+    },
+    {
+      "en": "We must protect wild animals in our country.",
+      "tj": "Мо бояд ҳайвоноти ваҳширо дар кишварамон муҳофизат кунем."
     }
   ],
   "text": {
-    "en": "Text for lesson 35. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 35 is about Миёна - Синфи 4. I write all words in my notebook. Level 35 text.",
-    "tj": "Матни дарси 35..."
+    "en": "Wild and Domestic Animals\n\nMy name is Ismoil. I live in Dushanbe. My grandmother and grandfather live in a small village near the mountains. In summer I go to the village and help my grandfather with the domestic animals. I love animals very much — both wild and domestic.\n\nDomestic animals live with people. They are cows, sheep, horses, goats, dogs and cats. My grandfather has two cows, ten sheep and one horse. In the morning I take the cows and the sheep to the field. In the evening I bring them back home. My grandmother makes fresh milk, cheese and butter from the cows' milk. The horse helps my grandfather in the field. The dog protects the house. The cat catches small mice in the kitchen.\n\nWild animals live in the forest and in the mountains. In the mountains of Tajikistan there are many wild animals: the snow leopard, the brown bear, the wolf, the fox, the mountain goat, the eagle and the falcon. The snow leopard is a very beautiful and strong animal. It lives high in the mountains and hunts for mountain goats. The brown bear is a big and strong animal. In summer it walks in the forest and eats berries and honey. In winter it sleeps in a cave. The wolf is a wild animal too. It is dangerous for small animals. The fox is a clever animal. When it sees a hunter, it hides in the forest quickly. The mountain goat jumps very well on the high rocks. The eagle and the falcon fly high in the sky and hunt for small birds and mice.\n\nWild animals can be dangerous for people. A bear can attack a man in the forest. A wolf can bite a man or an animal. That is why we must be careful in the forest. We must never go alone to the forest or to the mountains. We must always go with a hunter or with our father. My grandfather is a hunter. He knows the forest very well. He says: \"The forest is beautiful, but it is not always safe for a small boy.\"\n\nWe must protect wild animals. They are part of nature. We must not kill them and we must not cut down all the trees in the forest. The snow leopard is a rare animal in our country. We must protect it. Our government has a special programme to save the snow leopard and other rare animals.\n\nI love animals very much. When I grow up, I want to be a vet like my cousin. I want to help sick animals and teach people to be kind to them. I want to tell all the children of my country: \"Love animals — they are our friends. Protect nature — it is our home!\"",
+    "tj": "Ҳайвоноти ваҳшӣ ва хонагӣ\n\nНоми ман Исмоил аст. Ман дар Душанбе зиндагӣ мекунам. Биби ва бобои ман дар деҳаи хурде дар назди кӯҳҳо зиндагӣ мекунанд. Дар тобистон ман ба деҳа меравам ва ба бобоям бо ҳайвоноти хонагӣ кӯмак мекунам. Ман ҳайвонотро хеле дӯст медорам — ҳам ваҳшӣ ва ҳам хонагӣ.\n\nҲайвоноти хонагӣ бо одамон зиндагӣ мекунанд. Онҳо говҳо, гӯсфандҳо, аспҳо, бузҳо, сагҳо ва гурбаҳо ҳастанд. Бобоям ду гов, даҳ гӯсфанд ва як асп дорад. Субҳ ман говҳо ва гӯсфандҳоро ба киштзор мебарам. Бегоҳ ман онҳоро ба хона бармегардонам. Бибиам аз шири говҳо шир, панир ва равғани нав месозад. Асп дар киштзор ба бобоям кӯмак мекунад. Саг хонаро муҳофизат мекунад. Гурба дар ошхона мушҳои хурдро мегирад.\n\nҲайвоноти ваҳшӣ дар ҷангал ва дар кӯҳҳо зиндагӣ мекунанд. Дар кӯҳҳои Тоҷикистон ҳайвоноти ваҳшии зиёд ҳастанд: барфпланг, хирси қаҳваранг, гург, рӯбоҳ, бузи кӯҳӣ, уқоб ва лочин. Барфпланг ҳайвони хеле зебо ва қавӣ аст. Ӯ баланд дар кӯҳҳо зиндагӣ мекунад ва бузҳои кӯҳиро шикор мекунад. Хирси қаҳваранг ҳайвони калон ва қавӣ аст. Дар тобистон ӯ дар ҷангал қадам мезанад ва буттамева ва асал мехӯрад. Дар зимистон ӯ дар ғор мехобад. Гург низ ҳайвони ваҳшӣ аст. Ӯ барои ҳайвоноти хурд хатарнок аст. Рӯбоҳ ҳайвони зирак аст. Вақте ки ӯ шикорчиро мебинад, ӯ зуд дар ҷангал пинҳон мешавад. Бузи кӯҳӣ дар сангҳои баланд хеле хуб меҷаҳад. Уқоб ва лочин дар осмон баланд парвоз мекунанд ва паррандаҳои хурд ва мушҳоро шикор мекунанд.\n\nҲайвоноти ваҳшӣ метавонанд барои одамон хатарнок бошанд. Хирс метавонад дар ҷангал ба одам ҳуҷум кунад. Гург метавонад одам ё ҳайвонро газад. Барои ҳамин мо бояд дар ҷангал эҳтиёткор бошем. Мо бояд ҳеҷ гоҳ танҳо ба ҷангал ё ба кӯҳҳо наравем. Мо бояд ҳамеша бо шикорчӣ ё бо падарам равем. Бобоям шикорчӣ аст. Ӯ ҷангалро хеле хуб медонад. Ӯ мегӯяд: «Ҷангал зебо аст, аммо он барои писари хурд ҳамеша бехатар нест.»\n\nМо бояд ҳайвоноти ваҳширо муҳофизат кунем. Онҳо қисми табиат ҳастанд. Мо набояд онҳоро бикушем ва мо набояд ҳамаи дарахтонро дар ҷангал бурем. Барфпланг дар кишвари мо ҳайвони камёб аст. Мо бояд онро муҳофизат кунем. Ҳукумати мо барномаи махсус барои наҷот додани барфпланг ва ҳайвоноти дигари камёб дорад.\n\nМан ҳайвонотро хеле дӯст медорам. Вақте ки ман калон мешавам, ман мехоҳам духтури ҳайвонот шавам, ба мисли амакбачаам. Ман мехоҳам ба ҳайвоноти бемор кӯмак кунам ва ба одамон меҳрубон буданро бо онҳо омӯзонам. Ман мехоҳам ба ҳамаи кӯдакони кишварам нақл кунам: «Ҳайвонотро дӯст доред — онҳо дӯстони мо ҳастанд. Табиатро муҳофизат кунед — он хонаи мост!»"
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Гург ҳайвони ваҳшӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи understand",
-        "нодуруст A"
+        "The wolf is a wild animal.",
+        "The wolf is a domestic animal.",
+        "The fox is a wild animal.",
+        "The wolf is a dangerous animal."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "The wolf is a wild animal."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Гов ва гӯсфанд ҳайвоноти хонагӣ ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи explain"
+        "The cow and the sheep are domestic animals.",
+        "The cow and the horse are domestic animals.",
+        "The cow and the sheep are wild animals.",
+        "The goat and the sheep are domestic animals."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "The cow and the sheep are domestic animals."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Барфпланг дар кӯҳҳои Тоҷикистон зиндагӣ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи important",
-        "нодуруст C"
+        "The snow leopard lives in the mountains of Tajikistan.",
+        "The brown bear lives in the mountains of Tajikistan.",
+        "The snow leopard lives in the forests of Tajikistan.",
+        "The snow leopard works in the mountains of Tajikistan."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "The snow leopard lives in the mountains of Tajikistan."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Бузи кӯҳӣ дар сангҳои баланд меҷаҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи different",
-        "нодуруст B"
+        "The mountain goat jumps on the high rocks.",
+        "The mountain goat jumps on the high mountains.",
+        "The mountain goat runs on the high rocks.",
+        "The snow leopard jumps on the high rocks."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "The mountain goat jumps on the high rocks."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Хирси қаҳваранг дар зимистон дар ғор мехобад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи difficult",
-        "нодуруст B"
+        "The brown bear sleeps in winter in a cave.",
+        "The brown bear sleeps in summer in a cave.",
+        "The brown bear lives in winter in a cave.",
+        "The brown bear sleeps in winter in the forest."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "The brown bear sleeps in winter in a cave."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Уқоб дар осмони кабуд баланд парвоз мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи easy",
-        "нодуруст B",
-        "нодуруст C"
+        "The eagle flies high in the blue sky.",
+        "The falcon flies high in the blue sky.",
+        "The eagle flies high in the grey sky.",
+        "The eagle flies low in the blue sky."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "The eagle flies high in the blue sky."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Лочин паррандаи хеле тез аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи interesting",
-        "нодуруст B",
-        "нодуруст C"
+        "The falcon is a very fast bird.",
+        "The falcon is a very big bird.",
+        "The eagle is a very fast bird.",
+        "The falcon is a very beautiful bird."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "The falcon is a very fast bird."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Ҳайвоноти ваҳшӣ дар ҷангал барои хӯрок шикор мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи remember"
+        "Wild animals hunt for food in the forest.",
+        "Wild animals hunt for food in the mountains.",
+        "Domestic animals hunt for food in the forest.",
+        "Wild animals look for food in the forest."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "Wild animals hunt for food in the forest."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Шикорчӣ бо сагаш дар ҷангал қадам мезанад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи forget"
+        "The hunter walks in the forest with his dog.",
+        "The hunter walks in the mountains with his dog.",
+        "The hunter runs in the forest with his dog.",
+        "The hunter walks in the forest with his son."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "The hunter walks in the forest with his dog."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Тигр ҳайвони хатарнок аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи homework",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "The tiger is a dangerous animal.",
+        "The tiger is a big animal.",
+        "The wolf is a dangerous animal.",
+        "The tiger is a wild animal."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "The tiger is a dangerous animal."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Деҳаи мо барои кӯдакон ҷои бехатар аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи exercise",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Our village is a safe place for children.",
+        "Our village is a good place for children.",
+        "Our city is a safe place for children.",
+        "Our village is a safe place for animals."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "Our village is a safe place for children."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Ман аз саги калони назди дарвоза метарсам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи text"
+        "I am afraid of the big dog near the gate.",
+        "I am afraid of the big dog near the door.",
+        "I am afraid of the small dog near the gate.",
+        "I am afraid of the big wolf near the gate."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "I am afraid of the big dog near the gate."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Рӯбоҳ дар ҷангал аз шикорчӣ пинҳон мешавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи story",
-        "нодуруст B",
-        "нодуруст C"
+        "The fox hides in the forest from the hunter.",
+        "The fox hides in the mountains from the hunter.",
+        "The wolf hides in the forest from the hunter.",
+        "The fox runs in the forest from the hunter."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "The fox hides in the forest from the hunter."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Гург метавонад хеле сахт газад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи question",
-        "нодуруст C",
-        "нодуруст B"
+        "A wolf can bite very hard.",
+        "A wolf can bite very well.",
+        "A dog can bite very hard.",
+        "A wolf can attack very hard."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "A wolf can bite very hard."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Хирс метавонад дар ҷангал ба одам ҳуҷум кунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи answer"
+        "A bear can attack a man in the forest.",
+        "A bear can attack a man in the mountains.",
+        "A wolf can attack a man in the forest.",
+        "A bear can bite a man in the forest."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "A bear can attack a man in the forest."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Мо бояд ҳайвоноти ваҳширо дар кишварамон муҳофизат кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи understand",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "We must protect wild animals in our country.",
+        "We must protect wild animals in our forest.",
+        "We must protect domestic animals in our country.",
+        "We must save wild animals in our country."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "We must protect wild animals in our country."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Биби ва бобои ман дар деҳаи хурде дар назди кӯҳҳо зиндагӣ мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи explain"
+        "My grandmother and grandfather live in a small village near the mountains.",
+        "My grandmother and grandfather live in a small village near the forest.",
+        "My grandmother and grandfather live in a big village near the mountains.",
+        "My mother and father live in a small village near the mountains."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "My grandmother and grandfather live in a small village near the mountains."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Дар тобистон ман ба деҳа меравам ва ба бобоям бо ҳайвоноти хонагӣ кӯмак мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи important",
-        "нодуруст A",
-        "нодуруст C"
+        "In summer I go to the village and help my grandfather with the domestic animals.",
+        "In spring I go to the village and help my grandfather with the domestic animals.",
+        "In summer I go to the village and help my grandmother with the domestic animals.",
+        "In summer I go to the village and help my grandfather with the wild animals."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "In summer I go to the village and help my grandfather with the domestic animals."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Ман ҳайвонотро хеле дӯст медорам — ҳам ваҳшӣ ва ҳам хонагӣ» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи different",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "I love animals very much — both wild and domestic.",
+        "I love animals very much — wild and domestic.",
+        "I like animals very much — both wild and domestic.",
+        "I love birds very much — both wild and domestic."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "I love animals very much — both wild and domestic."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Бобоям ду гов, даҳ гӯсфанд ва як асп дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи difficult"
+        "My grandfather has two cows, ten sheep and one horse.",
+        "My grandfather has two cows, ten sheep and two horses.",
+        "My grandfather has three cows, ten sheep and one horse.",
+        "My grandfather has two cows, five sheep and one horse."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "My grandfather has two cows, ten sheep and one horse."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Субҳ ман говҳо ва гӯсфандҳоро ба киштзор мебарам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи easy",
-        "нодуруст C",
-        "нодуруст B"
+        "In the morning I take the cows and the sheep to the field.",
+        "In the evening I take the cows and the sheep to the field.",
+        "In the morning I take the cows and the horses to the field.",
+        "In the morning I bring the cows and the sheep to the field."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "In the morning I take the cows and the sheep to the field."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Бегоҳ ман онҳоро ба хона бармегардонам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи interesting",
-        "нодуруст A"
+        "In the evening I bring them back home.",
+        "In the morning I bring them back home.",
+        "In the evening I take them back home.",
+        "In the evening I bring her back home."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "In the evening I bring them back home."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Бибиам аз шири говҳо шир, панир ва равғани нав месозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи remember"
+        "My grandmother makes fresh milk, cheese and butter from the cows' milk.",
+        "My grandmother makes fresh milk, cheese and butter from the sheep's milk.",
+        "My mother makes fresh milk, cheese and butter from the cows' milk.",
+        "My grandmother makes fresh milk, cheese and bread from the cows' milk."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "My grandmother makes fresh milk, cheese and butter from the cows' milk."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Асп дар киштзор ба бобоям кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи forget",
-        "нодуруст A",
-        "нодуруст B"
+        "The horse helps my grandfather in the field.",
+        "The horse helps my grandfather in the garden.",
+        "The cow helps my grandfather in the field.",
+        "The horse helps my grandmother in the field."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "The horse helps my grandfather in the field."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Саг хонаро муҳофизат мекунад. Гурба дар ошхона мушҳои хурдро мегирад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи homework",
-        "нодуруст B"
+        "The dog protects the house. The cat catches small mice in the kitchen.",
+        "The dog protects the house. The cat catches small mice in the garden.",
+        "The cat protects the house. The dog catches small mice in the kitchen.",
+        "The dog protects the garden. The cat catches small mice in the kitchen."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "The dog protects the house. The cat catches small mice in the kitchen."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Дар кӯҳҳои Тоҷикистон ҳайвоноти ваҳшии зиёд ҳастанд: барфпланг, хирси қаҳваранг, гург, рӯбоҳ, бузи кӯҳӣ, уқоб ва лочин» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи exercise",
-        "нодуруст B"
+        "In the mountains of Tajikistan there are many wild animals: the snow leopard, the brown bear, the wolf, the fox, the mountain goat, the eagle and the falcon.",
+        "In the mountains of Tajikistan there are many wild animals: the snow leopard, the brown bear, the wolf, the fox, the mountain goat, the eagle and the duck.",
+        "In the forests of Tajikistan there are many wild animals: the snow leopard, the brown bear, the wolf, the fox, the mountain goat, the eagle and the falcon.",
+        "In the mountains of Tajikistan there are many domestic animals: the snow leopard, the brown bear, the wolf, the fox, the mountain goat, the eagle and the falcon."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "In the mountains of Tajikistan there are many wild animals: the snow leopard, the brown bear, the wolf, the fox, the mountain goat, the eagle and the falcon."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Барфпланг ҳайвони хеле зебо ва қавӣ аст. Ӯ баланд дар кӯҳҳо зиндагӣ мекунад ва бузҳои кӯҳиро шикор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи text"
+        "The snow leopard is a very beautiful and strong animal. It lives high in the mountains and hunts for mountain goats.",
+        "The snow leopard is a very beautiful and strong animal. It lives high in the mountains and hunts for mountain sheep.",
+        "The snow leopard is a very beautiful and clever animal. It lives high in the mountains and hunts for mountain goats.",
+        "The brown bear is a very beautiful and strong animal. It lives high in the mountains and hunts for mountain goats."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "The snow leopard is a very beautiful and strong animal. It lives high in the mountains and hunts for mountain goats."
+    },
+    {
+      "q": "«Хирси қаҳваранг ҳайвони калон ва қавӣ аст. Дар тобистон ӯ дар ҷангал қадам мезанад ва буттамева ва асал мехӯрад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The brown bear is a big and strong animal. In summer it walks in the forest and eats berries and honey.",
+        "The brown bear is a big and strong animal. In summer it walks in the mountains and eats berries and honey.",
+        "The brown bear is a big and strong animal. In winter it walks in the forest and eats berries and honey.",
+        "The brown bear is a big and kind animal. In summer it walks in the forest and eats berries and honey."
+      ],
+      "answer": "The brown bear is a big and strong animal. In summer it walks in the forest and eats berries and honey."
+    },
+    {
+      "q": "«Дар зимистон ӯ дар ғор мехобад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In winter it sleeps in a cave.",
+        "In winter it sleeps in the forest.",
+        "In summer it sleeps in a cave.",
+        "In winter it lives in a cave."
+      ],
+      "answer": "In winter it sleeps in a cave."
+    },
+    {
+      "q": "«Рӯбоҳ ҳайвони зирак аст. Вақте ки ӯ шикорчиро мебинад, ӯ зуд дар ҷангал пинҳон мешавад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The fox is a clever animal. When it sees a hunter, it hides in the forest quickly.",
+        "The fox is a clever animal. When it sees a hunter, it runs in the forest quickly.",
+        "The wolf is a clever animal. When it sees a hunter, it hides in the forest quickly.",
+        "The fox is a clever animal. When it sees a bear, it hides in the forest quickly."
+      ],
+      "answer": "The fox is a clever animal. When it sees a hunter, it hides in the forest quickly."
+    },
+    {
+      "q": "«Уқоб ва лочин дар осмон баланд парвоз мекунанд ва паррандаҳои хурд ва мушҳоро шикор мекунанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The eagle and the falcon fly high in the sky and hunt for small birds and mice.",
+        "The eagle and the falcon fly high in the sky and hunt for small birds and rabbits.",
+        "The eagle and the duck fly high in the sky and hunt for small birds and mice.",
+        "The eagle and the falcon fly high in the sky and look for small birds and mice."
+      ],
+      "answer": "The eagle and the falcon fly high in the sky and hunt for small birds and mice."
+    },
+    {
+      "q": "«Ҳайвоноти ваҳшӣ метавонанд барои одамон хатарнок бошанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Wild animals can be dangerous for people.",
+        "Wild animals can be dangerous for children.",
+        "Domestic animals can be dangerous for people.",
+        "Wild animals can be useful for people."
+      ],
+      "answer": "Wild animals can be dangerous for people."
+    },
+    {
+      "q": "«Барои ҳамин мо бояд дар ҷангал эҳтиёткор бошем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "That is why we must be careful in the forest.",
+        "That is why we must be careful in the mountains.",
+        "That is why we must be quiet in the forest.",
+        "That is why we must be careful in the garden."
+      ],
+      "answer": "That is why we must be careful in the forest."
+    },
+    {
+      "q": "«Мо бояд ҳеҷ гоҳ танҳо ба ҷангал ё ба кӯҳҳо наравем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must never go alone to the forest or to the mountains.",
+        "We must never go alone to the forest or to the river.",
+        "We must never go alone to the forest or to the field.",
+        "We must not go alone to the forest or to the mountains."
+      ],
+      "answer": "We must never go alone to the forest or to the mountains."
+    },
+    {
+      "q": "«Мо бояд ҳамеша бо шикорчӣ ё бо падарам равем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must always go with a hunter or with our father.",
+        "We must always go with a hunter or with our mother.",
+        "We must always go with a friend or with our father.",
+        "We must always go with a hunter and with our father."
+      ],
+      "answer": "We must always go with a hunter or with our father."
+    },
+    {
+      "q": "«Бобоям шикорчӣ аст. Ӯ ҷангалро хеле хуб медонад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandfather is a hunter. He knows the forest very well.",
+        "My grandfather is a hunter. He knows the mountains very well.",
+        "My father is a hunter. He knows the forest very well.",
+        "My grandfather is a farmer. He knows the forest very well."
+      ],
+      "answer": "My grandfather is a hunter. He knows the forest very well."
+    },
+    {
+      "q": "«Ӯ мегӯяд: \"Ҷангал зебо аст, аммо он барои писари хурд ҳамеша бехатар нест.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He says: \"The forest is beautiful, but it is not always safe for a small boy.\"",
+        "He says: \"The forest is beautiful, but it is not always safe for a small girl.\"",
+        "He says: \"The mountain is beautiful, but it is not always safe for a small boy.\"",
+        "He says: \"The forest is beautiful, but it is not always good for a small boy.\""
+      ],
+      "answer": "He says: \"The forest is beautiful, but it is not always safe for a small boy.\""
+    },
+    {
+      "q": "«Мо бояд ҳайвоноти ваҳширо муҳофизат кунем. Онҳо қисми табиат ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must protect wild animals. They are part of nature.",
+        "We must protect wild animals. They are part of our life.",
+        "We must protect domestic animals. They are part of nature.",
+        "We must save wild animals. They are part of nature."
+      ],
+      "answer": "We must protect wild animals. They are part of nature."
+    },
+    {
+      "q": "«Мо набояд онҳоро бикушем ва мо набояд ҳамаи дарахтонро дар ҷангал бурем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must not kill them and we must not cut down all the trees in the forest.",
+        "We must not kill them and we must not cut down all the trees in the garden.",
+        "We must not eat them and we must not cut down all the trees in the forest.",
+        "We must not kill them and we must not cut down all the flowers in the forest."
+      ],
+      "answer": "We must not kill them and we must not cut down all the trees in the forest."
+    },
+    {
+      "q": "«Барфпланг дар кишвари мо ҳайвони камёб аст. Мо бояд онро муҳофизат кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The snow leopard is a rare animal in our country. We must protect it.",
+        "The snow leopard is a rare animal in our mountains. We must protect it.",
+        "The brown bear is a rare animal in our country. We must protect it.",
+        "The snow leopard is a beautiful animal in our country. We must protect it."
+      ],
+      "answer": "The snow leopard is a rare animal in our country. We must protect it."
+    },
+    {
+      "q": "«Ҳукумати мо барномаи махсус барои наҷот додани барфпланг ва ҳайвоноти дигари камёб дорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Our government has a special programme to save the snow leopard and other rare animals.",
+        "Our government has a special programme to save the brown bear and other rare animals.",
+        "Our government has a special programme to protect the snow leopard and other rare animals.",
+        "Our school has a special programme to save the snow leopard and other rare animals."
+      ],
+      "answer": "Our government has a special programme to save the snow leopard and other rare animals."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам духтури ҳайвонот шавам, ба мисли амакбачаам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to be a vet like my cousin.",
+        "When I grow up, I want to be a vet like my uncle.",
+        "When I grow up, I want to be a doctor like my cousin.",
+        "When I grow up, I want to be a vet like my brother."
+      ],
+      "answer": "When I grow up, I want to be a vet like my cousin."
+    },
+    {
+      "q": "«Ман мехоҳам ба ҳайвоноти бемор кӯмак кунам ва ба одамон меҳрубон буданро бо онҳо омӯзонам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to help sick animals and teach people to be kind to them.",
+        "I want to help sick animals and teach children to be kind to them.",
+        "I want to help small animals and teach people to be kind to them.",
+        "I want to help sick animals and teach people to be good to them."
+      ],
+      "answer": "I want to help sick animals and teach people to be kind to them."
+    },
+    {
+      "q": "«Ман мехоҳам ба ҳамаи кӯдакони кишварам нақл кунам: \"Ҳайвонотро дӯст доред — онҳо дӯстони мо ҳастанд.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to tell all the children of my country: \"Love animals — they are our friends.\"",
+        "I want to tell all the children of my city: \"Love animals — they are our friends.\"",
+        "I want to tell all the pupils of my country: \"Love animals — they are our friends.\"",
+        "I want to tell all the children of my country: \"Love animals — they are our helpers.\""
+      ],
+      "answer": "I want to tell all the children of my country: \"Love animals — they are our friends.\""
+    },
+    {
+      "q": "«Табиатро муҳофизат кунед — он хонаи мост!» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Protect nature — it is our home!",
+        "Save nature — it is our home!",
+        "Protect nature — it is our house!",
+        "Protect the forest — it is our home!"
+      ],
+      "answer": "Protect nature — it is our home!"
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 27
+  "wordsCount": 16
 }
