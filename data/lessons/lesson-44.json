@@ -1,491 +1,602 @@
 {
   "id": 44,
-  "title": "Матн ва машқҳо 44",
-  "level": "Миёна - Синфи 4",
+  "title": "Матн 44: Рӯзи ман — тартиби ҳаррӯза",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "alarm clock",
+      "tj": "соати зангдор",
+      "ex": "My alarm clock rings at seven o'clock."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "to wake up",
+      "tj": "бедор шудан",
+      "ex": "I wake up early every morning."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "to brush teeth",
+      "tj": "дандонро шустан",
+      "ex": "I brush my teeth twice a day."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "to have a shower",
+      "tj": "оббозӣ кардан",
+      "ex": "I have a shower in the morning."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "to get dressed",
+      "tj": "либос пӯшидан",
+      "ex": "I get dressed after breakfast."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "to be late",
+      "tj": "дер мондан",
+      "ex": "I never want to be late for school."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "to hurry",
+      "tj": "шитоб кардан",
+      "ex": "In the morning I usually hurry."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "to be on time",
+      "tj": "сари вақт будан",
+      "ex": "A good pupil must be on time."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "schedule",
+      "tj": "ҷадвал",
+      "ex": "My schedule is full every day."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "to plan",
+      "tj": "нақша кашидан",
+      "ex": "I plan my day every morning."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "routine",
+      "tj": "тартиби ҳаррӯза",
+      "ex": "My daily routine is simple."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "daily",
+      "tj": "ҳаррӯза",
+      "ex": "Reading is my daily habit."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "to relax",
+      "tj": "дам гирифтан",
+      "ex": "I relax in the evening with a book."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "to fall asleep",
+      "tj": "хоб рафтан",
+      "ex": "I fall asleep quickly at night."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
+      "en": "to go to bed",
+      "tj": "ба хоб рафтан",
+      "ex": "I go to bed at ten o'clock."
     },
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
-    },
-    {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
-    },
-    {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
-    },
-    {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
-    },
-    {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
-    },
-    {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
-    },
-    {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
-    },
-    {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
-    },
-    {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "midnight",
+      "tj": "нисфишаб",
+      "ex": "I never stay up until midnight."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 44)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "My alarm clock rings at seven o'clock every morning.",
+      "tj": "Соати зангдори ман ҳар субҳ соати ҳафт занг мезанад."
     },
     {
-      "en": "I'm working on lesson 44",
-      "tj": "Ман дарси 44-ро меомӯзам"
+      "en": "I wake up early and open the window.",
+      "tj": "Ман барвақт бедор мешавам ва тирезаро мекушоям."
+    },
+    {
+      "en": "I brush my teeth and wash my face.",
+      "tj": "Ман дандонҳоямро мешӯям ва рӯямро мешӯям."
+    },
+    {
+      "en": "I have a shower in the morning.",
+      "tj": "Ман субҳ оббозӣ мекунам."
+    },
+    {
+      "en": "I get dressed after breakfast.",
+      "tj": "Ман баъд аз наҳорӣ либос мепӯшам."
+    },
+    {
+      "en": "I never want to be late for school.",
+      "tj": "Ман ҳеҷ гоҳ намехоҳам ба мактаб дер монам."
+    },
+    {
+      "en": "In the morning I usually hurry.",
+      "tj": "Дар субҳ ман одатан шитоб мекунам."
+    },
+    {
+      "en": "A good pupil must always be on time.",
+      "tj": "Хонандаи хуб бояд ҳамеша сари вақт бошад."
+    },
+    {
+      "en": "My schedule is full every day.",
+      "tj": "Ҷадвали ман ҳар рӯз пур аст."
+    },
+    {
+      "en": "I plan my day every morning.",
+      "tj": "Ман ҳар субҳ рӯзамро нақша мекашам."
+    },
+    {
+      "en": "My daily routine is simple and useful.",
+      "tj": "Тартиби ҳаррӯзаи ман оддӣ ва фоиданок аст."
+    },
+    {
+      "en": "Reading is my daily habit.",
+      "tj": "Хониш одати ҳаррӯзаи ман аст."
+    },
+    {
+      "en": "I relax in the evening with a good book.",
+      "tj": "Ман бегоҳ бо китоби хуб дам мегирам."
+    },
+    {
+      "en": "I fall asleep quickly at night.",
+      "tj": "Ман шабона зуд хоб меравам."
+    },
+    {
+      "en": "I go to bed at ten o'clock in the evening.",
+      "tj": "Ман бегоҳ соати даҳ ба хоб меравам."
+    },
+    {
+      "en": "I never stay up until midnight.",
+      "tj": "Ман ҳеҷ гоҳ то нисфишаб бедор намемонам."
     }
   ],
   "text": {
-    "en": "Text for lesson 44. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 44 is about Миёна - Синфи 4. I write all words in my notebook. Level 44 text.",
-    "tj": "Матни дарси 44..."
+    "en": "My Day — My Daily Routine\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. I want to tell you about my daily routine. Every day I do the same things: I get up, wash, eat, go to school, do my homework, help my parents and go to bed. But it is not boring! A good routine helps me be healthy, happy and successful.\n\nMy alarm clock rings at seven o'clock every morning. Sometimes it is very difficult to wake up, especially in winter when it is dark and cold outside. But I know: if I stay in bed for five more minutes, I will be late for school. So I get up quickly. First I open the window and breathe some fresh air. Then I do my morning exercises for ten minutes. After that I go to the bathroom. I brush my teeth and wash my face with cold water. In summer I have a shower every morning. In winter I have a shower every evening.\n\nAt half past seven my family and I have breakfast. My mother usually makes breakfast. I eat bread with butter and cheese, an egg and drink a cup of hot tea. Sometimes I eat porridge with milk. I always drink a glass of warm water first, because it is good for my health. After breakfast I get dressed, take my bag and go to school. My school is near our house, so I usually walk with my friend Farid. We talk about our lessons and laugh.\n\nLessons start at eight o'clock and finish at one o'clock. My schedule is full: English, Tajik, math, history, geography and biology. I like English and history most of all. We have a short break after every lesson. At break we run in the school yard and eat our sandwiches. I always try to be on time for every lesson, because a good pupil must be on time.\n\nAfter school I come home and have lunch. My mother usually makes soup or rice with vegetables. Then I rest a little — I read a book or listen to music. At three o'clock I start doing my homework. I do my homework for two hours, sometimes three. I always plan my work: first English, then math, then history. When I do not understand something, I call my friend Farid or ask my parents.\n\nIn the evening I help my mother in the kitchen. I wash the dishes and take out the rubbish. Then I have dinner with my family. We talk about our day, laugh and share our news. After dinner I sometimes go for a walk with my father. We walk in the park near our house and breathe fresh air. In summer we sometimes go to the lake and swim.\n\nAt nine o'clock in the evening I relax. I read a book, watch a little TV or play chess with my grandfather. Reading is my daily habit. I read five or six pages every evening. At ten o'clock I go to bed. I brush my teeth again, say \"Good night\" to my parents and go to my room. I usually fall asleep quickly. I never stay up until midnight, because I must get up early in the morning.\n\nSome people say that a daily routine is boring. But I think they are wrong. A good routine helps me: I am never late, I always have time for my lessons, for my family and for my hobbies. A good routine makes my life simple and happy. Try to make your own good routine — and you will see how useful it is!",
+    "tj": "Рӯзи ман — тартиби ҳаррӯзаи ман\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Ман мехоҳам ба шумо дар бораи тартиби ҳаррӯзаи худ нақл кунам. Ҳар рӯз ман ҳамон корҳоро мекунам: аз ҷой мехезам, мешӯям, мехӯрам, ба мактаб меравам, вазифаи хонагиамро иҷро мекунам, ба волидонам кӯмак мекунам ва ба хоб меравам. Аммо ин дилгиркунанда нест! Тартиби хуб ба ман кӯмак мекунад, ки солим, хушбахт ва муваффақ бошам.\n\nСоати зангдори ман ҳар субҳ соати ҳафт занг мезанад. Баъзан бедор шудан хеле душвор аст, хусусан дар зимистон, вақте ки берун торик ва хунук аст. Аммо ман медонам: агар ман панҷ дақиқаи дигар дар кат бимонам, ман ба мактаб дер мемонам. Барои ҳамин ман зуд аз ҷой мехезам. Аввал ман тирезаро мекушоям ва ҳавои тоза нафас мегирам. Баъд ман даҳ дақиқа машқҳои субҳро иҷро мекунам. Баъд аз он ба ҳуҷраи оббозӣ меравам. Ман дандонҳоямро мешӯям ва рӯямро бо оби хунук мешӯям. Дар тобистон ман ҳар субҳ оббозӣ мекунам. Дар зимистон ман ҳар бегоҳ оббозӣ мекунам.\n\nСоати ҳафт ва ним ман ва оилаам наҳорӣ мехӯрем. Модарам одатан наҳорӣ мепазад. Ман нонро бо равған ва панир, тухм мехӯрам ва як пиёла чойи гарм менӯшам. Баъзан ман бӯтқа бо шир мехӯрам. Ман ҳамеша аввал як пиёла оби гарм менӯшам, зеро ки он барои саломатии ман хуб аст. Баъд аз наҳорӣ ман либос мепӯшам, халтаамро мегирам ва ба мактаб меравам. Мактаби ман дар назди хонаи мост, бинобар ин ман одатан бо дӯстам Фарид пиёда меравам. Мо дар бораи дарсҳоямон сӯҳбат мекунем ва механдем.\n\nДарсҳо соати ҳашт оғоз мешаванд ва соати як тамом мешаванд. Ҷадвали ман пур аст: англисӣ, тоҷикӣ, математика, таърих, ҷуғрофия ва биология. Ман англисӣ ва таърихро аз ҳама бештар дӯст медорам. Баъд аз ҳар як дарс мо танаффуси кӯтоҳ дорем. Дар танаффус мо дар ҳавлии мактаб медаваем ва сандвичҳоямонро мехӯрем. Ман ҳамеша кӯшиш мекунам, ки ба ҳар як дарс сари вақт бошам, зеро ки хонандаи хуб бояд сари вақт бошад.\n\nБаъд аз мактаб ман ба хона меоям ва хӯроки нисфирӯзӣ мехӯрам. Модарам одатан шӯрбо ё биринҷ бо сабзавот мепазад. Баъд ман каме дам мегирам — китоб мехонам ё ба мусиқӣ гӯш мекунам. Соати се ман вазифаи хонагиамро иҷро карданро оғоз мекунам. Ман вазифаи хонагиамро ду соат, баъзан се соат иҷро мекунам. Ман ҳамеша кори худро нақша мекашам: аввал англисӣ, баъд математика, баъд таърих. Вақте ки ман чизеро намефаҳмам, ман ба дӯстам Фарид занг мезанам ё аз волидонам мепурсам.\n\nБегоҳ ман ба модарам дар ошхона кӯмак мекунам. Ман зарфҳоро мешӯям ва ахлотро берун мебарорам. Баъд ман бо оилаам хӯроки шом мехӯрам. Мо дар бораи рӯзи худ сӯҳбат мекунем, механдем ва хабарҳои худро нақл мекунем. Баъд аз хӯроки шом ман баъзан бо падарам ба сайругашт меравам. Мо дар боғи истироҳати назди хонаи мо қадам мезанем ва ҳавои тоза нафас мегирем. Дар тобистон мо баъзан ба кӯл меравем ва шино мекунем.\n\nСоати нӯҳи бегоҳ ман дам мегирам. Ман китоб мехонам, каме телевизор тамошо мекунам ё бо бобоям шатранҷ бозӣ мекунам. Хониш одати ҳаррӯзаи ман аст. Ман ҳар бегоҳ панҷ ё шаш саҳифа мехонам. Соати даҳ ман ба хоб меравам. Ман боз дандонҳоямро мешӯям, ба волидонам «Шаб ба хайр» мегӯям ва ба ҳуҷраи худ меравам. Ман одатан зуд хоб меравам. Ман ҳеҷ гоҳ то нисфишаб бедор намемонам, зеро ки ман бояд субҳ барвақт аз ҷой хезам.\n\nБаъзе одамон мегӯянд, ки тартиби ҳаррӯза дилгиркунанда аст. Аммо ман фикр мекунам, ки онҳо хато мекунанд. Тартиби хуб ба ман кӯмак мекунад: ман ҳеҷ гоҳ дер намемонам, ман ҳамеша барои дарсҳоям, барои оилаам ва барои машғулиятҳоям вақт дорам. Тартиби хуб ҳаёти манро оддӣ ва хушбахт мекунад. Кӯшиш кунед, ки тартиби хубро барои худ созед — ва шумо хоҳед дид, ки он чӣ қадар фоиданок аст!"
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Соати зангдори ман ҳар субҳ соати ҳафт занг мезанад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи understand",
-        "нодуруст C"
+        "My alarm clock rings at seven o'clock every morning.",
+        "My alarm clock rings at seven o'clock every day.",
+        "My clock rings at seven o'clock every morning.",
+        "My alarm clock rings at eight o'clock every morning."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "My alarm clock rings at seven o'clock every morning."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Ман барвақт бедор мешавам ва тирезаро мекушоям» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи explain",
-        "нодуруст B"
+        "I wake up early and open the window.",
+        "I wake up early and open the door.",
+        "I get up early and open the window.",
+        "I wake up early and open the windows."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "I wake up early and open the window."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Ман дандонҳоямро мешӯям ва рӯямро мешӯям» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи important",
-        "нодуруст C",
-        "нодуруст A"
+        "I brush my teeth and wash my face.",
+        "I brush my teeth and clean my face.",
+        "I clean my teeth and wash my face.",
+        "I brush my teeth and wash my hands."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "I brush my teeth and wash my face."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Ман субҳ оббозӣ мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи different",
-        "нодуруст C",
-        "нодуруст B"
+        "I have a shower in the morning.",
+        "I take a shower in the morning.",
+        "I have a bath in the morning.",
+        "I have a shower in the evening."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "I have a shower in the morning."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Ман баъд аз наҳорӣ либос мепӯшам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи difficult",
-        "нодуруст B"
+        "I get dressed after breakfast.",
+        "I put on clothes after breakfast.",
+        "I dress after breakfast.",
+        "I get dressed before breakfast."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "I get dressed after breakfast."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Ман ҳеҷ гоҳ намехоҳам ба мактаб дер монам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи easy",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "I never want to be late for school.",
+        "I never want to be late to school.",
+        "I don't want to be late for school.",
+        "I never want to be late for the school."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "I never want to be late for school."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Дар субҳ ман одатан шитоб мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи interesting",
-        "нодуруст A",
-        "нодуруст C"
+        "In the morning I usually hurry.",
+        "In the morning I often hurry.",
+        "In the morning I usually hurry up.",
+        "In the morning I am usually in a hurry."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "In the morning I usually hurry."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Хонандаи хуб бояд ҳамеша сари вақт бошад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи remember",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "A good pupil must always be on time.",
+        "A good pupil should always be on time.",
+        "A good pupil must be always on time.",
+        "A good student must always be on time."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "A good pupil must always be on time."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Ҷадвали ман ҳар рӯз пур аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи forget"
+        "My schedule is full every day.",
+        "My timetable is full every day.",
+        "My schedule is full every morning.",
+        "My schedule is very full every day."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "My schedule is full every day."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Ман ҳар субҳ рӯзамро нақша мекашам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи homework",
-        "нодуруст B"
+        "I plan my day every morning.",
+        "I plan my day every day.",
+        "I plan my work every morning.",
+        "I plan the day every morning."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "I plan my day every morning."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Тартиби ҳаррӯзаи ман оддӣ ва фоиданок аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи exercise",
-        "нодуруст A",
-        "нодуруст C"
+        "My daily routine is simple and useful.",
+        "My daily routine is simple and good.",
+        "My routine is simple and useful.",
+        "My daily routine is easy and useful."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "My daily routine is simple and useful."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Хониш одати ҳаррӯзаи ман аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи text",
-        "нодуруст B"
+        "Reading is my daily habit.",
+        "Reading is my habit every day.",
+        "Reading books is my daily habit.",
+        "Reading is my everyday habit."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "Reading is my daily habit."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Ман бегоҳ бо китоби хуб дам мегирам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи story",
-        "нодуруст A"
+        "I relax in the evening with a good book.",
+        "I rest in the evening with a good book.",
+        "I relax in the evening with a book.",
+        "I relax in the evening with good books."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "I relax in the evening with a good book."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Ман шабона зуд хоб меравам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи question",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "I fall asleep quickly at night.",
+        "I fall asleep fast at night.",
+        "I fall asleep quickly in the night.",
+        "I sleep quickly at night."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "I fall asleep quickly at night."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Ман бегоҳ соати даҳ ба хоб меравам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи answer",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "I go to bed at ten o'clock in the evening.",
+        "I go to bed at ten o'clock in the night.",
+        "I go to bed at nine o'clock in the evening.",
+        "I go to sleep at ten o'clock in the evening."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "I go to bed at ten o'clock in the evening."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Ман ҳеҷ гоҳ то нисфишаб бедор намемонам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи understand",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "I never stay up until midnight.",
+        "I never stay up till midnight.",
+        "I never stay up to midnight.",
+        "I never stay awake until midnight."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "I never stay up until midnight."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Ҳар рӯз ман ҳамон корҳоро мекунам: аз ҷой мехезам, мешӯям, мехӯрам, ба мактаб меравам, вазифаи хонагиамро иҷро мекунам, ба волидонам кӯмак мекунам ва ба хоб меравам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи explain",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "Every day I do the same things: I get up, wash, eat, go to school, do my homework, help my parents and go to bed.",
+        "Every day I do the same things: I get up, wash, eat, go to school, do my homework, help my parents and go to sleep.",
+        "Every day I do the same things: I get up, wash, eat, go to school, make my homework, help my parents and go to bed.",
+        "Every day I do the same things: I wake up, wash, eat, go to school, do my homework, help my parents and go to bed."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "Every day I do the same things: I get up, wash, eat, go to school, do my homework, help my parents and go to bed."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Аммо ин дилгиркунанда нест! Тартиби хуб ба ман кӯмак мекунад, ки солим, хушбахт ва муваффақ бошам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи important",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "But it is not boring! A good routine helps me be healthy, happy and successful.",
+        "But it is not boring! A good routine helps me to be healthy, happy and successful.",
+        "But it isn't boring! A good routine helps me be healthy, happy and successful.",
+        "But it is not boring! A good regime helps me be healthy, happy and successful."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "But it is not boring! A good routine helps me be healthy, happy and successful."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Баъзан бедор шудан хеле душвор аст, хусусан дар зимистон, вақте ки берун торик ва хунук аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи different",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Sometimes it is very difficult to wake up, especially in winter when it is dark and cold outside.",
+        "Sometimes it is very hard to wake up, especially in winter when it is dark and cold outside.",
+        "Sometimes it is very difficult to get up, especially in winter when it is dark and cold outside.",
+        "Sometimes it is difficult to wake up, especially in winter when it is dark and cold outside."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "Sometimes it is very difficult to wake up, especially in winter when it is dark and cold outside."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Аммо ман медонам: агар ман панҷ дақиқаи дигар дар кат бимонам, ман ба мактаб дер мемонам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи difficult",
-        "нодуруст B"
+        "But I know: if I stay in bed for five more minutes, I will be late for school.",
+        "But I know: if I stay in bed for five more minutes, I will be late to school.",
+        "But I know: if I stay in bed five more minutes, I will be late for school.",
+        "But I know: if I stay in the bed for five more minutes, I will be late for school."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "But I know: if I stay in bed for five more minutes, I will be late for school."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Аввал ман тирезаро мекушоям ва ҳавои тоза нафас мегирам. Баъд ман даҳ дақиқа машқҳои субҳро иҷро мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи easy",
-        "нодуруст C",
-        "нодуруст A"
+        "First I open the window and breathe some fresh air. Then I do my morning exercises for ten minutes.",
+        "First I open the window and breathe fresh air. Then I do my morning exercises for ten minutes.",
+        "First I open the window and breathe some fresh air. Then I do morning exercises for ten minutes.",
+        "At first I open the window and breathe some fresh air. Then I do my morning exercises for ten minutes."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "First I open the window and breathe some fresh air. Then I do my morning exercises for ten minutes."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Баъд аз он ба ҳуҷраи оббозӣ меравам. Ман дандонҳоямро мешӯям ва рӯямро бо оби хунук мешӯям» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи interesting",
-        "нодуруст B"
+        "After that I go to the bathroom. I brush my teeth and wash my face with cold water.",
+        "After that I go to the bathroom. I brush my teeth and wash my face with cool water.",
+        "After that I go to the bathroom. I clean my teeth and wash my face with cold water.",
+        "Then I go to the bathroom. I brush my teeth and wash my face with cold water."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "After that I go to the bathroom. I brush my teeth and wash my face with cold water."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Дар тобистон ман ҳар субҳ оббозӣ мекунам. Дар зимистон ман ҳар бегоҳ оббозӣ мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи remember",
-        "нодуруст A"
+        "In summer I have a shower every morning. In winter I have a shower every evening.",
+        "In summer I take a shower every morning. In winter I take a shower every evening.",
+        "In summer I have a shower every morning. In winter I have a bath every evening.",
+        "In summer I have a shower every morning. In winter I have a shower in the evening."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "In summer I have a shower every morning. In winter I have a shower every evening."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Соати ҳафт ва ним ман ва оилаам наҳорӣ мехӯрем. Модарам одатан наҳорӣ мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи forget",
-        "нодуруст B",
-        "нодуруст C"
+        "At half past seven my family and I have breakfast. My mother usually makes breakfast.",
+        "At half past seven my family and I have breakfast. My mother usually cooks breakfast.",
+        "At half past seven my family and I eat breakfast. My mother usually makes breakfast.",
+        "At half past seven my family and I have breakfast. My grandmother usually makes breakfast."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "At half past seven my family and I have breakfast. My mother usually makes breakfast."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Ман нонро бо равған ва панир, тухм мехӯрам ва як пиёла чойи гарм менӯшам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи homework",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "I eat bread with butter and cheese, an egg and drink a cup of hot tea.",
+        "I eat bread with butter and cheese, an egg and drink a cup of warm tea.",
+        "I eat bread with butter and cheese, and an egg and drink a cup of hot tea.",
+        "I eat bread with butter and cheese, an egg and drink a glass of hot tea."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "I eat bread with butter and cheese, an egg and drink a cup of hot tea."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Ман ҳамеша аввал як пиёла оби гарм менӯшам, зеро ки он барои саломатии ман хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи exercise",
-        "нодуруст C"
+        "I always drink a glass of warm water first, because it is good for my health.",
+        "I always drink a cup of warm water first, because it is good for my health.",
+        "I always drink a glass of warm water first, because it is useful for my health.",
+        "I always drink a glass of hot water first, because it is good for my health."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "I always drink a glass of warm water first, because it is good for my health."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Мактаби ман дар назди хонаи мост, бинобар ин ман одатан бо дӯстам Фарид пиёда меравам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи text",
-        "нодуруст C",
-        "нодуруст B"
+        "My school is near our house, so I usually walk with my friend Farid.",
+        "My school is near our house, that is why I usually walk with my friend Farid.",
+        "My school is near our house, so I usually go on foot with my friend Farid.",
+        "My school is near our house, so I usually walk with my classmate Farid."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "My school is near our house, so I usually walk with my friend Farid."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Дарсҳо соати ҳашт оғоз мешаванд ва соати як тамом мешаванд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи story",
-        "нодуруст A"
+        "Lessons start at eight o'clock and finish at one o'clock.",
+        "Lessons begin at eight o'clock and finish at one o'clock.",
+        "Lessons start at eight o'clock and end at one o'clock.",
+        "The lessons start at eight o'clock and finish at one o'clock."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "Lessons start at eight o'clock and finish at one o'clock."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Баъд аз ҳар як дарс мо танаффуси кӯтоҳ дорем. Дар танаффус мо дар ҳавлии мактаб медаваем ва сандвичҳоямонро мехӯрем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи question"
+        "We have a short break after every lesson. At break we run in the school yard and eat our sandwiches.",
+        "We have a short break after every lesson. During the break we run in the school yard and eat our sandwiches.",
+        "We have a short break after each lesson. At break we run in the school yard and eat our sandwiches.",
+        "We have a short break after every lesson. At break we run in the school yard and eat sandwiches."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "We have a short break after every lesson. At break we run in the school yard and eat our sandwiches."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Ман ҳамеша кӯшиш мекунам, ки ба ҳар як дарс сари вақт бошам, зеро ки хонандаи хуб бояд сари вақт бошад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи answer",
-        "нодуруст C",
-        "нодуруст A"
+        "I always try to be on time for every lesson, because a good pupil must be on time.",
+        "I always try to be on time to every lesson, because a good pupil must be on time.",
+        "I always try to be on time for each lesson, because a good pupil must be on time.",
+        "I always try to be on time for every lesson, because a good student must be on time."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "I always try to be on time for every lesson, because a good pupil must be on time."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Баъд аз мактаб ман ба хона меоям ва хӯроки нисфирӯзӣ мехӯрам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи understand",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "After school I come home and have lunch.",
+        "After school I come home and eat lunch.",
+        "After school I go home and have lunch.",
+        "After the school I come home and have lunch."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "After school I come home and have lunch."
+    },
+    {
+      "q": "«Модарам одатан шӯрбо ё биринҷ бо сабзавот мепазад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My mother usually makes soup or rice with vegetables.",
+        "My mother usually cooks soup or rice with vegetables.",
+        "My mother usually makes soup and rice with vegetables.",
+        "My grandmother usually makes soup or rice with vegetables."
+      ],
+      "answer": "My mother usually makes soup or rice with vegetables."
+    },
+    {
+      "q": "«Баъд ман каме дам мегирам — китоб мехонам ё ба мусиқӣ гӯш мекунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Then I rest a little — I read a book or listen to music.",
+        "Then I relax a little — I read a book or listen to music.",
+        "Then I have a rest — I read a book or listen to music.",
+        "Then I rest for a while — I read a book or listen to music."
+      ],
+      "answer": "Then I rest a little — I read a book or listen to music."
+    },
+    {
+      "q": "«Соати се ман вазифаи хонагиамро иҷро карданро оғоз мекунам. Ман вазифаи хонагиамро ду соат, баъзан се соат иҷро мекунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "At three o'clock I start doing my homework. I do my homework for two hours, sometimes three.",
+        "At three o'clock I start to do my homework. I do my homework for two hours, sometimes three.",
+        "At three o'clock I begin doing my homework. I do my homework for two hours, sometimes three.",
+        "At three o'clock I start doing my lessons. I do my homework for two hours, sometimes three."
+      ],
+      "answer": "At three o'clock I start doing my homework. I do my homework for two hours, sometimes three."
+    },
+    {
+      "q": "«Ман ҳамеша кори худро нақша мекашам: аввал англисӣ, баъд математика, баъд таърих» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I always plan my work: first English, then math, then history.",
+        "I always plan my work: at first English, then math, then history.",
+        "I always plan my homework: first English, then math, then history.",
+        "I always plan my work: first English, then mathematics, then history."
+      ],
+      "answer": "I always plan my work: first English, then math, then history."
+    },
+    {
+      "q": "«Вақте ки ман чизеро намефаҳмам, ман ба дӯстам Фарид занг мезанам ё аз волидонам мепурсам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I do not understand something, I call my friend Farid or ask my parents.",
+        "When I don't understand something, I call my friend Farid or ask my parents.",
+        "When I do not understand anything, I call my friend Farid or ask my parents.",
+        "When I do not understand something, I phone my friend Farid or ask my parents."
+      ],
+      "answer": "When I do not understand something, I call my friend Farid or ask my parents."
+    },
+    {
+      "q": "«Бегоҳ ман ба модарам дар ошхона кӯмак мекунам. Ман зарфҳоро мешӯям ва ахлотро берун мебарорам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In the evening I help my mother in the kitchen. I wash the dishes and take out the rubbish.",
+        "In the evening I help my mother in the kitchen. I do the dishes and take out the rubbish.",
+        "In the evening I help my mother in the kitchen. I wash the dishes and put out the rubbish.",
+        "In the evening I help my mother in the kitchen. I wash the plates and take out the rubbish."
+      ],
+      "answer": "In the evening I help my mother in the kitchen. I wash the dishes and take out the rubbish."
+    },
+    {
+      "q": "«Баъд ман бо оилаам хӯроки шом мехӯрам. Мо дар бораи рӯзи худ сӯҳбат мекунем, механдем ва хабарҳои худро нақл мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Then I have dinner with my family. We talk about our day, laugh and share our news.",
+        "Then I have supper with my family. We talk about our day, laugh and share our news.",
+        "Then I eat dinner with my family. We talk about our day, laugh and share our news.",
+        "Then I have dinner with my family. We talk about our day, laugh and tell our news."
+      ],
+      "answer": "Then I have dinner with my family. We talk about our day, laugh and share our news."
+    },
+    {
+      "q": "«Баъд аз хӯроки шом ман баъзан бо падарам ба сайругашт меравам. Мо дар боғи истироҳати назди хонаи мо қадам мезанем ва ҳавои тоза нафас мегирем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "After dinner I sometimes go for a walk with my father. We walk in the park near our house and breathe fresh air.",
+        "After dinner I sometimes go for a walk with my father. We walk in the park near our house and take fresh air.",
+        "After dinner I sometimes go for a walk with my father. We walk in the garden near our house and breathe fresh air.",
+        "After dinner I sometimes go for a walk with my father. We walk in the park near our home and breathe fresh air."
+      ],
+      "answer": "After dinner I sometimes go for a walk with my father. We walk in the park near our house and breathe fresh air."
+    },
+    {
+      "q": "«Соати нӯҳи бегоҳ ман дам мегирам. Ман китоб мехонам, каме телевизор тамошо мекунам ё бо бобоям шатранҷ бозӣ мекунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "At nine o'clock in the evening I relax. I read a book, watch a little TV or play chess with my grandfather.",
+        "At nine o'clock in the evening I rest. I read a book, watch a little TV or play chess with my grandfather.",
+        "At nine o'clock in the evening I relax. I read a book, watch a little TV or play chess with my grandfather.",
+        "At nine o'clock in the evening I relax. I read a book, watch little TV or play chess with my grandfather."
+      ],
+      "answer": "At nine o'clock in the evening I relax. I read a book, watch a little TV or play chess with my grandfather."
+    },
+    {
+      "q": "«Соати даҳ ман ба хоб меравам. Ман боз дандонҳоямро мешӯям, ба волидонам \"Шаб ба хайр\" мегӯям ва ба ҳуҷраи худ меравам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "At ten o'clock I go to bed. I brush my teeth again, say \"Good night\" to my parents and go to my room.",
+        "At ten o'clock I go to bed. I brush my teeth again, say \"Good night\" to my parents and go to my bedroom.",
+        "At ten o'clock I go to bed. I clean my teeth again, say \"Good night\" to my parents and go to my room.",
+        "At ten o'clock I go to sleep. I brush my teeth again, say \"Good night\" to my parents and go to my room."
+      ],
+      "answer": "At ten o'clock I go to bed. I brush my teeth again, say \"Good night\" to my parents and go to my room."
+    },
+    {
+      "q": "«Баъзе одамон мегӯянд, ки тартиби ҳаррӯза дилгиркунанда аст. Аммо ман фикр мекунам, ки онҳо хато мекунанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Some people say that a daily routine is boring. But I think they are wrong.",
+        "Some people say that a daily routine is boring. But I think that they are wrong.",
+        "Some people say a daily routine is boring. But I think they are wrong.",
+        "Some people say that a daily routine is boring. But I think they are mistaken."
+      ],
+      "answer": "Some people say that a daily routine is boring. But I think they are wrong."
+    },
+    {
+      "q": "«Тартиби хуб ба ман кӯмак мекунад: ман ҳеҷ гоҳ дер намемонам, ман ҳамеша барои дарсҳоям, барои оилаам ва барои машғулиятҳоям вақт дорам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "A good routine helps me: I am never late, I always have time for my lessons, for my family and for my hobbies.",
+        "A good routine helps me: I am never late, I always have time for my lessons, for my family and for my hobby.",
+        "A good routine helps me: I am never late, I always have time for lessons, for my family and for my hobbies.",
+        "A good routine helps me: I am never late, I always have time for my lessons, for my family and my hobbies."
+      ],
+      "answer": "A good routine helps me: I am never late, I always have time for my lessons, for my family and for my hobbies."
+    },
+    {
+      "q": "«Тартиби хуб ҳаёти манро оддӣ ва хушбахт мекунад. Кӯшиш кунед, ки тартиби хубро барои худ созед — ва шумо хоҳед дид, ки он чӣ қадар фоиданок аст!» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "A good routine makes my life simple and happy. Try to make your own good routine — and you will see how useful it is!",
+        "A good routine makes my life simple and happy. Try to make your own good routine — and you will see how good it is!",
+        "A good routine makes my life easy and happy. Try to make your own good routine — and you will see how useful it is!",
+        "A good routine makes my life simple and happy. Try to make your own good routine — and you will see how useful it can be!"
+      ],
+      "answer": "A good routine makes my life simple and happy. Try to make your own good routine — and you will see how useful it is!"
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 31
+  "wordsCount": 16
 }
