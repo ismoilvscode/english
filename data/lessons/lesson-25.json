@@ -1,356 +1,440 @@
 {
   "id": 25,
-  "title": "Матн ва машқҳо 25",
-  "level": "Миёна - Синфи 4",
+  "title": "Иборасозӣ 25: Ҳаракат ва амалҳо",
+  "level": "Ибтидоӣ - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "to swim",
+      "tj": "шино кардан",
+      "ex": "I swim in the lake in summer."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "to jump",
+      "tj": "ҷаҳидан",
+      "ex": "The children jump in the garden."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "to climb",
+      "tj": "баромадан",
+      "ex": "He climbs the mountain in spring."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "to fall",
+      "tj": "афтидан",
+      "ex": "The small child falls in the yard."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "to break",
+      "tj": "шикастан",
+      "ex": "She breaks the cup on the table."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "to fix",
+      "tj": "таъмир кардан",
+      "ex": "My father fixes my bicycle."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "to build",
+      "tj": "сохтан",
+      "ex": "The worker builds a new house."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "to cut",
+      "tj": "буридан",
+      "ex": "My mother cuts the bread."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "to catch",
+      "tj": "гирифтан",
+      "ex": "The cat catches a small mouse."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "to throw",
+      "tj": "партофтан",
+      "ex": "The boy throws the ball in the garden."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "to carry",
+      "tj": "бардоштан",
+      "ex": "I carry my bag to school."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "to push",
+      "tj": "тела додан",
+      "ex": "He pushes the door and comes in."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "to pull",
+      "tj": "кашидан",
+      "ex": "She pulls the chair to the table."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "to lose",
+      "tj": "гум кардан",
+      "ex": "I lose my key in the garden."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
-    },
-    {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "to find",
+      "tj": "ёфтан",
+      "ex": "She finds her book on the desk."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 25)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "I swim in the lake in summer with my friend.",
+      "tj": "Ман дар тобистон бо дӯстам дар кӯл шино мекунам."
     },
     {
-      "en": "I'm working on lesson 25",
-      "tj": "Ман дарси 25-ро меомӯзам"
+      "en": "The children jump and laugh together in the garden.",
+      "tj": "Кӯдакон якҷоя дар боғ меҷаҳанд ва механдем."
+    },
+    {
+      "en": "My father climbs the mountain in spring and takes a photo.",
+      "tj": "Падарам дар баҳор ба кӯҳ мебарояд ва акс мегирад."
+    },
+    {
+      "en": "The small child falls in the yard and cries in the evening.",
+      "tj": "Кӯдаки хурд дар ҳавлӣ меафтад ва бегоҳ гиря мекунад."
+    },
+    {
+      "en": "She breaks the cup and her mother is sad.",
+      "tj": "Ӯ пиёларо мешиканад ва модараш ғамгин мешавад."
+    },
+    {
+      "en": "My father fixes my old bicycle in the morning.",
+      "tj": "Падарам субҳ дучархаи кӯҳнаи маро таъмир мекунад."
+    },
+    {
+      "en": "The worker builds a big house near the school.",
+      "tj": "Коргар дар назди мактаб хонаи калон месозад."
+    },
+    {
+      "en": "My mother cuts the bread and puts it on the table.",
+      "tj": "Модарам нонро мебурад ва онро ба миз мегузорад."
+    },
+    {
+      "en": "The cat catches a small mouse in the kitchen.",
+      "tj": "Гурба дар ошхона муши хурдро мегирад."
+    },
+    {
+      "en": "The boy throws the ball and the dog catches it.",
+      "tj": "Писар тӯбро мепартояд ва саг онро мегирад."
+    },
+    {
+      "en": "I carry my bag and my book to school every morning.",
+      "tj": "Ман ҳар субҳ халта ва китобамро ба мактаб мебардорам."
+    },
+    {
+      "en": "He pushes the door and comes into the big room.",
+      "tj": "Ӯ дарро тела медиҳад ва ба ҳуҷраи калон медарояд."
+    },
+    {
+      "en": "She pulls the chair to the table and sits down.",
+      "tj": "Ӯ курсӣро ба миз мекашад ва менишинад."
+    },
+    {
+      "en": "I lose my key near the lake and my friend helps me.",
+      "tj": "Ман дар назди кӯл калидамро гум мекунам ва дӯстам ба ман кӯмак мекунад."
+    },
+    {
+      "en": "She finds her old book on the desk and smiles.",
+      "tj": "Ӯ китоби кӯҳнаи худро дар миз меёбад ва табассум мекунад."
+    },
+    {
+      "en": "My brother swims in the river and my sister jumps in the garden.",
+      "tj": "Бародарам дар дарё шино мекунад ва хоҳарам дар боғ меҷаҳад."
+    },
+    {
+      "en": "The clever pupil climbs the tree and finds a small bird.",
+      "tj": "Хонандаи зирак ба дарахт мебарояд ва паррандаи хурдро меёбад."
+    },
+    {
+      "en": "The kind doctor fixes the broken window and helps the child.",
+      "tj": "Духтури меҳрубон тирезаи шикастаро таъмир мекунад ва ба кӯдак кӯмак мекунад."
+    },
+    {
+      "en": "My grandmother cuts the cake and gives a present to the guest.",
+      "tj": "Бибиам тортро мебурад ва ба меҳмон тӯҳфа медиҳад."
+    },
+    {
+      "en": "We carry water from the lake and build a small house in the garden.",
+      "tj": "Мо аз кӯл об меорем ва дар боғ хоначаи хурд месозем."
+    },
+    {
+      "en": "He pushes the heavy door and finds his old key on the table.",
+      "tj": "Ӯ дари вазнинро тела медиҳад ва калиди кӯҳнаи худро дар миз меёбад."
+    },
+    {
+      "en": "The children throw the ball and laugh together near the beautiful lake.",
+      "tj": "Кӯдакон тӯбро мепартоянд ва якҷоя дар назди кӯли зебо механдем."
+    },
+    {
+      "en": "I always help my mother, carry bread and cut vegetables in the kitchen.",
+      "tj": "Ман ҳамеша ба модарам кӯмак мекунам, нон меоварам ва дар ошхона сабзавот мебурам."
+    },
+    {
+      "en": "My father fixes the bicycle, builds a new fence and works in the garden.",
+      "tj": "Падарам дучархаро таъмир мекунад, девори нав месозад ва дар боғ кор мекунад."
+    },
+    {
+      "en": "We sometimes travel to the village, visit our grandmother and swim in the lake.",
+      "tj": "Мо баъзан ба деҳа сафар мекунем, бибиамонро дидан мекунем ва дар кӯл шино мекунем."
     }
   ],
-  "text": {
-    "en": "Text for lesson 25. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 25 is about Миёна - Синфи 4. I write all words in my notebook. Level 25 text.",
-    "tj": "Матни дарси 25..."
-  },
+  "text": null,
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Ман дар тобистон бо дӯстам дар кӯл шино мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи understand",
-        "нодуруст B"
+        "I swim in the lake in summer with my friend.",
+        "I swim in the river in summer with my friend.",
+        "I swim in the lake in spring with my friend.",
+        "I jump in the lake in summer with my friend."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "I swim in the lake in summer with my friend."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Кӯдакон якҷоя дар боғ меҷаҳанд ва механдем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи explain",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "The children jump and laugh together in the garden.",
+        "The children jump and cry together in the garden.",
+        "The children jump and laugh together in the house.",
+        "The pupils jump and laugh together in the garden."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "The children jump and laugh together in the garden."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Падарам дар баҳор ба кӯҳ мебарояд ва акс мегирад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи important",
-        "нодуруст C"
+        "My father climbs the mountain in spring and takes a photo.",
+        "My father climbs the mountain in summer and takes a photo.",
+        "My father climbs the tree in spring and takes a photo.",
+        "My brother climbs the mountain in spring and takes a photo."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "My father climbs the mountain in spring and takes a photo."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Кӯдаки хурд дар ҳавлӣ меафтад ва бегоҳ гиря мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи different",
-        "нодуруст B",
-        "нодуруст C"
+        "The small child falls in the yard and cries in the evening.",
+        "The small child falls in the yard and cries in the morning.",
+        "The small child falls in the garden and cries in the evening.",
+        "The big child falls in the yard and cries in the evening."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "The small child falls in the yard and cries in the evening."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Ӯ пиёларо мешиканад ва модараш ғамгин мешавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи difficult"
+        "She breaks the cup and her mother is sad.",
+        "She breaks the plate and her mother is sad.",
+        "He breaks the cup and his mother is sad.",
+        "She breaks the cup and her mother is happy."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "She breaks the cup and her mother is sad."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Падарам субҳ дучархаи кӯҳнаи маро таъмир мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи easy"
+        "My father fixes my old bicycle in the morning.",
+        "My father fixes my new bicycle in the morning.",
+        "My father fixes my old bicycle in the evening.",
+        "My brother fixes my old bicycle in the morning."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "My father fixes my old bicycle in the morning."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Коргар дар назди мактаб хонаи калон месозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи interesting",
-        "нодуруст A",
-        "нодуруст C"
+        "The worker builds a big house near the school.",
+        "The worker builds a big house near the shop.",
+        "The farmer builds a big house near the school.",
+        "The worker builds a small house near the school."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "The worker builds a big house near the school."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Модарам нонро мебурад ва онро ба миз мегузорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи remember",
-        "нодуруст A",
-        "нодуруст B"
+        "My mother cuts the bread and puts it on the table.",
+        "My mother cuts the bread and puts it on the desk.",
+        "My grandmother cuts the bread and puts it on the table.",
+        "My mother cuts the cake and puts it on the table."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "My mother cuts the bread and puts it on the table."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Гурба дар ошхона муши хурдро мегирад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи forget",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The cat catches a small mouse in the kitchen.",
+        "The cat catches a small mouse in the garden.",
+        "The dog catches a small mouse in the kitchen.",
+        "The cat catches a big mouse in the kitchen."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "The cat catches a small mouse in the kitchen."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Писар тӯбро мепартояд ва саг онро мегирад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи homework",
-        "нодуруст C",
-        "нодуруст B"
+        "The boy throws the ball and the dog catches it.",
+        "The boy throws the ball and the cat catches it.",
+        "The girl throws the ball and the dog catches it.",
+        "The boy throws the ball and the dog finds it."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "The boy throws the ball and the dog catches it."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Ман ҳар субҳ халта ва китобамро ба мактаб мебардорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи exercise",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "I carry my bag and my book to school every morning.",
+        "I carry my bag and my book to school every evening.",
+        "I carry my bag and my pencil to school every morning.",
+        "I take my bag and my book to school every morning."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "I carry my bag and my book to school every morning."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Ӯ дарро тела медиҳад ва ба ҳуҷраи калон медарояд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи text",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "He pushes the door and comes into the big room.",
+        "He pushes the window and comes into the big room.",
+        "She pushes the door and comes into the big room.",
+        "He pulls the door and comes into the big room."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "He pushes the door and comes into the big room."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Ӯ курсӣро ба миз мекашад ва менишинад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи story",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "She pulls the chair to the table and sits down.",
+        "He pulls the chair to the table and sits down.",
+        "She pushes the chair to the table and sits down.",
+        "She pulls the chair to the desk and sits down."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "She pulls the chair to the table and sits down."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Ман дар назди кӯл калидамро гум мекунам ва дӯстам ба ман кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи question"
+        "I lose my key near the lake and my friend helps me.",
+        "I lose my key near the river and my friend helps me.",
+        "I lose my book near the lake and my friend helps me.",
+        "I find my key near the lake and my friend helps me."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "I lose my key near the lake and my friend helps me."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Ӯ китоби кӯҳнаи худро дар миз меёбад ва табассум мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи answer",
-        "нодуруст C",
-        "нодуруст B"
+        "She finds her old book on the desk and smiles.",
+        "She finds her new book on the desk and smiles.",
+        "He finds his old book on the desk and smiles.",
+        "She finds her old bag on the desk and smiles."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "She finds her old book on the desk and smiles."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Бародарам дар дарё шино мекунад ва хоҳарам дар боғ меҷаҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи understand",
-        "нодуруст A"
+        "My brother swims in the river and my sister jumps in the garden.",
+        "My brother swims in the lake and my sister jumps in the garden.",
+        "My sister swims in the river and my brother jumps in the garden.",
+        "My brother swims in the river and my sister runs in the garden."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "My brother swims in the river and my sister jumps in the garden."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Хонандаи зирак ба дарахт мебарояд ва паррандаи хурдро меёбад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи explain",
-        "нодуруст A"
+        "The clever pupil climbs the tree and finds a small bird.",
+        "The clever pupil climbs the tree and finds a big bird.",
+        "The clever student climbs the tree and finds a small bird.",
+        "The clever pupil climbs the mountain and finds a small bird."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "The clever pupil climbs the tree and finds a small bird."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Духтури меҳрубон тирезаи шикастаро таъмир мекунад ва ба кӯдак кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи important",
-        "нодуруст B"
+        "The kind doctor fixes the broken window and helps the child.",
+        "The kind doctor fixes the broken door and helps the child.",
+        "The kind nurse fixes the broken window and helps the child.",
+        "The clever doctor fixes the broken window and helps the child."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "The kind doctor fixes the broken window and helps the child."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Бибиам тортро мебурад ва ба меҳмон тӯҳфа медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи different",
-        "нодуруст B",
-        "нодуруст C"
+        "My grandmother cuts the cake and gives a present to the guest.",
+        "My grandmother cuts the bread and gives a present to the guest.",
+        "My mother cuts the cake and gives a present to the guest.",
+        "My grandmother cuts the cake and gives a present to the visitor."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "My grandmother cuts the cake and gives a present to the guest."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Мо аз кӯл об меорем ва дар боғ хоначаи хурд месозем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи difficult",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "We carry water from the lake and build a small house in the garden.",
+        "We carry water from the river and build a small house in the garden.",
+        "We carry water from the lake and build a big house in the garden.",
+        "We bring water from the lake and build a small house in the garden."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "We carry water from the lake and build a small house in the garden."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Ӯ дари вазнинро тела медиҳад ва калиди кӯҳнаи худро дар миз меёбад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи easy",
-        "нодуруст A"
+        "He pushes the heavy door and finds his old key on the table.",
+        "He pushes the heavy door and finds his new key on the table.",
+        "She pushes the heavy door and finds her old key on the table.",
+        "He pulls the heavy door and finds his old key on the table."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "He pushes the heavy door and finds his old key on the table."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Кӯдакон тӯбро мепартоянд ва якҷоя дар назди кӯли зебо механдем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи interesting"
+        "The children throw the ball and laugh together near the beautiful lake.",
+        "The children throw the ball and cry together near the beautiful lake.",
+        "The pupils throw the ball and laugh together near the beautiful lake.",
+        "The children catch the ball and laugh together near the beautiful lake."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "The children throw the ball and laugh together near the beautiful lake."
+    },
+    {
+      "q": "«Ман ҳамеша ба модарам кӯмак мекунам, нон меоварам ва дар ошхона сабзавот мебурам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I always help my mother, carry bread and cut vegetables in the kitchen.",
+        "I always help my mother, carry bread and cut fruits in the kitchen.",
+        "I sometimes help my mother, carry bread and cut vegetables in the kitchen.",
+        "I always help my mother, bring bread and cut vegetables in the kitchen."
+      ],
+      "answer": "I always help my mother, carry bread and cut vegetables in the kitchen."
+    },
+    {
+      "q": "«Падарам дучархаро таъмир мекунад, девори нав месозад ва дар боғ кор мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father fixes the bicycle, builds a new fence and works in the garden.",
+        "My father fixes the bicycle, builds a new house and works in the garden.",
+        "My father fixes the car, builds a new fence and works in the garden.",
+        "My brother fixes the bicycle, builds a new fence and works in the garden."
+      ],
+      "answer": "My father fixes the bicycle, builds a new fence and works in the garden."
+    },
+    {
+      "q": "«Мо баъзан ба деҳа сафар мекунем, бибиамонро дидан мекунем ва дар кӯл шино мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We sometimes travel to the village, visit our grandmother and swim in the lake.",
+        "We often travel to the village, visit our grandmother and swim in the lake.",
+        "We sometimes travel to the city, visit our grandmother and swim in the lake.",
+        "We sometimes travel to the village, visit our grandfather and swim in the lake."
+      ],
+      "answer": "We sometimes travel to the village, visit our grandmother and swim in the lake."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 22
+  "wordsCount": 15
 }
