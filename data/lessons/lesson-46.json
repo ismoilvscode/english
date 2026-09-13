@@ -1,506 +1,722 @@
 {
   "id": 46,
-  "title": "Матн ва машқҳо 46",
-  "level": "Миёна - Синфи 4",
+  "title": "Матн 46: Идҳо ва анъанаҳои миллии тоҷик",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "celebration",
+      "tj": "ҷашн",
+      "ex": "Navruz is a big celebration in Tajikistan."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "to celebrate",
+      "tj": "ҷашн гирифтан",
+      "ex": "We celebrate Independence Day in September."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "holiday",
+      "tj": "ид",
+      "ex": "Today is a national holiday."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "tradition",
+      "tj": "анъана",
+      "ex": "Hospitality is an old Tajik tradition."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "custom",
+      "tj": "одат",
+      "ex": "Giving presents is a good custom."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "feast",
+      "tj": "зиёфат",
+      "ex": "We have a big feast on Navruz."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "guest",
+      "tj": "меҳмон",
+      "ex": "Guests come to our house on holidays."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "hospitality",
+      "tj": "меҳмоннавозӣ",
+      "ex": "Tajik hospitality is famous in the world."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "sumalak",
+      "tj": "сумалак",
+      "ex": "My grandmother cooks sumalak for Navruz."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "to congratulate",
+      "tj": "табрик кардан",
+      "ex": "I congratulate my mother on the holiday."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "present",
+      "tj": "тӯҳфа",
+      "ex": "I give a present to my sister."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "wish",
+      "tj": "орзу",
+      "ex": "I wish you health and happiness."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "to wish",
+      "tj": "орзу кардан",
+      "ex": "I wish you a happy holiday."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "concert",
+      "tj": "концерт",
+      "ex": "We go to a concert on the holiday."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
+      "en": "fireworks",
+      "tj": "оташбозӣ",
+      "ex": "We watch fireworks at night."
     },
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
-    },
-    {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
-    },
-    {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
-    },
-    {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
-    },
-    {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
-    },
-    {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
-    },
-    {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
-    },
-    {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
-    },
-    {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "joy",
+      "tj": "шодӣ",
+      "ex": "The holiday brings joy to all people."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 46)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Navruz is a big celebration in Tajikistan.",
+      "tj": "Наврӯз ҷашни калон дар Тоҷикистон аст."
     },
     {
-      "en": "I'm working on lesson 46",
-      "tj": "Ман дарси 46-ро меомӯзам"
+      "en": "We celebrate Independence Day in September.",
+      "tj": "Мо Рӯзи истиқлолиятро дар моҳи сентябр ҷашн мегирем."
+    },
+    {
+      "en": "Today is a national holiday.",
+      "tj": "Имрӯз иди миллӣ аст."
+    },
+    {
+      "en": "Hospitality is an old Tajik tradition.",
+      "tj": "Меҳмоннавозӣ анъанаи кӯҳнаи тоҷикӣ аст."
+    },
+    {
+      "en": "Giving presents is a good custom.",
+      "tj": "Тӯҳфа додан одати хуб аст."
+    },
+    {
+      "en": "We have a big feast on Navruz.",
+      "tj": "Мо дар Наврӯз зиёфати калон дорем."
+    },
+    {
+      "en": "Guests come to our house on holidays.",
+      "tj": "Меҳмонон дар идҳо ба хонаи мо меоянд."
+    },
+    {
+      "en": "Tajik hospitality is famous in the world.",
+      "tj": "Меҳмоннавозии тоҷикӣ дар ҷаҳон машҳур аст."
+    },
+    {
+      "en": "My grandmother cooks sumalak for Navruz.",
+      "tj": "Бибиам барои Наврӯз сумалак мепазад."
+    },
+    {
+      "en": "I congratulate my mother on the holiday.",
+      "tj": "Ман модарамро ба ид табрик мекунам."
+    },
+    {
+      "en": "I give a present to my sister.",
+      "tj": "Ман ба хоҳарам тӯҳфа медиҳам."
+    },
+    {
+      "en": "I wish you health and happiness.",
+      "tj": "Ман ба шумо саломатӣ ва хушбахтӣ орзу мекунам."
+    },
+    {
+      "en": "I wish you a happy holiday.",
+      "tj": "Ман ба шумо иди хуш орзу мекунам."
+    },
+    {
+      "en": "We go to a concert on the holiday.",
+      "tj": "Мо дар ид ба концерт меравем."
+    },
+    {
+      "en": "We watch fireworks at night.",
+      "tj": "Мо шабона оташбозиро тамошо мекунем."
+    },
+    {
+      "en": "The holiday brings joy to all people.",
+      "tj": "Ид ба ҳамаи одамон шодӣ меорад."
     }
   ],
   "text": {
-    "en": "Text for lesson 46. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 46 is about Миёна - Синфи 4. I write all words in my notebook. Level 46 text.",
-    "tj": "Матни дарси 46..."
+    "en": "National Holidays and Traditions of Tajikistan\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. Tajik people have many beautiful holidays and traditions. Every holiday is a special day when families come together, eat good food, sing songs and give presents to each other. I want to tell you about the most important holidays in my country.\n\nNavruz is the biggest and most favourite holiday in Tajikistan. We celebrate Navruz in March. Navruz means \"a new day\". It is the first day of spring and the first day of the new year. For many days before Navruz, people clean their houses, wash their carpets and buy new clothes. On the day of Navruz all families cook a special dish — sumalak. Sumalak is made from wheat and it takes many hours to cook. Our grandmothers and mothers cook sumalak all night and sing old songs. In the morning all the family and neighbours come together and eat sumalak. It is very sweet and tasty. On Navruz people put on beautiful new clothes, visit their friends and family and say to each other: \"Navruz Muborak!\" We also have big feasts on Navruz. There is a lot of food on the table: pilav, sambusa, mastoba and many fruits and sweets.\n\nIndependence Day is another very important holiday. We celebrate it on the ninth of September. On this day in 1991 our country became free and independent. Every year on this day there are big parades and concerts in the centre of Dushanbe. People sing and dance in the streets. In the evening there are beautiful fireworks in the sky. All the buildings have our national flag — red, white and green. On this day we remember the history of our country and say: \"Long live Tajikistan!\"\n\nTeacher's Day is a holiday for all pupils and teachers. It is on the first of October. On this day pupils give flowers and presents to their teachers. We say \"Thank you\" to our teachers for their hard work and for their kindness. We also have a small concert at school. The pupils sing songs, recite poems and dance for their teachers.\n\nMother's Day is on the eighth of March. On this day we congratulate all women: our mothers, grandmothers, sisters and teachers. We give them flowers and presents. We try to help them about the house and say many kind words to them. My father gives my mother a big bouquet of flowers and we give her a beautiful present. My mother is very happy on this day.\n\nWe also celebrate the New Year on the first of January. On this day we put up a New Year tree in our house and decorate it with toys and lights. Children get presents from their parents. At midnight we watch fireworks and say to each other: \"Happy New Year!\" My family and I always have a big dinner on this night.\n\nTajik people are very hospitable. Hospitality is one of our oldest traditions. When a guest comes to our house, we always say: \"Welcome!\" We give the guest bread and salt and invite him to the table. The guest is always the most important person in a Tajik home. We do not ask the guest: \"Why did you come?\" We just say: \"Please, come in and sit down.\" This is our old and beautiful custom.\n\nAnother important tradition is to give presents. On every holiday we give presents to our family and friends. We also give presents to old people and children. A present does not have to be expensive — the most important thing is that it comes from the heart. My grandmother says: \"A present is a piece of your heart. When you give it, you give your love.\"\n\nOn every holiday we say to each other: \"I wish you health, happiness and good luck!\" And we always wish for peace in our country and in the whole world. A holiday is a time of joy, love and friendship.\n\nWhen I grow up, I want to teach my children all our beautiful traditions. I want them to know the history of our country and to love it with all their hearts. Our traditions make us who we are. They connect us with our past and give us a happy future. Long live our beautiful Tajikistan!",
+    "tj": "Идҳо ва анъанаҳои миллии тоҷик\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Мардуми тоҷик идҳо ва анъанаҳои зебои зиёд доранд. Ҳар як ид рӯзи махсусест, ки оилаҳо якҷоя мешаванд, ғизои хуб мехӯранд, суруд мехонанд ва ба якдигар тӯҳфа медиҳанд. Ман мехоҳам ба шумо дар бораи идҳои муҳимтарини кишварам нақл кунам.\n\nНаврӯз калонтарин ва дӯстдоштатарин иди Тоҷикистон аст. Мо Наврӯзро дар моҳи март ҷашн мегирем. Наврӯз маънои «рӯзи нав»-ро дорад. Ин рӯзи якуми баҳор ва рӯзи якуми соли нав аст. Чанд рӯз пеш аз Наврӯз мардум хонаҳои худро тоза мекунанд, гилемҳояшонро мешӯянд ва либосҳои нав мехаранд. Дар рӯзи Наврӯз ҳамаи оилаҳо таоми махсус — сумалак мепазанд. Сумалак аз гандум тайёр карда мешавад ва пухтани он соатҳои зиёд лозим аст. Бибиҳо ва модарони мо тамоми шаб сумалак мепазанд ва сурудҳои кӯҳна мехонанд. Субҳ тамоми оила ва ҳамсояҳо якҷоя меоянд ва сумалак мехӯранд. Он хеле ширин ва бомазза аст. Дар Наврӯз мардум либосҳои зебои нав мепӯшанд, ба дӯстон ва оилаи худ мераванд ва ба якдигар мегӯянд: «Наврӯз муборак!» Мо инчунин дар Наврӯз зиёфатҳои калон дорем. Дар миз ғизои зиёд ҳаст: палав, самбӯса, мастоба ва меваю шириниҳои зиёд.\n\nРӯзи истиқлолият иди дигари хеле муҳим аст. Мо онро рӯзи нӯҳуми сентябр ҷашн мегирем. Дар ин рӯз дар соли 1991 кишвари мо озод ва мустақил шуд. Ҳар сол дар ин рӯз дар маркази Душанбе парадҳо ва концертҳои калон баргузор мешаванд. Мардум дар кӯчаҳо суруд мехонанд ва рақс мекунанд. Бегоҳ дар осмон оташбозиҳои зебо ҳастанд. Дар ҳамаи биноҳо парчами миллии мо — сурх, сафед ва сабз — овезон аст. Дар ин рӯз мо таърихи кишварамро ба ёд меорем ва мегӯем: «Тоҷикистон зинда бод!»\n\nРӯзи муаллим ид барои ҳамаи хонандагон ва муаллимон аст. Он рӯзи якуми октябр аст. Дар ин рӯз хонандагон ба муаллимони худ гул ва тӯҳфа медиҳанд. Мо ба муаллимонамон барои кори душвор ва меҳрубониашон «Ташаккур» мегӯем. Мо инчунин дар мактаб концерти хурд дорем. Хонандагон барои муаллимони худ суруд мехонанд, шеър мехонанд ва рақс мекунанд.\n\nРӯзи модар рӯзи ҳаштуми март аст. Дар ин рӯз мо ҳамаи занонро табрик мекунем: модарон, бибиҳо, хоҳарон ва муаллимонро. Мо ба онҳо гул ва тӯҳфа медиҳем. Мо кӯшиш мекунем, ки дар корҳои хона ба онҳо кӯмак кунем ва ба онҳо суханони меҳрубонаи зиёд гӯем. Падарам ба модарам дастаи калони гул медиҳад ва мо ба ӯ тӯҳфаи зебо медиҳем. Модарам дар ин рӯз хеле хушбахт аст.\n\nМо инчунин Соли навро рӯзи якуми январ ҷашн мегирем. Дар ин рӯз мо дар хонаи худ дарахти Соли нав мегузорем ва онро бо бозичаҳо ва чароғҳо оро медиҳем. Кӯдакон аз волидонашон тӯҳфаҳо мегиранд. Дар нисфишаб мо оташбозиро тамошо мекунем ва ба якдигар мегӯем: «Соли нав муборак!» Ман ва оилаам ҳамеша дар ин шаб зиёфати калон дорем.\n\nМардуми тоҷик хеле меҳмоннавоз ҳастанд. Меҳмоннавозӣ яке аз қадимтарин анъанаҳои мост. Вақте ки меҳмон ба хонаи мо меояд, мо ҳамеша мегӯем: «Хуш омадед!» Мо ба меҳмон нон ва намак медиҳем ва ӯро ба миз даъват мекунем. Меҳмон дар хонаи тоҷик ҳамеша муҳимтарин одам аст. Мо аз меҳмон намепурсем: «Чаро омадӣ?» Мо танҳо мегӯем: «Лутфан, даромада нишин.» Ин одати кӯҳна ва зебои мост.\n\nАнъанаи дигари муҳим тӯҳфа додан аст. Дар ҳар як ид мо ба оила ва дӯстони худ тӯҳфа медиҳем. Мо инчунин ба пиронсолон ва кӯдакон тӯҳфа медиҳем. Тӯҳфа набояд гарон бошад — муҳимтарин чиз ин аст, ки он аз дил меояд. Бибиам мегӯяд: «Тӯҳфа порчаи дили туст. Вақте ки ту онро медиҳӣ, ту муҳаббати худро медиҳӣ.»\n\nДар ҳар як ид мо ба якдигар мегӯем: «Ман ба шумо саломатӣ, хушбахтӣ ва бахти нек орзу мекунам!» Ва мо ҳамеша барои сулҳ дар кишвари худ ва дар тамоми ҷаҳон орзу мекунем. Ид вақти шодӣ, муҳаббат ва дӯстӣ аст.\n\nВақте ки ман калон мешавам, ман мехоҳам ба кӯдаконам ҳамаи анъанаҳои зебои моро омӯзонам. Ман мехоҳам, ки онҳо таърихи кишвари моро доданд ва онро бо тамоми дили худ дӯст доранд. Анъанаҳои мо моро он чизе месозанд, ки мо ҳастем. Онҳо моро бо гузаштаи мо пайваст мекунанд ва ба мо ояндаи хушбахт медиҳанд. Тоҷикистони зебои мо зинда бод!"
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Наврӯз ҷашни калон дар Тоҷикистон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи understand"
+        "Navruz is a big celebration in Tajikistan.",
+        "Navruz is a big holiday in Tajikistan.",
+        "Navruz is a great celebration in Tajikistan.",
+        "Navruz is a big festival in Tajikistan."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "Navruz is a big celebration in Tajikistan."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Мо Рӯзи истиқлолиятро дар моҳи сентябр ҷашн мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи explain",
-        "нодуруст B",
-        "нодуруст A"
+        "We celebrate Independence Day in September.",
+        "We celebrate the Independence Day in September.",
+        "We celebrate Independence Day on September.",
+        "We celebrate Independence Day in October."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "We celebrate Independence Day in September."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Имрӯз иди миллӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи important",
-        "нодуруст C"
+        "Today is a national holiday.",
+        "Today is the national holiday.",
+        "Today is a state holiday.",
+        "Today is a public holiday."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "Today is a national holiday."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Меҳмоннавозӣ анъанаи кӯҳнаи тоҷикӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи different"
+        "Hospitality is an old Tajik tradition.",
+        "Hospitality is an ancient Tajik tradition.",
+        "Hospitality is an old tradition of Tajikistan.",
+        "Hospitality is the old Tajik tradition."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "Hospitality is an old Tajik tradition."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Тӯҳфа додан одати хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи difficult",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Giving presents is a good custom.",
+        "To give presents is a good custom.",
+        "Giving gifts is a good custom.",
+        "Giving presents is a good tradition."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "Giving presents is a good custom."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Мо дар Наврӯз зиёфати калон дорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи easy",
-        "нодуруст A"
+        "We have a big feast on Navruz.",
+        "We have a big feast at Navruz.",
+        "We have a large feast on Navruz.",
+        "We have a great feast on Navruz."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "We have a big feast on Navruz."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Меҳмонон дар идҳо ба хонаи мо меоянд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи interesting",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Guests come to our house on holidays.",
+        "Guests come to our house on the holidays.",
+        "The guests come to our house on holidays.",
+        "Guests come to our home on holidays."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "Guests come to our house on holidays."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Меҳмоннавозии тоҷикӣ дар ҷаҳон машҳур аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи remember",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Tajik hospitality is famous in the world.",
+        "Tajik hospitality is famous all over the world.",
+        "Tajik hospitality is well-known in the world.",
+        "The Tajik hospitality is famous in the world."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "Tajik hospitality is famous in the world."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Бибиам барои Наврӯз сумалак мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи forget"
+        "My grandmother cooks sumalak for Navruz.",
+        "My grandmother makes sumalak for Navruz.",
+        "My grandmother bakes sumalak for Navruz.",
+        "My grandmother cooks sumalak on Navruz."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "My grandmother cooks sumalak for Navruz."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Ман модарамро ба ид табрик мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи homework",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "I congratulate my mother on the holiday.",
+        "I congratulate my mother with the holiday.",
+        "I congratulate my mother on the holidays.",
+        "I congratulate my mother on holiday."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "I congratulate my mother on the holiday."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Ман ба хоҳарам тӯҳфа медиҳам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи exercise"
+        "I give a present to my sister.",
+        "I give a present for my sister.",
+        "I give a gift to my sister.",
+        "I give a present to my little sister."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "I give a present to my sister."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Ман ба шумо саломатӣ ва хушбахтӣ орзу мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи text",
-        "нодуруст C",
-        "нодуруст B"
+        "I wish you health and happiness.",
+        "I wish you health and luck.",
+        "I wish to you health and happiness.",
+        "I wish you health and happy."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "I wish you health and happiness."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Ман ба шумо иди хуш орзу мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи story",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "I wish you a happy holiday.",
+        "I wish you a good holiday.",
+        "I wish to you a happy holiday.",
+        "I wish you happy holiday."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "I wish you a happy holiday."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Мо дар ид ба концерт меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи question",
-        "нодуруст B",
-        "нодуруст A"
+        "We go to a concert on the holiday.",
+        "We go to a concert in the holiday.",
+        "We go to the concert on the holiday.",
+        "We go to a concert on holidays."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "We go to a concert on the holiday."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Мо шабона оташбозиро тамошо мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи answer",
-        "нодуруст B"
+        "We watch fireworks at night.",
+        "We watch fireworks in the night.",
+        "We watch the fireworks at night.",
+        "We look at fireworks at night."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "We watch fireworks at night."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Ид ба ҳамаи одамон шодӣ меорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи understand",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The holiday brings joy to all people.",
+        "A holiday brings joy to all people.",
+        "The holiday brings joy to everybody.",
+        "The holiday gives joy to all people."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "The holiday brings joy to all people."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Мардуми тоҷик идҳо ва анъанаҳои зебои зиёд доранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи explain",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Tajik people have many beautiful holidays and traditions.",
+        "The Tajik people have many beautiful holidays and traditions.",
+        "Tajik people have a lot of beautiful holidays and traditions.",
+        "Tajik people have many nice holidays and traditions."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "Tajik people have many beautiful holidays and traditions."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Ҳар як ид рӯзи махсусест, ки оилаҳо якҷоя мешаванд, ғизои хуб мехӯранд, суруд мехонанд ва ба якдигар тӯҳфа медиҳанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи important",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "Every holiday is a special day when families come together, eat good food, sing songs and give presents to each other.",
+        "Every holiday is a special day when families come together, eat good food, sing songs and give presents to one another.",
+        "Every holiday is a special day when families get together, eat good food, sing songs and give presents to each other.",
+        "Each holiday is a special day when families come together, eat good food, sing songs and give presents to each other."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "Every holiday is a special day when families come together, eat good food, sing songs and give presents to each other."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Ман мехоҳам ба шумо дар бораи идҳои муҳимтарини кишварам нақл кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи different",
-        "нодуруст C"
+        "I want to tell you about the most important holidays in my country.",
+        "I want to tell you about the most important holidays of my country.",
+        "I want to tell you about the main holidays in my country.",
+        "I want to tell about the most important holidays in my country."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "I want to tell you about the most important holidays in my country."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Наврӯз калонтарин ва дӯстдоштатарин иди Тоҷикистон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи difficult",
-        "нодуруст A",
-        "нодуруст C"
+        "Navruz is the biggest and most favourite holiday in Tajikistan.",
+        "Navruz is the biggest and favourite holiday in Tajikistan.",
+        "Navruz is the greatest and most favourite holiday in Tajikistan.",
+        "Navruz is the biggest and most favourite holiday of Tajikistan."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "Navruz is the biggest and most favourite holiday in Tajikistan."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Мо Наврӯзро дар моҳи март ҷашн мегирем. Наврӯз маънои \"рӯзи нав\"-ро дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи easy",
-        "нодуруст C"
+        "We celebrate Navruz in March. Navruz means \"a new day\".",
+        "We celebrate Navruz in March. Navruz means \"the new day\".",
+        "We celebrate Navruz in March. Navruz means \"new day\".",
+        "We celebrate Navruz in March. Navruz means \"a new year\"."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "We celebrate Navruz in March. Navruz means \"a new day\"."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Ин рӯзи якуми баҳор ва рӯзи якуми соли нав аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи interesting",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "It is the first day of spring and the first day of the new year.",
+        "It is the first day of spring and the first day of a new year.",
+        "It is the first day of the spring and the first day of the new year.",
+        "It is a first day of spring and a first day of the new year."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "It is the first day of spring and the first day of the new year."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Чанд рӯз пеш аз Наврӯз мардум хонаҳои худро тоза мекунанд, гилемҳояшонро мешӯянд ва либосҳои нав мехаранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи remember",
-        "нодуруст A"
+        "For many days before Navruz, people clean their houses, wash their carpets and buy new clothes.",
+        "For many days before Navruz, people clean their houses, wash their carpets and buy new clothes.",
+        "For some days before Navruz, people clean their houses, wash their carpets and buy new clothes.",
+        "Many days before Navruz, people clean their houses, wash their carpets and buy new clothes."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "For many days before Navruz, people clean their houses, wash their carpets and buy new clothes."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Дар рӯзи Наврӯз ҳамаи оилаҳо таоми махсус — сумалак мепазанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи forget",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "On the day of Navruz all families cook a special dish — sumalak.",
+        "On the day of Navruz all families make a special dish — sumalak.",
+        "On the day of Navruz all the families cook a special dish — sumalak.",
+        "On the day of Navruz all families cook a special food — sumalak."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "On the day of Navruz all families cook a special dish — sumalak."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Сумалак аз гандум тайёр карда мешавад ва пухтани он соатҳои зиёд лозим аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи homework",
-        "нодуруст A",
-        "нодуруст C"
+        "Sumalak is made from wheat and it takes many hours to cook.",
+        "Sumalak is made from wheat and it takes many hours to make.",
+        "Sumalak is made of wheat and it takes many hours to cook.",
+        "Sumalak is made from wheat and it takes a lot of hours to cook."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "Sumalak is made from wheat and it takes many hours to cook."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Бибиҳо ва модарони мо тамоми шаб сумалак мепазанд ва сурудҳои кӯҳна мехонанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи exercise",
-        "нодуруст B",
-        "нодуруст A"
+        "Our grandmothers and mothers cook sumalak all night and sing old songs.",
+        "Our grandmothers and mothers cook sumalak all night and sing old songs.",
+        "Our grandmothers and mothers make sumalak all night and sing old songs.",
+        "Our grandmothers and mothers cook sumalak all night long and sing old songs."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "Our grandmothers and mothers cook sumalak all night and sing old songs."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Субҳ тамоми оила ва ҳамсояҳо якҷоя меоянд ва сумалак мехӯранд. Он хеле ширин ва бомазза аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи text",
-        "нодуруст C"
+        "In the morning all the family and neighbours come together and eat sumalak. It is very sweet and tasty.",
+        "In the morning the whole family and neighbours come together and eat sumalak. It is very sweet and tasty.",
+        "In the morning all the family and neighbours come together and eat sumalak. It is very sweet and delicious.",
+        "In the morning all the family and neighbours get together and eat sumalak. It is very sweet and tasty."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "In the morning all the family and neighbours come together and eat sumalak. It is very sweet and tasty."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Дар Наврӯз мардум либосҳои зебои нав мепӯшанд, ба дӯстон ва оилаи худ мераванд ва ба якдигар мегӯянд: \"Наврӯз муборак!\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи story",
-        "нодуруст B"
+        "On Navruz people put on beautiful new clothes, visit their friends and family and say to each other: \"Navruz Muborak!\"",
+        "On Navruz people put on beautiful new clothes, visit their friends and family and say to one another: \"Navruz Muborak!\"",
+        "On Navruz people put on nice new clothes, visit their friends and family and say to each other: \"Navruz Muborak!\"",
+        "On Navruz people wear beautiful new clothes, visit their friends and family and say to each other: \"Navruz Muborak!\""
       ],
-      "answer": "тарҷумаи story"
+      "answer": "On Navruz people put on beautiful new clothes, visit their friends and family and say to each other: \"Navruz Muborak!\""
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Мо инчунин дар Наврӯз зиёфатҳои калон дорем. Дар миз ғизои зиёд ҳаст: палав, самбӯса, мастоба ва меваю шириниҳои зиёд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи question",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "We also have big feasts on Navruz. There is a lot of food on the table: pilav, sambusa, mastoba and many fruits and sweets.",
+        "We also have big feasts on Navruz. There is a lot of food on the table: pilav, sambusa, mastoba and many fruits and sweets.",
+        "We also have large feasts on Navruz. There is a lot of food on the table: pilav, sambusa, mastoba and many fruits and sweets.",
+        "We also have big feasts at Navruz. There is a lot of food on the table: pilav, sambusa, mastoba and many fruits and sweets."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "We also have big feasts on Navruz. There is a lot of food on the table: pilav, sambusa, mastoba and many fruits and sweets."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Рӯзи истиқлолият иди дигари хеле муҳим аст. Мо онро рӯзи нӯҳуми сентябр ҷашн мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи answer",
-        "нодуруст C"
+        "Independence Day is another very important holiday. We celebrate it on the ninth of September.",
+        "Independence Day is another very important holiday. We celebrate it on the ninth of September.",
+        "The Independence Day is another very important holiday. We celebrate it on the ninth of September.",
+        "Independence Day is another very important holiday. We celebrate it on the 9th of September."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "Independence Day is another very important holiday. We celebrate it on the ninth of September."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Дар ин рӯз дар соли 1991 кишвари мо озод ва мустақил шуд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи understand",
-        "нодуруст C",
-        "нодуруст B"
+        "On this day in 1991 our country became free and independent.",
+        "On this day in 1991 our country became free and independent.",
+        "On that day in 1991 our country became free and independent.",
+        "On this day in the year 1991 our country became free and independent."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "On this day in 1991 our country became free and independent."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Ҳар сол дар ин рӯз дар маркази Душанбе парадҳо ва концертҳои калон баргузор мешаванд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи explain"
+        "Every year on this day there are big parades and concerts in the centre of Dushanbe.",
+        "Every year on this day there are big parades and concerts in the centre of Dushanbe.",
+        "Each year on this day there are big parades and concerts in the centre of Dushanbe.",
+        "Every year on this day there are big parades and concerts in the center of Dushanbe."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "Every year on this day there are big parades and concerts in the centre of Dushanbe."
+    },
+    {
+      "q": "«Мардум дар кӯчаҳо суруд мехонанд ва рақс мекунанд. Бегоҳ дар осмон оташбозиҳои зебо ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "People sing and dance in the streets. In the evening there are beautiful fireworks in the sky.",
+        "People sing and dance in the streets. In the evening there are beautiful fireworks in the sky.",
+        "People sing and dance in the streets. In the evening there are beautiful fireworks in the sky.",
+        "People sing and dance in the streets. In the evening there is beautiful fireworks in the sky."
+      ],
+      "answer": "People sing and dance in the streets. In the evening there are beautiful fireworks in the sky."
+    },
+    {
+      "q": "«Дар ҳамаи биноҳо парчами миллии мо — сурх, сафед ва сабз — овезон аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "All the buildings have our national flag — red, white and green.",
+        "All buildings have our national flag — red, white and green.",
+        "All the buildings have our national flag — red, white and green.",
+        "All the buildings have our national flag — red, white and green."
+      ],
+      "answer": "All the buildings have our national flag — red, white and green."
+    },
+    {
+      "q": "«Дар ин рӯз мо таърихи кишварамро ба ёд меорем ва мегӯем: \"Тоҷикистон зинда бод!\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "On this day we remember the history of our country and say: \"Long live Tajikistan!\"",
+        "On this day we remember the history of our country and say: \"Long live Tajikistan!\"",
+        "On this day we remember the history of our country and say: \"Long live Tajikistan!\"",
+        "On this day we remember the history of our country and say: \"Long live Tajikistan!\""
+      ],
+      "answer": "On this day we remember the history of our country and say: \"Long live Tajikistan!\""
+    },
+    {
+      "q": "«Рӯзи муаллим ид барои ҳамаи хонандагон ва муаллимон аст. Он рӯзи якуми октябр аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Teacher's Day is a holiday for all pupils and teachers. It is on the first of October.",
+        "Teacher's Day is a holiday for all pupils and teachers. It is on the first of October.",
+        "Teacher's Day is a holiday for all pupils and teachers. It is on the first of October.",
+        "The Teacher's Day is a holiday for all pupils and teachers. It is on the first of October."
+      ],
+      "answer": "Teacher's Day is a holiday for all pupils and teachers. It is on the first of October."
+    },
+    {
+      "q": "«Дар ин рӯз хонандагон ба муаллимони худ гул ва тӯҳфа медиҳанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "On this day pupils give flowers and presents to their teachers.",
+        "On this day pupils give flowers and presents to their teachers.",
+        "On this day pupils give flowers and gifts to their teachers.",
+        "On this day the pupils give flowers and presents to their teachers."
+      ],
+      "answer": "On this day pupils give flowers and presents to their teachers."
+    },
+    {
+      "q": "«Мо ба муаллимонамон барои кори душвор ва меҳрубониашон \"Ташаккур\" мегӯем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We say \"Thank you\" to our teachers for their hard work and for their kindness.",
+        "We say \"Thank you\" to our teachers for their hard work and for their kindness.",
+        "We say \"Thank you\" to our teachers for their hard work and kindness.",
+        "We tell \"Thank you\" to our teachers for their hard work and for their kindness."
+      ],
+      "answer": "We say \"Thank you\" to our teachers for their hard work and for their kindness."
+    },
+    {
+      "q": "«Рӯзи модар рӯзи ҳаштуми март аст. Дар ин рӯз мо ҳамаи занонро табрик мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Mother's Day is on the eighth of March. On this day we congratulate all women.",
+        "Mother's Day is on the eighth of March. On this day we congratulate all the women.",
+        "The Mother's Day is on the eighth of March. On this day we congratulate all women.",
+        "Mother's Day is on the 8th of March. On this day we congratulate all women."
+      ],
+      "answer": "Mother's Day is on the eighth of March. On this day we congratulate all women."
+    },
+    {
+      "q": "«Мо ба онҳо гул ва тӯҳфа медиҳем. Мо кӯшиш мекунем, ки дар корҳои хона ба онҳо кӯмак кунем ва ба онҳо суханони меҳрубонаи зиёд гӯем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We give them flowers and presents. We try to help them about the house and say many kind words to them.",
+        "We give them flowers and presents. We try to help them about the house and say many kind words to them.",
+        "We give them flowers and presents. We try to help them in the house and say many kind words to them.",
+        "We give them flowers and presents. We try to help them about the house and say many kind words for them."
+      ],
+      "answer": "We give them flowers and presents. We try to help them about the house and say many kind words to them."
+    },
+    {
+      "q": "«Падарам ба модарам дастаи калони гул медиҳад ва мо ба ӯ тӯҳфаи зебо медиҳем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father gives my mother a big bouquet of flowers and we give her a beautiful present.",
+        "My father gives my mother a big bouquet of flowers and we give her a beautiful present.",
+        "My father gives to my mother a big bouquet of flowers and we give her a beautiful present.",
+        "My father gives my mother a big bouquet of flowers and we give to her a beautiful present."
+      ],
+      "answer": "My father gives my mother a big bouquet of flowers and we give her a beautiful present."
+    },
+    {
+      "q": "«Мо инчунин Соли навро рӯзи якуми январ ҷашн мегирем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We also celebrate the New Year on the first of January.",
+        "We also celebrate New Year on the first of January.",
+        "We also celebrate the New Year on the 1st of January.",
+        "We also celebrate the New Year on the first of January."
+      ],
+      "answer": "We also celebrate the New Year on the first of January."
+    },
+    {
+      "q": "«Дар ин рӯз мо дар хонаи худ дарахти Соли нав мегузорем ва онро бо бозичаҳо ва чароғҳо оро медиҳем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "On this day we put up a New Year tree in our house and decorate it with toys and lights.",
+        "On this day we put up a New Year tree in our house and decorate it with toys and lights.",
+        "On this day we put a New Year tree in our house and decorate it with toys and lights.",
+        "On this day we put up a New Year tree in our house and decorate it by toys and lights."
+      ],
+      "answer": "On this day we put up a New Year tree in our house and decorate it with toys and lights."
+    },
+    {
+      "q": "«Кӯдакон аз волидонашон тӯҳфаҳо мегиранд. Дар нисфишаб мо оташбозиро тамошо мекунем ва ба якдигар мегӯем: \"Соли нав муборак!\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Children get presents from their parents. At midnight we watch fireworks and say to each other: \"Happy New Year!\"",
+        "Children get presents from their parents. At midnight we watch fireworks and say to each other: \"Happy New Year!\"",
+        "Children get presents from their parents. At midnight we watch fireworks and say to one another: \"Happy New Year!\"",
+        "Children get presents from their parents. In the midnight we watch fireworks and say to each other: \"Happy New Year!\""
+      ],
+      "answer": "Children get presents from their parents. At midnight we watch fireworks and say to each other: \"Happy New Year!\""
+    },
+    {
+      "q": "«Мардуми тоҷик хеле меҳмоннавоз ҳастанд. Меҳмоннавозӣ яке аз қадимтарин анъанаҳои мост» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Tajik people are very hospitable. Hospitality is one of our oldest traditions.",
+        "The Tajik people are very hospitable. Hospitality is one of our oldest traditions.",
+        "Tajik people are very hospitable. Hospitality is one of the oldest traditions.",
+        "Tajik people are very hospitable. Hospitality is one of our ancient traditions."
+      ],
+      "answer": "Tajik people are very hospitable. Hospitality is one of our oldest traditions."
+    },
+    {
+      "q": "«Вақте ки меҳмон ба хонаи мо меояд, мо ҳамеша мегӯем: \"Хуш омадед!\" Мо ба меҳмон нон ва намак медиҳем ва ӯро ба миз даъват мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When a guest comes to our house, we always say: \"Welcome!\" We give the guest bread and salt and invite him to the table.",
+        "When a guest comes to our house, we always say: \"Welcome!\" We give the guest bread and salt and invite him to the table.",
+        "When a guest comes to our house, we always say: \"Welcome!\" We give the guest bread and salt and invite him to the table.",
+        "When a guest comes to our house, we always say: \"Welcome!\" We give the guest bread and salt and invite her to the table."
+      ],
+      "answer": "When a guest comes to our house, we always say: \"Welcome!\" We give the guest bread and salt and invite him to the table."
+    },
+    {
+      "q": "«Меҳмон дар хонаи тоҷик ҳамеша муҳимтарин одам аст. Мо аз меҳмон намепурсем: \"Чаро омадӣ?\" Мо танҳо мегӯем: \"Лутфан, даромада нишин.\" Ин одати кӯҳна ва зебои мост» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The guest is always the most important person in a Tajik home. We do not ask the guest: \"Why did you come?\" We just say: \"Please, come in and sit down.\" This is our old and beautiful custom.",
+        "The guest is always the most important person in a Tajik home. We do not ask the guest: \"Why did you come?\" We just say: \"Please, come in and sit down.\" This is our old and beautiful custom.",
+        "The guest is always the most important person in a Tajik house. We do not ask the guest: \"Why did you come?\" We just say: \"Please, come in and sit down.\" This is our old and beautiful custom.",
+        "The guest is always the most important person in a Tajik home. We don't ask the guest: \"Why did you come?\" We just say: \"Please, come in and sit down.\" This is our old and beautiful custom."
+      ],
+      "answer": "The guest is always the most important person in a Tajik home. We do not ask the guest: \"Why did you come?\" We just say: \"Please, come in and sit down.\" This is our old and beautiful custom."
+    },
+    {
+      "q": "«Анъанаи дигари муҳим тӯҳфа додан аст. Дар ҳар як ид мо ба оила ва дӯстони худ тӯҳфа медиҳем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Another important tradition is to give presents. On every holiday we give presents to our family and friends.",
+        "Another important tradition is giving presents. On every holiday we give presents to our family and friends.",
+        "Another important tradition is to give presents. On each holiday we give presents to our family and friends.",
+        "Another important tradition is to give gifts. On every holiday we give presents to our family and friends."
+      ],
+      "answer": "Another important tradition is to give presents. On every holiday we give presents to our family and friends."
+    },
+    {
+      "q": "«Тӯҳфа набояд гарон бошад — муҳимтарин чиз ин аст, ки он аз дил меояд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "A present does not have to be expensive — the most important thing is that it comes from the heart.",
+        "A present must not be expensive — the most important thing is that it comes from the heart.",
+        "A present doesn't have to be expensive — the most important thing is that it comes from the heart.",
+        "A present should not be expensive — the most important thing is that it comes from the heart."
+      ],
+      "answer": "A present does not have to be expensive — the most important thing is that it comes from the heart."
+    },
+    {
+      "q": "«Бибиам мегӯяд: \"Тӯҳфа порчаи дили туст. Вақте ки ту онро медиҳӣ, ту муҳаббати худро медиҳӣ.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandmother says: \"A present is a piece of your heart. When you give it, you give your love.\"",
+        "My grandmother says: \"A present is a piece of your heart. When you give it, you give your love.\"",
+        "My grandmother says: \"The present is a piece of your heart. When you give it, you give your love.\"",
+        "My grandmother says: \"A present is a part of your heart. When you give it, you give your love.\""
+      ],
+      "answer": "My grandmother says: \"A present is a piece of your heart. When you give it, you give your love.\""
+    },
+    {
+      "q": "«Дар ҳар як ид мо ба якдигар мегӯем: \"Ман ба шумо саломатӣ, хушбахтӣ ва бахти нек орзу мекунам!\" Ва мо ҳамеша барои сулҳ дар кишвари худ ва дар тамоми ҷаҳон орзу мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "On every holiday we say to each other: \"I wish you health, happiness and good luck!\" And we always wish for peace in our country and in the whole world.",
+        "On every holiday we say to each other: \"I wish you health, happiness and good luck!\" And we always wish for peace in our country and in the whole world.",
+        "On every holiday we say to each other: \"I wish you health, happiness and good luck!\" And we always wish peace in our country and in the whole world.",
+        "On each holiday we say to each other: \"I wish you health, happiness and good luck!\" And we always wish for peace in our country and in the whole world."
+      ],
+      "answer": "On every holiday we say to each other: \"I wish you health, happiness and good luck!\" And we always wish for peace in our country and in the whole world."
+    },
+    {
+      "q": "«Ид вақти шодӣ, муҳаббат ва дӯстӣ аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "A holiday is a time of joy, love and friendship.",
+        "A holiday is time of joy, love and friendship.",
+        "The holiday is a time of joy, love and friendship.",
+        "A holiday is a time for joy, love and friendship."
+      ],
+      "answer": "A holiday is a time of joy, love and friendship."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам ба кӯдаконам ҳамаи анъанаҳои зебои моро омӯзонам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to teach my children all our beautiful traditions.",
+        "When I grow up, I want to teach my children all our beautiful traditions.",
+        "When I grow up, I want to teach to my children all our beautiful traditions.",
+        "When I grow up, I want to teach my children all the beautiful traditions."
+      ],
+      "answer": "When I grow up, I want to teach my children all our beautiful traditions."
+    },
+    {
+      "q": "«Ман мехоҳам, ки онҳо таърихи кишвари моро доданд ва онро бо тамоми дили худ дӯст доранд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want them to know the history of our country and to love it with all their hearts.",
+        "I want them to know the history of our country and to love it with all their hearts.",
+        "I want them to know the history of our country and to love it with all their heart.",
+        "I want them to know the history of our country and love it with all their hearts."
+      ],
+      "answer": "I want them to know the history of our country and to love it with all their hearts."
+    },
+    {
+      "q": "«Анъанаҳои мо моро он чизе месозанд, ки мо ҳастем. Онҳо моро бо гузаштаи мо пайваст мекунанд ва ба мо ояндаи хушбахт медиҳанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Our traditions make us who we are. They connect us with our past and give us a happy future.",
+        "Our traditions make us who we are. They connect us with our past and give us a happy future.",
+        "Our traditions make us what we are. They connect us with our past and give us a happy future.",
+        "Our traditions make us who we are. They connect us to our past and give us a happy future."
+      ],
+      "answer": "Our traditions make us who we are. They connect us with our past and give us a happy future."
+    },
+    {
+      "q": "«Тоҷикистони зебои мо зинда бод!» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Long live our beautiful Tajikistan!",
+        "Long live our beautiful Tajikistan!",
+        "Long live our nice Tajikistan!",
+        "Long live the beautiful Tajikistan!"
+      ],
+      "answer": "Long live our beautiful Tajikistan!"
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 32
+  "wordsCount": 16
 }
