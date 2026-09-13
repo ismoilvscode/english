@@ -1,401 +1,722 @@
 {
   "id": 51,
-  "title": "Муоширати воқеӣ 51",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 51: Ҷаҳони атрофи мо — қитъаҳо ва кишварҳо",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "continent",
+      "tj": "қитъа",
+      "ex": "There are six continents in the world."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "ocean",
+      "tj": "уқёнус",
+      "ex": "The Pacific Ocean is the biggest ocean."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "island",
+      "tj": "ҷазира",
+      "ex": "Great Britain is an island."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "desert",
+      "tj": "биёбон",
+      "ex": "The Sahara is a big desert in Africa."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "border",
+      "tj": "сарҳад",
+      "ex": "Tajikistan has borders with four countries."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "nation",
+      "tj": "миллат",
+      "ex": "Every nation has its own language."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "nationality",
+      "tj": "миллат",
+      "ex": "My nationality is Tajik."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "population",
+      "tj": "аҳолӣ",
+      "ex": "The population of Tajikistan is about ten million."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "climate",
+      "tj": "иқлим",
+      "ex": "The climate in Tajikistan is continental."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "equator",
+      "tj": "хати истиво",
+      "ex": "The equator divides the Earth into two halves."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "hemisphere",
+      "tj": "нимкура",
+      "ex": "Tajikistan is in the northern hemisphere."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "peoples",
+      "tj": "мардумон",
+      "ex": "The peoples of the world want peace."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "to border",
+      "tj": "ҳамсарҳад будан",
+      "ex": "Tajikistan borders with Uzbekistan."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "foreign",
+      "tj": "хориҷӣ",
+      "ex": "I want to visit foreign countries."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "abroad",
+      "tj": "хориҷ аз кишвар",
+      "ex": "My uncle works abroad."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to travel around",
+      "tj": "сафар кардан дар атрофи",
+      "ex": "I want to travel around the world."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 51)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "There are six continents in the world.",
+      "tj": "Дар ҷаҳон шаш қитъа ҳаст."
     },
     {
-      "en": "I'm working on lesson 51",
-      "tj": "Ман дарси 51-ро меомӯзам"
+      "en": "The Pacific Ocean is the biggest ocean in the world.",
+      "tj": "Уқёнуси Ором калонтарин уқёнус дар ҷаҳон аст."
+    },
+    {
+      "en": "Great Britain is a big island in Europe.",
+      "tj": "Британияи Кабир ҷазираи калон дар Аврупо аст."
+    },
+    {
+      "en": "The Sahara is a big and hot desert in Africa.",
+      "tj": "Саҳро биёбони калон ва гарм дар Африқост."
+    },
+    {
+      "en": "Tajikistan has borders with four countries.",
+      "tj": "Тоҷикистон бо чор кишвар ҳамсарҳад аст."
+    },
+    {
+      "en": "Every nation has its own language and traditions.",
+      "tj": "Ҳар як миллат забони худ ва анъанаҳои худро дорад."
+    },
+    {
+      "en": "My nationality is Tajik and I am proud of it.",
+      "tj": "Ман миллатам тоҷик аст ва ба он ифтихор мекунам."
+    },
+    {
+      "en": "The population of Tajikistan is about ten million people.",
+      "tj": "Аҳолии Тоҷикистон тақрибан даҳ миллион нафар аст."
+    },
+    {
+      "en": "The climate in Tajikistan is continental and dry.",
+      "tj": "Иқлими Тоҷикистон континенталӣ ва хушк аст."
+    },
+    {
+      "en": "The equator divides the Earth into two halves.",
+      "tj": "Хати истиво Заминро ба ду нимкура тақсим мекунад."
+    },
+    {
+      "en": "Tajikistan is in the northern hemisphere.",
+      "tj": "Тоҷикистон дар нимкураи шимолӣ аст."
+    },
+    {
+      "en": "The peoples of the world want peace and friendship.",
+      "tj": "Мардумони ҷаҳон сулҳ ва дӯстиро мехоҳанд."
+    },
+    {
+      "en": "Tajikistan borders with Uzbekistan, Afghanistan, China and Kyrgyzstan.",
+      "tj": "Тоҷикистон бо Ӯзбекистон, Афғонистон, Чин ва Қирғизистон ҳамсарҳад аст."
+    },
+    {
+      "en": "I want to visit foreign countries and see their culture.",
+      "tj": "Ман мехоҳам ба кишварҳои хориҷӣ сафар кунам ва фарҳанги онҳоро бинам."
+    },
+    {
+      "en": "My uncle works abroad and comes home once a year.",
+      "tj": "Амакам дар хориҷи кишвар кор мекунад ва соле як маротиба ба хона меояд."
+    },
+    {
+      "en": "I want to travel around the world and meet different peoples.",
+      "tj": "Ман мехоҳам дар тамоми ҷаҳон сафар кунам ва бо мардумони гуногун вохӯрам."
     }
   ],
   "text": {
-    "en": "Text for lesson 51. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 51 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 51 text.",
-    "tj": "Матни дарси 51..."
+    "en": "Our Beautiful World — Continents and Countries\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe, the capital of Tajikistan. At school we study geography. Geography is a very interesting subject. It tells us about our planet, about the continents, the oceans, the countries, the mountains and the rivers. Today I want to tell you about our beautiful world.\n\nOur planet is called the Earth. It is very big and very beautiful. There are six continents on the Earth: Europe, Asia, Africa, North America, South America and Australia. There is also a very cold continent in the south — Antarctica. Some people say that there are seven continents with Antarctica, but in many books we can see six or seven. The biggest continent is Asia. The smallest continent is Australia. The coldest continent is Antarctica. There are no people there, only scientists live there for some months.\n\nThere are four or five oceans on the Earth. The biggest ocean is the Pacific Ocean. Then come the Atlantic Ocean, the Indian Ocean and the Arctic Ocean. The water in the oceans is salty. The oceans are very deep. Many kinds of fish and animals live in the oceans — whales, dolphins, sharks and many others. The oceans are very important for our planet. They give us water, food and clean air.\n\nEvery continent has its own countries, peoples and languages. There are more than two hundred countries in the world. Some countries are very big — like Russia, China, the USA and Canada. Some countries are very small — like Monaco or the Vatican. Every country has its own capital, its own flag and its own government.\n\nMy country is Tajikistan. It is in Asia, in the centre of Central Asia. Tajikistan is a small and beautiful mountainous country. It has borders with four countries: Uzbekistan in the west, Afghanistan in the south, China in the east and Kyrgyzstan in the north. The capital of Tajikistan is Dushanbe. The population of our country is about ten million people. The climate in Tajikistan is continental — cold in winter and hot in summer.\n\nTajikistan is famous for its high mountains. The highest mountains are in the Pamirs. In the Pamirs there is a very high mountain — Ismoil Somoni Peak. It is more than seven thousand metres high. Many tourists from different countries come to Tajikistan to see our beautiful mountains.\n\nThere are many other countries in the world. In Europe there are England, France, Germany, Italy, Spain and many others. The capital of England is London. The capital of France is Paris. The capital of Germany is Berlin. The capital of Italy is Rome. In Asia there are China, India, Japan, Korea and many others. The capital of China is Beijing. The capital of India is Delhi. The capital of Japan is Tokyo. In America there are the USA, Canada, Mexico and Brazil. The capital of the USA is Washington. The capital of Canada is Ottawa. The capital of Brazil is Brasilia.\n\nEvery country has its own language. In England people speak English. In France people speak French. In Germany people speak German. In China people speak Chinese. In Russia people speak Russian. In Tajikistan we speak Tajik. But there is also an international language — English. Millions of people all over the world speak English as a foreign language.\n\nEvery nation has its own traditions, customs and culture. We must respect all nations and all peoples. We must not think that our nation is better than others. All nations are equal. We must live in peace and friendship with all countries of the world. The peoples of the world want peace. Wars are very bad, and we must do everything we can to stop them.\n\nI love my country Tajikistan very much. But I also want to see other countries. I want to travel around the world. I want to visit England and see London. I want to visit France and see the Eiffel Tower. I want to visit Egypt and see the pyramids. I want to visit China and see the Great Wall. I want to meet different peoples and learn about their lives and cultures.\n\nWhen I grow up and become a doctor, I want to travel to different countries. I want to help sick people in different parts of the world. I want to learn new languages and make new friends. But most of all I want to come back to my beautiful Tajikistan, to my family and to my city Dushanbe.\n\nOur world is very big and very beautiful. It has many countries, many peoples and many languages. We must love our planet. We must protect its nature. We must live in peace and friendship. Then our world will be a happy place for all people.",
+    "tj": "Ҷаҳони зебои мо — қитъаҳо ва кишварҳо\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе, пойтахти Тоҷикистон зиндагӣ мекунам. Дар мактаб мо ҷуғрофия меомӯзем. Ҷуғрофия фани хеле ҷолиб аст. Он ба мо дар бораи сайёраи мо, дар бораи қитъаҳо, уқёнусҳо, кишварҳо, кӯҳҳо ва дарёҳо нақл мекунад. Имрӯз ман мехоҳам ба шумо дар бораи ҷаҳони зебои худ нақл кунам.\n\nСайёраи моро Замин меноманд. Он хеле калон ва хеле зебо аст. Дар Замин шаш қитъа ҳаст: Аврупо, Осиё, Африқо, Амрикои Шимолӣ, Амрикои Ҷанубӣ ва Австралия. Инчунин дар ҷануб қитъаи хеле хунук — Антарктида ҳаст. Баъзе одамон мегӯянд, ки бо Антарктида ҳафт қитъа ҳаст, аммо дар бисёр китобҳо мо шаш ё ҳафт қитъаро дида метавонем. Калонтарин қитъа Осиё аст. Хурдтарин қитъа Австралия аст. Хунуктарин қитъа Антарктида аст. Дар он ҷо одамон нестанд, танҳо олимон барои чанд моҳ дар он ҷо зиндагӣ мекунанд.\n\nДар Замин чор ё панҷ уқёнус ҳаст. Калонтарин уқёнус Уқёнуси Ором аст. Баъд Уқёнуси Атлантик, Уқёнуси Ҳинд ва Уқёнуси Шимолӣ меоянд. Оби уқёнусҳо шӯр аст. Уқёнусҳо хеле чуқур ҳастанд. Дар уқёнусҳо навъҳои зиёди моҳӣ ва ҳайвонот зиндагӣ мекунанд — китҳо, делфинҳо, кишкҳо ва дигарон. Уқёнусҳо барои сайёраи мо хеле муҳим ҳастанд. Онҳо ба мо об, ғизо ва ҳавои тоза медиҳанд.\n\nҲар як қитъа кишварҳо, мардумон ва забонҳои худро дорад. Дар ҷаҳон беш аз дусад кишвар ҳаст. Баъзе кишварҳо хеле калонанд — мисли Русия, Чин, ИМА ва Канада. Баъзе кишварҳо хеле хурданд — мисли Монако ё Ватикан. Ҳар як кишвар пойтахти худ, парчами худ ва ҳукумати худро дорад.\n\nКишвари ман Тоҷикистон аст. Он дар Осиё, дар маркази Осиёи Марказӣ аст. Тоҷикистон кишвари хурд ва зебои кӯҳсор аст. Он бо чор кишвар ҳамсарҳад аст: Ӯзбекистон дар ғарб, Афғонистон дар ҷануб, Чин дар шарқ ва Қирғизистон дар шимол. Пойтахти Тоҷикистон Душанбе аст. Аҳолии кишвари мо тақрибан даҳ миллион нафар аст. Иқлими Тоҷикистон континенталӣ аст — дар зимистон хунук ва дар тобистон гарм.\n\nТоҷикистон бо кӯҳҳои баланди худ машҳур аст. Кӯҳҳои баландтарин дар Помир ҳастанд. Дар Помир кӯҳи хеле баланд — Қуллаи Исмоили Сомонӣ ҳаст. Он беш аз ҳафт ҳазор метр баландӣ дорад. Сайёҳони зиёд аз кишварҳои гуногун ба Тоҷикистон меоянд, то ки кӯҳҳои зебои моро бинанд.\n\nДар ҷаҳон кишварҳои дигари зиёд ҳастанд. Дар Аврупо Англия, Фаронса, Олмон, Италия, Испания ва дигарон ҳастанд. Пойтахти Англия Лондон аст. Пойтахти Фаронса Париж аст. Пойтахти Олмон Берлин аст. Пойтахти Италия Рум аст. Дар Осиё Чин, Ҳиндустон, Ҷопон, Корея ва дигарон ҳастанд. Пойтахти Чин Пекин аст. Пойтахти Ҳиндустон Деҳлӣ аст. Пойтахти Ҷопон Токио аст. Дар Амрико ИМА, Канада, Мексика ва Бразилия ҳастанд. Пойтахти ИМА Вашингтон аст. Пойтахти Канада Оттава аст. Пойтахти Бразилия Бразилиа аст.\n\nҲар як кишвар забони худро дорад. Дар Англия одамон англисӣ гап мезананд. Дар Фаронса одамон фаронсавӣ гап мезананд. Дар Олмон одамон олмонӣ гап мезананд. Дар Чин одамон чинӣ гап мезананд. Дар Русия одамон русӣ гап мезананд. Дар Тоҷикистон мо тоҷикӣ гап мезанем. Аммо инчунин забони байналмилалӣ ҳаст — англисӣ. Миллионҳо одамон дар тамоми ҷаҳон англисиро ҳамчун забони хориҷӣ гап мезананд.\n\nҲар як миллат анъанаҳо, одатҳо ва фарҳанги худро дорад. Мо бояд ҳамаи миллатҳо ва ҳамаи мардумонро эҳтиром кунем. Мо набояд фикр кунем, ки миллати мо аз дигарон беҳтар аст. Ҳамаи миллатҳо баробаранд. Мо бояд бо ҳамаи кишварҳои ҷаҳон дар сулҳ ва дӯстӣ зиндагӣ кунем. Мардумони ҷаҳон сулҳ мехоҳанд. Ҷангҳо хеле бад ҳастанд ва мо бояд ҳамаи коре, ки метавонем, кунем, то ки онҳоро боздорем.\n\nМан кишвари Тоҷикистонамро хеле дӯст медорам. Аммо ман инчунин мехоҳам кишварҳои дигарро бинам. Ман мехоҳам дар тамоми ҷаҳон сафар кунам. Ман мехоҳам ба Англия равам ва Лондонро бинам. Ман мехоҳам ба Фаронса равам ва Бурҷи Эйфелро бинам. Ман мехоҳам ба Миср равам ва пирамидаҳоро бинам. Ман мехоҳам ба Чин равам ва Девори Бузурги Чинро бинам. Ман мехоҳам бо мардумони гуногун вохӯрам ва дар бораи ҳаёт ва фарҳанги онҳо омӯзам.\n\nВақте ки ман калон мешавам ва духтур мешавам, ман мехоҳам ба кишварҳои гуногун сафар кунам. Ман мехоҳам ба беморон дар қисмҳои гуногуни ҷаҳон кӯмак кунам. Ман мехоҳам забонҳои нав омӯзам ва дӯстони нав пайдо кунам. Аммо аз ҳама бештар ман мехоҳам ба Тоҷикистони зебои худ, ба оилаам ва ба шаҳри Душанбеи худ баргардам.\n\nҶаҳони мо хеле калон ва хеле зебо аст. Дар он кишварҳои зиёд, мардумони зиёд ва забонҳои зиёд ҳастанд. Мо бояд сайёраи худро дӯст дорем. Мо бояд табиати онро муҳофизат кунем. Мо бояд дар сулҳ ва дӯстӣ зиндагӣ кунем. Он гоҳ ҷаҳони мо барои ҳамаи одамон ҷои хушбахт хоҳад буд."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Дар ҷаҳон шаш қитъа ҳаст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "There are six continents in the world.",
+        "There are six continents on the world.",
+        "There are six continents in the Earth.",
+        "There are six continents on the Earth."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "There are six continents in the world."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Уқёнуси Ором калонтарин уқёнус дар ҷаҳон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст C"
+        "The Pacific Ocean is the biggest ocean in the world.",
+        "The Pacific Ocean is the largest ocean in the world.",
+        "The Pacific Ocean is the biggest ocean on the world.",
+        "The Pacific Ocean is the greatest ocean in the world."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The Pacific Ocean is the biggest ocean in the world."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Британияи Кабир ҷазираи калон дар Аврупо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст B"
+        "Great Britain is a big island in Europe.",
+        "Great Britain is a large island in Europe.",
+        "Great Britain is the big island in Europe.",
+        "Great Britain is a big island of Europe."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Great Britain is a big island in Europe."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Саҳро биёбони калон ва гарм дар Африқост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст B"
+        "The Sahara is a big and hot desert in Africa.",
+        "The Sahara is a big hot desert in Africa.",
+        "The Sahara is the big and hot desert in Africa.",
+        "The Sahara is a large and hot desert in Africa."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "The Sahara is a big and hot desert in Africa."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Тоҷикистон бо чор кишвар ҳамсарҳад аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: education",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Tajikistan has borders with four countries.",
+        "Tajikistan has borders with the four countries.",
+        "Tajikistan borders with four countries.",
+        "Tajikistan has borders to four countries."
       ],
-      "answer": "тарҷума: education"
+      "answer": "Tajikistan has borders with four countries."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Ҳар як миллат забони худ ва анъанаҳои худро дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: development",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Every nation has its own language and traditions.",
+        "Every nation has its own language and tradition.",
+        "Each nation has its own language and traditions.",
+        "Every nation has its own language and its own traditions."
       ],
-      "answer": "тарҷума: development"
+      "answer": "Every nation has its own language and traditions."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ман миллатам тоҷик аст ва ба он ифтихор мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: achievement",
-        "нодуруст A",
-        "нодуруст B"
+        "My nationality is Tajik and I am proud of it.",
+        "My nationality is Tajik and I am proud of it.",
+        "My nationality is Tajik and I am proud for it.",
+        "My nationality is Tajik and I feel proud of it."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "My nationality is Tajik and I am proud of it."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Аҳолии Тоҷикистон тақрибан даҳ миллион нафар аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст C"
+        "The population of Tajikistan is about ten million people.",
+        "The population of Tajikistan is around ten million people.",
+        "The population of Tajikistan is about ten millions people.",
+        "The population in Tajikistan is about ten million people."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The population of Tajikistan is about ten million people."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Иқлими Тоҷикистон континенталӣ ва хушк аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: knowledge"
+        "The climate in Tajikistan is continental and dry.",
+        "The climate of Tajikistan is continental and dry.",
+        "The climate in Tajikistan is continental and hot.",
+        "The climate in Tajikistan is continental and cold."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "The climate in Tajikistan is continental and dry."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Хати истиво Заминро ба ду нимкура тақсим мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "The equator divides the Earth into two halves.",
+        "The equator divides the Earth in two halves.",
+        "The equator divides the Earth into two parts.",
+        "The equator divides the world into two halves."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The equator divides the Earth into two halves."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Тоҷикистон дар нимкураи шимолӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: fluency"
+        "Tajikistan is in the northern hemisphere.",
+        "Tajikistan is in the north hemisphere.",
+        "Tajikistan is in the Northern Hemisphere.",
+        "Tajikistan is in northern hemisphere."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "Tajikistan is in the northern hemisphere."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Мардумони ҷаҳон сулҳ ва дӯстиро мехоҳанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The peoples of the world want peace and friendship.",
+        "The people of the world want peace and friendship.",
+        "Peoples of the world want peace and friendship.",
+        "The nations of the world want peace and friendship."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "The peoples of the world want peace and friendship."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Тоҷикистон бо Ӯзбекистон, Афғонистон, Чин ва Қирғизистон ҳамсарҳад аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: pronunciation"
+        "Tajikistan borders with Uzbekistan, Afghanistan, China and Kyrgyzstan.",
+        "Tajikistan has borders with Uzbekistan, Afghanistan, China and Kyrgyzstan.",
+        "Tajikistan borders on Uzbekistan, Afghanistan, China and Kyrgyzstan.",
+        "Tajikistan is bordered by Uzbekistan, Afghanistan, China and Kyrgyzstan."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "Tajikistan borders with Uzbekistan, Afghanistan, China and Kyrgyzstan."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ман мехоҳам ба кишварҳои хориҷӣ сафар кунам ва фарҳанги онҳоро бинам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: vocabulary",
-        "нодуруст C"
+        "I want to visit foreign countries and see their culture.",
+        "I want to visit foreign countries and see their cultures.",
+        "I want to visit foreign countries and to see their culture.",
+        "I want to visit the foreign countries and see their culture."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "I want to visit foreign countries and see their culture."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Амакам дар хориҷи кишвар кор мекунад ва соле як маротиба ба хона меояд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: grammar"
+        "My uncle works abroad and comes home once a year.",
+        "My uncle works abroad and comes home one time a year.",
+        "My uncle works in abroad and comes home once a year.",
+        "My uncle works abroad and comes to home once a year."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "My uncle works abroad and comes home once a year."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ман мехоҳам дар тамоми ҷаҳон сафар кунам ва бо мардумони гуногун вохӯрам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "I want to travel around the world and meet different peoples.",
+        "I want to travel around the world and meet different people.",
+        "I want to travel all over the world and meet different peoples.",
+        "I want to travel round the world and meet different peoples."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "I want to travel around the world and meet different peoples."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман дар Душанбе, пойтахти Тоҷикистон зиндагӣ мекунам. Дар мактаб мо ҷуғрофия меомӯзем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: experience",
-        "нодуруст A"
+        "I live in Dushanbe, the capital of Tajikistan. At school we study geography.",
+        "I live in Dushanbe, the capital of Tajikistan. At school we learn geography.",
+        "I live in Dushanbe, capital of Tajikistan. At school we study geography.",
+        "I live in Dushanbe, the capital of Tajikistan. In school we study geography."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I live in Dushanbe, the capital of Tajikistan. At school we study geography."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ҷуғрофия фани хеле ҷолиб аст. Он ба мо дар бораи сайёраи мо, дар бораи қитъаҳо, уқёнусҳо, кишварҳо, кӯҳҳо ва дарёҳо нақл мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: environment"
+        "Geography is a very interesting subject. It tells us about our planet, about the continents, the oceans, the countries, the mountains and the rivers.",
+        "Geography is a very interesting subject. It tells us about our planet, about continents, oceans, countries, mountains and rivers.",
+        "Geography is a very interesting subject. It tells us about our planet, the continents, the oceans, the countries, the mountains and the rivers.",
+        "Geography is a very interesting subject. It tells us about our planet, about the continents, oceans, countries, mountains and rivers."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Geography is a very interesting subject. It tells us about our planet, about the continents, the oceans, the countries, the mountains and the rivers."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Сайёраи моро Замин меноманд. Он хеле калон ва хеле зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: communication"
+        "Our planet is called the Earth. It is very big and very beautiful.",
+        "Our planet is called Earth. It is very big and very beautiful.",
+        "Our planet is named the Earth. It is very big and very beautiful.",
+        "Our planet is called the Earth. It is very large and very beautiful."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "Our planet is called the Earth. It is very big and very beautiful."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Дар Замин шаш қитъа ҳаст: Аврупо, Осиё, Африқо, Амрикои Шимолӣ, Амрикои Ҷанубӣ ва Австралия» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст B",
-        "нодуруст A"
+        "There are six continents on the Earth: Europe, Asia, Africa, North America, South America and Australia.",
+        "There are six continents on Earth: Europe, Asia, Africa, North America, South America and Australia.",
+        "There are six continents on the Earth: Europe, Asia, Africa, North America, South America and Australia.",
+        "On the Earth there are six continents: Europe, Asia, Africa, North America, South America and Australia."
       ],
-      "answer": "тарҷума: education"
+      "answer": "There are six continents on the Earth: Europe, Asia, Africa, North America, South America and Australia."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Инчунин дар ҷануб қитъаи хеле хунук — Антарктида ҳаст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: development"
+        "There is also a very cold continent in the south — Antarctica.",
+        "There is also a very cold continent in the South — Antarctica.",
+        "There is also the very cold continent in the south — Antarctica.",
+        "There is also a very cold continent in the south — the Antarctica."
       ],
-      "answer": "тарҷума: development"
+      "answer": "There is also a very cold continent in the south — Antarctica."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Калонтарин қитъа Осиё аст. Хурдтарин қитъа Австралия аст. Хунуктарин қитъа Антарктида аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: achievement",
-        "нодуруст B",
-        "нодуруст A"
+        "The biggest continent is Asia. The smallest continent is Australia. The coldest continent is Antarctica.",
+        "The largest continent is Asia. The smallest continent is Australia. The coldest continent is Antarctica.",
+        "The biggest continent is Asia. The smallest continent is Australia. The most cold continent is Antarctica.",
+        "The biggest continent is Asia. The smallest continent is Australia. The coldest continent is the Antarctica."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The biggest continent is Asia. The smallest continent is Australia. The coldest continent is Antarctica."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Дар он ҷо одамон нестанд, танҳо олимон барои чанд моҳ дар он ҷо зиндагӣ мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст C"
+        "There are no people there, only scientists live there for some months.",
+        "There are not any people there, only scientists live there for some months.",
+        "There are no people there, only scientists live there for a few months.",
+        "There are no people there, only scientists live there for some month."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "There are no people there, only scientists live there for some months."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Дар Замин чор ё панҷ уқёнус ҳаст. Калонтарин уқёнус Уқёнуси Ором аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: knowledge",
-        "нодуруст A"
+        "There are four or five oceans on the Earth. The biggest ocean is the Pacific Ocean.",
+        "There are four or five oceans on Earth. The biggest ocean is the Pacific Ocean.",
+        "There are four or five oceans on the Earth. The largest ocean is the Pacific Ocean.",
+        "There are four or five oceans on the Earth. The biggest ocean is the Pacific ocean."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "There are four or five oceans on the Earth. The biggest ocean is the Pacific Ocean."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Оби уқёнусҳо шӯр аст. Уқёнусҳо хеле чуқур ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The water in the oceans is salty. The oceans are very deep.",
+        "The water of the oceans is salty. The oceans are very deep.",
+        "The water in oceans is salty. The oceans are very deep.",
+        "The water in the oceans is salt. The oceans are very deep."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The water in the oceans is salty. The oceans are very deep."
+    },
+    {
+      "q": "«Дар уқёнусҳо навъҳои зиёди моҳӣ ва ҳайвонот зиндагӣ мекунанд — китҳо, делфинҳо, кишкҳо ва дигарон» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Many kinds of fish and animals live in the oceans — whales, dolphins, sharks and many others.",
+        "Many kinds of fish and animals live in the oceans — whales, dolphins, sharks and others.",
+        "Many kinds of fish and animals live in oceans — whales, dolphins, sharks and many others.",
+        "Many kinds of fish and animals live in the oceans — whales, dolphins, sharks and many other."
+      ],
+      "answer": "Many kinds of fish and animals live in the oceans — whales, dolphins, sharks and many others."
+    },
+    {
+      "q": "«Уқёнусҳо барои сайёраи мо хеле муҳим ҳастанд. Онҳо ба мо об, ғизо ва ҳавои тоза медиҳанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The oceans are very important for our planet. They give us water, food and clean air.",
+        "The oceans are very important to our planet. They give us water, food and clean air.",
+        "Oceans are very important for our planet. They give us water, food and clean air.",
+        "The oceans are very important for our planet. They give us water, food and fresh air."
+      ],
+      "answer": "The oceans are very important for our planet. They give us water, food and clean air."
+    },
+    {
+      "q": "«Ҳар як қитъа кишварҳо, мардумон ва забонҳои худро дорад. Дар ҷаҳон беш аз дусад кишвар ҳаст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Every continent has its own countries, peoples and languages. There are more than two hundred countries in the world.",
+        "Every continent has its own countries, people and languages. There are more than two hundred countries in the world.",
+        "Each continent has its own countries, peoples and languages. There are more than two hundred countries in the world.",
+        "Every continent has its own countries, peoples and languages. There are over two hundred countries in the world."
+      ],
+      "answer": "Every continent has its own countries, peoples and languages. There are more than two hundred countries in the world."
+    },
+    {
+      "q": "«Баъзе кишварҳо хеле калонанд — мисли Русия, Чин, ИМА ва Канада. Баъзе кишварҳо хеле хурданд — мисли Монако ё Ватикан» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Some countries are very big — like Russia, China, the USA and Canada. Some countries are very small — like Monaco or the Vatican.",
+        "Some countries are very big — such as Russia, China, the USA and Canada. Some countries are very small — such as Monaco or the Vatican.",
+        "Some countries are very large — like Russia, China, the USA and Canada. Some countries are very small — like Monaco or the Vatican.",
+        "Some countries are very big — like Russia, China, USA and Canada. Some countries are very small — like Monaco or Vatican."
+      ],
+      "answer": "Some countries are very big — like Russia, China, the USA and Canada. Some countries are very small — like Monaco or the Vatican."
+    },
+    {
+      "q": "«Ҳар як кишвар пойтахти худ, парчами худ ва ҳукумати худро дорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Every country has its own capital, its own flag and its own government.",
+        "Each country has its own capital, its own flag and its own government.",
+        "Every country has its own capital, own flag and own government.",
+        "Every country has its capital, its flag and its government."
+      ],
+      "answer": "Every country has its own capital, its own flag and its own government."
+    },
+    {
+      "q": "«Кишвари ман Тоҷикистон аст. Он дар Осиё, дар маркази Осиёи Марказӣ аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My country is Tajikistan. It is in Asia, in the centre of Central Asia.",
+        "My country is Tajikistan. It is in Asia, in the center of Central Asia.",
+        "My country is Tajikistan. It is in Asia, in the middle of Central Asia.",
+        "My country is Tajikistan. It is in Asia, at the centre of Central Asia."
+      ],
+      "answer": "My country is Tajikistan. It is in Asia, in the centre of Central Asia."
+    },
+    {
+      "q": "«Тоҷикистон кишвари хурд ва зебои кӯҳсор аст. Он бо чор кишвар ҳамсарҳад аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Tajikistan is a small and beautiful mountainous country. It has borders with four countries.",
+        "Tajikistan is a small and beautiful mountain country. It has borders with four countries.",
+        "Tajikistan is a small and beautiful mountainous country. It borders with four countries.",
+        "Tajikistan is a small and beautiful mountainous country. It has borders with the four countries."
+      ],
+      "answer": "Tajikistan is a small and beautiful mountainous country. It has borders with four countries."
+    },
+    {
+      "q": "«Пойтахти Тоҷикистон Душанбе аст. Аҳолии кишвари мо тақрибан даҳ миллион нафар аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The capital of Tajikistan is Dushanbe. The population of our country is about ten million people.",
+        "The capital of Tajikistan is Dushanbe. The population of our country is around ten million people.",
+        "The capital of Tajikistan is Dushanbe. The population of our country is about ten million.",
+        "The capital of Tajikistan is Dushanbe. The population in our country is about ten million people."
+      ],
+      "answer": "The capital of Tajikistan is Dushanbe. The population of our country is about ten million people."
+    },
+    {
+      "q": "«Тоҷикистон бо кӯҳҳои баланди худ машҳур аст. Кӯҳҳои баландтарин дар Помир ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Tajikistan is famous for its high mountains. The highest mountains are in the Pamirs.",
+        "Tajikistan is famous for its high mountains. The highest mountains are in the Pamir.",
+        "Tajikistan is famous for its tall mountains. The highest mountains are in the Pamirs.",
+        "Tajikistan is well-known for its high mountains. The highest mountains are in the Pamirs."
+      ],
+      "answer": "Tajikistan is famous for its high mountains. The highest mountains are in the Pamirs."
+    },
+    {
+      "q": "«Дар Помир кӯҳи хеле баланд — Қуллаи Исмоили Сомонӣ ҳаст. Он беш аз ҳафт ҳазор метр баландӣ дорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In the Pamirs there is a very high mountain — Ismoil Somoni Peak. It is more than seven thousand metres high.",
+        "In the Pamirs there is a very high mountain — Ismoil Somoni Peak. It is over seven thousand metres high.",
+        "In the Pamirs there is a very high mountain — Ismoil Somoni Peak. It is more than seven thousand meters high.",
+        "In the Pamirs there is a very high mountain — the Ismoil Somoni Peak. It is more than seven thousand metres high."
+      ],
+      "answer": "In the Pamirs there is a very high mountain — Ismoil Somoni Peak. It is more than seven thousand metres high."
+    },
+    {
+      "q": "«Сайёҳони зиёд аз кишварҳои гуногун ба Тоҷикистон меоянд, то ки кӯҳҳои зебои моро бинанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Many tourists from different countries come to Tajikistan to see our beautiful mountains.",
+        "A lot of tourists from different countries come to Tajikistan to see our beautiful mountains.",
+        "Many tourists from different countries come to Tajikistan for seeing our beautiful mountains.",
+        "Many tourists from different countries come to Tajikistan to look at our beautiful mountains."
+      ],
+      "answer": "Many tourists from different countries come to Tajikistan to see our beautiful mountains."
+    },
+    {
+      "q": "«Дар ҷаҳон кишварҳои дигари зиёд ҳастанд. Дар Аврупо Англия, Фаронса, Олмон, Италия, Испания ва дигарон ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "There are many other countries in the world. In Europe there are England, France, Germany, Italy, Spain and many others.",
+        "There are many other countries in the world. In Europe there are England, France, Germany, Italy, Spain and others.",
+        "There are many other countries in the world. In Europe there are England, France, Germany, Italy, Spain and many other countries.",
+        "There are many other countries in the world. In Europe are England, France, Germany, Italy, Spain and many others."
+      ],
+      "answer": "There are many other countries in the world. In Europe there are England, France, Germany, Italy, Spain and many others."
+    },
+    {
+      "q": "«Пойтахти Англия Лондон аст. Пойтахти Фаронса Париж аст. Пойтахти Олмон Берлин аст. Пойтахти Италия Рум аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The capital of England is London. The capital of France is Paris. The capital of Germany is Berlin. The capital of Italy is Rome.",
+        "The capital of England is London. The capital of France is Paris. The capital of Germany is Berlin. The capital of Italy is Rome.",
+        "The capital of England is London. The capital of France is Paris. The capital of Germany is Berlin. The capital of Italy is Roma.",
+        "The capital of England is London. The capital of France is Paris. The capital of Germany is Berlin. The capital of Italy is the Rome."
+      ],
+      "answer": "The capital of England is London. The capital of France is Paris. The capital of Germany is Berlin. The capital of Italy is Rome."
+    },
+    {
+      "q": "«Дар Осиё Чин, Ҳиндустон, Ҷопон, Корея ва дигарон ҳастанд. Пойтахти Чин Пекин аст. Пойтахти Ҳиндустон Деҳлӣ аст. Пойтахти Ҷопон Токио аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In Asia there are China, India, Japan, Korea and many others. The capital of China is Beijing. The capital of India is Delhi. The capital of Japan is Tokyo.",
+        "In Asia there are China, India, Japan, Korea and others. The capital of China is Beijing. The capital of India is Delhi. The capital of Japan is Tokyo.",
+        "In Asia there are China, India, Japan, Korea and many others. The capital of China is Beijing. The capital of India is Delhi. The capital of Japan is Tokyo.",
+        "In Asia there are China, India, Japan, Korea and many others. The capital of China is Beijing. The capital of India is Delhi. The capital of Japan is Tokio."
+      ],
+      "answer": "In Asia there are China, India, Japan, Korea and many others. The capital of China is Beijing. The capital of India is Delhi. The capital of Japan is Tokyo."
+    },
+    {
+      "q": "«Дар Амрико ИМА, Канада, Мексика ва Бразилия ҳастанд. Пойтахти ИМА Вашингтон аст. Пойтахти Канада Оттава аст. Пойтахти Бразилия Бразилиа аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In America there are the USA, Canada, Mexico and Brazil. The capital of the USA is Washington. The capital of Canada is Ottawa. The capital of Brazil is Brasilia.",
+        "In America there are the USA, Canada, Mexico and Brazil. The capital of the USA is Washington. The capital of Canada is Ottawa. The capital of Brazil is Brasilia.",
+        "In America there are the USA, Canada, Mexico and Brazil. The capital of USA is Washington. The capital of Canada is Ottawa. The capital of Brazil is Brasilia.",
+        "In America there are the USA, Canada, Mexico and Brazil. The capital of the USA is Washington. The capital of Canada is Ottawa. The capital of Brazil is Brazilia."
+      ],
+      "answer": "In America there are the USA, Canada, Mexico and Brazil. The capital of the USA is Washington. The capital of Canada is Ottawa. The capital of Brazil is Brasilia."
+    },
+    {
+      "q": "«Ҳар як кишвар забони худро дорад. Дар Англия одамон англисӣ гап мезананд. Дар Фаронса одамон фаронсавӣ гап мезананд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Every country has its own language. In England people speak English. In France people speak French.",
+        "Each country has its own language. In England people speak English. In France people speak French.",
+        "Every country has its own language. In England people speak English. In France people speak French.",
+        "Every country has its language. In England people speak English. In France people speak French."
+      ],
+      "answer": "Every country has its own language. In England people speak English. In France people speak French."
+    },
+    {
+      "q": "«Дар Олмон одамон олмонӣ гап мезананд. Дар Чин одамон чинӣ гап мезананд. Дар Русия одамон русӣ гап мезананд. Дар Тоҷикистон мо тоҷикӣ гап мезанем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In Germany people speak German. In China people speak Chinese. In Russia people speak Russian. In Tajikistan we speak Tajik.",
+        "In Germany people speak German. In China people speak Chinese. In Russia people speak Russian. In Tajikistan we speak Tajik.",
+        "In Germany people speak German. In China people speak Chinese. In Russia people speak Russian. In Tajikistan we speak the Tajik.",
+        "In Germany people speak German. In China people speak Chinese. In Russia people speak Russian. In Tajikistan we speak in Tajik."
+      ],
+      "answer": "In Germany people speak German. In China people speak Chinese. In Russia people speak Russian. In Tajikistan we speak Tajik."
+    },
+    {
+      "q": "«Аммо инчунин забони байналмилалӣ ҳаст — англисӣ. Миллионҳо одамон дар тамоми ҷаҳон англисиро ҳамчун забони хориҷӣ гап мезананд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "But there is also an international language — English. Millions of people all over the world speak English as a foreign language.",
+        "But there is also an international language — English. Millions of people all over the world speak English as a foreign tongue.",
+        "But there is also an international language — English. Millions of people in the world speak English as a foreign language.",
+        "But there is also an international language — English. Millions of people all over the world speak English like a foreign language."
+      ],
+      "answer": "But there is also an international language — English. Millions of people all over the world speak English as a foreign language."
+    },
+    {
+      "q": "«Ҳар як миллат анъанаҳо, одатҳо ва фарҳанги худро дорад. Мо бояд ҳамаи миллатҳо ва ҳамаи мардумонро эҳтиром кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Every nation has its own traditions, customs and culture. We must respect all nations and all peoples.",
+        "Each nation has its own traditions, customs and culture. We must respect all nations and all peoples.",
+        "Every nation has its own traditions, customs and culture. We should respect all nations and all peoples.",
+        "Every nation has its own traditions, customs and cultures. We must respect all nations and all peoples."
+      ],
+      "answer": "Every nation has its own traditions, customs and culture. We must respect all nations and all peoples."
+    },
+    {
+      "q": "«Мо набояд фикр кунем, ки миллати мо аз дигарон беҳтар аст. Ҳамаи миллатҳо баробаранд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must not think that our nation is better than others. All nations are equal.",
+        "We must not think that our nation is better than other. All nations are equal.",
+        "We shouldn't think that our nation is better than others. All nations are equal.",
+        "We must not think that our nation is better than others. All nations are equal."
+      ],
+      "answer": "We must not think that our nation is better than others. All nations are equal."
+    },
+    {
+      "q": "«Мо бояд бо ҳамаи кишварҳои ҷаҳон дар сулҳ ва дӯстӣ зиндагӣ кунем. Мардумони ҷаҳон сулҳ мехоҳанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must live in peace and friendship with all countries of the world. The peoples of the world want peace.",
+        "We should live in peace and friendship with all countries of the world. The peoples of the world want peace.",
+        "We must live in peace and friendship with all countries of the world. Peoples of the world want peace.",
+        "We must live in peace and friendship with all countries of the world. The people of the world want peace."
+      ],
+      "answer": "We must live in peace and friendship with all countries of the world. The peoples of the world want peace."
+    },
+    {
+      "q": "«Ҷангҳо хеле бад ҳастанд ва мо бояд ҳамаи коре, ки метавонем, кунем, то ки онҳоро боздорем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Wars are very bad, and we must do everything we can to stop them.",
+        "Wars are very bad and we must do everything we can to stop them.",
+        "Wars are very bad, and we should do everything we can to stop them.",
+        "Wars are very bad, and we must do all we can to stop them."
+      ],
+      "answer": "Wars are very bad, and we must do everything we can to stop them."
+    },
+    {
+      "q": "«Ман кишвари Тоҷикистонамро хеле дӯст медорам. Аммо ман инчунин мехоҳам кишварҳои дигарро бинам. Ман мехоҳам дар тамоми ҷаҳон сафар кунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I love my country Tajikistan very much. But I also want to see other countries. I want to travel around the world.",
+        "I love my country Tajikistan very much. But I want to see other countries too. I want to travel around the world.",
+        "I love my country Tajikistan very much. But I also want to see other countries. I want to travel all over the world.",
+        "I love my country Tajikistan very much. But I also want to see other countries. I want to travel around the world."
+      ],
+      "answer": "I love my country Tajikistan very much. But I also want to see other countries. I want to travel around the world."
+    },
+    {
+      "q": "«Ман мехоҳам ба Англия равам ва Лондонро бинам. Ман мехоҳам ба Фаронса равам ва Бурҷи Эйфелро бинам. Ман мехоҳам ба Миср равам ва пирамидаҳоро бинам. Ман мехоҳам ба Чин равам ва Девори Бузурги Чинро бинам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to visit England and see London. I want to visit France and see the Eiffel Tower. I want to visit Egypt and see the pyramids. I want to visit China and see the Great Wall.",
+        "I want to visit England and see London. I want to visit France and see the Eiffel Tower. I want to visit Egypt and see the pyramids. I want to visit China and see the Great Wall.",
+        "I want to go to England and see London. I want to go to France and see the Eiffel Tower. I want to go to Egypt and see the pyramids. I want to go to China and see the Great Wall.",
+        "I want to visit England and see London. I want to visit France and see the Eiffel Tower. I want to visit Egypt and see the pyramids. I want to visit China and see the Great Wall of China."
+      ],
+      "answer": "I want to visit England and see London. I want to visit France and see the Eiffel Tower. I want to visit Egypt and see the pyramids. I want to visit China and see the Great Wall."
+    },
+    {
+      "q": "«Ман мехоҳам бо мардумони гуногун вохӯрам ва дар бораи ҳаёт ва фарҳанги онҳо омӯзам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to meet different peoples and learn about their lives and cultures.",
+        "I want to meet different people and learn about their lives and cultures.",
+        "I want to meet different peoples and learn about their life and culture.",
+        "I want to meet different peoples and learn about their lives and culture."
+      ],
+      "answer": "I want to meet different peoples and learn about their lives and cultures."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам ва духтур мешавам, ман мехоҳам ба кишварҳои гуногун сафар кунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up and become a doctor, I want to travel to different countries.",
+        "When I grow up and become a doctor, I want to travel in different countries.",
+        "When I grow up and become a doctor I want to travel to different countries.",
+        "When I grow up and become a doctor, I want to travel to the different countries."
+      ],
+      "answer": "When I grow up and become a doctor, I want to travel to different countries."
+    },
+    {
+      "q": "«Ман мехоҳам ба беморон дар қисмҳои гуногуни ҷаҳон кӯмак кунам. Ман мехоҳам забонҳои нав омӯзам ва дӯстони нав пайдо кунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to help sick people in different parts of the world. I want to learn new languages and make new friends.",
+        "I want to help sick people in different parts of the world. I want to learn new languages and make new friends.",
+        "I want to help sick people in different parts of the world. I want to study new languages and make new friends.",
+        "I want to help sick people in different parts of the world. I want to learn new languages and find new friends."
+      ],
+      "answer": "I want to help sick people in different parts of the world. I want to learn new languages and make new friends."
+    },
+    {
+      "q": "«Аммо аз ҳама бештар ман мехоҳам ба Тоҷикистони зебои худ, ба оилаам ва ба шаҳри Душанбеи худ баргардам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "But most of all I want to come back to my beautiful Tajikistan, to my family and to my city Dushanbe.",
+        "But most of all I want to come back to my beautiful Tajikistan, to my family and to my city of Dushanbe.",
+        "But most of all I want to return to my beautiful Tajikistan, to my family and to my city Dushanbe.",
+        "But most of all I want to come back to my beautiful Tajikistan, to my family and to my city Dushanbe."
+      ],
+      "answer": "But most of all I want to come back to my beautiful Tajikistan, to my family and to my city Dushanbe."
+    },
+    {
+      "q": "«Ҷаҳони мо хеле калон ва хеле зебо аст. Дар он кишварҳои зиёд, мардумони зиёд ва забонҳои зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Our world is very big and very beautiful. It has many countries, many peoples and many languages.",
+        "Our world is very big and very beautiful. There are many countries, many peoples and many languages in it.",
+        "Our world is very big and very beautiful. It has many countries, many people and many languages.",
+        "Our world is very big and very beautiful. It has many countries, many peoples and many tongues."
+      ],
+      "answer": "Our world is very big and very beautiful. It has many countries, many peoples and many languages."
+    },
+    {
+      "q": "«Мо бояд сайёраи худро дӯст дорем. Мо бояд табиати онро муҳофизат кунем. Мо бояд дар сулҳ ва дӯстӣ зиндагӣ кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must love our planet. We must protect its nature. We must live in peace and friendship.",
+        "We must love our planet. We must protect its nature. We should live in peace and friendship.",
+        "We must love our planet. We must save its nature. We must live in peace and friendship.",
+        "We must love our planet. We must protect its nature. We must live in peace and in friendship."
+      ],
+      "answer": "We must love our planet. We must protect its nature. We must live in peace and friendship."
+    },
+    {
+      "q": "«Он гоҳ ҷаҳони мо барои ҳамаи одамон ҷои хушбахт хоҳад буд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Then our world will be a happy place for all people.",
+        "Then our world will be a happy place for all the people.",
+        "Then our world will be a happy place for everybody.",
+        "Then our world will become a happy place for all people."
+      ],
+      "answer": "Then our world will be a happy place for all people."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 25
+  "wordsCount": 16
 }
