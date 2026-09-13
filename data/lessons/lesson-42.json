@@ -1,476 +1,652 @@
 {
   "id": 42,
-  "title": "Матн ва машқҳо 42",
-  "level": "Миёна - Синфи 4",
+  "title": "Матн 42: Ҳунарҳои мардумӣ ва эҷодиёт",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "art",
+      "tj": "ҳунар",
+      "ex": "Art makes our life beautiful."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "artist",
+      "tj": "ҳунарманд",
+      "ex": "The artist paints beautiful pictures."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "craftsman",
+      "tj": "ҳунарманд (дастӣ)",
+      "ex": "The craftsman makes beautiful things with his hands."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "pottery",
+      "tj": "кулолгарӣ",
+      "ex": "Pottery is an old Tajik craft."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "carpet",
+      "tj": "гилем",
+      "ex": "Tajik carpets are famous all over the world."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "embroidery",
+      "tj": "кашиш",
+      "ex": "My grandmother does beautiful embroidery."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "to weave",
+      "tj": "бофтан",
+      "ex": "They weave carpets in the village."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "to carve",
+      "tj": "кандакорӣ кардан",
+      "ex": "He carves beautiful patterns on wood."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "pattern",
+      "tj": "нақш",
+      "ex": "The pattern on the carpet is very beautiful."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "tradition",
+      "tj": "анъана",
+      "ex": "Craftsmanship is an old Tajik tradition."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "to create",
+      "tj": "офаридан",
+      "ex": "Artists create beautiful works of art."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "work of art",
+      "tj": "асари ҳунарӣ",
+      "ex": "This carpet is a real work of art."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "museum",
+      "tj": "музей",
+      "ex": "There are many old carpets in the museum."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "exhibition",
+      "tj": "намоишгоҳ",
+      "ex": "We went to an exhibition of folk art."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
+      "en": "to admire",
+      "tj": "ҳайрат кардан",
+      "ex": "Tourists admire Tajik carpets."
     },
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
-    },
-    {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
-    },
-    {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
-    },
-    {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
-    },
-    {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
-    },
-    {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
-    },
-    {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
-    },
-    {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
+      "en": "to be proud of",
+      "tj": "ифтихор кардан ба",
+      "ex": "I am proud of Tajik craftsmen."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 42)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Art makes our life beautiful and interesting.",
+      "tj": "Ҳунар ҳаёти моро зебо ва ҷолиб мекунад."
     },
     {
-      "en": "I'm working on lesson 42",
-      "tj": "Ман дарси 42-ро меомӯзам"
+      "en": "The artist paints beautiful pictures of nature.",
+      "tj": "Ҳунарманд расмҳои зебои табиатро мекашад."
+    },
+    {
+      "en": "The craftsman makes beautiful things with his hands.",
+      "tj": "Ҳунарманди дастӣ бо дастҳои худ чизҳои зебо месозад."
+    },
+    {
+      "en": "Pottery is an old and beautiful craft of Tajikistan.",
+      "tj": "Кулолгарӣ ҳунари кӯҳна ва зебои Тоҷикистон аст."
+    },
+    {
+      "en": "Tajik carpets are famous all over the world.",
+      "tj": "Гилемҳои тоҷикӣ дар тамоми ҷаҳон машҳур ҳастанд."
+    },
+    {
+      "en": "My grandmother does beautiful embroidery on her dresses.",
+      "tj": "Бибиам дар куртаҳояш кашиши зебо мекунад."
+    },
+    {
+      "en": "They weave carpets in our village.",
+      "tj": "Онҳо дар деҳаи мо гилем мебофанд."
+    },
+    {
+      "en": "He carves beautiful patterns on wood.",
+      "tj": "Ӯ дар чӯб нақшҳои зебо меканад."
+    },
+    {
+      "en": "The pattern on the carpet is very beautiful.",
+      "tj": "Нақши гилем хеле зебо аст."
+    },
+    {
+      "en": "Craftsmanship is an old Tajik tradition.",
+      "tj": "Ҳунармандӣ анъанаи кӯҳнаи тоҷикӣ аст."
+    },
+    {
+      "en": "Artists create beautiful works of art.",
+      "tj": "Ҳунармандон асарҳои зебои ҳунарӣ меофаранд."
+    },
+    {
+      "en": "This carpet is a real work of art.",
+      "tj": "Ин гилем асари ҳақиқии ҳунарӣ аст."
+    },
+    {
+      "en": "There are many old carpets in the museum.",
+      "tj": "Дар музей гилемҳои кӯҳнаи зиёд ҳастанд."
+    },
+    {
+      "en": "We went to an exhibition of folk art.",
+      "tj": "Мо ба намоишгоҳи ҳунари мардумӣ рафтем."
+    },
+    {
+      "en": "Tourists admire Tajik carpets very much.",
+      "tj": "Сайёҳон аз гилемҳои тоҷикӣ хеле ҳайрат мекунанд."
+    },
+    {
+      "en": "I am proud of Tajik craftsmen.",
+      "tj": "Ман ба ҳунармандони тоҷик ифтихор мекунам."
     }
   ],
   "text": {
-    "en": "Text for lesson 42. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 42 is about Миёна - Синфи 4. I write all words in my notebook. Level 42 text.",
-    "tj": "Матни дарси 42..."
+    "en": "Folk Art and Creativity\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe. I want to tell you about Tajik folk art and craftsmen. Tajikistan is famous for its beautiful crafts. Our craftsmen make wonderful things with their hands: carpets, pottery, knives, wooden boxes and embroidered dresses. Their art makes our country famous all over the world.\n\nCarpet weaving is one of the oldest crafts in Tajikistan. In our village my grandmother and my aunt weave carpets. They use wool from sheep. They make beautiful patterns: flowers, birds, animals and stars. A big carpet takes three or four months to make. Every carpet is a real work of art. The pattern on each carpet is different and very beautiful. Tajik carpets are famous in many countries. Tourists from other countries come to our country to buy them.\n\nPottery is also an old craft in Tajikistan. Potters make plates, cups, bowls, jugs and vases from clay. They paint beautiful patterns on them with bright colours. In the museum of Dushanbe you can see very old pottery — some of it is more than a thousand years old. Looking at this old pottery, I understand how clever and talented our ancestors were.\n\nMy uncle is a wood carver. He carves beautiful patterns on wooden doors, boxes and bookshelves. His work is very difficult. It needs patience, a steady hand and a good eye. My uncle says: \"To be a good craftsman, you need three things: patience, love and a lot of practice.\"\n\nMy mother does beautiful embroidery on our dresses and pillows. Her patterns are always bright and beautiful. In our country many women and girls do embroidery. It is an old tradition which we keep and pass to our children.\n\nLast month our class went to an exhibition of folk art. We saw many beautiful things: old carpets, pottery, wooden boxes, embroidered dresses and silver jewellery. The guides told us about the history of our crafts. We learned that our ancestors were great craftsmen. Their art was famous in the East for hundreds of years. At the exhibition I met an old craftsman. He told us many interesting stories about his work. He said: \"Our art is our treasure. We must keep it for our children and grandchildren.\"\n\nI think that our folk art is a very important part of our culture. It tells us about the life, the dreams and the beauty of our people. We must be proud of our craftsmen. We must learn their art and keep it alive. When I grow up, I want to learn to carve wood like my uncle. I want to make beautiful things with my own hands and give them to people. I want to be a real craftsman of Tajikistan.",
+    "tj": "Ҳунарҳои мардумӣ ва эҷодиёт\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе зиндагӣ мекунам. Ман мехоҳам ба шумо дар бораи ҳунарҳои мардумии тоҷик ва ҳунармандони мо нақл кунам. Тоҷикистон бо ҳунарҳои зебои худ машҳур аст. Ҳунармандони мо бо дастҳои худ чизҳои аҷоиб месозанд: гилемҳо, кулолӣ, кордҳо, қуттиҳои чӯбӣ ва куртаҳои кашида. Ҳунари онҳо кишвари моро дар тамоми ҷаҳон машҳур мекунад.\n\nГилембофӣ яке аз ҳунарҳои қадимтарини Тоҷикистон аст. Дар деҳаи мо бибиам ва аммаам гилем мебофанд. Онҳо пашми гӯсфандро истифода мебаранд. Онҳо нақшҳои зебо месозанд: гулҳо, паррандаҳо, ҳайвонот ва ситораҳо. Барои сохтани гилеми калон се ё чор моҳ лозим аст. Ҳар як гилем асари ҳақиқии ҳунарӣ аст. Нақши ҳар як гилем гуногун ва хеле зебо аст. Гилемҳои тоҷикӣ дар кишварҳои зиёд машҳур ҳастанд. Сайёҳон аз кишварҳои дигар ба кишвари мо меоянд, то ки онҳоро харанд.\n\nКулолгарӣ низ ҳунари қадимии Тоҷикистон аст. Кулолгарон аз гил табақҳо, пиёлаҳо, косаҳо, кӯзаҳо ва гулдонҳо месозанд. Онҳо бо рангҳои дурахшон дар онҳо нақшҳои зебо мекашанд. Дар музейи Душанбе шумо метавонед кулолии хеле кӯҳнаро бинед — баъзеи онҳо беш аз ҳазор сол доранд. Ба ин кулолии кӯҳна нигоҳ карда, ман мефаҳмам, ки бобоҳои мо чӣ қадар зирак ва боистеъдод буданд.\n\nАмакам кандакори чӯб аст. Ӯ дар дарҳои чӯбӣ, қуттиҳо ва рафҳои китоб нақшҳои зебо меканад. Кори ӯ хеле душвор аст. Ба он сабр, дасти устувор ва чашми тез лозим аст. Амакам мегӯяд: «Барои ҳунарманди хуб будан се чиз лозим аст: сабр, муҳаббат ва машқи зиёд.»\n\nМодарам дар куртаҳо ва болишҳои мо кашиши зебо мекунад. Нақшҳои ӯ ҳамеша дурахшон ва зебо ҳастанд. Дар кишвари мо занон ва духтарони зиёд кашиш мекунанд. Ин анъанаи кӯҳна аст, ки мо онро нигоҳ медорем ва ба кӯдаконамон мегузаронем.\n\nМоҳи гузашта синфи мо ба намоишгоҳи ҳунари мардумӣ рафт. Мо чизҳои зебои зиёдро дидем: гилемҳои кӯҳна, кулолӣ, қуттиҳои чӯбӣ, куртаҳои кашида ва зеварҳои нуқрагин. Роҳбалаҳо ба мо дар бораи таърихи ҳунарҳои мо нақл карданд. Мо фаҳмидем, ки бобоҳои мо ҳунармандони бузург буданд. Ҳунари онҳо дар Шарқ садҳо сол машҳур буд. Дар намоишгоҳ ман бо як ҳунарманди пир вохӯрдам. Ӯ ба мо ҳикояҳои ҷолиби зиёд дар бораи кори худ нақл кард. Ӯ гуфт: «Ҳунари мо ганҷи мост. Мо бояд онро барои кӯдакон ва набераҳоямон нигоҳ дорем.»\n\nМан фикр мекунам, ки ҳунари мардумии мо қисми хеле муҳими фарҳанги мост. Он ба мо дар бораи ҳаёт, орзуҳо ва зебоии мардуми мо нақл мекунад. Мо бояд ба ҳунармандони худ ифтихор кунем. Мо бояд ҳунари онҳоро омӯзем ва онро зинда нигоҳ дорем. Вақте ки ман калон мешавам, ман мехоҳам кандакории чӯбро ба мисли амакам омӯзам. Ман мехоҳам бо дастҳои худ чизҳои зебо созам ва онҳоро ба одамон диҳам. Ман мехоҳам ҳунарманди ҳақиқии Тоҷикистон бошам."
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Ҳунар ҳаёти моро зебо ва ҷолиб мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи understand",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Art makes our life beautiful and interesting.",
+        "Art makes our life good and interesting.",
+        "Art makes our life beautiful and happy.",
+        "Art makes our life nice and interesting."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "Art makes our life beautiful and interesting."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Ҳунарманд расмҳои зебои табиатро мекашад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи explain",
-        "нодуруст A",
-        "нодуруст C"
+        "The artist paints beautiful pictures of nature.",
+        "The artist draws beautiful pictures of nature.",
+        "The artist paints good pictures of nature.",
+        "The painter paints beautiful pictures of nature."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "The artist paints beautiful pictures of nature."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Ҳунарманди дастӣ бо дастҳои худ чизҳои зебо месозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи important"
+        "The craftsman makes beautiful things with his hands.",
+        "The craftsman makes nice things with his hands.",
+        "The craftsman creates beautiful things with his hands.",
+        "The artist makes beautiful things with his hands."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "The craftsman makes beautiful things with his hands."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Кулолгарӣ ҳунари кӯҳна ва зебои Тоҷикистон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи different",
-        "нодуруст B",
-        "нодуруст C"
+        "Pottery is an old and beautiful craft of Tajikistan.",
+        "Pottery is an old and nice craft of Tajikistan.",
+        "Pottery is an ancient and beautiful craft of Tajikistan.",
+        "Pottery is an old and beautiful art of Tajikistan."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "Pottery is an old and beautiful craft of Tajikistan."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Гилемҳои тоҷикӣ дар тамоми ҷаҳон машҳур ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи difficult",
-        "нодуруст A",
-        "нодуруст C"
+        "Tajik carpets are famous all over the world.",
+        "Tajik carpets are famous in the world.",
+        "Tajik carpets are well-known all over the world.",
+        "Tajik carpets are famous all around the world."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "Tajik carpets are famous all over the world."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Бибиам дар куртаҳояш кашиши зебо мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи easy",
-        "нодуруст C",
-        "нодуруст B"
+        "My grandmother does beautiful embroidery on her dresses.",
+        "My grandmother makes beautiful embroidery on her dresses.",
+        "My grandmother does nice embroidery on her dresses.",
+        "My grandmother does beautiful embroidery on her clothes."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "My grandmother does beautiful embroidery on her dresses."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Онҳо дар деҳаи мо гилем мебофанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи interesting",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "They weave carpets in our village.",
+        "They weave carpets in the village.",
+        "They make carpets in our village.",
+        "They weave rugs in our village."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "They weave carpets in our village."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Ӯ дар чӯб нақшҳои зебо меканад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи remember",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "He carves beautiful patterns on wood.",
+        "He carves nice patterns on wood.",
+        "He carves beautiful patterns in wood.",
+        "She carves beautiful patterns on wood."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "He carves beautiful patterns on wood."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Нақши гилем хеле зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи forget",
-        "нодуруст B"
+        "The pattern on the carpet is very beautiful.",
+        "The pattern on the carpet is beautiful.",
+        "The pattern of the carpet is very beautiful.",
+        "The pattern on the rug is very beautiful."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "The pattern on the carpet is very beautiful."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Ҳунармандӣ анъанаи кӯҳнаи тоҷикӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи homework",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "Craftsmanship is an old Tajik tradition.",
+        "Craftsmanship is an ancient Tajik tradition.",
+        "Craftsmanship is an old tradition of Tajikistan.",
+        "Crafts are an old Tajik tradition."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "Craftsmanship is an old Tajik tradition."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Ҳунармандон асарҳои зебои ҳунарӣ меофаранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи exercise",
-        "нодуруст B"
+        "Artists create beautiful works of art.",
+        "Artists make beautiful works of art.",
+        "Artists create nice works of art.",
+        "Craftsmen create beautiful works of art."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "Artists create beautiful works of art."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Ин гилем асари ҳақиқии ҳунарӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи text",
-        "нодуруст B"
+        "This carpet is a real work of art.",
+        "This carpet is a true work of art.",
+        "This carpet is a real work of arts.",
+        "That carpet is a real work of art."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "This carpet is a real work of art."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Дар музей гилемҳои кӯҳнаи зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи story",
-        "нодуруст C"
+        "There are many old carpets in the museum.",
+        "There are many ancient carpets in the museum.",
+        "There are a lot of old carpets in the museum.",
+        "There are many old rugs in the museum."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "There are many old carpets in the museum."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Мо ба намоишгоҳи ҳунари мардумӣ рафтем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи question"
+        "We went to an exhibition of folk art.",
+        "We went to an exhibition of folk arts.",
+        "We went to the exhibition of folk art.",
+        "We went to an exhibition of national art."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "We went to an exhibition of folk art."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Сайёҳон аз гилемҳои тоҷикӣ хеле ҳайрат мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи answer",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Tourists admire Tajik carpets very much.",
+        "Tourists admire Tajik carpets a lot.",
+        "Tourists like Tajik carpets very much.",
+        "Tourists admire the Tajik carpets very much."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "Tourists admire Tajik carpets very much."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Ман ба ҳунармандони тоҷик ифтихор мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи understand",
-        "нодуруст A",
-        "нодуруст C"
+        "I am proud of Tajik craftsmen.",
+        "I am proud of the Tajik craftsmen.",
+        "I am proud of Tajik artists.",
+        "I am proud in Tajik craftsmen."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "I am proud of Tajik craftsmen."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Тоҷикистон бо ҳунарҳои зебои худ машҳур аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи explain",
-        "нодуруст C",
-        "нодуруст A"
+        "Tajikistan is famous for its beautiful crafts.",
+        "Tajikistan is famous for its beautiful art.",
+        "Tajikistan is well-known for its beautiful crafts.",
+        "Tajikistan is famous for her beautiful crafts."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "Tajikistan is famous for its beautiful crafts."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Ҳунармандони мо бо дастҳои худ чизҳои аҷоиб месозанд: гилемҳо, кулолӣ, кордҳо, қуттиҳои чӯбӣ ва куртаҳои кашида» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи important"
+        "Our craftsmen make wonderful things with their hands: carpets, pottery, knives, wooden boxes and embroidered dresses.",
+        "Our craftsmen make wonderful things with their hands: carpets, pottery, knives, wooden boxes and embroidered clothes.",
+        "Our craftsmen make beautiful things with their hands: carpets, pottery, knives, wooden boxes and embroidered dresses.",
+        "Our craftsmen create wonderful things with their hands: carpets, pottery, knives, wooden boxes and embroidered dresses."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "Our craftsmen make wonderful things with their hands: carpets, pottery, knives, wooden boxes and embroidered dresses."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Ҳунари онҳо кишвари моро дар тамоми ҷаҳон машҳур мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи different",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Their art makes our country famous all over the world.",
+        "Their art makes our country famous in the world.",
+        "Their art makes our country well-known all over the world.",
+        "Their art makes our country famous all around the world."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "Their art makes our country famous all over the world."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Гилембофӣ яке аз ҳунарҳои қадимтарини Тоҷикистон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи difficult",
-        "нодуруст B"
+        "Carpet weaving is one of the oldest crafts in Tajikistan.",
+        "Carpet weaving is one of the most ancient crafts in Tajikistan.",
+        "Carpet weaving is one of the oldest arts in Tajikistan.",
+        "Carpet weaving is one of the oldest crafts of Tajikistan."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "Carpet weaving is one of the oldest crafts in Tajikistan."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Дар деҳаи мо бибиам ва аммаам гилем мебофанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи easy",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "In our village my grandmother and my aunt weave carpets.",
+        "In the village my grandmother and my aunt weave carpets.",
+        "In our village my grandmother and my aunt make carpets.",
+        "In our village my grandmother and my sister weave carpets."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "In our village my grandmother and my aunt weave carpets."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Онҳо пашми гӯсфандро истифода мебаранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи interesting",
-        "нодуруст A"
+        "They use wool from sheep.",
+        "They use wool of sheep.",
+        "They use sheep's wool.",
+        "They use the wool from sheep."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "They use wool from sheep."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Онҳо нақшҳои зебо месозанд: гулҳо, паррандаҳо, ҳайвонот ва ситораҳо» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи remember"
+        "They make beautiful patterns: flowers, birds, animals and stars.",
+        "They make beautiful patterns: flowers, birds, animals and stars.",
+        "They create beautiful patterns: flowers, birds, animals and stars.",
+        "They make nice patterns: flowers, birds, animals and stars."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "They make beautiful patterns: flowers, birds, animals and stars."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Барои сохтани гилеми калон се ё чор моҳ лозим аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи forget",
-        "нодуруст A",
-        "нодуруст B"
+        "A big carpet takes three or four months to make.",
+        "A big carpet takes three or four months to do.",
+        "A large carpet takes three or four months to make.",
+        "A big carpet takes three or four months to create."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "A big carpet takes three or four months to make."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Ҳар як гилем асари ҳақиқии ҳунарӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи homework"
+        "Every carpet is a real work of art.",
+        "Each carpet is a real work of art.",
+        "Every carpet is a true work of art.",
+        "Every rug is a real work of art."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "Every carpet is a real work of art."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Нақши ҳар як гилем гуногун ва хеле зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи exercise",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "The pattern on each carpet is different and very beautiful.",
+        "The pattern of each carpet is different and very beautiful.",
+        "The pattern on every carpet is different and very beautiful.",
+        "The pattern on each carpet is various and very beautiful."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "The pattern on each carpet is different and very beautiful."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Сайёҳон аз кишварҳои дигар ба кишвари мо меоянд, то ки онҳоро харанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи text",
-        "нодуруст C"
+        "Tourists from other countries come to our country to buy them.",
+        "Tourists from other countries come to our country to buy it.",
+        "Tourists from other countries come to our country for buying them.",
+        "Tourists from other cities come to our country to buy them."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "Tourists from other countries come to our country to buy them."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Кулолгарон аз гил табақҳо, пиёлаҳо, косаҳо, кӯзаҳо ва гулдонҳо месозанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи story",
-        "нодуруст B"
+        "Potters make plates, cups, bowls, jugs and vases from clay.",
+        "Potters make plates, cups, bowls, jugs and vases from clay.",
+        "Potters make plates, cups, bowls, jars and vases from clay.",
+        "Potters make plates, cups, bowls, jugs and flowers from clay."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "Potters make plates, cups, bowls, jugs and vases from clay."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Онҳо бо рангҳои дурахшон дар онҳо нақшҳои зебо мекашанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи question",
-        "нодуруст C",
-        "нодуруст A"
+        "They paint beautiful patterns on them with bright colours.",
+        "They draw beautiful patterns on them with bright colours.",
+        "They paint nice patterns on them with bright colours.",
+        "They paint beautiful patterns on them with bright colors."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "They paint beautiful patterns on them with bright colours."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Дар музейи Душанбе шумо метавонед кулолии хеле кӯҳнаро бинед — баъзеи онҳо беш аз ҳазор сол доранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи answer",
-        "нодуруст C",
-        "нодуруст B"
+        "In the museum of Dushanbe you can see very old pottery — some of it is more than a thousand years old.",
+        "In the museum of Dushanbe you can see very ancient pottery — some of it is more than a thousand years old.",
+        "In the museum of Dushanbe you can see very old pottery — some of it is older than a thousand years.",
+        "In the museum of Dushanbe you can see very old pottery — some of it is more than one thousand years old."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "In the museum of Dushanbe you can see very old pottery — some of it is more than a thousand years old."
+    },
+    {
+      "q": "«Ба ин кулолии кӯҳна нигоҳ карда, ман мефаҳмам, ки бобоҳои мо чӣ қадар зирак ва боистеъдод буданд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Looking at this old pottery, I understand how clever and talented our ancestors were.",
+        "Looking at this old pottery, I understand how clever and gifted our ancestors were.",
+        "Looking at this ancient pottery, I understand how clever and talented our ancestors were.",
+        "Looking at this old pottery, I understand how smart and talented our ancestors were."
+      ],
+      "answer": "Looking at this old pottery, I understand how clever and talented our ancestors were."
+    },
+    {
+      "q": "«Амакам кандакори чӯб аст. Ӯ дар дарҳои чӯбӣ, қуттиҳо ва рафҳои китоб нақшҳои зебо меканад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My uncle is a wood carver. He carves beautiful patterns on wooden doors, boxes and bookshelves.",
+        "My uncle is a wood carver. He carves beautiful patterns on wooden doors, boxes and shelves.",
+        "My uncle is a wood carver. He carves nice patterns on wooden doors, boxes and bookshelves.",
+        "My uncle is a carver. He carves beautiful patterns on wooden doors, boxes and bookshelves."
+      ],
+      "answer": "My uncle is a wood carver. He carves beautiful patterns on wooden doors, boxes and bookshelves."
+    },
+    {
+      "q": "«Кори ӯ хеле душвор аст. Ба он сабр, дасти устувор ва чашми тез лозим аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "His work is very difficult. It needs patience, a steady hand and a good eye.",
+        "His work is very hard. It needs patience, a steady hand and a good eye.",
+        "His work is very difficult. It needs patience, a firm hand and a good eye.",
+        "His work is very difficult. It needs patience, a steady hand and good eyes."
+      ],
+      "answer": "His work is very difficult. It needs patience, a steady hand and a good eye."
+    },
+    {
+      "q": "«Амакам мегӯяд: \"Барои ҳунарманди хуб будан се чиз лозим аст: сабр, муҳаббат ва машқи зиёд.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My uncle says: \"To be a good craftsman, you need three things: patience, love and a lot of practice.\"",
+        "My uncle says: \"To be a good craftsman, you need three things: patience, love and much practice.\"",
+        "My uncle says: \"To be a good master, you need three things: patience, love and a lot of practice.\"",
+        "My uncle says: \"To be a good craftsman, you need three things: patience, kindness and a lot of practice.\""
+      ],
+      "answer": "My uncle says: \"To be a good craftsman, you need three things: patience, love and a lot of practice.\""
+    },
+    {
+      "q": "«Модарам дар куртаҳо ва болишҳои мо кашиши зебо мекунад. Нақшҳои ӯ ҳамеша дурахшон ва зебо ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My mother does beautiful embroidery on our dresses and pillows. Her patterns are always bright and beautiful.",
+        "My mother makes beautiful embroidery on our dresses and pillows. Her patterns are always bright and beautiful.",
+        "My mother does nice embroidery on our dresses and pillows. Her patterns are always bright and beautiful.",
+        "My mother does beautiful embroidery on our clothes and pillows. Her patterns are always bright and beautiful."
+      ],
+      "answer": "My mother does beautiful embroidery on our dresses and pillows. Her patterns are always bright and beautiful."
+    },
+    {
+      "q": "«Дар кишвари мо занон ва духтарони зиёд кашиш мекунанд. Ин анъанаи кӯҳна аст, ки мо онро нигоҳ медорем ва ба кӯдаконамон мегузаронем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In our country many women and girls do embroidery. It is an old tradition which we keep and pass to our children.",
+        "In our country many women and girls do embroidery. It is an ancient tradition which we keep and pass to our children.",
+        "In our country many women and girls make embroidery. It is an old tradition which we keep and pass to our children.",
+        "In our country many women and girls do embroidery. It is an old tradition that we keep and pass to our children."
+      ],
+      "answer": "In our country many women and girls do embroidery. It is an old tradition which we keep and pass to our children."
+    },
+    {
+      "q": "«Моҳи гузашта синфи мо ба намоишгоҳи ҳунари мардумӣ рафт» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Last month our class went to an exhibition of folk art.",
+        "Last month our class went to the exhibition of folk art.",
+        "Last month our class went to an exhibition of national art.",
+        "Last month our class visited an exhibition of folk art."
+      ],
+      "answer": "Last month our class went to an exhibition of folk art."
+    },
+    {
+      "q": "«Мо чизҳои зебои зиёдро дидем: гилемҳои кӯҳна, кулолӣ, қуттиҳои чӯбӣ, куртаҳои кашида ва зеварҳои нуқрагин» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We saw many beautiful things: old carpets, pottery, wooden boxes, embroidered dresses and silver jewellery.",
+        "We saw many beautiful things: old carpets, pottery, wooden boxes, embroidered clothes and silver jewellery.",
+        "We saw many nice things: old carpets, pottery, wooden boxes, embroidered dresses and silver jewellery.",
+        "We saw many beautiful things: old carpets, pottery, wooden boxes, embroidered dresses and gold jewellery."
+      ],
+      "answer": "We saw many beautiful things: old carpets, pottery, wooden boxes, embroidered dresses and silver jewellery."
+    },
+    {
+      "q": "«Роҳбалаҳо ба мо дар бораи таърихи ҳунарҳои мо нақл карданд» чӛ тавр ба англисӣ мешавад?",
+      "options": [
+        "The guides told us about the history of our crafts.",
+        "The guides told us about the history of our art.",
+        "The guides told us about the history of our craft.",
+        "The guides spoke to us about the history of our crafts."
+      ],
+      "answer": "The guides told us about the history of our crafts."
+    },
+    {
+      "q": "«Мо фаҳмидем, ки бобоҳои мо ҳунармандони бузург буданд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We learned that our ancestors were great craftsmen.",
+        "We understood that our ancestors were great craftsmen.",
+        "We learned that our ancestors were great artists.",
+        "We learned that our forefathers were great craftsmen."
+      ],
+      "answer": "We learned that our ancestors were great craftsmen."
+    },
+    {
+      "q": "«Ҳунари онҳо дар Шарқ садҳо сол машҳур буд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Their art was famous in the East for hundreds of years.",
+        "Their art was famous in the East for many years.",
+        "Their art was well-known in the East for hundreds of years.",
+        "Their art was famous in the East during hundreds of years."
+      ],
+      "answer": "Their art was famous in the East for hundreds of years."
+    },
+    {
+      "q": "«Дар намоишгоҳ ман бо як ҳунарманди пир вохӯрдам. Ӯ ба мо ҳикояҳои ҷолиби зиёд дар бораи кори худ нақл кард» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "At the exhibition I met an old craftsman. He told us many interesting stories about his work.",
+        "At the exhibition I met an old master. He told us many interesting stories about his work.",
+        "At the exhibition I met an old craftsman. He told us many interesting stories of his work.",
+        "At the exhibition I met an old craftsman. He told us a lot of interesting stories about his work."
+      ],
+      "answer": "At the exhibition I met an old craftsman. He told us many interesting stories about his work."
+    },
+    {
+      "q": "«Ӯ гуфт: \"Ҳунари мо ганҷи мост. Мо бояд онро барои кӯдакон ва набераҳоямон нигоҳ дорем.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He said: \"Our art is our treasure. We must keep it for our children and grandchildren.\"",
+        "He said: \"Our art is our wealth. We must keep it for our children and grandchildren.\"",
+        "He said: \"Our art is our treasure. We must save it for our children and grandchildren.\"",
+        "He said: \"Our craft is our treasure. We must keep it for our children and grandchildren.\""
+      ],
+      "answer": "He said: \"Our art is our treasure. We must keep it for our children and grandchildren.\""
+    },
+    {
+      "q": "«Ман фикр мекунам, ки ҳунари мардумии мо қисми хеле муҳими фарҳанги мост» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I think that our folk art is a very important part of our culture.",
+        "I think that our folk art is a very important part of our life.",
+        "I think that our folk arts are a very important part of our culture.",
+        "I believe that our folk art is a very important part of our culture."
+      ],
+      "answer": "I think that our folk art is a very important part of our culture."
+    },
+    {
+      "q": "«Он ба мо дар бораи ҳаёт, орзуҳо ва зебоии мардуми мо нақл мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It tells us about the life, the dreams and the beauty of our people.",
+        "It tells us about the life, the hopes and the beauty of our people.",
+        "It tells us about the life, the dreams and the beauty of our country.",
+        "It speaks to us about the life, the dreams and the beauty of our people."
+      ],
+      "answer": "It tells us about the life, the dreams and the beauty of our people."
+    },
+    {
+      "q": "«Мо бояд ба ҳунармандони худ ифтихор кунем. Мо бояд ҳунари онҳоро омӯзем ва онро зинда нигоҳ дорем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must be proud of our craftsmen. We must learn their art and keep it alive.",
+        "We must be proud of our craftsmen. We must study their art and keep it alive.",
+        "We should be proud of our craftsmen. We must learn their art and keep it alive.",
+        "We must be proud of our artists. We must learn their art and keep it alive."
+      ],
+      "answer": "We must be proud of our craftsmen. We must learn their art and keep it alive."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам кандакории чӯбро ба мисли амакам омӯзам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to learn to carve wood like my uncle.",
+        "When I grow up, I want to learn to carve wood as my uncle.",
+        "When I grow up, I want to study carving wood like my uncle.",
+        "When I grow up, I want to learn wood carving like my uncle."
+      ],
+      "answer": "When I grow up, I want to learn to carve wood like my uncle."
+    },
+    {
+      "q": "«Ман мехоҳам бо дастҳои худ чизҳои зебо созам ва онҳоро ба одамон диҳам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to make beautiful things with my own hands and give them to people.",
+        "I want to create beautiful things with my own hands and give them to people.",
+        "I want to make beautiful things with my hands and give them to people.",
+        "I want to make nice things with my own hands and give them to people."
+      ],
+      "answer": "I want to make beautiful things with my own hands and give them to people."
+    },
+    {
+      "q": "«Ман мехоҳам ҳунарманди ҳақиқии Тоҷикистон бошам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to be a real craftsman of Tajikistan.",
+        "I want to be a true craftsman of Tajikistan.",
+        "I want to become a real craftsman of Tajikistan.",
+        "I want to be a real artist of Tajikistan."
+      ],
+      "answer": "I want to be a real craftsman of Tajikistan."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 30
+  "wordsCount": 16
 }
