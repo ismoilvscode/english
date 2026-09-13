@@ -1,386 +1,637 @@
 {
   "id": 30,
-  "title": "Матн ва машқҳо 30",
-  "level": "Миёна - Синфи 4",
+  "title": "Матн 30: Шаҳри ман — Душанбе",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "capital",
+      "tj": "пойтахт",
+      "ex": "Dushanbe is the capital of Tajikistan."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "monument",
+      "tj": "ёдгорӣ",
+      "ex": "There is a big monument in the square."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "theatre",
+      "tj": "театр",
+      "ex": "We go to the theatre in the evening."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "museum",
+      "tj": "музей",
+      "ex": "The museum is near the park."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "flag",
+      "tj": "парчам",
+      "ex": "The flag of Tajikistan is red, white and green."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "independence",
+      "tj": "истиқлолият",
+      "ex": "We celebrate Independence Day in September."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "square",
+      "tj": "майдон",
+      "ex": "The square is big and beautiful."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "building",
+      "tj": "бино",
+      "ex": "This building is very tall."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "hospital",
+      "tj": "беморхона",
+      "ex": "My mother works in the hospital."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "post office",
+      "tj": "почта",
+      "ex": "I send a letter at the post office."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "bank",
+      "tj": "бонк",
+      "ex": "The bank is near the market."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "hotel",
+      "tj": "меҳмонхона",
+      "ex": "The guests live in a big hotel."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "park",
+      "tj": "боғи истироҳат",
+      "ex": "We walk in the park on Sunday."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "fountain",
+      "tj": "фаввора",
+      "ex": "The fountain is in the middle of the park."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
-    },
-    {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
-    },
-    {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "centre",
+      "tj": "марказ",
+      "ex": "The centre of the city is very beautiful."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 30)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Dushanbe is the capital of Tajikistan.",
+      "tj": "Душанбе пойтахти Тоҷикистон аст."
     },
     {
-      "en": "I'm working on lesson 30",
-      "tj": "Ман дарси 30-ро меомӯзам"
+      "en": "There is a big monument in the square.",
+      "tj": "Дар майдон ёдгории калон ҳаст."
+    },
+    {
+      "en": "We go to the theatre in the evening.",
+      "tj": "Мо бегоҳ ба театр меравем."
+    },
+    {
+      "en": "The museum is near the park.",
+      "tj": "Музей дар назди боғи истироҳат аст."
+    },
+    {
+      "en": "The flag of Tajikistan is red, white and green.",
+      "tj": "Парчами Тоҷикистон сурх, сафед ва сабз аст."
+    },
+    {
+      "en": "We celebrate Independence Day in September.",
+      "tj": "Мо Рӯзи истиқлолиятро дар моҳи сентябр ҷашн мегирем."
+    },
+    {
+      "en": "The square is big and beautiful.",
+      "tj": "Майдон калон ва зебо аст."
+    },
+    {
+      "en": "This building is very tall.",
+      "tj": "Ин бино хеле баланд аст."
+    },
+    {
+      "en": "My mother works in the hospital.",
+      "tj": "Модарам дар беморхона кор мекунад."
+    },
+    {
+      "en": "I send a letter at the post office.",
+      "tj": "Ман дар почта мактуб мефиристам."
+    },
+    {
+      "en": "The bank is near the market.",
+      "tj": "Бонк дар назди бозор аст."
+    },
+    {
+      "en": "The guests live in a big hotel.",
+      "tj": "Меҳмонон дар меҳмонхонаи калон зиндагӣ мекунанд."
+    },
+    {
+      "en": "We walk in the park on Sunday.",
+      "tj": "Мо рӯзи якшанбе дар боғи истироҳат қадам мезанем."
+    },
+    {
+      "en": "The fountain is in the middle of the park.",
+      "tj": "Фаввора дар мобайни боғи истироҳат аст."
+    },
+    {
+      "en": "The centre of the city is very beautiful.",
+      "tj": "Маркази шаҳр хеле зебо аст."
+    },
+    {
+      "en": "My city is the most beautiful city in the world.",
+      "tj": "Шаҳри ман зеботарин шаҳр дар ҷаҳон аст."
     }
   ],
   "text": {
-    "en": "Text for lesson 30. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 30 is about Миёна - Синфи 4. I write all words in my notebook. Level 30 text.",
-    "tj": "Матни дарси 30..."
+    "en": "My City — Dushanbe\n\nMy name is Ismoil. I live in Dushanbe. Dushanbe is the capital of Tajikistan. It is a big and beautiful city. There are many streets, squares, parks, museums, theatres and monuments in Dushanbe.\n\nThe centre of the city is very beautiful. There is a big square in the centre. On the square there is a tall monument and a beautiful fountain. Many people come here with their families. Children play and run near the fountain. In the evening the lights are bright and the square is full of people.\n\nThere are many buildings in my city. Some buildings are new and some are old. The tallest building is in the centre. The museum is near the park. In the museum we can see old books, old clothes and many interesting things. We go to the museum with our teacher. We learn about the history of our country. The theatre is near the museum. We go to the theatre in the evening and watch a beautiful play.\n\nMy mother works in the hospital. She is a doctor. She helps sick people. The hospital is near our house. My father works at the bank. The bank is near the market. My aunt works at the post office. She sends letters and presents to many countries. My uncle works in a big hotel. The guests from different countries live in his hotel.\n\nOn Sunday my family and I walk in the park. The park is big and green. There are many trees, flowers and birds in the park. My brother plays with his ball. My sister reads a book on a bench. My mother and father talk and laugh. I take photos of my family. In the middle of the park there is a small lake. We sometimes give bread to the birds and the ducks. It is very interesting to watch them.\n\nEvery year in September we celebrate Independence Day. On this day the flag of Tajikistan — red, white and green — is on every building. There are big holidays in the centre of the city. People sing, dance and say: \"Long live Tajikistan!\" I love my country and my beautiful city. Dushanbe is the best city in the world for me.",
+    "tj": "Шаҳри ман — Душанбе\n\nНоми ман Исмоил аст. Ман дар Душанбе зиндагӣ мекунам. Душанбе пойтахти Тоҷикистон аст. Ин шаҳри калон ва зебо аст. Дар Душанбе кӯчаҳо, майдонҳо, боғҳои истироҳат, музейҳо, театрҳо ва ёдгориҳои зиёд ҳастанд.\n\nМаркази шаҳр хеле зебо аст. Дар марказ майдони калон ҳаст. Дар майдон ёдгории баланд ва фаввораи зебо ҳаст. Мардуми зиёд бо оилаҳояшон ба ин ҷо меоянд. Кӯдакон дар назди фаввора бозӣ мекунанд ва медаванд. Бегоҳ чароғҳо дурахшон ҳастанд ва майдон пур аз мардум аст.\n\nДар шаҳри ман биноҳои зиёд ҳастанд. Баъзе биноҳо нав ва баъзе кӯҳна ҳастанд. Баландтарин бино дар марказ аст. Музей дар назди боғи истироҳат аст. Дар музей мо китобҳои кӯҳна, либосҳои кӯҳна ва чизҳои ҷолиби зиёдро дида метавонем. Мо бо муаллимамон ба музей меравем. Мо дар бораи таърихи кишварамон меомӯзем. Театр дар назди музей аст. Мо бегоҳ ба театр меравем ва намоиши зеборo тамошо мекунем.\n\nМодарам дар беморхона кор мекунад. Ӯ духтур аст. Ӯ ба беморон кӯмак мекунад. Беморхона дар назди хонаи мост. Падарам дар бонк кор мекунад. Бонк дар назди бозор аст. Аммаам дар почта кор мекунад. Ӯ мактубҳо ва тӯҳфаҳоро ба кишварҳои зиёд мефиристад. Амакам дар меҳмонхонаи калон кор мекунад. Меҳмонон аз кишварҳои гуногун дар меҳмонхонаи ӯ зиндагӣ мекунанд.\n\nРӯзи якшанбе ман ва оилаам дар боғи истироҳат қадам мезанем. Боғи истироҳат калон ва сабз аст. Дар боғ дарахтон, гулҳо ва паррандаҳои зиёд ҳастанд. Бародарам бо тӯбаш бозӣ мекунад. Хоҳарам дар курсӣ китоб мехонад. Модар ва падарам суҳбат мекунанд ва механдем. Ман аз оилаам акс мегирам. Дар мобайни боғ кӯли хурд ҳаст. Мо баъзан ба паррандаҳо ва мурғобиҳо нон медиҳем. Тамошо кардани онҳо хеле ҷолиб аст.\n\nҲар сол дар моҳи сентябр мо Рӯзи истиқлолиятро ҷашн мегирем. Дар ин рӯз парчами Тоҷикистон — сурх, сафед ва сабз — дар ҳар бино ҳаст. Дар маркази шаҳр идҳои калон ҳастанд. Мардум суруд мехонанд, рақс мекунанд ва мегӯянд: «Тоҷикистон зинда бод!» Ман кишварам ва шаҳри зебоямро дӯст медорам. Барои ман Душанбе беҳтарин шаҳр дар ҷаҳон аст."
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Душанбе пойтахти Тоҷикистон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи understand",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Dushanbe is the capital of Tajikistan.",
+        "Dushanbe is the city of Tajikistan.",
+        "Dushanbe is a capital of Tajikistan.",
+        "Dushanbe is the capital in Tajikistan."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "Dushanbe is the capital of Tajikistan."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Дар майдон ёдгории калон ҳаст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи explain",
-        "нодуруст B",
-        "нодуруст A"
+        "There is a big monument in the square.",
+        "There is a big fountain in the square.",
+        "There is a big monument in the park.",
+        "There is a tall monument in the square."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "There is a big monument in the square."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Мо бегоҳ ба театр меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи important",
-        "нодуруст C"
+        "We go to the theatre in the evening.",
+        "We go to the museum in the evening.",
+        "We go to the theatre in the morning.",
+        "We go to the park in the evening."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "We go to the theatre in the evening."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Музей дар назди боғи истироҳат аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи different",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The museum is near the park.",
+        "The museum is near the square.",
+        "The theatre is near the park.",
+        "The museum is in the park."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "The museum is near the park."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Парчами Тоҷикистон сурх, сафед ва сабз аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи difficult",
-        "нодуруст C",
-        "нодуруст A"
+        "The flag of Tajikistan is red, white and green.",
+        "The flag of Tajikistan is red, blue and green.",
+        "The flag of Tajikistan is red, white and yellow.",
+        "The flag of Tajikistan is green, white and red."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "The flag of Tajikistan is red, white and green."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Мо Рӯзи истиқлолиятро дар моҳи сентябр ҷашн мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи easy",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "We celebrate Independence Day in September.",
+        "We celebrate Independence Day in October.",
+        "We celebrate Independence Day in May.",
+        "We celebrate Independence Day in spring."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "We celebrate Independence Day in September."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Майдон калон ва зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи interesting",
-        "нодуруст A",
-        "нодуруст B"
+        "The square is big and beautiful.",
+        "The square is small and beautiful.",
+        "The park is big and beautiful.",
+        "The city is big and beautiful."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "The square is big and beautiful."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Ин бино хеле баланд аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи remember",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "This building is very tall.",
+        "This building is very big.",
+        "That building is very tall.",
+        "This house is very tall."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "This building is very tall."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Модарам дар беморхона кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи forget",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "My mother works in the hospital.",
+        "My mother works in the bank.",
+        "My mother works in the post office.",
+        "My sister works in the hospital."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "My mother works in the hospital."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Ман дар почта мактуб мефиристам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи homework"
+        "I send a letter at the post office.",
+        "I send a letter at the bank.",
+        "I send a present at the post office.",
+        "I write a letter at the post office."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "I send a letter at the post office."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Бонк дар назди бозор аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи exercise",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "The bank is near the market.",
+        "The bank is near the park.",
+        "The shop is near the market.",
+        "The bank is near the square."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "The bank is near the market."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Меҳмонон дар меҳмонхонаи калон зиндагӣ мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи text",
-        "нодуруст A",
-        "нодуруст B"
+        "The guests live in a big hotel.",
+        "The guests live in a small hotel.",
+        "The visitors live in a big hotel.",
+        "The guests work in a big hotel."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "The guests live in a big hotel."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Мо рӯзи якшанбе дар боғи истироҳат қадам мезанем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи story",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "We walk in the park on Sunday.",
+        "We walk in the park on Saturday.",
+        "We run in the park on Sunday.",
+        "We walk in the garden on Sunday."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "We walk in the park on Sunday."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Фаввора дар мобайни боғи истироҳат аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи question",
-        "нодуруст A",
-        "нодуруст C"
+        "The fountain is in the middle of the park.",
+        "The fountain is in the centre of the square.",
+        "The monument is in the middle of the park.",
+        "The fountain is near the park."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "The fountain is in the middle of the park."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Маркази шаҳр хеле зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи answer"
+        "The centre of the city is very beautiful.",
+        "The centre of the park is very beautiful.",
+        "The square of the city is very beautiful.",
+        "The centre of the city is very big."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "The centre of the city is very beautiful."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Шаҳри ман зеботарин шаҳр дар ҷаҳон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи understand",
-        "нодуруст C",
-        "нодуруст A"
+        "My city is the most beautiful city in the world.",
+        "My city is the best city in the world.",
+        "My country is the most beautiful city in the world.",
+        "My city is the most beautiful city in the country."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "My city is the most beautiful city in the world."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Дар Душанбе кӯчаҳо, майдонҳо, боғҳои истироҳат, музейҳо, театрҳо ва ёдгориҳои зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи explain",
-        "нодуруст A"
+        "There are many streets, squares, parks, museums, theatres and monuments in Dushanbe.",
+        "There are many streets, squares, parks, museums, theatres and buildings in Dushanbe.",
+        "There are many streets, houses, parks, museums, theatres and monuments in Dushanbe.",
+        "There are many streets, squares, parks, hospitals, theatres and monuments in Dushanbe."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "There are many streets, squares, parks, museums, theatres and monuments in Dushanbe."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Дар майдон ёдгории баланд ва фаввораи зебо ҳаст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи important",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "On the square there is a tall monument and a beautiful fountain.",
+        "On the square there is a big monument and a beautiful fountain.",
+        "In the square there is a tall monument and a beautiful fountain.",
+        "On the square there is a tall monument and a small fountain."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "On the square there is a tall monument and a beautiful fountain."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Кӯдакон дар назди фаввора бозӣ мекунанд ва медаванд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи different",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "Children play and run near the fountain.",
+        "Children play and jump near the fountain.",
+        "The children play and run near the fountain.",
+        "Children play and run near the monument."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "Children play and run near the fountain."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Бегоҳ чароғҳо дурахшон ҳастанд ва майдон пур аз мардум аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи difficult",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "In the evening the lights are bright and the square is full of people.",
+        "In the evening the lights are bright and the park is full of people.",
+        "In the morning the lights are bright and the square is full of people.",
+        "In the evening the lights are good and the square is full of people."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "In the evening the lights are bright and the square is full of people."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Дар шаҳри ман биноҳои зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи easy",
-        "нодуруст A"
+        "There are many buildings in my city.",
+        "There are many houses in my city.",
+        "There are many buildings in my country.",
+        "There are many buildings in the centre."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "There are many buildings in my city."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Баъзе биноҳо нав ва баъзе кӯҳна ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи interesting",
-        "нодуруст B"
+        "Some buildings are new and some are old.",
+        "Some houses are new and some are old.",
+        "Some buildings are new and some are big.",
+        "All buildings are new and old."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "Some buildings are new and some are old."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Баландтарин бино дар марказ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи remember",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "The tallest building is in the centre.",
+        "The tallest building is in the square.",
+        "The biggest building is in the centre.",
+        "The tall building is in the centre."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "The tallest building is in the centre."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Дар музей мо китобҳои кӯҳна, либосҳои кӯҳна ва чизҳои ҷолиби зиёдро дида метавонем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи forget"
+        "In the museum we can see old books, old clothes and many interesting things.",
+        "In the museum we can see new books, old clothes and many interesting things.",
+        "In the museum we can see old books, new clothes and many interesting things.",
+        "In the museum we can see old books, old clothes and many beautiful things."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "In the museum we can see old books, old clothes and many interesting things."
+    },
+    {
+      "q": "«Мо бо муаллимамон ба музей меравем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We go to the museum with our teacher.",
+        "We go to the museum with our friends.",
+        "We go to the theatre with our teacher.",
+        "We go to the museum with our classmates."
+      ],
+      "answer": "We go to the museum with our teacher."
+    },
+    {
+      "q": "«Мо дар бораи таърихи кишварамон меомӯзем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We learn about the history of our country.",
+        "We learn about the history of our city.",
+        "We learn about the history of our school.",
+        "We study about the history of our country."
+      ],
+      "answer": "We learn about the history of our country."
+    },
+    {
+      "q": "«Мо бегоҳ ба театр меравем ва намоиши зеборo тамошо мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We go to the theatre in the evening and watch a beautiful play.",
+        "We go to the theatre in the morning and watch a beautiful play.",
+        "We go to the museum in the evening and watch a beautiful play.",
+        "We go to the theatre in the evening and see a beautiful play."
+      ],
+      "answer": "We go to the theatre in the evening and watch a beautiful play."
+    },
+    {
+      "q": "«Модарам дар беморхона кор мекунад. Ӯ духтур аст. Ӯ ба беморон кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My mother works in the hospital. She is a doctor. She helps sick people.",
+        "My mother works in the hospital. She is a nurse. She helps sick people.",
+        "My mother works in the hospital. She is a doctor. She helps old people.",
+        "My sister works in the hospital. She is a doctor. She helps sick people."
+      ],
+      "answer": "My mother works in the hospital. She is a doctor. She helps sick people."
+    },
+    {
+      "q": "«Падарам дар бонк кор мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father works at the bank.",
+        "My father works in the bank.",
+        "My father works at the post office.",
+        "My brother works at the bank."
+      ],
+      "answer": "My father works at the bank."
+    },
+    {
+      "q": "«Аммаам дар почта кор мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My aunt works at the post office.",
+        "My aunt works at the bank.",
+        "My aunt works in the hospital.",
+        "My uncle works at the post office."
+      ],
+      "answer": "My aunt works at the post office."
+    },
+    {
+      "q": "«Амакам дар меҳмонхонаи калон кор мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My uncle works in a big hotel.",
+        "My uncle works in a big bank.",
+        "My aunt works in a big hotel.",
+        "My uncle works in a small hotel."
+      ],
+      "answer": "My uncle works in a big hotel."
+    },
+    {
+      "q": "«Меҳмонон аз кишварҳои гуногун дар меҳмонхонаи ӯ зиндагӣ мекунанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The guests from different countries live in his hotel.",
+        "The guests from different cities live in his hotel.",
+        "The visitors from different countries live in his hotel.",
+        "The guests from different countries work in his hotel."
+      ],
+      "answer": "The guests from different countries live in his hotel."
+    },
+    {
+      "q": "«Рӯзи якшанбе ман ва оилаам дар боғи истироҳат қадам мезанем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "On Sunday my family and I walk in the park.",
+        "On Saturday my family and I walk in the park.",
+        "On Sunday my family and I run in the park.",
+        "On Sunday my family and I walk in the garden."
+      ],
+      "answer": "On Sunday my family and I walk in the park."
+    },
+    {
+      "q": "«Боғи истироҳат калон ва сабз аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The park is big and green.",
+        "The park is big and beautiful.",
+        "The garden is big and green.",
+        "The park is small and green."
+      ],
+      "answer": "The park is big and green."
+    },
+    {
+      "q": "«Дар боғ дарахтон, гулҳо ва паррандаҳои зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "There are many trees, flowers and birds in the park.",
+        "There are many trees, flowers and birds in the garden.",
+        "There are many trees, flowers and ducks in the park.",
+        "There are many trees, grass and birds in the park."
+      ],
+      "answer": "There are many trees, flowers and birds in the park."
+    },
+    {
+      "q": "«Бародарам бо тӯбаш бозӣ мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My brother plays with his ball.",
+        "My brother plays with his cat.",
+        "My sister plays with her ball.",
+        "My brother plays with his dog."
+      ],
+      "answer": "My brother plays with his ball."
+    },
+    {
+      "q": "«Хоҳарам дар курсӣ китоб мехонад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My sister reads a book on a bench.",
+        "My sister reads a book on a chair.",
+        "My brother reads a book on a bench.",
+        "My sister reads a letter on a bench."
+      ],
+      "answer": "My sister reads a book on a bench."
+    },
+    {
+      "q": "«Модар ва падарам суҳбат мекунанд ва механдем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My mother and father talk and laugh.",
+        "My mother and father talk and smile.",
+        "My mother and father work and laugh.",
+        "My mother and father walk and laugh."
+      ],
+      "answer": "My mother and father talk and laugh."
+    },
+    {
+      "q": "«Ман аз оилаам акс мегирам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I take photos of my family.",
+        "I take a photo of my family.",
+        "I take photos of my friends.",
+        "I make photos of my family."
+      ],
+      "answer": "I take photos of my family."
+    },
+    {
+      "q": "«Дар мобайни боғ кӯли хурд ҳаст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In the middle of the park there is a small lake.",
+        "In the middle of the park there is a big lake.",
+        "In the centre of the park there is a small lake.",
+        "In the middle of the garden there is a small lake."
+      ],
+      "answer": "In the middle of the park there is a small lake."
+    },
+    {
+      "q": "«Мо баъзан ба паррандаҳо ва мурғобиҳо нон медиҳем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We sometimes give bread to the birds and the ducks.",
+        "We often give bread to the birds and the ducks.",
+        "We sometimes give bread to the birds and the fish.",
+        "We sometimes give water to the birds and the ducks."
+      ],
+      "answer": "We sometimes give bread to the birds and the ducks."
+    },
+    {
+      "q": "«Тамошо кардани онҳо хеле ҷолиб аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It is very interesting to watch them.",
+        "It is very interesting to see them.",
+        "It is very beautiful to watch them.",
+        "It is very interesting to watch it."
+      ],
+      "answer": "It is very interesting to watch them."
+    },
+    {
+      "q": "«Ҳар сол дар моҳи сентябр мо Рӯзи истиқлолиятро ҷашн мегирем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Every year in September we celebrate Independence Day.",
+        "Every year in October we celebrate Independence Day.",
+        "Every year in September we celebrate a big holiday.",
+        "Every year in spring we celebrate Independence Day."
+      ],
+      "answer": "Every year in September we celebrate Independence Day."
+    },
+    {
+      "q": "«Дар ин рӯз парчами Тоҷикистон — сурх, сафед ва сабз — дар ҳар бино ҳаст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "On this day the flag of Tajikistan — red, white and green — is on every building.",
+        "On this day the flag of Tajikistan — red, white and green — is on every house.",
+        "On this day the flag of Tajikistan — red, blue and green — is on every building.",
+        "On this day the flag of Tajikistan — green, white and red — is on every building."
+      ],
+      "answer": "On this day the flag of Tajikistan — red, white and green — is on every building."
+    },
+    {
+      "q": "«Дар маркази шаҳр идҳои калон ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "There are big holidays in the centre of the city.",
+        "There are big holidays in the square of the city.",
+        "There are big parties in the centre of the city.",
+        "There are big holidays in the park of the city."
+      ],
+      "answer": "There are big holidays in the centre of the city."
+    },
+    {
+      "q": "«Мардум суруд мехонанд, рақс мекунанд ва мегӯянд: \"Тоҷикистон зинда бод!\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "People sing, dance and say: \"Long live Tajikistan!\"",
+        "People sing, dance and say: \"Long live Dushanbe!\"",
+        "People sing, laugh and say: \"Long live Tajikistan!\"",
+        "People work, dance and say: \"Long live Tajikistan!\""
+      ],
+      "answer": "People sing, dance and say: \"Long live Tajikistan!\""
+    },
+    {
+      "q": "«Ман кишварам ва шаҳри зебоямро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I love my country and my beautiful city.",
+        "I love my country and my big city.",
+        "I love my school and my beautiful city.",
+        "I love my country and my beautiful village."
+      ],
+      "answer": "I love my country and my beautiful city."
+    },
+    {
+      "q": "«Барои ман Душанбе беҳтарин шаҳр дар ҷаҳон аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Dushanbe is the best city in the world for me.",
+        "Dushanbe is the best city in the country for me.",
+        "Dushanbe is the most beautiful city in the world for me.",
+        "Dushanbe is the best place in the world for me."
+      ],
+      "answer": "Dushanbe is the best city in the world for me."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 24
+  "wordsCount": 15
 }
