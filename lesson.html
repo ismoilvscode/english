@@ -188,6 +188,13 @@
 
 <script>
 // ============================================
+// APP VERSION — ин рақамро дар app.js, lesson.html,
+// test.html якхела нигоҳ доред ва ҳар бор ки маълумоти
+// data/*.json-ро иваз мекунед, зиёд кунед.
+// ============================================
+const APP_VERSION = 4;
+
+// ============================================
 // FIREBASE CONFIG
 // ============================================
 const firebaseConfig = {
@@ -361,7 +368,7 @@ async function loadLesson() {
   try {
     // ✅ АВВАЛ — аз файли алоҳидаи дарс
     try {
-      const r = await fetch(`data/lessons/lesson-${LESSON_ID}.json`);
+      const r = await fetch(`data/lessons/lesson-${LESSON_ID}.json?v=${APP_VERSION}`);
       if (r.ok) {
         lessonData = await r.json();
         console.log('✅ Аз файли алоҳида бор шуд: lesson-' + LESSON_ID + '.json');
@@ -373,7 +380,7 @@ async function loadLesson() {
     // ✅ АГАР НАБОШАД — аз lessons.json
     if (!lessonData) {
       if (!ALL_LESSONS) {
-        const r = await fetch('data/lessons.json');
+        const r = await fetch(`data/lessons.json?v=${APP_VERSION}`);
         if (!r.ok) throw new Error('lessons.json ёфт нашуд');
         const data = await r.json();
         ALL_LESSONS = data.lessons || {};
@@ -519,7 +526,7 @@ async function startTest() {
     // Агар дарси ҷорӣ exercises надошта бошад — аз файли алоҳида бор кунем
     if (currentLessonExercises.length === 0) {
       try {
-        const r = await fetch(`data/lessons/lesson-${LESSON_ID}.json`);
+        const r = await fetch(`data/lessons/lesson-${LESSON_ID}.json?v=${APP_VERSION}`);
         if (r.ok) {
           const data = await r.json();
           if (Array.isArray(data.exercises) && data.exercises.length > 0) {
@@ -599,7 +606,7 @@ async function startTest() {
         // Агар дар ALL_LESSONS набошад — аз файли алоҳида бор кунем
         if (!lesson) {
           try {
-            const r = await fetch(`data/lessons/lesson-${id}.json`);
+            const r = await fetch(`data/lessons/lesson-${id}.json?v=${APP_VERSION}`);
             if (r.ok) {
               lesson = await r.json();
             }
