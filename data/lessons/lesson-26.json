@@ -1,356 +1,546 @@
 {
   "id": 26,
-  "title": "Матн ва машқҳо 26",
-  "level": "Миёна - Синфи 4",
+  "title": "Матн 26: Оилаи ман ва хонаи мо",
+  "level": "Ибтидоӣ - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "living room",
+      "tj": "ҳуҷраи меҳмонхона",
+      "ex": "We have a big living room."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "bedroom",
+      "tj": "ҳуҷраи хоб",
+      "ex": "My bedroom is small and clean."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "face",
+      "tj": "рӯй",
+      "ex": "I wash my face in the morning."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "math",
+      "tj": "математика",
+      "ex": "Math is my favourite lesson."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "then",
+      "tj": "баъд",
+      "ex": "I eat breakfast, then I go to school."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "after",
+      "tj": "баъд аз",
+      "ex": "After school I come home."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
-    },
-    {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "animal",
+      "tj": "ҳайвон",
+      "ex": "The horse is a big animal."
     },
     {
       "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
-    },
-    {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
-    },
-    {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
-    },
-    {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
-    },
-    {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
-    },
-    {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
-    },
-    {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "tj": "вазифаи хонагӣ",
+      "ex": "I do my homework in the evening."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 26)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "I live in Dushanbe with my family.",
+      "tj": "Ман дар Душанбе бо оилаам зиндагӣ мекунам."
     },
     {
-      "en": "I'm working on lesson 26",
-      "tj": "Ман дарси 26-ро меомӯзам"
+      "en": "Our house is big and beautiful.",
+      "tj": "Хонаи мо калон ва зебо аст."
+    },
+    {
+      "en": "My mother cooks dinner in the kitchen.",
+      "tj": "Модарам дар ошхона хӯроки шом мепазад."
+    },
+    {
+      "en": "My father works in the city.",
+      "tj": "Падарам дар шаҳр кор мекунад."
+    },
+    {
+      "en": "He helps sick people.",
+      "tj": "Ӯ ба беморон кӯмак мекунад."
+    },
+    {
+      "en": "I study English, Tajik and math.",
+      "tj": "Ман англисӣ, тоҷикӣ ва математика меомӯзам."
+    },
+    {
+      "en": "After school I come home.",
+      "tj": "Баъд аз мактаб ман ба хона меоям."
+    },
+    {
+      "en": "I do my homework in the evening.",
+      "tj": "Ман бегоҳ вазифаи хонагиамро иҷро мекунам."
+    },
+    {
+      "en": "On Saturday and Sunday we visit our grandmother and grandfather.",
+      "tj": "Рӯзи шанбе ва якшанбе мо биби ва бобоямонро дидан мекунем."
+    },
+    {
+      "en": "We go to the village by car.",
+      "tj": "Мо ба деҳа бо мошин меравем."
+    },
+    {
+      "en": "In summer we sometimes go to the lake.",
+      "tj": "Дар тобистон мо баъзан ба кӯл меравем."
+    },
+    {
+      "en": "I love my family and our home.",
+      "tj": "Ман оилаам ва хонаи моро дӯст медорам."
     }
   ],
   "text": {
-    "en": "Text for lesson 26. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 26 is about Миёна - Синфи 4. I write all words in my notebook. Level 26 text.",
-    "tj": "Матни дарси 26..."
+    "en": "My Family and Our Home\n\nI have a big family. My name is Ismoil. I am a pupil. I live in Dushanbe with my mother, father, sister and brother. My grandmother and grandfather live in a village near the city.\n\nOur house is big and beautiful. We have a living room, a kitchen, a bathroom and three bedrooms. In the living room there is a big table and six chairs. On the table we have bread, milk, cheese and fruits. My mother cooks dinner in the kitchen. She bakes bread every morning. My father works in the city. He is a doctor. He helps sick people. My sister is a student. She reads books and writes letters to her friends. My brother is small. He plays with his cat and dog in the garden. He likes to jump and run.\n\nEvery morning I get up early. I wash my hands and face. I eat breakfast with my family. I drink tea with bread and butter. Then I take my bag and go to school. I study English, Tajik and math. I like English. My teacher is very kind. She explains new words and we repeat them. After school I come home. I eat lunch and rest. In the evening I do my homework. I read a book and write exercises. Sometimes I help my mother in the kitchen. We talk about the weather and about our day.\n\nOn Saturday and Sunday we visit our grandmother and grandfather. We go to the village by car. The journey is short and beautiful. We see mountains, forests and a lake. In the village we help our grandmother in the garden. She has a cow, sheep and a horse. My grandfather feeds the animals every morning. We pick apples and vegetables. My grandmother cooks a good dinner. We eat together and laugh. In the evening we go home. It is a good day.\n\nIn summer we sometimes go to the lake. We swim and play. My father takes photos. In winter it is cold and snowy. We play in the snow and drink hot tea. I love my family and our home.",
+    "tj": "Оилаи ман ва хонаи мо\n\nМан оилаи калон дорам. Номи ман Исмоил аст. Ман хонанда ҳастам. Ман дар Душанбе бо модар, падар, хоҳар ва бародарам зиндагӣ мекунам. Биби ва бобои ман дар деҳае дар назди шаҳр зиндагӣ мекунанд.\n\nХонаи мо калон ва зебо аст. Мо як ҳуҷраи меҳмонхона, ошхона, ҳуҷраи оббозӣ ва се ҳуҷраи хоб дорем. Дар ҳуҷраи меҳмонхона мизҳои калон ва шаш курсӣ ҳаст. Дар миз мо нон, шир, панир ва меваҳо дорем. Модарам дар ошхона хӯроки шом мепазад. Ӯ ҳар субҳ нон мепазад. Падарам дар шаҳр кор мекунад. Ӯ духтур аст. Ӯ ба беморон кӯмак мекунад. Хоҳарам донишҷӯ аст. Ӯ китобҳо мехонад ва ба дӯстонаш мактуб менависад. Бародарам хурд аст. Ӯ бо гурба ва сагаш дар боғ бозӣ мекунад. Ӯ ҷаҳидан ва давиданро дӯст медорад.\n\nҲар субҳ ман барвақт аз ҷой мехезам. Дастҳо ва рӯямро мешӯям. Ман бо оилаам наҳорӣ мехӯрам. Ман чойро бо нон ва равған менӯшам. Баъд халтаамро мегирам ва ба мактаб меравам. Ман англисӣ, тоҷикӣ ва математика меомӯзам. Ман англисиро дӯст медорам. Муаллимам хеле меҳрубон аст. Ӯ калимаҳои навро шарҳ медиҳад ва мо онҳоро такрор мекунем. Баъд аз мактаб ман ба хона меоям. Ман хӯроки нисфирӯзӣ мехӯрам ва дам мегирам. Бегоҳ ман вазифаи хонагиамро иҷро мекунам. Ман китоб мехонам ва машқҳоро менависам. Баъзан ба модарам дар ошхона кӯмак мекунам. Мо дар бораи обу ҳаво ва рӯзи худ суҳбат мекунем.\n\nРӯзи шанбе ва якшанбе мо биби ва бобоямонро дидан мекунем. Мо ба деҳа бо мошин меравем. Сафар кӯтоҳ ва зебо аст. Мо кӯҳҳо, ҷангалҳо ва кӯлро мебинем. Дар деҳа мо ба бибиамон дар боғ кӯмак мекунем. Ӯ гов, гӯсфанд ва асп дорад. Бобоям ҳар субҳ ба ҳайвонот хӯрок медиҳад. Мо себҳо ва сабзавотро мечинам. Бибиам хӯроки хуб мепазад. Мо якҷоя мехӯрем ва механдем. Бегоҳ мо ба хона меравем. Ин рӯзи хуб аст.\n\nДар тобистон мо баъзан ба кӯл меравем. Мо шино мекунем ва бозӣ мекунем. Падарам аксҳо мегирад. Дар зимистон хунук ва барфнок аст. Мо дар барф бозӣ мекунем ва чойи гарм менӯшем. Ман оилаам ва хонаи моро дӯст медорам."
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Ман дар Душанбе бо оилаам зиндагӣ мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи understand"
+        "I live in Dushanbe with my family.",
+        "I live in Dushanbe with my mother.",
+        "I live in the village with my family.",
+        "I work in Dushanbe with my family."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "I live in Dushanbe with my family."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Хонаи мо калон ва зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи explain",
-        "нодуруст A",
-        "нодуруст B"
+        "Our house is big and beautiful.",
+        "Our house is small and beautiful.",
+        "Our garden is big and beautiful.",
+        "Our house is big and new."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "Our house is big and beautiful."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Модарам дар ошхона хӯроки шом мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи important",
-        "нодуруст B",
-        "нодуруст C"
+        "My mother cooks dinner in the kitchen.",
+        "My mother cooks lunch in the kitchen.",
+        "My grandmother cooks dinner in the kitchen.",
+        "My mother bakes dinner in the kitchen."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "My mother cooks dinner in the kitchen."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Падарам дар шаҳр кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи different"
+        "My father works in the city.",
+        "My father works in the village.",
+        "My brother works in the city.",
+        "My father lives in the city."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "My father works in the city."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Ӯ ба беморон кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи difficult",
-        "нодуруст C"
+        "He helps sick people.",
+        "She helps sick people.",
+        "He helps old people.",
+        "He saves sick people."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "He helps sick people."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Ман англисӣ, тоҷикӣ ва математика меомӯзам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи easy",
-        "нодуруст A"
+        "I study English, Tajik and math.",
+        "I study English, Tajik and history.",
+        "I learn English, Tajik and math.",
+        "I study English, Russian and math."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "I study English, Tajik and math."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Баъд аз мактаб ман ба хона меоям» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи interesting",
-        "нодуруст B",
-        "нодуруст C"
+        "After school I come home.",
+        "After school I go home.",
+        "Before school I come home.",
+        "After school I come to school."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "After school I come home."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Ман бегоҳ вазифаи хонагиамро иҷро мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи remember",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "I do my homework in the evening.",
+        "I do my homework in the morning.",
+        "I do my homework in the afternoon.",
+        "I write my homework in the evening."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "I do my homework in the evening."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Рӯзи шанбе ва якшанбе мо биби ва бобоямонро дидан мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи forget",
-        "нодуруст B"
+        "On Saturday and Sunday we visit our grandmother and grandfather.",
+        "On Monday and Tuesday we visit our grandmother and grandfather.",
+        "On Saturday and Sunday we visit our mother and father.",
+        "On Saturday and Sunday we visit our friends."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "On Saturday and Sunday we visit our grandmother and grandfather."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Мо ба деҳа бо мошин меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи homework",
-        "нодуруст B",
-        "нодуруст A"
+        "We go to the village by car.",
+        "We go to the city by car.",
+        "We go to the village by bus.",
+        "We go to the village by train."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "We go to the village by car."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Дар тобистон мо баъзан ба кӯл меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи exercise"
+        "In summer we sometimes go to the lake.",
+        "In summer we often go to the lake.",
+        "In spring we sometimes go to the lake.",
+        "In summer we sometimes go to the river."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "In summer we sometimes go to the lake."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Ман оилаам ва хонаи моро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи text",
-        "нодуруст A"
+        "I love my family and our home.",
+        "I love my family and our house.",
+        "I love my mother and our home.",
+        "I love my family and our garden."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "I love my family and our home."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Биби ва бобои ман дар деҳае дар назди шаҳр зиндагӣ мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи story"
+        "My grandmother and grandfather live in a village near the city.",
+        "My grandmother and grandfather live in a village near the lake.",
+        "My mother and father live in a village near the city.",
+        "My grandmother and grandfather work in a village near the city."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "My grandmother and grandfather live in a village near the city."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Дар ҳуҷраи меҳмонхона мизҳои калон ва шаш курсӣ ҳаст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи question",
-        "нодуруст A"
+        "In the living room there is a big table and six chairs.",
+        "In the bedroom there is a big table and six chairs.",
+        "In the kitchen there is a big table and six chairs.",
+        "In the living room there is a small table and six chairs."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "In the living room there is a big table and six chairs."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Ӯ ҳар субҳ нон мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи answer",
-        "нодуруст A"
+        "She bakes bread every morning.",
+        "She bakes bread every evening.",
+        "He bakes bread every morning.",
+        "She cooks bread every morning."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "She bakes bread every morning."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Хоҳарам донишҷӯ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи understand",
-        "нодуруст A",
-        "нодуруст C"
+        "My sister is a student.",
+        "My sister is a pupil.",
+        "My brother is a student.",
+        "My sister is a teacher."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "My sister is a student."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Ӯ китобҳо мехонад ва ба дӯстонаш мактуб менависад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи explain",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "She reads books and writes letters to her friends.",
+        "She reads books and writes letters to her mother.",
+        "He reads books and writes letters to his friends.",
+        "She reads letters and writes books to her friends."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "She reads books and writes letters to her friends."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Бародарам хурд аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи important",
-        "нодуруст A",
-        "нодуруст B"
+        "My brother is small.",
+        "My brother is big.",
+        "My sister is small.",
+        "My brother is young."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "My brother is small."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Ӯ бо гурба ва сагаш дар боғ бозӣ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи different"
+        "He plays with his cat and dog in the garden.",
+        "He plays with his cat and dog in the house.",
+        "She plays with her cat and dog in the garden.",
+        "He plays with his cat and bird in the garden."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "He plays with his cat and dog in the garden."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Ӯ ҷаҳидан ва давиданро дӯст медорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи difficult"
+        "He likes to jump and run.",
+        "He likes to jump and swim.",
+        "She likes to jump and run.",
+        "He likes to play and run."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "He likes to jump and run."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Ҳар субҳ ман барвақт аз ҷой мехезам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи easy",
-        "нодуруст C",
-        "нодуруст B"
+        "Every morning I get up early.",
+        "Every morning I get up late.",
+        "Every evening I get up early.",
+        "Every morning I wake up early."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "Every morning I get up early."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Ман дастҳо ва рӯямро мешӯям» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи interesting",
-        "нодуруст C"
+        "I wash my hands and face.",
+        "I wash my hands and hair.",
+        "I wash my face and hair.",
+        "I clean my hands and face."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "I wash my hands and face."
+    },
+    {
+      "q": "«Ман чойро бо нон ва равған менӯшам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I drink tea with bread and butter.",
+        "I drink tea with bread and cheese.",
+        "I drink milk with bread and butter.",
+        "I drink tea with bread and milk."
+      ],
+      "answer": "I drink tea with bread and butter."
+    },
+    {
+      "q": "«Баъд халтаамро мегирам ва ба мактаб меравам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Then I take my bag and go to school.",
+        "Then I take my book and go to school.",
+        "Then I put my bag and go to school.",
+        "Then I take my bag and go to the city."
+      ],
+      "answer": "Then I take my bag and go to school."
+    },
+    {
+      "q": "«Муаллимам хеле меҳрубон аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My teacher is very kind.",
+        "My teacher is very clever.",
+        "My mother is very kind.",
+        "My teacher is very friendly."
+      ],
+      "answer": "My teacher is very kind."
+    },
+    {
+      "q": "«Ӯ калимаҳои навро шарҳ медиҳад ва мо онҳоро такрор мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "She explains new words and we repeat them.",
+        "She explains old words and we repeat them.",
+        "He explains new words and we repeat them.",
+        "She explains new words and we write them."
+      ],
+      "answer": "She explains new words and we repeat them."
+    },
+    {
+      "q": "«Ман хӯроки нисфирӯзӣ мехӯрам ва дам мегирам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I eat lunch and rest.",
+        "I eat breakfast and rest.",
+        "I eat dinner and rest.",
+        "I eat lunch and sleep."
+      ],
+      "answer": "I eat lunch and rest."
+    },
+    {
+      "q": "«Ман китоб мехонам ва машқҳоро менависам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I read a book and write exercises.",
+        "I read a book and write letters.",
+        "I read a letter and write exercises.",
+        "I read a book and do exercises."
+      ],
+      "answer": "I read a book and write exercises."
+    },
+    {
+      "q": "«Баъзан ба модарам дар ошхона кӯмак мекунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Sometimes I help my mother in the kitchen.",
+        "Often I help my mother in the kitchen.",
+        "Sometimes I help my mother in the garden.",
+        "Sometimes I help my grandmother in the kitchen."
+      ],
+      "answer": "Sometimes I help my mother in the kitchen."
+    },
+    {
+      "q": "«Мо дар бораи обу ҳаво ва рӯзи худ суҳбат мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We talk about the weather and about our day.",
+        "We talk about the weather and about our city.",
+        "We talk about the lesson and about our day.",
+        "We talk about the weather and about our school."
+      ],
+      "answer": "We talk about the weather and about our day."
+    },
+    {
+      "q": "«Сафар кӯтоҳ ва зебо аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The journey is short and beautiful.",
+        "The journey is long and beautiful.",
+        "The trip is short and beautiful.",
+        "The journey is short and good."
+      ],
+      "answer": "The journey is short and beautiful."
+    },
+    {
+      "q": "«Мо кӯҳҳо, ҷангалҳо ва кӯлро мебинем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We see mountains, forests and a lake.",
+        "We see mountains, forests and a river.",
+        "We see mountains, gardens and a lake.",
+        "We see fields, forests and a lake."
+      ],
+      "answer": "We see mountains, forests and a lake."
+    },
+    {
+      "q": "«Дар деҳа мо ба бибиамон дар боғ кӯмак мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In the village we help our grandmother in the garden.",
+        "In the village we help our grandmother in the kitchen.",
+        "In the village we help our grandfather in the garden.",
+        "In the city we help our grandmother in the garden."
+      ],
+      "answer": "In the village we help our grandmother in the garden."
+    },
+    {
+      "q": "«Ӯ гов, гӯсфанд ва асп дорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "She has a cow, sheep and a horse.",
+        "She has a cow, sheep and a dog.",
+        "He has a cow, sheep and a horse.",
+        "She has a horse, sheep and a cow."
+      ],
+      "answer": "She has a cow, sheep and a horse."
+    },
+    {
+      "q": "«Бобоям ҳар субҳ ба ҳайвонот хӯрок медиҳад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandfather feeds the animals every morning.",
+        "My grandfather feeds the animals every evening.",
+        "My grandmother feeds the animals every morning.",
+        "My grandfather feeds the horse every morning."
+      ],
+      "answer": "My grandfather feeds the animals every morning."
+    },
+    {
+      "q": "«Мо себҳо ва сабзавотро мечинам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We pick apples and vegetables.",
+        "We pick apples and fruits.",
+        "We pick fruits and vegetables.",
+        "We eat apples and vegetables."
+      ],
+      "answer": "We pick apples and vegetables."
+    },
+    {
+      "q": "«Бибиам хӯроки хуб мепазад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandmother cooks a good dinner.",
+        "My grandmother cooks a good lunch.",
+        "My mother cooks a good dinner.",
+        "My grandmother bakes a good dinner."
+      ],
+      "answer": "My grandmother cooks a good dinner."
+    },
+    {
+      "q": "«Мо якҷоя мехӯрем ва механдем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We eat together and laugh.",
+        "We eat together and smile.",
+        "We cook together and laugh.",
+        "We eat together and talk."
+      ],
+      "answer": "We eat together and laugh."
+    },
+    {
+      "q": "«Бегоҳ мо ба хона меравем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In the evening we go home.",
+        "In the morning we go home.",
+        "In the evening we go to the village.",
+        "In the evening we come home."
+      ],
+      "answer": "In the evening we go home."
+    },
+    {
+      "q": "«Ин рӯзи хуб аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It is a good day.",
+        "It is a bad day.",
+        "It is a good morning.",
+        "It is a good evening."
+      ],
+      "answer": "It is a good day."
+    },
+    {
+      "q": "«Мо шино мекунем ва бозӣ мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We swim and play.",
+        "We swim and run.",
+        "We jump and play.",
+        "We swim and laugh."
+      ],
+      "answer": "We swim and play."
+    },
+    {
+      "q": "«Падарам аксҳо мегирад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father takes photos.",
+        "My father takes a photo.",
+        "My mother takes photos.",
+        "My father makes photos."
+      ],
+      "answer": "My father takes photos."
+    },
+    {
+      "q": "«Дар зимистон хунук ва барфнок аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In winter it is cold and snowy.",
+        "In winter it is cold and rainy.",
+        "In autumn it is cold and snowy.",
+        "In winter it is warm and snowy."
+      ],
+      "answer": "In winter it is cold and snowy."
+    },
+    {
+      "q": "«Мо дар барф бозӣ мекунем ва чойи гарм менӯшем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We play in the snow and drink hot tea.",
+        "We play in the snow and drink cold tea.",
+        "We play in the garden and drink hot tea.",
+        "We play in the snow and eat hot bread."
+      ],
+      "answer": "We play in the snow and drink hot tea."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 22
+  "wordsCount": 8
 }
