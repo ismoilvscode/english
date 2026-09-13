@@ -1,401 +1,622 @@
 {
   "id": 53,
-  "title": "Муоширати воқеӣ 53",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 53: Ватани ман — Тоҷикистон",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "motherland",
+      "tj": "Ватан",
+      "ex": "Tajikistan is my motherland."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "to be proud of",
+      "tj": "ифтихор кардан ба",
+      "ex": "I am proud of my motherland."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "ancient",
+      "tj": "қадимӣ",
+      "ex": "Tajikistan is an ancient country."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "independent",
+      "tj": "мустақил",
+      "ex": "Tajikistan is an independent country."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "symbol",
+      "tj": "рамз",
+      "ex": "The flag is a symbol of our country."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "coat of arms",
+      "tj": "нишони давлатӣ",
+      "ex": "Every country has its own coat of arms."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "anthem",
+      "tj": "суруди миллӣ",
+      "ex": "We sing the anthem on holidays."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "ancestor",
+      "tj": "бобо / аҷдод",
+      "ex": "Our ancestors were great people."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "generation",
+      "tj": "насл",
+      "ex": "We must keep our traditions for the next generation."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "to develop",
+      "tj": "рушд кардан",
+      "ex": "Our country is developing very quickly."
     },
     {
       "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "tj": "рушд",
+      "ex": "The development of our country is important."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "peace",
+      "tj": "сулҳ",
+      "ex": "We want peace in the whole world."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "independence",
+      "tj": "истиқлолият",
+      "ex": "We celebrate Independence Day in September."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "to defend",
+      "tj": "ҳимоя кардан",
+      "ex": "Soldiers defend our country."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "soldier",
+      "tj": "сарбоз",
+      "ex": "The soldier serves in the army."
+    },
+    {
+      "en": "to serve",
+      "tj": "хизмат кардан",
+      "ex": "My brother serves in the army."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 53)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Tajikistan is my motherland and I love it very much.",
+      "tj": "Тоҷикистон Ватани ман аст ва ман онро хеле дӯст медорам."
     },
     {
-      "en": "I'm working on lesson 53",
-      "tj": "Ман дарси 53-ро меомӯзам"
+      "en": "I am proud of my motherland, its history and its people.",
+      "tj": "Ман ба Ватанам, таърихи он ва мардуми он ифтихор мекунам."
+    },
+    {
+      "en": "Tajikistan is an ancient country with a very long history.",
+      "tj": "Тоҷикистон кишвари қадимӣ бо таърихи хеле дароз аст."
+    },
+    {
+      "en": "Tajikistan is an independent country since 1991.",
+      "tj": "Тоҷикистон аз соли 1991 кишвари мустақил аст."
+    },
+    {
+      "en": "Our national flag is a symbol of our country.",
+      "tj": "Парчами миллии мо рамзи кишвари мост."
+    },
+    {
+      "en": "Every country has its own coat of arms and anthem.",
+      "tj": "Ҳар як кишвар нишони давлатӣ ва суруди миллии худро дорад."
+    },
+    {
+      "en": "We sing our anthem on all big holidays.",
+      "tj": "Мо суруди миллии худро дар ҳамаи идҳои калон мехонем."
+    },
+    {
+      "en": "Our ancestors were great and wise people.",
+      "tj": "Бобоҳои мо одамони бузург ва доно буданд."
+    },
+    {
+      "en": "We must keep our traditions for the next generation.",
+      "tj": "Мо бояд анъанаҳои худро барои насли оянда нигоҳ дорем."
+    },
+    {
+      "en": "Our country is developing very quickly.",
+      "tj": "Кишвари мо хеле зуд рушд мекунад."
+    },
+    {
+      "en": "The development of our country is very important.",
+      "tj": "Рушди кишвари мо хеле муҳим аст."
+    },
+    {
+      "en": "We want peace in the whole world.",
+      "tj": "Мо сулҳро дар тамоми ҷаҳон мехоҳем."
+    },
+    {
+      "en": "We celebrate Independence Day on the ninth of September.",
+      "tj": "Мо Рӯзи истиқлолиятро рӯзи нӯҳуми сентябр ҷашн мегирем."
+    },
+    {
+      "en": "Soldiers defend our country day and night.",
+      "tj": "Сарбозон шабу рӯз кишвари моро ҳимоя мекунанд."
+    },
+    {
+      "en": "The soldier serves in the army to protect us.",
+      "tj": "Сарбоз дар артиш хизмат мекунад, то ки моро ҳимоя кунад."
+    },
+    {
+      "en": "When I grow up, I want to serve my motherland too.",
+      "tj": "Вақте ки ман калон мешавам, ман низ мехоҳам ба Ватанам хизмат кунам."
     }
   ],
   "text": {
-    "en": "Text for lesson 53. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 53 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 53 text.",
-    "tj": "Матни дарси 53..."
+    "en": "My Motherland — Tajikistan\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe, the capital of Tajikistan. Tajikistan is my motherland. My motherland is the place where I was born, where my parents live, where my grandparents live and where my friends live. Tajikistan is the most important country in the world for me.\n\nI am proud of my motherland. I am proud of its beautiful mountains, its clean rivers and its kind people. I am proud of its ancient history. Our ancestors were great and wise people. They built beautiful cities, they wrote wise books and they loved their motherland very much. We, their children and grandchildren, must be like them. We must love our motherland and work for its good.\n\nTajikistan is an ancient country with a very long history. Our country is more than five thousand years old. Long ago, on this land lived great people: the Sogdians, the Bactrians and the Scythians. In the Middle Ages, the great Tajik-Persian poets and scientists lived here: Rudaki, Ibn Sino, Al-Khwarizmi, Firdausi and Omar Khayyam. They made our country famous all over the world. Today we are proud of them and their works.\n\nTajikistan became an independent country on the ninth of September, 1991. Every year on this day we celebrate Independence Day. It is our biggest and most important holiday. On this day in the centre of Dushanbe there are big parades and concerts. People sing, dance and shout: \"Long live Tajikistan!\" In the evening there are beautiful fireworks in the sky. On this day we remember our history and we are proud of our free motherland.\n\nEvery country has its own symbols: a national flag, a coat of arms and an anthem. Our national flag is red, white and green. The red colour means our courage, the white colour means peace and purity, and the green colour means nature and our wealth. The crown and the seven stars on our flag are very old symbols of the Tajik people. Our coat of arms shows a mountain with a golden crown and the sun. Our anthem is our most important song. We sing our anthem at big holidays, at school and at sports competitions. When we sing our anthem, we stand up and we feel very proud.\n\nOur country is developing very quickly. New roads and bridges are being built. New schools, hospitals and factories open every year. Our people get education, learn foreign languages and travel around the world. Our government helps young people to study, to find good jobs and to make our country better and better. The development of our country is very important. We want Tajikistan to be a rich, strong and happy country.\n\nBut we also want peace. Peace is the most important thing in the world. We do not want wars. We want all people to live in peace and friendship. Our soldiers serve in the army day and night to defend our country and to protect our peaceful life. I respect our soldiers very much. When I grow up, I also want to serve my motherland — not as a soldier, but as a doctor. I want to help sick people and make our country healthy and strong.\n\nOur traditions and our customs are also very important. We must keep them for the next generation. Our children and grandchildren must know the history of our country, our language, our songs and our dances. My grandmother says: \"A person who does not know his past cannot build a good future.\" So we must study our history and keep our traditions.\n\nMy motherland is the most important thing for me. I love its mountains, I love its rivers, I love its cities and villages, and most of all I love its people. I want my country to be happy, rich and strong. I want all the children of Tajikistan to live in peace, to study well and to be happy. I want to be a good doctor and a good citizen of my beautiful motherland. Long live my motherland Tajikistan!",
+    "tj": "Ватани ман — Тоҷикистон\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе, пойтахти Тоҷикистон зиндагӣ мекунам. Тоҷикистон Ватани ман аст. Ватани ман ҷоест, ки ман дар он таваллуд шудаам, ки волидонам зиндагӣ мекунанд, ки биби ва бобоям зиндагӣ мекунанд ва ки дӯстонам зиндагӣ мекунанд. Тоҷикистон барои ман муҳимтарин кишвари ҷаҳон аст.\n\nМан ба Ватанам ифтихор мекунам. Ман ба кӯҳҳои зебои он, ба дарёҳои тозаи он ва ба мардуми меҳрубони он ифтихор мекунам. Ман ба таърихи қадимии он ифтихор мекунам. Бобоҳои мо одамони бузург ва доно буданд. Онҳо шаҳрҳои зебо сохтанд, китобҳои доно навиштанд ва Ватани худро хеле дӯст медоштанд. Мо, фарзандони онҳо ва набераҳои онҳо, бояд мисли онҳо бошем. Мо бояд Ватани худро дӯст дорем ва барои некии он кор кунем.\n\nТоҷикистон кишвари қадимӣ бо таърихи хеле дароз аст. Кишвари мо беш аз панҷ ҳазор сол дорад. Пештар дар ин замин одамони бузург зиндагӣ мекарданд: суғдиён, бохтариён ва скифҳо. Дар асрҳои миёна шоирон ва олимони бузурги тоҷику форс дар ин ҷо зиндагӣ мекарданд: Рӯдакӣ, Ибни Сино, Ал-Хоразмӣ, Фирдавсӣ ва Умари Хайём. Онҳо кишвари моро дар тамоми ҷаҳон машҳур карданд. Имрӯз мо ба онҳо ва ба асарҳои онҳо ифтихор мекунем.\n\nТоҷикистон рӯзи нӯҳуми сентябри соли 1991 кишвари мустақил шуд. Ҳар сол дар ин рӯз мо Рӯзи истиқлолиятро ҷашн мегирем. Ин бузургтарин ва муҳимтарин иди мост. Дар ин рӯз дар маркази Душанбе парадҳо ва концертҳои калон баргузор мешаванд. Мардум суруд мехонанд, рақс мекунанд ва мегӯянд: «Тоҷикистон зинда бод!» Бегоҳ дар осмон оташбозиҳои зебо ҳастанд. Дар ин рӯз мо таърихи худро ба ёд меорем ва ба Ватани озоди худ ифтихор мекунем.\n\nҲар як кишвар рамзҳои худро дорад: парчами миллӣ, нишони давлатӣ ва суруди миллӣ. Парчами миллии мо сурх, сафед ва сабз аст. Ранги сурх маънои ҷасорати моро дорад, ранги сафед маънои сулҳ ва покиро дорад ва ранги сабз маънои табиат ва боигарии моро дорад. Тоҷ ва ҳафт ситора дар парчами мо рамзҳои хеле қадимии мардуми тоҷик ҳастанд. Нишони давлатии мо кӯҳро бо тоҷи тиллоӣ ва офтоб нишон медиҳад. Суруди миллии мо суруди муҳимтарини мост. Мо суруди миллиро дар идҳои калон, дар мактаб ва дар мусобиқаҳои варзишӣ мехонем. Вақте ки мо суруди миллиро мехонем, мо меистем ва хеле ифтихор мекунем.\n\nКишвари мо хеле зуд рушд мекунад. Роҳҳо ва пулҳои нав сохта мешаванд. Ҳар сол мактабҳо, беморхонаҳо ва заводҳои нав кушода мешаванд. Мардуми мо маориф мегиранд, забонҳои хориҷиро меомӯзанд ва дар тамоми ҷаҳон сафар мекунанд. Ҳукумати мо ба ҷавонон кӯмак мекунад, то ки таҳсил кунанд, кори хуб ёбанд ва кишвари моро беҳтар ва беҳтар созанд. Рушди кишвари мо хеле муҳим аст. Мо мехоҳем, ки Тоҷикистон кишвари бой, қавӣ ва хушбахт бошад.\n\nАммо мо инчунин сулҳро мехоҳем. Сулҳ муҳимтарин чиз дар ҷаҳон аст. Мо ҷанг намехоҳем. Мо мехоҳем, ки ҳамаи одамон дар сулҳ ва дӯстӣ зиндагӣ кунанд. Сарбозони мо шабу рӯз дар артиш хизмат мекунанд, то ки кишвари моро ҳимоя кунанд ва ҳаёти осоиштаи моро муҳофизат кунанд. Ман сарбозони моро хеле эҳтиром мекунам. Вақте ки ман калон мешавам, ман низ мехоҳам ба Ватанам хизмат кунам — на ҳамчун сарбоз, балки ҳамчун духтур. Ман мехоҳам ба беморон кӯмак кунам ва кишвари моро солим ва қавӣ созам.\n\nАнъанаҳо ва одатҳои мо низ хеле муҳим ҳастанд. Мо бояд онҳоро барои насли оянда нигоҳ дорем. Кӯдакон ва набераҳои мо бояд таърихи кишвари моро, забони моро, сурудҳои моро ва рақсҳои моро доданд. Бибиам мегӯяд: «Одаме, ки гузаштаи худро надонад, ояндаи хубро сохта наметавонад.» Пас, мо бояд таърихи худро омӯзем ва анъанаҳои худро нигоҳ дорем.\n\nВатани ман муҳимтарин чиз барои ман аст. Ман кӯҳҳои онро дӯст медорам, ман дарёҳои онро дӯст медорам, ман шаҳрҳо ва деҳаҳои онро дӯст медорам ва аз ҳама бештар ман мардуми онро дӯст медорам. Ман мехоҳам, ки кишвари ман хушбахт, бой ва қавӣ бошад. Ман мехоҳам, ки ҳамаи кӯдакони Тоҷикистон дар сулҳ зиндагӣ кунанд, хуб таҳсил кунанд ва хушбахт бошанд. Ман мехоҳам духтури хуб ва шаҳрванди хуб барои Ватани зебоям бошам. Ватани ман Тоҷикистон зинда бод!"
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Тоҷикистон Ватани ман аст ва ман онро хеле дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Tajikistan is my motherland and I love it very much.",
+        "Tajikistan is my motherland and I like it very much.",
+        "Tajikistan is my mother country and I love it very much.",
+        "Tajikistan is my motherland and I love her very much."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Tajikistan is my motherland and I love it very much."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман ба Ватанам, таърихи он ва мардуми он ифтихор мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "I am proud of my motherland, its history and its people.",
+        "I am proud of my motherland, her history and her people.",
+        "I am proud of my motherland, its history and people.",
+        "I am proud for my motherland, its history and its people."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I am proud of my motherland, its history and its people."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Тоҷикистон кишвари қадимӣ бо таърихи хеле дароз аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст B"
+        "Tajikistan is an ancient country with a very long history.",
+        "Tajikistan is an old country with a very long history.",
+        "Tajikistan is the ancient country with a very long history.",
+        "Tajikistan is an ancient country with very long history."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Tajikistan is an ancient country with a very long history."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Тоҷикистон аз соли 1991 кишвари мустақил аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "Tajikistan is an independent country since 1991.",
+        "Tajikistan has been an independent country since 1991.",
+        "Tajikistan is the independent country since 1991.",
+        "Tajikistan is an independent state since 1991."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "Tajikistan is an independent country since 1991."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Парчами миллии мо рамзи кишвари мост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: education",
-        "нодуруст A"
+        "Our national flag is a symbol of our country.",
+        "The national flag is a symbol of our country.",
+        "Our national flag is the symbol of our country.",
+        "Our flag is a symbol of our country."
       ],
-      "answer": "тарҷума: education"
+      "answer": "Our national flag is a symbol of our country."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Ҳар як кишвар нишони давлатӣ ва суруди миллии худро дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: development"
+        "Every country has its own coat of arms and anthem.",
+        "Each country has its own coat of arms and anthem.",
+        "Every country has its own coat of arms and national anthem.",
+        "Every country has its own emblem and anthem."
       ],
-      "answer": "тарҷума: development"
+      "answer": "Every country has its own coat of arms and anthem."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Мо суруди миллии худро дар ҳамаи идҳои калон мехонем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: achievement",
-        "нодуруст B",
-        "нодуруст A"
+        "We sing our anthem on all big holidays.",
+        "We sing our national anthem on all big holidays.",
+        "We sing the anthem on all big holidays.",
+        "We sing our anthem at all big holidays."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "We sing our anthem on all big holidays."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Бобоҳои мо одамони бузург ва доно буданд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: challenge",
-        "нодуруст C",
-        "нодуруст B"
+        "Our ancestors were great and wise people.",
+        "Our ancestors were great and wise men.",
+        "Our forefathers were great and wise people.",
+        "Our ancestors were great and clever people."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "Our ancestors were great and wise people."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Мо бояд анъанаҳои худро барои насли оянда нигоҳ дорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: knowledge"
+        "We must keep our traditions for the next generation.",
+        "We must keep our traditions for the next people.",
+        "We should keep our traditions for the next generation.",
+        "We must save our traditions for the next generation."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "We must keep our traditions for the next generation."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Кишвари мо хеле зуд рушд мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: conversation",
-        "нодуруст B"
+        "Our country is developing very quickly.",
+        "Our country is developing very fast.",
+        "Our country develops very quickly.",
+        "Our country is growing very quickly."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "Our country is developing very quickly."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Рушди кишвари мо хеле муҳим аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: fluency",
-        "нодуруст A",
-        "нодуруст C"
+        "The development of our country is very important.",
+        "The development of our country is very important.",
+        "The growth of our country is very important.",
+        "The development of the country is very important."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "The development of our country is very important."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Мо сулҳро дар тамоми ҷаҳон мехоҳем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: confidence",
-        "нодуруст B"
+        "We want peace in the whole world.",
+        "We want peace in the world.",
+        "We want peace in all the world.",
+        "We want peace all over the world."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "We want peace in the whole world."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Мо Рӯзи истиқлолиятро рӯзи нӯҳуми сентябр ҷашн мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: pronunciation",
-        "нодуруст A"
+        "We celebrate Independence Day on the ninth of September.",
+        "We celebrate Independence Day on the 9th of September.",
+        "We celebrate the Independence Day on the ninth of September.",
+        "We celebrate Independence Day on the ninth September."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "We celebrate Independence Day on the ninth of September."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Сарбозон шабу рӯз кишвари моро ҳимоя мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: vocabulary",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "Soldiers defend our country day and night.",
+        "Soldiers defend our country night and day.",
+        "The soldiers defend our country day and night.",
+        "Soldiers protect our country day and night."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "Soldiers defend our country day and night."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Сарбоз дар артиш хизмат мекунад, то ки моро ҳимоя кунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: grammar",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "The soldier serves in the army to protect us.",
+        "The soldier serves in the army to defend us.",
+        "The soldier serves in the army to defend our country.",
+        "The soldier serves in the army for protecting us."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "The soldier serves in the army to protect us."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Вақте ки ман калон мешавам, ман низ мехоҳам ба Ватанам хизмат кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: opportunity"
+        "When I grow up, I want to serve my motherland too.",
+        "When I grow up, I also want to serve my motherland.",
+        "When I grow up, I want to serve my country too.",
+        "When I grow up, I want to serve my motherland as well."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "When I grow up, I want to serve my motherland too."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ватани ман ҷоест, ки ман дар он таваллуд шудаам, ки волидонам зиндагӣ мекунанд, ки биби ва бобоям зиндагӣ мекунанд ва ки дӯстонам зиндагӣ мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст B",
-        "нодуруст C"
+        "My motherland is the place where I was born, where my parents live, where my grandparents live and where my friends live.",
+        "My motherland is the place where I was born, where my parents live, where my grandparents live and where my friends live.",
+        "My motherland is the place where I was born, where my parents live, where my grandmother and grandfather live and where my friends live.",
+        "My motherland is a place where I was born, where my parents live, where my grandparents live and where my friends live."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "My motherland is the place where I was born, where my parents live, where my grandparents live and where my friends live."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Тоҷикистон барои ман муҳимтарин кишвари ҷаҳон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: environment"
+        "Tajikistan is the most important country in the world for me.",
+        "Tajikistan is the most important country for me.",
+        "Tajikistan is the most important country of the world for me.",
+        "Tajikistan is the most important country in the whole world for me."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Tajikistan is the most important country in the world for me."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ман ба кӯҳҳои зебои он, ба дарёҳои тозаи он ва ба мардуми меҳрубони он ифтихор мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "I am proud of its beautiful mountains, its clean rivers and its kind people.",
+        "I am proud of its beautiful mountains, its clean rivers and its kind people.",
+        "I am proud of its beautiful mountains, its clean rivers and its friendly people.",
+        "I am proud of her beautiful mountains, her clean rivers and her kind people."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "I am proud of its beautiful mountains, its clean rivers and its kind people."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Бобоҳои мо одамони бузург ва доно буданд. Онҳо шаҳрҳои зебо сохтанд, китобҳои доно навиштанд ва Ватани худро хеле дӯст медоштанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: education",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Our ancestors were great and wise people. They built beautiful cities, they wrote wise books and they loved their motherland very much.",
+        "Our ancestors were great and wise people. They built beautiful cities, wrote wise books and loved their motherland very much.",
+        "Our ancestors were great and wise people. They built beautiful cities, they wrote wise books and they loved their country very much.",
+        "Our ancestors were great and wise people. They built beautiful towns, they wrote wise books and they loved their motherland very much."
       ],
-      "answer": "тарҷума: education"
+      "answer": "Our ancestors were great and wise people. They built beautiful cities, they wrote wise books and they loved their motherland very much."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Мо, фарзандони онҳо ва набераҳои онҳо, бояд мисли онҳо бошем. Мо бояд Ватани худро дӯст дорем ва барои некии он кор кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст C",
-        "нодуруст A"
+        "We, their children and grandchildren, must be like them. We must love our motherland and work for its good.",
+        "We, their children and grandchildren, must be like them. We must love our motherland and work for its good.",
+        "We, their children and grandchildren, should be like them. We must love our motherland and work for its good.",
+        "We, their children and grandchildren, must be like them. We must love our country and work for its good."
       ],
-      "answer": "тарҷума: development"
+      "answer": "We, their children and grandchildren, must be like them. We must love our motherland and work for its good."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Кишвари мо беш аз панҷ ҳазор сол дорад. Пештар дар ин замин одамони бузург зиндагӣ мекарданд: суғдиён, бохтариён ва скифҳо» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст B"
+        "Our country is more than five thousand years old. Long ago, on this land lived great people: the Sogdians, the Bactrians and the Scythians.",
+        "Our country is over five thousand years old. Long ago, on this land lived great people: the Sogdians, the Bactrians and the Scythians.",
+        "Our country is more than five thousand years old. Long ago on this land lived great people: the Sogdians, the Bactrians and the Scythians.",
+        "Our country is more than five thousand years old. Long ago, on this land great people lived: the Sogdians, the Bactrians and the Scythians."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "Our country is more than five thousand years old. Long ago, on this land lived great people: the Sogdians, the Bactrians and the Scythians."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Дар асрҳои миёна шоирон ва олимони бузурги тоҷику форс дар ин ҷо зиндагӣ мекарданд: Рӯдакӣ, Ибни Сино, Ал-Хоразмӣ, Фирдавсӣ ва Умари Хайём» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "In the Middle Ages, the great Tajik-Persian poets and scientists lived here: Rudaki, Ibn Sino, Al-Khwarizmi, Firdausi and Omar Khayyam.",
+        "In the Middle Ages the great Tajik-Persian poets and scientists lived here: Rudaki, Ibn Sino, Al-Khwarizmi, Firdausi and Omar Khayyam.",
+        "In the Middle Ages, the great Tajik and Persian poets and scientists lived here: Rudaki, Ibn Sino, Al-Khwarizmi, Firdausi and Omar Khayyam.",
+        "In the Middle Ages, the great Tajik-Persian poets and scholars lived here: Rudaki, Ibn Sino, Al-Khwarizmi, Firdausi and Omar Khayyam."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "In the Middle Ages, the great Tajik-Persian poets and scientists lived here: Rudaki, Ibn Sino, Al-Khwarizmi, Firdausi and Omar Khayyam."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Онҳо кишвари моро дар тамоми ҷаҳон машҳур карданд. Имрӯз мо ба онҳо ва ба асарҳои онҳо ифтихор мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: knowledge",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "They made our country famous all over the world. Today we are proud of them and their works.",
+        "They made our country famous all over the world. Today we are proud of them and their works.",
+        "They made our country famous all over the world. Today we are proud of them and of their works.",
+        "They made our country famous in the whole world. Today we are proud of them and their works."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "They made our country famous all over the world. Today we are proud of them and their works."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Тоҷикистон рӯзи нӯҳуми сентябри соли 1991 кишвари мустақил шуд. Ҳар сол дар ин рӯз мо Рӯзи истиқлолиятро ҷашн мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: conversation",
-        "нодуруст A"
+        "Tajikistan became an independent country on the ninth of September, 1991. Every year on this day we celebrate Independence Day.",
+        "Tajikistan became an independent country on the ninth of September 1991. Every year on this day we celebrate Independence Day.",
+        "Tajikistan became an independent country on the ninth of September, 1991. Every year on this day we celebrate the Independence Day.",
+        "Tajikistan became an independent country on the ninth of September, 1991. Each year on this day we celebrate Independence Day."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "Tajikistan became an independent country on the ninth of September, 1991. Every year on this day we celebrate Independence Day."
+    },
+    {
+      "q": "«Ин бузургтарин ва муҳимтарин иди мост. Дар ин рӯз дар маркази Душанбе парадҳо ва концертҳои калон баргузор мешаванд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It is our biggest and most important holiday. On this day in the centre of Dushanbe there are big parades and concerts.",
+        "It is our biggest and most important holiday. On this day in the centre of Dushanbe there are big parades and concerts.",
+        "It is our biggest and the most important holiday. On this day in the centre of Dushanbe there are big parades and concerts.",
+        "It is our greatest and most important holiday. On this day in the centre of Dushanbe there are big parades and concerts."
+      ],
+      "answer": "It is our biggest and most important holiday. On this day in the centre of Dushanbe there are big parades and concerts."
+    },
+    {
+      "q": "«Мардум суруд мехонанд, рақс мекунанд ва мегӯянд: \"Тоҷикистон зинда бод!\" Бегоҳ дар осмон оташбозиҳои зебо ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "People sing, dance and shout: \"Long live Tajikistan!\" In the evening there are beautiful fireworks in the sky.",
+        "People sing, dance and shout: \"Long live Tajikistan!\" In the evening there are beautiful fireworks in the sky.",
+        "People sing, dance and say: \"Long live Tajikistan!\" In the evening there are beautiful fireworks in the sky.",
+        "People sing, dance and shout: \"Long live Tajikistan!\" In the evening there is beautiful fireworks in the sky."
+      ],
+      "answer": "People sing, dance and shout: \"Long live Tajikistan!\" In the evening there are beautiful fireworks in the sky."
+    },
+    {
+      "q": "«Ҳар як кишвар рамзҳои худро дорад: парчами миллӣ, нишони давлатӣ ва суруди миллӣ» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Every country has its own symbols: a national flag, a coat of arms and an anthem.",
+        "Every country has its own symbols: the national flag, a coat of arms and an anthem.",
+        "Each country has its own symbols: a national flag, a coat of arms and an anthem.",
+        "Every country has its own symbols: a national flag, an emblem and an anthem."
+      ],
+      "answer": "Every country has its own symbols: a national flag, a coat of arms and an anthem."
+    },
+    {
+      "q": "«Парчами миллии мо сурх, сафед ва сабз аст. Ранги сурх маънои ҷасорати моро дорад, ранги сафед маънои сулҳ ва покиро дорад ва ранги сабз маънои табиат ва боигарии моро дорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Our national flag is red, white and green. The red colour means our courage, the white colour means peace and purity, and the green colour means nature and our wealth.",
+        "Our national flag is red, white and green. The red colour means our courage, the white colour means peace and purity and the green colour means nature and our wealth.",
+        "Our national flag is red, white and green. The red colour means our courage, the white colour means peace and purity, and the green colour means nature and wealth.",
+        "Our national flag is red, white and green. Red means our courage, white means peace and purity, and green means nature and our wealth."
+      ],
+      "answer": "Our national flag is red, white and green. The red colour means our courage, the white colour means peace and purity, and the green colour means nature and our wealth."
+    },
+    {
+      "q": "«Тоҷ ва ҳафт ситора дар парчами мо рамзҳои хеле қадимии мардуми тоҷик ҳастанд. Нишони давлатии мо кӯҳро бо тоҷи тиллоӣ ва офтоб нишон медиҳад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The crown and the seven stars on our flag are very old symbols of the Tajik people. Our coat of arms shows a mountain with a golden crown and the sun.",
+        "The crown and the seven stars on our flag are very old symbols of the Tajik people. Our coat of arms shows a mountain with a golden crown and the sun.",
+        "The crown and seven stars on our flag are very old symbols of the Tajik people. Our coat of arms shows a mountain with a golden crown and the sun.",
+        "The crown and the seven stars on our flag are very ancient symbols of the Tajik people. Our coat of arms shows a mountain with a golden crown and the sun."
+      ],
+      "answer": "The crown and the seven stars on our flag are very old symbols of the Tajik people. Our coat of arms shows a mountain with a golden crown and the sun."
+    },
+    {
+      "q": "«Суруди миллии мо суруди муҳимтарини мост. Мо суруди миллиро дар идҳои калон, дар мактаб ва дар мусобиқаҳои варзишӣ мехонем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Our anthem is our most important song. We sing our anthem at big holidays, at school and at sports competitions.",
+        "Our anthem is our most important song. We sing our anthem on big holidays, at school and at sports competitions.",
+        "Our anthem is the most important song for us. We sing our anthem at big holidays, at school and at sports competitions.",
+        "Our anthem is our most important song. We sing our anthem at big holidays, in school and at sports competitions."
+      ],
+      "answer": "Our anthem is our most important song. We sing our anthem at big holidays, at school and at sports competitions."
+    },
+    {
+      "q": "«Вақте ки мо суруди миллиро мехонем, мо меистем ва хеле ифтихор мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When we sing our anthem, we stand up and we feel very proud.",
+        "When we sing our anthem, we stand up and feel very proud.",
+        "When we sing the anthem, we stand up and we feel very proud.",
+        "When we sing our anthem we stand up and we feel very proud."
+      ],
+      "answer": "When we sing our anthem, we stand up and we feel very proud."
+    },
+    {
+      "q": "«Кишвари мо хеле зуд рушд мекунад. Роҳҳо ва пулҳои нав сохта мешаванд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Our country is developing very quickly. New roads and bridges are being built.",
+        "Our country is developing very fast. New roads and bridges are being built.",
+        "Our country develops very quickly. New roads and bridges are being built.",
+        "Our country is developing very quickly. New roads and bridges are built."
+      ],
+      "answer": "Our country is developing very quickly. New roads and bridges are being built."
+    },
+    {
+      "q": "«Ҳар сол мактабҳо, беморхонаҳо ва заводҳои нав кушода мешаванд. Мардуми мо маориф мегиранд, забонҳои хориҷиро меомӯзанд ва дар тамоми ҷаҳон сафар мекунанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "New schools, hospitals and factories open every year. Our people get education, learn foreign languages and travel around the world.",
+        "New schools, hospitals and factories are opened every year. Our people get education, learn foreign languages and travel around the world.",
+        "New schools, hospitals and factories open every year. Our people get an education, learn foreign languages and travel around the world.",
+        "New schools, hospitals and factories open every year. Our people get education, study foreign languages and travel around the world."
+      ],
+      "answer": "New schools, hospitals and factories open every year. Our people get education, learn foreign languages and travel around the world."
+    },
+    {
+      "q": "«Ҳукумати мо ба ҷавонон кӯмак мекунад, то ки таҳсил кунанд, кори хуб ёбанд ва кишвари моро беҳтар ва беҳтар созанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Our government helps young people to study, to find good jobs and to make our country better and better.",
+        "Our government helps young people study, find good jobs and make our country better and better.",
+        "Our government helps young people to study, to find good work and to make our country better and better.",
+        "Our government helps young people to study, to find good jobs and to make our country better and better."
+      ],
+      "answer": "Our government helps young people to study, to find good jobs and to make our country better and better."
+    },
+    {
+      "q": "«Мо мехоҳем, ки Тоҷикистон кишвари бой, қавӣ ва хушбахт бошад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We want Tajikistan to be a rich, strong and happy country.",
+        "We want Tajikistan to be a rich, strong and happy country.",
+        "We want Tajikistan to become a rich, strong and happy country.",
+        "We want that Tajikistan be a rich, strong and happy country."
+      ],
+      "answer": "We want Tajikistan to be a rich, strong and happy country."
+    },
+    {
+      "q": "«Аммо мо инчунин сулҳро мехоҳем. Сулҳ муҳимтарин чиз дар ҷаҳон аст. Мо ҷанг намехоҳем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "But we also want peace. Peace is the most important thing in the world. We do not want wars.",
+        "But we also want peace. Peace is the most important thing in the world. We don't want wars.",
+        "But we want peace too. Peace is the most important thing in the world. We do not want wars.",
+        "But we also want peace. Peace is the most important thing in the world. We do not want war."
+      ],
+      "answer": "But we also want peace. Peace is the most important thing in the world. We do not want wars."
+    },
+    {
+      "q": "«Сарбозони мо шабу рӯз дар артиш хизмат мекунанд, то ки кишвари моро ҳимоя кунанд ва ҳаёти осоиштаи моро муҳофизат кунанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Our soldiers serve in the army day and night to defend our country and to protect our peaceful life.",
+        "Our soldiers serve in the army day and night to defend our country and protect our peaceful life.",
+        "Our soldiers serve in the army day and night to defend our country and to protect our peaceful life.",
+        "Our soldiers serve in the army day and night to defend our country and to protect our peace life."
+      ],
+      "answer": "Our soldiers serve in the army day and night to defend our country and to protect our peaceful life."
+    },
+    {
+      "q": "«Ман сарбозони моро хеле эҳтиром мекунам. Вақте ки ман калон мешавам, ман низ мехоҳам ба Ватанам хизмат кунам — на ҳамчун сарбоз, балки ҳамчун духтур» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I respect our soldiers very much. When I grow up, I also want to serve my motherland — not as a soldier, but as a doctor.",
+        "I respect our soldiers very much. When I grow up, I want to serve my motherland too — not as a soldier, but as a doctor.",
+        "I respect our soldiers very much. When I grow up, I also want to serve my motherland — not as a soldier but as a doctor.",
+        "I respect our soldiers very much. When I grow up, I also want to serve my country — not as a soldier, but as a doctor."
+      ],
+      "answer": "I respect our soldiers very much. When I grow up, I also want to serve my motherland — not as a soldier, but as a doctor."
+    },
+    {
+      "q": "«Ман мехоҳам ба беморон кӯмак кунам ва кишвари моро солим ва қавӣ созам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to help sick people and make our country healthy and strong.",
+        "I want to help sick people and to make our country healthy and strong.",
+        "I want to help sick people and make our country healthy and strong.",
+        "I want to help sick people and make our country healthy and strong."
+      ],
+      "answer": "I want to help sick people and make our country healthy and strong."
+    },
+    {
+      "q": "«Анъанаҳо ва одатҳои мо низ хеле муҳим ҳастанд. Мо бояд онҳоро барои насли оянда нигоҳ дорем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Our traditions and our customs are also very important. We must keep them for the next generation.",
+        "Our traditions and customs are also very important. We must keep them for the next generation.",
+        "Our traditions and our customs are very important too. We must keep them for the next generation.",
+        "Our traditions and our customs are also very important. We should keep them for the next generation."
+      ],
+      "answer": "Our traditions and our customs are also very important. We must keep them for the next generation."
+    },
+    {
+      "q": "«Кӯдакон ва набераҳои мо бояд таърихи кишвари моро, забони моро, сурудҳои моро ва рақсҳои моро доданд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Our children and grandchildren must know the history of our country, our language, our songs and our dances.",
+        "Our children and grandchildren must know the history of our country, our language, our songs and our dances.",
+        "Our children and grandchildren should know the history of our country, our language, our songs and our dances.",
+        "Our children and grandchildren must know the history of our country, our language, our songs and our dance."
+      ],
+      "answer": "Our children and grandchildren must know the history of our country, our language, our songs and our dances."
+    },
+    {
+      "q": "«Бибиам мегӯяд: \"Одаме, ки гузаштаи худро надонад, ояндаи хубро сохта наметавонад.\" Пас, мо бояд таърихи худро омӯзем ва анъанаҳои худро нигоҳ дорем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandmother says: \"A person who does not know his past cannot build a good future.\" So we must study our history and keep our traditions.",
+        "My grandmother says: \"A person who does not know his past cannot build a good future.\" So we must study our history and keep our traditions.",
+        "My grandmother says: \"A person who doesn't know his past cannot build a good future.\" So we must study our history and keep our traditions.",
+        "My grandmother says: \"A person who does not know his past cannot build a good future.\" So we should study our history and keep our traditions."
+      ],
+      "answer": "My grandmother says: \"A person who does not know his past cannot build a good future.\" So we must study our history and keep our traditions."
+    },
+    {
+      "q": "«Ватани ман муҳимтарин чиз барои ман аст. Ман кӯҳҳои онро дӯст медорам, ман дарёҳои онро дӯст медорам, ман шаҳрҳо ва деҳаҳои онро дӯст медорам ва аз ҳама бештар ман мардуми онро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My motherland is the most important thing for me. I love its mountains, I love its rivers, I love its cities and villages, and most of all I love its people.",
+        "My motherland is the most important thing for me. I love its mountains, I love its rivers, I love its cities and villages and most of all I love its people.",
+        "My motherland is the most important thing for me. I love its mountains, its rivers, its cities and villages, and most of all I love its people.",
+        "My motherland is the most important thing for me. I love its mountains, I love its rivers, I love its cities and villages, and most of all I love the people."
+      ],
+      "answer": "My motherland is the most important thing for me. I love its mountains, I love its rivers, I love its cities and villages, and most of all I love its people."
+    },
+    {
+      "q": "«Ман мехоҳам, ки кишвари ман хушбахт, бой ва қавӣ бошад. Ман мехоҳам, ки ҳамаи кӯдакони Тоҷикистон дар сулҳ зиндагӣ кунанд, хуб таҳсил кунанд ва хушбахт бошанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want my country to be happy, rich and strong. I want all the children of Tajikistan to live in peace, to study well and to be happy.",
+        "I want my country to be happy, rich and strong. I want all the children of Tajikistan to live in peace, to study well and be happy.",
+        "I want my country to be happy, rich and strong. I want all children of Tajikistan to live in peace, to study well and to be happy.",
+        "I want my country to be happy, rich and strong. I want all the children of Tajikistan to live in peace, study well and be happy."
+      ],
+      "answer": "I want my country to be happy, rich and strong. I want all the children of Tajikistan to live in peace, to study well and to be happy."
+    },
+    {
+      "q": "«Ман мехоҳам духтури хуб ва шаҳрванди хуб барои Ватани зебоям бошам. Ватани ман Тоҷикистон зинда бод!» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to be a good doctor and a good citizen of my beautiful motherland. Long live my motherland Tajikistan!",
+        "I want to be a good doctor and a good citizen of my beautiful motherland. Long live my motherland Tajikistan!",
+        "I want to be a good doctor and a good citizen of my beautiful country. Long live my motherland Tajikistan!",
+        "I want to be a good doctor and a good citizen of my beautiful motherland. Long live my country Tajikistan!"
+      ],
+      "answer": "I want to be a good doctor and a good citizen of my beautiful motherland. Long live my motherland Tajikistan!"
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 25
+  "wordsCount": 16
 }
