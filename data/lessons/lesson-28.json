@@ -1,371 +1,463 @@
 {
   "id": 28,
-  "title": "Матн ва машқҳо 28",
-  "level": "Миёна - Синфи 4",
+  "title": "Матн 28: Фаслҳо ва табиат",
+  "level": "Ибтидоӣ - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "nature",
+      "tj": "табиат",
+      "ex": "I love nature and animals."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "sky",
+      "tj": "осмон",
+      "ex": "The sky is blue and clear."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "field",
+      "tj": "киштзор",
+      "ex": "The field is green in spring."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "forest",
+      "tj": "ҷангал",
+      "ex": "The forest is near our village."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "grass",
+      "tj": "алаф",
+      "ex": "The grass is green in summer."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "leaf",
+      "tj": "барг",
+      "ex": "The leaf is yellow in autumn."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "snow",
+      "tj": "барф",
+      "ex": "The snow is white in winter."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "rain",
+      "tj": "борон",
+      "ex": "The rain is cold in autumn."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "wind",
+      "tj": "шамол",
+      "ex": "The wind is strong today."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "cloud",
+      "tj": "абр",
+      "ex": "I see a white cloud in the sky."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "sun",
+      "tj": "офтоб",
+      "ex": "The sun is warm in summer."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "moon",
+      "tj": "моҳ",
+      "ex": "The moon is bright at night."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "star",
+      "tj": "ситора",
+      "ex": "The stars are beautiful at night."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "bird",
+      "tj": "парранда",
+      "ex": "The bird sings in the tree."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
-    },
-    {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "flower",
+      "tj": "гул",
+      "ex": "The flower is red and beautiful."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 28)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "I love nature and animals.",
+      "tj": "Ман табиат ва ҳайвонотро дӯст медорам."
     },
     {
-      "en": "I'm working on lesson 28",
-      "tj": "Ман дарси 28-ро меомӯзам"
+      "en": "The sky is blue and clear in summer.",
+      "tj": "Осмон дар тобистон кабуд ва равшан аст."
+    },
+    {
+      "en": "The field is green in spring.",
+      "tj": "Киштзор дар баҳор сабз аст."
+    },
+    {
+      "en": "The forest is near our village.",
+      "tj": "Ҷангал дар назди деҳаи мост."
+    },
+    {
+      "en": "The grass is green and the flowers are beautiful.",
+      "tj": "Алаф сабз аст ва гулҳо зебо ҳастанд."
+    },
+    {
+      "en": "The leaf is yellow and red in autumn.",
+      "tj": "Барг дар тирамоҳ зард ва сурх аст."
+    },
+    {
+      "en": "The snow is white and cold in winter.",
+      "tj": "Барф дар зимистон сафед ва хунук аст."
+    },
+    {
+      "en": "The rain is cold in autumn.",
+      "tj": "Борон дар тирамоҳ хунук аст."
+    },
+    {
+      "en": "The wind is strong in the evening.",
+      "tj": "Шамол бегоҳ қавӣ аст."
+    },
+    {
+      "en": "I see a white cloud in the blue sky.",
+      "tj": "Ман дар осмони кабуд абри сафед мебинам."
+    },
+    {
+      "en": "The sun is warm and bright in summer.",
+      "tj": "Офтоб дар тобистон гарм ва дурахшон аст."
+    },
+    {
+      "en": "The moon and the stars are bright at night.",
+      "tj": "Моҳ ва ситораҳо шабона дурахшон ҳастанд."
+    },
+    {
+      "en": "The bird sings a beautiful song in the tree.",
+      "tj": "Парранда дар дарахт суруди зебо мехонад."
+    },
+    {
+      "en": "The flower is red and beautiful in the garden.",
+      "tj": "Гул дар боғ сурх ва зебо аст."
+    },
+    {
+      "en": "In spring the weather is warm and the trees are green.",
+      "tj": "Дар баҳор обу ҳаво гарм аст ва дарахтон сабз ҳастанд."
     }
   ],
   "text": {
-    "en": "Text for lesson 28. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 28 is about Миёна - Синфи 4. I write all words in my notebook. Level 28 text.",
-    "tj": "Матни дарси 28..."
+    "en": "Seasons and Nature\n\nThere are four seasons in a year: spring, summer, autumn and winter. Every season is beautiful in its own way. I love nature and I like to watch the sky, the sun, the moon and the stars.\n\nSpring is a warm season. In spring the weather is warm. The sky is blue and clear. The trees are green and the flowers are beautiful. The birds come back from warm countries. They sing beautiful songs in the trees. The field and the grass are green. We see small animals in the forest: rabbits, foxes and birds. I like spring very much.\n\nSummer is a hot season. In summer the sun is warm and bright. The days are long and the nights are short. The sky is blue and clear. We go to the lake or to the river. We swim and play. The grass is green and the flowers are beautiful. We eat fruits and vegetables from our garden. My mother makes juice from apples and oranges. In summer we sometimes travel to the village. We visit our grandmother and grandfather.\n\nAutumn is a cool season. In autumn the weather is cool and the rain is cold. The leaves are yellow, red and brown. The wind is strong. The birds fly to warm countries. We go to school in September. We study and read books. In autumn we pick apples and vegetables. My grandmother makes good food.\n\nWinter is a cold season. In winter the weather is very cold and the snow is white. The days are short and the nights are long. The trees are white. The river and the lake are cold. We play in the snow. We make a snowman. We drink hot tea. In winter we sometimes visit our grandmother and grandfather in the village.\n\nI love all four seasons. Every season has its own beauty. Nature is very beautiful. I love nature and I love my country.",
+    "tj": "Фаслҳо ва табиат\n\nДар як сол чор фасл ҳаст: баҳор, тобистон, тирамоҳ ва зимистон. Ҳар як фасл бо роҳи худ зебо аст. Ман табиатро дӯст медорам ва ман осмон, офтоб, моҳ ва ситораҳоро тамошо карданро дӯст медорам.\n\nБаҳор фасли гарм аст. Дар баҳор обу ҳаво гарм аст. Осмон кабуд ва равшан аст. Дарахтон сабз ҳастанд ва гулҳо зебо ҳастанд. Паррандаҳо аз кишварҳои гарм бармегарданд. Онҳо дар дарахтон сурудҳои зебо мехонанд. Киштзор ва алаф сабз ҳастанд. Мо дар ҷангал ҳайвоноти хурд мебинем: харгӯшҳо, рӯбоҳҳо ва паррандаҳо. Ман баҳорро хеле дӯст медорам.\n\nТобистон фасли гарм аст. Дар тобистон офтоб гарм ва дурахшон аст. Рӯзҳо дароз ва шабҳо кӯтоҳ ҳастанд. Осмон кабуд ва равшан аст. Мо ба кӯл ё ба дарё меравем. Мо шино мекунем ва бозӣ мекунем. Алаф сабз аст ва гулҳо зебо ҳастанд. Мо меваҳо ва сабзавотро аз боғи худ мехӯрем. Модарам аз себҳо ва норанҷиҳо шарбат месозад. Дар тобистон мо баъзан ба деҳа сафар мекунем. Мо биби ва бобоямонро дидан мекунем.\n\nТирамоҳ фасли салқин аст. Дар тирамоҳ обу ҳаво салқин аст ва борон хунук аст. Баргҳо зард, сурх ва қаҳваранг ҳастанд. Шамол қавӣ аст. Паррандаҳо ба кишварҳои гарм парвоз мекунанд. Мо дар моҳи сентябр ба мактаб меравем. Мо меомӯзем ва китобҳо мехонем. Дар тирамоҳ мо себҳо ва сабзавотро мечинам. Бибиам хӯроки хуб мепазад.\n\nЗимистон фасли хунук аст. Дар зимистон обу ҳаво хеле хунук аст ва барф сафед аст. Рӯзҳо кӯтоҳ ва шабҳо дароз ҳастанд. Дарахтон сафед ҳастанд. Дарё ва кӯл хунук ҳастанд. Мо дар барф бозӣ мекунем. Мо бобобарфӣ месозем. Мо чойи гарм менӯшем. Дар зимистон мо баъзан биби ва бобоямонро дар деҳа дидан мекунем.\n\nМан ҳар чор фаслро дӯст медорам. Ҳар як фасл зебоии худро дорад. Табиат хеле зебо аст. Ман табиатро дӯст медорам ва ман кишварамро дӯст медорам."
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Ман табиат ва ҳайвонотро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи understand",
-        "нодуруст B"
+        "I love nature and animals.",
+        "I love nature and birds.",
+        "I love the field and animals.",
+        "I love nature and flowers."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "I love nature and animals."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Осмон дар тобистон кабуд ва равшан аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи explain",
-        "нодуруст A",
-        "нодуруст B"
+        "The sky is blue and clear in summer.",
+        "The sky is blue and clear in spring.",
+        "The sky is grey and clear in summer.",
+        "The sky is blue and cloudy in summer."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "The sky is blue and clear in summer."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Киштзор дар баҳор сабз аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи important",
-        "нодуруст C",
-        "нодуруст B"
+        "The field is green in spring.",
+        "The field is green in summer.",
+        "The grass is green in spring.",
+        "The forest is green in spring."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "The field is green in spring."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Ҷангал дар назди деҳаи мост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи different",
-        "нодуруст B"
+        "The forest is near our village.",
+        "The forest is near our city.",
+        "The field is near our village.",
+        "The forest is far from our village."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "The forest is near our village."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Алаф сабз аст ва гулҳо зебо ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи difficult",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "The grass is green and the flowers are beautiful.",
+        "The grass is yellow and the flowers are beautiful.",
+        "The grass is green and the trees are beautiful.",
+        "The field is green and the flowers are beautiful."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "The grass is green and the flowers are beautiful."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Барг дар тирамоҳ зард ва сурх аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи easy",
-        "нодуруст A"
+        "The leaf is yellow and red in autumn.",
+        "The leaf is yellow and green in autumn.",
+        "The leaf is red and brown in autumn.",
+        "The leaf is yellow and red in summer."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "The leaf is yellow and red in autumn."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Барф дар зимистон сафед ва хунук аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи interesting",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "The snow is white and cold in winter.",
+        "The snow is white and warm in winter.",
+        "The rain is white and cold in winter.",
+        "The snow is white and cold in autumn."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "The snow is white and cold in winter."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Борон дар тирамоҳ хунук аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи remember",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The rain is cold in autumn.",
+        "The rain is cold in winter.",
+        "The rain is warm in autumn.",
+        "The snow is cold in autumn."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "The rain is cold in autumn."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Шамол бегоҳ қавӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи forget",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The wind is strong in the evening.",
+        "The wind is strong in the morning.",
+        "The wind is weak in the evening.",
+        "The rain is strong in the evening."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "The wind is strong in the evening."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Ман дар осмони кабуд абри сафед мебинам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи homework",
-        "нодуруст B",
-        "нодуруст C"
+        "I see a white cloud in the blue sky.",
+        "I see a white cloud in the grey sky.",
+        "I see a white bird in the blue sky.",
+        "I see a white cloud in the blue sky."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "I see a white cloud in the blue sky."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Офтоб дар тобистон гарм ва дурахшон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи exercise",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The sun is warm and bright in summer.",
+        "The sun is warm and bright in spring.",
+        "The sun is cold and bright in summer.",
+        "The moon is warm and bright in summer."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "The sun is warm and bright in summer."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Моҳ ва ситораҳо шабона дурахшон ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи text",
-        "нодуруст B"
+        "The moon and the stars are bright at night.",
+        "The moon and the stars are bright in the morning.",
+        "The moon and the sun are bright at night.",
+        "The sun and the stars are bright at night."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "The moon and the stars are bright at night."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Парранда дар дарахт суруди зебо мехонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи story",
-        "нодуруст C",
-        "нодуруст B"
+        "The bird sings a beautiful song in the tree.",
+        "The bird sings a beautiful song in the garden.",
+        "The duck sings a beautiful song in the tree.",
+        "The bird sings a good song in the tree."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "The bird sings a beautiful song in the tree."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Гул дар боғ сурх ва зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи question",
-        "нодуруст C",
-        "нодуруст B"
+        "The flower is red and beautiful in the garden.",
+        "The flower is red and beautiful in the field.",
+        "The leaf is red and beautiful in the garden.",
+        "The flower is yellow and beautiful in the garden."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "The flower is red and beautiful in the garden."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Дар баҳор обу ҳаво гарм аст ва дарахтон сабз ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи answer",
-        "нодуруст C",
-        "нодуруст B"
+        "In spring the weather is warm and the trees are green.",
+        "In summer the weather is warm and the trees are green.",
+        "In spring the weather is cold and the trees are green.",
+        "In spring the weather is warm and the grass is green."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "In spring the weather is warm and the trees are green."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Дар як сол чор фасл ҳаст: баҳор, тобистон, тирамоҳ ва зимистон» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи understand",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "There are four seasons in a year: spring, summer, autumn and winter.",
+        "There are three seasons in a year: spring, summer and winter.",
+        "There are four seasons in a year: spring, summer, autumn and winter.",
+        "There are four months in a year: spring, summer, autumn and winter."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "There are four seasons in a year: spring, summer, autumn and winter."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Ҳар як фасл бо роҳи худ зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи explain"
+        "Every season is beautiful in its own way.",
+        "Every season is good in its own way.",
+        "Every month is beautiful in its own way.",
+        "Every season is beautiful."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "Every season is beautiful in its own way."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Паррандаҳо аз кишварҳои гарм бармегарданд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи important",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The birds come back from warm countries.",
+        "The birds fly to warm countries.",
+        "The birds come back from cold countries.",
+        "The animals come back from warm countries."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "The birds come back from warm countries."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Мо дар ҷангал ҳайвоноти хурд мебинем: харгӯшҳо, рӯбоҳҳо ва паррандаҳо» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи different",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "We see small animals in the forest: rabbits, foxes and birds.",
+        "We see small animals in the forest: rabbits, foxes and mice.",
+        "We see big animals in the forest: rabbits, foxes and birds.",
+        "We see small animals in the garden: rabbits, foxes and birds."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "We see small animals in the forest: rabbits, foxes and birds."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Рӯзҳо дароз ва шабҳо кӯтоҳ ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи difficult"
+        "The days are long and the nights are short.",
+        "The days are short and the nights are long.",
+        "The days are long and the nights are long.",
+        "The days are long and the nights are short."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "The days are long and the nights are short."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Мо ба кӯл ё ба дарё меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи easy",
-        "нодуруст B"
+        "We go to the lake or to the river.",
+        "We go to the lake and to the river.",
+        "We go to the sea or to the river.",
+        "We go to the lake or to the sea."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "We go to the lake or to the river."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Модарам аз себҳо ва норанҷиҳо шарбат месозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи interesting",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "My mother makes juice from apples and oranges.",
+        "My mother makes juice from apples and lemons.",
+        "My grandmother makes juice from apples and oranges.",
+        "My mother makes tea from apples and oranges."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "My mother makes juice from apples and oranges."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Баргҳо зард, сурх ва қаҳваранг ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи remember"
+        "The leaves are yellow, red and brown.",
+        "The leaves are yellow, red and green.",
+        "The leaves are yellow, blue and brown.",
+        "The flowers are yellow, red and brown."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "The leaves are yellow, red and brown."
+    },
+    {
+      "q": "«Паррандаҳо ба кишварҳои гарм парвоз мекунанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The birds fly to warm countries.",
+        "The birds fly to cold countries.",
+        "The birds come from warm countries.",
+        "The animals fly to warm countries."
+      ],
+      "answer": "The birds fly to warm countries."
+    },
+    {
+      "q": "«Мо дар моҳи сентябр ба мактаб меравем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We go to school in September.",
+        "We go to school in October.",
+        "We go to the city in September.",
+        "We go to school in August."
+      ],
+      "answer": "We go to school in September."
+    },
+    {
+      "q": "«Дар зимистон обу ҳаво хеле хунук аст ва барф сафед аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In winter the weather is very cold and the snow is white.",
+        "In winter the weather is very cold and the snow is grey.",
+        "In autumn the weather is very cold and the snow is white.",
+        "In winter the weather is very warm and the snow is white."
+      ],
+      "answer": "In winter the weather is very cold and the snow is white."
+    },
+    {
+      "q": "«Дарахтон сафед ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The trees are white.",
+        "The trees are green.",
+        "The trees are yellow.",
+        "The trees are brown."
+      ],
+      "answer": "The trees are white."
+    },
+    {
+      "q": "«Мо бобобарфӣ месозем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We make a snowman.",
+        "We make a snowball.",
+        "We make a snow house.",
+        "We make a snowman in autumn."
+      ],
+      "answer": "We make a snowman."
+    },
+    {
+      "q": "«Ман ҳар чор фаслро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I love all four seasons.",
+        "I love three seasons.",
+        "I love all four months.",
+        "I love all the seasons."
+      ],
+      "answer": "I love all four seasons."
+    },
+    {
+      "q": "«Ҳар як фасл зебоии худро дорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Every season has its own beauty.",
+        "Every month has its own beauty.",
+        "Every season has its own colour.",
+        "Every season has a beauty."
+      ],
+      "answer": "Every season has its own beauty."
+    },
+    {
+      "q": "«Ман табиатро дӯст медорам ва ман кишварамро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I love nature and I love my country.",
+        "I love nature and I love my family.",
+        "I love nature and I love my city.",
+        "I love the forest and I love my country."
+      ],
+      "answer": "I love nature and I love my country."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 23
+  "wordsCount": 15
 }
