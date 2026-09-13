@@ -1,536 +1,722 @@
 {
   "id": 49,
-  "title": "Матн ва машқҳо 49",
-  "level": "Миёна - Синфи 4",
+  "title": "Матн 49: Забонҳо ва омӯзиши забонҳо",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
+      "en": "native language",
+      "tj": "забони модарӣ",
+      "ex": "Tajik is my native language."
     },
     {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
+      "en": "foreign language",
+      "tj": "забони хориҷӣ",
+      "ex": "English is a foreign language for me."
     },
     {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
+      "en": "mother tongue",
+      "tj": "забони модарӣ",
+      "ex": "We must love our mother tongue."
     },
     {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "to translate",
+      "tj": "тарҷума кардан",
+      "ex": "I translate English texts into Tajik."
     },
     {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
+      "en": "translation",
+      "tj": "тарҷума",
+      "ex": "The translation of this word is difficult."
     },
     {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
+      "en": "dictionary",
+      "tj": "луғат",
+      "ex": "I use a dictionary to find new words."
     },
     {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
+      "en": "grammar",
+      "tj": "грамматика",
+      "ex": "English grammar is not very easy."
     },
     {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
+      "en": "vocabulary",
+      "tj": "захираи калимаҳо",
+      "ex": "My English vocabulary is growing every day."
     },
     {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
+      "en": "pronunciation",
+      "tj": "талаффуз",
+      "ex": "His English pronunciation is very good."
     },
     {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
+      "en": "alphabet",
+      "tj": "алифбо",
+      "ex": "The English alphabet has 26 letters."
     },
     {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
+      "en": "accent",
+      "tj": "лаҳҷа",
+      "ex": "She speaks English with a small accent."
     },
     {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
+      "en": "fluent",
+      "tj": "равон",
+      "ex": "My teacher is fluent in English and Russian."
     },
     {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
+      "en": "fluently",
+      "tj": "бехато / равон",
+      "ex": "He speaks English fluently."
     },
     {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
+      "en": "to practise",
+      "tj": "машқ кардан",
+      "ex": "You must practise English every day."
     },
     {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
+      "en": "mistake",
+      "tj": "хато",
+      "ex": "Do not be afraid of mistakes."
     },
     {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
-    },
-    {
-      "en": "difficult",
-      "tj": "тарҷумаи difficult",
-      "ex": "I difficult English."
-    },
-    {
-      "en": "easy",
-      "tj": "тарҷумаи easy",
-      "ex": "I easy English."
-    },
-    {
-      "en": "interesting",
-      "tj": "тарҷумаи interesting",
-      "ex": "I interesting English."
-    },
-    {
-      "en": "remember",
-      "tj": "тарҷумаи remember",
-      "ex": "I remember English."
-    },
-    {
-      "en": "forget",
-      "tj": "тарҷумаи forget",
-      "ex": "I forget English."
-    },
-    {
-      "en": "homework",
-      "tj": "тарҷумаи homework",
-      "ex": "I homework English."
-    },
-    {
-      "en": "exercise",
-      "tj": "тарҷумаи exercise",
-      "ex": "I exercise English."
-    },
-    {
-      "en": "text",
-      "tj": "тарҷумаи text",
-      "ex": "I text English."
-    },
-    {
-      "en": "story",
-      "tj": "тарҷумаи story",
-      "ex": "I story English."
-    },
-    {
-      "en": "question",
-      "tj": "тарҷумаи question",
-      "ex": "I question English."
-    },
-    {
-      "en": "answer",
-      "tj": "тарҷумаи answer",
-      "ex": "I answer English."
-    },
-    {
-      "en": "understand",
-      "tj": "тарҷумаи understand",
-      "ex": "I understand English."
-    },
-    {
-      "en": "explain",
-      "tj": "тарҷумаи explain",
-      "ex": "I explain English."
-    },
-    {
-      "en": "important",
-      "tj": "тарҷумаи important",
-      "ex": "I important English."
-    },
-    {
-      "en": "different",
-      "tj": "тарҷумаи different",
-      "ex": "I different English."
+      "en": "to improve",
+      "tj": "беҳтар кардан",
+      "ex": "Reading helps me improve my English."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 49)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Tajik is my native language and my mother tongue.",
+      "tj": "Тоҷикӣ забони модарии ман аст."
     },
     {
-      "en": "I'm working on lesson 49",
-      "tj": "Ман дарси 49-ро меомӯзам"
+      "en": "English is a foreign language for me.",
+      "tj": "Англисӣ барои ман забони хориҷӣ аст."
+    },
+    {
+      "en": "We must love and respect our mother tongue.",
+      "tj": "Мо бояд забони модарии худро дӯст дорем ва эҳтиром кунем."
+    },
+    {
+      "en": "I translate English texts into Tajik every day.",
+      "tj": "Ман ҳар рӯз матнҳои англисиро ба тоҷикӣ тарҷума мекунам."
+    },
+    {
+      "en": "The translation of this word is very difficult.",
+      "tj": "Тарҷумаи ин калима хеле душвор аст."
+    },
+    {
+      "en": "I use a dictionary to find the meaning of new words.",
+      "tj": "Ман барои ёфтани маънои калимаҳои нав луғат истифода мебарам."
+    },
+    {
+      "en": "English grammar is not very easy, but I learn it step by step.",
+      "tj": "Грамматикаи англисӣ чандон осон нест, аммо ман онро қадам ба қадам меомӯзам."
+    },
+    {
+      "en": "My English vocabulary is growing every day.",
+      "tj": "Захираи калимаҳои англисии ман ҳар рӯз зиёд мешавад."
+    },
+    {
+      "en": "His English pronunciation is very good.",
+      "tj": "Талаффузи англисии ӯ хеле хуб аст."
+    },
+    {
+      "en": "The English alphabet has twenty-six letters.",
+      "tj": "Алифбои англисӣ бисту шаш ҳарф дорад."
+    },
+    {
+      "en": "She speaks English with a small accent.",
+      "tj": "Ӯ англисиро бо лаҳҷаи хурд гап мезанад."
+    },
+    {
+      "en": "My teacher is fluent in English and Russian.",
+      "tj": "Муаллимам англисӣ ва русиро равон медонад."
+    },
+    {
+      "en": "He speaks English fluently and never makes mistakes.",
+      "tj": "Ӯ англисиро равон гап мезанад ва ҳеҷ гоҳ хато намекунад."
+    },
+    {
+      "en": "You must practise English every day to speak well.",
+      "tj": "Барои хуб гап задан шумо бояд ҳар рӯз англисиро машқ кунед."
+    },
+    {
+      "en": "Do not be afraid of mistakes — they help us learn.",
+      "tj": "Аз хато натарсед — онҳо ба мо омӯхтан кӯмак мекунанд."
+    },
+    {
+      "en": "Reading books helps me improve my English.",
+      "tj": "Хондани китобҳо ба ман дар беҳтар кардани англисиам кӯмак мекунад."
     }
   ],
   "text": {
-    "en": "Text for lesson 49. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 49 is about Миёна - Синфи 4. I write all words in my notebook. Level 49 text.",
-    "tj": "Матни дарси 49..."
+    "en": "Languages and Learning Languages\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. I speak Tajik — it is my native language and my mother tongue. I also study Russian and English at school. Today I want to tell you about languages and about how we can learn a foreign language.\n\nA language is a very important thing for every person. It helps us to speak with our family, with our friends and with other people. Without a language we cannot tell others what we think, what we feel and what we want. My grandmother says: \"A person without a language is like a bird without wings.\" I think she is right.\n\nEvery country has its own language. In Tajikistan we speak Tajik. In Russia people speak Russian. In England, in America and in Australia people speak English. In France people speak French. In Germany people speak German. There are more than seven thousand languages in the world! It is a very big number. Some languages are spoken by millions of people. English, Chinese, Spanish and Hindi are the biggest languages in the world.\n\nOur mother tongue is the most important language for us. It is the language of our mother, our grandmother and our country. We must love it and respect it. We must not forget our mother tongue when we learn a foreign language. My father says: \"A person who does not love his mother tongue cannot love any other language.\" This is a very good saying.\n\nBut a foreign language is also very important. Today English is the language of the world. Millions of people in different countries speak English. English is the language of science, of business, of sport and of the internet. If you know English, you can speak with people from America, England, Australia, Canada and many other countries. You can read books and watch films in English. You can find a good job and travel around the world. That is why we learn English at school.\n\nHow can we learn a foreign language well? First, we must learn the alphabet. The English alphabet has twenty-six letters. Some of them are the same as in Tajik, but some of them are new. Then we must learn new words — our vocabulary. Every day I learn five or six new English words. I write them in my notebook and use a dictionary to find their translation. My vocabulary is growing every day.\n\nSecond, we must learn grammar. Grammar is like the rules of a game. If we know the rules, we can play the game well. English grammar is not very easy. Some rules are difficult and some are strange. But we must learn them step by step. My teacher says: \"Do not be afraid of grammar. It is your friend, not your enemy.\"\n\nThird, we must practise pronunciation. Many English words are pronounced not the same as they are written. For example, we write \"school\" and say /sku:l/. We write \"know\" and say /nəʊ/. That is why we must listen to English speech every day. I watch English cartoons and listen to English songs. My pronunciation is getting better and better. I still speak with a small accent, but my teacher says: \"An accent is not a problem. The most important thing is that people understand you.\"\n\nFourth, we must practise every day. A foreign language is like a sport — we must train it every day. If we do not practise, we forget. My grandfather says: \"Practise makes perfect.\" If you want to speak English fluently, you must speak, read, write and listen in English every day. Do not be afraid of mistakes. Every mistake is a lesson. When I make a mistake, my teacher corrects me and I remember the correct form.\n\nThere is also one more important thing. To learn a foreign language well, we must love it. We must be interested in the country, in its people and in its culture. I love English very much. I want to read English books, watch English films and speak with English people. When I grow up, I want to travel to different countries and speak English there.\n\nIn our family we speak two languages: Tajik and Russian. My mother knows Russian very well because she studied in Moscow. My father knows English a little. My sister Zuhro is fluent in Tajik and Russian, and she is learning English now. My little brother speaks only Tajik, but he is learning some English words at home.\n\nLearning a language is a long and interesting journey. It is not always easy, but it is always useful and exciting. When we learn a new language, we open a new world. We find new friends, new books, new music and new ideas. So let us learn languages with love and patience. Let us respect our mother tongue and love the languages we learn.",
+    "tj": "Забонҳо ва омӯзиши забонҳо\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Ман тоҷикӣ гап мезанам — ин забони модарии ман аст. Ман инчунин дар мактаб русӣ ва англисӣ меомӯзам. Имрӯз ман мехоҳам ба шумо дар бораи забонҳо ва дар бораи он ки чӣ тавр мо метавонем забони хориҷиро омӯзем, нақл кунам.\n\nЗабон барои ҳар як одам чизи хеле муҳим аст. Он ба мо кӯмак мекунад, ки бо оилаамон, бо дӯстонамон ва бо одамони дигар гап занем. Бе забон мо наметавонем ба дигарон гӯем, ки чӣ фикр мекунем, чӣ ҳис мекунем ва чӣ мехоҳем. Бибиам мегӯяд: «Одами бе забон мисли паррандаи бе бол аст.» Ман фикр мекунам, ки ӯ ҳақ аст.\n\nҲар як кишвар забони худро дорад. Дар Тоҷикистон мо тоҷикӣ гап мезанем. Дар Русия одамон русӣ гап мезананд. Дар Англия, дар Америка ва дар Австралия одамон англисӣ гап мезананд. Дар Фаронса одамон фаронсавӣ гап мезананд. Дар Олмон одамон олмонӣ гап мезананд. Дар ҷаҳон беш аз ҳафт ҳазор забон ҳаст! Ин рақами хеле калон аст. Баъзе забонҳоро миллионҳо одамон гап мезананд. Англисӣ, чинӣ, испанӣ ва ҳиндӣ калонтарин забонҳо дар ҷаҳон ҳастанд.\n\nЗабони модарии мо муҳимтарин забон барои мост. Ин забони модари мо, бибии мо ва кишвари мост. Мо бояд онро дӯст дорем ва эҳтиром кунем. Мо набояд забони модарии худро фаромӯш кунем, вақте ки забони хориҷӣ меомӯзем. Падарам мегӯяд: «Одаме, ки забони модарии худро дӯст намедорад, ҳеҷ забони дигарро дӯст дошта наметавонад.» Ин сухани хеле хуб аст.\n\nАммо забони хориҷӣ низ хеле муҳим аст. Имрӯз англисӣ забони ҷаҳон аст. Миллионҳо одамон дар кишварҳои гуногун англисӣ гап мезананд. Англисӣ забони илм, забони тиҷорат, забони варзиш ва забони интернет аст. Агар шумо англисиро донед, шумо метавонед бо одамон аз Америка, Англия, Австралия, Канада ва кишварҳои дигари зиёд гап занед. Шумо метавонед китобҳоро бо англисӣ хонед ва филмҳоро тамошо кунед. Шумо метавонед кори хуб ёбед ва дар тамоми ҷаҳон сафар кунед. Барои ҳамин мо дар мактаб англисӣ меомӯзем.\n\nЧӣ тавр мо метавонем забони хориҷиро хуб омӯзем? Аввал, мо бояд алифборо омӯзем. Алифбои англисӣ бисту шаш ҳарф дорад. Баъзеи онҳо мисли тоҷикӣ ҳастанд, аммо баъзеи онҳо нав ҳастанд. Баъд мо бояд калимаҳои нав омӯзем — захираи калимаҳои худро. Ҳар рӯз ман панҷ ё шаш калимаи нави англисӣ меомӯзам. Ман онҳоро дар дафтарам менависам ва барои ёфтани тарҷумаи онҳо луғат истифода мебарам. Захираи калимаҳои ман ҳар рӯз зиёд мешавад.\n\nДуюм, мо бояд грамматикаро омӯзем. Грамматика мисли қоидаҳои бозӣ аст. Агар мо қоидаҳоро донем, мо метавонем бозиро хуб бозӣ кунем. Грамматикаи англисӣ чандон осон нест. Баъзе қоидаҳо душворанд ва баъзе қоидаҳо аҷиб ҳастанд. Аммо мо бояд онҳоро қадам ба қадам омӯзем. Муаллимам мегӯяд: «Аз грамматика натарсед. Он дӯсти шумост, на душмани шумо.»\n\nСеюм, мо бояд талаффузро машқ кунем. Бисёр калимаҳои англисӣ на он тавр талаффуз мешаванд, ки навишта мешаванд. Масалан, мо \"school\" менависем ва /sku:l/ мегӯем. Мо \"know\" менависем ва /nəʊ/ мегӯем. Барои ҳамин мо бояд ҳар рӯз ба нутқи англисӣ гӯш кунем. Ман мультфилмҳои англисӣ тамошо мекунам ва ба сурудҳои англисӣ гӯш мекунам. Талаффузи ман беҳтар ва беҳтар мешавад. Ман ҳанӯз бо лаҳҷаи хурд гап мезанам, аммо муаллимам мегӯяд: «Лаҳҷа мушкил нест. Муҳимтарин чиз ин аст, ки одамон шуморо мефаҳманд.»\n\nЧорум, мо бояд ҳар рӯз машқ кунем. Забони хориҷӣ мисли варзиш аст — мо бояд ҳар рӯз онро машқ кунем. Агар мо машқ накунем, мо фаромӯш мекунем. Бобоям мегӯяд: «Машқ комил мекунад.» Агар шумо мехоҳед англисиро равон гап занед, шумо бояд ҳар рӯз ба англисӣ гап занед, хонед, нависед ва гӯш кунед. Аз хато натарсед. Ҳар як хато як дарс аст. Вақте ки ман хато мекунам, муаллимам маро ислоҳ мекунад ва ман шакли дурустро ба ёд меорам.\n\nБоз як чизи муҳим ҳаст. Барои забони хориҷиро хуб омӯхтан, мо бояд онро дӯст дорем. Мо бояд ба кишвар, ба мардуми он ва ба фарҳанги он шавқ дошта бошем. Ман англисиро хеле дӯст медорам. Ман мехоҳам китобҳои англисиро хонам, филмҳои англисиро тамошо кунам ва бо одамони англис гап занам. Вақте ки ман калон мешавам, ман мехоҳам ба кишварҳои гуногун сафар кунам ва дар он ҷо англисӣ гап занам.\n\nДар оилаи мо мо ду забон гап мезанем: тоҷикӣ ва русӣ. Модарам русиро хеле хуб медонад, зеро ки ӯ дар Маскав таҳсил кардааст. Падарам англисиро каме медонад. Хоҳарам Зуҳро тоҷикӣ ва русиро равон медонад ва ҳоло англисӣ меомӯзад. Бародари хурдии ман танҳо тоҷикӣ гап мезанад, аммо ӯ дар хона баъзе калимаҳои англисиро меомӯзад.\n\nОмӯзиши забон сафари дароз ва ҷолиб аст. Он на ҳамеша осон аст, аммо он ҳамеша фоиданок ва ҳаяҷоновар аст. Вақте ки мо забони навро меомӯзем, мо ҷаҳони навро мекушоем. Мо дӯстони нав, китобҳои нав, мусиқии нав ва фикрҳои нав меёбем. Пас, биёед забонҳоро бо муҳаббат ва сабр омӯзем. Биёед забони модарии худро эҳтиром кунем ва забонҳоеро, ки меомӯзем, дӯст дорем."
   },
   "exercises": [
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Тоҷикӣ забони модарии ман аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи understand",
-        "нодуруст C",
-        "нодуруст A"
+        "Tajik is my native language and my mother tongue.",
+        "Tajik is my mother language and my native tongue.",
+        "Tajik is my native tongue and my mother language.",
+        "Tajik is my native language."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "Tajik is my native language and my mother tongue."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Англисӣ барои ман забони хориҷӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷумаи explain"
+        "English is a foreign language for me.",
+        "English is a foreign tongue for me.",
+        "English is a strange language for me.",
+        "English is the foreign language for me."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "English is a foreign language for me."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Мо бояд забони модарии худро дӯст дорем ва эҳтиром кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи important"
+        "We must love and respect our mother tongue.",
+        "We must love and respect our native tongue.",
+        "We must love and respect the mother tongue.",
+        "We should love and respect our mother tongue."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "We must love and respect our mother tongue."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Ман ҳар рӯз матнҳои англисиро ба тоҷикӣ тарҷума мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи different",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "I translate English texts into Tajik every day.",
+        "I translate English texts into Tajik every morning.",
+        "I translate the English texts into Tajik every day.",
+        "I translate English text into Tajik every day."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "I translate English texts into Tajik every day."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Тарҷумаи ин калима хеле душвор аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи difficult",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "The translation of this word is very difficult.",
+        "The translation of that word is very difficult.",
+        "The translation of this word is very hard.",
+        "The translation for this word is very difficult."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "The translation of this word is very difficult."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Ман барои ёфтани маънои калимаҳои нав луғат истифода мебарам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи easy",
-        "нодуруст C",
-        "нодуруст B"
+        "I use a dictionary to find the meaning of new words.",
+        "I use a dictionary to find the meaning of the new words.",
+        "I use a vocabulary to find the meaning of new words.",
+        "I use a dictionary for finding the meaning of new words."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "I use a dictionary to find the meaning of new words."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Грамматикаи англисӣ чандон осон нест, аммо ман онро қадам ба қадам меомӯзам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи interesting",
-        "нодуруст C",
-        "нодуруст B"
+        "English grammar is not very easy, but I learn it step by step.",
+        "English grammar is not very easy, but I study it step by step.",
+        "English grammar isn't very easy, but I learn it step by step.",
+        "English grammar is not very easy but I learn it step by step."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "English grammar is not very easy, but I learn it step by step."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Захираи калимаҳои англисии ман ҳар рӯз зиёд мешавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи remember"
+        "My English vocabulary is growing every day.",
+        "My English vocabulary grows every day.",
+        "My English vocabulary is growing every morning.",
+        "My vocabulary in English is growing every day."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "My English vocabulary is growing every day."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Талаффузи англисии ӯ хеле хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷумаи forget"
+        "His English pronunciation is very good.",
+        "Her English pronunciation is very good.",
+        "His English pronunciation is very well.",
+        "His pronunciation of English is very good."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "His English pronunciation is very good."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Алифбои англисӣ бисту шаш ҳарф дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи homework",
-        "нодуруст C"
+        "The English alphabet has twenty-six letters.",
+        "The English alphabet has twenty six letters.",
+        "The English alphabet has 26 letters.",
+        "The English alphabet has twenty-six words."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "The English alphabet has twenty-six letters."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Ӯ англисиро бо лаҳҷаи хурд гап мезанад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи exercise"
+        "She speaks English with a small accent.",
+        "He speaks English with a small accent.",
+        "She speaks English with a little accent.",
+        "She speaks in English with a small accent."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "She speaks English with a small accent."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Муаллимам англисӣ ва русиро равон медонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи text",
-        "нодуруст B",
-        "нодуруст C"
+        "My teacher is fluent in English and Russian.",
+        "My teacher is fluent in English and in Russian.",
+        "My teacher is fluent in the English and Russian languages.",
+        "My teacher is fluent at English and Russian."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "My teacher is fluent in English and Russian."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Ӯ англисиро равон гап мезанад ва ҳеҷ гоҳ хато намекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷумаи story"
+        "He speaks English fluently and never makes mistakes.",
+        "He speaks English fluently and never makes any mistakes.",
+        "He speaks in English fluently and never makes mistakes.",
+        "She speaks English fluently and never makes mistakes."
       ],
-      "answer": "тарҷумаи story"
+      "answer": "He speaks English fluently and never makes mistakes."
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Барои хуб гап задан шумо бояд ҳар рӯз англисиро машқ кунед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи question",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "You must practise English every day to speak well.",
+        "You must practise English every day to speak good.",
+        "You should practise English every day to speak well.",
+        "You must train English every day to speak well."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "You must practise English every day to speak well."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Аз хато натарсед — онҳо ба мо омӯхтан кӯмак мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи answer",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Do not be afraid of mistakes — they help us learn.",
+        "Don't be afraid of mistakes — they help us learn.",
+        "Do not be afraid of the mistakes — they help us learn.",
+        "Do not be afraid to make mistakes — they help us learn."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "Do not be afraid of mistakes — they help us learn."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Хондани китобҳо ба ман дар беҳтар кардани англисиам кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи understand"
+        "Reading books helps me improve my English.",
+        "Reading books helps me to improve my English.",
+        "Reading books help me improve my English.",
+        "To read books helps me improve my English."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "Reading books helps me improve my English."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Ман тоҷикӣ гап мезанам — ин забони модарии ман аст. Ман инчунин дар мактаб русӣ ва англисӣ меомӯзам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи explain",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "I speak Tajik — it is my native language and my mother tongue. I also study Russian and English at school.",
+        "I speak Tajik — it is my native language and my mother tongue. I also learn Russian and English at school.",
+        "I speak in Tajik — it is my native language and my mother tongue. I also study Russian and English at school.",
+        "I speak Tajik — this is my native language and my mother tongue. I also study Russian and English at school."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "I speak Tajik — it is my native language and my mother tongue. I also study Russian and English at school."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Имрӯз ман мехоҳам ба шумо дар бораи забонҳо ва дар бораи он ки чӣ тавр мо метавонем забони хориҷиро омӯзем, нақл кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи important",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "Today I want to tell you about languages and about how we can learn a foreign language.",
+        "Today I want to tell you about languages and how we can learn a foreign language.",
+        "Today I want to tell you about the languages and about how we can learn a foreign language.",
+        "Today I want to speak to you about languages and about how we can learn a foreign language."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "Today I want to tell you about languages and about how we can learn a foreign language."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Забон барои ҳар як одам чизи хеле муҳим аст. Он ба мо кӯмак мекунад, ки бо оилаамон, бо дӯстонамон ва бо одамони дигар гап занем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи different",
-        "нодуруст B",
-        "нодуруст A"
+        "A language is a very important thing for every person. It helps us to speak with our family, with our friends and with other people.",
+        "A language is a very important thing for every person. It helps us speak with our family, with our friends and with other people.",
+        "Language is a very important thing for every person. It helps us to speak with our family, with our friends and with other people.",
+        "A language is a very important thing for each person. It helps us to speak with our family, with our friends and with other people."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "A language is a very important thing for every person. It helps us to speak with our family, with our friends and with other people."
     },
     {
-      "q": "'difficult' чи маъно дорад?",
+      "q": "«Бе забон мо наметавонем ба дигарон гӯем, ки чӣ фикр мекунем, чӣ ҳис мекунем ва чӣ мехоҳем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи difficult",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Without a language we cannot tell others what we think, what we feel and what we want.",
+        "Without language we cannot tell others what we think, what we feel and what we want.",
+        "Without a language we can't tell others what we think, what we feel and what we want.",
+        "Without a language we cannot say to others what we think, what we feel and what we want."
       ],
-      "answer": "тарҷумаи difficult"
+      "answer": "Without a language we cannot tell others what we think, what we feel and what we want."
     },
     {
-      "q": "'easy' чи маъно дорад?",
+      "q": "«Бибиам мегӯяд: \"Одами бе забон мисли паррандаи бе бол аст.\" Ман фикр мекунам, ки ӯ ҳақ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи easy",
-        "нодуруст A"
+        "My grandmother says: \"A person without a language is like a bird without wings.\" I think she is right.",
+        "My grandmother says: \"A man without a language is like a bird without wings.\" I think she is right.",
+        "My grandmother says: \"A person without language is like a bird without wings.\" I think she is right.",
+        "My grandmother says: \"A person without a language is like a bird without wings.\" I think that she is right."
       ],
-      "answer": "тарҷумаи easy"
+      "answer": "My grandmother says: \"A person without a language is like a bird without wings.\" I think she is right."
     },
     {
-      "q": "'interesting' чи маъно дорад?",
+      "q": "«Ҳар як кишвар забони худро дорад. Дар Тоҷикистон мо тоҷикӣ гап мезанем. Дар Русия одамон русӣ гап мезананд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи interesting",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Every country has its own language. In Tajikistan we speak Tajik. In Russia people speak Russian.",
+        "Each country has its own language. In Tajikistan we speak Tajik. In Russia people speak Russian.",
+        "Every country has its language. In Tajikistan we speak Tajik. In Russia people speak Russian.",
+        "Every country has its own language. In Tajikistan we speak in Tajik. In Russia people speak Russian."
       ],
-      "answer": "тарҷумаи interesting"
+      "answer": "Every country has its own language. In Tajikistan we speak Tajik. In Russia people speak Russian."
     },
     {
-      "q": "'remember' чи маъно дорад?",
+      "q": "«Дар Англия, дар Америка ва дар Австралия одамон англисӣ гап мезананд. Дар Фаронса одамон фаронсавӣ гап мезананд. Дар Олмон одамон олмонӣ гап мезананд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи remember"
+        "In England, in America and in Australia people speak English. In France people speak French. In Germany people speak German.",
+        "In England, in America and in Australia people speak English. In France people speak French. In Germany people speak German.",
+        "In England, in America and in Australia people speak English. In France people speak French. In Germany they speak German.",
+        "In England, America and Australia people speak English. In France people speak French. In Germany people speak German."
       ],
-      "answer": "тарҷумаи remember"
+      "answer": "In England, in America and in Australia people speak English. In France people speak French. In Germany people speak German."
     },
     {
-      "q": "'forget' чи маъно дорад?",
+      "q": "«Дар ҷаҳон беш аз ҳафт ҳазор забон ҳаст! Ин рақами хеле калон аст. Баъзе забонҳоро миллионҳо одамон гап мезананд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷумаи forget",
-        "нодуруст A",
-        "нодуруст C"
+        "There are more than seven thousand languages in the world! It is a very big number. Some languages are spoken by millions of people.",
+        "There are more than seven thousand languages in the world! That is a very big number. Some languages are spoken by millions of people.",
+        "There are over seven thousand languages in the world! It is a very big number. Some languages are spoken by millions of people.",
+        "There are more than seven thousand languages in the world! It is a very big number. Some languages are spoken by millions of people."
       ],
-      "answer": "тарҷумаи forget"
+      "answer": "There are more than seven thousand languages in the world! It is a very big number. Some languages are spoken by millions of people."
     },
     {
-      "q": "'homework' чи маъно дорад?",
+      "q": "«Англисӣ, чинӣ, испанӣ ва ҳиндӣ калонтарин забонҳо дар ҷаҳон ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи homework",
-        "нодуруст B",
-        "нодуруст C"
+        "English, Chinese, Spanish and Hindi are the biggest languages in the world.",
+        "English, Chinese, Spanish and Hindi are the biggest languages in the world.",
+        "English, Chinese, Spanish and Hindi are the largest languages in the world.",
+        "English, Chinese, Spanish and Hindi are the main languages in the world."
       ],
-      "answer": "тарҷумаи homework"
+      "answer": "English, Chinese, Spanish and Hindi are the biggest languages in the world."
     },
     {
-      "q": "'exercise' чи маъно дорад?",
+      "q": "«Забони модарии мо муҳимтарин забон барои мост. Ин забони модари мо, бибии мо ва кишвари мост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи exercise"
+        "Our mother tongue is the most important language for us. It is the language of our mother, our grandmother and our country.",
+        "Our mother tongue is the most important language for us. It is the language of our mother, our grandmother and our country.",
+        "Our mother tongue is the most important language to us. It is the language of our mother, our grandmother and our country.",
+        "Our mother tongue is the most important language for us. It is the language of our mother, our grandmother and our country."
       ],
-      "answer": "тарҷумаи exercise"
+      "answer": "Our mother tongue is the most important language for us. It is the language of our mother, our grandmother and our country."
     },
     {
-      "q": "'text' чи маъно дорад?",
+      "q": "«Мо набояд забони модарии худро фаромӯш кунем, вақте ки забони хориҷӣ меомӯзем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷумаи text"
+        "We must not forget our mother tongue when we learn a foreign language.",
+        "We mustn't forget our mother tongue when we learn a foreign language.",
+        "We should not forget our mother tongue when we learn a foreign language.",
+        "We must not forget our native tongue when we learn a foreign language."
       ],
-      "answer": "тарҷумаи text"
+      "answer": "We must not forget our mother tongue when we learn a foreign language."
     },
     {
-      "q": "'story' чи маъно дорад?",
+      "q": "«Падарам мегӯяд: \"Одаме, ки забони модарии худро дӯст намедорад, ҳеҷ забони дигарро дӯст дошта наметавонад.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷумаи story"
+        "My father says: \"A person who does not love his mother tongue cannot love any other language.\"",
+        "My father says: \"A person who doesn't love his mother tongue cannot love any other language.\"",
+        "My father says: \"A man who does not love his mother tongue cannot love any other language.\"",
+        "My father says: \"A person who does not love his mother tongue cannot love any other tongue.\""
       ],
-      "answer": "тарҷумаи story"
+      "answer": "My father says: \"A person who does not love his mother tongue cannot love any other language.\""
     },
     {
-      "q": "'question' чи маъно дорад?",
+      "q": "«Имрӯз англисӣ забони ҷаҳон аст. Миллионҳо одамон дар кишварҳои гуногун англисӣ гап мезананд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷумаи question",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Today English is the language of the world. Millions of people in different countries speak English.",
+        "Today English is the language of the world. Millions of people in different countries speak English.",
+        "Today English is a language of the world. Millions of people in different countries speak English.",
+        "Now English is the language of the world. Millions of people in different countries speak English."
       ],
-      "answer": "тарҷумаи question"
+      "answer": "Today English is the language of the world. Millions of people in different countries speak English."
     },
     {
-      "q": "'answer' чи маъно дорад?",
+      "q": "«Англисӣ забони илм, забони тиҷорат, забони варзиш ва забони интернет аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи answer",
-        "нодуруст C",
-        "нодуруст B"
+        "English is the language of science, of business, of sport and of the internet.",
+        "English is the language of science, of business, of sport and of the Internet.",
+        "English is the language of science, business, sport and the internet.",
+        "English is the language of science, of business, of sports and of the internet."
       ],
-      "answer": "тарҷумаи answer"
+      "answer": "English is the language of science, of business, of sport and of the internet."
     },
     {
-      "q": "'understand' чи маъно дорад?",
+      "q": "«Агар шумо англисиро донед, шумо метавонед бо одамон аз Америка, Англия, Австралия, Канада ва кишварҳои дигари зиёд гап занед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи understand",
-        "нодуруст A",
-        "нодуруст B"
+        "If you know English, you can speak with people from America, England, Australia, Canada and many other countries.",
+        "If you know English, you can speak to people from America, England, Australia, Canada and many other countries.",
+        "If you know English, you can talk with people from America, England, Australia, Canada and many other countries.",
+        "If you know English you can speak with people from America, England, Australia, Canada and many other countries."
       ],
-      "answer": "тарҷумаи understand"
+      "answer": "If you know English, you can speak with people from America, England, Australia, Canada and many other countries."
     },
     {
-      "q": "'explain' чи маъно дорад?",
+      "q": "«Шумо метавонед китобҳоро бо англисӣ хонед ва филмҳоро тамошо кунед. Шумо метавонед кори хуб ёбед ва дар тамоми ҷаҳон сафар кунед. Барои ҳамин мо дар мактаб англисӣ меомӯзем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷумаи explain",
-        "нодуруст A",
-        "нодуруст B"
+        "You can read books and watch films in English. You can find a good job and travel around the world. That is why we learn English at school.",
+        "You can read books and watch films in English. You can find a good job and travel around the world. That is why we study English at school.",
+        "You can read books and watch films in English. You can find a good job and travel all over the world. That is why we learn English at school.",
+        "You can read books and watch films in English. You can find a good job and travel around the world. This is why we learn English at school."
       ],
-      "answer": "тарҷумаи explain"
+      "answer": "You can read books and watch films in English. You can find a good job and travel around the world. That is why we learn English at school."
     },
     {
-      "q": "'important' чи маъно дорад?",
+      "q": "«Чӣ тавр мо метавонем забони хориҷиро хуб омӯзем? Аввал, мо бояд алифборо омӯзем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷумаи important",
-        "нодуруст C",
-        "нодуруст B"
+        "How can we learn a foreign language well? First, we must learn the alphabet.",
+        "How can we learn a foreign language well? First, we must learn the alphabet.",
+        "How can we learn a foreign language well? At first, we must learn the alphabet.",
+        "How can we study a foreign language well? First, we must learn the alphabet."
       ],
-      "answer": "тарҷумаи important"
+      "answer": "How can we learn a foreign language well? First, we must learn the alphabet."
     },
     {
-      "q": "'different' чи маъно дорад?",
+      "q": "«Алифбои англисӣ бисту шаш ҳарф дорад. Баъзеи онҳо мисли тоҷикӣ ҳастанд, аммо баъзеи онҳо нав ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷумаи different",
-        "нодуруст C"
+        "The English alphabet has twenty-six letters. Some of them are the same as in Tajik, but some of them are new.",
+        "The English alphabet has twenty-six letters. Some of them are like in Tajik, but some of them are new.",
+        "The English alphabet has twenty-six letters. Some of them are the same as in Tajik, but some are new.",
+        "The English alphabet has twenty-six letters. Some of them are the same as in Tajik, but some of them are new ones."
       ],
-      "answer": "тарҷумаи different"
+      "answer": "The English alphabet has twenty-six letters. Some of them are the same as in Tajik, but some of them are new."
+    },
+    {
+      "q": "«Баъд мо бояд калимаҳои нав омӯзем — захираи калимаҳои худро. Ҳар рӯз ман панҷ ё шаш калимаи нави англисӣ меомӯзам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Then we must learn new words — our vocabulary. Every day I learn five or six new English words.",
+        "Then we must learn new words — our vocabulary. Every day I learn five or six new English words.",
+        "Then we must learn new words — our vocabulary. Every day I study five or six new English words.",
+        "After that we must learn new words — our vocabulary. Every day I learn five or six new English words."
+      ],
+      "answer": "Then we must learn new words — our vocabulary. Every day I learn five or six new English words."
+    },
+    {
+      "q": "«Ман онҳоро дар дафтарам менависам ва барои ёфтани тарҷумаи онҳо луғат истифода мебарам. Захираи калимаҳои ман ҳар рӯз зиёд мешавад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I write them in my notebook and use a dictionary to find their translation. My vocabulary is growing every day.",
+        "I write them in my notebook and use a dictionary to find their translation. My vocabulary grows every day.",
+        "I write them in my notebook and use a dictionary to find their translation. My vocabulary is growing every day.",
+        "I write them in my notebook and use a dictionary for finding their translation. My vocabulary is growing every day."
+      ],
+      "answer": "I write them in my notebook and use a dictionary to find their translation. My vocabulary is growing every day."
+    },
+    {
+      "q": "«Дуюм, мо бояд грамматикаро омӯзем. Грамматика мисли қоидаҳои бозӣ аст. Агар мо қоидаҳоро донем, мо метавонем бозиро хуб бозӣ кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Second, we must learn grammar. Grammar is like the rules of a game. If we know the rules, we can play the game well.",
+        "Secondly, we must learn grammar. Grammar is like the rules of a game. If we know the rules, we can play the game well.",
+        "Second, we must learn grammar. Grammar is like rules of a game. If we know the rules, we can play the game well.",
+        "Second, we must study grammar. Grammar is like the rules of a game. If we know the rules, we can play the game well."
+      ],
+      "answer": "Second, we must learn grammar. Grammar is like the rules of a game. If we know the rules, we can play the game well."
+    },
+    {
+      "q": "«Грамматикаи англисӣ чандон осон нест. Баъзе қоидаҳо душворанд ва баъзе қоидаҳо аҷиб ҳастанд. Аммо мо бояд онҳоро қадам ба қадам омӯзем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "English grammar is not very easy. Some rules are difficult and some are strange. But we must learn them step by step.",
+        "English grammar is not very easy. Some rules are difficult and some are strange. But we must learn them step by step.",
+        "English grammar isn't very easy. Some rules are difficult and some are strange. But we must learn them step by step.",
+        "English grammar is not very easy. Some rules are difficult, and some are strange. But we must learn them step by step."
+      ],
+      "answer": "English grammar is not very easy. Some rules are difficult and some are strange. But we must learn them step by step."
+    },
+    {
+      "q": "«Муаллимам мегӯяд: \"Аз грамматика натарсед. Он дӯсти шумост, на душмани шумо.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My teacher says: \"Do not be afraid of grammar. It is your friend, not your enemy.\"",
+        "My teacher says: \"Don't be afraid of grammar. It is your friend, not your enemy.\"",
+        "My teacher says: \"Do not be afraid of the grammar. It is your friend, not your enemy.\"",
+        "My teacher says: \"Do not be afraid of grammar. It is a friend, not an enemy.\""
+      ],
+      "answer": "My teacher says: \"Do not be afraid of grammar. It is your friend, not your enemy.\""
+    },
+    {
+      "q": "«Сеюм, мо бояд талаффузро машқ кунем. Бисёр калимаҳои англисӣ на он тавр талаффуз мешаванд, ки навишта мешаванд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Third, we must practise pronunciation. Many English words are pronounced not the same as they are written.",
+        "Thirdly, we must practise pronunciation. Many English words are pronounced not the same as they are written.",
+        "Third, we must practise pronunciation. Many English words are not pronounced the same as they are written.",
+        "Third, we must practise pronunciation. Many English words are pronounced differently than they are written."
+      ],
+      "answer": "Third, we must practise pronunciation. Many English words are pronounced not the same as they are written."
+    },
+    {
+      "q": "«Масалан, мо \"school\" менависем ва /sku:l/ мегӯем. Мо \"know\" менависем ва /nəʊ/ мегӯем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "For example, we write \"school\" and say /sku:l/. We write \"know\" and say /nəʊ/.",
+        "For example, we write \"school\" and say /sku:l/. We write \"know\" and say /nəʊ/.",
+        "For instance, we write \"school\" and say /sku:l/. We write \"know\" and say /nəʊ/.",
+        "For example, we write \"school\" and say /sku:l/, we write \"know\" and say /nəʊ/."
+      ],
+      "answer": "For example, we write \"school\" and say /sku:l/. We write \"know\" and say /nəʊ/."
+    },
+    {
+      "q": "«Барои ҳамин мо бояд ҳар рӯз ба нутқи англисӣ гӯш кунем. Ман мультфилмҳои англисӣ тамошо мекунам ва ба сурудҳои англисӣ гӯш мекунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "That is why we must listen to English speech every day. I watch English cartoons and listen to English songs.",
+        "That is why we must listen to English speech every day. I watch English cartoons and listen to English songs.",
+        "That is why we should listen to English speech every day. I watch English cartoons and listen to English songs.",
+        "That is why we must listen to English every day. I watch English cartoons and listen to English songs."
+      ],
+      "answer": "That is why we must listen to English speech every day. I watch English cartoons and listen to English songs."
+    },
+    {
+      "q": "«Талаффузи ман беҳтар ва беҳтар мешавад. Ман ҳанӯз бо лаҳҷаи хурд гап мезанам, аммо муаллимам мегӯяд: \"Лаҳҷа мушкил нест.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My pronunciation is getting better and better. I still speak with a small accent, but my teacher says: \"An accent is not a problem.\"",
+        "My pronunciation is getting better and better. I still speak with a small accent, but my teacher says: \"The accent is not a problem.\"",
+        "My pronunciation is getting better and better. I still speak with a small accent, but my teacher says: \"An accent is no problem.\"",
+        "My pronunciation is becoming better and better. I still speak with a small accent, but my teacher says: \"An accent is not a problem.\""
+      ],
+      "answer": "My pronunciation is getting better and better. I still speak with a small accent, but my teacher says: \"An accent is not a problem.\""
+    },
+    {
+      "q": "«Муҳимтарин чиз ин аст, ки одамон шуморо мефаҳманд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The most important thing is that people understand you.",
+        "The most important thing is that people understand you.",
+        "The main thing is that people understand you.",
+        "The most important thing is for people to understand you."
+      ],
+      "answer": "The most important thing is that people understand you."
+    },
+    {
+      "q": "«Чорум, мо бояд ҳар рӯз машқ кунем. Забони хориҷӣ мисли варзиш аст — мо бояд ҳар рӯз онро машқ кунем. Агар мо машқ накунем, мо фаромӯш мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Fourth, we must practise every day. A foreign language is like a sport — we must train it every day. If we do not practise, we forget.",
+        "Fourthly, we must practise every day. A foreign language is like a sport — we must train it every day. If we do not practise, we forget.",
+        "Fourth, we must practise every day. A foreign language is like sport — we must train it every day. If we do not practise, we forget.",
+        "Fourth, we must practise every day. A foreign language is like a sport — we must train it every day. If we don't practise, we forget."
+      ],
+      "answer": "Fourth, we must practise every day. A foreign language is like a sport — we must train it every day. If we do not practise, we forget."
+    },
+    {
+      "q": "«Бобоям мегӯяд: \"Машқ комил мекунад.\" Агар шумо мехоҳед англисиро равон гап занед, шумо бояд ҳар рӯз ба англисӣ гап занед, хонед, нависед ва гӯш кунед» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandfather says: \"Practise makes perfect.\" If you want to speak English fluently, you must speak, read, write and listen in English every day.",
+        "My grandfather says: \"Practice makes perfect.\" If you want to speak English fluently, you must speak, read, write and listen in English every day.",
+        "My grandfather says: \"Practise makes perfect.\" If you want to speak English fluently, you must speak, read, write and listen to English every day.",
+        "My grandfather says: \"Practise makes perfect.\" If you want to speak English fluently you must speak, read, write and listen in English every day."
+      ],
+      "answer": "My grandfather says: \"Practise makes perfect.\" If you want to speak English fluently, you must speak, read, write and listen in English every day."
+    },
+    {
+      "q": "«Аз хато натарсед. Ҳар як хато як дарс аст. Вақте ки ман хато мекунам, муаллимам маро ислоҳ мекунад ва ман шакли дурустро ба ёд меорам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Do not be afraid of mistakes. Every mistake is a lesson. When I make a mistake, my teacher corrects me and I remember the correct form.",
+        "Don't be afraid of mistakes. Every mistake is a lesson. When I make a mistake, my teacher corrects me and I remember the correct form.",
+        "Do not be afraid of mistakes. Every mistake is a lesson. When I make a mistake, my teacher corrects me and I remember the right form.",
+        "Do not be afraid of mistakes. Each mistake is a lesson. When I make a mistake, my teacher corrects me and I remember the correct form."
+      ],
+      "answer": "Do not be afraid of mistakes. Every mistake is a lesson. When I make a mistake, my teacher corrects me and I remember the correct form."
+    },
+    {
+      "q": "«Боз як чизи муҳим ҳаст. Барои забони хориҷиро хуб омӯхтан, мо бояд онро дӯст дорем. Мо бояд ба кишвар, ба мардуми он ва ба фарҳанги он шавқ дошта бошем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "There is also one more important thing. To learn a foreign language well, we must love it. We must be interested in the country, in its people and in its culture.",
+        "There is also one more important thing. To learn a foreign language well we must love it. We must be interested in the country, in its people and in its culture.",
+        "There is also one more important thing. To learn a foreign language well, we must love it. We must be interested in the country, its people and its culture.",
+        "There is also one more important thing. To learn a foreign language well, we must love it. We should be interested in the country, in its people and in its culture."
+      ],
+      "answer": "There is also one more important thing. To learn a foreign language well, we must love it. We must be interested in the country, in its people and in its culture."
+    },
+    {
+      "q": "«Ман англисиро хеле дӯст медорам. Ман мехоҳам китобҳои англисиро хонам, филмҳои англисиро тамошо кунам ва бо одамони англис гап занам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I love English very much. I want to read English books, watch English films and speak with English people.",
+        "I love English very much. I want to read English books, watch English films and speak to English people.",
+        "I love English very much. I want to read English books, watch English films and talk with English people.",
+        "I love English very much. I want to read the English books, watch English films and speak with English people."
+      ],
+      "answer": "I love English very much. I want to read English books, watch English films and speak with English people."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам ба кишварҳои гуногун сафар кунам ва дар он ҷо англисӣ гап занам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to travel to different countries and speak English there.",
+        "When I grow up, I want to travel to different countries and speak English there.",
+        "When I grow up, I want to travel in different countries and speak English there.",
+        "When I grow up I want to travel to different countries and speak English there."
+      ],
+      "answer": "When I grow up, I want to travel to different countries and speak English there."
+    },
+    {
+      "q": "«Дар оилаи мо мо ду забон гап мезанем: тоҷикӣ ва русӣ. Модарам русиро хеле хуб медонад, зеро ки ӯ дар Маскав таҳсил кардааст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In our family we speak two languages: Tajik and Russian. My mother knows Russian very well because she studied in Moscow.",
+        "In our family we speak two languages: Tajik and Russian. My mother knows Russian very well, because she studied in Moscow.",
+        "In our family, we speak two languages: Tajik and Russian. My mother knows Russian very well because she studied in Moscow.",
+        "In our family we speak in two languages: Tajik and Russian. My mother knows Russian very well because she studied in Moscow."
+      ],
+      "answer": "In our family we speak two languages: Tajik and Russian. My mother knows Russian very well because she studied in Moscow."
+    },
+    {
+      "q": "«Падарам англисиро каме медонад. Хоҳарам Зуҳро тоҷикӣ ва русиро равон медонад ва ҳоло англисӣ меомӯзад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father knows English a little. My sister Zuhro is fluent in Tajik and Russian, and she is learning English now.",
+        "My father knows a little English. My sister Zuhro is fluent in Tajik and Russian, and she is learning English now.",
+        "My father knows English a little. My sister Zuhro is fluent in Tajik and Russian and she is learning English now.",
+        "My father knows English a little. My sister Zuhro is fluent in Tajik and Russian, and now she is learning English."
+      ],
+      "answer": "My father knows English a little. My sister Zuhro is fluent in Tajik and Russian, and she is learning English now."
+    },
+    {
+      "q": "«Бародари хурдии ман танҳо тоҷикӣ гап мезанад, аммо ӯ дар хона баъзе калимаҳои англисиро меомӯзад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My little brother speaks only Tajik, but he is learning some English words at home.",
+        "My little brother speaks only Tajik, but he learns some English words at home.",
+        "My little brother speaks only Tajik but he is learning some English words at home.",
+        "My little brother speaks only in Tajik, but he is learning some English words at home."
+      ],
+      "answer": "My little brother speaks only Tajik, but he is learning some English words at home."
+    },
+    {
+      "q": "«Омӯзиши забон сафари дароз ва ҷолиб аст. Он на ҳамеша осон аст, аммо он ҳамеша фоиданок ва ҳаяҷоновар аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Learning a language is a long and interesting journey. It is not always easy, but it is always useful and exciting.",
+        "Learning a language is a long and interesting journey. It is not always easy but it is always useful and exciting.",
+        "Learning a language is a long and interesting journey. It is not always easy, but it is always useful and exciting.",
+        "Learning a language is a long and interesting trip. It is not always easy, but it is always useful and exciting."
+      ],
+      "answer": "Learning a language is a long and interesting journey. It is not always easy, but it is always useful and exciting."
+    },
+    {
+      "q": "«Вақте ки мо забони навро меомӯзем, мо ҷаҳони навро мекушоем. Мо дӯстони нав, китобҳои нав, мусиқии нав ва фикрҳои нав меёбем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When we learn a new language, we open a new world. We find new friends, new books, new music and new ideas.",
+        "When we learn a new language, we open a new world. We find new friends, new books, new music and new ideas.",
+        "When we study a new language, we open a new world. We find new friends, new books, new music and new ideas.",
+        "When we learn a new language we open a new world. We find new friends, new books, new music and new ideas."
+      ],
+      "answer": "When we learn a new language, we open a new world. We find new friends, new books, new music and new ideas."
+    },
+    {
+      "q": "«Пас, биёед забонҳоро бо муҳаббат ва сабр омӯзем. Биёед забони модарии худро эҳтиром кунем ва забонҳоеро, ки меомӯзем, дӯст дорем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "So let us learn languages with love and patience. Let us respect our mother tongue and love the languages we learn.",
+        "So let's learn languages with love and patience. Let's respect our mother tongue and love the languages we learn.",
+        "So let us learn languages with love and patience. Let us respect our mother tongue and love the languages that we learn.",
+        "So, let us learn languages with love and patience. Let us respect our mother tongue and love the languages we learn."
+      ],
+      "answer": "So let us learn languages with love and patience. Let us respect our mother tongue and love the languages we learn."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 34
+  "wordsCount": 16
 }
