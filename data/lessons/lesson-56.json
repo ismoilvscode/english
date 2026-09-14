@@ -1,416 +1,712 @@
 {
   "id": 56,
-  "title": "Муоширати воқеӣ 56",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 56: Орзуҳои бузург ва ҳадафҳои ман",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "ambition",
+      "tj": "орзуи бузург",
+      "ex": "My ambition is to be a famous doctor."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "aim",
+      "tj": "мақсад",
+      "ex": "My aim is to help my country."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "to set a goal",
+      "tj": "ҳадаф гузоштан",
+      "ex": "I set a goal for every year."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "to work towards",
+      "tj": "ба сӯи он кор кардан",
+      "ex": "I work towards my big dream."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "to overcome",
+      "tj": "ғолиб омадан",
+      "ex": "I want to overcome all difficulties."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "difficulty",
+      "tj": "душворӣ",
+      "ex": "There are many difficulties on the way."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "to keep going",
+      "tj": "идома додан",
+      "ex": "A strong person keeps going."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to believe in",
+      "tj": "бовар кардан ба",
+      "ex": "I believe in myself and in my dream."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "self-confidence",
+      "tj": "эътимод ба худ",
+      "ex": "Self-confidence helps me a lot."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to encourage",
+      "tj": "ташвиқ кардан",
+      "ex": "My parents encourage me to study hard."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "encouragement",
+      "tj": "ташвиқ",
+      "ex": "I need encouragement from my family."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "to support",
+      "tj": "дастгирӣ кардан",
+      "ex": "My family supports me in everything."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "to be responsible",
+      "tj": "масъул будан",
+      "ex": "I am responsible for my studies."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "responsibility",
+      "tj": "масъулият",
+      "ex": "Study is my responsibility."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to keep learning",
+      "tj": "омӯхтанро давом додан",
+      "ex": "A good person keeps learning all his life."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "wise",
+      "tj": "доно",
+      "ex": "My grandfather is a wise man."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 56)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "My ambition is to become a good doctor and help many people.",
+      "tj": "Орзуи бузурги ман духтури хуб шудан ва ба одамони зиёд кӯмак кардан аст."
     },
     {
-      "en": "I'm working on lesson 56",
-      "tj": "Ман дарси 56-ро меомӯзам"
+      "en": "My aim is to help my country and my people.",
+      "tj": "Мақсади ман кӯмак кардан ба кишварам ва мардумам аст."
+    },
+    {
+      "en": "I set a goal for every year and work hard to reach it.",
+      "tj": "Ман барои ҳар сол ҳадаф мегузорам ва барои расидан ба он бо ҷидду ҷаҳд кор мекунам."
+    },
+    {
+      "en": "Every day I work towards my big dream.",
+      "tj": "Ҳар рӯз ман ба сӯи орзуи бузурги худ кор мекунам."
+    },
+    {
+      "en": "I want to overcome all difficulties on my way.",
+      "tj": "Ман мехоҳам ба ҳамаи душвориҳо дар роҳи худ ғолиб оям."
+    },
+    {
+      "en": "There are many difficulties on the way to a big dream.",
+      "tj": "Дар роҳ ба сӯи орзуи бузург душвориҳои зиёд ҳастанд."
+    },
+    {
+      "en": "A strong person always keeps going and never stops.",
+      "tj": "Одами қавӣ ҳамеша идома медиҳад ва ҳеҷ гоҳ намеистад."
+    },
+    {
+      "en": "I believe in myself and in my dream.",
+      "tj": "Ман ба худам ва ба орзуи худ бовар мекунам."
+    },
+    {
+      "en": "Self-confidence helps me a lot at school.",
+      "tj": "Эътимод ба худ дар мактаб ба ман хеле кӯмак мекунад."
+    },
+    {
+      "en": "My parents encourage me to study hard and to be kind.",
+      "tj": "Волидонам маро ташвиқ мекунанд, ки бо ҷидду ҷаҳд таҳсил кунам ва меҳрубон бошам."
+    },
+    {
+      "en": "I need encouragement from my family and my teachers.",
+      "tj": "Ман ба ташвиқи оилаам ва муаллимонам ниёз дорам."
+    },
+    {
+      "en": "My family supports me in everything.",
+      "tj": "Оилаам маро дар ҳама чиз дастгирӣ мекунад."
+    },
+    {
+      "en": "I am responsible for my studies and for my future.",
+      "tj": "Ман барои таҳсили худ ва барои ояндаи худ масъул ҳастам."
+    },
+    {
+      "en": "Study is my first responsibility.",
+      "tj": "Таҳсил масъулияти якуми ман аст."
+    },
+    {
+      "en": "A good person keeps learning all his life.",
+      "tj": "Одами хуб тамоми умри худ омӯхтанро давом медиҳад."
+    },
+    {
+      "en": "My grandfather is a wise man and I always listen to him.",
+      "tj": "Бобоям марди доно аст ва ман ҳамеша ба ӯ гӯш мекунам."
     }
   ],
   "text": {
-    "en": "Text for lesson 56. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 56 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 56 text.",
-    "tj": "Матни дарси 56..."
+    "en": "Big Dreams and My Goals\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. Since I was a small boy, I have had a big dream. My big dream — my ambition — is to become a good doctor and to help many people. I want to save lives. I want to make sick people healthy and sad people happy. This is my aim, my big aim for the whole of my life.\n\nEvery big dream begins with a small goal. When I was seven years old, I set my first goal: to learn the English alphabet. In one month I learned all twenty-six letters. Then I set a new goal: to learn one hundred English words. In three months I learned them. Now I set new goals every year. This year my goal is to read ten books in English and to get good marks in all my subjects. Next year my goal will be to start learning chemistry very seriously, because a doctor needs to know chemistry very well.\n\nI work towards my big dream every single day. I get up early, I do my morning exercises, I have breakfast and I go to school. At school I listen to my teachers carefully and I ask questions when I do not understand something. After school I do my homework, I read books and I help my mother at home. In the evening I read some pages of a good book before I sleep. Every day, step by step, I am getting closer to my dream.\n\nThe way to a big dream is never easy. There are many difficulties on this way. Sometimes I am very tired. Sometimes I want to stop and rest. Sometimes I get a bad mark at school and I feel sad. Sometimes my friends go out to play, but I must stay at home and study. It is not always easy to keep going. But I know one important thing: a strong person does not stop. A strong person overcomes all difficulties and keeps going. My grandfather always tells me: \"The road to success is never straight. But if you never stop walking, you will reach your goal.\"\n\nI believe in myself and I believe in my dream. I also believe in my family and in my teachers. Self-confidence is very important. When I believe in myself, I am not afraid of difficulties. When I believe in myself, I can do difficult things — I can learn a new language, I can solve a difficult problem, I can help a sick person. My mother says: \"Believe in yourself, my son. If you believe in yourself, you can do anything.\"\n\nMy family encourages me very much. My mother encourages me every day. She says: \"You are clever and kind, Ismoil. You can become a good doctor.\" My father encourages me too. He tells me interesting stories about his work in the hospital. My grandmother gives me good food and warm tea and tells me: \"Study well, my dear. Study is the most important thing in your life.\" My teachers also encourage me. They give me good marks and they say: \"Well done, Ismoil! Keep going!\"\n\nI am very grateful for this encouragement. Without my family and my teachers, I could not work so hard. I also try to encourage my little brother. When he learns a new letter or a new word, I say to him: \"Well done! You are a clever boy!\" When he is sad, I tell him funny stories and make him laugh. I want to be a good example for him.\n\nI am responsible for my studies and for my future. This is my responsibility, not my parents' responsibility. My parents can help me, but they cannot study for me. I must do my homework myself. I must read books myself. I must learn new words myself. When I am a doctor, I will be responsible for the lives of my patients. So I must learn to be responsible now, when I am still a pupil.\n\nA wise person keeps learning all his life. Even when I become a doctor, I will continue to learn new things. Medicine is changing very quickly. New illnesses appear, new medicines are invented, new machines are built. If I want to be a good doctor, I must keep learning until the end of my life.\n\nMy family supports me in everything. My mother supports me at home. My father supports me with advice and with interesting stories. My grandmother supports me with good food. My grandfather supports me with wise words. My sister supports me by helping me with English. I am very lucky to have such a family.\n\nWhen I grow up and become a doctor, I want to come back to my school and say to all the children: \"Dream big! Set a goal and work towards it every day. Believe in yourself. Overcome all difficulties. Keep going and never stop. And remember: your family and your teachers are always with you. Together, we can make all our dreams come true!\"",
+    "tj": "Орзуҳои бузург ва ҳадафҳои ман\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Аз вақте ки ман кӯдаки хурд будам, ман орзуи бузург доштам. Орзуи бузурги ман — орзуи калони ман — ин духтури хуб шудан ва ба одамони зиёд кӯмак кардан аст. Ман мехоҳам ҳаётҳоро наҷот диҳам. Ман мехоҳам одамони беморро солим ва одамони ғамгинро хушбахт кунам. Ин мақсади ман аст, мақсади бузурги ман барои тамоми умрам.\n\nҲар як орзуи бузург бо ҳадафи хурд оғоз мешавад. Вақте ки ман ҳафтсола будам, ман ҳадафи якуми худро гузоштам: омӯхтани алифбои англисӣ. Дар як моҳ ман ҳамаи бисту шаш ҳарфро омӯхтам. Баъд ман ҳадафи нав гузоштам: омӯхтани сад калимаи англисӣ. Дар се моҳ ман онҳоро омӯхтам. Ҳоло ман ҳар сол ҳадафҳои нав мегузорам. Соли ҷорӣ ҳадафи ман хондани даҳ китоб бо англисӣ ва гирифтани баҳои хуб аз ҳамаи фанҳоям аст. Соли оянда ҳадафи ман оғоз кардани омӯзиши чиддии химия хоҳад буд, зеро ки духтур бояд химияро хеле хуб донад.\n\nМан ҳар як рӯз ба сӯи орзуи бузурги худ кор мекунам. Ман барвақт аз ҷой мехезам, машқҳои субҳро иҷро мекунам, наҳорӣ мехӯрам ва ба мактаб меравам. Дар мактаб ман ба муаллимонам бодиққат гӯш мекунам ва вақте ки чизеро намефаҳмам, савол медиҳам. Баъд аз мактаб ман вазифаи хонагиамро иҷро мекунам, китобҳо мехонам ва дар хона ба модарам кӯмак мекунам. Бегоҳ ман пеш аз хоб чанд саҳифаи китоби хубро мехонам. Ҳар рӯз, қадам ба қадам, ман ба орзуи худ наздиктар мешавам.\n\nРоҳ ба сӯи орзуи бузург ҳеҷ гоҳ осон нест. Дар ин роҳ душвориҳои зиёд ҳастанд. Баъзан ман хеле хаста мешавам. Баъзан ман мехоҳам истам ва дам гирам. Баъзан ман дар мактаб баҳои бад мегирам ва ғамгин мешавам. Баъзан дӯстонам ба бозӣ мераванд, аммо ман бояд дар хона бимонам ва таҳсил кунам. Ҳамеша идома додан осон нест. Аммо ман як чизи муҳимро медонам: одами қавӣ намеистад. Одами қавӣ ба ҳамаи душвориҳо ғолиб меояд ва идома медиҳад. Бобоям ҳамеша ба ман мегӯяд: «Роҳ ба сӯи муваффақият ҳеҷ гоҳ рост нест. Аммо агар шумо ҳеҷ гоҳ қадам заданро бас накунед, шумо ба ҳадафи худ мерасед.»\n\nМан ба худам бовар мекунам ва ба орзуи худ бовар мекунам. Ман инчунин ба оилаам ва ба муаллимонам бовар мекунам. Эътимод ба худ хеле муҳим аст. Вақте ки ман ба худам бовар мекунам, ман аз душвориҳо наметарсам. Вақте ки ман ба худам бовар мекунам, ман метавонам корҳои душворро иҷро кунам — ман метавонам забони нав омӯзам, ман метавонам масъалаи душворро ҳал кунам, ман метавонам ба одами бемор кӯмак кунам. Модарам мегӯяд: «Ба худат бовар кун, писарам. Агар ту ба худат бовар кунӣ, ту ҳар корро карда метавонӣ.»\n\nОилаи ман маро хеле ташвиқ мекунад. Модарам ҳар рӯз маро ташвиқ мекунад. Ӯ мегӯяд: «Ту зирак ва меҳрубон ҳастӣ, Исмоил. Ту метавонӣ духтури хуб шавӣ.» Падарам низ маро ташвиқ мекунад. Ӯ ба ман ҳикояҳои ҷолиб дар бораи кори худ дар беморхона нақл мекунад. Бибиам ба ман ғизои хуб ва чойи гарм медиҳад ва мегӯяд: «Хуб таҳсил кун, азизам. Таҳсил муҳимтарин чиз дар ҳаёти туст.» Муаллимонам низ маро ташвиқ мекунанд. Онҳо ба ман баҳои хуб медиҳанд ва мегӯянд: «Офарин, Исмоил! Идома деҳ!»\n\nМан барои ин ташвиқ хеле миннатдорам. Бе оилаам ва муаллимонам ман наметавонистам ин қадар бо ҷидду ҷаҳд кор кунам. Ман инчунин кӯшиш мекунам, ки бародари хурдии худро ташвиқ кунам. Вақте ки ӯ ҳарфи нав ё калимаи навро меомӯзад, ман ба ӯ мегӯям: «Офарин! Ту писари зирак ҳастӣ!» Вақте ки ӯ ғамгин аст, ман ба ӯ ҳикояҳои хандаовар нақл мекунам ва ӯро механдонам. Ман мехоҳам барои ӯ намунаи хуб бошам.\n\nМан барои таҳсили худ ва барои ояндаи худ масъул ҳастам. Ин масъулияти ман аст, на масъулияти волидонам. Волидонам метавонанд ба ман кӯмак кунанд, аммо онҳо наметавонанд ба ҷои ман таҳсил кунанд. Ман бояд вазифаи хонагиамро худам иҷро кунам. Ман бояд китобҳоро худам хонам. Ман бояд калимаҳои навро худам омӯзам. Вақте ки ман духтур мешавам, ман барои ҳаёти беморони худ масъул хоҳам буд. Бинобар ин ман бояд ҳозир, вақте ки ҳанӯз хонанда ҳастам, масъул буданро омӯзам.\n\nОдами доно тамоми умри худ омӯхтанро давом медиҳад. Ҳатто вақте ки ман духтур мешавам, ман омӯхтани чизҳои навро идома медиҳам. Тиб хеле зуд тағйир меёбад. Бемориҳои нав пайдо мешаванд, доруҳои нав ихтироъ мешаванд, мошинҳои нав сохта мешаванд. Агар ман духтури хуб шудан хоҳам, ман бояд то охири умрам омӯхтанро давом диҳам.\n\nОилаи ман маро дар ҳама чиз дастгирӣ мекунад. Модарам маро дар хона дастгирӣ мекунад. Падарам маро бо маслиҳатҳо ва бо ҳикояҳои ҷолиб дастгирӣ мекунад. Бибиам маро бо ғизои хуб дастгирӣ мекунад. Бобоям маро бо суханони доно дастгирӣ мекунад. Хоҳарам маро бо кӯмак дар англисӣ дастгирӣ мекунад. Ман хеле бахтиёр ҳастам, ки чунин оила дорам.\n\nВақте ки ман калон мешавам ва духтур мешавам, ман мехоҳам ба мактаби худ баргардам ва ба ҳамаи кӯдакон гӯям: «Орзуи бузург кунед! Ҳадаф гузоред ва ҳар рӯз ба сӯи он кор кунед. Ба худатон бовар кунед. Ба ҳамаи душвориҳо ғолиб оед. Идома диҳед ва ҳеҷ гоҳ наистед. Ва дар хотир доред: оилаи шумо ва муаллимони шумо ҳамеша бо шумо ҳастанд. Якҷоя мо метавонем ҳамаи орзуҳои худро амалӣ созем!»"
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Орзуи бузурги ман духтури хуб шудан ва ба одамони зиёд кӯмак кардан аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "My ambition is to become a good doctor and help many people.",
+        "My ambition is to become a good doctor and to help many people.",
+        "My ambition is becoming a good doctor and helping many people.",
+        "My aim is to become a good doctor and help many people."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "My ambition is to become a good doctor and help many people."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Мақсади ман кӯмак кардан ба кишварам ва мардумам аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: experience",
-        "нодуруст B",
-        "нодуруст A"
+        "My aim is to help my country and my people.",
+        "My aim is to help my country and people.",
+        "My aim is helping my country and my people.",
+        "My goal is to help my country and my people."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "My aim is to help my country and my people."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ман барои ҳар сол ҳадаф мегузорам ва барои расидан ба он бо ҷидду ҷаҳд кор мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "I set a goal for every year and work hard to reach it.",
+        "I set a goal for each year and work hard to reach it.",
+        "I set a goal for every year and work hard to achieve it.",
+        "I set a goal every year and work hard to reach it."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "I set a goal for every year and work hard to reach it."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ҳар рӯз ман ба сӯи орзуи бузурги худ кор мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: communication"
+        "Every day I work towards my big dream.",
+        "Every day I work toward my big dream.",
+        "Every day I work for my big dream.",
+        "Every day I work to my big dream."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "Every day I work towards my big dream."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ман мехоҳам ба ҳамаи душвориҳо дар роҳи худ ғолиб оям» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: education",
-        "нодуруст A"
+        "I want to overcome all difficulties on my way.",
+        "I want to overcome all difficulties in my way.",
+        "I want to overcome all the difficulties on my way.",
+        "I want to win all difficulties on my way."
       ],
-      "answer": "тарҷума: education"
+      "answer": "I want to overcome all difficulties on my way."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Дар роҳ ба сӯи орзуи бузург душвориҳои зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: development",
-        "нодуруст C",
-        "нодуруст B"
+        "There are many difficulties on the way to a big dream.",
+        "There are many difficulties on the way to the big dream.",
+        "There are a lot of difficulties on the way to a big dream.",
+        "There are many difficulties in the way to a big dream."
       ],
-      "answer": "тарҷума: development"
+      "answer": "There are many difficulties on the way to a big dream."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Одами қавӣ ҳамеша идома медиҳад ва ҳеҷ гоҳ намеистад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: achievement"
+        "A strong person always keeps going and never stops.",
+        "A strong man always keeps going and never stops.",
+        "A strong person keeps going always and never stops.",
+        "A strong person always keeps going and does not stop."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "A strong person always keeps going and never stops."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ман ба худам ва ба орзуи худ бовар мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: challenge",
-        "нодуруст C",
-        "нодуруст B"
+        "I believe in myself and in my dream.",
+        "I believe in myself and my dream.",
+        "I believe myself and in my dream.",
+        "I believe in me and in my dream."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "I believe in myself and in my dream."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Эътимод ба худ дар мактаб ба ман хеле кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: knowledge",
-        "нодуруст B"
+        "Self-confidence helps me a lot at school.",
+        "Self-confidence helps me very much at school.",
+        "Self-confidence helps me a lot in school.",
+        "Self-confidence helps to me a lot at school."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "Self-confidence helps me a lot at school."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Волидонам маро ташвиқ мекунанд, ки бо ҷидду ҷаҳд таҳсил кунам ва меҳрубон бошам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: conversation"
+        "My parents encourage me to study hard and to be kind.",
+        "My parents encourage me to study hard and be kind.",
+        "My parents encourage me to study well and to be kind.",
+        "My parents encourage me to work hard and to be kind."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "My parents encourage me to study hard and to be kind."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ман ба ташвиқи оилаам ва муаллимонам ниёз дорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: fluency",
-        "нодуруст C",
-        "нодуруст A"
+        "I need encouragement from my family and my teachers.",
+        "I need encouragement from my family and my teachers.",
+        "I need the encouragement from my family and my teachers.",
+        "I need encouragement of my family and my teachers."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "I need encouragement from my family and my teachers."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Оилаам маро дар ҳама чиз дастгирӣ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст B",
-        "нодуруст C"
+        "My family supports me in everything.",
+        "My family supports me in all things.",
+        "My family supports me in every thing.",
+        "My family supports me with everything."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "My family supports me in everything."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Ман барои таҳсили худ ва барои ояндаи худ масъул ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: pronunciation"
+        "I am responsible for my studies and for my future.",
+        "I am responsible for my study and for my future.",
+        "I am responsible for my studies and my future.",
+        "I am responsible for my education and for my future."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "I am responsible for my studies and for my future."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Таҳсил масъулияти якуми ман аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: vocabulary"
+        "Study is my first responsibility.",
+        "Study is my first responsibility.",
+        "Studies are my first responsibility.",
+        "Study is the first responsibility of mine."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "Study is my first responsibility."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Одами хуб тамоми умри худ омӯхтанро давом медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: grammar"
+        "A good person keeps learning all his life.",
+        "A good person keeps learning his whole life.",
+        "A good man keeps learning all his life.",
+        "A good person continues learning all his life."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "A good person keeps learning all his life."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Бобоям марди доно аст ва ман ҳамеша ба ӯ гӯш мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: opportunity",
-        "нодуруст A"
+        "My grandfather is a wise man and I always listen to him.",
+        "My grandfather is a wise man and I always listen to him.",
+        "My grandfather is a clever man and I always listen to him.",
+        "My grandfather is a wise man and I always hear him."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "My grandfather is a wise man and I always listen to him."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Аз вақте ки ман кӯдаки хурд будам, ман орзуи бузург доштам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст B"
+        "Since I was a small boy, I have had a big dream.",
+        "Since I was a little boy, I have had a big dream.",
+        "Since I was a small boy I have had a big dream.",
+        "Since I was a small child, I have had a big dream."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "Since I was a small boy, I have had a big dream."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ман мехоҳам ҳаётҳоро наҷот диҳам. Ман мехоҳам одамони беморро солим ва одамони ғамгинро хушбахт кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "I want to save lives. I want to make sick people healthy and sad people happy.",
+        "I want to save lives. I want to make sick people healthy and sad people happy.",
+        "I want to save the lives. I want to make sick people healthy and sad people happy.",
+        "I want to save lives. I want to make ill people healthy and sad people happy."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "I want to save lives. I want to make sick people healthy and sad people happy."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ин мақсади ман аст, мақсади бузурги ман барои тамоми умрам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: communication"
+        "This is my aim, my big aim for the whole of my life.",
+        "This is my aim, my big aim for my whole life.",
+        "This is my aim, my big aim for all my life.",
+        "This is my aim, the big aim of my whole life."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "This is my aim, my big aim for the whole of my life."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ҳар як орзуи бузург бо ҳадафи хурд оғоз мешавад. Вақте ки ман ҳафтсола будам, ман ҳадафи якуми худро гузоштам: омӯхтани алифбои англисӣ» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: education"
+        "Every big dream begins with a small goal. When I was seven years old, I set my first goal: to learn the English alphabet.",
+        "Every big dream begins with a small goal. When I was seven, I set my first goal: to learn the English alphabet.",
+        "Each big dream begins with a small goal. When I was seven years old, I set my first goal: to learn the English alphabet.",
+        "Every big dream begins with a small aim. When I was seven years old, I set my first goal: to learn the English alphabet."
       ],
-      "answer": "тарҷума: education"
+      "answer": "Every big dream begins with a small goal. When I was seven years old, I set my first goal: to learn the English alphabet."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Дар як моҳ ман ҳамаи бисту шаш ҳарфро омӯхтам. Баъд ман ҳадафи нав гузоштам: омӯхтани сад калимаи англисӣ. Дар се моҳ ман онҳоро омӯхтам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: development"
+        "In one month I learned all twenty-six letters. Then I set a new goal: to learn one hundred English words. In three months I learned them.",
+        "In one month I learned all twenty-six letters. Then I set a new goal: to learn a hundred English words. In three months I learned them.",
+        "In a month I learned all twenty-six letters. Then I set a new goal: to learn one hundred English words. In three months I learned them.",
+        "In one month I learned all twenty-six letters. Then I set a new goal: to learn one hundred English words. In three months I learned it."
       ],
-      "answer": "тарҷума: development"
+      "answer": "In one month I learned all twenty-six letters. Then I set a new goal: to learn one hundred English words. In three months I learned them."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ҳоло ман ҳар сол ҳадафҳои нав мегузорам. Соли ҷорӣ ҳадафи ман хондани даҳ китоб бо англисӣ ва гирифтани баҳои хуб аз ҳамаи фанҳоям аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст A"
+        "Now I set new goals every year. This year my goal is to read ten books in English and to get good marks in all my subjects.",
+        "Now I set new goals every year. This year my goal is to read ten books in English and get good marks in all my subjects.",
+        "Now I set new goals every year. This year my goal is to read ten books in English and to get good marks in all the subjects.",
+        "Now I set new goals every year. This year my goal is reading ten books in English and getting good marks in all my subjects."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "Now I set new goals every year. This year my goal is to read ten books in English and to get good marks in all my subjects."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Соли оянда ҳадафи ман оғоз кардани омӯзиши чиддии химия хоҳад буд, зеро ки духтур бояд химияро хеле хуб донад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: challenge",
-        "нодуруст B",
-        "нодуруст A"
+        "Next year my goal will be to start learning chemistry very seriously, because a doctor needs to know chemistry very well.",
+        "Next year my goal will be to start studying chemistry very seriously, because a doctor needs to know chemistry very well.",
+        "Next year my goal will be to start learning chemistry very seriously, because the doctor needs to know chemistry very well.",
+        "Next year my goal will be to begin learning chemistry very seriously, because a doctor needs to know chemistry very well."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "Next year my goal will be to start learning chemistry very seriously, because a doctor needs to know chemistry very well."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Ман ҳар як рӯз ба сӯи орзуи бузурги худ кор мекунам. Ман барвақт аз ҷой мехезам, машқҳои субҳро иҷро мекунам, наҳорӣ мехӯрам ва ба мактаб меравам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: knowledge",
-        "нодуруст C",
-        "нодуруст A"
+        "I work towards my big dream every single day. I get up early, I do my morning exercises, I have breakfast and I go to school.",
+        "I work towards my big dream every day. I get up early, I do my morning exercises, I have breakfast and I go to school.",
+        "I work towards my big dream every single day. I get up early, do my morning exercises, have breakfast and go to school.",
+        "I work towards my big dream every single day. I get up early, I do the morning exercises, I have breakfast and I go to school."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "I work towards my big dream every single day. I get up early, I do my morning exercises, I have breakfast and I go to school."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Дар мактаб ман ба муаллимонам бодиққат гӯш мекунам ва вақте ки чизеро намефаҳмам, савол медиҳам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "At school I listen to my teachers carefully and I ask questions when I do not understand something.",
+        "At school I listen to my teachers carefully and ask questions when I do not understand something.",
+        "At school I listen to my teachers carefully and I ask questions when I don't understand something.",
+        "At school I listen to the teachers carefully and I ask questions when I do not understand something."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "At school I listen to my teachers carefully and I ask questions when I do not understand something."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Баъд аз мактаб ман вазифаи хонагиамро иҷро мекунам, китобҳо мехонам ва дар хона ба модарам кӯмак мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: fluency"
+        "After school I do my homework, I read books and I help my mother at home.",
+        "After school I do my homework, read books and help my mother at home.",
+        "After school I do my homework, I read books and help my mother at home.",
+        "After school I make my homework, I read books and I help my mother at home."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "After school I do my homework, I read books and I help my mother at home."
+    },
+    {
+      "q": "«Бегоҳ ман пеш аз хоб чанд саҳифаи китоби хубро мехонам. Ҳар рӯз, қадам ба қадам, ман ба орзуи худ наздиктар мешавам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In the evening I read some pages of a good book before I sleep. Every day, step by step, I am getting closer to my dream.",
+        "In the evening I read some pages of a good book before I sleep. Every day, step by step, I get closer to my dream.",
+        "In the evening I read some pages of a good book before I go to sleep. Every day, step by step, I am getting closer to my dream.",
+        "In the evening I read some pages of a good book before I sleep. Every day, step by step, I am getting closer to my dream."
+      ],
+      "answer": "In the evening I read some pages of a good book before I sleep. Every day, step by step, I am getting closer to my dream."
+    },
+    {
+      "q": "«Роҳ ба сӯи орзуи бузург ҳеҷ гоҳ осон нест. Дар ин роҳ душвориҳои зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The way to a big dream is never easy. There are many difficulties on this way.",
+        "The way to a big dream is never easy. There are many difficulties on the way.",
+        "The way to a big dream is never easy. There are a lot of difficulties on this way.",
+        "The road to a big dream is never easy. There are many difficulties on this way."
+      ],
+      "answer": "The way to a big dream is never easy. There are many difficulties on this way."
+    },
+    {
+      "q": "«Баъзан ман хеле хаста мешавам. Баъзан ман мехоҳам истам ва дам гирам. Баъзан ман дар мактаб баҳои бад мегирам ва ғамгин мешавам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Sometimes I am very tired. Sometimes I want to stop and rest. Sometimes I get a bad mark at school and I feel sad.",
+        "Sometimes I am very tired. Sometimes I want to stop and rest. Sometimes I get a bad mark at school and feel sad.",
+        "Sometimes I am very tired. Sometimes I want to stop and have a rest. Sometimes I get a bad mark at school and I feel sad.",
+        "Sometimes I am very tired. Sometimes I want to stop and rest. Sometimes I get a bad mark at school and I feel sad."
+      ],
+      "answer": "Sometimes I am very tired. Sometimes I want to stop and rest. Sometimes I get a bad mark at school and I feel sad."
+    },
+    {
+      "q": "«Баъзан дӯстонам ба бозӣ мераванд, аммо ман бояд дар хона бимонам ва таҳсил кунам. Ҳамеша идома додан осон нест» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Sometimes my friends go out to play, but I must stay at home and study. It is not always easy to keep going.",
+        "Sometimes my friends go out to play but I must stay at home and study. It is not always easy to keep going.",
+        "Sometimes my friends go out to play, but I must stay at home and study. It is not easy to keep going always.",
+        "Sometimes my friends go out to play, but I must stay at home and learn. It is not always easy to keep going."
+      ],
+      "answer": "Sometimes my friends go out to play, but I must stay at home and study. It is not always easy to keep going."
+    },
+    {
+      "q": "«Аммо ман як чизи муҳимро медонам: одами қавӣ намеистад. Одами қавӣ ба ҳамаи душвориҳо ғолиб меояд ва идома медиҳад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "But I know one important thing: a strong person does not stop. A strong person overcomes all difficulties and keeps going.",
+        "But I know one important thing: a strong person does not stop. A strong person overcomes all difficulties and keeps going.",
+        "But I know one important thing: the strong person does not stop. A strong person overcomes all difficulties and keeps going.",
+        "But I know an important thing: a strong person does not stop. A strong person overcomes all difficulties and keeps going."
+      ],
+      "answer": "But I know one important thing: a strong person does not stop. A strong person overcomes all difficulties and keeps going."
+    },
+    {
+      "q": "«Бобоям ҳамеша ба ман мегӯяд: \"Роҳ ба сӯи муваффақият ҳеҷ гоҳ рост нест. Аммо агар шумо ҳеҷ гоҳ қадам заданро бас накунед, шумо ба ҳадафи худ мерасед.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandfather always tells me: \"The road to success is never straight. But if you never stop walking, you will reach your goal.\"",
+        "My grandfather always tells me: \"The road to success is never straight. But if you never stop walking, you will reach your goal.\"",
+        "My grandfather always says to me: \"The road to success is never straight. But if you never stop walking, you will reach your goal.\"",
+        "My grandfather always tells me: \"The way to success is never straight. But if you never stop walking, you will reach your goal.\""
+      ],
+      "answer": "My grandfather always tells me: \"The road to success is never straight. But if you never stop walking, you will reach your goal.\""
+    },
+    {
+      "q": "«Ман ба худам бовар мекунам ва ба орзуи худ бовар мекунам. Ман инчунин ба оилаам ва ба муаллимонам бовар мекунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I believe in myself and I believe in my dream. I also believe in my family and in my teachers.",
+        "I believe in myself and in my dream. I also believe in my family and in my teachers.",
+        "I believe in myself and I believe in my dream. I also believe in my family and my teachers.",
+        "I believe in myself and I believe in my dream. I also believe my family and my teachers."
+      ],
+      "answer": "I believe in myself and I believe in my dream. I also believe in my family and in my teachers."
+    },
+    {
+      "q": "«Эътимод ба худ хеле муҳим аст. Вақте ки ман ба худам бовар мекунам, ман аз душвориҳо наметарсам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Self-confidence is very important. When I believe in myself, I am not afraid of difficulties.",
+        "Self-confidence is very important. When I believe in myself I am not afraid of difficulties.",
+        "Self-confidence is very important. When I believe in myself, I am not afraid of the difficulties.",
+        "Self-confidence is very important. When I believe myself, I am not afraid of difficulties."
+      ],
+      "answer": "Self-confidence is very important. When I believe in myself, I am not afraid of difficulties."
+    },
+    {
+      "q": "«Вақте ки ман ба худам бовар мекунам, ман метавонам корҳои душворро иҷро кунам — ман метавонам забони нав омӯзам, ман метавонам масъалаи душворро ҳал кунам, ман метавонам ба одами бемор кӯмак кунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I believe in myself, I can do difficult things — I can learn a new language, I can solve a difficult problem, I can help a sick person.",
+        "When I believe in myself I can do difficult things — I can learn a new language, I can solve a difficult problem, I can help a sick person.",
+        "When I believe in myself, I can do difficult things — I can learn a new language, I can solve a difficult task, I can help a sick person.",
+        "When I believe in myself, I can do hard things — I can learn a new language, I can solve a difficult problem, I can help a sick person."
+      ],
+      "answer": "When I believe in myself, I can do difficult things — I can learn a new language, I can solve a difficult problem, I can help a sick person."
+    },
+    {
+      "q": "«Модарам мегӯяд: \"Ба худат бовар кун, писарам. Агар ту ба худат бовар кунӣ, ту ҳар корро карда метавонӣ.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My mother says: \"Believe in yourself, my son. If you believe in yourself, you can do anything.\"",
+        "My mother says: \"Believe in yourself, my son. If you believe in yourself, you can do anything.\"",
+        "My mother says: \"Believe in yourself, my son. If you believe yourself, you can do anything.\"",
+        "My mother says: \"Believe in yourself, my son. If you believe in yourself, you can do any thing.\""
+      ],
+      "answer": "My mother says: \"Believe in yourself, my son. If you believe in yourself, you can do anything.\""
+    },
+    {
+      "q": "«Оилаи ман маро хеле ташвиқ мекунад. Модарам ҳар рӯз маро ташвиқ мекунад. Ӯ мегӯяд: \"Ту зирак ва меҳрубон ҳастӣ, Исмоил. Ту метавонӣ духтури хуб шавӣ.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My family encourages me very much. My mother encourages me every day. She says: \"You are clever and kind, Ismoil. You can become a good doctor.\"",
+        "My family encourages me very much. My mother encourages me every day. She says: \"You are clever and kind, Ismoil. You can become a good doctor.\"",
+        "My family encourages me a lot. My mother encourages me every day. She says: \"You are clever and kind, Ismoil. You can become a good doctor.\"",
+        "My family encourages me very much. My mother encourages me every day. She says: \"You are smart and kind, Ismoil. You can become a good doctor.\""
+      ],
+      "answer": "My family encourages me very much. My mother encourages me every day. She says: \"You are clever and kind, Ismoil. You can become a good doctor.\""
+    },
+    {
+      "q": "«Падарам низ маро ташвиқ мекунад. Ӯ ба ман ҳикояҳои ҷолиб дар бораи кори худ дар беморхона нақл мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father encourages me too. He tells me interesting stories about his work in the hospital.",
+        "My father encourages me too. He tells me interesting stories about his work in the hospital.",
+        "My father also encourages me. He tells me interesting stories about his work in the hospital.",
+        "My father encourages me too. He tells to me interesting stories about his work in the hospital."
+      ],
+      "answer": "My father encourages me too. He tells me interesting stories about his work in the hospital."
+    },
+    {
+      "q": "«Бибиам ба ман ғизои хуб ва чойи гарм медиҳад ва мегӯяд: \"Хуб таҳсил кун, азизам. Таҳсил муҳимтарин чиз дар ҳаёти туст.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandmother gives me good food and warm tea and tells me: \"Study well, my dear. Study is the most important thing in your life.\"",
+        "My grandmother gives me good food and warm tea and says to me: \"Study well, my dear. Study is the most important thing in your life.\"",
+        "My grandmother gives me good food and warm tea and tells me: \"Study good, my dear. Study is the most important thing in your life.\"",
+        "My grandmother gives me good food and warm tea and tells me: \"Study well, my dear. Study is the most important thing in your life.\""
+      ],
+      "answer": "My grandmother gives me good food and warm tea and tells me: \"Study well, my dear. Study is the most important thing in your life.\""
+    },
+    {
+      "q": "«Муаллимонам низ маро ташвиқ мекунанд. Онҳо ба ман баҳои хуб медиҳанд ва мегӯянд: \"Офарин, Исмоил! Идома деҳ!\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My teachers also encourage me. They give me good marks and they say: \"Well done, Ismoil! Keep going!\"",
+        "My teachers also encourage me. They give me good marks and say: \"Well done, Ismoil! Keep going!\"",
+        "My teachers encourage me too. They give me good marks and they say: \"Well done, Ismoil! Keep going!\"",
+        "My teachers also encourage me. They give me good marks and they say: \"Well done, Ismoil! Keep on going!\""
+      ],
+      "answer": "My teachers also encourage me. They give me good marks and they say: \"Well done, Ismoil! Keep going!\""
+    },
+    {
+      "q": "«Ман барои ин ташвиқ хеле миннатдорам. Бе оилаам ва муаллимонам ман наметавонистам ин қадар бо ҷидду ҷаҳд кор кунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I am very grateful for this encouragement. Without my family and my teachers, I could not work so hard.",
+        "I am very grateful for this encouragement. Without my family and my teachers, I could not work so hard.",
+        "I am very grateful for this encouragement. Without my family and teachers, I could not work so hard.",
+        "I am very thankful for this encouragement. Without my family and my teachers, I could not work so hard."
+      ],
+      "answer": "I am very grateful for this encouragement. Without my family and my teachers, I could not work so hard."
+    },
+    {
+      "q": "«Ман инчунин кӯшиш мекунам, ки бародари хурдии худро ташвиқ кунам. Вақте ки ӯ ҳарфи нав ё калимаи навро меомӯзад, ман ба ӯ мегӯям: \"Офарин! Ту писари зирак ҳастӣ!\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I also try to encourage my little brother. When he learns a new letter or a new word, I say to him: \"Well done! You are a clever boy!\"",
+        "I also try to encourage my little brother. When he learns a new letter or a new word, I tell him: \"Well done! You are a clever boy!\"",
+        "I also try to encourage my little brother. When he learns a new letter or a new word, I say to him: \"Well done! You are a smart boy!\"",
+        "I also try to encourage my little brother. When he learns a new letter or a new word, I say: \"Well done! You are a clever boy!\""
+      ],
+      "answer": "I also try to encourage my little brother. When he learns a new letter or a new word, I say to him: \"Well done! You are a clever boy!\""
+    },
+    {
+      "q": "«Вақте ки ӯ ғамгин аст, ман ба ӯ ҳикояҳои хандаовар нақл мекунам ва ӯро механдонам. Ман мехоҳам барои ӯ намунаи хуб бошам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When he is sad, I tell him funny stories and make him laugh. I want to be a good example for him.",
+        "When he is sad, I tell him funny stories and make him laugh. I want to be a good example for him.",
+        "When he is sad, I tell to him funny stories and make him laugh. I want to be a good example for him.",
+        "When he is sad I tell him funny stories and make him laugh. I want to be a good example for him."
+      ],
+      "answer": "When he is sad, I tell him funny stories and make him laugh. I want to be a good example for him."
+    },
+    {
+      "q": "«Ман барои таҳсили худ ва барои ояндаи худ масъул ҳастам. Ин масъулияти ман аст, на масъулияти волидонам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I am responsible for my studies and for my future. This is my responsibility, not my parents' responsibility.",
+        "I am responsible for my studies and for my future. This is my responsibility, not the responsibility of my parents.",
+        "I am responsible for my studies and for my future. This is my responsibility, not my parents' responsibility.",
+        "I am responsible for my study and for my future. This is my responsibility, not my parents' responsibility."
+      ],
+      "answer": "I am responsible for my studies and for my future. This is my responsibility, not my parents' responsibility."
+    },
+    {
+      "q": "«Волидонам метавонанд ба ман кӯмак кунанд, аммо онҳо наметавонанд ба ҷои ман таҳсил кунанд. Ман бояд вазифаи хонагиамро худам иҷро кунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My parents can help me, but they cannot study for me. I must do my homework myself.",
+        "My parents can help me, but they cannot study for me. I must do my homework myself.",
+        "My parents can help me, but they cannot learn for me. I must do my homework myself.",
+        "My parents can help me but they cannot study for me. I must do my homework myself."
+      ],
+      "answer": "My parents can help me, but they cannot study for me. I must do my homework myself."
+    },
+    {
+      "q": "«Вақте ки ман духтур мешавам, ман барои ҳаёти беморони худ масъул хоҳам буд. Бинобар ин ман бояд ҳозир, вақте ки ҳанӯз хонанда ҳастам, масъул буданро омӯзам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I am a doctor, I will be responsible for the lives of my patients. So I must learn to be responsible now, when I am still a pupil.",
+        "When I become a doctor, I will be responsible for the lives of my patients. So I must learn to be responsible now, when I am still a pupil.",
+        "When I am a doctor, I will be responsible for the lives of my patients. So I must learn to be responsible now, when I am still a pupil.",
+        "When I am a doctor, I will be responsible for the life of my patients. So I must learn to be responsible now, when I am still a pupil."
+      ],
+      "answer": "When I am a doctor, I will be responsible for the lives of my patients. So I must learn to be responsible now, when I am still a pupil."
+    },
+    {
+      "q": "«Одами доно тамоми умри худ омӯхтанро давом медиҳад. Ҳатто вақте ки ман духтур мешавам, ман омӯхтани чизҳои навро идома медиҳам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "A wise person keeps learning all his life. Even when I become a doctor, I will continue to learn new things.",
+        "A wise person keeps learning all his life. Even when I become a doctor, I will continue learning new things.",
+        "A wise man keeps learning all his life. Even when I become a doctor, I will continue to learn new things.",
+        "A wise person keeps learning his whole life. Even when I become a doctor, I will continue to learn new things."
+      ],
+      "answer": "A wise person keeps learning all his life. Even when I become a doctor, I will continue to learn new things."
+    },
+    {
+      "q": "«Тиб хеле зуд тағйир меёбад. Бемориҳои нав пайдо мешаванд, доруҳои нав ихтироъ мешаванд, мошинҳои нав сохта мешаванд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Medicine is changing very quickly. New illnesses appear, new medicines are invented, new machines are built.",
+        "Medicine is changing very quickly. New illnesses appear, new medicines are invented, new machines are built.",
+        "Medicine changes very quickly. New illnesses appear, new medicines are invented, new machines are built.",
+        "Medicine is changing very fast. New illnesses appear, new medicines are invented, new machines are built."
+      ],
+      "answer": "Medicine is changing very quickly. New illnesses appear, new medicines are invented, new machines are built."
+    },
+    {
+      "q": "«Агар ман духтури хуб шудан хоҳам, ман бояд то охири умрам омӯхтанро давом диҳам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "If I want to be a good doctor, I must keep learning until the end of my life.",
+        "If I want to become a good doctor, I must keep learning until the end of my life.",
+        "If I want to be a good doctor I must keep learning until the end of my life.",
+        "If I want to be a good doctor, I must continue learning until the end of my life."
+      ],
+      "answer": "If I want to be a good doctor, I must keep learning until the end of my life."
+    },
+    {
+      "q": "«Оилаи ман маро дар ҳама чиз дастгирӣ мекунад. Модарам маро дар хона дастгирӣ мекунад. Падарам маро бо маслиҳатҳо ва бо ҳикояҳои ҷолиб дастгирӣ мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My family supports me in everything. My mother supports me at home. My father supports me with advice and with interesting stories.",
+        "My family supports me in everything. My mother supports me at home. My father supports me with advice and interesting stories.",
+        "My family supports me in everything. My mother supports me at home. My father supports me by advice and by interesting stories.",
+        "My family supports me in everything. My mother supports me at home, my father supports me with advice and interesting stories."
+      ],
+      "answer": "My family supports me in everything. My mother supports me at home. My father supports me with advice and with interesting stories."
+    },
+    {
+      "q": "«Бибиам маро бо ғизои хуб дастгирӣ мекунад. Бобоям маро бо суханони доно дастгирӣ мекунад. Хоҳарам маро бо кӯмак дар англисӣ дастгирӣ мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandmother supports me with good food. My grandfather supports me with wise words. My sister supports me by helping me with English.",
+        "My grandmother supports me with good food. My grandfather supports me with wise words. My sister supports me with helping me with English.",
+        "My grandmother supports me with good food. My grandfather supports me with wise words. My sister supports me by helping with English.",
+        "My grandmother supports me with good food, my grandfather supports me with wise words, my sister supports me by helping me with English."
+      ],
+      "answer": "My grandmother supports me with good food. My grandfather supports me with wise words. My sister supports me by helping me with English."
+    },
+    {
+      "q": "«Ман хеле бахтиёр ҳастам, ки чунин оила дорам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I am very lucky to have such a family.",
+        "I am very happy to have such a family.",
+        "I am very lucky to have such family.",
+        "I am very lucky to have a family like this."
+      ],
+      "answer": "I am very lucky to have such a family."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам ва духтур мешавам, ман мехоҳам ба мактаби худ баргардам ва ба ҳамаи кӯдакон гӯям: \"Орзуи бузург кунед!\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up and become a doctor, I want to come back to my school and say to all the children: \"Dream big!\"",
+        "When I grow up and become a doctor, I want to come back to my school and tell all the children: \"Dream big!\"",
+        "When I grow up and become a doctor, I want to return to my school and say to all the children: \"Dream big!\"",
+        "When I grow up and become a doctor I want to come back to my school and say to all the children: \"Dream big!\""
+      ],
+      "answer": "When I grow up and become a doctor, I want to come back to my school and say to all the children: \"Dream big!\""
+    },
+    {
+      "q": "«Ҳадаф гузоред ва ҳар рӯз ба сӯи он кор кунед. Ба худатон бовар кунед. Ба ҳамаи душвориҳо ғолиб оед. Идома диҳед ва ҳеҷ гоҳ наистед» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Set a goal and work towards it every day. Believe in yourself. Overcome all difficulties. Keep going and never stop.",
+        "Set a goal and work towards it every day. Believe in yourself. Overcome all the difficulties. Keep going and never stop.",
+        "Set a goal and work towards it every day. Believe in yourself. Overcome all difficulties. Keep going and never stop.",
+        "Set a goal and work towards it every day. Believe in yourself. Overcome all difficulties. Keep on going and never stop."
+      ],
+      "answer": "Set a goal and work towards it every day. Believe in yourself. Overcome all difficulties. Keep going and never stop."
+    },
+    {
+      "q": "«Ва дар хотир доред: оилаи шумо ва муаллимони шумо ҳамеша бо шумо ҳастанд. Якҷоя мо метавонем ҳамаи орзуҳои худро амалӣ созем!» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "And remember: your family and your teachers are always with you. Together, we can make all our dreams come true!",
+        "And remember: your family and your teachers are always with you. Together we can make all our dreams come true!",
+        "And remember: your family and your teachers are always with you. Together, we can make all our dreams come true!",
+        "And remember: your family and your teachers are always with you. Together we can make our dreams come true!"
+      ],
+      "answer": "And remember: your family and your teachers are always with you. Together, we can make all our dreams come true!"
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 26
+  "wordsCount": 16
 }
