@@ -1,623 +1,440 @@
 {
   "id": 17,
-  "title": "Луғат ва ибораҳо 17",
+  "title": "Иборасозӣ 17: Ҷой, самт ва ашё",
   "level": "Ибтидоӣ - Starkov",
   "free": false,
   "words": [
     {
-      "en": "happy",
-      "tj": "хушбахт",
-      "ex": "Ex: happy is useful."
+      "en": "tree",
+      "tj": "дарахт",
+      "ex": "The tree is in the garden."
     },
     {
-      "en": "sad",
-      "tj": "ғамгин",
-      "ex": "Ex: sad is useful."
+      "en": "flower",
+      "tj": "гул",
+      "ex": "The flower is red."
     },
     {
-      "en": "to read",
-      "tj": "хондан",
-      "ex": "Ex: to read is useful."
+      "en": "grass",
+      "tj": "алаф",
+      "ex": "The grass is green."
     },
     {
-      "en": "to write",
-      "tj": "навиштан",
-      "ex": "Ex: to write is useful."
+      "en": "leaf",
+      "tj": "барг",
+      "ex": "The leaf is yellow."
     },
     {
-      "en": "to speak",
-      "tj": "гап задан",
-      "ex": "Ex: to speak is useful."
+      "en": "stone",
+      "tj": "санг",
+      "ex": "The stone is on the road."
     },
     {
-      "en": "to learn",
-      "tj": "омӯхтан",
-      "ex": "Ex: to learn is useful."
+      "en": "sand",
+      "tj": "реги",
+      "ex": "The sand is warm."
     },
     {
-      "en": "to go",
-      "tj": "рафтан",
-      "ex": "Ex: to go is useful."
+      "en": "fire",
+      "tj": "оташ",
+      "ex": "The fire is hot."
     },
     {
-      "en": "to come",
-      "tj": "омадан",
-      "ex": "Ex: to come is useful."
+      "en": "light",
+      "tj": "рӯшноӣ",
+      "ex": "The light is in the room."
     },
     {
-      "en": "morning",
-      "tj": "субҳ",
-      "ex": "Ex: morning is useful."
+      "en": "dark",
+      "tj": "торик",
+      "ex": "The night is dark."
     },
     {
-      "en": "day",
-      "tj": "рӯз",
-      "ex": "Ex: day is useful."
+      "en": "cup",
+      "tj": "пиёла",
+      "ex": "The cup is on the table."
     },
     {
-      "en": "evening",
-      "tj": "бегоҳ",
-      "ex": "Ex: evening is useful."
+      "en": "plate",
+      "tj": "табақ",
+      "ex": "The plate is white."
     },
     {
-      "en": "night",
-      "tj": "шаб",
-      "ex": "Ex: night is useful."
+      "en": "spoon",
+      "tj": "қошуқ",
+      "ex": "I eat with a spoon."
     },
     {
-      "en": "today",
-      "tj": "имрӯз",
-      "ex": "Ex: today is useful."
+      "en": "fork",
+      "tj": "чангак",
+      "ex": "I eat with a fork."
     },
     {
-      "en": "tomorrow",
-      "tj": "фардо",
-      "ex": "Ex: tomorrow is useful."
+      "en": "knife",
+      "tj": "корд",
+      "ex": "I cut bread with a knife."
     },
     {
-      "en": "yesterday",
-      "tj": "дируз",
-      "ex": "Ex: yesterday is useful."
-    },
-    {
-      "en": "one",
-      "tj": "як",
-      "ex": "Ex: one is useful."
-    },
-    {
-      "en": "two",
-      "tj": "ду",
-      "ex": "Ex: two is useful."
-    },
-    {
-      "en": "three",
-      "tj": "се",
-      "ex": "Ex: three is useful."
-    },
-    {
-      "en": "four",
-      "tj": "чор",
-      "ex": "Ex: four is useful."
-    },
-    {
-      "en": "five",
-      "tj": "панҷ",
-      "ex": "Ex: five is useful."
-    },
-    {
-      "en": "apple",
-      "tj": "себ",
-      "ex": "Ex: apple is useful."
-    },
-    {
-      "en": "water",
-      "tj": "об",
-      "ex": "Ex: water is useful."
-    },
-    {
-      "en": "bread",
-      "tj": "нон",
-      "ex": "Ex: bread is useful."
-    },
-    {
-      "en": "a book",
-      "tj": "китоб",
-      "ex": "Ex: a book is useful."
-    },
-    {
-      "en": "a pen",
-      "tj": "қалам",
-      "ex": "Ex: a pen is useful."
-    },
-    {
-      "en": "a desk",
-      "tj": "мизи дарсӣ",
-      "ex": "Ex: a desk is useful."
-    },
-    {
-      "en": "a bag",
-      "tj": "халта",
-      "ex": "Ex: a bag is useful."
-    },
-    {
-      "en": "a cat",
-      "tj": "гурба",
-      "ex": "Ex: a cat is useful."
-    },
-    {
-      "en": "a dog",
-      "tj": "саг",
-      "ex": "Ex: a dog is useful."
-    },
-    {
-      "en": "red",
-      "tj": "сурх",
-      "ex": "Ex: red is useful."
-    },
-    {
-      "en": "blue",
-      "tj": "кабуд",
-      "ex": "Ex: blue is useful."
-    },
-    {
-      "en": "mother",
-      "tj": "модар",
-      "ex": "Ex: mother is useful."
-    },
-    {
-      "en": "father",
-      "tj": "падар",
-      "ex": "Ex: father is useful."
-    },
-    {
-      "en": "sister",
-      "tj": "хоҳар",
-      "ex": "Ex: sister is useful."
-    },
-    {
-      "en": "brother",
-      "tj": "бародар",
-      "ex": "Ex: brother is useful."
-    },
-    {
-      "en": "house",
-      "tj": "хона",
-      "ex": "Ex: house is useful."
-    },
-    {
-      "en": "school",
-      "tj": "мактаб",
-      "ex": "Ex: school is useful."
-    },
-    {
-      "en": "teacher",
-      "tj": "омӯзгор",
-      "ex": "Ex: teacher is useful."
-    },
-    {
-      "en": "pupil",
-      "tj": "хонанда",
-      "ex": "Ex: pupil is useful."
-    },
-    {
-      "en": "good",
-      "tj": "хуб",
-      "ex": "Ex: good is useful."
-    },
-    {
-      "en": "bad",
-      "tj": "бад",
-      "ex": "Ex: bad is useful."
-    },
-    {
-      "en": "big",
-      "tj": "калон",
-      "ex": "Ex: big is useful."
+      "en": "bottle",
+      "tj": "шиша",
+      "ex": "The bottle is on the desk."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 17)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "The tree is in the garden.",
+      "tj": "Дарахт дар боғ аст."
     },
     {
-      "en": "I'm working on lesson 17",
-      "tj": "Ман дарси 17-ро меомӯзам"
+      "en": "The flower is red and beautiful.",
+      "tj": "Гул сурх ва зебо аст."
+    },
+    {
+      "en": "The grass is green in spring.",
+      "tj": "Алаф дар баҳор сабз аст."
+    },
+    {
+      "en": "The leaf is yellow in autumn.",
+      "tj": "Барг дар тирамоҳ зард аст."
+    },
+    {
+      "en": "The stone is on the road.",
+      "tj": "Санг дар роҳ аст."
+    },
+    {
+      "en": "The sand is warm in summer.",
+      "tj": "Реги дар тобистон гарм аст."
+    },
+    {
+      "en": "The fire is hot.",
+      "tj": "Оташ гарм аст."
+    },
+    {
+      "en": "The light is in the room.",
+      "tj": "Рӯшноӣ дар ҳуҷра аст."
+    },
+    {
+      "en": "The night is dark.",
+      "tj": "Шаб торик аст."
+    },
+    {
+      "en": "The cup is on the table.",
+      "tj": "Пиёла дар миз аст."
+    },
+    {
+      "en": "The plate is white.",
+      "tj": "Табақ сафед аст."
+    },
+    {
+      "en": "I eat rice with a spoon.",
+      "tj": "Ман биринҷро бо қошуқ мехӯрам."
+    },
+    {
+      "en": "I eat meat with a fork.",
+      "tj": "Ман гӯштро бо чангак мехӯрам."
+    },
+    {
+      "en": "I cut bread with a knife.",
+      "tj": "Ман нонро бо корд мебурам."
+    },
+    {
+      "en": "The bottle of water is on the desk.",
+      "tj": "Шишаи об дар миз аст."
+    },
+    {
+      "en": "My mother puts a flower in the cup.",
+      "tj": "Модарам гулро дар пиёла мегузорад."
+    },
+    {
+      "en": "The dog runs on the green grass.",
+      "tj": "Саг дар алафи сабз медавад."
+    },
+    {
+      "en": "The bird sits on the tree.",
+      "tj": "Парранда дар дарахт менишинад."
+    },
+    {
+      "en": "The fire is near the house.",
+      "tj": "Оташ дар назди хона аст."
+    },
+    {
+      "en": "I see a stone on the road.",
+      "tj": "Ман дар роҳ санг мебинам."
+    },
+    {
+      "en": "The dark night is cold.",
+      "tj": "Шаби торик хунук аст."
+    },
+    {
+      "en": "The light is near the door.",
+      "tj": "Рӯшноӣ дар назди дар аст."
+    },
+    {
+      "en": "The cat drinks milk from the cup.",
+      "tj": "Гурба ширро аз пиёла менӯшад."
+    },
+    {
+      "en": "My sister puts the plate on the table.",
+      "tj": "Хоҳари ман табақро ба миз мегузорад."
+    },
+    {
+      "en": "We sit on the warm sand near the sea.",
+      "tj": "Мо дар реги гарм дар назди баҳр менишинем."
     }
   ],
   "text": null,
   "exercises": [
     {
-      "q": "'happy' чи маъно дорад?",
+      "q": "«Дарахт дар боғ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "хушбахт",
-        "нодуруст B"
+        "The tree is in the garden.",
+        "The tree is in the house.",
+        "The flower is in the garden.",
+        "The tree is near the garden."
       ],
-      "answer": "хушбахт"
+      "answer": "The tree is in the garden."
     },
     {
-      "q": "'sad' чи маъно дорад?",
+      "q": "«Гул сурх ва зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "ғамгин"
+        "The flower is red and beautiful.",
+        "The flower is yellow and beautiful.",
+        "The leaf is red and beautiful.",
+        "The flower is red and small."
       ],
-      "answer": "ғамгин"
+      "answer": "The flower is red and beautiful."
     },
     {
-      "q": "'to read' чи маъно дорад?",
+      "q": "«Алаф дар баҳор сабз аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "хондан",
-        "нодуруст C",
-        "нодуруст B"
+        "The grass is green in spring.",
+        "The grass is green in summer.",
+        "The leaf is green in spring.",
+        "The grass is yellow in spring."
       ],
-      "answer": "хондан"
+      "answer": "The grass is green in spring."
     },
     {
-      "q": "'to write' чи маъно дорад?",
+      "q": "«Барг дар тирамоҳ зард аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "навиштан",
-        "нодуруст B",
-        "нодуруст A"
+        "The leaf is yellow in autumn.",
+        "The leaf is green in autumn.",
+        "The flower is yellow in autumn.",
+        "The leaf is yellow in summer."
       ],
-      "answer": "навиштан"
+      "answer": "The leaf is yellow in autumn."
     },
     {
-      "q": "'to speak' чи маъно дорад?",
+      "q": "«Санг дар роҳ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "гап задан",
-        "нодуруст C",
-        "нодуруст A"
+        "The stone is on the road.",
+        "The stone is on the bridge.",
+        "The sand is on the road.",
+        "The stone is near the road."
       ],
-      "answer": "гап задан"
+      "answer": "The stone is on the road."
     },
     {
-      "q": "'to learn' чи маъно дорад?",
+      "q": "«Реги дар тобистон гарм аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "омӯхтан",
-        "нодуруст B"
+        "The sand is warm in summer.",
+        "The sand is cold in summer.",
+        "The stone is warm in summer.",
+        "The sand is warm in spring."
       ],
-      "answer": "омӯхтан"
+      "answer": "The sand is warm in summer."
     },
     {
-      "q": "'to go' чи маъно дорад?",
+      "q": "«Оташ гарм аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "рафтан"
+        "The fire is hot.",
+        "The fire is cold.",
+        "The sun is hot.",
+        "The fire is warm."
       ],
-      "answer": "рафтан"
+      "answer": "The fire is hot."
     },
     {
-      "q": "'to come' чи маъно дорад?",
+      "q": "«Рӯшноӣ дар ҳуҷра аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "омадан",
-        "нодуруст B",
-        "нодуруст A"
+        "The light is in the room.",
+        "The light is in the house.",
+        "The fire is in the room.",
+        "The light is near the room."
       ],
-      "answer": "омадан"
+      "answer": "The light is in the room."
     },
     {
-      "q": "'morning' чи маъно дорад?",
+      "q": "«Шаб торик аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "субҳ",
-        "нодуруст A",
-        "нодуруст C"
+        "The night is dark.",
+        "The night is cold.",
+        "The day is dark.",
+        "The night is quiet."
       ],
-      "answer": "субҳ"
+      "answer": "The night is dark."
     },
     {
-      "q": "'day' чи маъно дорад?",
+      "q": "«Пиёла дар миз аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "рӯз"
+        "The cup is on the table.",
+        "The plate is on the table.",
+        "The cup is on the desk.",
+        "The bottle is on the table."
       ],
-      "answer": "рӯз"
+      "answer": "The cup is on the table."
     },
     {
-      "q": "'evening' чи маъно дорад?",
+      "q": "«Табақ сафед аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "бегоҳ",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "The plate is white.",
+        "The plate is black.",
+        "The cup is white.",
+        "The plate is small."
       ],
-      "answer": "бегоҳ"
+      "answer": "The plate is white."
     },
     {
-      "q": "'night' чи маъно дорад?",
+      "q": "«Ман биринҷро бо қошуқ мехӯрам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "шаб",
-        "нодуруст C"
+        "I eat rice with a spoon.",
+        "I eat rice with a fork.",
+        "I eat meat with a spoon.",
+        "I eat bread with a spoon."
       ],
-      "answer": "шаб"
+      "answer": "I eat rice with a spoon."
     },
     {
-      "q": "'today' чи маъно дорад?",
+      "q": "«Ман гӯштро бо чангак мехӯрам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "имрӯз",
-        "нодуруст C"
+        "I eat meat with a fork.",
+        "I eat meat with a spoon.",
+        "I eat fish with a fork.",
+        "I eat rice with a fork."
       ],
-      "answer": "имрӯз"
+      "answer": "I eat meat with a fork."
     },
     {
-      "q": "'tomorrow' чи маъно дорад?",
+      "q": "«Ман нонро бо корд мебурам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "фардо",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "I cut bread with a knife.",
+        "I cut meat with a knife.",
+        "I eat bread with a knife.",
+        "I cut bread with a fork."
       ],
-      "answer": "фардо"
+      "answer": "I cut bread with a knife."
     },
     {
-      "q": "'yesterday' чи маъно дорад?",
+      "q": "«Шишаи об дар миз аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "дируз",
-        "нодуруст B",
-        "нодуруст A"
+        "The bottle of water is on the desk.",
+        "The bottle of water is on the table.",
+        "The cup of water is on the desk.",
+        "The bottle of milk is on the desk."
       ],
-      "answer": "дируз"
+      "answer": "The bottle of water is on the desk."
     },
     {
-      "q": "'one' чи маъно дорад?",
+      "q": "«Модарам гулро дар пиёла мегузорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "як",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "My mother puts a flower in the cup.",
+        "My mother puts a flower in the bottle.",
+        "My sister puts a flower in the cup.",
+        "My mother puts a leaf in the cup."
       ],
-      "answer": "як"
+      "answer": "My mother puts a flower in the cup."
     },
     {
-      "q": "'two' чи маъно дорад?",
+      "q": "«Саг дар алафи сабз медавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "ду",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "The dog runs on the green grass.",
+        "The cat runs on the green grass.",
+        "The dog runs on the green road.",
+        "The dog walks on the green grass."
       ],
-      "answer": "ду"
+      "answer": "The dog runs on the green grass."
     },
     {
-      "q": "'three' чи маъно дорад?",
+      "q": "«Парранда дар дарахт менишинад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "се"
+        "The bird sits on the tree.",
+        "The bird sits on the flower.",
+        "The bird flies to the tree.",
+        "The duck sits on the tree."
       ],
-      "answer": "се"
+      "answer": "The bird sits on the tree."
     },
     {
-      "q": "'four' чи маъно дорад?",
+      "q": "«Оташ дар назди хона аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "чор",
-        "нодуруст A"
+        "The fire is near the house.",
+        "The fire is in the house.",
+        "The light is near the house.",
+        "The fire is near the garden."
       ],
-      "answer": "чор"
+      "answer": "The fire is near the house."
     },
     {
-      "q": "'five' чи маъно дорад?",
+      "q": "«Ман дар роҳ санг мебинам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "панҷ",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "I see a stone on the road.",
+        "I see a stone on the bridge.",
+        "I see a leaf on the road.",
+        "I see sand on the road."
       ],
-      "answer": "панҷ"
+      "answer": "I see a stone on the road."
     },
     {
-      "q": "'apple' чи маъно дорад?",
+      "q": "«Шаби торик хунук аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "себ",
-        "нодуруст B"
+        "The dark night is cold.",
+        "The dark night is warm.",
+        "The dark day is cold.",
+        "The dark night is quiet."
       ],
-      "answer": "себ"
+      "answer": "The dark night is cold."
     },
     {
-      "q": "'water' чи маъно дорад?",
+      "q": "«Рӯшноӣ дар назди дар аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "об",
-        "нодуруст B"
+        "The light is near the door.",
+        "The light is near the window.",
+        "The fire is near the door.",
+        "The light is on the door."
       ],
-      "answer": "об"
+      "answer": "The light is near the door."
     },
     {
-      "q": "'bread' чи маъно дорад?",
+      "q": "«Гурба ширро аз пиёла менӯшад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "нон"
+        "The cat drinks milk from the cup.",
+        "The cat drinks water from the cup.",
+        "The dog drinks milk from the cup.",
+        "The cat drinks milk from the plate."
       ],
-      "answer": "нон"
+      "answer": "The cat drinks milk from the cup."
     },
     {
-      "q": "'a book' чи маъно дорад?",
+      "q": "«Хоҳари ман табақро ба миз мегузорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "китоб",
-        "нодуруст A",
-        "нодуруст C"
+        "My sister puts the plate on the table.",
+        "My mother puts the plate on the table.",
+        "My sister puts the cup on the table.",
+        "My sister puts the plate on the desk."
       ],
-      "answer": "китоб"
+      "answer": "My sister puts the plate on the table."
     },
     {
-      "q": "'a pen' чи маъно дорад?",
+      "q": "«Мо дар реги гарм дар назди баҳр менишинем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "қалам",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "We sit on the warm sand near the sea.",
+        "We sit on the cold sand near the sea.",
+        "We sit on the warm sand near the river.",
+        "We stand on the warm sand near the sea."
       ],
-      "answer": "қалам"
-    },
-    {
-      "q": "'a desk' чи маъно дорад?",
-      "options": [
-        "мизи дарсӣ",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "мизи дарсӣ"
-    },
-    {
-      "q": "'a bag' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "халта",
-        "нодуруст A"
-      ],
-      "answer": "халта"
-    },
-    {
-      "q": "'a cat' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "гурба"
-      ],
-      "answer": "гурба"
-    },
-    {
-      "q": "'a dog' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "саг"
-      ],
-      "answer": "саг"
-    },
-    {
-      "q": "'red' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "сурх"
-      ],
-      "answer": "сурх"
-    },
-    {
-      "q": "'blue' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "кабуд"
-      ],
-      "answer": "кабуд"
-    },
-    {
-      "q": "'mother' чи маъно дорад?",
-      "options": [
-        "модар",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "модар"
-    },
-    {
-      "q": "'father' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "падар"
-      ],
-      "answer": "падар"
-    },
-    {
-      "q": "'sister' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "хоҳар"
-      ],
-      "answer": "хоҳар"
-    },
-    {
-      "q": "'brother' чи маъно дорад?",
-      "options": [
-        "бародар",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "бародар"
-    },
-    {
-      "q": "'house' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "хона",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "хона"
-    },
-    {
-      "q": "'school' чи маъно дорад?",
-      "options": [
-        "мактаб",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "мактаб"
-    },
-    {
-      "q": "'teacher' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "омӯзгор",
-        "нодуруст C"
-      ],
-      "answer": "омӯзгор"
-    },
-    {
-      "q": "'pupil' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "хонанда",
-        "нодуруст C"
-      ],
-      "answer": "хонанда"
+      "answer": "We sit on the warm sand near the sea."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 42
+  "wordsCount": 15
 }
