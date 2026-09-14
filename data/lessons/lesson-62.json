@@ -1,446 +1,552 @@
 {
   "id": 62,
-  "title": "Муоширати воқеӣ 62",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 62: Ҳайвоноти хонагии деҳа ва кӯҳҳо",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "yak",
+      "tj": "ғажгов",
+      "ex": "The yak lives high in the mountains."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "donkey",
+      "tj": "хар",
+      "ex": "The donkey carries heavy things."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "mule",
+      "tj": "хачир",
+      "ex": "A mule is strong and patient."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "camel",
+      "tj": "шутур",
+      "ex": "The camel can walk in the desert for many days."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "goat",
+      "tj": "буз",
+      "ex": "The goat gives us milk and meat."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "ram",
+      "tj": "қӯчқор",
+      "ex": "The ram has big horns."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "lamb",
+      "tj": "барра",
+      "ex": "The lamb is small and white."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "calf",
+      "tj": "говкала",
+      "ex": "The calf drinks its mother's milk."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "foal",
+      "tj": "кулӯн",
+      "ex": "The foal runs after its mother."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "hen",
+      "tj": "мурғ",
+      "ex": "The hen gives us eggs."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "rooster",
+      "tj": "хурӯс",
+      "ex": "The rooster sings in the morning."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "duck",
+      "tj": "мурғобӣ",
+      "ex": "The duck swims in the lake."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "goose",
+      "tj": "ғоз",
+      "ex": "The goose is a big white bird."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "to milk",
+      "tj": "дӯшидан",
+      "ex": "My grandmother milks the cow every morning."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to graze",
+      "tj": "чаридан",
+      "ex": "The sheep graze in the field."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "wool",
+      "tj": "пашм",
+      "ex": "We make warm clothes from wool."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 62)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "The yak lives high in the mountains and can carry heavy things.",
+      "tj": "Ғажгов баланд дар кӯҳҳо зиндагӣ мекунад ва метавонад чизҳои вазнинро бардорад."
     },
     {
-      "en": "I'm working on lesson 62",
-      "tj": "Ман дарси 62-ро меомӯзам"
+      "en": "The donkey carries heavy things for the farmer.",
+      "tj": "Хар барои деҳқон чизҳои вазнинро мебардорад."
+    },
+    {
+      "en": "A mule is strong and patient and works very hard.",
+      "tj": "Хачир қавӣ ва сабрнок аст ва хеле бо ҷидду ҷаҳд кор мекунад."
+    },
+    {
+      "en": "The camel can walk in the desert for many days without water.",
+      "tj": "Шутур метавонад рӯзҳои зиёд бе об дар биёбон қадам занад."
+    },
+    {
+      "en": "The goat gives us milk, meat and wool.",
+      "tj": "Буз ба мо шир, гӯшт ва пашм медиҳад."
+    },
+    {
+      "en": "The ram has big horns on its head.",
+      "tj": "Қӯчқор шохҳои калон дар сараш дорад."
+    },
+    {
+      "en": "The lamb is small and white and follows its mother.",
+      "tj": "Барра хурд ва сафед аст ва модарашро пайравӣ мекунад."
+    },
+    {
+      "en": "The calf drinks milk from its mother every morning.",
+      "tj": "Говкала ҳар субҳ шир аз модараш менӯшад."
+    },
+    {
+      "en": "The foal runs after its mother in the field.",
+      "tj": "Кулӯн дар киштзор аз паси модараш медавад."
+    },
+    {
+      "en": "The hen gives us eggs every day.",
+      "tj": "Мурғ ҳар рӯз ба мо тухм медиҳад."
+    },
+    {
+      "en": "The rooster sings early in the morning and wakes us up.",
+      "tj": "Хурӯс субҳ барвақт суруд мехонад ва моро бедор мекунад."
+    },
+    {
+      "en": "The duck swims in the lake with its ducklings.",
+      "tj": "Мурғобӣ бо мурғобичаҳояш дар кӯл шино мекунад."
+    },
+    {
+      "en": "The goose is a big white bird that lives in the yard.",
+      "tj": "Ғоз паррандаи калони сафедест, ки дар ҳавлӣ зиндагӣ мекунад."
+    },
+    {
+      "en": "My grandmother milks the cow every morning and every evening.",
+      "tj": "Бибиам ҳар субҳ ва ҳар бегоҳ говро медӯшад."
+    },
+    {
+      "en": "The sheep and goats graze in the field all day.",
+      "tj": "Гӯсфандҳо ва бузҳо тамоми рӯз дар киштзор мечаранд."
+    },
+    {
+      "en": "We make warm clothes and carpets from sheep's wool.",
+      "tj": "Мо аз пашми гӯсфанд либосҳои гарм ва гилемҳо месозем."
     }
   ],
   "text": {
-    "en": "Text for lesson 62. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 62 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 62 text.",
-    "tj": "Матни дарси 62..."
+    "en": "Domestic Animals of the Village and the Mountains\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. But my grandmother and grandfather live in a small village in the mountains. Every summer I go to the village and help them with the animals. Village animals are very important for our life. Today I want to tell you about the domestic animals of the village and of the mountains.\n\nA domestic animal is an animal that lives with people. People take care of domestic animals, feed them and give them a home. In return, domestic animals give people milk, meat, eggs, wool, and they help people to work. Without domestic animals life in a village is impossible.\n\nThe cow is the most important animal in a Tajik village. We get milk, butter, cheese, cream and meat from the cow. The cow eats grass and hay. My grandmother milks the cow twice a day — in the morning and in the evening. She makes butter and cheese from the milk. Her cheese is famous in our village. The cow's calf drinks its mother's milk and plays in the yard.\n\nThe sheep is also a very useful animal. We get meat, wool and milk from the sheep. The wool is used for making warm clothes, blankets and carpets. My grandmother makes beautiful carpets from sheep's wool. The sheep graze in the field all day. The ram is the male sheep — it has big horns on its head. The little baby of the sheep is called a lamb. Lambs are very small and very cute.\n\nThe goat is a small, clever and very useful animal. Goats give us milk, meat and wool. Goats can climb very high mountains. In the mountains of Tajikistan, goats climb high rocks where no other animal can go. The goat's milk is very good for small children.\n\nThe horse is a very strong and beautiful animal. People ride horses and horses carry heavy things. In our village some people also have donkeys and mules. The donkey is a very patient animal. It carries heavy things from the village to the city and back. A mule is a mix of a horse and a donkey. It is very strong and it works very hard. In the desert parts of the world people keep camels. A camel is a big animal with one or two humps on its back. It can walk in the hot desert for many days without water.\n\nThe yak is a special animal. It lives very high in the mountains — sometimes more than four thousand metres high. The yak is big and strong and it has long hair. It carries heavy things in the mountains. It also gives people milk and meat.\n\nIn our yard there are also birds. The hen gives us eggs every day. The rooster is the male hen. He sings very early in the morning and wakes us up. The duck is a water bird. Ducks swim in the lake and eat small fish. The goose is bigger than the duck and it is usually white. Geese also swim and give us eggs and meat.\n\nMy grandmother's yard is a very busy place. In the morning my grandmother milks the cow, feeds the hens and lets the sheep out to graze. My grandfather takes the horses and donkeys to the field. My mother makes breakfast with fresh milk. My sister Zuhro and I help with small jobs: we bring water to the animals, we collect eggs and we clean the yard. In the evening all the animals come back home. It is a very happy time.\n\nAnimal care is not easy. The animals need food, water, a warm place and a kind hand. My grandfather says: \"If you take good care of your animals, your animals will take good care of you.\" I agree with him. Our animals are our family. They give us food and they help us work. We must love them and take good care of them.\n\nWhen I grow up, I want to have a small farm with cows, sheep, goats and hens. I want to make cheese and butter like my grandmother. I want to teach my children to love and take care of animals. Because a kind person is kind to animals too.",
+    "tj": "Ҳайвоноти хонагии деҳа ва кӯҳҳо\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Аммо биби ва бобои ман дар деҳаи хурде дар кӯҳҳо зиндагӣ мекунанд. Ҳар тобистон ман ба деҳа меравам ва ба онҳо бо ҳайвонот кӯмак мекунам. Ҳайвоноти деҳа барои ҳаёти мо хеле муҳим ҳастанд. Имрӯз ман мехоҳам ба шумо дар бораи ҳайвоноти хонагии деҳа ва кӯҳҳо нақл кунам.\n\nҲайвони хонагӣ ҳайвонест, ки бо одамон зиндагӣ мекунад. Одамон ба ҳайвоноти хонагӣ ғамхорӣ мекунанд, ба онҳо хӯрок медиҳанд ва ба онҳо хона медиҳанд. Дар иваз, ҳайвоноти хонагӣ ба одамон шир, гӯшт, тухм, пашм медиҳанд ва ба одамон дар кор кӯмак мекунанд. Бе ҳайвоноти хонагӣ ҳаёт дар деҳа ғайриимкон аст.\n\nГов муҳимтарин ҳайвон дар деҳаи тоҷик аст. Мо аз гов шир, равған, панир, қаймоқ ва гӯшт мегирем. Гов алаф ва беда мехӯрад. Бибиам говро ду маротиба дар як рӯз медӯшад — субҳ ва бегоҳ. Ӯ аз шир равған ва панир месозад. Панири ӯ дар деҳаи мо машҳур аст. Говкалаи гов шири модарашро менӯшад ва дар ҳавлӣ бозӣ мекунад.\n\nГӯсфанд низ ҳайвони хеле фоиданок аст. Мо аз гӯсфанд гӯшт, пашм ва шир мегирем. Пашм барои сохтани либосҳои гарм, кӯрпаҳо ва гилемҳо истифода мешавад. Бибиам аз пашми гӯсфанд гилемҳои зебо месозад. Гӯсфандҳо тамоми рӯз дар киштзор мечаранд. Қӯчқор гӯсфанди нарина аст — он шохҳои калон дар сараш дорад. Кӯдаки хурди гӯсфанд барра ном дорад. Барраҳо хеле хурд ва хеле зебо ҳастанд.\n\nБуз ҳайвони хурд, зирак ва хеле фоиданок аст. Бузҳо ба мо шир, гӯшт ва пашм медиҳанд. Бузҳо метавонанд ба кӯҳҳои хеле баланд бароянд. Дар кӯҳҳои Тоҷикистон бузҳо ба сангҳои баланд мебароянд, ки ҳеҷ ҳайвони дигар рафта наметавонад. Шири буз барои кӯдакони хурд хеле хуб аст.\n\nАсп ҳайвони хеле қавӣ ва зебо аст. Одамон аспро савор мешаванд ва аспҳо чизҳои вазнинро мебаранд. Дар деҳаи мо баъзе одамон хар ва хачир низ доранд. Хар ҳайвони хеле сабрнок аст. Он чизҳои вазнинро аз деҳа ба шаҳр ва бозгашт мебарад. Хачир омехтаи асп ва хар аст. Он хеле қавӣ аст ва хеле бо ҷидду ҷаҳд кор мекунад. Дар қисмҳои биёбонии ҷаҳон одамон шутурҳоро нигоҳ медоранд. Шутур ҳайвони калон бо як ё ду кӯҳон дар пушт аст. Он метавонад дар биёбони гарм рӯзҳои зиёд бе об қадам занад.\n\nҒажгов ҳайвони махсус аст. Он дар кӯҳҳо хеле баланд зиндагӣ мекунад — баъзан беш аз чор ҳазор метр баландӣ. Ғажгов калон ва қавӣ аст ва мӯйҳои дароз дорад. Он дар кӯҳҳо чизҳои вазнинро мебарад. Он инчунин ба одамон шир ва гӯшт медиҳад.\n\nДар ҳавлии мо инчунин паррандаҳо ҳастанд. Мурғ ҳар рӯз ба мо тухм медиҳад. Хурӯс мурғи нарина аст. Ӯ субҳ барвақт суруд мехонад ва моро бедор мекунад. Мурғобӣ паррандаи обӣ аст. Мурғобиҳо дар кӯл шино мекунанд ва моҳиҳои хурдро мехӯранд. Ғоз аз мурғобӣ калонтар аст ва одатан сафед аст. Ғозҳо низ шино мекунанд ва ба мо тухм ва гӯшт медиҳанд.\n\nҲавлии бибиам ҷои хеле банд аст. Субҳ бибиам говро медӯшад, ба мурғҳо хӯрок медиҳад ва гӯсфандҳоро ба чаридан мебарорад. Бобоям аспҳо ва харҳоро ба киштзор мебарад. Модарам наҳорӣ бо шири тоза мепазад. Хоҳарам Зуҳро ва ман бо корҳои хурд кӯмак мекунем: мо ба ҳайвонот об меорем, тухмҳоро ҷамъ мекунем ва ҳавлӣ тоза мекунем. Бегоҳ ҳамаи ҳайвонот ба хона бармегарданд. Ин вақти хеле хушбахт аст.\n\nНигоҳубини ҳайвонот осон нест. Ҳайвонот ба ғизо, об, ҷои гарм ва дасти меҳрубон ниёз доранд. Бобоям мегӯяд: «Агар шумо ба ҳайвоноти худ хуб ғамхорӣ кунед, ҳайвоноти шумо ба шумо хуб ғамхорӣ мекунанд.» Ман бо ӯ розӣ ҳастам. Ҳайвоноти мо оилаи мо ҳастанд. Онҳо ба мо ғизо медиҳанд ва ба мо дар кор кӯмак мекунанд. Мо бояд онҳоро дӯст дорем ва ба онҳо хуб ғамхорӣ кунем.\n\nВақте ки ман калон мешавам, ман мехоҳам хоҷагии хурд бо говҳо, гӯсфандҳо, бузҳо ва мурғҳо дошта бошам. Ман мехоҳам ба мисли бибиам панир ва равған созам. Ман мехоҳам ба кӯдаконам омӯзонам, ки ҳайвонотро дӯст доранд ва ба онҳо ғамхорӣ кунанд. Зеро ки одами меҳрубон ба ҳайвонот низ меҳрубон аст."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ғажгов баланд дар кӯҳҳо зиндагӣ мекунад ва метавонад чизҳои вазнинро бардорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст C"
+        "The yak lives high in the mountains and can carry heavy things.",
+        "The yak lives high in mountains and can carry heavy things.",
+        "The yak lives in the high mountains and can carry heavy things.",
+        "A yak lives high in the mountains and can carry heavy things."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "The yak lives high in the mountains and can carry heavy things."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Хар барои деҳқон чизҳои вазнинро мебардорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "The donkey carries heavy things for the farmer.",
+        "The donkey carries heavy things for a farmer.",
+        "A donkey carries heavy things for the farmer.",
+        "The donkey carries the heavy things for the farmer."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The donkey carries heavy things for the farmer."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Хачир қавӣ ва сабрнок аст ва хеле бо ҷидду ҷаҳд кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "A mule is strong and patient and works very hard.",
+        "The mule is strong and patient and works very hard.",
+        "A mule is strong and patient and it works very hard.",
+        "A mule is strong and patient and works hard."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "A mule is strong and patient and works very hard."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Шутур метавонад рӯзҳои зиёд бе об дар биёбон қадам занад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "The camel can walk in the desert for many days without water.",
+        "The camel can walk in the desert for many days with no water.",
+        "A camel can walk in the desert for many days without water.",
+        "The camel can walk in a desert for many days without water."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "The camel can walk in the desert for many days without water."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Буз ба мо шир, гӯшт ва пашм медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: education"
+        "The goat gives us milk, meat and wool.",
+        "A goat gives us milk, meat and wool.",
+        "The goat gives us milk, meat and hair.",
+        "The goat gives to us milk, meat and wool."
       ],
-      "answer": "тарҷума: education"
+      "answer": "The goat gives us milk, meat and wool."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Қӯчқор шохҳои калон дар сараш дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст A"
+        "The ram has big horns on its head.",
+        "The ram has big horns on his head.",
+        "The ram has big horns in its head.",
+        "A ram has big horns on its head."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The ram has big horns on its head."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Барра хурд ва сафед аст ва модарашро пайравӣ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "The lamb is small and white and follows its mother.",
+        "The lamb is little and white and follows its mother.",
+        "A lamb is small and white and follows its mother.",
+        "The lamb is small and white and follows her mother."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The lamb is small and white and follows its mother."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Говкала ҳар субҳ шир аз модараш менӯшад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: challenge"
+        "The calf drinks milk from its mother every morning.",
+        "The calf drinks the milk from its mother every morning.",
+        "A calf drinks milk from its mother every morning.",
+        "The calf drinks milk of its mother every morning."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The calf drinks milk from its mother every morning."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Кулӯн дар киштзор аз паси модараш медавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: knowledge",
-        "нодуруст A",
-        "нодуруст B"
+        "The foal runs after its mother in the field.",
+        "The foal runs after its mother in a field.",
+        "The foal runs behind its mother in the field.",
+        "A foal runs after its mother in the field."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "The foal runs after its mother in the field."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Мурғ ҳар рӯз ба мо тухм медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The hen gives us eggs every day.",
+        "The hen gives us eggs each day.",
+        "A hen gives us eggs every day.",
+        "The hen gives to us eggs every day."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The hen gives us eggs every day."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Хурӯс субҳ барвақт суруд мехонад ва моро бедор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: fluency",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "The rooster sings early in the morning and wakes us up.",
+        "The rooster sings in the early morning and wakes us up.",
+        "A rooster sings early in the morning and wakes us up.",
+        "The rooster sings early in the morning and wakes up us."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "The rooster sings early in the morning and wakes us up."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Мурғобӣ бо мурғобичаҳояш дар кӯл шино мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст B",
-        "нодуруст C"
+        "The duck swims in the lake with its ducklings.",
+        "The duck swims in a lake with its ducklings.",
+        "A duck swims in the lake with its ducklings.",
+        "The duck swims in the lake with her ducklings."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "The duck swims in the lake with its ducklings."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Ғоз паррандаи калони сафедест, ки дар ҳавлӣ зиндагӣ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: pronunciation",
-        "нодуруст A"
+        "The goose is a big white bird that lives in the yard.",
+        "The goose is a big white bird which lives in the yard.",
+        "A goose is a big white bird that lives in the yard.",
+        "The goose is a big white bird that lives in a yard."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "The goose is a big white bird that lives in the yard."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Бибиам ҳар субҳ ва ҳар бегоҳ говро медӯшад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: vocabulary",
-        "нодуруст B",
-        "нодуруст C"
+        "My grandmother milks the cow every morning and every evening.",
+        "My grandmother milks the cow every morning and evening.",
+        "My grandmother milks a cow every morning and every evening.",
+        "My grandmother milks the cow each morning and every evening."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "My grandmother milks the cow every morning and every evening."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Гӯсфандҳо ва бузҳо тамоми рӯз дар киштзор мечаранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: grammar"
+        "The sheep and goats graze in the field all day.",
+        "The sheep and the goats graze in the field all day.",
+        "Sheep and goats graze in the field all day.",
+        "The sheep and goats graze in a field all day."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "The sheep and goats graze in the field all day."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Мо аз пашми гӯсфанд либосҳои гарм ва гилемҳо месозем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "We make warm clothes and carpets from sheep's wool.",
+        "We make warm clothes and carpets from wool of sheep.",
+        "We make warm clothes and carpets out of sheep's wool.",
+        "We make warm clothes and carpets from the sheep's wool."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "We make warm clothes and carpets from sheep's wool."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ҳайвони хонагӣ ҳайвонест, ки бо одамон зиндагӣ мекунад. Одамон ба ҳайвоноти хонагӣ ғамхорӣ мекунанд, ба онҳо хӯрок медиҳанд ва ба онҳо хона медиҳанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст B"
+        "A domestic animal is an animal that lives with people. People take care of domestic animals, feed them and give them a home.",
+        "A domestic animal is an animal which lives with people. People take care of domestic animals, feed them and give them a home.",
+        "A domestic animal is an animal that lives with people. People look after domestic animals, feed them and give them a home.",
+        "A domestic animal is an animal that lives with people. People take care of the domestic animals, feed them and give them a home."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "A domestic animal is an animal that lives with people. People take care of domestic animals, feed them and give them a home."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Дар иваз, ҳайвоноти хонагӣ ба одамон шир, гӯшт, тухм, пашм медиҳанд ва ба одамон дар кор кӯмак мекунанд. Бе ҳайвоноти хонагӣ ҳаёт дар деҳа ғайриимкон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст C"
+        "In return, domestic animals give people milk, meat, eggs, wool, and they help people to work. Without domestic animals life in a village is impossible.",
+        "In return domestic animals give people milk, meat, eggs, wool, and they help people to work. Without domestic animals life in a village is impossible.",
+        "In return, domestic animals give people milk, meat, eggs, wool, and help people to work. Without domestic animals life in a village is impossible.",
+        "In return, domestic animals give people milk, meat, eggs, wool, and they help people to work. Without domestic animals, life in a village is impossible."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "In return, domestic animals give people milk, meat, eggs, wool, and they help people to work. Without domestic animals life in a village is impossible."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Гов муҳимтарин ҳайвон дар деҳаи тоҷик аст. Мо аз гов шир, равған, панир, қаймоқ ва гӯшт мегирем. Гов алаф ва беда мехӯрад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The cow is the most important animal in a Tajik village. We get milk, butter, cheese, cream and meat from the cow. The cow eats grass and hay.",
+        "The cow is the most important animal in the Tajik village. We get milk, butter, cheese, cream and meat from the cow. The cow eats grass and hay.",
+        "A cow is the most important animal in a Tajik village. We get milk, butter, cheese, cream and meat from the cow. The cow eats grass and hay.",
+        "The cow is a most important animal in a Tajik village. We get milk, butter, cheese, cream and meat from the cow. The cow eats grass and hay."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "The cow is the most important animal in a Tajik village. We get milk, butter, cheese, cream and meat from the cow. The cow eats grass and hay."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Бибиам говро ду маротиба дар як рӯз медӯшад — субҳ ва бегоҳ. Ӯ аз шир равған ва панир месозад. Панири ӯ дар деҳаи мо машҳур аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: education",
-        "нодуруст B",
-        "нодуруст C"
+        "My grandmother milks the cow twice a day — in the morning and in the evening. She makes butter and cheese from the milk. Her cheese is famous in our village.",
+        "My grandmother milks the cow twice a day — in the morning and in the evening. She makes butter and cheese from the milk. Her cheese is famous in the village.",
+        "My grandmother milks the cow two times a day — in the morning and in the evening. She makes butter and cheese from the milk. Her cheese is famous in our village.",
+        "My grandmother milks the cow twice a day, in the morning and in the evening. She makes butter and cheese from the milk. Her cheese is famous in our village."
       ],
-      "answer": "тарҷума: education"
+      "answer": "My grandmother milks the cow twice a day — in the morning and in the evening. She makes butter and cheese from the milk. Her cheese is famous in our village."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Говкалаи гов шири модарашро менӯшад ва дар ҳавлӣ бозӣ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: development",
-        "нодуруст C",
-        "нодуруст B"
+        "The cow's calf drinks its mother's milk and plays in the yard.",
+        "The calf of the cow drinks its mother's milk and plays in the yard.",
+        "The cow's calf drinks the milk of its mother and plays in the yard.",
+        "The cow's calf drinks its mother's milk and plays in a yard."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The cow's calf drinks its mother's milk and plays in the yard."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Гӯсфанд низ ҳайвони хеле фоиданок аст. Мо аз гӯсфанд гӯшт, пашм ва шир мегирем. Пашм барои сохтани либосҳои гарм, кӯрпаҳо ва гилемҳо истифода мешавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: achievement",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The sheep is also a very useful animal. We get meat, wool and milk from the sheep. The wool is used for making warm clothes, blankets and carpets.",
+        "The sheep is also a very useful animal. We get meat, wool and milk from sheep. The wool is used for making warm clothes, blankets and carpets.",
+        "A sheep is also a very useful animal. We get meat, wool and milk from the sheep. The wool is used for making warm clothes, blankets and carpets.",
+        "The sheep is also a very useful animal. We get meat, wool and milk from the sheep. Wool is used for making warm clothes, blankets and carpets."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The sheep is also a very useful animal. We get meat, wool and milk from the sheep. The wool is used for making warm clothes, blankets and carpets."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Бибиам аз пашми гӯсфанд гилемҳои зебо месозад. Гӯсфандҳо тамоми рӯз дар киштзор мечаранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: challenge",
-        "нодуруст C"
+        "My grandmother makes beautiful carpets from sheep's wool. The sheep graze in the field all day.",
+        "My grandmother makes beautiful carpets from the sheep's wool. The sheep graze in the field all day.",
+        "My grandmother makes beautiful carpets of sheep's wool. The sheep graze in the field all day.",
+        "My grandmother makes beautiful carpets from wool of sheep. The sheep graze in the field all day."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "My grandmother makes beautiful carpets from sheep's wool. The sheep graze in the field all day."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Буз ҳайвони хурд, зирак ва хеле фоиданок аст. Бузҳо ба мо шир, гӯшт ва пашм медиҳанд. Бузҳо метавонанд ба кӯҳҳои хеле баланд бароянд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: knowledge",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The goat is a small, clever and very useful animal. Goats give us milk, meat and wool. Goats can climb very high mountains.",
+        "A goat is a small, clever and very useful animal. Goats give us milk, meat and wool. Goats can climb very high mountains.",
+        "The goat is a small, clever and very useful animal. Goats give us milk, meat and wool. Goats can climb the very high mountains.",
+        "The goat is a small, clever and very useful animal. The goats give us milk, meat and wool. Goats can climb very high mountains."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "The goat is a small, clever and very useful animal. Goats give us milk, meat and wool. Goats can climb very high mountains."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Дар кӯҳҳои Тоҷикистон бузҳо ба сангҳои баланд мебароянд, ки ҳеҷ ҳайвони дигар рафта наметавонад. Шири буз барои кӯдакони хурд хеле хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: conversation",
-        "нодуруст A",
-        "нодуруст C"
+        "In the mountains of Tajikistan, goats climb high rocks where no other animal can go. The goat's milk is very good for small children.",
+        "In the mountains of Tajikistan goats climb high rocks where no other animal can go. The goat's milk is very good for small children.",
+        "In the mountains of Tajikistan, goats climb high rocks where no other animal can go. Goat's milk is very good for small children.",
+        "In the mountains of Tajikistan, goats climb the high rocks where no other animal can go. The goat's milk is very good for small children."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "In the mountains of Tajikistan, goats climb high rocks where no other animal can go. The goat's milk is very good for small children."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Асп ҳайвони хеле қавӣ ва зебо аст. Одамон аспро савор мешаванд ва аспҳо чизҳои вазнинро мебаранд. Дар деҳаи мо баъзе одамон хар ва хачир низ доранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: fluency",
-        "нодуруст C"
+        "The horse is a very strong and beautiful animal. People ride horses and horses carry heavy things. In our village some people also have donkeys and mules.",
+        "The horse is a very strong and beautiful animal. People ride horses and horses carry heavy things. In our village some people have donkeys and mules too.",
+        "A horse is a very strong and beautiful animal. People ride horses and horses carry heavy things. In our village some people also have donkeys and mules.",
+        "The horse is a very strong and beautiful animal. People ride the horses and horses carry heavy things. In our village some people also have donkeys and mules."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "The horse is a very strong and beautiful animal. People ride horses and horses carry heavy things. In our village some people also have donkeys and mules."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Хар ҳайвони хеле сабрнок аст. Он чизҳои вазнинро аз деҳа ба шаҳр ва бозгашт мебарад. Хачир омехтаи асп ва хар аст. Он хеле қавӣ аст ва хеле бо ҷидду ҷаҳд кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: confidence"
+        "The donkey is a very patient animal. It carries heavy things from the village to the city and back. A mule is a mix of a horse and a donkey. It is very strong and it works very hard.",
+        "The donkey is a very patient animal. It carries heavy things from the village to the city and back. A mule is a mixture of a horse and a donkey. It is very strong and it works very hard.",
+        "The donkey is a very patient animal. It carries the heavy things from the village to the city and back. A mule is a mix of a horse and a donkey. It is very strong and it works very hard.",
+        "The donkey is a very patient animal. It carries heavy things from a village to the city and back. A mule is a mix of a horse and a donkey. It is very strong and it works very hard."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "The donkey is a very patient animal. It carries heavy things from the village to the city and back. A mule is a mix of a horse and a donkey. It is very strong and it works very hard."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Дар қисмҳои биёбонии ҷаҳон одамон шутурҳоро нигоҳ медоранд. Шутур ҳайвони калон бо як ё ду кӯҳон дар пушт аст. Он метавонад дар биёбони гарм рӯзҳои зиёд бе об қадам занад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: pronunciation",
-        "нодуруст B",
-        "нодуруст C"
+        "In the desert parts of the world people keep camels. A camel is a big animal with one or two humps on its back. It can walk in the hot desert for many days without water.",
+        "In the desert parts of the world, people keep camels. A camel is a big animal with one or two humps on its back. It can walk in the hot desert for many days without water.",
+        "In the desert parts of the world people keep the camels. A camel is a big animal with one or two humps on its back. It can walk in the hot desert for many days without water.",
+        "In the desert parts of the world people keep camels. The camel is a big animal with one or two humps on its back. It can walk in the hot desert for many days without water."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "In the desert parts of the world people keep camels. A camel is a big animal with one or two humps on its back. It can walk in the hot desert for many days without water."
+    },
+    {
+      "q": "«Ғажгов ҳайвони махсус аст. Он дар кӯҳҳо хеле баланд зиндагӣ мекунад — баъзан беш аз чор ҳазор метр баландӣ. Ғажгов калон ва қавӣ аст ва мӯйҳои дароз дорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The yak is a special animal. It lives very high in the mountains — sometimes more than four thousand metres high. The yak is big and strong and it has long hair.",
+        "The yak is a special animal. It lives very high in the mountains — sometimes over four thousand metres high. The yak is big and strong and it has long hair.",
+        "A yak is a special animal. It lives very high in the mountains — sometimes more than four thousand metres high. The yak is big and strong and it has long hair.",
+        "The yak is a special animal. It lives very high in mountains — sometimes more than four thousand metres high. The yak is big and strong and it has long hair."
+      ],
+      "answer": "The yak is a special animal. It lives very high in the mountains — sometimes more than four thousand metres high. The yak is big and strong and it has long hair."
+    },
+    {
+      "q": "«Он дар кӯҳҳо чизҳои вазнинро мебарад. Он инчунин ба одамон шир ва гӯшт медиҳад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It carries heavy things in the mountains. It also gives people milk and meat.",
+        "It carries heavy things in mountains. It also gives people milk and meat.",
+        "It carries the heavy things in the mountains. It also gives people milk and meat.",
+        "It carries heavy things in the mountains. It gives people milk and meat too."
+      ],
+      "answer": "It carries heavy things in the mountains. It also gives people milk and meat."
+    },
+    {
+      "q": "«Дар ҳавлии мо инчунин паррандаҳо ҳастанд. Мурғ ҳар рӯз ба мо тухм медиҳад. Хурӯс мурғи нарина аст. Ӯ субҳ барвақт суруд мехонад ва моро бедор мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In our yard there are also birds. The hen gives us eggs every day. The rooster is the male hen. He sings very early in the morning and wakes us up.",
+        "In our yard there are also birds. The hen gives us eggs every day. The rooster is a male hen. He sings very early in the morning and wakes us up.",
+        "In our yard there are birds too. The hen gives us eggs every day. The rooster is the male hen. He sings very early in the morning and wakes us up.",
+        "In our yard there are also birds. A hen gives us eggs every day. The rooster is the male hen. He sings very early in the morning and wakes us up."
+      ],
+      "answer": "In our yard there are also birds. The hen gives us eggs every day. The rooster is the male hen. He sings very early in the morning and wakes us up."
+    },
+    {
+      "q": "«Мурғобӣ паррандаи обӣ аст. Мурғобиҳо дар кӯл шино мекунанд ва моҳиҳои хурдро мехӯранд. Ғоз аз мурғобӣ калонтар аст ва одатан сафед аст. Ғозҳо низ шино мекунанд ва ба мо тухм ва гӯшт медиҳанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The duck is a water bird. Ducks swim in the lake and eat small fish. The goose is bigger than the duck and it is usually white. Geese also swim and give us eggs and meat.",
+        "The duck is a water bird. Ducks swim in lakes and eat small fish. The goose is bigger than the duck and it is usually white. Geese also swim and give us eggs and meat.",
+        "The duck is a water bird. Ducks swim in the lake and eat small fish. The goose is bigger than a duck and it is usually white. Geese also swim and give us eggs and meat.",
+        "A duck is a water bird. Ducks swim in the lake and eat small fish. The goose is bigger than the duck and it is usually white. Geese also swim and give us eggs and meat."
+      ],
+      "answer": "The duck is a water bird. Ducks swim in the lake and eat small fish. The goose is bigger than the duck and it is usually white. Geese also swim and give us eggs and meat."
+    },
+    {
+      "q": "«Ҳавлии бибиам ҷои хеле банд аст. Субҳ бибиам говро медӯшад, ба мурғҳо хӯрок медиҳад ва гӯсфандҳоро ба чаридан мебарорад. Бобоям аспҳо ва харҳоро ба киштзор мебарад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandmother's yard is a very busy place. In the morning my grandmother milks the cow, feeds the hens and lets the sheep out to graze. My grandfather takes the horses and donkeys to the field.",
+        "My grandmother's yard is a very busy place. In the morning my grandmother milks the cow, feeds the hens and lets the sheep out to graze. My grandfather takes horses and donkeys to the field.",
+        "My grandmother's yard is a very busy place. In the morning my grandmother milks the cow, feeds the hens and lets the sheep out to graze. My grandfather takes the horses and the donkeys to the field.",
+        "My grandmother's yard is a very busy place. In the morning my grandmother milks a cow, feeds the hens and lets the sheep out to graze. My grandfather takes the horses and donkeys to the field."
+      ],
+      "answer": "My grandmother's yard is a very busy place. In the morning my grandmother milks the cow, feeds the hens and lets the sheep out to graze. My grandfather takes the horses and donkeys to the field."
+    },
+    {
+      "q": "«Модарам наҳорӣ бо шири тоза мепазад. Хоҳарам Зуҳро ва ман бо корҳои хурд кӯмак мекунем: мо ба ҳайвонот об меорем, тухмҳоро ҷамъ мекунем ва ҳавлӣ тоза мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My mother makes breakfast with fresh milk. My sister Zuhro and I help with small jobs: we bring water to the animals, we collect eggs and we clean the yard.",
+        "My mother makes breakfast with fresh milk. My sister Zuhro and I help with small jobs: we bring water to the animals, we collect the eggs and we clean the yard.",
+        "My mother makes breakfast with fresh milk. My sister Zuhro and I help with small jobs: we bring water to animals, we collect eggs and we clean the yard.",
+        "My mother makes breakfast with fresh milk. My sister Zuhro and I help with small jobs: we bring water to the animals, we collect eggs, and we clean the yard."
+      ],
+      "answer": "My mother makes breakfast with fresh milk. My sister Zuhro and I help with small jobs: we bring water to the animals, we collect eggs and we clean the yard."
+    },
+    {
+      "q": "«Бегоҳ ҳамаи ҳайвонот ба хона бармегарданд. Ин вақти хеле хушбахт аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In the evening all the animals come back home. It is a very happy time.",
+        "In the evening all animals come back home. It is a very happy time.",
+        "In the evening all the animals come back to home. It is a very happy time.",
+        "In the evening all the animals return home. It is a very happy time."
+      ],
+      "answer": "In the evening all the animals come back home. It is a very happy time."
+    },
+    {
+      "q": "«Нигоҳубини ҳайвонот осон нест. Ҳайвонот ба ғизо, об, ҷои гарм ва дасти меҳрубон ниёз доранд. Бобоям мегӯяд: \"Агар шумо ба ҳайвоноти худ хуб ғамхорӣ кунед, ҳайвоноти шумо ба шумо хуб ғамхорӣ мекунанд.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Animal care is not easy. The animals need food, water, a warm place and a kind hand. My grandfather says: \"If you take good care of your animals, your animals will take good care of you.\"",
+        "Animal care is not easy. Animals need food, water, a warm place and a kind hand. My grandfather says: \"If you take good care of your animals, your animals will take good care of you.\"",
+        "The animal care is not easy. The animals need food, water, a warm place and a kind hand. My grandfather says: \"If you take good care of your animals, your animals will take good care of you.\"",
+        "Animal care is not easy. The animals need food, water, a warm place and a kind hand. My grandfather says: \"If you take good care of your animals, your animals will look after you well.\""
+      ],
+      "answer": "Animal care is not easy. The animals need food, water, a warm place and a kind hand. My grandfather says: \"If you take good care of your animals, your animals will take good care of you.\""
+    },
+    {
+      "q": "«Ман бо ӯ розӣ ҳастам. Ҳайвоноти мо оилаи мо ҳастанд. Онҳо ба мо ғизо медиҳанд ва ба мо дар кор кӯмак мекунанд. Мо бояд онҳоро дӯст дорем ва ба онҳо хуб ғамхорӣ кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I agree with him. Our animals are our family. They give us food and they help us work. We must love them and take good care of them.",
+        "I agree with him. Our animals are our family. They give us food and help us work. We must love them and take good care of them.",
+        "I agree with him. Our animals are our family. They give us food and they help us to work. We must love them and take good care of them.",
+        "I agree with him. Our animals are our family. They give us food and they help us work. We should love them and take good care of them."
+      ],
+      "answer": "I agree with him. Our animals are our family. They give us food and they help us work. We must love them and take good care of them."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам хоҷагии хурд бо говҳо, гӯсфандҳо, бузҳо ва мурғҳо дошта бошам. Ман мехоҳам ба мисли бибиам панир ва равған созам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to have a small farm with cows, sheep, goats and hens. I want to make cheese and butter like my grandmother.",
+        "When I grow up I want to have a small farm with cows, sheep, goats and hens. I want to make cheese and butter like my grandmother.",
+        "When I grow up, I want to have a small farm with cows, sheep, goats and hens. I want to make cheese and butter as my grandmother.",
+        "When I grow up, I want to have a small farm with cows, sheep, goats and hens. I want to make cheese and butter as my grandmother does."
+      ],
+      "answer": "When I grow up, I want to have a small farm with cows, sheep, goats and hens. I want to make cheese and butter like my grandmother."
+    },
+    {
+      "q": "«Ман мехоҳам ба кӯдаконам омӯзонам, ки ҳайвонотро дӯст доранд ва ба онҳо ғамхорӣ кунанд. Зеро ки одами меҳрубон ба ҳайвонот низ меҳрубон аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to teach my children to love and take care of animals. Because a kind person is kind to animals too.",
+        "I want to teach my children to love and to take care of animals. Because a kind person is kind to animals too.",
+        "I want to teach my children to love and take care of the animals. Because a kind person is kind to animals too.",
+        "I want to teach my children to love and take care of animals. Because a kind person is kind to the animals too."
+      ],
+      "answer": "I want to teach my children to love and take care of animals. Because a kind person is kind to animals too."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 28
+  "wordsCount": 16
 }
