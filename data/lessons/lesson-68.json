@@ -1,476 +1,652 @@
 {
   "id": 68,
-  "title": "Муоширати воқеӣ 68",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 68: Вақт ва идоракунии он",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "punctual",
+      "tj": "саривақт",
+      "ex": "A punctual person is always on time."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "deadline",
+      "tj": "мӯҳлат",
+      "ex": "The deadline for the homework is Friday."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "to manage",
+      "tj": "идора кардан",
+      "ex": "A good pupil must manage his time well."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "priority",
+      "tj": "афзалият",
+      "ex": "Study is my first priority."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "to waste time",
+      "tj": "вақтро исроф кардан",
+      "ex": "Do not waste time on the phone."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "to save time",
+      "tj": "вақтро сарфа кардан",
+      "ex": "We can save time if we plan ahead."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "to postpone",
+      "tj": "ба таъхир андохтан",
+      "ex": "Never postpone important work."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "calendar",
+      "tj": "тақвим",
+      "ex": "I write all my plans in my calendar."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "to organise",
+      "tj": "ташкил кардан",
+      "ex": "I organise my day every morning."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "productive",
+      "tj": "сермаҳсул",
+      "ex": "A productive day is a happy day."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "efficient",
+      "tj": "самаранок",
+      "ex": "An efficient worker does more in less time."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "to plan ahead",
+      "tj": "пешакӣ нақша кашидан",
+      "ex": "It is very good to plan ahead."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "task",
+      "tj": "супориш / вазифа",
+      "ex": "I have many tasks today."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "habit",
+      "tj": "одат",
+      "ex": "Reading every day is a good habit."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to focus",
+      "tj": "диққат додан",
+      "ex": "I focus on my studies."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to be busy",
+      "tj": "банд будан",
+      "ex": "My father is very busy today."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 68)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "A punctual person is always on time.",
+      "tj": "Одами саривақт ҳамеша дар вақти муқарраршуда аст."
     },
     {
-      "en": "I'm working on lesson 68",
-      "tj": "Ман дарси 68-ро меомӯзам"
+      "en": "The deadline for the homework is Friday.",
+      "tj": "Мӯҳлати вазифаи хонагӣ рӯзи ҷумъа аст."
+    },
+    {
+      "en": "A good pupil must manage his time well.",
+      "tj": "Хонандаи хуб бояд вақти худро хуб идора кунад."
+    },
+    {
+      "en": "Study is my first priority and sport is my second.",
+      "tj": "Таҳсил афзалияти якуми ман аст ва варзиш дуюм."
+    },
+    {
+      "en": "Do not waste time on your phone.",
+      "tj": "Вақтро дар телефон исроф накун."
+    },
+    {
+      "en": "We can save time if we plan ahead.",
+      "tj": "Мо метавонем вақтро сарфа кунем, агар пешакӣ нақша кашем."
+    },
+    {
+      "en": "Never postpone important work until tomorrow.",
+      "tj": "Ҳеҷ гоҳ кори муҳимро ба фардо таъхир накун."
+    },
+    {
+      "en": "I write all my plans in my calendar.",
+      "tj": "Ман ҳамаи нақшаҳоямро дар тақвими худ менависам."
+    },
+    {
+      "en": "I organise my day every morning.",
+      "tj": "Ман ҳар субҳ рӯзамро ташкил мекунам."
+    },
+    {
+      "en": "A productive day is a happy day.",
+      "tj": "Рӯзи сермаҳсул рӯзи хушбахтӣ аст."
+    },
+    {
+      "en": "An efficient worker does more work in less time.",
+      "tj": "Коргари самаранок дар вақти камтар кори бештар мекунад."
+    },
+    {
+      "en": "It is very good to plan ahead for the whole week.",
+      "tj": "Пешакӣ барои тамоми ҳафта нақша кашидан хеле хуб аст."
+    },
+    {
+      "en": "I have many tasks today: lessons, homework and sport.",
+      "tj": "Ман имрӯз супоришҳои зиёд дорам: дарсҳо, вазифаи хонагӣ ва варзиш."
+    },
+    {
+      "en": "Reading every day is a good habit.",
+      "tj": "Ҳар рӯз хондан одати хуб аст."
+    },
+    {
+      "en": "I focus on my studies and do not think about my phone.",
+      "tj": "Ман ба дарсҳоям диққат медиҳам ва дар бораи телефонам фикр намекунам."
+    },
+    {
+      "en": "My father is very busy today — he has a lot of work.",
+      "tj": "Падарам имрӯз хеле банд аст — ӯ кори зиёд дорад."
     }
   ],
   "text": {
-    "en": "Text for lesson 68. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 68 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 68 text.",
-    "tj": "Матни дарси 68..."
+    "en": "Time and How to Manage It\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. Time is the most valuable thing in our life. We cannot buy time, we cannot borrow time, and we cannot stop time. Every person has exactly twenty-four hours a day — no more and no less. A rich man and a poor man both have the same twenty-four hours. The difference is how they use this time. Today I want to tell you about time and about how to manage it well.\n\nTo manage time means to use it wisely. A good pupil, a good worker and a good person always manage their time well. They are never in a hurry, and they are never late. They do all their work on time. They also have time to rest and to play. How do they do it? They plan their day, they set priorities, they are punctual, and they never waste time.\n\nA punctual person is a person who is always on time. If a lesson starts at eight o'clock, a punctual pupil comes to school at five minutes to eight, not at ten past eight. Punctuality is a very important quality. My father says: \"If you are late for one minute, you can be late for one hour. Being late is a sign of disrespect to other people.\" When I grow up, I want to be a punctual person. Because a punctual person is trusted and respected by everyone.\n\nA deadline is the time when we must finish our work. For example, if my teacher gives us homework on Monday and says \"Give me your work on Friday\", then Friday is the deadline. A good pupil always meets his deadlines. He does not postpone his work until the last day. My grandfather says: \"Never postpone until tomorrow what you can do today. Tomorrow you will have other work, and your tasks will grow like a snowball.\" This is a very wise saying.\n\nHow can we manage our time well? First, we must plan our day. Every morning I write a list of my tasks for the day. I put the most important tasks first. Then I put the less important tasks. This is called \"setting priorities\". My first priority is always my studies. My second priority is my family — I must help my mother and father. My third priority is sport — I must stay healthy. And then come my hobbies and games.\n\nI keep my calendar on the wall in my room. In my calendar I write all my important days: exams, birthdays, holidays, sports competitions and meetings. My mother says: \"A good calendar is half of success. If you write your plans down, you will remember them. If you keep them in your head, you will forget half of them.\"\n\nSecond, we must be organised. An organised person always knows where his things are. His books are on the shelf, his pencils are in his bag, and his clothes are in the wardrobe. He does not waste time looking for his things. My mother teaches me to keep my room tidy. She says: \"A tidy room means a tidy mind. A tidy mind means good work.\"\n\nThird, we must not waste time. Young people today spend too much time on their phones, on video games and on the internet. Of course, we can play sometimes. But we must not spend hours and hours on games. My father says: \"An hour of useful work is better than five hours of empty games.\" When I want to play, I first do all my homework, then I help my mother, and only after that I take my phone.\n\nFourth, we must learn to focus. To focus means to give all your attention to one task. When I do my homework, I do not watch TV and I do not listen to music. I turn off my phone and I sit at my desk. In this way I can do my homework in one hour instead of three. An efficient worker does more work in less time. My teacher says: \"Focus on one thing at a time, and you will finish everything.\"\n\nFifth, we must have good habits. A habit is something that we do every day without thinking. Some habits are good — reading every day, doing sport, going to bed on time. Some habits are bad — watching too much TV, eating too many sweets, going to bed very late. Bad habits eat our time. Good habits give us more time. My grandmother says: \"First you make your habits, then your habits make you.\"\n\nTime is a great teacher. When we are children, we think that time is very slow. When we are adults, we think that time flies. We cannot make time faster or slower. But we can make our time productive and happy. A productive day means that at the end of the day we can say: \"Today I did something useful. Today I learned something new. Today I helped someone.\"\n\nMy grandfather is an old man now. He says: \"When I was young, I did not understand the value of time. Now I know: time is more valuable than money. Money you can lose and find again. Time you lose only once.\" I remember these words every day. They help me to use my time wisely.\n\nWhen I grow up, I want to be a good doctor. Doctors must manage their time very well, because their time can save lives. I want to be punctual, organised and efficient. I want to plan my day, to set priorities and to keep my deadlines. I want to teach my children: your time is your greatest treasure — use it wisely, and your life will be happy and successful.",
+    "tj": "Вақт ва идоракунии он\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Вақт қиматбаҳотарин чиз дар ҳаёти мост. Мо вақтро харида наметавонем, мо вақтро қарз гирифта наметавонем ва мо вақтро боздошта наметавонем. Ҳар як одам дақиқан бисту чор соат дар як рӯз дорад — на бештар ва на камтар. Одами бой ва одами камбағал ҳарду ҳамон бисту чор соатро доранд. Фарқ дар он аст, ки онҳо ин вақтро чӣ тавр истифода мебаранд. Имрӯз ман мехоҳам ба шумо дар бораи вақт ва дар бораи он ки чӣ тавр онро хуб идора кунем, нақл кунам.\n\nИдора кардани вақт маънои онро дорад, ки онро бо ақл истифода барем. Хонандаи хуб, коргари хуб ва одами хуб ҳамеша вақти худро хуб идора мекунанд. Онҳо ҳеҷ гоҳ шитоб намекунанд ва ҳеҷ гоҳ дер намемонанд. Онҳо ҳамаи корҳои худро сари вақт иҷро мекунанд. Онҳо инчунин барои дам гирифтан ва бозӣ кардан вақт доранд. Онҳо инро чӣ тавр мекунанд? Онҳо рӯзи худро нақша мекашанд, афзалиятҳоро муайян мекунанд, саривақт ҳастанд ва ҳеҷ гоҳ вақтро исроф намекунанд.\n\nОдами саривақт одамест, ки ҳамеша дар вақти муқарраршуда аст. Агар дарс соати ҳашт оғоз шавад, хонандаи саривақт панҷ дақиқа пеш аз ҳашт ба мактаб меояд, на даҳ дақиқа баъд аз ҳашт. Саривақтӣ хислати хеле муҳим аст. Падарам мегӯяд: «Агар шумо як дақиқа дер монед, шумо метавонед як соат дер монед. Дер мондан нишонаи беэҳтиромӣ ба одамони дигар аст.» Вақте ки ман калон мешавам, ман мехоҳам одами саривақт бошам. Зеро ки одами саривақтро ҳама боэътимод ва эҳтиром мекунанд.\n\nМӯҳлат вақтест, ки мо бояд кори худро тамом кунем. Масалан, агар муаллимам рӯзи душанбе ба мо вазифаи хонагӣ диҳад ва гӯяд «Кори худро рӯзи ҷумъа диҳед», пас ҷумъа мӯҳлат аст. Хонандаи хуб ҳамеша мӯҳлати худро риоя мекунад. Ӯ кори худро то рӯзи охирин таъхир намекунад. Бобоям мегӯяд: «Ҳеҷ гоҳ он чиро, ки имрӯз карда метавонӣ, ба фардо таъхир накун. Фардо шумо кори дигар хоҳед дошт ва супоришҳои шумо мисли тӯби барфӣ калон мешаванд.» Ин сухани хеле доно аст.\n\nЧӣ тавр мо метавонем вақти худро хуб идора кунем? Аввал, мо бояд рӯзи худро нақша кашем. Ҳар субҳ ман рӯйхати супоришҳои худро барои он рӯз менависам. Ман супоришҳои муҳимтаринро аввал мегузорам. Баъд ман супоришҳои камтар муҳимро мегузорам. Ин «муайян кардани афзалиятҳо» ном дорад. Афзалияти якуми ман ҳамеша дарсҳоям аст. Афзалияти дуюми ман оилаам аст — ман бояд ба модар ва падарам кӯмак кунам. Афзалияти сеюми ман варзиш аст — ман бояд солим бимонам. Ва баъд машғулиятҳо ва бозиҳои ман меоянд.\n\nМан тақвими худро дар девори ҳуҷраам нигоҳ медорам. Дар тақвими худ ман ҳамаи рӯзҳои муҳими худро менависам: имтиҳонҳо, рӯзҳои таваллуд, идҳо, мусобиқаҳои варзишӣ ва вохӯриҳо. Модарам мегӯяд: «Тақвими хуб нисфи муваффақият аст. Агар шумо нақшаҳои худро нависед, шумо онҳоро ба ёд хоҳед дошт. Агар шумо онҳоро дар сари худ нигоҳ доред, шумо нисфи онҳоро фаромӯш хоҳед кард.»\n\nДуюм, мо бояд ташкилкардашуда бошем. Одами ташкилкардашуда ҳамеша медонад, ки чизҳояш дар куҷоянд. Китобҳояш дар раф, қаламҳояш дар халта ва либосҳояш дар шкаф ҳастанд. Ӯ барои ёфтани чизҳояш вақт исроф намекунад. Модарам ба ман ҳуҷраамро ҷамъу ҷӯр нигоҳ доштанро меомӯзонад. Ӯ мегӯяд: «Ҳуҷраи ҷамъу ҷӯр маънои ақли ҷамъу ҷӯрро дорад. Ақли ҷамъу ҷӯр маънои кори хубро дорад.»\n\nСеюм, мо набояд вақтро исроф кунем. Ҷавонони имрӯз вақти аз ҳад зиёдро дар телефонҳо, дар бозиҳои видеоӣ ва дар интернет мегузаронанд. Албатта, мо баъзан бозӣ карда метавонем. Аммо мо набояд соатҳо ва соатҳо дар бозиҳо вақт гузаронем. Падарам мегӯяд: «Як соати кори фоиданок аз панҷ соати бозиҳои холӣ беҳтар аст.» Вақте ки ман бозӣ кардан мехоҳам, ман аввал ҳамаи вазифаҳои хонагиамро иҷро мекунам, баъд ба модарам кӯмак мекунам ва танҳо баъд аз он телефони худро мегирам.\n\nЧорум, мо бояд диққат доданро омӯзем. Диққат додан маънои онро дорад, ки тамоми диққати худро ба як супориш диҳем. Вақте ки ман вазифаи хонагиамро иҷро мекунам, ман телевизор тамошо намекунам ва ба мусиқӣ гӯш намекунам. Ман телефони худро хомӯш мекунам ва дар миз менишинам. Бо ин роҳ ман метавонам вазифаи хонагиамро дар як соат ба ҷои се соат иҷро кунам. Коргари самаранок дар вақти камтар кори бештар мекунад. Муаллимам мегӯяд: «Ба як чиз дар як вақт диққат диҳед ва шумо ҳама чизро тамом хоҳед кард.»\n\nПанҷум, мо бояд одатҳои хуб дошта бошем. Одат чизест, ки мо ҳар рӯз бе фикр кардан мекунем. Баъзе одатҳо хубанд — ҳар рӯз хондан, варзиш кардан, сари вақт ба хоб рафтан. Баъзе одатҳо баданд — телевизори аз ҳад зиёд тамошо кардан, шириниҳои аз ҳад зиёд хӯрдан, бегоҳҳои хеле дер ба хоб рафтан. Одатҳои бад вақти моро мехӯранд. Одатҳои хуб ба мо вақти бештар медиҳанд. Бибиам мегӯяд: «Аввал шумо одатҳои худро месозед, баъд одатҳои шумо шуморо месозанд.»\n\nВақт муаллими бузург аст. Вақте ки мо кӯдакон ҳастем, мо фикр мекунем, ки вақт хеле оҳиста аст. Вақте ки мо калонсолон ҳастем, мо фикр мекунем, ки вақт парвоз мекунад. Мо наметавонем вақтро тезтар ё оҳистатар кунем. Аммо мо метавонем вақти худро сермаҳсул ва хушбахт кунем. Рӯзи сермаҳсул маънои онро дорад, ки дар охири рӯз мо метавонем гӯем: «Имрӯз ман кореи фоиданок кардам. Имрӯз ман чизи наве омӯхтам. Имрӯз ман ба касе кӯмак кардам.»\n\nБобоям ҳоло пирамард аст. Ӯ мегӯяд: «Вақте ки ман ҷавон будам, ман арзиши вақтро намефаҳмидам. Ҳоло ман медонам: вақт аз пул қиматбаҳотар аст. Пулро шумо гум карда метавонед ва боз ёфта метавонед. Вақтро шумо танҳо як маротиба гум мекунед.» Ман ин суханонро ҳар рӯз ба ёд меорам. Онҳо ба ман кӯмак мекунанд, ки вақти худро бо ақл истифода барам.\n\nВақте ки ман калон мешавам, ман мехоҳам духтури хуб шавам. Духтурон бояд вақти худро хеле хуб идора кунанд, зеро ки вақти онҳо метавонад ҳаётҳоро наҷот диҳад. Ман мехоҳам саривақт, ташкилкардашуда ва самаранок бошам. Ман мехоҳам рӯзамро нақша кашам, афзалиятҳоро муайян кунам ва мӯҳлатҳоямро риоя кунам. Ман мехоҳам ба кӯдаконам омӯзонам: вақти шумо бузургтарин ганҷи шумост — онро бо ақл истифода баред ва ҳаёти шумо хушбахт ва бомуваффақият хоҳад буд."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Одами саривақт ҳамеша дар вақти муқарраршуда аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: opportunity"
+        "A punctual person is always on time.",
+        "A punctual man is always on time.",
+        "The punctual person is always on time.",
+        "A punctual person is always in time."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "A punctual person is always on time."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Мӯҳлати вазифаи хонагӣ рӯзи ҷумъа аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст B"
+        "The deadline for the homework is Friday.",
+        "The deadline for homework is Friday.",
+        "The deadline of the homework is Friday.",
+        "The deadline for the homework is on Friday."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The deadline for the homework is Friday."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Хонандаи хуб бояд вақти худро хуб идора кунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: environment"
+        "A good pupil must manage his time well.",
+        "A good pupil must manage his time good.",
+        "The good pupil must manage his time well.",
+        "A good pupil should manage his time well."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "A good pupil must manage his time well."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Таҳсил афзалияти якуми ман аст ва варзиш дуюм» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: communication",
-        "нодуруст C",
-        "нодуруст A"
+        "Study is my first priority and sport is my second.",
+        "Study is my first priority and sport is second.",
+        "The study is my first priority and sport is my second.",
+        "Study is the first priority of mine and sport is my second."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "Study is my first priority and sport is my second."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Вақтро дар телефон исроф накун» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст B"
+        "Do not waste time on your phone.",
+        "Don't waste time on your phone.",
+        "Do not waste time in your phone.",
+        "Do not waste the time on your phone."
       ],
-      "answer": "тарҷума: education"
+      "answer": "Do not waste time on your phone."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Мо метавонем вақтро сарфа кунем, агар пешакӣ нақша кашем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: development"
+        "We can save time if we plan ahead.",
+        "We can save the time if we plan ahead.",
+        "We can save time, if we plan ahead.",
+        "We can save time if we plan before."
       ],
-      "answer": "тарҷума: development"
+      "answer": "We can save time if we plan ahead."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ҳеҷ гоҳ кори муҳимро ба фардо таъхир накун» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: achievement",
-        "нодуруст A"
+        "Never postpone important work until tomorrow.",
+        "Never postpone important work to tomorrow.",
+        "Never postpone the important work until tomorrow.",
+        "Never put off important work until tomorrow."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "Never postpone important work until tomorrow."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ман ҳамаи нақшаҳоямро дар тақвими худ менависам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "I write all my plans in my calendar.",
+        "I write all my plans on my calendar.",
+        "I write all the plans in my calendar.",
+        "I write all my plans into my calendar."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "I write all my plans in my calendar."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Ман ҳар субҳ рӯзамро ташкил мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: knowledge",
-        "нодуруст C"
+        "I organise my day every morning.",
+        "I organise my day each morning.",
+        "I organise the day every morning.",
+        "I organize my day every morning."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "I organise my day every morning."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Рӯзи сермаҳсул рӯзи хушбахтӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: conversation"
+        "A productive day is a happy day.",
+        "The productive day is a happy day.",
+        "A productive day is the happy day.",
+        "Productive day is a happy day."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "A productive day is a happy day."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Коргари самаранок дар вақти камтар кори бештар мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: fluency",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "An efficient worker does more work in less time.",
+        "An efficient worker does more work in a less time.",
+        "The efficient worker does more work in less time.",
+        "An efficient worker does more work at less time."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "An efficient worker does more work in less time."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Пешакӣ барои тамоми ҳафта нақша кашидан хеле хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: confidence",
-        "нодуруст A"
+        "It is very good to plan ahead for the whole week.",
+        "It is very good to plan for the whole week ahead.",
+        "It is very good to plan ahead the whole week.",
+        "It is good to plan ahead for the whole week."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "It is very good to plan ahead for the whole week."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Ман имрӯз супоришҳои зиёд дорам: дарсҳо, вазифаи хонагӣ ва варзиш» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: pronunciation",
-        "нодуруст B",
-        "нодуруст A"
+        "I have many tasks today: lessons, homework and sport.",
+        "I have many tasks today: lessons, homework and sport.",
+        "I have many tasks today — lessons, homework and sport.",
+        "I have a lot of tasks today: lessons, homework and sport."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "I have many tasks today: lessons, homework and sport."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ҳар рӯз хондан одати хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: vocabulary",
-        "нодуруст A",
-        "нодуруст B"
+        "Reading every day is a good habit.",
+        "Reading every day is a good habit.",
+        "To read every day is a good habit.",
+        "Reading each day is a good habit."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "Reading every day is a good habit."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ман ба дарсҳоям диққат медиҳам ва дар бораи телефонам фикр намекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: grammar",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "I focus on my studies and do not think about my phone.",
+        "I focus on my studies and don't think about my phone.",
+        "I focus on my studies and do not think of my phone.",
+        "I focus at my studies and do not think about my phone."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "I focus on my studies and do not think about my phone."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Падарам имрӯз хеле банд аст — ӯ кори зиёд дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "My father is very busy today — he has a lot of work.",
+        "My father is very busy today, he has a lot of work.",
+        "My father is very busy today — he has much work.",
+        "My father is very busy today — he has a lot of works."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "My father is very busy today — he has a lot of work."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Вақт қиматбаҳотарин чиз дар ҳаёти мост. Мо вақтро харида наметавонем, мо вақтро қарз гирифта наметавонем ва мо вақтро боздошта наметавонем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "Time is the most valuable thing in our life. We cannot buy time, we cannot borrow time, and we cannot stop time.",
+        "Time is the most valuable thing in our life. We cannot buy time, we cannot borrow time and we cannot stop time.",
+        "Time is the most valuable thing in our life. We can't buy time, we cannot borrow time, and we cannot stop time.",
+        "Time is the most valuable thing in our life. We cannot buy the time, we cannot borrow time, and we cannot stop time."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "Time is the most valuable thing in our life. We cannot buy time, we cannot borrow time, and we cannot stop time."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ҳар як одам дақиқан бисту чор соат дар як рӯз дорад — на бештар ва на камтар. Одами бой ва одами камбағал ҳарду ҳамон бисту чор соатро доранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "Every person has exactly twenty-four hours a day — no more and no less. A rich man and a poor man both have the same twenty-four hours.",
+        "Every person has exactly twenty-four hours a day — no more and no less. A rich man and a poor man both have the same twenty-four hours.",
+        "Each person has exactly twenty-four hours a day — no more and no less. A rich man and a poor man both have the same twenty-four hours.",
+        "Every person has exactly twenty-four hours a day, no more and no less. A rich man and a poor man both have the same twenty-four hours."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Every person has exactly twenty-four hours a day — no more and no less. A rich man and a poor man both have the same twenty-four hours."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Фарқ дар он аст, ки онҳо ин вақтро чӣ тавр истифода мебаранд. Имрӯз ман мехоҳам ба шумо дар бораи вақт ва дар бораи он ки чӣ тавр онро хуб идора кунем, нақл кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: communication"
+        "The difference is how they use this time. Today I want to tell you about time and about how to manage it well.",
+        "The difference is how they use this time. Today I want to tell you about time and how to manage it well.",
+        "The difference is in how they use this time. Today I want to tell you about time and about how to manage it well.",
+        "The difference is how they use this time. Today I want to tell you about the time and about how to manage it well."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "The difference is how they use this time. Today I want to tell you about time and about how to manage it well."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Идора кардани вақт маънои онро дорад, ки онро бо ақл истифода барем. Хонандаи хуб, коргари хуб ва одами хуб ҳамеша вақти худро хуб идора мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: education"
+        "To manage time means to use it wisely. A good pupil, a good worker and a good person always manage their time well.",
+        "To manage time means to use it wisely. A good pupil, a good worker and a good person always manage their time well.",
+        "To manage time means to use it wisely. The good pupil, the good worker and the good person always manage their time well.",
+        "To manage time means to use it wisely. A good pupil, a good worker and a good person always manage the time well."
       ],
-      "answer": "тарҷума: education"
+      "answer": "To manage time means to use it wisely. A good pupil, a good worker and a good person always manage their time well."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Онҳо ҳеҷ гоҳ шитоб намекунанд ва ҳеҷ гоҳ дер намемонанд. Онҳо ҳамаи корҳои худро сари вақт иҷро мекунанд. Онҳо инчунин барои дам гирифтан ва бозӣ кардан вақт доранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст A"
+        "They are never in a hurry, and they are never late. They do all their work on time. They also have time to rest and to play.",
+        "They are never in a hurry and they are never late. They do all their work on time. They also have time to rest and to play.",
+        "They are never in a hurry, and they are never late. They do all their work on time. They also have time to have a rest and to play.",
+        "They are never in a hurry, and they are never late. They do all their work in time. They also have time to rest and to play."
       ],
-      "answer": "тарҷума: development"
+      "answer": "They are never in a hurry, and they are never late. They do all their work on time. They also have time to rest and to play."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Онҳо инро чӣ тавр мекунанд? Онҳо рӯзи худро нақша мекашанд, афзалиятҳоро муайян мекунанд, саривақт ҳастанд ва ҳеҷ гоҳ вақтро исроф намекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "How do they do it? They plan their day, they set priorities, they are punctual, and they never waste time.",
+        "How do they do it? They plan their day, they set priorities, they are punctual and they never waste time.",
+        "How do they do it? They plan the day, they set priorities, they are punctual, and they never waste time.",
+        "How do they do that? They plan their day, they set priorities, they are punctual, and they never waste time."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "How do they do it? They plan their day, they set priorities, they are punctual, and they never waste time."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Одами саривақт одамест, ки ҳамеша дар вақти муқарраршуда аст. Агар дарс соати ҳашт оғоз шавад, хонандаи саривақт панҷ дақиқа пеш аз ҳашт ба мактаб меояд, на даҳ дақиқа баъд аз ҳашт» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "A punctual person is a person who is always on time. If a lesson starts at eight o'clock, a punctual pupil comes to school at five minutes to eight, not at ten past eight.",
+        "A punctual person is a person who is always on time. If a lesson starts at eight o'clock, a punctual pupil comes to school at five minutes to eight, not at ten past eight.",
+        "A punctual person is a person who is always on time. If a lesson starts at eight o'clock a punctual pupil comes to school at five minutes to eight, not at ten past eight.",
+        "A punctual person is a person that is always on time. If a lesson starts at eight o'clock, a punctual pupil comes to school at five minutes to eight, not at ten past eight."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "A punctual person is a person who is always on time. If a lesson starts at eight o'clock, a punctual pupil comes to school at five minutes to eight, not at ten past eight."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Саривақтӣ хислати хеле муҳим аст. Падарам мегӯяд: \"Агар шумо як дақиқа дер монед, шумо метавонед як соат дер монед. Дер мондан нишонаи беэҳтиромӣ ба одамони дигар аст.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: knowledge"
+        "Punctuality is a very important quality. My father says: \"If you are late for one minute, you can be late for one hour. Being late is a sign of disrespect to other people.\"",
+        "Punctuality is a very important quality. My father says: \"If you are late for one minute you can be late for one hour. Being late is a sign of disrespect to other people.\"",
+        "Punctuality is a very important quality. My father says: \"If you are late by one minute, you can be late for one hour. Being late is a sign of disrespect to other people.\"",
+        "Punctuality is the very important quality. My father says: \"If you are late for one minute, you can be late for one hour. Being late is a sign of disrespect to other people.\""
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "Punctuality is a very important quality. My father says: \"If you are late for one minute, you can be late for one hour. Being late is a sign of disrespect to other people.\""
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам одами саривақт бошам. Зеро ки одами саривақтро ҳама боэътимод ва эҳтиром мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "When I grow up, I want to be a punctual person. Because a punctual person is trusted and respected by everyone.",
+        "When I grow up I want to be a punctual person. Because a punctual person is trusted and respected by everyone.",
+        "When I grow up, I want to become a punctual person. Because a punctual person is trusted and respected by everyone.",
+        "When I grow up, I want to be a punctual person. Because the punctual person is trusted and respected by everyone."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "When I grow up, I want to be a punctual person. Because a punctual person is trusted and respected by everyone."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Мӯҳлат вақтест, ки мо бояд кори худро тамом кунем. Масалан, агар муаллимам рӯзи душанбе ба мо вазифаи хонагӣ диҳад ва гӯяд \"Кори худро рӯзи ҷумъа диҳед\", пас ҷумъа мӯҳлат аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: fluency",
-        "нодуруст A"
+        "A deadline is the time when we must finish our work. For example, if my teacher gives us homework on Monday and says \"Give me your work on Friday\", then Friday is the deadline.",
+        "A deadline is the time when we must finish our work. For example, if my teacher gives us homework on Monday and says \"Give me your work on Friday\", then Friday is the deadline.",
+        "A deadline is a time when we must finish our work. For example, if my teacher gives us homework on Monday and says \"Give me your work on Friday\", then Friday is the deadline.",
+        "A deadline is the time when we must finish our work. For example, if my teacher gives us homework on Monday and says: \"Give me your work on Friday\", then Friday is the deadline."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "A deadline is the time when we must finish our work. For example, if my teacher gives us homework on Monday and says \"Give me your work on Friday\", then Friday is the deadline."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Хонандаи хуб ҳамеша мӯҳлати худро риоя мекунад. Ӯ кори худро то рӯзи охирин таъхир намекунад. Бобоям мегӯяд: \"Ҳеҷ гоҳ он чиро, ки имрӯз карда метавонӣ, ба фардо таъхир накун. Фардо шумо кори дигар хоҳед дошт ва супоришҳои шумо мисли тӯби барфӣ калон мешаванд.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "A good pupil always meets his deadlines. He does not postpone his work until the last day. My grandfather says: \"Never postpone until tomorrow what you can do today. Tomorrow you will have other work, and your tasks will grow like a snowball.\"",
+        "A good pupil always meets his deadlines. He does not postpone his work until the last day. My grandfather says: \"Never postpone until tomorrow what you can do today. Tomorrow you will have other work and your tasks will grow like a snowball.\"",
+        "A good pupil always meets his deadlines. He does not postpone his work till the last day. My grandfather says: \"Never postpone until tomorrow what you can do today. Tomorrow you will have other work, and your tasks will grow like a snowball.\"",
+        "A good pupil always meets his deadlines. He does not put off his work until the last day. My grandfather says: \"Never postpone until tomorrow what you can do today. Tomorrow you will have other work, and your tasks will grow like a snowball.\""
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "A good pupil always meets his deadlines. He does not postpone his work until the last day. My grandfather says: \"Never postpone until tomorrow what you can do today. Tomorrow you will have other work, and your tasks will grow like a snowball.\""
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Ин сухани хеле доно аст. Чӣ тавр мо метавонем вақти худро хуб идора кунем? Аввал, мо бояд рӯзи худро нақша кашем. Ҳар субҳ ман рӯйхати супоришҳои худро барои он рӯз менависам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: pronunciation",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "This is a very wise saying. How can we manage our time well? First, we must plan our day. Every morning I write a list of my tasks for the day.",
+        "This is a very wise saying. How can we manage our time well? First, we must plan our day. Every morning I write the list of my tasks for the day.",
+        "This is a very wise saying. How can we manage our time well? At first, we must plan our day. Every morning I write a list of my tasks for the day.",
+        "It is a very wise saying. How can we manage our time well? First, we must plan our day. Every morning I write a list of my tasks for the day."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "This is a very wise saying. How can we manage our time well? First, we must plan our day. Every morning I write a list of my tasks for the day."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ман супоришҳои муҳимтаринро аввал мегузорам. Баъд ман супоришҳои камтар муҳимро мегузорам. Ин \"муайян кардани афзалиятҳо\" ном дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: vocabulary"
+        "I put the most important tasks first. Then I put the less important tasks. This is called \"setting priorities\".",
+        "I put the most important tasks first. Then I put the less important tasks. This is called \"setting priorities\".",
+        "I put the most important tasks first. Then I put less important tasks. This is called \"setting priorities\".",
+        "I put the most important tasks at first. Then I put the less important tasks. This is called \"setting priorities\"."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "I put the most important tasks first. Then I put the less important tasks. This is called \"setting priorities\"."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Афзалияти якуми ман ҳамеша дарсҳоям аст. Афзалияти дуюми ман оилаам аст — ман бояд ба модар ва падарам кӯмак кунам. Афзалияти сеюми ман варзиш аст — ман бояд солим бимонам. Ва баъд машғулиятҳо ва бозиҳои ман меоянд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: grammar",
-        "нодуруст C",
-        "нодуруст B"
+        "My first priority is always my studies. My second priority is my family — I must help my mother and father. My third priority is sport — I must stay healthy. And then come my hobbies and games.",
+        "My first priority is always my studies. My second priority is my family — I must help my mother and father. My third priority is sport — I must stay healthy. And then my hobbies and games come.",
+        "My first priority is always my studies. My second priority is my family — I must help my mother and my father. My third priority is sport — I must stay healthy. And then come my hobbies and games.",
+        "My first priority is always my studies. My second priority is my family, I must help my mother and father. My third priority is sport — I must stay healthy. And then come my hobbies and games."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "My first priority is always my studies. My second priority is my family — I must help my mother and father. My third priority is sport — I must stay healthy. And then come my hobbies and games."
+    },
+    {
+      "q": "«Ман тақвими худро дар девори ҳуҷраам нигоҳ медорам. Дар тақвими худ ман ҳамаи рӯзҳои муҳими худро менависам: имтиҳонҳо, рӯзҳои таваллуд, идҳо, мусобиқаҳои варзишӣ ва вохӯриҳо» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I keep my calendar on the wall in my room. In my calendar I write all my important days: exams, birthdays, holidays, sports competitions and meetings.",
+        "I keep my calendar on the wall in my room. In my calendar I write all my important days: exams, birthdays, holidays, sports competitions and meetings.",
+        "I keep the calendar on the wall in my room. In my calendar I write all my important days: exams, birthdays, holidays, sports competitions and meetings.",
+        "I keep my calendar on the wall of my room. In my calendar I write all my important days: exams, birthdays, holidays, sports competitions and meetings."
+      ],
+      "answer": "I keep my calendar on the wall in my room. In my calendar I write all my important days: exams, birthdays, holidays, sports competitions and meetings."
+    },
+    {
+      "q": "«Модарам мегӯяд: \"Тақвими хуб нисфи муваффақият аст. Агар шумо нақшаҳои худро нависед, шумо онҳоро ба ёд хоҳед дошт. Агар шумо онҳоро дар сари худ нигоҳ доред, шумо нисфи онҳоро фаромӯш хоҳед кард.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My mother says: \"A good calendar is half of success. If you write your plans down, you will remember them. If you keep them in your head, you will forget half of them.\"",
+        "My mother says: \"A good calendar is half of success. If you write down your plans, you will remember them. If you keep them in your head, you will forget half of them.\"",
+        "My mother says: \"A good calendar is half of the success. If you write your plans down, you will remember them. If you keep them in your head, you will forget half of them.\"",
+        "My mother says: \"The good calendar is half of success. If you write your plans down, you will remember them. If you keep them in your head, you will forget half of them.\""
+      ],
+      "answer": "My mother says: \"A good calendar is half of success. If you write your plans down, you will remember them. If you keep them in your head, you will forget half of them.\""
+    },
+    {
+      "q": "«Дуюм, мо бояд ташкилкардашуда бошем. Одами ташкилкардашуда ҳамеша медонад, ки чизҳояш дар куҷоянд. Китобҳояш дар раф, қаламҳояш дар халта ва либосҳояш дар шкаф ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Second, we must be organised. An organised person always knows where his things are. His books are on the shelf, his pencils are in his bag, and his clothes are in the wardrobe.",
+        "Second, we must be organised. An organised person always knows where his things are. His books are on the shelf, his pencils are in his bag and his clothes are in the wardrobe.",
+        "Secondly, we must be organised. An organised person always knows where his things are. His books are on the shelf, his pencils are in his bag, and his clothes are in the wardrobe.",
+        "Second, we must be organized. An organised person always knows where his things are. His books are on the shelf, his pencils are in his bag, and his clothes are in the wardrobe."
+      ],
+      "answer": "Second, we must be organised. An organised person always knows where his things are. His books are on the shelf, his pencils are in his bag, and his clothes are in the wardrobe."
+    },
+    {
+      "q": "«Ӯ барои ёфтани чизҳояш вақт исроф намекунад. Модарам ба ман ҳуҷраамро ҷамъу ҷӯр нигоҳ доштанро меомӯзонад. Ӯ мегӯяд: \"Ҳуҷраи ҷамъу ҷӯр маънои ақли ҷамъу ҷӯрро дорад. Ақли ҷамъу ҷӯр маънои кори хубро дорад.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He does not waste time looking for his things. My mother teaches me to keep my room tidy. She says: \"A tidy room means a tidy mind. A tidy mind means good work.\"",
+        "He does not waste time looking for his things. My mother teaches me to keep my room tidy. She says: \"A tidy room means a tidy mind. A tidy mind means good work.\"",
+        "He does not waste time to look for his things. My mother teaches me to keep my room tidy. She says: \"A tidy room means a tidy mind. A tidy mind means good work.\"",
+        "He doesn't waste time looking for his things. My mother teaches me to keep my room tidy. She says: \"A tidy room means a tidy mind. A tidy mind means good work.\""
+      ],
+      "answer": "He does not waste time looking for his things. My mother teaches me to keep my room tidy. She says: \"A tidy room means a tidy mind. A tidy mind means good work.\""
+    },
+    {
+      "q": "«Сеюм, мо набояд вақтро исроф кунем. Ҷавонони имрӯз вақти аз ҳад зиёдро дар телефонҳо, дар бозиҳои видеоӣ ва дар интернет мегузаронанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Third, we must not waste time. Young people today spend too much time on their phones, on video games and on the internet.",
+        "Third, we must not waste time. Young people today spend too much time on their phones, on video games and on the internet.",
+        "Thirdly, we must not waste time. Young people today spend too much time on their phones, on video games and on the internet.",
+        "Third, we must not waste time. Young people today spend too much time in their phones, on video games and on the internet."
+      ],
+      "answer": "Third, we must not waste time. Young people today spend too much time on their phones, on video games and on the internet."
+    },
+    {
+      "q": "«Албатта, мо баъзан бозӣ карда метавонем. Аммо мо набояд соатҳо ва соатҳо дар бозиҳо вақт гузаронем. Падарам мегӯяд: \"Як соати кори фоиданок аз панҷ соати бозиҳои холӣ беҳтар аст.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Of course, we can play sometimes. But we must not spend hours and hours on games. My father says: \"An hour of useful work is better than five hours of empty games.\"",
+        "Of course, we can play sometimes. But we must not spend hours and hours on games. My father says: \"An hour of useful work is better than five hours of empty games.\"",
+        "Of course, we can play sometimes. But we must not spend hours and hours in games. My father says: \"An hour of useful work is better than five hours of empty games.\"",
+        "Of course we can play sometimes. But we must not spend hours and hours on games. My father says: \"An hour of useful work is better than five hours of empty games.\""
+      ],
+      "answer": "Of course, we can play sometimes. But we must not spend hours and hours on games. My father says: \"An hour of useful work is better than five hours of empty games.\""
+    },
+    {
+      "q": "«Вақте ки ман бозӣ кардан мехоҳам, ман аввал ҳамаи вазифаҳои хонагиамро иҷро мекунам, баъд ба модарам кӯмак мекунам ва танҳо баъд аз он телефони худро мегирам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I want to play, I first do all my homework, then I help my mother, and only after that I take my phone.",
+        "When I want to play, I first do all my homework, then I help my mother and only after that I take my phone.",
+        "When I want to play I first do all my homework, then I help my mother, and only after that I take my phone.",
+        "When I want to play, I first do all my homework, then I help my mother, and only after that I take the phone."
+      ],
+      "answer": "When I want to play, I first do all my homework, then I help my mother, and only after that I take my phone."
+    },
+    {
+      "q": "«Чорум, мо бояд диққат доданро омӯзем. Диққат додан маънои онро дорад, ки тамоми диққати худро ба як супориш диҳем. Вақте ки ман вазифаи хонагиамро иҷро мекунам, ман телевизор тамошо намекунам ва ба мусиқӣ гӯш намекунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Fourth, we must learn to focus. To focus means to give all your attention to one task. When I do my homework, I do not watch TV and I do not listen to music.",
+        "Fourth, we must learn to focus. To focus means to give all your attention to one task. When I do my homework I do not watch TV and I do not listen to music.",
+        "Fourthly, we must learn to focus. To focus means to give all your attention to one task. When I do my homework, I do not watch TV and I do not listen to music.",
+        "Fourth, we must learn to focus. To focus means to give all your attention to one task. When I do my homework, I don't watch TV and I don't listen to music."
+      ],
+      "answer": "Fourth, we must learn to focus. To focus means to give all your attention to one task. When I do my homework, I do not watch TV and I do not listen to music."
+    },
+    {
+      "q": "«Ман телефони худро хомӯш мекунам ва дар миз менишинам. Бо ин роҳ ман метавонам вазифаи хонагиамро дар як соат ба ҷои се соат иҷро кунам. Коргари самаранок дар вақти камтар кори бештар мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I turn off my phone and I sit at my desk. In this way I can do my homework in one hour instead of three. An efficient worker does more work in less time.",
+        "I turn off my phone and sit at my desk. In this way I can do my homework in one hour instead of three. An efficient worker does more work in less time.",
+        "I turn off my phone and I sit at my desk. In this way I can do my homework in one hour instead of three hours. An efficient worker does more work in less time.",
+        "I turn off my phone and I sit at the desk. In this way I can do my homework in one hour instead of three. An efficient worker does more work in less time."
+      ],
+      "answer": "I turn off my phone and I sit at my desk. In this way I can do my homework in one hour instead of three. An efficient worker does more work in less time."
+    },
+    {
+      "q": "«Муаллимам мегӯяд: \"Ба як чиз дар як вақт диққат диҳед ва шумо ҳама чизро тамом хоҳед кард.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My teacher says: \"Focus on one thing at a time, and you will finish everything.\"",
+        "My teacher says: \"Focus on one thing at a time and you will finish everything.\"",
+        "My teacher says: \"Focus at one thing at a time, and you will finish everything.\"",
+        "My teacher says: \"Focus on one thing at one time, and you will finish everything.\""
+      ],
+      "answer": "My teacher says: \"Focus on one thing at a time, and you will finish everything.\""
+    },
+    {
+      "q": "«Панҷум, мо бояд одатҳои хуб дошта бошем. Одат чизест, ки мо ҳар рӯз бе фикр кардан мекунем. Баъзе одатҳо хубанд — ҳар рӯз хондан, варзиш кардан, сари вақт ба хоб рафтан» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Fifth, we must have good habits. A habit is something that we do every day without thinking. Some habits are good — reading every day, doing sport, going to bed on time.",
+        "Fifth, we must have good habits. A habit is something that we do every day without thinking. Some habits are good — reading every day, doing sport, going to bed on time.",
+        "Fifthly, we must have good habits. A habit is something that we do every day without thinking. Some habits are good — reading every day, doing sport, going to bed on time.",
+        "Fifth, we must have good habits. A habit is something which we do every day without thinking. Some habits are good — reading every day, doing sport, going to bed on time."
+      ],
+      "answer": "Fifth, we must have good habits. A habit is something that we do every day without thinking. Some habits are good — reading every day, doing sport, going to bed on time."
+    },
+    {
+      "q": "«Баъзе одатҳо баданд — телевизори аз ҳад зиёд тамошо кардан, шириниҳои аз ҳад зиёд хӯрдан, бегоҳҳои хеле дер ба хоб рафтан. Одатҳои бад вақти моро мехӯранд. Одатҳои хуб ба мо вақти бештар медиҳанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Some habits are bad — watching too much TV, eating too many sweets, going to bed very late. Bad habits eat our time. Good habits give us more time.",
+        "Some habits are bad — watching too much TV, eating too many sweets, going to bed very late. Bad habits eat our time. Good habits give us more time.",
+        "Some habits are bad: watching too much TV, eating too many sweets, going to bed very late. Bad habits eat our time. Good habits give us more time.",
+        "Some habits are bad — watching too much TV, eating too many sweets, going to bed very late. The bad habits eat our time. Good habits give us more time."
+      ],
+      "answer": "Some habits are bad — watching too much TV, eating too many sweets, going to bed very late. Bad habits eat our time. Good habits give us more time."
+    },
+    {
+      "q": "«Бибиам мегӯяд: \"Аввал шумо одатҳои худро месозед, баъд одатҳои шумо шуморо месозанд.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandmother says: \"First you make your habits, then your habits make you.\"",
+        "My grandmother says: \"First you make your habits, then your habits make you.\"",
+        "My grandmother says: \"At first you make your habits, then your habits make you.\"",
+        "My grandmother says: \"First you make your habits and then your habits make you.\""
+      ],
+      "answer": "My grandmother says: \"First you make your habits, then your habits make you.\""
+    },
+    {
+      "q": "«Вақт муаллими бузург аст. Вақте ки мо кӯдакон ҳастем, мо фикр мекунем, ки вақт хеле оҳиста аст. Вақте ки мо калонсолон ҳастем, мо фикр мекунем, ки вақт парвоз мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Time is a great teacher. When we are children, we think that time is very slow. When we are adults, we think that time flies.",
+        "Time is a great teacher. When we are children, we think that time is very slow. When we are adults we think that time flies.",
+        "Time is a great teacher. When we are children we think that time is very slow. When we are adults, we think that time flies.",
+        "Time is the great teacher. When we are children, we think that time is very slow. When we are adults, we think that time flies."
+      ],
+      "answer": "Time is a great teacher. When we are children, we think that time is very slow. When we are adults, we think that time flies."
+    },
+    {
+      "q": "«Мо наметавонем вақтро тезтар ё оҳистатар кунем. Аммо мо метавонем вақти худро сермаҳсул ва хушбахт кунем. Рӯзи сермаҳсул маънои онро дорад, ки дар охири рӯз мо метавонем гӯем: \"Имрӯз ман кореи фоиданок кардам. Имрӯз ман чизи наве омӯхтам. Имрӯз ман ба касе кӯмак кардам.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We cannot make time faster or slower. But we can make our time productive and happy. A productive day means that at the end of the day we can say: \"Today I did something useful. Today I learned something new. Today I helped someone.\"",
+        "We cannot make time faster or slower. But we can make our time productive and happy. A productive day means that at the end of the day we can say: \"Today I did something useful. Today I learned something new. Today I helped somebody.\"",
+        "We cannot make time faster or slower. But we can make our time productive and happy. A productive day means that at the end of the day we can say: \"Today I did something useful. Today I learnt something new. Today I helped someone.\"",
+        "We can't make time faster or slower. But we can make our time productive and happy. A productive day means that at the end of the day we can say: \"Today I did something useful. Today I learned something new. Today I helped someone.\""
+      ],
+      "answer": "We cannot make time faster or slower. But we can make our time productive and happy. A productive day means that at the end of the day we can say: \"Today I did something useful. Today I learned something new. Today I helped someone.\""
+    },
+    {
+      "q": "«Бобоям ҳоло пирамард аст. Ӯ мегӯяд: \"Вақте ки ман ҷавон будам, ман арзиши вақтро намефаҳмидам. Ҳоло ман медонам: вақт аз пул қиматбаҳотар аст. Пулро шумо гум карда метавонед ва боз ёфта метавонед. Вақтро шумо танҳо як маротиба гум мекунед.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandfather is an old man now. He says: \"When I was young, I did not understand the value of time. Now I know: time is more valuable than money. Money you can lose and find again. Time you lose only once.\"",
+        "My grandfather is an old man now. He says: \"When I was young I did not understand the value of time. Now I know: time is more valuable than money. Money you can lose and find again. Time you lose only once.\"",
+        "My grandfather is an old man now. He says: \"When I was young, I did not understand the value of time. Now I know time is more valuable than money. Money you can lose and find again. Time you lose only once.\"",
+        "My grandfather is an old man now. He says: \"When I was young, I did not understand the value of the time. Now I know: time is more valuable than money. Money you can lose and find again. Time you lose only once.\""
+      ],
+      "answer": "My grandfather is an old man now. He says: \"When I was young, I did not understand the value of time. Now I know: time is more valuable than money. Money you can lose and find again. Time you lose only once.\""
+    },
+    {
+      "q": "«Ман ин суханонро ҳар рӯз ба ёд меорам. Онҳо ба ман кӯмак мекунанд, ки вақти худро бо ақл истифода барам. Вақте ки ман калон мешавам, ман мехоҳам духтури хуб шавам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I remember these words every day. They help me to use my time wisely. When I grow up, I want to be a good doctor.",
+        "I remember these words every day. They help me use my time wisely. When I grow up, I want to be a good doctor.",
+        "I remember these words every day. They help me to use my time wisely. When I grow up I want to be a good doctor.",
+        "I remember these words each day. They help me to use my time wisely. When I grow up, I want to be a good doctor."
+      ],
+      "answer": "I remember these words every day. They help me to use my time wisely. When I grow up, I want to be a good doctor."
+    },
+    {
+      "q": "«Духтурон бояд вақти худро хеле хуб идора кунанд, зеро ки вақти онҳо метавонад ҳаётҳоро наҷот диҳад. Ман мехоҳам саривақт, ташкилкардашуда ва самаранок бошам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Doctors must manage their time very well, because their time can save lives. I want to be punctual, organised and efficient.",
+        "Doctors must manage their time very well because their time can save lives. I want to be punctual, organised and efficient.",
+        "Doctors must manage their time very well, because their time can save lives. I want to be punctual, organized and efficient.",
+        "The doctors must manage their time very well, because their time can save lives. I want to be punctual, organised and efficient."
+      ],
+      "answer": "Doctors must manage their time very well, because their time can save lives. I want to be punctual, organised and efficient."
+    },
+    {
+      "q": "«Ман мехоҳам рӯзамро нақша кашам, афзалиятҳоро муайян кунам ва мӯҳлатҳоямро риоя кунам. Ман мехоҳам ба кӯдаконам омӯзонам: вақти шумо бузургтарин ганҷи шумост — онро бо ақл истифода баред ва ҳаёти шумо хушбахт ва бомуваффақият хоҳад буд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to plan my day, to set priorities and to keep my deadlines. I want to teach my children: your time is your greatest treasure — use it wisely, and your life will be happy and successful.",
+        "I want to plan my day, set priorities and keep my deadlines. I want to teach my children: your time is your greatest treasure — use it wisely, and your life will be happy and successful.",
+        "I want to plan my day, to set priorities and to keep my deadlines. I want to teach my children: your time is your greatest treasure, use it wisely, and your life will be happy and successful.",
+        "I want to plan my day, to set priorities and to keep my deadlines. I want to teach my children: your time is your greatest treasure — use it wisely and your life will be happy and successful."
+      ],
+      "answer": "I want to plan my day, to set priorities and to keep my deadlines. I want to teach my children: your time is your greatest treasure — use it wisely, and your life will be happy and successful."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 30
+  "wordsCount": 16
 }
