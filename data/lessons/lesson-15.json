@@ -1,563 +1,440 @@
 {
   "id": 15,
-  "title": "Луғат ва ибораҳо 15",
+  "title": "Иборасозӣ 15: Ҷумлаҳо аз калимаҳои гузашта",
   "level": "Ибтидоӣ - Starkov",
   "free": false,
   "words": [
     {
-      "en": "mother",
-      "tj": "модар",
-      "ex": "Ex: mother is useful."
+      "en": "afternoon",
+      "tj": "нимрӯз",
+      "ex": "I read a book in the afternoon."
     },
     {
-      "en": "father",
-      "tj": "падар",
-      "ex": "Ex: father is useful."
+      "en": "noon",
+      "tj": "нимрӯзӣ",
+      "ex": "I eat lunch at noon."
     },
     {
-      "en": "sister",
-      "tj": "хоҳар",
-      "ex": "Ex: sister is useful."
+      "en": "midnight",
+      "tj": "нисфишаб",
+      "ex": "I sleep at midnight."
     },
     {
-      "en": "brother",
-      "tj": "бародар",
-      "ex": "Ex: brother is useful."
+      "en": "weekend",
+      "tj": "охири ҳафта",
+      "ex": "I rest at the weekend."
     },
     {
-      "en": "house",
-      "tj": "хона",
-      "ex": "Ex: house is useful."
+      "en": "holiday",
+      "tj": "иди",
+      "ex": "Today is a holiday."
     },
     {
-      "en": "school",
-      "tj": "мактаб",
-      "ex": "Ex: school is useful."
+      "en": "birthday",
+      "tj": "рӯзи таваллуд",
+      "ex": "My birthday is in May."
     },
     {
-      "en": "teacher",
-      "tj": "омӯзгор",
-      "ex": "Ex: teacher is useful."
+      "en": "party",
+      "tj": "базм",
+      "ex": "We have a party today."
     },
     {
-      "en": "pupil",
-      "tj": "хонанда",
-      "ex": "Ex: pupil is useful."
+      "en": "gift",
+      "tj": "тӯҳфа",
+      "ex": "This is a gift for you."
     },
     {
-      "en": "good",
-      "tj": "хуб",
-      "ex": "Ex: good is useful."
+      "en": "letter",
+      "tj": "мактуб",
+      "ex": "I write a letter."
     },
     {
-      "en": "bad",
-      "tj": "бад",
-      "ex": "Ex: bad is useful."
+      "en": "phone",
+      "tj": "телефон",
+      "ex": "I call my mother on the phone."
     },
     {
-      "en": "big",
-      "tj": "калон",
-      "ex": "Ex: big is useful."
+      "en": "computer",
+      "tj": "компютер",
+      "ex": "I work on the computer."
     },
     {
-      "en": "small",
-      "tj": "хурд",
-      "ex": "Ex: small is useful."
+      "en": "music",
+      "tj": "мусиқӣ",
+      "ex": "I listen to music."
     },
     {
-      "en": "new",
-      "tj": "нав",
-      "ex": "Ex: new is useful."
+      "en": "song",
+      "tj": "суруд",
+      "ex": "I sing a song."
     },
     {
-      "en": "old",
-      "tj": "кӯҳна",
-      "ex": "Ex: old is useful."
+      "en": "game",
+      "tj": "бозӣ",
+      "ex": "I play a game."
     },
     {
-      "en": "happy",
-      "tj": "хушбахт",
-      "ex": "Ex: happy is useful."
-    },
-    {
-      "en": "sad",
-      "tj": "ғамгин",
-      "ex": "Ex: sad is useful."
-    },
-    {
-      "en": "to read",
-      "tj": "хондан",
-      "ex": "Ex: to read is useful."
-    },
-    {
-      "en": "to write",
-      "tj": "навиштан",
-      "ex": "Ex: to write is useful."
-    },
-    {
-      "en": "to speak",
-      "tj": "гап задан",
-      "ex": "Ex: to speak is useful."
-    },
-    {
-      "en": "to learn",
-      "tj": "омӯхтан",
-      "ex": "Ex: to learn is useful."
-    },
-    {
-      "en": "to go",
-      "tj": "рафтан",
-      "ex": "Ex: to go is useful."
-    },
-    {
-      "en": "to come",
-      "tj": "омадан",
-      "ex": "Ex: to come is useful."
-    },
-    {
-      "en": "morning",
-      "tj": "субҳ",
-      "ex": "Ex: morning is useful."
-    },
-    {
-      "en": "day",
-      "tj": "рӯз",
-      "ex": "Ex: day is useful."
-    },
-    {
-      "en": "evening",
-      "tj": "бегоҳ",
-      "ex": "Ex: evening is useful."
-    },
-    {
-      "en": "night",
-      "tj": "шаб",
-      "ex": "Ex: night is useful."
-    },
-    {
-      "en": "today",
-      "tj": "имрӯз",
-      "ex": "Ex: today is useful."
-    },
-    {
-      "en": "tomorrow",
-      "tj": "фардо",
-      "ex": "Ex: tomorrow is useful."
-    },
-    {
-      "en": "yesterday",
-      "tj": "дируз",
-      "ex": "Ex: yesterday is useful."
-    },
-    {
-      "en": "one",
-      "tj": "як",
-      "ex": "Ex: one is useful."
-    },
-    {
-      "en": "two",
-      "tj": "ду",
-      "ex": "Ex: two is useful."
-    },
-    {
-      "en": "three",
-      "tj": "се",
-      "ex": "Ex: three is useful."
-    },
-    {
-      "en": "four",
-      "tj": "чор",
-      "ex": "Ex: four is useful."
-    },
-    {
-      "en": "five",
-      "tj": "панҷ",
-      "ex": "Ex: five is useful."
-    },
-    {
-      "en": "apple",
-      "tj": "себ",
-      "ex": "Ex: apple is useful."
-    },
-    {
-      "en": "water",
-      "tj": "об",
-      "ex": "Ex: water is useful."
-    },
-    {
-      "en": "bread",
-      "tj": "нон",
-      "ex": "Ex: bread is useful."
-    },
-    {
-      "en": "a book",
-      "tj": "китоб",
-      "ex": "Ex: a book is useful."
+      "en": "ball",
+      "tj": "тӯб",
+      "ex": "I throw the ball."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 15)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "I go to school in the morning.",
+      "tj": "Ман субҳ ба мактаб меравам."
     },
     {
-      "en": "I'm working on lesson 15",
-      "tj": "Ман дарси 15-ро меомӯзам"
+      "en": "My mother is a doctor.",
+      "tj": "Модари ман духтур аст."
+    },
+    {
+      "en": "The cat is black.",
+      "tj": "Гурба сиёҳ аст."
+    },
+    {
+      "en": "I drink tea with bread.",
+      "tj": "Ман чойро бо нон менӯшам."
+    },
+    {
+      "en": "The bird flies in the sky.",
+      "tj": "Парранда дар осмон парвоз мекунад."
+    },
+    {
+      "en": "I read a book in the evening.",
+      "tj": "Ман бегоҳ китоб мехонам."
+    },
+    {
+      "en": "My father works in the city.",
+      "tj": "Падари ман дар шаҳр кор мекунад."
+    },
+    {
+      "en": "The children play in the garden.",
+      "tj": "Кӯдакон дар боғ бозӣ мекунанд."
+    },
+    {
+      "en": "I want to buy a new shirt.",
+      "tj": "Ман мехоҳам куртаи нав харам."
+    },
+    {
+      "en": "He swims in the river.",
+      "tj": "Ӯ дар дарё шино мекунад."
+    },
+    {
+      "en": "We study English every day.",
+      "tj": "Мо ҳар рӯз англисӣ меомӯзем."
+    },
+    {
+      "en": "She is happy today.",
+      "tj": "Ӯ имрӯз хушҳол аст."
+    },
+    {
+      "en": "I need water.",
+      "tj": "Ман об лозим дорам."
+    },
+    {
+      "en": "The train is fast.",
+      "tj": "Қатора тез аст."
+    },
+    {
+      "en": "My grandmother lives in the village.",
+      "tj": "Бибии ман дар деҳа зиндагӣ мекунад."
+    },
+    {
+      "en": "I can count from one to ten.",
+      "tj": "Ман метавонам аз як то даҳ ҳисоб кунам."
+    },
+    {
+      "en": "The teacher tells a story.",
+      "tj": "Муаллим ҳикоя нақл мекунад."
+    },
+    {
+      "en": "She washes her hands.",
+      "tj": "Ӯ дастҳояшро мешӯяд."
+    },
+    {
+      "en": "I see a big house.",
+      "tj": "Ман хонаи калон мебинам."
+    },
+    {
+      "en": "My sister has a red dress.",
+      "tj": "Хоҳари ман куртаи сурх дорад."
+    },
+    {
+      "en": "We eat breakfast in the kitchen.",
+      "tj": "Мо дар ошхона наҳорӣ мехӯрем."
+    },
+    {
+      "en": "The moon and stars are in the sky.",
+      "tj": "Моҳ ва ситораҳо дар осмон ҳастанд."
+    },
+    {
+      "en": "I open the door with a key.",
+      "tj": "Ман дарро бо калид мекушоям."
+    },
+    {
+      "en": "The doctor helps sick people.",
+      "tj": "Духтур ба беморон кӯмак мекунад."
+    },
+    {
+      "en": "I write a letter to my friend.",
+      "tj": "Ман ба дӯстам мактуб менависам."
     }
   ],
   "text": null,
   "exercises": [
     {
-      "q": "'mother' чи маъно дорад?",
+      "q": "«Ман субҳ ба мактаб меравам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "модар"
+        "I go to school in the morning.",
+        "I come to school in the morning.",
+        "I go to school in the evening.",
+        "I go to the city in the morning."
       ],
-      "answer": "модар"
+      "answer": "I go to school in the morning."
     },
     {
-      "q": "'father' чи маъно дорад?",
+      "q": "«Модари ман духтур аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "падар",
-        "нодуруст A",
-        "нодуруст B"
+        "My mother is a doctor.",
+        "My father is a doctor.",
+        "My sister is a doctor.",
+        "My mother is a teacher."
       ],
-      "answer": "падар"
+      "answer": "My mother is a doctor."
     },
     {
-      "q": "'sister' чи маъно дорад?",
+      "q": "«Гурба сиёҳ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "хоҳар"
+        "The cat is black.",
+        "The dog is black.",
+        "The cat is white.",
+        "The cat is small."
       ],
-      "answer": "хоҳар"
+      "answer": "The cat is black."
     },
     {
-      "q": "'brother' чи маъно дорад?",
+      "q": "«Ман чойро бо нон менӯшам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "бародар",
-        "нодуруст A"
+        "I drink tea with bread.",
+        "I eat tea with bread.",
+        "I drink water with bread.",
+        "I drink tea with milk."
       ],
-      "answer": "бародар"
+      "answer": "I drink tea with bread."
     },
     {
-      "q": "'house' чи маъно дорад?",
+      "q": "«Парранда дар осмон парвоз мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "хона",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "The bird flies in the sky.",
+        "The bird runs in the sky.",
+        "The bird flies in the garden.",
+        "The duck flies in the sky."
       ],
-      "answer": "хона"
+      "answer": "The bird flies in the sky."
     },
     {
-      "q": "'school' чи маъно дорад?",
+      "q": "«Ман бегоҳ китоб мехонам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "мактаб"
+        "I read a book in the evening.",
+        "I read a book in the morning.",
+        "I write a book in the evening.",
+        "I read a letter in the evening."
       ],
-      "answer": "мактаб"
+      "answer": "I read a book in the evening."
     },
     {
-      "q": "'teacher' чи маъно дорад?",
+      "q": "«Падари ман дар шаҳр кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "омӯзгор",
-        "нодуруст C",
-        "нодуруст A"
+        "My father works in the city.",
+        "My father works in the village.",
+        "My mother works in the city.",
+        "My father lives in the city."
       ],
-      "answer": "омӯзгор"
+      "answer": "My father works in the city."
     },
     {
-      "q": "'pupil' чи маъно дорад?",
+      "q": "«Кӯдакон дар боғ бозӣ мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "хонанда",
-        "нодуруст C"
+        "The children play in the garden.",
+        "The children play in the house.",
+        "The children play in the street.",
+        "The children run in the garden."
       ],
-      "answer": "хонанда"
+      "answer": "The children play in the garden."
     },
     {
-      "q": "'good' чи маъно дорад?",
+      "q": "«Ман мехоҳам куртаи нав харам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "хуб"
+        "I want to buy a new shirt.",
+        "I want to buy a new hat.",
+        "I want to buy a new coat.",
+        "I want to buy a new dress."
       ],
-      "answer": "хуб"
+      "answer": "I want to buy a new shirt."
     },
     {
-      "q": "'bad' чи маъно дорад?",
+      "q": "«Ӯ дар дарё шино мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "бад",
-        "нодуруст B"
+        "He swims in the river.",
+        "He swims in the sea.",
+        "She swims in the river.",
+        "He runs in the river."
       ],
-      "answer": "бад"
+      "answer": "He swims in the river."
     },
     {
-      "q": "'big' чи маъно дорад?",
+      "q": "«Мо ҳар рӯз англисӣ меомӯзем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "калон",
-        "нодуруст A",
-        "нодуруст C"
+        "We study English every day.",
+        "We study English every week.",
+        "We learn English every day.",
+        "We study Tajik every day."
       ],
-      "answer": "калон"
+      "answer": "We study English every day."
     },
     {
-      "q": "'small' чи маъно дорад?",
+      "q": "«Ӯ имрӯз хушҳол аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "хурд",
-        "нодуруст B"
+        "She is happy today.",
+        "She is sad today.",
+        "He is happy today.",
+        "She is tired today."
       ],
-      "answer": "хурд"
+      "answer": "She is happy today."
     },
     {
-      "q": "'new' чи маъно дорад?",
+      "q": "«Ман об лозим дорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нав",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "I need water.",
+        "I want water.",
+        "I drink water.",
+        "I need bread."
       ],
-      "answer": "нав"
+      "answer": "I need water."
     },
     {
-      "q": "'old' чи маъно дорад?",
+      "q": "«Қатора тез аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "кӯҳна",
-        "нодуруст C"
+        "The train is fast.",
+        "The train is slow.",
+        "The bus is fast.",
+        "The car is fast."
       ],
-      "answer": "кӯҳна"
+      "answer": "The train is fast."
     },
     {
-      "q": "'happy' чи маъно дорад?",
+      "q": "«Бибии ман дар деҳа зиндагӣ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "хушбахт"
+        "My grandmother lives in the village.",
+        "My grandmother lives in the city.",
+        "My grandfather lives in the village.",
+        "My grandmother works in the village."
       ],
-      "answer": "хушбахт"
+      "answer": "My grandmother lives in the village."
     },
     {
-      "q": "'sad' чи маъно дорад?",
+      "q": "«Ман метавонам аз як то даҳ ҳисоб кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "ғамгин"
+        "I can count from one to ten.",
+        "I can count from one to five.",
+        "I can write from one to ten.",
+        "I can read from one to ten."
       ],
-      "answer": "ғамгин"
+      "answer": "I can count from one to ten."
     },
     {
-      "q": "'to read' чи маъно дорад?",
+      "q": "«Муаллим ҳикоя нақл мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "хондан",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "The teacher tells a story.",
+        "The teacher reads a story.",
+        "The teacher writes a story.",
+        "The teacher tells a lesson."
       ],
-      "answer": "хондан"
+      "answer": "The teacher tells a story."
     },
     {
-      "q": "'to write' чи маъно дорад?",
+      "q": "«Ӯ дастҳояшро мешӯяд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "навиштан",
-        "нодуруст C"
+        "She washes her hands.",
+        "She washes her face.",
+        "He washes his hands.",
+        "She cleans her hands."
       ],
-      "answer": "навиштан"
+      "answer": "She washes her hands."
     },
     {
-      "q": "'to speak' чи маъно дорад?",
+      "q": "«Ман хонаи калон мебинам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "гап задан"
+        "I see a big house.",
+        "I see a small house.",
+        "I see a new house.",
+        "I see a big garden."
       ],
-      "answer": "гап задан"
+      "answer": "I see a big house."
     },
     {
-      "q": "'to learn' чи маъно дорад?",
+      "q": "«Хоҳари ман куртаи сурх дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "омӯхтан"
+        "My sister has a red dress.",
+        "My sister has a red shirt.",
+        "My mother has a red dress.",
+        "My sister has a blue dress."
       ],
-      "answer": "омӯхтан"
+      "answer": "My sister has a red dress."
     },
     {
-      "q": "'to go' чи маъно дорад?",
+      "q": "«Мо дар ошхона наҳорӣ мехӯрем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "рафтан"
+        "We eat breakfast in the kitchen.",
+        "We eat lunch in the kitchen.",
+        "We eat dinner in the kitchen.",
+        "We eat breakfast in the garden."
       ],
-      "answer": "рафтан"
+      "answer": "We eat breakfast in the kitchen."
     },
     {
-      "q": "'to come' чи маъно дорад?",
+      "q": "«Моҳ ва ситораҳо дар осмон ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "омадан",
-        "нодуруст A"
+        "The moon and stars are in the sky.",
+        "The sun and stars are in the sky.",
+        "The moon and clouds are in the sky.",
+        "The moon and stars are in the sea."
       ],
-      "answer": "омадан"
+      "answer": "The moon and stars are in the sky."
     },
     {
-      "q": "'morning' чи маъно дорад?",
+      "q": "«Ман дарро бо калид мекушоям» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "субҳ",
-        "нодуруст B"
+        "I open the door with a key.",
+        "I close the door with a key.",
+        "I open the window with a key.",
+        "I open the door with a pen."
       ],
-      "answer": "субҳ"
+      "answer": "I open the door with a key."
     },
     {
-      "q": "'day' чи маъно дорад?",
+      "q": "«Духтур ба беморон кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "рӯз",
-        "нодуруст C"
+        "The doctor helps sick people.",
+        "The nurse helps sick people.",
+        "The doctor helps happy people.",
+        "The doctor helps old people."
       ],
-      "answer": "рӯз"
+      "answer": "The doctor helps sick people."
     },
     {
-      "q": "'evening' чи маъно дорад?",
+      "q": "«Ман ба дӯстам мактуб менависам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "бегоҳ",
-        "нодуруст B",
-        "нодуруст C"
+        "I write a letter to my friend.",
+        "I write a letter to my mother.",
+        "I read a letter to my friend.",
+        "I write a story to my friend."
       ],
-      "answer": "бегоҳ"
-    },
-    {
-      "q": "'night' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "шаб"
-      ],
-      "answer": "шаб"
-    },
-    {
-      "q": "'today' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "имрӯз",
-        "нодуруст A"
-      ],
-      "answer": "имрӯз"
-    },
-    {
-      "q": "'tomorrow' чи маъно дорад?",
-      "options": [
-        "фардо",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "фардо"
-    },
-    {
-      "q": "'yesterday' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "дируз"
-      ],
-      "answer": "дируз"
-    },
-    {
-      "q": "'one' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "як"
-      ],
-      "answer": "як"
-    },
-    {
-      "q": "'two' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "ду",
-        "нодуруст C"
-      ],
-      "answer": "ду"
-    },
-    {
-      "q": "'three' чи маъно дорад?",
-      "options": [
-        "се",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "се"
-    },
-    {
-      "q": "'four' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "чор",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "чор"
-    },
-    {
-      "q": "'five' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "панҷ"
-      ],
-      "answer": "панҷ"
-    },
-    {
-      "q": "'apple' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "себ"
-      ],
-      "answer": "себ"
+      "answer": "I write a letter to my friend."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 38
+  "wordsCount": 15
 }
