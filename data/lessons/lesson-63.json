@@ -1,461 +1,572 @@
 {
   "id": 63,
-  "title": "Муоширати воқеӣ 63",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 63: Бозор ва хариди мол",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "market",
+      "tj": "бозор",
+      "ex": "My mother goes to the market every Saturday."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "shop",
+      "tj": "дукон",
+      "ex": "The shop is near our house."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "seller",
+      "tj": "фурӯшанда",
+      "ex": "The seller sells fresh fruit."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "buyer",
+      "tj": "харидор",
+      "ex": "The buyer chooses fresh vegetables."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "price",
+      "tj": "нарх",
+      "ex": "The price of apples is very good today."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "cheap",
+      "tj": "арзон",
+      "ex": "Tomatoes are cheap in summer."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "expensive",
+      "tj": "гарон",
+      "ex": "Meat is expensive in winter."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to sell",
+      "tj": "фурӯхтан",
+      "ex": "The farmer sells vegetables at the market."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "to buy",
+      "tj": "харидан",
+      "ex": "I buy bread every morning."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to pay",
+      "tj": "пардохтан",
+      "ex": "I pay for the fruit at the cash desk."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "money",
+      "tj": "пул",
+      "ex": "I need money to buy a new book."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "change",
+      "tj": "боқимонда",
+      "ex": "The seller gives me the change."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "cash desk",
+      "tj": "хазина",
+      "ex": "Pay at the cash desk, please."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "basket",
+      "tj": "сабад",
+      "ex": "My mother carries a basket with vegetables."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "fresh",
+      "tj": "тоза",
+      "ex": "Fresh bread smells wonderful."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "customer",
+      "tj": "муштарак",
+      "ex": "The customer asks the seller about the price."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 63)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "My mother goes to the market every Saturday morning.",
+      "tj": "Модарам ҳар рӯзи шанбе субҳ ба бозор меравад."
     },
     {
-      "en": "I'm working on lesson 63",
-      "tj": "Ман дарси 63-ро меомӯзам"
+      "en": "The shop is near our house and it opens early.",
+      "tj": "Дукон дар назди хонаи мост ва барвақт кушода мешавад."
+    },
+    {
+      "en": "The seller sells fresh fruit and vegetables.",
+      "tj": "Фурӯшанда мева ва сабзавоти тоза мефурӯшад."
+    },
+    {
+      "en": "The buyer chooses fresh vegetables and fruits.",
+      "tj": "Харидор сабзавот ва меваҳои тозаро интихоб мекунад."
+    },
+    {
+      "en": "The price of apples is very good today.",
+      "tj": "Нархи себҳо имрӯз хеле хуб аст."
+    },
+    {
+      "en": "Tomatoes are cheap in summer and expensive in winter.",
+      "tj": "Помидорҳо дар тобистон арзон ва дар зимистон гарон ҳастанд."
+    },
+    {
+      "en": "The farmer sells vegetables at the market every morning.",
+      "tj": "Деҳқон ҳар субҳ дар бозор сабзавот мефурӯшад."
+    },
+    {
+      "en": "I buy bread and milk every morning at the shop.",
+      "tj": "Ман ҳар субҳ аз дукон нон ва шир мехарам."
+    },
+    {
+      "en": "I pay for the fruit at the cash desk.",
+      "tj": "Ман барои меваҳо дар хазина пардохт мекунам."
+    },
+    {
+      "en": "I need money to buy a new book for school.",
+      "tj": "Ман барои харидани китоби нав барои мактаб пул лозим дорам."
+    },
+    {
+      "en": "The seller gives me the change and says \"Thank you\".",
+      "tj": "Фурӯшанда ба ман боқимондаро медиҳад ва \"Ташаккур\" мегӯяд."
+    },
+    {
+      "en": "Pay at the cash desk, please, and take your basket.",
+      "tj": "Лутфан дар хазина пардохт кунед ва сабадатонро гиред."
+    },
+    {
+      "en": "My mother carries a basket with fresh vegetables and fruits.",
+      "tj": "Модарам сабад бо сабзавот ва меваҳои тоза мебардорад."
+    },
+    {
+      "en": "Fresh bread smells wonderful in the morning.",
+      "tj": "Нони тоза субҳ бӯи аҷоиб медиҳад."
+    },
+    {
+      "en": "The customer asks the seller about the price of the meat.",
+      "tj": "Муштарак аз фурӯшанда дар бораи нархи гӯшт мепурсад."
+    },
+    {
+      "en": "Good customers always pay on time and say \"Thank you\".",
+      "tj": "Муштаракони хуб ҳамеша сари вақт пардохт мекунанд ва \"Ташаккур\" мегӯянд."
     }
   ],
   "text": {
-    "en": "Text for lesson 63. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 63 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 63 text.",
-    "tj": "Матни дарси 63..."
+    "en": "The Market and Shopping\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. Every Saturday my mother goes to the market. Sometimes I go with her. I like to go to the market very much. There are many interesting things to see and to learn there. Today I want to tell you about the market and about shopping.\n\nA market is a very old place. For thousands of years people have come to the market to buy and to sell things. In the past people brought their goods to the market on horses, on donkeys and on camels. Today in our city there are many big markets where we can buy everything we need: bread, milk, meat, vegetables, fruits, clothes and shoes.\n\nIn the market there are many sellers. A seller is a person who sells things. Some sellers sell bread, some sell meat, some sell milk and cheese, some sell vegetables and fruits, and some sell clothes. Every seller wants to sell his goods to the customer. A customer is a person who buys things. A good seller is always polite and kind to his customers.\n\nWhen we buy something, we ask the seller about the price. The price is the money we must pay for the goods. Some things are cheap, and some things are expensive. For example, in summer tomatoes and cucumbers are cheap because there are many of them. In winter the same vegetables are expensive because they come from other countries. Fruit is also cheaper in summer and more expensive in winter.\n\nIn our family we always try to buy good food at good prices. My mother says: \"A wise person does not buy everything he sees. He buys only what he needs, and he always looks at the price.\" We go to the market with a basket. My mother chooses fresh vegetables and fruits. She always smells the fruit and looks at it carefully. She says: \"Fresh food is healthy food.\" She also tries to find a good price. Sometimes she asks the seller: \"Is this the best price?\" And sometimes the seller gives her a small discount.\n\nWhen we finish our shopping, we pay for the goods at the cash desk. The cashier takes our money and gives us a receipt. Sometimes we pay in cash, sometimes we pay by card. After we pay, we take our goods and go home. I always help my mother to carry the basket.\n\nOne day my mother sent me to the shop alone. She said to me: \"Please buy one loaf of bread, one litre of milk and five eggs.\" I went to the shop with a small list and some money. I was a little nervous. The seller was a kind woman. She gave me the bread, the milk and the eggs. She said: \"That will be ten somoni.\" I gave her the money and she gave me the change. I said \"Thank you\" and went home. My mother was very happy. She said: \"Well done, Ismoil! You are becoming a good customer!\" It was my first shopping trip alone and I will never forget it.\n\nThere is another important thing about shopping. We must not buy too many things that we do not need. Some people buy things just because they are beautiful or because their friends have them. This is a bad habit. We must always think carefully before we spend our money. My grandfather says: \"A person who buys what he does not need will soon sell what he does need.\"\n\nWhen I grow up, I want to be able to buy good food and good clothes for my family. I want to be a wise customer. I want to remember the words of my grandfather: \"A wise customer buys only what he needs, pays the right price, and always says thank you to the seller.\" Because shopping is not only about money — it is about respect, honesty and good manners too.",
+    "tj": "Бозор ва хариди мол\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Ҳар рӯзи шанбе модарам ба бозор меравад. Баъзан ман бо ӯ меравам. Ман ба бозор рафтанро хеле дӯст медорам. Дар он ҷо чизҳои ҷолиби зиёд барои дидан ва омӯхтан ҳастанд. Имрӯз ман мехоҳам ба шумо дар бораи бозор ва дар бораи хариди мол нақл кунам.\n\nБозор ҷои хеле қадимӣ аст. Ҳазорон сол одамон ба бозор меомаданд, то ки чизҳоро харанд ва фурӯшанд. Дар гузашта одамон молҳои худро ба бозор бо аспҳо, бо харҳо ва бо шутурҳо меоварданд. Имрӯз дар шаҳри мо бозорҳои калони зиёд ҳастанд, ки мо метавонем ҳама чизеро, ки ниёз дорем, харем: нон, шир, гӯшт, сабзавот, меваҳо, либос ва пойафзол.\n\nДар бозор фурӯшандаҳои зиёд ҳастанд. Фурӯшанда одамест, ки чизҳоро мефурӯшад. Баъзе фурӯшандаҳо нон мефурӯшанд, баъзеҳо гӯшт, баъзеҳо шир ва панир, баъзеҳо сабзавот ва меваҳо ва баъзеҳо либос. Ҳар як фурӯшанда мехоҳад молҳои худро ба муштарак фурӯшад. Муштарак одамест, ки чизҳоро мехарад. Фурӯшандаи хуб ҳамеша бо муштаракони худ боадаб ва меҳрубон аст.\n\nВақте ки мо чизеро мехарем, мо аз фурӯшанда дар бораи нарх мепурсем. Нарх пулест, ки мо бояд барои мол пардохт кунем. Баъзе чизҳо арзонанд ва баъзе чизҳо гаронанд. Масалан, дар тобистон помидорҳо ва бодирингҳо арзонанд, зеро ки онҳо зиёданд. Дар зимистон ҳамон сабзавотҳо гаронанд, зеро ки онҳо аз кишварҳои дигар меоянд. Меваҳо низ дар тобистон арзонтар ва дар зимистон гаронтар ҳастанд.\n\nДар оилаи мо мо ҳамеша кӯшиш мекунем, ки ғизои хубро бо нархҳои хуб харем. Модарам мегӯяд: «Одами доно ҳама чизеро, ки мебинад, намехарад. Ӯ танҳо он чиро мехарад, ки ба он ниёз дорад ва ӯ ҳамеша ба нарх нигоҳ мекунад.» Мо ба бозор бо сабад меравем. Модарам сабзавот ва меваҳои тозаро интихоб мекунад. Ӯ ҳамеша меваро бӯй мекунад ва ба он бодиққат нигоҳ мекунад. Ӯ мегӯяд: «Ғизои тоза — ғизои солим аст.» Ӯ инчунин кӯшиш мекунад, ки нархи хуб ёбад. Баъзан ӯ аз фурӯшанда мепурсад: «Ин беҳтарин нарх аст?» Ва баъзан фурӯшанда ба ӯ тахфифи хурд медиҳад.\n\nВақте ки мо хариди худро тамом мекунем, мо барои молҳо дар хазина пардохт мекунем. Хазинадор пули моро мегирад ва ба мо чек медиҳад. Баъзан мо нақдӣ пардохт мекунем, баъзан бо корт. Баъд аз пардохт мо молҳои худро мегирем ва ба хона меравем. Ман ҳамеша ба модарам дар бардоштани сабад кӯмак мекунам.\n\nЯк рӯз модарам маро ба дукон танҳо фиристод. Ӯ ба ман гуфт: «Лутфан як нон, як литр шир ва панҷ тухм хар.» Ман бо рӯйхати хурд ва каме пул ба дукон рафтам. Ман каме ҳаяҷон доштам. Фурӯшанда зани меҳрубон буд. Ӯ ба ман нон, шир ва тухмҳоро дод. Ӯ гуфт: «Ин даҳ сомонӣ мешавад.» Ман ба ӯ пул додам ва ӯ ба ман боқимондаро дод. Ман «Ташаккур» гуфтам ва ба хона рафтам. Модарам хеле хушбахт шуд. Ӯ гуфт: «Офарин, Исмоил! Ту муштараки хуб мешаваӣ!» Ин аввалин сафари харидам танҳо буд ва ман ҳеҷ гоҳ онро фаромӯш намекунам.\n\nДар бораи хариди мол боз як чизи муҳим ҳаст. Мо набояд чизҳои зиёдеро харем, ки ба онҳо ниёз надорем. Баъзе одамон чизҳоро танҳо барои он мехаранд, ки онҳо зебо ҳастанд ё барои он ки дӯстонашон онҳоро доранд. Ин одати бад аст. Мо бояд ҳамеша пеш аз сарф кардани пули худ бодиққат фикр кунем. Бобоям мегӯяд: «Одаме, ки он чиро мехарад, ки ба он ниёз надорад, ба зудӣ он чиро мефурӯшад, ки ба он ниёз дорад.»\n\nВақте ки ман калон мешавам, ман мехоҳам, ки тавонам барои оилаам ғизои хуб ва либоси хуб харам. Ман мехоҳам муштараки доно бошам. Ман мехоҳам суханони бобоямро ба ёд дорам: «Муштараки доно танҳо он чиро мехарад, ки ба он ниёз дорад, нархи дурустро пардохт мекунад ва ҳамеша ба фурӯшанда ташаккур мегӯяд.» Зеро ки хариди мол на танҳо дар бораи пул аст — он инчунин дар бораи эҳтиром, ростқавлӣ ва адаб аст."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Модарам ҳар рӯзи шанбе субҳ ба бозор меравад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "My mother goes to the market every Saturday morning.",
+        "My mother goes to the market on Saturday morning.",
+        "My mother goes to market every Saturday morning.",
+        "My mother goes to the market each Saturday morning."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "My mother goes to the market every Saturday morning."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Дукон дар назди хонаи мост ва барвақт кушода мешавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: experience"
+        "The shop is near our house and it opens early.",
+        "The shop is near our house and opens early.",
+        "The shop is near to our house and it opens early.",
+        "A shop is near our house and it opens early."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The shop is near our house and it opens early."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Фурӯшанда мева ва сабзавоти тоза мефурӯшад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: environment"
+        "The seller sells fresh fruit and vegetables.",
+        "The seller sells fresh fruits and vegetables.",
+        "A seller sells fresh fruit and vegetables.",
+        "The seller sells the fresh fruit and vegetables."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "The seller sells fresh fruit and vegetables."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Харидор сабзавот ва меваҳои тозаро интихоб мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: communication"
+        "The buyer chooses fresh vegetables and fruits.",
+        "The buyer chooses fresh vegetables and fruit.",
+        "A buyer chooses fresh vegetables and fruits.",
+        "The customer chooses fresh vegetables and fruits."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "The buyer chooses fresh vegetables and fruits."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Нархи себҳо имрӯз хеле хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: education",
-        "нодуруст C"
+        "The price of apples is very good today.",
+        "The price of the apples is very good today.",
+        "The price for apples is very good today.",
+        "A price of apples is very good today."
       ],
-      "answer": "тарҷума: education"
+      "answer": "The price of apples is very good today."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Помидорҳо дар тобистон арзон ва дар зимистон гарон ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: development"
+        "Tomatoes are cheap in summer and expensive in winter.",
+        "Tomatoes are cheap in the summer and expensive in the winter.",
+        "The tomatoes are cheap in summer and expensive in winter.",
+        "Tomatoes are cheap in summer and expensive in the winter."
       ],
-      "answer": "тарҷума: development"
+      "answer": "Tomatoes are cheap in summer and expensive in winter."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Деҳқон ҳар субҳ дар бозор сабзавот мефурӯшад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: achievement",
-        "нодуруст A"
+        "The farmer sells vegetables at the market every morning.",
+        "The farmer sells vegetables in the market every morning.",
+        "A farmer sells vegetables at the market every morning.",
+        "The farmer sells the vegetables at the market every morning."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The farmer sells vegetables at the market every morning."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ман ҳар субҳ аз дукон нон ва шир мехарам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: challenge",
-        "нодуруст A"
+        "I buy bread and milk every morning at the shop.",
+        "I buy bread and milk every morning in the shop.",
+        "I buy the bread and milk every morning at the shop.",
+        "I buy bread and milk each morning at the shop."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "I buy bread and milk every morning at the shop."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Ман барои меваҳо дар хазина пардохт мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: knowledge",
-        "нодуруст A"
+        "I pay for the fruit at the cash desk.",
+        "I pay for the fruits at the cash desk.",
+        "I pay for fruit at the cash desk.",
+        "I pay the fruit at the cash desk."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "I pay for the fruit at the cash desk."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Ман барои харидани китоби нав барои мактаб пул лозим дорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: conversation",
-        "нодуруст A"
+        "I need money to buy a new book for school.",
+        "I need money for buying a new book for school.",
+        "I need money to buy a new book for the school.",
+        "I need money to buy new book for school."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "I need money to buy a new book for school."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Фурӯшанда ба ман боқимондаро медиҳад ва \"Ташаккур\" мегӯяд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: fluency",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The seller gives me the change and says \"Thank you\".",
+        "The seller gives me the change and tells \"Thank you\".",
+        "A seller gives me the change and says \"Thank you\".",
+        "The seller gives to me the change and says \"Thank you\"."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "The seller gives me the change and says \"Thank you\"."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Лутфан дар хазина пардохт кунед ва сабадатонро гиред» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Pay at the cash desk, please, and take your basket.",
+        "Pay at the cash desk please, and take your basket.",
+        "Pay at the cash desk, please and take your basket.",
+        "Please pay at the cash desk, and take your basket."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "Pay at the cash desk, please, and take your basket."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Модарам сабад бо сабзавот ва меваҳои тоза мебардорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: pronunciation",
-        "нодуруст C",
-        "нодуруст A"
+        "My mother carries a basket with fresh vegetables and fruits.",
+        "My mother carries a basket with fresh vegetables and fruit.",
+        "My mother carries the basket with fresh vegetables and fruits.",
+        "My mother takes a basket with fresh vegetables and fruits."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "My mother carries a basket with fresh vegetables and fruits."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Нони тоза субҳ бӯи аҷоиб медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: vocabulary",
-        "нодуруст B",
-        "нодуруст A"
+        "Fresh bread smells wonderful in the morning.",
+        "Fresh bread smells wonderful in the morning.",
+        "The fresh bread smells wonderful in the morning.",
+        "Fresh bread smells wonderfully in the morning."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "Fresh bread smells wonderful in the morning."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Муштарак аз фурӯшанда дар бораи нархи гӯшт мепурсад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: grammar",
-        "нодуруст A"
+        "The customer asks the seller about the price of the meat.",
+        "The customer asks the seller about the price of meat.",
+        "A customer asks the seller about the price of the meat.",
+        "The customer asks the seller about the price for meat."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "The customer asks the seller about the price of the meat."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Муштаракони хуб ҳамеша сари вақт пардохт мекунанд ва \"Ташаккур\" мегӯянд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "Good customers always pay on time and say \"Thank you\".",
+        "Good customers always pay in time and say \"Thank you\".",
+        "The good customers always pay on time and say \"Thank you\".",
+        "Good customers always pay on time and tell \"Thank you\"."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Good customers always pay on time and say \"Thank you\"."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ҳар рӯзи шанбе модарам ба бозор меравад. Баъзан ман бо ӯ меравам. Ман ба бозор рафтанро хеле дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст B",
-        "нодуруст C"
+        "Every Saturday my mother goes to the market. Sometimes I go with her. I like to go to the market very much.",
+        "Every Saturday my mother goes to the market. Sometimes I go with her. I like going to the market very much.",
+        "Every Saturday my mother goes to market. Sometimes I go with her. I like to go to the market very much.",
+        "Each Saturday my mother goes to the market. Sometimes I go with her. I like to go to the market very much."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "Every Saturday my mother goes to the market. Sometimes I go with her. I like to go to the market very much."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Дар он ҷо чизҳои ҷолиби зиёд барои дидан ва омӯхтан ҳастанд. Имрӯз ман мехоҳам ба шумо дар бораи бозор ва дар бораи хариди мол нақл кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст C",
-        "нодуруст B"
+        "There are many interesting things to see and to learn there. Today I want to tell you about the market and about shopping.",
+        "There are many interesting things to see and learn there. Today I want to tell you about the market and about shopping.",
+        "There are a lot of interesting things to see and to learn there. Today I want to tell you about the market and about shopping.",
+        "There are many interesting things to see and to learn there. Today I want to tell you about the market and the shopping."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "There are many interesting things to see and to learn there. Today I want to tell you about the market and about shopping."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Бозор ҷои хеле қадимӣ аст. Ҳазорон сол одамон ба бозор меомаданд, то ки чизҳоро харанд ва фурӯшанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: communication"
+        "A market is a very old place. For thousands of years people have come to the market to buy and to sell things.",
+        "A market is a very old place. For thousands of years people have come to the market to buy and sell things.",
+        "The market is a very old place. For thousands of years people have come to the market to buy and to sell things.",
+        "A market is a very ancient place. For thousands of years people have come to the market to buy and to sell things."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "A market is a very old place. For thousands of years people have come to the market to buy and to sell things."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Дар гузашта одамон молҳои худро ба бозор бо аспҳо, бо харҳо ва бо шутурҳо меоварданд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст A"
+        "In the past people brought their goods to the market on horses, on donkeys and on camels.",
+        "In the past people brought their goods to the market by horses, by donkeys and by camels.",
+        "In the past people brought the goods to the market on horses, on donkeys and on camels.",
+        "In the past, people brought their goods to the market on horses, on donkeys and on camels."
       ],
-      "answer": "тарҷума: education"
+      "answer": "In the past people brought their goods to the market on horses, on donkeys and on camels."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Имрӯз дар шаҳри мо бозорҳои калони зиёд ҳастанд, ки мо метавонем ҳама чизеро, ки ниёз дорем, харем: нон, шир, гӯшт, сабзавот, меваҳо, либос ва пойафзол» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст A"
+        "Today in our city there are many big markets where we can buy everything we need: bread, milk, meat, vegetables, fruits, clothes and shoes.",
+        "Today in our city there are many big markets where we can buy everything we need: bread, milk, meat, vegetables, fruit, clothes and shoes.",
+        "Today in our city there are many big markets where we can buy all we need: bread, milk, meat, vegetables, fruits, clothes and shoes.",
+        "Today, in our city there are many big markets where we can buy everything we need: bread, milk, meat, vegetables, fruits, clothes and shoes."
       ],
-      "answer": "тарҷума: development"
+      "answer": "Today in our city there are many big markets where we can buy everything we need: bread, milk, meat, vegetables, fruits, clothes and shoes."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Дар бозор фурӯшандаҳои зиёд ҳастанд. Фурӯшанда одамест, ки чизҳоро мефурӯшад. Баъзе фурӯшандаҳо нон мефурӯшанд, баъзеҳо гӯшт, баъзеҳо шир ва панир, баъзеҳо сабзавот ва меваҳо ва баъзеҳо либос» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: achievement",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "In the market there are many sellers. A seller is a person who sells things. Some sellers sell bread, some sell meat, some sell milk and cheese, some sell vegetables and fruits, and some sell clothes.",
+        "In the market there are many sellers. A seller is a person who sells things. Some sellers sell bread, some sell meat, some sell milk and cheese, some sell vegetables and fruit, and some sell clothes.",
+        "In the market there are many sellers. The seller is a person who sells things. Some sellers sell bread, some sell meat, some sell milk and cheese, some sell vegetables and fruits, and some sell clothes.",
+        "In the market there are many sellers. A seller is a person that sells things. Some sellers sell bread, some sell meat, some sell milk and cheese, some sell vegetables and fruits, and some sell clothes."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "In the market there are many sellers. A seller is a person who sells things. Some sellers sell bread, some sell meat, some sell milk and cheese, some sell vegetables and fruits, and some sell clothes."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ҳар як фурӯшанда мехоҳад молҳои худро ба муштарак фурӯшад. Муштарак одамест, ки чизҳоро мехарад. Фурӯшандаи хуб ҳамеша бо муштаракони худ боадаб ва меҳрубон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: challenge"
+        "Every seller wants to sell his goods to the customer. A customer is a person who buys things. A good seller is always polite and kind to his customers.",
+        "Every seller wants to sell his goods to the customer. The customer is a person who buys things. A good seller is always polite and kind to his customers.",
+        "Each seller wants to sell his goods to the customer. A customer is a person who buys things. A good seller is always polite and kind to his customers.",
+        "Every seller wants to sell his goods to the customer. A customer is a person which buys things. A good seller is always polite and kind to his customers."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "Every seller wants to sell his goods to the customer. A customer is a person who buys things. A good seller is always polite and kind to his customers."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Вақте ки мо чизеро мехарем, мо аз фурӯшанда дар бораи нарх мепурсем. Нарх пулест, ки мо бояд барои мол пардохт кунем. Баъзе чизҳо арзонанд ва баъзе чизҳо гаронанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: knowledge",
-        "нодуруст A"
+        "When we buy something, we ask the seller about the price. The price is the money we must pay for the goods. Some things are cheap, and some things are expensive.",
+        "When we buy something we ask the seller about the price. The price is the money we must pay for the goods. Some things are cheap, and some things are expensive.",
+        "When we buy something, we ask the seller about the price. Price is the money we must pay for the goods. Some things are cheap, and some things are expensive.",
+        "When we buy something, we ask the seller about the price. The price is money we must pay for the goods. Some things are cheap, and some things are expensive."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "When we buy something, we ask the seller about the price. The price is the money we must pay for the goods. Some things are cheap, and some things are expensive."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Масалан, дар тобистон помидорҳо ва бодирингҳо арзонанд, зеро ки онҳо зиёданд. Дар зимистон ҳамон сабзавотҳо гаронанд, зеро ки онҳо аз кишварҳои дигар меоянд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: conversation",
-        "нодуруст C"
+        "For example, in summer tomatoes and cucumbers are cheap because there are many of them. In winter the same vegetables are expensive because they come from other countries.",
+        "For example, in summer tomatoes and cucumbers are cheap because there are many of them. In winter the same vegetables are expensive because they come from other countries.",
+        "For example, in the summer tomatoes and cucumbers are cheap because there are many of them. In the winter the same vegetables are expensive because they come from other countries.",
+        "For example, in summer, tomatoes and cucumbers are cheap because there are many of them. In winter, the same vegetables are expensive because they come from other countries."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "For example, in summer tomatoes and cucumbers are cheap because there are many of them. In winter the same vegetables are expensive because they come from other countries."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Меваҳо низ дар тобистон арзонтар ва дар зимистон гаронтар ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: fluency",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Fruit is also cheaper in summer and more expensive in winter.",
+        "Fruits are also cheaper in summer and more expensive in winter.",
+        "Fruit is also cheaper in the summer and more expensive in the winter.",
+        "The fruit is also cheaper in summer and more expensive in winter."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "Fruit is also cheaper in summer and more expensive in winter."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Дар оилаи мо мо ҳамеша кӯшиш мекунем, ки ғизои хубро бо нархҳои хуб харем. Модарам мегӯяд: \"Одами доно ҳама чизеро, ки мебинад, намехарад. Ӯ танҳо он чиро мехарад, ки ба он ниёз дорад ва ӯ ҳамеша ба нарх нигоҳ мекунад.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "In our family we always try to buy good food at good prices. My mother says: \"A wise person does not buy everything he sees. He buys only what he needs, and he always looks at the price.\"",
+        "In our family we always try to buy good food at good prices. My mother says: \"The wise person does not buy everything he sees. He buys only what he needs, and he always looks at the price.\"",
+        "In our family we always try to buy good food at good prices. My mother says: \"A wise person does not buy all he sees. He buys only what he needs, and he always looks at the price.\"",
+        "In our family we always try to buy good food at good prices. My mother says: \"A wise person does not buy everything he sees. He buys only what he needs and he always looks at the price.\""
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "In our family we always try to buy good food at good prices. My mother says: \"A wise person does not buy everything he sees. He buys only what he needs, and he always looks at the price.\""
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Мо ба бозор бо сабад меравем. Модарам сабзавот ва меваҳои тозаро интихоб мекунад. Ӯ ҳамеша меваро бӯй мекунад ва ба он бодиққат нигоҳ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: pronunciation",
-        "нодуруст B",
-        "нодуруст C"
+        "We go to the market with a basket. My mother chooses fresh vegetables and fruits. She always smells the fruit and looks at it carefully.",
+        "We go to the market with a basket. My mother chooses fresh vegetables and fruit. She always smells the fruit and looks at it carefully.",
+        "We go to the market with a basket. My mother chooses the fresh vegetables and fruits. She always smells the fruit and looks at it carefully.",
+        "We go to the market with a basket. My mother chooses fresh vegetables and fruits. She always smells fruit and looks at it carefully."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "We go to the market with a basket. My mother chooses fresh vegetables and fruits. She always smells the fruit and looks at it carefully."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ӯ мегӯяд: \"Ғизои тоза — ғизои солим аст.\" Ӯ инчунин кӯшиш мекунад, ки нархи хуб ёбад. Баъзан ӯ аз фурӯшанда мепурсад: \"Ин беҳтарин нарх аст?\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: vocabulary",
-        "нодуруст B",
-        "нодуруст C"
+        "She says: \"Fresh food is healthy food.\" She also tries to find a good price. Sometimes she asks the seller: \"Is this the best price?\"",
+        "She says: \"Fresh food is healthy food.\" She also tries to find a good price. Sometimes she asks the seller: \"Is this the best price?\"",
+        "She says: \"Fresh food is healthy food.\" She also tries to find a good price. Sometimes she asks a seller: \"Is this the best price?\"",
+        "She tells: \"Fresh food is healthy food.\" She also tries to find a good price. Sometimes she asks the seller: \"Is this the best price?\""
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "She says: \"Fresh food is healthy food.\" She also tries to find a good price. Sometimes she asks the seller: \"Is this the best price?\""
+    },
+    {
+      "q": "«Ва баъзан фурӯшанда ба ӯ тахфифи хурд медиҳад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "And sometimes the seller gives her a small discount.",
+        "And sometimes the seller gives a small discount to her.",
+        "And sometimes a seller gives her a small discount.",
+        "And sometimes the seller gives to her a small discount."
+      ],
+      "answer": "And sometimes the seller gives her a small discount."
+    },
+    {
+      "q": "«Вақте ки мо хариди худро тамом мекунем, мо барои молҳо дар хазина пардохт мекунем. Хазинадор пули моро мегирад ва ба мо чек медиҳад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When we finish our shopping, we pay for the goods at the cash desk. The cashier takes our money and gives us a receipt.",
+        "When we finish our shopping we pay for the goods at the cash desk. The cashier takes our money and gives us a receipt.",
+        "When we finish our shopping, we pay for the goods at the cash desk. The cashier takes the money and gives us a receipt.",
+        "When we finish our shopping, we pay for the goods at the cash desk. The cashier takes our money and gives us the receipt."
+      ],
+      "answer": "When we finish our shopping, we pay for the goods at the cash desk. The cashier takes our money and gives us a receipt."
+    },
+    {
+      "q": "«Баъзан мо нақдӣ пардохт мекунем, баъзан бо корт. Баъд аз пардохт мо молҳои худро мегирем ва ба хона меравем. Ман ҳамеша ба модарам дар бардоштани сабад кӯмак мекунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Sometimes we pay in cash, sometimes we pay by card. After we pay, we take our goods and go home. I always help my mother to carry the basket.",
+        "Sometimes we pay in cash, sometimes we pay by card. After we pay we take our goods and go home. I always help my mother to carry the basket.",
+        "Sometimes we pay in cash, sometimes by card. After we pay, we take our goods and go home. I always help my mother to carry the basket.",
+        "Sometimes we pay in cash, sometimes we pay by card. After we pay, we take our goods and go home. I always help my mother carry the basket."
+      ],
+      "answer": "Sometimes we pay in cash, sometimes we pay by card. After we pay, we take our goods and go home. I always help my mother to carry the basket."
+    },
+    {
+      "q": "«Як рӯз модарам маро ба дукон танҳо фиристод. Ӯ ба ман гуфт: \"Лутфан як нон, як литр шир ва панҷ тухм хар.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "One day my mother sent me to the shop alone. She said to me: \"Please buy one loaf of bread, one litre of milk and five eggs.\"",
+        "One day my mother sent me to the shop alone. She said to me: \"Please buy one loaf of bread, one liter of milk and five eggs.\"",
+        "One day my mother sent me to the shop alone. She told me: \"Please buy one loaf of bread, one litre of milk and five eggs.\"",
+        "One day my mother sent me to a shop alone. She said to me: \"Please buy one loaf of bread, one litre of milk and five eggs.\""
+      ],
+      "answer": "One day my mother sent me to the shop alone. She said to me: \"Please buy one loaf of bread, one litre of milk and five eggs.\""
+    },
+    {
+      "q": "«Ман бо рӯйхати хурд ва каме пул ба дукон рафтам. Ман каме ҳаяҷон доштам. Фурӯшанда зани меҳрубон буд. Ӯ ба ман нон, шир ва тухмҳоро дод» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I went to the shop with a small list and some money. I was a little nervous. The seller was a kind woman. She gave me the bread, the milk and the eggs.",
+        "I went to the shop with a small list and some money. I was a little nervous. The seller was a kind woman. She gave me bread, milk and eggs.",
+        "I went to the shop with a small list and some money. I was a little nervous. A seller was a kind woman. She gave me the bread, the milk and the eggs.",
+        "I went to the shop with a small list and some money. I was a little nervous. The seller was a kind woman. She gave to me the bread, the milk and the eggs."
+      ],
+      "answer": "I went to the shop with a small list and some money. I was a little nervous. The seller was a kind woman. She gave me the bread, the milk and the eggs."
+    },
+    {
+      "q": "«Ӯ гуфт: \"Ин даҳ сомонӣ мешавад.\" Ман ба ӯ пул додам ва ӯ ба ман боқимондаро дод. Ман \"Ташаккур\" гуфтам ва ба хона рафтам. Модарам хеле хушбахт шуд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "She said: \"That will be ten somoni.\" I gave her the money and she gave me the change. I said \"Thank you\" and went home. My mother was very happy.",
+        "She said: \"That will be ten somoni.\" I gave her the money and she gave me the change. I said \"Thank you\" and went home. My mother was very happy.",
+        "She said: \"That will be ten somoni.\" I gave her money and she gave me the change. I said \"Thank you\" and went home. My mother was very happy.",
+        "She said: \"That will be ten somoni.\" I gave her the money and she gave to me the change. I said \"Thank you\" and went home. My mother was very happy."
+      ],
+      "answer": "She said: \"That will be ten somoni.\" I gave her the money and she gave me the change. I said \"Thank you\" and went home. My mother was very happy."
+    },
+    {
+      "q": "«Ӯ гуфт: \"Офарин, Исмоил! Ту муштараки хуб мешаваӣ!\" Ин аввалин сафари харидам танҳо буд ва ман ҳеҷ гоҳ онро фаромӯш намекунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "She said: \"Well done, Ismoil! You are becoming a good customer!\" It was my first shopping trip alone and I will never forget it.",
+        "She said: \"Well done, Ismoil! You are becoming a good customer!\" It was my first shopping trip alone and I will never forget it.",
+        "She said: \"Well done, Ismoil! You are becoming a good customer!\" It was my first shopping trip alone and I shall never forget it.",
+        "She said: \"Well done, Ismoil! You become a good customer!\" It was my first shopping trip alone and I will never forget it."
+      ],
+      "answer": "She said: \"Well done, Ismoil! You are becoming a good customer!\" It was my first shopping trip alone and I will never forget it."
+    },
+    {
+      "q": "«Дар бораи хариди мол боз як чизи муҳим ҳаст. Мо набояд чизҳои зиёдеро харем, ки ба онҳо ниёз надорем. Баъзе одамон чизҳоро танҳо барои он мехаранд, ки онҳо зебо ҳастанд ё барои он ки дӯстонашон онҳоро доранд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "There is another important thing about shopping. We must not buy too many things that we do not need. Some people buy things just because they are beautiful or because their friends have them.",
+        "There is another important thing about shopping. We must not buy too many things that we do not need. Some people buy things just because they are beautiful or because their friends have them.",
+        "There is another important thing about shopping. We mustn't buy too many things that we do not need. Some people buy things just because they are beautiful or because their friends have them.",
+        "There is another important thing about shopping. We must not buy many things that we do not need. Some people buy things just because they are beautiful or because their friends have them."
+      ],
+      "answer": "There is another important thing about shopping. We must not buy too many things that we do not need. Some people buy things just because they are beautiful or because their friends have them."
+    },
+    {
+      "q": "«Ин одати бад аст. Мо бояд ҳамеша пеш аз сарф кардани пули худ бодиққат фикр кунем. Бобоям мегӯяд: \"Одаме, ки он чиро мехарад, ки ба он ниёз надорад, ба зудӣ он чиро мефурӯшад, ки ба он ниёз дорад.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "This is a bad habit. We must always think carefully before we spend our money. My grandfather says: \"A person who buys what he does not need will soon sell what he does need.\"",
+        "This is a bad habit. We must always think carefully before we spend our money. My grandfather says: \"A person who buys what he does not need will soon sell what he needs.\"",
+        "This is a bad habit. We should always think carefully before we spend our money. My grandfather says: \"A person who buys what he does not need will soon sell what he does need.\"",
+        "It is a bad habit. We must always think carefully before we spend our money. My grandfather says: \"A person who buys what he does not need will soon sell what he does need.\""
+      ],
+      "answer": "This is a bad habit. We must always think carefully before we spend our money. My grandfather says: \"A person who buys what he does not need will soon sell what he does need.\""
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам, ки тавонам барои оилаам ғизои хуб ва либоси хуб харам. Ман мехоҳам муштараки доно бошам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to be able to buy good food and good clothes for my family. I want to be a wise customer.",
+        "When I grow up I want to be able to buy good food and good clothes for my family. I want to be a wise customer.",
+        "When I grow up, I want to be able to buy good food and good clothes for my family. I want to become a wise customer.",
+        "When I grow up, I want to be able to buy good food and good clothes to my family. I want to be a wise customer."
+      ],
+      "answer": "When I grow up, I want to be able to buy good food and good clothes for my family. I want to be a wise customer."
+    },
+    {
+      "q": "«Ман мехоҳам суханони бобоямро ба ёд дорам: \"Муштараки доно танҳо он чиро мехарад, ки ба он ниёз дорад, нархи дурустро пардохт мекунад ва ҳамеша ба фурӯшанда ташаккур мегӯяд.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to remember the words of my grandfather: \"A wise customer buys only what he needs, pays the right price, and always says thank you to the seller.\"",
+        "I want to remember the words of my grandfather: \"A wise customer buys only what he needs, pays the right price and always says thank you to the seller.\"",
+        "I want to remember the words of my grandfather: \"The wise customer buys only what he needs, pays the right price, and always says thank you to the seller.\"",
+        "I want to remember my grandfather's words: \"A wise customer buys only what he needs, pays the right price, and always says thank you to the seller.\""
+      ],
+      "answer": "I want to remember the words of my grandfather: \"A wise customer buys only what he needs, pays the right price, and always says thank you to the seller.\""
+    },
+    {
+      "q": "«Зеро ки хариди мол на танҳо дар бораи пул аст — он инчунин дар бораи эҳтиром, ростқавлӣ ва адаб аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Because shopping is not only about money — it is about respect, honesty and good manners too.",
+        "Because shopping is not only about money — it is also about respect, honesty and good manners.",
+        "Because shopping is not only about money — it is about respect, honesty and good manners as well.",
+        "Because shopping is not only about money, it is about respect, honesty and good manners too."
+      ],
+      "answer": "Because shopping is not only about money — it is about respect, honesty and good manners too."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 29
+  "wordsCount": 16
 }
