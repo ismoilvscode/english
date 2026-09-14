@@ -1,476 +1,602 @@
 {
   "id": 66,
-  "title": "Муоширати воқеӣ 66",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 66: Рӯзнома, хабарҳо ва иттилоот",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "newspaper",
+      "tj": "рӯзнома",
+      "ex": "My father reads a newspaper every morning."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "magazine",
+      "tj": "маҷалла",
+      "ex": "My mother reads a magazine every week."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "news",
+      "tj": "хабар",
+      "ex": "I watch the news in the evening."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "article",
+      "tj": "мақола",
+      "ex": "I read an interesting article about nature."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "journalist",
+      "tj": "рӯзноманигор",
+      "ex": "The journalist writes articles for a big newspaper."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "report",
+      "tj": "гузориш",
+      "ex": "The journalist wrote a report about the flood."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "headline",
+      "tj": "сарлавҳаи хабар",
+      "ex": "The headline was very big and very interesting."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "radio",
+      "tj": "радио",
+      "ex": "My grandfather listens to the radio every day."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "television",
+      "tj": "телевизор",
+      "ex": "We watch television in the evening."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "channel",
+      "tj": "шабака",
+      "ex": "There are many channels on our television."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "programme",
+      "tj": "барнома",
+      "ex": "My favourite programme is about animals."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "advertisement",
+      "tj": "реклама",
+      "ex": "There are too many advertisements on TV."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "to publish",
+      "tj": "нашр кардан",
+      "ex": "They publish this newspaper every day."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "to broadcast",
+      "tj": "пахш кардан",
+      "ex": "The radio broadcasts news every hour."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "information",
+      "tj": "иттилоот",
+      "ex": "The internet gives us much information."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "truth",
+      "tj": "ҳақиқат",
+      "ex": "A good journalist always tells the truth."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 66)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "My father reads a newspaper every morning at breakfast.",
+      "tj": "Падарам ҳар субҳ ҳангоми наҳорӣ рӯзнома мехонад."
     },
     {
-      "en": "I'm working on lesson 66",
-      "tj": "Ман дарси 66-ро меомӯзам"
+      "en": "My mother reads a magazine every week.",
+      "tj": "Модарам ҳар ҳафта маҷалла мехонад."
+    },
+    {
+      "en": "I watch the news in the evening with my family.",
+      "tj": "Ман бегоҳ бо оилаам хабарҳоро тамошо мекунам."
+    },
+    {
+      "en": "I read an interesting article about nature in the magazine.",
+      "tj": "Ман дар маҷалла мақолаи ҷолиб дар бораи табиат мехонам."
+    },
+    {
+      "en": "The journalist writes articles for a big newspaper.",
+      "tj": "Рӯзноманигор барои рӯзномаи калон мақолаҳо менависад."
+    },
+    {
+      "en": "The journalist wrote a report about the flood in the village.",
+      "tj": "Рӯзноманигор гузориш дар бораи обхезӣ дар деҳа навишт."
+    },
+    {
+      "en": "The headline was very big and very interesting.",
+      "tj": "Сарлавҳаи хабар хеле калон ва хеле ҷолиб буд."
+    },
+    {
+      "en": "My grandfather listens to the radio every day.",
+      "tj": "Бобоям ҳар рӯз ба радио гӯш мекунад."
+    },
+    {
+      "en": "We watch television in the evening after dinner.",
+      "tj": "Мо бегоҳ баъд аз хӯроки шом телевизор тамошо мекунем."
+    },
+    {
+      "en": "There are many channels on our television.",
+      "tj": "Дар телевизори мо шабакаҳои зиёд ҳастанд."
+    },
+    {
+      "en": "My favourite programme is about animals and nature.",
+      "tj": "Барномаи дӯстдоштаи ман дар бораи ҳайвонот ва табиат аст."
+    },
+    {
+      "en": "There are too many advertisements on TV.",
+      "tj": "Дар телевизор рекламаҳои хеле зиёд ҳастанд."
+    },
+    {
+      "en": "They publish this newspaper every day.",
+      "tj": "Онҳо ин рӯзномаро ҳар рӯз нашр мекунанд."
+    },
+    {
+      "en": "The radio broadcasts news every hour.",
+      "tj": "Радио ҳар соат хабарҳоро пахш мекунад."
+    },
+    {
+      "en": "The internet gives us much information.",
+      "tj": "Интернет ба мо иттилооти зиёд медиҳад."
+    },
+    {
+      "en": "A good journalist always tells the truth.",
+      "tj": "Рӯзноманигори хуб ҳамеша ҳақиқатро мегӯяд."
     }
   ],
   "text": {
-    "en": "Text for lesson 66. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 66 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 66 text.",
-    "tj": "Матни дарси 66..."
+    "en": "Newspapers, News and Information\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. Every day we get a lot of information: from newspapers, from magazines, from the radio, from television and from the internet. Information is a very important thing in our life. Without information we cannot know what is happening in our country and in the world. Today I want to tell you about newspapers, news and information.\n\nA newspaper is a very old and very important thing. The first newspapers appeared more than three hundred years ago. Before that, people got news from other people who travelled from city to city. A newspaper is a paper with news, articles, advertisements and photographs. Newspapers are published every day or every week. My father reads a newspaper every morning at breakfast. He says: \"A newspaper helps me to know what is happening in the world.\"\n\nA magazine is like a newspaper, but it comes once a week or once a month. Magazines are usually bigger and have more pictures. There are magazines about sports, about fashion, about science, about animals and about many other things. My mother reads a magazine every week. My sister Zuhro reads a magazine about fashion and music.\n\nAn article is a piece of writing in a newspaper or in a magazine. Articles are written by journalists. A journalist is a person who writes articles and reports for newspapers, for magazines, for radio, for television and for the internet. A journalist must be very honest and very brave. He must always tell the truth. He must go to different places, meet different people and ask them many questions. My uncle is a journalist. He works for a big newspaper in Dushanbe. He often travels to different cities and villages and writes about the life of the people there. He says: \"A journalist must be the eyes and the ears of the people. He must tell them the truth, even when it is not pleasant.\"\n\nA report is a special kind of article. A report tells us about a real event: about a flood, about a fire, about a sports match or about a meeting. Reports are always written in the same way: they answer three important questions — What happened? Where did it happen? When did it happen? My uncle wrote a very good report about a flood in a village in the mountains.\n\nEvery newspaper has headlines. A headline is the title of an article. It is usually written in big letters. A good headline is very short and very interesting. It makes you want to read the whole article. When I look at a newspaper, I read the headlines first.\n\nThe radio is also a very important source of information. My grandfather listens to the radio every day. He has an old radio in the kitchen. The radio broadcasts news, music, weather reports and programmes every hour. My grandfather likes to listen to the news in the morning.\n\nTelevision is a very popular source of information today. Almost every family has a television. Television broadcasts news, films, sports, cartoons and many other programmes. My family watches television in the evening. Our favourite programme is about animals and nature. There are also many channels on our television: some are in Tajik, some are in Russian, some are in English. But there are also many advertisements on TV, and sometimes they are very long and boring. My mother says: \"Advertisements help people to sell and to buy things, but too many advertisements are not good.\"\n\nThe internet is the newest source of information. With the internet we can read any newspaper or magazine in the world. We can watch any video and listen to any radio station. But the internet has one big problem: not all information on the internet is true. Some websites tell lies. Some websites try to trick people. So we must always think: is this information true or not? My father says: \"Do not believe everything you read on the internet. Always check the information.\"\n\nInformation is a very powerful thing. With good information we can make good decisions. With bad information we can make bad decisions. A wise person always checks his information. He reads different newspapers, watches different programmes and listens to different people. My grandfather says: \"The person who has good information has power. The person who believes everything is a fool.\"\n\nWhen I grow up, I want to be a doctor. But I also want to be a good citizen. I want to read newspapers and to know what is happening in my country and in the world. I want to watch the news and to understand it. I want to get information from different sources. And I want to teach my children: always check your information, always look for the truth, and always think with your own head. Because information is the key to knowledge, and knowledge is the key to a good life.",
+    "tj": "Рӯзнома, хабарҳо ва иттилоот\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Ҳар рӯз мо иттилооти зиёд мегирем: аз рӯзномаҳо, аз маҷаллаҳо, аз радио, аз телевизор ва аз интернет. Иттилоот дар ҳаёти мо чизи хеле муҳим аст. Бе иттилоот мо наметавонем донем, ки дар кишвари мо ва дар ҷаҳон чӣ рӯй медиҳад. Имрӯз ман мехоҳам ба шумо дар бораи рӯзномаҳо, хабарҳо ва иттилоот нақл кунам.\n\nРӯзнома чизи хеле қадимӣ ва хеле муҳим аст. Аввалин рӯзномаҳо беш аз сесад сол пеш пайдо шудаанд. Пеш аз он одамон хабарҳоро аз одамони дигар мешуниданд, ки аз шаҳр ба шаҳр сафар мекарданд. Рӯзнома коғазест бо хабарҳо, мақолаҳо, рекламаҳо ва суратҳо. Рӯзномаҳо ҳар рӯз ё ҳар ҳафта нашр мешаванд. Падарам ҳар субҳ ҳангоми наҳорӣ рӯзнома мехонад. Ӯ мегӯяд: «Рӯзнома ба ман кӯмак мекунад, ки донем, ки дар ҷаҳон чӣ рӯй медиҳад.»\n\nМаҷалла мисли рӯзнома аст, аммо он ҳафтае як маротиба ё моҳе як маротиба меояд. Маҷаллаҳо одатан калонтаранд ва суратҳои бештар доранд. Маҷаллаҳо дар бораи варзиш, дар бораи мӯд, дар бораи илм, дар бораи ҳайвонот ва дар бораи бисёр чизҳои дигар ҳастанд. Модарам ҳар ҳафта маҷалла мехонад. Хоҳарам Зуҳро маҷалла дар бораи мӯд ва мусиқӣ мехонад.\n\nМақола порчаи навиштор дар рӯзнома ё дар маҷалла аст. Мақолаҳоро рӯзноманигорон менависанд. Рӯзноманигор одамест, ки барои рӯзномаҳо, барои маҷаллаҳо, барои радио, барои телевизор ва барои интернет мақолаҳо ва гузоришҳо менависад. Рӯзноманигор бояд хеле ростқавл ва хеле ҷасур бошад. Ӯ бояд ҳамеша ҳақиқатро гӯяд. Ӯ бояд ба ҷойҳои гуногун равад, бо одамони гуногун вохӯрад ва аз онҳо саволҳои зиёд пурсад. Амакам рӯзноманигор аст. Ӯ барои рӯзномаи калон дар Душанбе кор мекунад. Ӯ аксар вақт ба шаҳрҳо ва деҳаҳои гуногун сафар мекунад ва дар бораи ҳаёти мардуми он ҷо менависад. Ӯ мегӯяд: «Рӯзноманигор бояд чашм ва гӯши мардум бошад. Ӯ бояд ба онҳо ҳақиқатро гӯяд, ҳатто вақте ки он хушоянд нест.»\n\nГузориш навъи махсуси мақола аст. Гузориш ба мо дар бораи рӯйдоди ҳақиқӣ нақл мекунад: дар бораи обхезӣ, дар бораи сӯхтор, дар бораи бозии варзишӣ ё дар бораи вохӯрӣ. Гузоришҳо ҳамеша бо як тарз навишта мешаванд: онҳо ба се саволи муҳим ҷавоб медиҳанд — Чӣ рӯй дод? Дар куҷо рӯй дод? Кай рӯй дод? Амакам гузориши хеле хуб дар бораи обхезӣ дар деҳае дар кӯҳҳо навишт.\n\nҲар як рӯзнома сарлавҳаҳо дорад. Сарлавҳа унвони мақола аст. Он одатан бо ҳарфҳои калон навишта мешавад. Сарлавҳаи хуб хеле кӯтоҳ ва хеле ҷолиб аст. Он ба шумо мехоҳад, ки тамоми мақоларо хонед. Вақте ки ман ба рӯзнома нигоҳ мекунам, ман аввал сарлавҳаҳоро мехонам.\n\nРадио низ манбаи хеле муҳими иттилоот аст. Бобоям ҳар рӯз ба радио гӯш мекунад. Ӯ дар ошхона радиои кӯҳна дорад. Радио ҳар соат хабарҳо, мусиқӣ, гузоришҳои обу ҳаво ва барномаҳоро пахш мекунад. Бобоям субҳ ба хабарҳо гӯш карданро дӯст медорад.\n\nТелевизор имрӯз манбаи хеле машҳури иттилоот аст. Қариб ҳар як оила телевизор дорад. Телевизор хабарҳо, филмҳо, варзиш, мультфилмҳо ва бисёр барномаҳои дигарро пахш мекунад. Оилаи мо бегоҳ телевизор тамошо мекунад. Барномаи дӯстдоштаи мо дар бораи ҳайвонот ва табиат аст. Дар телевизори мо шабакаҳои зиёд ҳастанд: баъзеҳо бо тоҷикӣ, баъзеҳо бо русӣ, баъзеҳо бо англисӣ. Аммо дар телевизор инчунин рекламаҳои зиёд ҳастанд ва баъзан онҳо хеле дароз ва дилгиркунанда ҳастанд. Модарам мегӯяд: «Рекламаҳо ба одамон дар фурӯхтан ва харидани чизҳо кӯмак мекунанд, аммо рекламаҳои аз ҳад зиёд хуб нестанд.»\n\nИнтернет навтарин манбаи иттилоот аст. Бо интернет мо метавонем ҳар рӯзнома ё маҷалларо дар ҷаҳон хонем. Мо метавонем ҳар видео тамошо кунем ва ба ҳар истгоҳи радио гӯш кунем. Аммо интернет як мушкили калон дорад: на ҳамаи иттилоот дар интернет ҳақиқӣ аст. Баъзе сомонаҳо дурӯғ мегӯянд. Баъзе сомонаҳо кӯшиш мекунанд, ки одамонро фиреб диҳанд. Бинобар ин мо бояд ҳамеша фикр кунем: ин иттилоот ҳақиқӣ аст ё не? Падарам мегӯяд: «Ба ҳама чизе, ки дар интернет мехонед, бовар накунед. Ҳамеша иттилоотро тафтиш кунед.»\n\nИттилоот чизи хеле пурқувват аст. Бо иттилооти хуб мо метавонем қарорҳои хуб қабул кунем. Бо иттилооти бад мо метавонем қарорҳои бад қабул кунем. Одами доно ҳамеша иттилооти худро тафтиш мекунад. Ӯ рӯзномаҳои гуногун мехонад, барномаҳои гуногун тамошо мекунад ва ба одамони гуногун гӯш мекунад. Бобоям мегӯяд: «Одаме, ки иттилооти хуб дорад, қувват дорад. Одаме, ки ба ҳама чиз бовар мекунад, нодон аст.»\n\nВақте ки ман калон мешавам, ман мехоҳам духтур шавам. Аммо ман инчунин мехоҳам шаҳрванди хуб бошам. Ман мехоҳам рӯзномаҳоро хонам ва донем, ки дар кишвари ман ва дар ҷаҳон чӣ рӯй медиҳад. Ман мехоҳам хабарҳоро тамошо кунам ва онҳоро фаҳмам. Ман мехоҳам иттилоотро аз манбаъҳои гуногун гирам. Ва ман мехоҳам ба кӯдаконам омӯзонам: ҳамеша иттилооти худро тафтиш кунед, ҳамеша ҳақиқатро ҷӯед ва ҳамеша бо сари худ фикр кунед. Зеро ки иттилоот калиди дониш аст ва дониш калиди ҳаёти хуб аст."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Падарам ҳар субҳ ҳангоми наҳорӣ рӯзнома мехонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "My father reads a newspaper every morning at breakfast.",
+        "My father reads the newspaper every morning at breakfast.",
+        "My father reads a newspaper every morning at the breakfast.",
+        "My father reads a newspaper each morning at breakfast."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "My father reads a newspaper every morning at breakfast."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Модарам ҳар ҳафта маҷалла мехонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст B",
-        "нодуруст C"
+        "My mother reads a magazine every week.",
+        "My mother reads the magazine every week.",
+        "My mother reads a magazine each week.",
+        "My mother reads magazines every week."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "My mother reads a magazine every week."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ман бегоҳ бо оилаам хабарҳоро тамошо мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст C"
+        "I watch the news in the evening with my family.",
+        "I watch news in the evening with my family.",
+        "I watch the news in the evening with the family.",
+        "I look at the news in the evening with my family."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "I watch the news in the evening with my family."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ман дар маҷалла мақолаи ҷолиб дар бораи табиат мехонам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: communication"
+        "I read an interesting article about nature in the magazine.",
+        "I read an interesting article about the nature in the magazine.",
+        "I read an interesting article on nature in the magazine.",
+        "I read the interesting article about nature in the magazine."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "I read an interesting article about nature in the magazine."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Рӯзноманигор барои рӯзномаи калон мақолаҳо менависад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: education",
-        "нодуруст C",
-        "нодуруст B"
+        "The journalist writes articles for a big newspaper.",
+        "The journalist writes articles for the big newspaper.",
+        "A journalist writes articles for a big newspaper.",
+        "The journalist writes the articles for a big newspaper."
       ],
-      "answer": "тарҷума: education"
+      "answer": "The journalist writes articles for a big newspaper."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Рӯзноманигор гузориш дар бораи обхезӣ дар деҳа навишт» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст A"
+        "The journalist wrote a report about the flood in the village.",
+        "The journalist wrote a report about the flood in a village.",
+        "The journalist wrote a report about a flood in the village.",
+        "A journalist wrote a report about the flood in the village."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The journalist wrote a report about the flood in the village."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Сарлавҳаи хабар хеле калон ва хеле ҷолиб буд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: achievement"
+        "The headline was very big and very interesting.",
+        "The headline was very large and very interesting.",
+        "A headline was very big and very interesting.",
+        "The headline was very big and interesting."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The headline was very big and very interesting."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Бобоям ҳар рӯз ба радио гӯш мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: challenge"
+        "My grandfather listens to the radio every day.",
+        "My grandfather listens to radio every day.",
+        "My grandfather listens the radio every day.",
+        "My grandfather hears the radio every day."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "My grandfather listens to the radio every day."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Мо бегоҳ баъд аз хӯроки шом телевизор тамошо мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: knowledge"
+        "We watch television in the evening after dinner.",
+        "We watch the television in the evening after dinner.",
+        "We look at television in the evening after dinner.",
+        "We watch television in the evening after the dinner."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "We watch television in the evening after dinner."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Дар телевизори мо шабакаҳои зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: conversation",
-        "нодуруст B",
-        "нодуруст C"
+        "There are many channels on our television.",
+        "There are many channels on the television.",
+        "There are many channels in our television.",
+        "There are a lot of channels on our television."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "There are many channels on our television."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Барномаи дӯстдоштаи ман дар бораи ҳайвонот ва табиат аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: fluency",
-        "нодуруст B",
-        "нодуруст C"
+        "My favourite programme is about animals and nature.",
+        "My favourite programme is about animals and the nature.",
+        "My favourite program is about animals and nature.",
+        "My favourite programme is on animals and nature."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "My favourite programme is about animals and nature."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Дар телевизор рекламаҳои хеле зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: confidence",
-        "нодуруст A"
+        "There are too many advertisements on TV.",
+        "There are very many advertisements on TV.",
+        "There are a lot of advertisements on TV.",
+        "There are too much advertisements on TV."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "There are too many advertisements on TV."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Онҳо ин рӯзномаро ҳар рӯз нашр мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: pronunciation"
+        "They publish this newspaper every day.",
+        "They publish the newspaper every day.",
+        "They publish this newspaper each day.",
+        "They print this newspaper every day."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "They publish this newspaper every day."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Радио ҳар соат хабарҳоро пахш мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: vocabulary"
+        "The radio broadcasts news every hour.",
+        "The radio broadcasts the news every hour.",
+        "Radio broadcasts news every hour.",
+        "The radio broadcasts news each hour."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "The radio broadcasts news every hour."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Интернет ба мо иттилооти зиёд медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: grammar",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "The internet gives us much information.",
+        "The internet gives us a lot of information.",
+        "The internet gives to us much information.",
+        "Internet gives us much information."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "The internet gives us much information."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Рӯзноманигори хуб ҳамеша ҳақиқатро мегӯяд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: opportunity",
-        "нодуруст A"
+        "A good journalist always tells the truth.",
+        "A good journalist always says the truth.",
+        "The good journalist always tells the truth.",
+        "A good journalist always tells truth."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "A good journalist always tells the truth."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ҳар рӯз мо иттилооти зиёд мегирем: аз рӯзномаҳо, аз маҷаллаҳо, аз радио, аз телевизор ва аз интернет. Иттилоот дар ҳаёти мо чизи хеле муҳим аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: experience"
+        "Every day we get a lot of information: from newspapers, from magazines, from the radio, from television and from the internet. Information is a very important thing in our life.",
+        "Every day we get a lot of information: from newspapers, from magazines, from radio, from television and from the internet. Information is a very important thing in our life.",
+        "Every day we get much information: from newspapers, from magazines, from the radio, from television and from the internet. Information is a very important thing in our life.",
+        "Every day we get a lot of information: from newspapers, from magazines, from the radio, from television and from internet. Information is a very important thing in our life."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "Every day we get a lot of information: from newspapers, from magazines, from the radio, from television and from the internet. Information is a very important thing in our life."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Бе иттилоот мо наметавонем донем, ки дар кишвари мо ва дар ҷаҳон чӣ рӯй медиҳад. Имрӯз ман мехоҳам ба шумо дар бораи рӯзномаҳо, хабарҳо ва иттилоот нақл кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: environment"
+        "Without information we cannot know what is happening in our country and in the world. Today I want to tell you about newspapers, news and information.",
+        "Without information we cannot know what is happening in our country and in the world. Today I want to tell you about newspapers, news and information.",
+        "Without information we can't know what is happening in our country and in the world. Today I want to tell you about newspapers, news and information.",
+        "Without information we cannot know what is happening in our country and in the world. Today I want to speak to you about newspapers, news and information."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Without information we cannot know what is happening in our country and in the world. Today I want to tell you about newspapers, news and information."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Рӯзнома чизи хеле қадимӣ ва хеле муҳим аст. Аввалин рӯзномаҳо беш аз сесад сол пеш пайдо шудаанд. Пеш аз он одамон хабарҳоро аз одамони дигар мешуниданд, ки аз шаҳр ба шаҳр сафар мекарданд» чӛ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "A newspaper is a very old and very important thing. The first newspapers appeared more than three hundred years ago. Before that, people got news from other people who travelled from city to city.",
+        "A newspaper is a very old and very important thing. The first newspapers appeared more than three hundred years ago. Before that people got news from other people who travelled from city to city.",
+        "A newspaper is a very old and very important thing. The first newspapers appeared over three hundred years ago. Before that, people got news from other people who travelled from city to city.",
+        "A newspaper is a very old and very important thing. The first newspapers appeared more than three hundred years ago. Before that, people got the news from other people who travelled from city to city."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "A newspaper is a very old and very important thing. The first newspapers appeared more than three hundred years ago. Before that, people got news from other people who travelled from city to city."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Рӯзнома коғазест бо хабарҳо, мақолаҳо, рекламаҳо ва суратҳо. Рӯзномаҳо ҳар рӯз ё ҳар ҳафта нашр мешаванд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: education"
+        "A newspaper is a paper with news, articles, advertisements and photographs. Newspapers are published every day or every week.",
+        "A newspaper is a paper with news, articles, advertisements and photos. Newspapers are published every day or every week.",
+        "A newspaper is a paper with news, articles, advertisements and photographs. The newspapers are published every day or every week.",
+        "A newspaper is the paper with news, articles, advertisements and photographs. Newspapers are published every day or every week."
       ],
-      "answer": "тарҷума: education"
+      "answer": "A newspaper is a paper with news, articles, advertisements and photographs. Newspapers are published every day or every week."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Падарам ҳар субҳ ҳангоми наҳорӣ рӯзнома мехонад. Ӯ мегӯяд: \"Рӯзнома ба ман кӯмак мекунад, ки донем, ки дар ҷаҳон чӣ рӯй медиҳад.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст B"
+        "My father reads a newspaper every morning at breakfast. He says: \"A newspaper helps me to know what is happening in the world.\"",
+        "My father reads a newspaper every morning at breakfast. He says: \"A newspaper helps me know what is happening in the world.\"",
+        "My father reads the newspaper every morning at breakfast. He says: \"A newspaper helps me to know what is happening in the world.\"",
+        "My father reads a newspaper every morning at breakfast. He tells: \"A newspaper helps me to know what is happening in the world.\""
       ],
-      "answer": "тарҷума: development"
+      "answer": "My father reads a newspaper every morning at breakfast. He says: \"A newspaper helps me to know what is happening in the world.\""
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Маҷалла мисли рӯзнома аст, аммо он ҳафтае як маротиба ё моҳе як маротиба меояд. Маҷаллаҳо одатан калонтаранд ва суратҳои бештар доранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: achievement",
-        "нодуруст A"
+        "A magazine is like a newspaper, but it comes once a week or once a month. Magazines are usually bigger and have more pictures.",
+        "A magazine is like a newspaper but it comes once a week or once a month. Magazines are usually bigger and have more pictures.",
+        "A magazine is like a newspaper, but it comes once a week or once a month. Magazines are usually larger and have more pictures.",
+        "A magazine is like a newspaper, but it comes once a week or once a month. The magazines are usually bigger and have more pictures."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "A magazine is like a newspaper, but it comes once a week or once a month. Magazines are usually bigger and have more pictures."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Маҷаллаҳо дар бораи варзиш, дар бораи мӯд, дар бораи илм, дар бораи ҳайвонот ва дар бораи бисёр чизҳои дигар ҳастанд. Модарам ҳар ҳафта маҷалла мехонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: challenge",
-        "нодуруст C"
+        "There are magazines about sports, about fashion, about science, about animals and about many other things. My mother reads a magazine every week.",
+        "There are magazines about sports, about fashion, about science, about animals and about many other things. My mother reads the magazine every week.",
+        "There are magazines about sports, about fashion, about science, about animals and about many other things. My mother reads a magazine each week.",
+        "There are magazines about sports, about fashion, about science, about animals and about many other things. My mother reads a magazine every week."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "There are magazines about sports, about fashion, about science, about animals and about many other things. My mother reads a magazine every week."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Хоҳарам Зуҳро маҷалла дар бораи мӯд ва мусиқӣ мехонад. Мақола порчаи навиштор дар рӯзнома ё дар маҷалла аст. Мақолаҳоро рӯзноманигорон менависанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: knowledge",
-        "нодуруст A",
-        "нодуруст B"
+        "My sister Zuhro reads a magazine about fashion and music. An article is a piece of writing in a newspaper or in a magazine. Articles are written by journalists.",
+        "My sister Zuhro reads a magazine about fashion and music. An article is a piece of writing in a newspaper or in a magazine. The articles are written by journalists.",
+        "My sister Zuhro reads a magazine about fashion and music. An article is a piece of writing in a newspaper or a magazine. Articles are written by journalists.",
+        "My sister Zuhro reads the magazine about fashion and music. An article is a piece of writing in a newspaper or in a magazine. Articles are written by journalists."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "My sister Zuhro reads a magazine about fashion and music. An article is a piece of writing in a newspaper or in a magazine. Articles are written by journalists."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Рӯзноманигор одамест, ки барои рӯзномаҳо, барои маҷаллаҳо, барои радио, барои телевизор ва барои интернет мақолаҳо ва гузоришҳо менависад. Рӯзноманигор бояд хеле ростқавл ва хеле ҷасур бошад. Ӯ бояд ҳамеша ҳақиқатро гӯяд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: conversation",
-        "нодуруст A"
+        "A journalist is a person who writes articles and reports for newspapers, for magazines, for radio, for television and for the internet. A journalist must be very honest and very brave. He must always tell the truth.",
+        "A journalist is a person who writes articles and reports for newspapers, for magazines, for radio, for television and for the internet. A journalist must be very honest and very brave. He must always tell the truth.",
+        "A journalist is a person who writes articles and reports for newspapers, magazines, radio, television and the internet. A journalist must be very honest and very brave. He must always tell the truth.",
+        "A journalist is a person who writes articles and reports for newspapers, for magazines, for radio, for television and for internet. A journalist must be very honest and very brave. He must always tell the truth."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "A journalist is a person who writes articles and reports for newspapers, for magazines, for radio, for television and for the internet. A journalist must be very honest and very brave. He must always tell the truth."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ӯ бояд ба ҷойҳои гуногун равад, бо одамони гуногун вохӯрад ва аз онҳо саволҳои зиёд пурсад. Амакам рӯзноманигор аст. Ӯ барои рӯзномаи калон дар Душанбе кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: fluency"
+        "He must go to different places, meet different people and ask them many questions. My uncle is a journalist. He works for a big newspaper in Dushanbe.",
+        "He must go to different places, meet different people and ask them many questions. My uncle is a journalist. He works for the big newspaper in Dushanbe.",
+        "He must go to different places, meet different people and ask them many questions. My uncle is a journalist. He works in a big newspaper in Dushanbe.",
+        "He must go to different places, meet different people and ask them many questions. My uncle is a journalist, he works for a big newspaper in Dushanbe."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "He must go to different places, meet different people and ask them many questions. My uncle is a journalist. He works for a big newspaper in Dushanbe."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ӯ аксар вақт ба шаҳрҳо ва деҳаҳои гуногун сафар мекунад ва дар бораи ҳаёти мардуми он ҷо менависад. Ӯ мегӯяд: \"Рӯзноманигор бояд чашм ва гӯши мардум бошад.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: confidence"
+        "He often travels to different cities and villages and writes about the life of the people there. He says: \"A journalist must be the eyes and the ears of the people.\"",
+        "He often travels to different cities and villages and writes about the life of the people there. He says: \"The journalist must be the eyes and the ears of the people.\"",
+        "He often travels to different cities and villages and writes about the life of the people there. He says: \"A journalist must be eyes and ears of the people.\"",
+        "He often travels to different cities and villages and writes about the life of people there. He says: \"A journalist must be the eyes and the ears of the people.\""
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "He often travels to different cities and villages and writes about the life of the people there. He says: \"A journalist must be the eyes and the ears of the people.\""
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Гузориш навъи махсуси мақола аст. Гузориш ба мо дар бораи рӯйдоди ҳақиқӣ нақл мекунад: дар бораи обхезӣ, дар бораи сӯхтор, дар бораи бозии варзишӣ ё дар бораи вохӯрӣ» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: pronunciation",
-        "нодуруст C",
-        "нодуруст A"
+        "A report is a special kind of article. A report tells us about a real event: about a flood, about a fire, about a sports match or about a meeting.",
+        "A report is a special kind of article. The report tells us about a real event: about a flood, about a fire, about a sports match or about a meeting.",
+        "A report is a special kind of article. A report tells us about a real event: about a flood, about a fire, about a sports match or a meeting.",
+        "A report is a special kind of article. A report tells us about real events: about a flood, about a fire, about a sports match or about a meeting."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "A report is a special kind of article. A report tells us about a real event: about a flood, about a fire, about a sports match or about a meeting."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Гузоришҳо ҳамеша бо як тарз навишта мешаванд: онҳо ба се саволи муҳим ҷавоб медиҳанд — Чӣ рӯй дод? Дар куҷо рӯй дод? Кай рӯй дод?» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: vocabulary",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "Reports are always written in the same way: they answer three important questions — What happened? Where did it happen? When did it happen?",
+        "Reports are always written in the same way: they answer three important questions — What happened? Where did it happen? When did it happen?",
+        "The reports are always written in the same way: they answer three important questions — What happened? Where did it happen? When did it happen?",
+        "Reports are always written in the same way: they answer three important questions: What happened? Where did it happen? When did it happen?"
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "Reports are always written in the same way: they answer three important questions — What happened? Where did it happen? When did it happen?"
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Амакам гузориши хеле хуб дар бораи обхезӣ дар деҳае дар кӯҳҳо навишт. Ҳар як рӯзнома сарлавҳаҳо дорад. Сарлавҳа унвони мақола аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: grammar",
-        "нодуруст B"
+        "My uncle wrote a very good report about a flood in a village in the mountains. Every newspaper has headlines. A headline is the title of an article.",
+        "My uncle wrote a very good report about a flood in the village in the mountains. Every newspaper has headlines. A headline is the title of an article.",
+        "My uncle wrote a very good report about a flood in a village in the mountains. Each newspaper has headlines. A headline is the title of an article.",
+        "My uncle wrote a very good report about a flood in a village in mountains. Every newspaper has headlines. A headline is the title of an article."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "My uncle wrote a very good report about a flood in a village in the mountains. Every newspaper has headlines. A headline is the title of an article."
+    },
+    {
+      "q": "«Он одатан бо ҳарфҳои калон навишта мешавад. Сарлавҳаи хуб хеле кӯтоҳ ва хеле ҷолиб аст. Он ба шумо мехоҳад, ки тамоми мақоларо хонед. Вақте ки ман ба рӯзнома нигоҳ мекунам, ман аввал сарлавҳаҳоро мехонам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It is usually written in big letters. A good headline is very short and very interesting. It makes you want to read the whole article. When I look at a newspaper, I read the headlines first.",
+        "It is usually written in big letters. A good headline is very short and very interesting. It makes you want to read the whole article. When I look at a newspaper I read the headlines first.",
+        "It is usually written in capital letters. A good headline is very short and very interesting. It makes you want to read the whole article. When I look at a newspaper, I read the headlines first.",
+        "It is usually written in big letters. A good headline is very short and interesting. It makes you want to read the whole article. When I look at a newspaper, I read the headlines first."
+      ],
+      "answer": "It is usually written in big letters. A good headline is very short and very interesting. It makes you want to read the whole article. When I look at a newspaper, I read the headlines first."
+    },
+    {
+      "q": "«Радио низ манбаи хеле муҳими иттилоот аст. Бобоям ҳар рӯз ба радио гӯш мекунад. Ӯ дар ошхона радиои кӯҳна дорад. Радио ҳар соат хабарҳо, мусиқӣ, гузоришҳои обу ҳаво ва барномаҳоро пахш мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The radio is also a very important source of information. My grandfather listens to the radio every day. He has an old radio in the kitchen. The radio broadcasts news, music, weather reports and programmes every hour.",
+        "Radio is also a very important source of information. My grandfather listens to the radio every day. He has an old radio in the kitchen. The radio broadcasts news, music, weather reports and programmes every hour.",
+        "The radio is also a very important source of information. My grandfather listens to radio every day. He has an old radio in the kitchen. The radio broadcasts news, music, weather reports and programmes every hour.",
+        "The radio is also the very important source of information. My grandfather listens to the radio every day. He has an old radio in the kitchen. The radio broadcasts news, music, weather reports and programmes every hour."
+      ],
+      "answer": "The radio is also a very important source of information. My grandfather listens to the radio every day. He has an old radio in the kitchen. The radio broadcasts news, music, weather reports and programmes every hour."
+    },
+    {
+      "q": "«Телевизор имрӯз манбаи хеле машҳури иттилоот аст. Қариб ҳар як оила телевизор дорад. Телевизор хабарҳо, филмҳо, варзиш, мультфилмҳо ва бисёр барномаҳои дигарро пахш мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Television is a very popular source of information today. Almost every family has a television. Television broadcasts news, films, sports, cartoons and many other programmes.",
+        "The television is a very popular source of information today. Almost every family has a television. Television broadcasts news, films, sports, cartoons and many other programmes.",
+        "Television is a very popular source of information today. Almost every family has the television. Television broadcasts news, films, sports, cartoons and many other programmes.",
+        "Television is a very popular source of information today. Almost every family has a television. The television broadcasts news, films, sports, cartoons and many other programmes."
+      ],
+      "answer": "Television is a very popular source of information today. Almost every family has a television. Television broadcasts news, films, sports, cartoons and many other programmes."
+    },
+    {
+      "q": "«Оилаи мо бегоҳ телевизор тамошо мекунад. Барномаи дӯстдоштаи мо дар бораи ҳайвонот ва табиат аст. Дар телевизори мо шабакаҳои зиёд ҳастанд: баъзеҳо бо тоҷикӣ, баъзеҳо бо русӣ, баъзеҳо бо англисӣ» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My family watches television in the evening. Our favourite programme is about animals and nature. There are many channels on our television: some are in Tajik, some are in Russian, some are in English.",
+        "My family watches television in the evening. Our favourite programme is about animals and nature. There are many channels on our television: some in Tajik, some in Russian, some in English.",
+        "My family watches the television in the evening. Our favourite programme is about animals and nature. There are many channels on our television: some are in Tajik, some are in Russian, some are in English.",
+        "My family watches television in the evening. Our favourite programme is about animals and nature. There are many channels in our television: some are in Tajik, some are in Russian, some are in English."
+      ],
+      "answer": "My family watches television in the evening. Our favourite programme is about animals and nature. There are many channels on our television: some are in Tajik, some are in Russian, some are in English."
+    },
+    {
+      "q": "«Аммо дар телевизор инчунин рекламаҳои зиёд ҳастанд ва баъзан онҳо хеле дароз ва дилгиркунанда ҳастанд. Модарам мегӯяд: \"Рекламаҳо ба одамон дар фурӯхтан ва харидани чизҳо кӯмак мекунанд, аммо рекламаҳои аз ҳад зиёд хуб нестанд.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "But there are also many advertisements on TV, and sometimes they are very long and boring. My mother says: \"Advertisements help people to sell and to buy things, but too many advertisements are not good.\"",
+        "But there are also many advertisements on TV and sometimes they are very long and boring. My mother says: \"Advertisements help people to sell and to buy things, but too many advertisements are not good.\"",
+        "But there are also many advertisements on TV, and sometimes they are very long and boring. My mother says: \"Advertisements help people sell and buy things, but too many advertisements are not good.\"",
+        "But there are also many advertisements on the TV, and sometimes they are very long and boring. My mother says: \"Advertisements help people to sell and to buy things, but too many advertisements are not good.\""
+      ],
+      "answer": "But there are also many advertisements on TV, and sometimes they are very long and boring. My mother says: \"Advertisements help people to sell and to buy things, but too many advertisements are not good.\""
+    },
+    {
+      "q": "«Интернет навтарин манбаи иттилоот аст. Бо интернет мо метавонем ҳар рӯзнома ё маҷалларо дар ҷаҳон хонем. Мо метавонем ҳар видео тамошо кунем ва ба ҳар истгоҳи радио гӯш кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The internet is the newest source of information. With the internet we can read any newspaper or magazine in the world. We can watch any video and listen to any radio station.",
+        "The internet is the newest source of information. With internet we can read any newspaper or magazine in the world. We can watch any video and listen to any radio station.",
+        "The internet is the newest source of information. With the internet we can read any newspaper or magazine in the world. We can watch any video and listen to any radio station.",
+        "The internet is the newest source of information. With the internet we can read any newspaper or any magazine in the world. We can watch any video and listen to any radio station."
+      ],
+      "answer": "The internet is the newest source of information. With the internet we can read any newspaper or magazine in the world. We can watch any video and listen to any radio station."
+    },
+    {
+      "q": "«Аммо интернет як мушкили калон дорад: на ҳамаи иттилоот дар интернет ҳақиқӣ аст. Баъзе сомонаҳо дурӯғ мегӯянд. Баъзе сомонаҳо кӯшиш мекунанд, ки одамонро фиреб диҳанд. Бинобар ин мо бояд ҳамеша фикр кунем: ин иттилоот ҳақиқӣ аст ё не?» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "But the internet has one big problem: not all information on the internet is true. Some websites tell lies. Some websites try to trick people. So we must always think: is this information true or not?",
+        "But the internet has one big problem: not all information on the internet is true. Some websites tell lies. Some websites try to trick people. So we must always think: is this information true or not?",
+        "But the internet has one big problem: not all information in the internet is true. Some websites tell lies. Some websites try to trick people. So we must always think: is this information true or not?",
+        "But the internet has one big problem: not all the information on the internet is true. Some websites tell lies. Some websites try to trick people. So we must always think: is this information true or not?"
+      ],
+      "answer": "But the internet has one big problem: not all information on the internet is true. Some websites tell lies. Some websites try to trick people. So we must always think: is this information true or not?"
+    },
+    {
+      "q": "«Падарам мегӯяд: \"Ба ҳама чизе, ки дар интернет мехонед, бовар накунед. Ҳамеша иттилоотро тафтиш кунед.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father says: \"Do not believe everything you read on the internet. Always check the information.\"",
+        "My father says: \"Do not believe everything you read on the internet. Always check the information.\"",
+        "My father says: \"Don't believe everything you read on the internet. Always check the information.\"",
+        "My father says: \"Do not believe all you read on the internet. Always check the information.\""
+      ],
+      "answer": "My father says: \"Do not believe everything you read on the internet. Always check the information.\""
+    },
+    {
+      "q": "«Иттилоот чизи хеле пурқувват аст. Бо иттилооти хуб мо метавонем қарорҳои хуб қабул кунем. Бо иттилооти бад мо метавонем қарорҳои бад қабул кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Information is a very powerful thing. With good information we can make good decisions. With bad information we can make bad decisions.",
+        "Information is a very powerful thing. With good information we can make good decisions. With bad information we can make bad decisions.",
+        "The information is a very powerful thing. With good information we can make good decisions. With bad information we can make bad decisions.",
+        "Information is a very powerful thing. With the good information we can make good decisions. With the bad information we can make bad decisions."
+      ],
+      "answer": "Information is a very powerful thing. With good information we can make good decisions. With bad information we can make bad decisions."
+    },
+    {
+      "q": "«Одами доно ҳамеша иттилооти худро тафтиш мекунад. Ӯ рӯзномаҳои гуногун мехонад, барномаҳои гуногун тамошо мекунад ва ба одамони гуногун гӯш мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "A wise person always checks his information. He reads different newspapers, watches different programmes and listens to different people.",
+        "A wise man always checks his information. He reads different newspapers, watches different programmes and listens to different people.",
+        "A wise person always checks his information. He reads different newspapers, watches different programs and listens to different people.",
+        "A wise person always checks his information. He reads the different newspapers, watches different programmes and listens to different people."
+      ],
+      "answer": "A wise person always checks his information. He reads different newspapers, watches different programmes and listens to different people."
+    },
+    {
+      "q": "«Бобоям мегӯяд: \"Одаме, ки иттилооти хуб дорад, қувват дорад. Одаме, ки ба ҳама чиз бовар мекунад, нодон аст.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandfather says: \"The person who has good information has power. The person who believes everything is a fool.\"",
+        "My grandfather says: \"A person who has good information has power. A person who believes everything is a fool.\"",
+        "My grandfather says: \"The person who has good information has power. The person who believes in everything is a fool.\"",
+        "My grandfather says: \"The person who has the good information has power. The person who believes everything is a fool.\""
+      ],
+      "answer": "My grandfather says: \"The person who has good information has power. The person who believes everything is a fool.\""
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам духтур шавам. Аммо ман инчунин мехоҳам шаҳрванди хуб бошам. Ман мехоҳам рӯзномаҳоро хонам ва донем, ки дар кишвари ман ва дар ҷаҳон чӣ рӯй медиҳад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to be a doctor. But I also want to be a good citizen. I want to read newspapers and to know what is happening in my country and in the world.",
+        "When I grow up I want to be a doctor. But I also want to be a good citizen. I want to read newspapers and to know what is happening in my country and in the world.",
+        "When I grow up, I want to become a doctor. But I also want to be a good citizen. I want to read newspapers and to know what is happening in my country and in the world.",
+        "When I grow up, I want to be a doctor. But I also want to be a good citizen. I want to read the newspapers and to know what is happening in my country and in the world."
+      ],
+      "answer": "When I grow up, I want to be a doctor. But I also want to be a good citizen. I want to read newspapers and to know what is happening in my country and in the world."
+    },
+    {
+      "q": "«Ман мехоҳам хабарҳоро тамошо кунам ва онҳоро фаҳмам. Ман мехоҳам иттилоотро аз манбаъҳои гуногун гирам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to watch the news and to understand it. I want to get information from different sources.",
+        "I want to watch the news and understand it. I want to get information from different sources.",
+        "I want to watch news and to understand it. I want to get information from different sources.",
+        "I want to watch the news and to understand it. I want to get the information from different sources."
+      ],
+      "answer": "I want to watch the news and to understand it. I want to get information from different sources."
+    },
+    {
+      "q": "«Ва ман мехоҳам ба кӯдаконам омӯзонам: ҳамеша иттилооти худро тафтиш кунед, ҳамеша ҳақиқатро ҷӯед ва ҳамеша бо сари худ фикр кунед. Зеро ки иттилоот калиди дониш аст ва дониш калиди ҳаёти хуб аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "And I want to teach my children: always check your information, always look for the truth, and always think with your own head. Because information is the key to knowledge, and knowledge is the key to a good life.",
+        "And I want to teach my children: always check your information, always look for the truth, and always think with your own head. Because information is the key to knowledge and knowledge is the key to a good life.",
+        "And I want to teach my children: always check your information, always look for the truth and always think with your own head. Because information is the key to knowledge, and knowledge is the key to a good life.",
+        "And I want to teach my children: always check your information, always look for the truth, and always think with your own head. Because information is the key to knowledge, and knowledge is the key of a good life."
+      ],
+      "answer": "And I want to teach my children: always check your information, always look for the truth, and always think with your own head. Because information is the key to knowledge, and knowledge is the key to a good life."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 30
+  "wordsCount": 16
 }
