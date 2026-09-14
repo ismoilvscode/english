@@ -1,653 +1,440 @@
 {
   "id": 18,
-  "title": "Луғат ва ибораҳо 18",
+  "title": "Иборасозӣ 18: Кор дар боғ ва хоҷагӣ",
   "level": "Ибтидоӣ - Starkov",
   "free": false,
   "words": [
     {
-      "en": "to come",
-      "tj": "омадан",
-      "ex": "Ex: to come is useful."
+      "en": "to grow",
+      "tj": "парвариш кардан",
+      "ex": "We grow flowers in the garden."
     },
     {
-      "en": "morning",
-      "tj": "субҳ",
-      "ex": "Ex: morning is useful."
+      "en": "to plant",
+      "tj": "шинондан",
+      "ex": "I plant a tree in spring."
     },
     {
-      "en": "day",
-      "tj": "рӯз",
-      "ex": "Ex: day is useful."
+      "en": "to pick",
+      "tj": "чидан",
+      "ex": "She picks apples from the tree."
     },
     {
-      "en": "evening",
-      "tj": "бегоҳ",
-      "ex": "Ex: evening is useful."
+      "en": "to feed",
+      "tj": "хӯрок додан",
+      "ex": "He feeds the horse in the morning."
     },
     {
-      "en": "night",
-      "tj": "шаб",
-      "ex": "Ex: night is useful."
+      "en": "to cook",
+      "tj": "пухтан",
+      "ex": "My mother cooks dinner."
     },
     {
-      "en": "today",
-      "tj": "имрӯз",
-      "ex": "Ex: today is useful."
+      "en": "to bake",
+      "tj": "пухтан (нон)",
+      "ex": "The baker bakes bread."
     },
     {
-      "en": "tomorrow",
-      "tj": "фардо",
-      "ex": "Ex: tomorrow is useful."
+      "en": "field",
+      "tj": "киштзор",
+      "ex": "The farmer works in the field."
     },
     {
-      "en": "yesterday",
-      "tj": "дируз",
-      "ex": "Ex: yesterday is useful."
+      "en": "farm",
+      "tj": "хоҷагӣ",
+      "ex": "My grandfather has a farm."
     },
     {
-      "en": "one",
-      "tj": "як",
-      "ex": "Ex: one is useful."
+      "en": "seed",
+      "tj": "тухмӣ",
+      "ex": "I put a seed in the ground."
     },
     {
-      "en": "two",
-      "tj": "ду",
-      "ex": "Ex: two is useful."
+      "en": "fruit",
+      "tj": "мева",
+      "ex": "The apple is a fruit."
     },
     {
-      "en": "three",
-      "tj": "се",
-      "ex": "Ex: three is useful."
+      "en": "vegetable",
+      "tj": "сабзавот",
+      "ex": "I eat a vegetable every day."
     },
     {
-      "en": "four",
-      "tj": "чор",
-      "ex": "Ex: four is useful."
+      "en": "harvest",
+      "tj": "ҳосил",
+      "ex": "The harvest is good in autumn."
     },
     {
-      "en": "five",
-      "tj": "панҷ",
-      "ex": "Ex: five is useful."
+      "en": "basket",
+      "tj": "сабад",
+      "ex": "She carries a basket of apples."
     },
     {
-      "en": "apple",
-      "tj": "себ",
-      "ex": "Ex: apple is useful."
+      "en": "ladder",
+      "tj": "нардбон",
+      "ex": "He climbs the ladder."
     },
     {
-      "en": "water",
-      "tj": "об",
-      "ex": "Ex: water is useful."
-    },
-    {
-      "en": "bread",
-      "tj": "нон",
-      "ex": "Ex: bread is useful."
-    },
-    {
-      "en": "a book",
-      "tj": "китоб",
-      "ex": "Ex: a book is useful."
-    },
-    {
-      "en": "a pen",
-      "tj": "қалам",
-      "ex": "Ex: a pen is useful."
-    },
-    {
-      "en": "a desk",
-      "tj": "мизи дарсӣ",
-      "ex": "Ex: a desk is useful."
-    },
-    {
-      "en": "a bag",
-      "tj": "халта",
-      "ex": "Ex: a bag is useful."
-    },
-    {
-      "en": "a cat",
-      "tj": "гурба",
-      "ex": "Ex: a cat is useful."
-    },
-    {
-      "en": "a dog",
-      "tj": "саг",
-      "ex": "Ex: a dog is useful."
-    },
-    {
-      "en": "red",
-      "tj": "сурх",
-      "ex": "Ex: red is useful."
-    },
-    {
-      "en": "blue",
-      "tj": "кабуд",
-      "ex": "Ex: blue is useful."
-    },
-    {
-      "en": "mother",
-      "tj": "модар",
-      "ex": "Ex: mother is useful."
-    },
-    {
-      "en": "father",
-      "tj": "падар",
-      "ex": "Ex: father is useful."
-    },
-    {
-      "en": "sister",
-      "tj": "хоҳар",
-      "ex": "Ex: sister is useful."
-    },
-    {
-      "en": "brother",
-      "tj": "бародар",
-      "ex": "Ex: brother is useful."
-    },
-    {
-      "en": "house",
-      "tj": "хона",
-      "ex": "Ex: house is useful."
-    },
-    {
-      "en": "school",
-      "tj": "мактаб",
-      "ex": "Ex: school is useful."
-    },
-    {
-      "en": "teacher",
-      "tj": "омӯзгор",
-      "ex": "Ex: teacher is useful."
-    },
-    {
-      "en": "pupil",
-      "tj": "хонанда",
-      "ex": "Ex: pupil is useful."
-    },
-    {
-      "en": "good",
-      "tj": "хуб",
-      "ex": "Ex: good is useful."
-    },
-    {
-      "en": "bad",
-      "tj": "бад",
-      "ex": "Ex: bad is useful."
-    },
-    {
-      "en": "big",
-      "tj": "калон",
-      "ex": "Ex: big is useful."
-    },
-    {
-      "en": "small",
-      "tj": "хурд",
-      "ex": "Ex: small is useful."
-    },
-    {
-      "en": "new",
-      "tj": "нав",
-      "ex": "Ex: new is useful."
-    },
-    {
-      "en": "old",
-      "tj": "кӯҳна",
-      "ex": "Ex: old is useful."
-    },
-    {
-      "en": "happy",
-      "tj": "хушбахт",
-      "ex": "Ex: happy is useful."
-    },
-    {
-      "en": "sad",
-      "tj": "ғамгин",
-      "ex": "Ex: sad is useful."
-    },
-    {
-      "en": "to read",
-      "tj": "хондан",
-      "ex": "Ex: to read is useful."
-    },
-    {
-      "en": "to write",
-      "tj": "навиштан",
-      "ex": "Ex: to write is useful."
-    },
-    {
-      "en": "to speak",
-      "tj": "гап задан",
-      "ex": "Ex: to speak is useful."
-    },
-    {
-      "en": "to learn",
-      "tj": "омӯхтан",
-      "ex": "Ex: to learn is useful."
+      "en": "fence",
+      "tj": "девор (гирдогирд)",
+      "ex": "The fence is near the garden."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 18)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "We grow flowers and vegetables in the garden.",
+      "tj": "Мо дар боғ гулҳо ва сабзавот парвариш мекунем."
     },
     {
-      "en": "I'm working on lesson 18",
-      "tj": "Ман дарси 18-ро меомӯзам"
+      "en": "I plant a tree in spring.",
+      "tj": "Ман дар баҳор дарахт мешинонам."
+    },
+    {
+      "en": "She picks apples from the tree.",
+      "tj": "Ӯ себҳоро аз дарахт мечинад."
+    },
+    {
+      "en": "He feeds the horse in the morning.",
+      "tj": "Ӯ субҳ ба асп хӯрок медиҳад."
+    },
+    {
+      "en": "My mother cooks dinner in the kitchen.",
+      "tj": "Модари ман дар ошхона хӯроки шом мепазад."
+    },
+    {
+      "en": "The baker bakes bread every morning.",
+      "tj": "Нонвой ҳар субҳ нон мепазад."
+    },
+    {
+      "en": "The farmer works in the field.",
+      "tj": "Деҳқон дар киштзор кор мекунад."
+    },
+    {
+      "en": "My grandfather has a big farm near the village.",
+      "tj": "Бобои ман дар назди деҳа хоҷагии калон дорад."
+    },
+    {
+      "en": "I put a small seed in the ground.",
+      "tj": "Ман тухмии хурдро ба замин мегузорам."
+    },
+    {
+      "en": "The apple is a fruit and the carrot is a vegetable.",
+      "tj": "Себ мева аст ва сабзӣ сабзавот аст."
+    },
+    {
+      "en": "The harvest is good in autumn.",
+      "tj": "Ҳосил дар тирамоҳ хуб аст."
+    },
+    {
+      "en": "She carries a basket of apples.",
+      "tj": "Ӯ сабади себҳоро мебардорад."
+    },
+    {
+      "en": "He climbs the ladder to pick fruit.",
+      "tj": "Ӯ ба нардбон мебарояд, то мева чинад."
+    },
+    {
+      "en": "The fence is near the garden.",
+      "tj": "Девор дар назди боғ аст."
+    },
+    {
+      "en": "The farmer feeds the cow and the horse.",
+      "tj": "Деҳқон ба гов ва асп хӯрок медиҳад."
+    },
+    {
+      "en": "My grandmother picks vegetables and puts them in the basket.",
+      "tj": "Бибии ман сабзавотро мечинад ва ба сабад мегузорад."
+    },
+    {
+      "en": "The baker bakes bread, and my mother cooks dinner.",
+      "tj": "Нонвой нон мепазад ва модари ман хӯроки шом мепазад."
+    },
+    {
+      "en": "We grow fruit and vegetables in our garden.",
+      "tj": "Мо дар боғи худ мева ва сабзавот парвариш мекунем."
+    },
+    {
+      "en": "The farmer works in the field from morning to evening.",
+      "tj": "Деҳқон аз субҳ то бегоҳ дар киштзор кор мекунад."
+    },
+    {
+      "en": "I feed the birds in the garden in winter.",
+      "tj": "Ман дар зимистон ба паррандаҳо дар боғ хӯрок медиҳам."
+    },
+    {
+      "en": "She puts the fruit in the basket near the fence.",
+      "tj": "Ӯ меваро ба сабад дар назди девор мегузорад."
+    },
+    {
+      "en": "My father plants a tree near the house in spring.",
+      "tj": "Падари ман дар баҳор дар назди хона дарахт мешинонад."
+    },
+    {
+      "en": "The harvest is in the basket and on the table.",
+      "tj": "Ҳосил дар сабад ва дар миз аст."
+    },
+    {
+      "en": "He feeds the horse, and she feeds the cow.",
+      "tj": "Ӯ ба асп хӯрок медиҳад ва ӯ ба гов хӯрок медиҳад."
+    },
+    {
+      "en": "We pick apples and put them in the basket near the ladder.",
+      "tj": "Мо себҳоро мечинам ва онҳоро ба сабад дар назди нардбон мегузорем."
     }
   ],
   "text": null,
   "exercises": [
     {
-      "q": "'to come' чи маъно дорад?",
+      "q": "«Мо дар боғ гулҳо ва сабзавот парвариш мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "омадан",
-        "нодуруст A",
-        "нодуруст C"
+        "We grow flowers and vegetables in the garden.",
+        "We grow flowers and fruit in the garden.",
+        "We plant flowers and vegetables in the garden.",
+        "We grow trees and vegetables in the garden."
       ],
-      "answer": "омадан"
+      "answer": "We grow flowers and vegetables in the garden."
     },
     {
-      "q": "'morning' чи маъно дорад?",
+      "q": "«Ман дар баҳор дарахт мешинонам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "субҳ"
+        "I plant a tree in spring.",
+        "I plant a tree in summer.",
+        "I grow a tree in spring.",
+        "I plant a flower in spring."
       ],
-      "answer": "субҳ"
+      "answer": "I plant a tree in spring."
     },
     {
-      "q": "'day' чи маъно дорад?",
+      "q": "«Ӯ себҳоро аз дарахт мечинад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "рӯз"
+        "She picks apples from the tree.",
+        "He picks apples from the tree.",
+        "She picks fruit from the tree.",
+        "She picks apples from the garden."
       ],
-      "answer": "рӯз"
+      "answer": "She picks apples from the tree."
     },
     {
-      "q": "'evening' чи маъно дорад?",
+      "q": "«Ӯ субҳ ба асп хӯрок медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "бегоҳ",
-        "нодуруст C",
-        "нодуруст B"
+        "He feeds the horse in the morning.",
+        "She feeds the horse in the morning.",
+        "He feeds the cow in the morning.",
+        "He feeds the horse in the evening."
       ],
-      "answer": "бегоҳ"
+      "answer": "He feeds the horse in the morning."
     },
     {
-      "q": "'night' чи маъно дорад?",
+      "q": "«Модари ман дар ошхона хӯроки шом мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "шаб"
+        "My mother cooks dinner in the kitchen.",
+        "My mother cooks lunch in the kitchen.",
+        "My mother bakes dinner in the kitchen.",
+        "My mother cooks dinner in the garden."
       ],
-      "answer": "шаб"
+      "answer": "My mother cooks dinner in the kitchen."
     },
     {
-      "q": "'today' чи маъно дорад?",
+      "q": "«Нонвой ҳар субҳ нон мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "имрӯз",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "The baker bakes bread every morning.",
+        "The baker bakes bread every evening.",
+        "The cook bakes bread every morning.",
+        "The baker cooks bread every morning."
       ],
-      "answer": "имрӯз"
+      "answer": "The baker bakes bread every morning."
     },
     {
-      "q": "'tomorrow' чи маъно дорад?",
+      "q": "«Деҳқон дар киштзор кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "фардо",
-        "нодуруст B",
-        "нодуруст C"
+        "The farmer works in the field.",
+        "The farmer works in the garden.",
+        "The worker works in the field.",
+        "The farmer works on the farm."
       ],
-      "answer": "фардо"
+      "answer": "The farmer works in the field."
     },
     {
-      "q": "'yesterday' чи маъно дорад?",
+      "q": "«Бобои ман дар назди деҳа хоҷагии калон дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "дируз",
-        "нодуруст C",
-        "нодуруст B"
+        "My grandfather has a big farm near the village.",
+        "My grandfather has a big farm near the city.",
+        "My grandmother has a big farm near the village.",
+        "My grandfather has a small farm near the village."
       ],
-      "answer": "дируз"
+      "answer": "My grandfather has a big farm near the village."
     },
     {
-      "q": "'one' чи маъно дорад?",
+      "q": "«Ман тухмии хурдро ба замин мегузорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "як",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "I put a small seed in the ground.",
+        "I put a small seed in the garden.",
+        "I put a small stone in the ground.",
+        "I put a small seed on the ground."
       ],
-      "answer": "як"
+      "answer": "I put a small seed in the ground."
     },
     {
-      "q": "'two' чи маъно дорад?",
+      "q": "«Себ мева аст ва сабзӣ сабзавот аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "ду",
-        "нодуруст B"
+        "The apple is a fruit and the carrot is a vegetable.",
+        "The apple is a fruit and the carrot is a fruit.",
+        "The apple is a vegetable and the carrot is a vegetable.",
+        "The apple is a fruit and the potato is a vegetable."
       ],
-      "answer": "ду"
+      "answer": "The apple is a fruit and the carrot is a vegetable."
     },
     {
-      "q": "'three' чи маъно дорад?",
+      "q": "«Ҳосил дар тирамоҳ хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "се",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The harvest is good in autumn.",
+        "The harvest is good in spring.",
+        "The harvest is bad in autumn.",
+        "The harvest is good in summer."
       ],
-      "answer": "се"
+      "answer": "The harvest is good in autumn."
     },
     {
-      "q": "'four' чи маъно дорад?",
+      "q": "«Ӯ сабади себҳоро мебардорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "чор",
-        "нодуруст C",
-        "нодуруст A"
+        "She carries a basket of apples.",
+        "He carries a basket of apples.",
+        "She carries a basket of fruit.",
+        "She carries a bag of apples."
       ],
-      "answer": "чор"
+      "answer": "She carries a basket of apples."
     },
     {
-      "q": "'five' чи маъно дорад?",
+      "q": "«Ӯ ба нардбон мебарояд, то мева чинад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "панҷ",
-        "нодуруст B"
+        "He climbs the ladder to pick fruit.",
+        "She climbs the ladder to pick fruit.",
+        "He climbs the ladder to pick apples.",
+        "He climbs the tree to pick fruit."
       ],
-      "answer": "панҷ"
+      "answer": "He climbs the ladder to pick fruit."
     },
     {
-      "q": "'apple' чи маъно дорад?",
+      "q": "«Девор дар назди боғ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "себ"
+        "The fence is near the garden.",
+        "The fence is in the garden.",
+        "The fence is near the house.",
+        "The gate is near the garden."
       ],
-      "answer": "себ"
+      "answer": "The fence is near the garden."
     },
     {
-      "q": "'water' чи маъно дорад?",
+      "q": "«Деҳқон ба гов ва асп хӯрок медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "об",
-        "нодуруст C"
+        "The farmer feeds the cow and the horse.",
+        "The farmer feeds the horse and the cow.",
+        "The farmer feeds the cow and the sheep.",
+        "The farmer feeds the dog and the horse."
       ],
-      "answer": "об"
+      "answer": "The farmer feeds the cow and the horse."
     },
     {
-      "q": "'bread' чи маъно дорад?",
+      "q": "«Бибии ман сабзавотро мечинад ва ба сабад мегузорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "нон"
+        "My grandmother picks vegetables and puts them in the basket.",
+        "My grandmother picks fruit and puts them in the basket.",
+        "My mother picks vegetables and puts them in the basket.",
+        "My grandmother picks vegetables and puts them on the table."
       ],
-      "answer": "нон"
+      "answer": "My grandmother picks vegetables and puts them in the basket."
     },
     {
-      "q": "'a book' чи маъно дорад?",
+      "q": "«Нонвой нон мепазад ва модари ман хӯроки шом мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "китоб"
+        "The baker bakes bread, and my mother cooks dinner.",
+        "The baker bakes bread, and my mother cooks lunch.",
+        "The cook bakes bread, and my mother cooks dinner.",
+        "The baker bakes bread, and my grandmother cooks dinner."
       ],
-      "answer": "китоб"
+      "answer": "The baker bakes bread, and my mother cooks dinner."
     },
     {
-      "q": "'a pen' чи маъно дорад?",
+      "q": "«Мо дар боғи худ мева ва сабзавот парвариш мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "қалам",
-        "нодуруст C",
-        "нодуруст A"
+        "We grow fruit and vegetables in our garden.",
+        "We grow fruit and flowers in our garden.",
+        "We plant fruit and vegetables in our garden.",
+        "We grow fruit and vegetables in the field."
       ],
-      "answer": "қалам"
+      "answer": "We grow fruit and vegetables in our garden."
     },
     {
-      "q": "'a desk' чи маъно дорад?",
+      "q": "«Деҳқон аз субҳ то бегоҳ дар киштзор кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "мизи дарсӣ",
-        "нодуруст B"
+        "The farmer works in the field from morning to evening.",
+        "The farmer works in the field from morning to night.",
+        "The farmer works in the garden from morning to evening.",
+        "The worker works in the field from morning to evening."
       ],
-      "answer": "мизи дарсӣ"
+      "answer": "The farmer works in the field from morning to evening."
     },
     {
-      "q": "'a bag' чи маъно дорад?",
+      "q": "«Ман дар зимистон ба паррандаҳо дар боғ хӯрок медиҳам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "халта",
-        "нодуруст A"
+        "I feed the birds in the garden in winter.",
+        "I feed the birds in the garden in autumn.",
+        "I feed the cat in the garden in winter.",
+        "I feed the birds in the field in winter."
       ],
-      "answer": "халта"
+      "answer": "I feed the birds in the garden in winter."
     },
     {
-      "q": "'a cat' чи маъно дорад?",
+      "q": "«Ӯ меваро ба сабад дар назди девор мегузорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "гурба"
+        "She puts the fruit in the basket near the fence.",
+        "She puts the fruit in the basket near the tree.",
+        "He puts the fruit in the basket near the fence.",
+        "She puts the vegetables in the basket near the fence."
       ],
-      "answer": "гурба"
+      "answer": "She puts the fruit in the basket near the fence."
     },
     {
-      "q": "'a dog' чи маъно дорад?",
+      "q": "«Падари ман дар баҳор дар назди хона дарахт мешинонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "саг"
+        "My father plants a tree near the house in spring.",
+        "My father plants a tree near the house in autumn.",
+        "My grandfather plants a tree near the house in spring.",
+        "My father plants a flower near the house in spring."
       ],
-      "answer": "саг"
+      "answer": "My father plants a tree near the house in spring."
     },
     {
-      "q": "'red' чи маъно дорад?",
+      "q": "«Ҳосил дар сабад ва дар миз аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "сурх",
-        "нодуруст B"
+        "The harvest is in the basket and on the table.",
+        "The harvest is in the basket and on the desk.",
+        "The fruit is in the basket and on the table.",
+        "The harvest is in the bag and on the table."
       ],
-      "answer": "сурх"
+      "answer": "The harvest is in the basket and on the table."
     },
     {
-      "q": "'blue' чи маъно дорад?",
+      "q": "«Ӯ ба асп хӯрок медиҳад ва ӯ ба гов хӯрок медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "кабуд",
-        "нодуруст A"
+        "He feeds the horse, and she feeds the cow.",
+        "She feeds the horse, and he feeds the cow.",
+        "He feeds the horse, and she feeds the sheep.",
+        "He feeds the cow, and she feeds the horse."
       ],
-      "answer": "кабуд"
+      "answer": "He feeds the horse, and she feeds the cow."
     },
     {
-      "q": "'mother' чи маъно дорад?",
+      "q": "«Мо себҳоро мечинам ва онҳоро ба сабад дар назди нардбон мегузорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "модар"
+        "We pick apples and put them in the basket near the ladder.",
+        "We pick apples and put them in the basket near the fence.",
+        "We pick fruit and put them in the basket near the ladder.",
+        "We pick apples and put them in the bag near the ladder."
       ],
-      "answer": "модар"
-    },
-    {
-      "q": "'father' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "падар"
-      ],
-      "answer": "падар"
-    },
-    {
-      "q": "'sister' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "хоҳар",
-        "нодуруст C"
-      ],
-      "answer": "хоҳар"
-    },
-    {
-      "q": "'brother' чи маъно дорад?",
-      "options": [
-        "бародар",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "бародар"
-    },
-    {
-      "q": "'house' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "хона",
-        "нодуруст A"
-      ],
-      "answer": "хона"
-    },
-    {
-      "q": "'school' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "мактаб"
-      ],
-      "answer": "мактаб"
-    },
-    {
-      "q": "'teacher' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "омӯзгор",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "омӯзгор"
-    },
-    {
-      "q": "'pupil' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "хонанда",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "хонанда"
-    },
-    {
-      "q": "'good' чи маъно дорад?",
-      "options": [
-        "хуб",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "хуб"
-    },
-    {
-      "q": "'bad' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "бад",
-        "нодуруст C"
-      ],
-      "answer": "бад"
-    },
-    {
-      "q": "'big' чи маъно дорад?",
-      "options": [
-        "калон",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "калон"
-    },
-    {
-      "q": "'small' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "хурд",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "хурд"
-    },
-    {
-      "q": "'new' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "нав"
-      ],
-      "answer": "нав"
-    },
-    {
-      "q": "'old' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "кӯҳна"
-      ],
-      "answer": "кӯҳна"
-    },
-    {
-      "q": "'happy' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "хушбахт",
-        "нодуруст A"
-      ],
-      "answer": "хушбахт"
-    },
-    {
-      "q": "'sad' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "ғамгин",
-        "нодуруст A"
-      ],
-      "answer": "ғамгин"
-    },
-    {
-      "q": "'to read' чи маъно дорад?",
-      "options": [
-        "хондан",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "хондан"
+      "answer": "We pick apples and put them in the basket near the ladder."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 44
+  "wordsCount": 15
 }
