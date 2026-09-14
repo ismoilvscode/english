@@ -1,461 +1,582 @@
 {
   "id": 65,
-  "title": "Муоширати воқеӣ 65",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 65: Ҳуқуқ ва вазифаҳои мо",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "right",
+      "tj": "ҳуқуқ",
+      "ex": "Every child has the right to study."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "duty",
+      "tj": "вазифа",
+      "ex": "It is our duty to help our parents."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "law",
+      "tj": "қонун",
+      "ex": "We must follow the law of our country."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "rule",
+      "tj": "қоида",
+      "ex": "Every school has its own rules."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "freedom",
+      "tj": "озодӣ",
+      "ex": "Freedom is the most important thing for every person."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "to protect",
+      "tj": "муҳофизат кардан",
+      "ex": "The police protect people and their homes."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "to obey",
+      "tj": "итоат кардан",
+      "ex": "Children must obey their parents and teachers."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to punish",
+      "tj": "ҷазо додан",
+      "ex": "The law punishes those who do bad things."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "justice",
+      "tj": "адолат",
+      "ex": "We all want justice in our life."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to be guilty",
+      "tj": "гунаҳкор будан",
+      "ex": "The person who is guilty must be punished."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "to be innocent",
+      "tj": "бегуноҳ будан",
+      "ex": "The innocent person must be free."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "court",
+      "tj": "суд",
+      "ex": "The court decides who is right and who is wrong."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "judge",
+      "tj": "судя",
+      "ex": "The judge is a very wise and honest person."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "witness",
+      "tj": "шоҳид",
+      "ex": "The witness told the court the truth."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to vote",
+      "tj": "раъй додан",
+      "ex": "When I am eighteen, I will vote in the elections."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "election",
+      "tj": "интихобот",
+      "ex": "The election is held every five years."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 65)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Every child has the right to study, to play and to be happy.",
+      "tj": "Ҳар як кӯдак ҳуқуқ дорад, ки таҳсил кунад, бозӣ кунад ва хушбахт бошад."
     },
     {
-      "en": "I'm working on lesson 65",
-      "tj": "Ман дарси 65-ро меомӯзам"
+      "en": "It is our duty to help our parents and our old people.",
+      "tj": "Вазифаи мост, ки ба волидон ва пиронсолони худ кӯмак кунем."
+    },
+    {
+      "en": "We must follow the law of our country every day.",
+      "tj": "Мо бояд ҳар рӯз қонуни кишвари худро риоя кунем."
+    },
+    {
+      "en": "Every school and every family has its own rules.",
+      "tj": "Ҳар як мактаб ва ҳар як оила қоидаҳои худро дорад."
+    },
+    {
+      "en": "Freedom is the most important thing for every person.",
+      "tj": "Озодӣ барои ҳар як одам муҳимтарин чиз аст."
+    },
+    {
+      "en": "The police protect people, their homes and their property.",
+      "tj": "Милиса одамон, хонаҳо ва молу мулки онҳоро муҳофизат мекунад."
+    },
+    {
+      "en": "Children must obey their parents, their teachers and the law.",
+      "tj": "Кӯдакон бояд ба волидон, ба муаллимон ва ба қонун итоат кунанд."
+    },
+    {
+      "en": "The law punishes those people who do bad things.",
+      "tj": "Қонун он одамонеро ҷазо медиҳад, ки корҳои бад мекунанд."
+    },
+    {
+      "en": "We all want justice and peace in our life.",
+      "tj": "Ҳамаи мо адолат ва сулҳро дар ҳаёти худ мехоҳем."
+    },
+    {
+      "en": "The person who is guilty must be punished, and the innocent person must be free.",
+      "tj": "Одаме, ки гунаҳкор аст, бояд ҷазо бинад ва одами бегуноҳ бояд озод бошад."
+    },
+    {
+      "en": "The court decides who is right and who is wrong.",
+      "tj": "Суд қарор мекунад, ки кӣ ҳақ аст ва кӣ хато мекунад."
+    },
+    {
+      "en": "The judge is a very wise and honest person.",
+      "tj": "Судя одами хеле доно ва ростқавл аст."
+    },
+    {
+      "en": "The witness told the court the whole truth.",
+      "tj": "Шоҳид ба суд тамоми ҳақиқатро нақл кард."
+    },
+    {
+      "en": "When I am eighteen, I will vote in the elections.",
+      "tj": "Вақте ки ман ҳаждаҳсола мешавам, ман дар интихобот раъй медиҳам."
+    },
+    {
+      "en": "The election is held in our country every five years.",
+      "tj": "Интихобот дар кишвари мо ҳар панҷ сол баргузор мешавад."
+    },
+    {
+      "en": "A good citizen knows his rights and his duties very well.",
+      "tj": "Шаҳрванди хуб ҳуқуқҳо ва вазифаҳои худро хеле хуб медонад."
     }
   ],
   "text": {
-    "en": "Text for lesson 65. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 65 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 65 text.",
-    "tj": "Матни дарси 65..."
+    "en": "Our Rights and Duties\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. Every person has rights and duties. Rights are the things that we can do or that we must have. Duties are the things that we must do. Rights and duties go together. If we want to have rights, we must also do our duties. Today I want to tell you about our rights and our duties.\n\nEvery child in the world has rights. Every child has the right to live, the right to study, the right to play, the right to be healthy and the right to be happy. Every child has the right to have a family and a home. Every child has the right to be protected from danger. These rights are written in a special document — the Convention on the Rights of the Child. Our country Tajikistan also signed this document, so our children have these rights too.\n\nBut every right also brings a duty. If we have the right to study, we also have the duty to study well. If we have the right to play, we have the duty to play nicely and not to hurt other children. If we have the right to have a family, we have the duty to help our family. If we have the right to be protected, we have the duty to protect others — small children, old people and animals.\n\nEvery country has its own laws. The law is a set of rules that all people must follow. The law tells us what we can do and what we cannot do. For example, we cannot steal other people's things. We cannot hurt other people. We cannot break other people's property. If a person breaks the law, he must be punished. The court decides how to punish him. The judge is a very wise and honest person who knows the law very well.\n\nEvery school has its own rules. In our school, for example, pupils must come to school on time. Pupils must do their homework. Pupils must be polite to their teachers and to each other. Pupils must not run in the corridors or shout loudly. These rules help us to study well and to be safe.\n\nEvery family also has its own rules. In our family, for example, we must help our mother in the kitchen. We must keep our rooms clean. We must not watch TV late in the evening. We must not talk rudely to our parents. These rules help us to live in peace and love.\n\nWhen I grow up, I will become a citizen of my country. A citizen is a person who lives in a country and who has rights and duties in this country. A good citizen loves his country and follows its laws. A good citizen votes in the elections. The election is a special day when the people choose their government. In our country the election is held every five years. When I am eighteen years old, I will also vote in the elections.\n\nA good citizen also protects his country and its nature. He does not throw rubbish in the streets. He does not cut down trees. He does not hurt animals. He helps old people and small children. He respects his teachers and his parents. He works hard and studies well. Because the future of the country depends on its citizens.\n\nFreedom is very important for every person. Freedom means that we can do what we want — but only if we do not hurt other people. My grandfather says: \"My freedom ends where the freedom of another person begins.\" This is a very wise saying. We are free, but we are also responsible. We must always think about other people.\n\nWhen I grow up, I want to be a good citizen. I want to know my rights and my duties very well. I want to obey the law. I want to help my country and my people. And I want to teach my children: your rights are important, but your duties are equally important. Because only a good person can build a good country.",
+    "tj": "Ҳуқуқ ва вазифаҳои мо\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Ҳар як одам ҳуқуқ ва вазифаҳо дорад. Ҳуқуқҳо он чизҳое ҳастанд, ки мо метавонем кунем ё ки мо бояд дошта бошем. Вазифаҳо он чизҳое ҳастанд, ки мо бояд кунем. Ҳуқуқҳо ва вазифаҳо якҷоя мераванд. Агар мо ҳуқуқ доштани хоҳем, мо бояд инчунин вазифаҳои худро иҷро кунем. Имрӯз ман мехоҳам ба шумо дар бораи ҳуқуқҳо ва вазифаҳои худ нақл кунам.\n\nҲар як кӯдак дар ҷаҳон ҳуқуқ дорад. Ҳар як кӯдак ҳуқуқ дорад, ки зиндагӣ кунад, таҳсил кунад, бозӣ кунад, солим бошад ва хушбахт бошад. Ҳар як кӯдак ҳуқуқ дорад, ки оила ва хона дошта бошад. Ҳар як кӯдак ҳуқуқ дорад, ки аз хатар муҳофизат шавад. Ин ҳуқуқҳо дар ҳуҷҷати махсус навишта шудаанд — Конвенсияи Ҳуқуқҳои Кӯдак. Кишвари мо Тоҷикистон низ ин ҳуҷҷатро имзо кардааст, бинобар ин кӯдакони мо низ ин ҳуқуқҳоро доранд.\n\nАммо ҳар як ҳуқуқ инчунин вазифа меорад. Агар мо ҳуқуқ дорем, ки таҳсил кунем, мо инчунин вазифа дорем, ки хуб таҳсил кунем. Агар мо ҳуқуқ дорем, ки бозӣ кунем, мо вазифа дорем, ки хуб бозӣ кунем ва ба кӯдакони дигар зарар нарасонем. Агар мо ҳуқуқ дорем, ки оила дошта бошем, мо вазифа дорем, ки ба оилаамон кӯмак кунем. Агар мо ҳуқуқ дорем, ки муҳофизат шавем, мо вазифа дорем, ки дигаронро муҳофизат кунем — кӯдакони хурд, пиронсолон ва ҳайвонотро.\n\nҲар як кишвар қонунҳои худро дорад. Қонун маҷмӯи қоидаҳоест, ки ҳамаи одамон бояд риоя кунанд. Қонун ба мо мегӯяд, ки мо чӣ кор карда метавонем ва чӣ кор карда наметавонем. Масалан, мо наметавонем чизҳои одамони дигарро дуздем. Мо наметавонем ба одамони дигар зарар расонем. Мо наметавонем молу мулки одамони дигарро вайрон кунем. Агар одам қонунро вайрон кунад, ӯ бояд ҷазо бинад. Суд қарор мекунад, ки ӯро чӣ тавр ҷазо диҳад. Судя одами хеле доно ва ростқавлест, ки қонунро хеле хуб медонад.\n\nҲар як мактаб қоидаҳои худро дорад. Дар мактаби мо, масалан, хонандагон бояд сари вақт ба мактаб оянд. Хонандагон бояд вазифаи хонагии худро иҷро кунанд. Хонандагон бояд ба муаллимони худ ва ба якдигар боадаб бошанд. Хонандагон набояд дар долонҳо даванд ё баланд дод зананд. Ин қоидаҳо ба мо кӯмак мекунанд, ки хуб таҳсил кунем ва бехатар бошем.\n\nҲар як оила инчунин қоидаҳои худро дорад. Дар оилаи мо, масалан, мо бояд ба модарам дар ошхона кӯмак кунем. Мо бояд ҳуҷраҳои худро тоза нигоҳ дорем. Мо набояд бегоҳҳои дер телевизор тамошо кунем. Мо набояд ба волидонамон беадабона гап занем. Ин қоидаҳо ба мо кӯмак мекунанд, ки дар сулҳ ва муҳаббат зиндагӣ кунем.\n\nВақте ки ман калон мешавам, ман шаҳрванди кишвари худ мешавам. Шаҳрванд одамест, ки дар як кишвар зиндагӣ мекунад ва дар ин кишвар ҳуқуқ ва вазифаҳо дорад. Шаҳрванди хуб кишвари худро дӯст медорад ва қонунҳои онро риоя мекунад. Шаҳрванди хуб дар интихобот раъй медиҳад. Интихобот рӯзи махсусест, ки мардум ҳукумати худро интихоб мекунанд. Дар кишвари мо интихобот ҳар панҷ сол баргузор мешавад. Вақте ки ман ҳаждаҳсола мешавам, ман низ дар интихобот раъй медиҳам.\n\nШаҳрванди хуб инчунин кишвари худ ва табиати онро муҳофизат мекунад. Ӯ дар кӯчаҳо ахлот намепартояд. Ӯ дарахтонро намебурад. Ӯ ба ҳайвонот зарар намерасонад. Ӯ ба пиронсолон ва кӯдакони хурд кӯмак мекунад. Ӯ муаллимони худ ва волидонашро эҳтиром мекунад. Ӯ бо ҷидду ҷаҳд кор мекунад ва хуб таҳсил мекунад. Зеро ки ояндаи кишвар ба шаҳрвандони он вобаста аст.\n\nОзодӣ барои ҳар як одам хеле муҳим аст. Озодӣ маънои онро дорад, ки мо метавонем он чиро, ки мехоҳем, кунем — аммо танҳо агар мо ба одамони дигар зарар нарасонем. Бобоям мегӯяд: «Озодии ман дар он ҷое тамом мешавад, ки озодии одами дигар оғоз меёбад.» Ин сухани хеле доно аст. Мо озод ҳастем, аммо мо инчунин масъул ҳастем. Мо бояд ҳамеша дар бораи одамони дигар фикр кунем.\n\nВақте ки ман калон мешавам, ман мехоҳам шаҳрванди хуб бошам. Ман мехоҳам ҳуқуқҳо ва вазифаҳои худро хеле хуб донам. Ман мехоҳам қонунро риоя кунам. Ман мехоҳам ба кишвар ва мардуми худ кӯмак кунам. Ва ман мехоҳам ба кӯдаконам омӯзонам: ҳуқуқҳои шумо муҳим ҳастанд, аммо вазифаҳои шумо низ ба ҳамон андоза муҳим ҳастанд. Зеро ки танҳо одами хуб метавонад кишвари хубро созад."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ҳар як кӯдак ҳуқуқ дорад, ки таҳсил кунад, бозӣ кунад ва хушбахт бошад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Every child has the right to study, to play and to be happy.",
+        "Every child has the right to study, play and be happy.",
+        "Every child has a right to study, to play and to be happy.",
+        "Every child has the right to study, to play and be happy."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Every child has the right to study, to play and to be happy."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Вазифаи мост, ки ба волидон ва пиронсолони худ кӯмак кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст B"
+        "It is our duty to help our parents and our old people.",
+        "It is our duty to help parents and old people.",
+        "It is a duty of ours to help our parents and our old people.",
+        "It is our duty to help our parents and old people."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "It is our duty to help our parents and our old people."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Мо бояд ҳар рӯз қонуни кишвари худро риоя кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: environment"
+        "We must follow the law of our country every day.",
+        "We must follow the law of our country each day.",
+        "We must obey the law of our country every day.",
+        "We must follow the law of the country every day."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "We must follow the law of our country every day."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ҳар як мактаб ва ҳар як оила қоидаҳои худро дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: communication",
-        "нодуруст C"
+        "Every school and every family has its own rules.",
+        "Every school and family has its own rules.",
+        "Each school and every family has its own rules.",
+        "Every school and every family has its rules."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "Every school and every family has its own rules."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Озодӣ барои ҳар як одам муҳимтарин чиз аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст A",
-        "нодуруст B"
+        "Freedom is the most important thing for every person.",
+        "Freedom is the most important thing for every man.",
+        "The freedom is the most important thing for every person.",
+        "Freedom is the most important thing for each person."
       ],
-      "answer": "тарҷума: education"
+      "answer": "Freedom is the most important thing for every person."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Милиса одамон, хонаҳо ва молу мулки онҳоро муҳофизат мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: development"
+        "The police protect people, their homes and their property.",
+        "Police protect people, their homes and their property.",
+        "The police protects people, their homes and their property.",
+        "The police protect the people, their homes and their property."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The police protect people, their homes and their property."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Кӯдакон бояд ба волидон, ба муаллимон ва ба қонун итоат кунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст B"
+        "Children must obey their parents, their teachers and the law.",
+        "Children must obey parents, their teachers and the law.",
+        "Children must obey their parents, teachers and the law.",
+        "Children should obey their parents, their teachers and the law."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "Children must obey their parents, their teachers and the law."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Қонун он одамонеро ҷазо медиҳад, ки корҳои бад мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The law punishes those people who do bad things.",
+        "The law punishes those who do bad things.",
+        "The law punishes the people who do bad things.",
+        "The law punishes those people that do bad things."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The law punishes those people who do bad things."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Ҳамаи мо адолат ва сулҳро дар ҳаёти худ мехоҳем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: knowledge",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "We all want justice and peace in our life.",
+        "We all want justice and peace in our lives.",
+        "All of us want justice and peace in our life.",
+        "We all want justice and peace in life."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "We all want justice and peace in our life."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Одаме, ки гунаҳкор аст, бояд ҷазо бинад ва одами бегуноҳ бояд озод бошад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: conversation",
-        "нодуруст A"
+        "The person who is guilty must be punished, and the innocent person must be free.",
+        "The person who is guilty must be punished and the innocent person must be free.",
+        "A person who is guilty must be punished, and the innocent person must be free.",
+        "The person who is guilty must be punished, and an innocent person must be free."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The person who is guilty must be punished, and the innocent person must be free."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Суд қарор мекунад, ки кӣ ҳақ аст ва кӣ хато мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: fluency",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The court decides who is right and who is wrong.",
+        "The court decides who is right and who is wrong.",
+        "A court decides who is right and who is wrong.",
+        "The court decides who is right and who is not right."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "The court decides who is right and who is wrong."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Судя одами хеле доно ва ростқавл аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст B",
-        "нодуруст C"
+        "The judge is a very wise and honest person.",
+        "The judge is a very wise and honest man.",
+        "A judge is a very wise and honest person.",
+        "The judge is the very wise and honest person."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "The judge is a very wise and honest person."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Шоҳид ба суд тамоми ҳақиқатро нақл кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: pronunciation",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "The witness told the court the whole truth.",
+        "The witness told the court the whole truth.",
+        "A witness told the court the whole truth.",
+        "The witness said to the court the whole truth."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "The witness told the court the whole truth."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Вақте ки ман ҳаждаҳсола мешавам, ман дар интихобот раъй медиҳам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: vocabulary"
+        "When I am eighteen, I will vote in the elections.",
+        "When I am eighteen years old, I will vote in the elections.",
+        "When I am eighteen, I will vote in elections.",
+        "When I will be eighteen, I will vote in the elections."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "When I am eighteen, I will vote in the elections."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Интихобот дар кишвари мо ҳар панҷ сол баргузор мешавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: grammar",
-        "нодуруст A",
-        "нодуруст C"
+        "The election is held in our country every five years.",
+        "The election is held in our country each five years.",
+        "Elections are held in our country every five years.",
+        "The election is held in the country every five years."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "The election is held in our country every five years."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Шаҳрванди хуб ҳуқуқҳо ва вазифаҳои худро хеле хуб медонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: opportunity"
+        "A good citizen knows his rights and his duties very well.",
+        "A good citizen knows his rights and duties very well.",
+        "The good citizen knows his rights and his duties very well.",
+        "A good citizen knows his rights and his duties well."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "A good citizen knows his rights and his duties very well."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ҳар як одам ҳуқуқ ва вазифаҳо дорад. Ҳуқуқҳо он чизҳое ҳастанд, ки мо метавонем кунем ё ки мо бояд дошта бошем. Вазифаҳо он чизҳое ҳастанд, ки мо бояд кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст C"
+        "Every person has rights and duties. Rights are the things that we can do or that we must have. Duties are the things that we must do.",
+        "Every person has rights and duties. Rights are the things that we can do or that we must have. Duties are things that we must do.",
+        "Each person has rights and duties. Rights are the things that we can do or that we must have. Duties are the things that we must do.",
+        "Every person has rights and duties. The rights are the things that we can do or that we must have. Duties are the things that we must do."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "Every person has rights and duties. Rights are the things that we can do or that we must have. Duties are the things that we must do."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ҳуқуқҳо ва вазифаҳо якҷоя мераванд. Агар мо ҳуқуқ доштани хоҳем, мо бояд инчунин вазифаҳои худро иҷро кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: environment",
-        "нодуруст A"
+        "Rights and duties go together. If we want to have rights, we must also do our duties.",
+        "Rights and duties go together. If we want to have rights, we must do our duties too.",
+        "Rights and duties go together. If we want to have rights we must also do our duties.",
+        "The rights and duties go together. If we want to have rights, we must also do our duties."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Rights and duties go together. If we want to have rights, we must also do our duties."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Имрӯз ман мехоҳам ба шумо дар бораи ҳуқуқҳо ва вазифаҳои худ нақл кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст B"
+        "Today I want to tell you about our rights and our duties.",
+        "Today I want to tell you about our rights and duties.",
+        "Today I want to tell you about our rights and our duties.",
+        "Today I want to speak to you about our rights and our duties."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "Today I want to tell you about our rights and our duties."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ҳар як кӯдак дар ҷаҳон ҳуқуқ дорад. Ҳар як кӯдак ҳуқуқ дорад, ки зиндагӣ кунад, таҳсил кунад, бозӣ кунад, солим бошад ва хушбахт бошад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: education",
-        "нодуруст C"
+        "Every child in the world has rights. Every child has the right to live, the right to study, the right to play, the right to be healthy and the right to be happy.",
+        "Every child in the world has rights. Every child has the right to live, to study, to play, to be healthy and to be happy.",
+        "Every child in the world has rights. Every child has the right to live, the right to study, the right to play, the right to be healthy and the right to be happy.",
+        "Every child in the world has rights. Each child has the right to live, the right to study, the right to play, the right to be healthy and the right to be happy."
       ],
-      "answer": "тарҷума: education"
+      "answer": "Every child in the world has rights. Every child has the right to live, the right to study, the right to play, the right to be healthy and the right to be happy."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Ҳар як кӯдак ҳуқуқ дорад, ки оила ва хона дошта бошад. Ҳар як кӯдак ҳуқуқ дорад, ки аз хатар муҳофизат шавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: development",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Every child has the right to have a family and a home. Every child has the right to be protected from danger.",
+        "Every child has the right to have a family and a home. Every child has the right to be protected from the danger.",
+        "Each child has the right to have a family and a home. Every child has the right to be protected from danger.",
+        "Every child has the right to have a family and a home. Every child has a right to be protected from danger."
       ],
-      "answer": "тарҷума: development"
+      "answer": "Every child has the right to have a family and a home. Every child has the right to be protected from danger."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ин ҳуқуқҳо дар ҳуҷҷати махсус навишта шудаанд — Конвенсияи Ҳуқуқҳои Кӯдак. Кишвари мо Тоҷикистон низ ин ҳуҷҷатро имзо кардааст, бинобар ин кӯдакони мо низ ин ҳуқуқҳоро доранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст B",
-        "нодуруст C"
+        "These rights are written in a special document — the Convention on the Rights of the Child. Our country Tajikistan also signed this document, so our children have these rights too.",
+        "These rights are written in a special document — the Convention on the Rights of the Child. Our country Tajikistan also signed this document, that is why our children have these rights too.",
+        "These rights are written in a special document — the Convention on the Rights of the Child. Our country Tajikistan signed this document too, so our children have these rights too.",
+        "These rights are written in a special document — the Convention on the Rights of the Child. Our country, Tajikistan, also signed this document, so our children have these rights too."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "These rights are written in a special document — the Convention on the Rights of the Child. Our country Tajikistan also signed this document, so our children have these rights too."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Аммо ҳар як ҳуқуқ инчунин вазифа меорад. Агар мо ҳуқуқ дорем, ки таҳсил кунем, мо инчунин вазифа дорем, ки хуб таҳсил кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: challenge",
-        "нодуруст B"
+        "But every right also brings a duty. If we have the right to study, we also have the duty to study well.",
+        "But every right also brings a duty. If we have the right to study we also have the duty to study well.",
+        "But each right also brings a duty. If we have the right to study, we also have the duty to study well.",
+        "But every right also brings a duty. If we have a right to study, we also have the duty to study well."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "But every right also brings a duty. If we have the right to study, we also have the duty to study well."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Агар мо ҳуқуқ дорем, ки бозӣ кунем, мо вазифа дорем, ки хуб бозӣ кунем ва ба кӯдакони дигар зарар нарасонем. Агар мо ҳуқуқ дорем, ки оила дошта бошем, мо вазифа дорем, ки ба оилаамон кӯмак кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: knowledge",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "If we have the right to play, we have the duty to play nicely and not to hurt other children. If we have the right to have a family, we have the duty to help our family.",
+        "If we have the right to play, we have the duty to play nicely and not to hurt other children. If we have the right to have a family, we have the duty to help our family.",
+        "If we have the right to play, we have the duty to play nicely and not to hurt the other children. If we have the right to have a family, we have the duty to help our family.",
+        "If we have the right to play we have the duty to play nicely and not to hurt other children. If we have the right to have a family, we have the duty to help our family."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "If we have the right to play, we have the duty to play nicely and not to hurt other children. If we have the right to have a family, we have the duty to help our family."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Агар мо ҳуқуқ дорем, ки муҳофизат шавем, мо вазифа дорем, ки дигаронро муҳофизат кунем — кӯдакони хурд, пиронсолон ва ҳайвонотро» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: conversation",
-        "нодуруст B"
+        "If we have the right to be protected, we have the duty to protect others — small children, old people and animals.",
+        "If we have the right to be protected we have the duty to protect others — small children, old people and animals.",
+        "If we have the right to be protected, we have the duty to protect others: small children, old people and animals.",
+        "If we have the right to be protected, we have the duty to protect the others — small children, old people and animals."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "If we have the right to be protected, we have the duty to protect others — small children, old people and animals."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ҳар як кишвар қонунҳои худро дорад. Қонун маҷмӯи қоидаҳоест, ки ҳамаи одамон бояд риоя кунанд. Қонун ба мо мегӯяд, ки мо чӣ кор карда метавонем ва чӣ кор карда наметавонем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: fluency"
+        "Every country has its own laws. The law is a set of rules that all people must follow. The law tells us what we can do and what we cannot do.",
+        "Every country has its own laws. The law is a set of rules which all people must follow. The law tells us what we can do and what we cannot do.",
+        "Each country has its own laws. The law is a set of rules that all people must follow. The law tells us what we can do and what we cannot do.",
+        "Every country has its laws. The law is a set of rules that all people must follow. The law tells us what we can do and what we cannot do."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "Every country has its own laws. The law is a set of rules that all people must follow. The law tells us what we can do and what we cannot do."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Масалан, мо наметавонем чизҳои одамони дигарро дуздем. Мо наметавонем ба одамони дигар зарар расонем. Мо наметавонем молу мулки одамони дигарро вайрон кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст B"
+        "For example, we cannot steal other people's things. We cannot hurt other people. We cannot break other people's property.",
+        "For example, we cannot steal the things of other people. We cannot hurt other people. We cannot break the property of other people.",
+        "For example, we cannot steal other people's things. We cannot hurt the other people. We cannot break other people's property.",
+        "For example, we cannot steal other people's things, we cannot hurt other people, we cannot break other people's property."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "For example, we cannot steal other people's things. We cannot hurt other people. We cannot break other people's property."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Агар одам қонунро вайрон кунад, ӯ бояд ҷазо бинад. Суд қарор мекунад, ки ӯро чӣ тавр ҷазо диҳад. Судя одами хеле доно ва ростқавлест, ки қонунро хеле хуб медонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: pronunciation"
+        "If a person breaks the law, he must be punished. The court decides how to punish him. The judge is a very wise and honest person who knows the law very well.",
+        "If a person breaks the law he must be punished. The court decides how to punish him. The judge is a very wise and honest person who knows the law very well.",
+        "If a man breaks the law, he must be punished. The court decides how to punish him. The judge is a very wise and honest person who knows the law very well.",
+        "If a person breaks the law, he must be punished. A court decides how to punish him. The judge is a very wise and honest person who knows the law very well."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "If a person breaks the law, he must be punished. The court decides how to punish him. The judge is a very wise and honest person who knows the law very well."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ҳар як мактаб қоидаҳои худро дорад. Дар мактаби мо, масалан, хонандагон бояд сари вақт ба мактаб оянд. Хонандагон бояд вазифаи хонагии худро иҷро кунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: vocabulary"
+        "Every school has its own rules. In our school, for example, pupils must come to school on time. Pupils must do their homework.",
+        "Every school has its own rules. In our school for example, pupils must come to school on time. Pupils must do their homework.",
+        "Each school has its own rules. In our school, for example, pupils must come to school on time. Pupils must do their homework.",
+        "Every school has its rules. In our school, for example, pupils must come to school on time. Pupils must do their homework."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "Every school has its own rules. In our school, for example, pupils must come to school on time. Pupils must do their homework."
+    },
+    {
+      "q": "«Хонандагон бояд ба муаллимони худ ва ба якдигар боадаб бошанд. Хонандагон набояд дар долонҳо даванд ё баланд дод зананд. Ин қоидаҳо ба мо кӯмак мекунанд, ки хуб таҳсил кунем ва бехатар бошем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Pupils must be polite to their teachers and to each other. Pupils must not run in the corridors or shout loudly. These rules help us to study well and to be safe.",
+        "Pupils must be polite to their teachers and each other. Pupils must not run in the corridors or shout loudly. These rules help us to study well and to be safe.",
+        "Pupils must be polite to the teachers and to each other. Pupils must not run in the corridors or shout loudly. These rules help us to study well and to be safe.",
+        "Pupils must be polite to their teachers and to each other. Pupils must not run in corridors or shout loudly. These rules help us to study well and to be safe."
+      ],
+      "answer": "Pupils must be polite to their teachers and to each other. Pupils must not run in the corridors or shout loudly. These rules help us to study well and to be safe."
+    },
+    {
+      "q": "«Ҳар як оила инчунин қоидаҳои худро дорад. Дар оилаи мо, масалан, мо бояд ба модарам дар ошхона кӯмак кунем. Мо бояд ҳуҷраҳои худро тоза нигоҳ дорем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Every family also has its own rules. In our family, for example, we must help our mother in the kitchen. We must keep our rooms clean.",
+        "Every family also has its own rules. In our family for example, we must help our mother in the kitchen. We must keep our rooms clean.",
+        "Each family also has its own rules. In our family, for example, we must help our mother in the kitchen. We must keep our rooms clean.",
+        "Every family has its own rules too. In our family, for example, we must help our mother in the kitchen. We must keep our rooms clean."
+      ],
+      "answer": "Every family also has its own rules. In our family, for example, we must help our mother in the kitchen. We must keep our rooms clean."
+    },
+    {
+      "q": "«Мо набояд бегоҳҳои дер телевизор тамошо кунем. Мо набояд ба волидонамон беадабона гап занем. Ин қоидаҳо ба мо кӯмак мекунанд, ки дар сулҳ ва муҳаббат зиндагӣ кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must not watch TV late in the evening. We must not talk rudely to our parents. These rules help us to live in peace and love.",
+        "We must not watch TV late in the evening. We must not talk rudely to our parents. These rules help us live in peace and love.",
+        "We mustn't watch TV late in the evening. We mustn't talk rudely to our parents. These rules help us to live in peace and love.",
+        "We must not watch TV late in the evening. We must not speak rudely to our parents. These rules help us to live in peace and love."
+      ],
+      "answer": "We must not watch TV late in the evening. We must not talk rudely to our parents. These rules help us to live in peace and love."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман шаҳрванди кишвари худ мешавам. Шаҳрванд одамест, ки дар як кишвар зиндагӣ мекунад ва дар ин кишвар ҳуқуқ ва вазифаҳо дорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I will become a citizen of my country. A citizen is a person who lives in a country and who has rights and duties in this country.",
+        "When I grow up, I will become a citizen of my country. A citizen is a person who lives in a country and has rights and duties in this country.",
+        "When I grow up I will become a citizen of my country. A citizen is a person who lives in a country and who has rights and duties in this country.",
+        "When I grow up, I will become the citizen of my country. A citizen is a person who lives in a country and who has rights and duties in this country."
+      ],
+      "answer": "When I grow up, I will become a citizen of my country. A citizen is a person who lives in a country and who has rights and duties in this country."
+    },
+    {
+      "q": "«Шаҳрванди хуб кишвари худро дӯст медорад ва қонунҳои онро риоя мекунад. Шаҳрванди хуб дар интихобот раъй медиҳад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "A good citizen loves his country and follows its laws. A good citizen votes in the elections.",
+        "A good citizen loves his country and follows its laws. A good citizen votes in elections.",
+        "The good citizen loves his country and follows its laws. A good citizen votes in the elections.",
+        "A good citizen loves his country and follows its laws. A good citizen votes at the elections."
+      ],
+      "answer": "A good citizen loves his country and follows its laws. A good citizen votes in the elections."
+    },
+    {
+      "q": "«Интихобот рӯзи махсусест, ки мардум ҳукумати худро интихоб мекунанд. Дар кишвари мо интихобот ҳар панҷ сол баргузор мешавад. Вақте ки ман ҳаждаҳсола мешавам, ман низ дар интихобот раъй медиҳам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The election is a special day when the people choose their government. In our country the election is held every five years. When I am eighteen years old, I will also vote in the elections.",
+        "The election is a special day when the people choose their government. In our country the election is held every five years. When I am eighteen years old I will also vote in the elections.",
+        "The election is a special day when people choose their government. In our country the election is held every five years. When I am eighteen years old, I will also vote in the elections.",
+        "The election is a special day when the people choose their government. In our country the election is held every five years. When I am eighteen years old, I will vote in the elections too."
+      ],
+      "answer": "The election is a special day when the people choose their government. In our country the election is held every five years. When I am eighteen years old, I will also vote in the elections."
+    },
+    {
+      "q": "«Шаҳрванди хуб инчунин кишвари худ ва табиати онро муҳофизат мекунад. Ӯ дар кӯчаҳо ахлот намепартояд. Ӯ дарахтонро намебурад. Ӯ ба ҳайвонот зарар намерасонад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "A good citizen also protects his country and its nature. He does not throw rubbish in the streets. He does not cut down trees. He does not hurt animals.",
+        "A good citizen also protects his country and its nature. He does not throw rubbish in the streets. He does not cut down the trees. He does not hurt animals.",
+        "A good citizen protects his country and its nature too. He does not throw rubbish in the streets. He does not cut down trees. He does not hurt animals.",
+        "A good citizen also protects his country and its nature. He doesn't throw rubbish in the streets. He doesn't cut down trees. He doesn't hurt animals."
+      ],
+      "answer": "A good citizen also protects his country and its nature. He does not throw rubbish in the streets. He does not cut down trees. He does not hurt animals."
+    },
+    {
+      "q": "«Ӯ ба пиронсолон ва кӯдакони хурд кӯмак мекунад. Ӯ муаллимони худ ва волидонашро эҳтиром мекунад. Ӯ бо ҷидду ҷаҳд кор мекунад ва хуб таҳсил мекунад. Зеро ки ояндаи кишвар ба шаҳрвандони он вобаста аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He helps old people and small children. He respects his teachers and his parents. He works hard and studies well. Because the future of the country depends on its citizens.",
+        "He helps old people and small children. He respects his teachers and parents. He works hard and studies well. Because the future of the country depends on its citizens.",
+        "He helps the old people and small children. He respects his teachers and his parents. He works hard and studies well. Because the future of the country depends on its citizens.",
+        "He helps old people and small children. He respects his teachers and his parents. He works hard and studies well. Because the future of a country depends on its citizens."
+      ],
+      "answer": "He helps old people and small children. He respects his teachers and his parents. He works hard and studies well. Because the future of the country depends on its citizens."
+    },
+    {
+      "q": "«Озодӣ барои ҳар як одам хеле муҳим аст. Озодӣ маънои онро дорад, ки мо метавонем он чиро, ки мехоҳем, кунем — аммо танҳо агар мо ба одамони дигар зарар нарасонем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Freedom is very important for every person. Freedom means that we can do what we want — but only if we do not hurt other people.",
+        "Freedom is very important for every person. Freedom means that we can do what we want, but only if we do not hurt other people.",
+        "Freedom is very important to every person. Freedom means that we can do what we want — but only if we do not hurt other people.",
+        "Freedom is very important for every person. Freedom means that we can do what we want — but only if we don't hurt other people."
+      ],
+      "answer": "Freedom is very important for every person. Freedom means that we can do what we want — but only if we do not hurt other people."
+    },
+    {
+      "q": "«Бобоям мегӯяд: \"Озодии ман дар он ҷое тамом мешавад, ки озодии одами дигар оғоз меёбад.\" Ин сухани хеле доно аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandfather says: \"My freedom ends where the freedom of another person begins.\" This is a very wise saying.",
+        "My grandfather says: \"My freedom ends where the freedom of another person begins.\" This is a very wise saying.",
+        "My grandfather says: \"My freedom ends where the freedom of the other person begins.\" This is a very wise saying.",
+        "My grandfather says: \"My freedom ends where another person's freedom begins.\" This is a very wise saying."
+      ],
+      "answer": "My grandfather says: \"My freedom ends where the freedom of another person begins.\" This is a very wise saying."
+    },
+    {
+      "q": "«Мо озод ҳастем, аммо мо инчунин масъул ҳастем. Мо бояд ҳамеша дар бораи одамони дигар фикр кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We are free, but we are also responsible. We must always think about other people.",
+        "We are free but we are also responsible. We must always think about other people.",
+        "We are free, but we are also responsible. We must always think of other people.",
+        "We are free, but we are responsible too. We must always think about other people."
+      ],
+      "answer": "We are free, but we are also responsible. We must always think about other people."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам шаҳрванди хуб бошам. Ман мехоҳам ҳуқуқҳо ва вазифаҳои худро хеле хуб донам. Ман мехоҳам қонунро риоя кунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to be a good citizen. I want to know my rights and my duties very well. I want to obey the law.",
+        "When I grow up I want to be a good citizen. I want to know my rights and my duties very well. I want to obey the law.",
+        "When I grow up, I want to become a good citizen. I want to know my rights and my duties very well. I want to obey the law.",
+        "When I grow up, I want to be a good citizen. I want to know my rights and duties very well. I want to obey the law."
+      ],
+      "answer": "When I grow up, I want to be a good citizen. I want to know my rights and my duties very well. I want to obey the law."
+    },
+    {
+      "q": "«Ман мехоҳам ба кишвар ва мардуми худ кӯмак кунам. Ва ман мехоҳам ба кӯдаконам омӯзонам: ҳуқуқҳои шумо муҳим ҳастанд, аммо вазифаҳои шумо низ ба ҳамон андоза муҳим ҳастанд. Зеро ки танҳо одами хуб метавонад кишвари хубро созад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to help my country and my people. And I want to teach my children: your rights are important, but your duties are equally important. Because only a good person can build a good country.",
+        "I want to help my country and my people. And I want to teach my children: your rights are important but your duties are equally important. Because only a good person can build a good country.",
+        "I want to help my country and my people. And I want to teach my children that your rights are important, but your duties are equally important. Because only a good person can build a good country.",
+        "I want to help my country and my people. And I want to teach my children: your rights are important, but your duties are equally important. Because only a good person can build a good country."
+      ],
+      "answer": "I want to help my country and my people. And I want to teach my children: your rights are important, but your duties are equally important. Because only a good person can build a good country."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 29
+  "wordsCount": 16
 }
