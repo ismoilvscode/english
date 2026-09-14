@@ -1,431 +1,612 @@
 {
   "id": 58,
-  "title": "Муоширати воқеӣ 58",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 58: Ҷаҳони растаниҳо ва гулҳо",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "plant",
+      "tj": "растанӣ",
+      "ex": "There are many kinds of plants in our garden."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "root",
+      "tj": "реша",
+      "ex": "The root of the tree is very deep."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "stem",
+      "tj": "поя",
+      "ex": "The stem of the flower is thin and green."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "leaf",
+      "tj": "барг",
+      "ex": "The leaves are green in spring."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "branch",
+      "tj": "шох",
+      "ex": "The birds sit on the branch of the tree."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "seed",
+      "tj": "тухм",
+      "ex": "I put a small seed in the ground."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "to grow",
+      "tj": "сабзидан / парвариш кардан",
+      "ex": "Trees grow slowly but live for many years."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to bloom",
+      "tj": "гул кардан",
+      "ex": "The trees bloom in spring."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "petal",
+      "tj": "гулбарг",
+      "ex": "A rose has many beautiful petals."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "grass",
+      "tj": "алаф",
+      "ex": "The grass is green in summer."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "bush",
+      "tj": "бутта",
+      "ex": "The rose bush has many flowers."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "oak",
+      "tj": "булут",
+      "ex": "The oak is a very strong tree."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "pine",
+      "tj": "корагай",
+      "ex": "The pine tree is always green."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "to plant",
+      "tj": "шинондан",
+      "ex": "We plant trees every spring."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to water",
+      "tj": "об додан",
+      "ex": "I water the flowers every evening."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "to pick",
+      "tj": "чидан",
+      "ex": "We pick flowers in the meadow."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 58)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "There are many kinds of plants in our garden.",
+      "tj": "Дар боғи мо навъҳои зиёди растаниҳо ҳастанд."
     },
     {
-      "en": "I'm working on lesson 58",
-      "tj": "Ман дарси 58-ро меомӯзам"
+      "en": "The root of the tree is very deep and strong.",
+      "tj": "Решаи дарахт хеле чуқур ва қавӣ аст."
+    },
+    {
+      "en": "The stem of the flower is thin and green.",
+      "tj": "Пояи гул тунук ва сабз аст."
+    },
+    {
+      "en": "The leaves are green in spring and yellow in autumn.",
+      "tj": "Баргҳо дар баҳор сабз ва дар тирамоҳ зард ҳастанд."
+    },
+    {
+      "en": "The birds sit on the branch of the tree and sing.",
+      "tj": "Паррандаҳо дар шохи дарахт менишинанд ва суруд мехонанд."
+    },
+    {
+      "en": "I put a small seed in the ground and wait for it to grow.",
+      "tj": "Ман тухмии хурдро ба замин мегузорам ва интизори сабзидани он мешавам."
+    },
+    {
+      "en": "Trees grow slowly but live for many years.",
+      "tj": "Дарахтон оҳиста месабзанд, аммо солҳои зиёд зиндагӣ мекунанд."
+    },
+    {
+      "en": "The trees bloom in spring and the garden looks beautiful.",
+      "tj": "Дарахтон дар баҳор гул мекунанд ва боғ зебо менамояд."
+    },
+    {
+      "en": "A rose has many beautiful petals.",
+      "tj": "Гули садбарг гулбаргҳои зебои зиёд дорад."
+    },
+    {
+      "en": "The grass is green in summer after the rain.",
+      "tj": "Алаф дар тобистон баъд аз борон сабз аст."
+    },
+    {
+      "en": "The rose bush has many flowers and thorns.",
+      "tj": "Буттаи садбарг гулҳо ва хорҳои зиёд дорад."
+    },
+    {
+      "en": "The oak is a very strong tree and it lives for hundreds of years.",
+      "tj": "Булут дарахти хеле қавӣ аст ва садҳо сол зиндагӣ мекунад."
+    },
+    {
+      "en": "The pine tree is always green, even in winter.",
+      "tj": "Дарахти корагай ҳамеша сабз аст, ҳатто дар зимистон."
+    },
+    {
+      "en": "We plant trees in our school garden every spring.",
+      "tj": "Мо ҳар баҳор дар боғи мактаби худ дарахтон мешинонем."
+    },
+    {
+      "en": "I water the flowers every evening after dinner.",
+      "tj": "Ман ҳар бегоҳ баъд аз хӯроки шом гулҳоро об медиҳам."
+    },
+    {
+      "en": "We pick flowers in the meadow and make a beautiful bouquet.",
+      "tj": "Мо дар чаман гул мечинем ва дастаи зебо месозем."
     }
   ],
   "text": {
-    "en": "Text for lesson 58. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 58 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 58 text.",
-    "tj": "Матни дарси 58..."
+    "en": "The World of Plants and Flowers\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. In spring and summer, our city becomes very beautiful, because trees, bushes and flowers bloom everywhere. I love plants very much. Today I want to tell you about the wonderful world of plants and flowers.\n\nPlants are living things. They grow from small seeds, they need water, air and sunlight, and they give us oxygen and food. Without plants there would be no life on the Earth. Plants are the oldest living things on our planet — they appeared many millions of years ago, long before the first animals.\n\nEvery plant has its own parts. The root is under the ground. It holds the plant in the ground and takes water and food from the soil. The stem grows up from the root. It carries water and food to all parts of the plant. The leaves are usually green. They take sunlight and make food for the plant. The flowers are the most beautiful part of the plant. Inside the flower there is a small seed — and from that seed a new plant will grow.\n\nThere are many kinds of plants. Some plants are very small — like grass. You can see grass everywhere: in the parks, in the gardens and in the fields. Some plants are bigger — like bushes. A rose bush is a very beautiful bush with big and small flowers. Some plants are very big — like trees. An oak is a very strong tree. It can live for five hundred years or more. A pine is always green, even in winter. In our country there are also many fruit trees: apple trees, apricot trees, pear trees and pomegranate trees.\n\nFlowers are the most beautiful part of the plant world. There are thousands of kinds of flowers in the world. In our country there are roses, tulips, daisies, poppies and many others. In spring the tulips bloom in our mountains. Millions of tourists come to see them. The tulip is a symbol of spring and beauty. The rose is a symbol of love. Every flower has its own colour and its own smell.\n\nPlants are very useful. First, plants give us oxygen. Without oxygen no living thing can breathe. Second, plants give us food. We eat vegetables, fruit, bread and rice — all of these come from plants. Third, plants give us wood. We build houses and make tables and chairs from wood. Fourth, plants give us medicine. Many medicines come from plants. Fifth, plants make our world beautiful. Flowers and trees give us joy and make us happy.\n\nWe must take care of plants. We must water them, we must not break branches, and we must not pick flowers in the forest or in the park. We must plant new trees every year. In our school we have a special day in spring when all pupils plant new trees and flowers. My class planted ten apple trees last year and now they are growing well. We water them every week and we watch them grow.\n\nMy grandmother has a big garden in the village. She grows many vegetables and flowers there. She has tomatoes, cucumbers, onions, carrots and potatoes. She also has a big rose garden. When I come to the village in summer, I help my grandmother. I water the flowers, I pick fruit from the trees and I help her with the vegetables. It is hard work, but I like it very much. My grandmother says: \"When you work in a garden, you learn patience. Plants grow slowly and you must wait for them. Good things take time.\"\n\nIn autumn the leaves of the trees become yellow, red and brown. Then they fall down and cover the ground. This is a very beautiful time of the year. Many people go to the parks and to the forests to look at the autumn leaves. My mother likes to make a bouquet from autumn leaves and dry flowers.\n\nI love the world of plants and flowers very much. I want to be a doctor, but I also want to have a big garden at my home. I want to plant many trees and flowers there. I want my children to grow up in a green and beautiful world. I want them to know the names of all the trees and flowers around them. Because plants are our best friends on the Earth and we must love and protect them.",
+    "tj": "Ҷаҳони растаниҳо ва гулҳо\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Дар баҳор ва тобистон шаҳри мо хеле зебо мешавад, зеро ки дарахтон, буттаҳо ва гулҳо дар ҳама ҷо гул мекунанд. Ман растаниҳоро хеле дӯст медорам. Имрӯз ман мехоҳам ба шумо дар бораи ҷаҳони аҷоиби растаниҳо ва гулҳо нақл кунам.\n\nРастаниҳо мавҷудоти зинда ҳастанд. Онҳо аз тухмиҳои хурд месабзанд, онҳо ба об, ҳаво ва нури офтоб ниёз доранд ва онҳо ба мо оксиген ва ғизо медиҳанд. Бе растаниҳо дар Замин ҳаёт намебуд. Растаниҳо қадимтарин мавҷудоти зинда дар сайёраи мо ҳастанд — онҳо миллионҳо сол пеш пайдо шудаанд, пеш аз ҳайвоноти аввалин.\n\nҲар як растанӣ қисмҳои худро дорад. Реша дар зери замин аст. Он растаниро дар замин нигоҳ медорад ва об ва ғизоро аз хок мегирад. Поя аз реша ба боло месабзад. Он об ва ғизоро ба ҳамаи қисмҳои растанӣ мерасонад. Баргҳо одатан сабз ҳастанд. Онҳо нури офтобро мегиранд ва барои растанӣ ғизо месозанд. Гулҳо зеботарин қисми растанӣ ҳастанд. Дар дохили гул тухмии хурд ҳаст — ва аз он тухм растании нав месабзад.\n\nНавъҳои зиёди растаниҳо ҳастанд. Баъзе растаниҳо хеле хурданд — мисли алаф. Шумо алафро дар ҳама ҷо дида метавонед: дар боғҳо, дар боғҳои истироҳат ва дар киштзорҳо. Баъзе растаниҳо калонтаранд — мисли буттаҳо. Буттаи садбарг буттаи хеле зебо бо гулҳои калон ва хурд аст. Баъзе растаниҳо хеле калонанд — мисли дарахтон. Булут дарахти хеле қавӣ аст. Он метавонад панҷсад сол ё бештар зиндагӣ кунад. Корагай ҳамеша сабз аст, ҳатто дар зимистон. Дар кишвари мо инчунин дарахтони мевадори зиёд ҳастанд: дарахти себ, дарахти зардолу, дарахти нок ва дарахти анор.\n\nГулҳо зеботарин қисми ҷаҳони растаниҳо ҳастанд. Дар ҷаҳон ҳазорон навъи гулҳо ҳастанд. Дар кишвари мо садбаргҳо, лолаҳо, гули бобуна, гули кӯкнор ва дигарон ҳастанд. Дар баҳор лолаҳо дар кӯҳҳои мо гул мекунанд. Миллионҳо сайёҳон барои дидани онҳо меоянд. Лола рамзи баҳор ва зебоист. Садбарг рамзи муҳаббат аст. Ҳар як гул ранги худ ва бӯи худро дорад.\n\nРастаниҳо хеле фоиданок ҳастанд. Аввал, растаниҳо ба мо оксиген медиҳанд. Бе оксиген ҳеҷ мавҷуди зинда нафас гирифта наметавонад. Дуюм, растаниҳо ба мо ғизо медиҳанд. Мо сабзавот, мева, нон ва биринҷ мехӯрем — ҳамаи ин аз растаниҳо меоянд. Сеюм, растаниҳо ба мо чӯб медиҳанд. Мо аз чӯб хонаҳо месозем ва мизу курсӣ тайёр мекунем. Чорум, растаниҳо ба мо дору медиҳанд. Доруҳои зиёд аз растаниҳо меоянд. Панҷум, растаниҳо ҷаҳони моро зебо мекунанд. Гулҳо ва дарахтон ба мо шодӣ медиҳанд ва моро хушбахт мекунанд.\n\nМо бояд ба растаниҳо ғамхорӣ кунем. Мо бояд онҳоро об диҳем, мо набояд шохҳоро шиканем ва мо набояд дар ҷангал ё дар боғи истироҳат гул чием. Мо бояд ҳар сол дарахтони нав шинонем. Дар мактаби мо рӯзи махсус дар баҳор ҳаст, ки ҳамаи хонандагон дарахтон ва гулҳои нав мешинонанд. Синфи мо соли гузашта даҳ дарахти себ шинонд ва ҳоло онҳо хуб месабзанд. Мо ҳар ҳафта онҳоро об медиҳем ва сабзиши онҳоро тамошо мекунем.\n\nБибиам дар деҳа боғи калон дорад. Ӯ дар он ҷо сабзавот ва гулҳои зиёд парвариш мекунад. Ӯ помидор, бодиринг, пиёз, сабзӣ ва картошка дорад. Ӯ инчунин боғи калони садбарг дорад. Вақте ки ман дар тобистон ба деҳа меоям, ман ба бибиам кӯмак мекунам. Ман гулҳоро об медиҳам, меваро аз дарахтон мечинам ва ба ӯ бо сабзавот кӯмак мекунам. Ин кори душвор аст, аммо ман онро хеле дӯст медорам. Бибиам мегӯяд: «Вақте ки шумо дар боғ кор мекунед, шумо сабрро меомӯзед. Растаниҳо оҳиста месабзанд ва шумо бояд ба онҳо интизор шавед. Чизҳои хуб вақт мехоҳанд.»\n\nДар тирамоҳ баргҳои дарахтон зард, сурх ва қаҳваранг мешаванд. Баъд онҳо меафтанд ва заминро мепӯшанд. Ин вақти хеле зебои сол аст. Одамони зиёд ба боғҳо ва ба ҷангалҳо мераванд, то ки баргҳои тирамоҳиро бинанд. Модарам аз баргҳои тирамоҳӣ ва гулҳои хушк дастаи гул сохтанро дӯст медорад.\n\nМан ҷаҳони растаниҳо ва гулҳоро хеле дӯст медорам. Ман мехоҳам духтур шавам, аммо ман инчунин мехоҳам дар хонаи худ боғи калон дошта бошам. Ман мехоҳам дар он ҷо дарахтон ва гулҳои зиёд шинонам. Ман мехоҳам, ки кӯдаконам дар ҷаҳони сабз ва зебо ба воя расанд. Ман мехоҳам, ки онҳо номҳои ҳамаи дарахтон ва гулҳои атрофи худро доданд. Зеро ки растаниҳо беҳтарин дӯстон дар Замин ҳастанд ва мо бояд онҳоро дӯст дорем ва муҳофизат кунем."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Дар боғи мо навъҳои зиёди растаниҳо ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: opportunity",
-        "нодуруст C"
+        "There are many kinds of plants in our garden.",
+        "There are many kinds of plants in the garden.",
+        "There are a lot of kinds of plants in our garden.",
+        "There are many kinds of flowers in our garden."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "There are many kinds of plants in our garden."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Решаи дарахт хеле чуқур ва қавӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The root of the tree is very deep and strong.",
+        "The root of the tree is very deep and powerful.",
+        "The root of a tree is very deep and strong.",
+        "The root of the tree is very long and strong."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The root of the tree is very deep and strong."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Пояи гул тунук ва сабз аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "The stem of the flower is thin and green.",
+        "The stem of the flower is thin and green.",
+        "The stem of a flower is thin and green.",
+        "The stem of the flower is thin and yellow."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "The stem of the flower is thin and green."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Баргҳо дар баҳор сабз ва дар тирамоҳ зард ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: communication"
+        "The leaves are green in spring and yellow in autumn.",
+        "The leaves are green in spring and yellow in autumn.",
+        "The leaves are green in spring and yellow in the autumn.",
+        "The leaves are green in the spring and yellow in autumn."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "The leaves are green in spring and yellow in autumn."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Паррандаҳо дар шохи дарахт менишинанд ва суруд мехонанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: education",
-        "нодуруст B"
+        "The birds sit on the branch of the tree and sing.",
+        "The birds sit on the branch of the tree and sing.",
+        "The birds sit on the branch of a tree and sing.",
+        "The birds sit on a branch of the tree and sing."
       ],
-      "answer": "тарҷума: education"
+      "answer": "The birds sit on the branch of the tree and sing."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Ман тухмии хурдро ба замин мегузорам ва интизори сабзидани он мешавам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: development"
+        "I put a small seed in the ground and wait for it to grow.",
+        "I put a small seed into the ground and wait for it to grow.",
+        "I put a small seed in the ground and wait for it to grow.",
+        "I put a little seed in the ground and wait for it to grow."
       ],
-      "answer": "тарҷума: development"
+      "answer": "I put a small seed in the ground and wait for it to grow."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Дарахтон оҳиста месабзанд, аммо солҳои зиёд зиндагӣ мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: achievement",
-        "нодуруст A",
-        "нодуруст C"
+        "Trees grow slowly but live for many years.",
+        "Trees grow slowly but live for many years.",
+        "The trees grow slowly but live for many years.",
+        "Trees grow slowly but live many years."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "Trees grow slowly but live for many years."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Дарахтон дар баҳор гул мекунанд ва боғ зебо менамояд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: challenge",
-        "нодуруст A"
+        "The trees bloom in spring and the garden looks beautiful.",
+        "The trees bloom in spring and the garden looks beautiful.",
+        "The trees bloom in the spring and the garden looks beautiful.",
+        "The trees blossom in spring and the garden looks beautiful."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The trees bloom in spring and the garden looks beautiful."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Гули садбарг гулбаргҳои зебои зиёд дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: knowledge",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "A rose has many beautiful petals.",
+        "The rose has many beautiful petals.",
+        "A rose has a lot of beautiful petals.",
+        "A rose has many nice petals."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "A rose has many beautiful petals."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Алаф дар тобистон баъд аз борон сабз аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The grass is green in summer after the rain.",
+        "The grass is green in summer after rain.",
+        "The grass is green in the summer after the rain.",
+        "Grass is green in summer after the rain."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The grass is green in summer after the rain."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Буттаи садбарг гулҳо ва хорҳои зиёд дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: fluency"
+        "The rose bush has many flowers and thorns.",
+        "The rose bush has many flowers and thorns.",
+        "The rose bush has a lot of flowers and thorns.",
+        "The rose bush has many flowers and thorns."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "The rose bush has many flowers and thorns."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Булут дарахти хеле қавӣ аст ва садҳо сол зиндагӣ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The oak is a very strong tree and it lives for hundreds of years.",
+        "The oak is a very strong tree and lives for hundreds of years.",
+        "The oak is a very powerful tree and it lives for hundreds of years.",
+        "An oak is a very strong tree and it lives for hundreds of years."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "The oak is a very strong tree and it lives for hundreds of years."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Дарахти корагай ҳамеша сабз аст, ҳатто дар зимистон» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: pronunciation",
-        "нодуруст B"
+        "The pine tree is always green, even in winter.",
+        "The pine tree is always green even in winter.",
+        "The pine is always green, even in winter.",
+        "A pine tree is always green, even in winter."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "The pine tree is always green, even in winter."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Мо ҳар баҳор дар боғи мактаби худ дарахтон мешинонем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: vocabulary",
-        "нодуруст B",
-        "нодуруст C"
+        "We plant trees in our school garden every spring.",
+        "We plant trees in our school garden every spring.",
+        "We plant the trees in our school garden every spring.",
+        "We plant trees in the school garden every spring."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "We plant trees in our school garden every spring."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ман ҳар бегоҳ баъд аз хӯроки шом гулҳоро об медиҳам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: grammar",
-        "нодуруст C"
+        "I water the flowers every evening after dinner.",
+        "I water the flowers every evening after dinner.",
+        "I water flowers every evening after dinner.",
+        "I water the flowers each evening after dinner."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "I water the flowers every evening after dinner."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Мо дар чаман гул мечинем ва дастаи зебо месозем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: opportunity",
-        "нодуруст C"
+        "We pick flowers in the meadow and make a beautiful bouquet.",
+        "We pick flowers in the meadow and make a beautiful bouquet.",
+        "We pick the flowers in the meadow and make a beautiful bouquet.",
+        "We gather flowers in the meadow and make a beautiful bouquet."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "We pick flowers in the meadow and make a beautiful bouquet."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Дар баҳор ва тобистон шаҳри мо хеле зебо мешавад, зеро ки дарахтон, буттаҳо ва гулҳо дар ҳама ҷо гул мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "In spring and summer, our city becomes very beautiful, because trees, bushes and flowers bloom everywhere.",
+        "In spring and summer our city becomes very beautiful, because trees, bushes and flowers bloom everywhere.",
+        "In spring and summer, our city becomes very beautiful because trees, bushes and flowers bloom everywhere.",
+        "In the spring and summer, our city becomes very beautiful, because trees, bushes and flowers bloom everywhere."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "In spring and summer, our city becomes very beautiful, because trees, bushes and flowers bloom everywhere."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Растаниҳо мавҷудоти зинда ҳастанд. Онҳо аз тухмиҳои хурд месабзанд, онҳо ба об, ҳаво ва нури офтоб ниёз доранд ва онҳо ба мо оксиген ва ғизо медиҳанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: environment"
+        "Plants are living things. They grow from small seeds, they need water, air and sunlight, and they give us oxygen and food.",
+        "Plants are living things. They grow from small seeds, they need water, air and sunlight and they give us oxygen and food.",
+        "Plants are living things. They grow from small seeds, they need water, air and sunlight, and give us oxygen and food.",
+        "Plants are living things. They grow from little seeds, they need water, air and sunlight, and they give us oxygen and food."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Plants are living things. They grow from small seeds, they need water, air and sunlight, and they give us oxygen and food."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Бе растаниҳо дар Замин ҳаёт намебуд. Растаниҳо қадимтарин мавҷудоти зинда дар сайёраи мо ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст B"
+        "Without plants there would be no life on the Earth. Plants are the oldest living things on our planet.",
+        "Without plants there would be no life on Earth. Plants are the oldest living things on our planet.",
+        "Without plants there would be no life on the Earth. Plants are the most ancient living things on our planet.",
+        "Without the plants there would be no life on the Earth. Plants are the oldest living things on our planet."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "Without plants there would be no life on the Earth. Plants are the oldest living things on our planet."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Онҳо миллионҳо сол пеш пайдо шудаанд, пеш аз ҳайвоноти аввалин» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст A",
-        "нодуруст B"
+        "They appeared many millions of years ago, long before the first animals.",
+        "They appeared millions of years ago, long before the first animals.",
+        "They appeared many millions of years ago, long before the first animals.",
+        "They appeared many millions of years ago, before the first animals."
       ],
-      "answer": "тарҷума: education"
+      "answer": "They appeared many millions of years ago, long before the first animals."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Ҳар як растанӣ қисмҳои худро дорад. Реша дар зери замин аст. Он растаниро дар замин нигоҳ медорад ва об ва ғизоро аз хок мегирад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: development",
-        "нодуруст B",
-        "нодуруст C"
+        "Every plant has its own parts. The root is under the ground. It holds the plant in the ground and takes water and food from the soil.",
+        "Every plant has its own parts. The root is under the ground. It holds the plant in the ground and takes water and food from the soil.",
+        "Each plant has its own parts. The root is under the ground. It holds the plant in the ground and takes water and food from the soil.",
+        "Every plant has its parts. The root is under the ground. It holds the plant in the ground and takes water and food from the soil."
       ],
-      "answer": "тарҷума: development"
+      "answer": "Every plant has its own parts. The root is under the ground. It holds the plant in the ground and takes water and food from the soil."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Поя аз реша ба боло месабзад. Он об ва ғизоро ба ҳамаи қисмҳои растанӣ мерасонад. Баргҳо одатан сабз ҳастанд. Онҳо нури офтобро мегиранд ва барои растанӣ ғизо месозанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: achievement",
-        "нодуруст B"
+        "The stem grows up from the root. It carries water and food to all parts of the plant. The leaves are usually green. They take sunlight and make food for the plant.",
+        "The stem grows up from the root. It carries water and food to all parts of the plant. The leaves are usually green. They take sunlight and make food for the plant.",
+        "The stem grows up from the root. It carries water and food to all the parts of the plant. The leaves are usually green. They take sunlight and make food for the plant.",
+        "The stem grows up from the root. It carries water and food to all parts of the plant. Leaves are usually green. They take sunlight and make food for the plant."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The stem grows up from the root. It carries water and food to all parts of the plant. The leaves are usually green. They take sunlight and make food for the plant."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Гулҳо зеботарин қисми растанӣ ҳастанд. Дар дохили гул тухмии хурд ҳаст — ва аз он тухм растании нав месабзад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: challenge",
-        "нодуруст C",
-        "нодуруст A"
+        "The flowers are the most beautiful part of the plant. Inside the flower there is a small seed — and from that seed a new plant will grow.",
+        "The flowers are the most beautiful part of the plant. Inside the flower there is a small seed — and from that seed a new plant will grow.",
+        "Flowers are the most beautiful part of the plant. Inside the flower there is a small seed — and from that seed a new plant will grow.",
+        "The flowers are the most beautiful part of a plant. Inside the flower there is a small seed — and from that seed a new plant will grow."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The flowers are the most beautiful part of the plant. Inside the flower there is a small seed — and from that seed a new plant will grow."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Навъҳои зиёди растаниҳо ҳастанд. Баъзе растаниҳо хеле хурданд — мисли алаф. Шумо алафро дар ҳама ҷо дида метавонед: дар боғҳо, дар боғҳои истироҳат ва дар киштзорҳо» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: knowledge",
-        "нодуруст A",
-        "нодуруст B"
+        "There are many kinds of plants. Some plants are very small — like grass. You can see grass everywhere: in the parks, in the gardens and in the fields.",
+        "There are many kinds of plants. Some plants are very small — like grass. You can see grass everywhere: in parks, in gardens and in the fields.",
+        "There are many kinds of plants. Some plants are very small — like grass. You can see grass everywhere: in the parks, in gardens and in the fields.",
+        "There are many kinds of plants. Some plants are very small — like the grass. You can see grass everywhere: in the parks, in the gardens and in the fields."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "There are many kinds of plants. Some plants are very small — like grass. You can see grass everywhere: in the parks, in the gardens and in the fields."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Баъзе растаниҳо калонтаранд — мисли буттаҳо. Буттаи садбарг буттаи хеле зебо бо гулҳои калон ва хурд аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: conversation"
+        "Some plants are bigger — like bushes. A rose bush is a very beautiful bush with big and small flowers.",
+        "Some plants are bigger — like bushes. The rose bush is a very beautiful bush with big and small flowers.",
+        "Some plants are larger — like bushes. A rose bush is a very beautiful bush with big and small flowers.",
+        "Some plants are bigger — like the bushes. A rose bush is a very beautiful bush with big and small flowers."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "Some plants are bigger — like bushes. A rose bush is a very beautiful bush with big and small flowers."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Баъзе растаниҳо хеле калонанд — мисли дарахтон. Булут дарахти хеле қавӣ аст. Он метавонад панҷсад сол ё бештар зиндагӣ кунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: fluency",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Some plants are very big — like trees. An oak is a very strong tree. It can live for five hundred years or more.",
+        "Some plants are very big — like trees. The oak is a very strong tree. It can live for five hundred years or more.",
+        "Some plants are very large — like trees. An oak is a very strong tree. It can live for five hundred years or more.",
+        "Some plants are very big — like trees. An oak is a very strong tree. It can live five hundred years or more."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "Some plants are very big — like trees. An oak is a very strong tree. It can live for five hundred years or more."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Дар кишвари мо инчунин дарахтони мевадори зиёд ҳастанд: дарахти себ, дарахти зардолу, дарахти нок ва дарахти анор» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст C"
+        "In our country there are also many fruit trees: apple trees, apricot trees, pear trees and pomegranate trees.",
+        "In our country there are also many fruit trees: apple trees, apricot trees, pear trees and pomegranate trees.",
+        "In our country there are many fruit trees too: apple trees, apricot trees, pear trees and pomegranate trees.",
+        "In our country there are also many fruit trees: apple trees, apricot trees, pear trees and pomegranate trees."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "In our country there are also many fruit trees: apple trees, apricot trees, pear trees and pomegranate trees."
+    },
+    {
+      "q": "«Гулҳо зеботарин қисми ҷаҳони растаниҳо ҳастанд. Дар ҷаҳон ҳазорон навъи гулҳо ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Flowers are the most beautiful part of the plant world. There are thousands of kinds of flowers in the world.",
+        "Flowers are the most beautiful part of the plant world. There are thousands of kinds of flowers in the world.",
+        "The flowers are the most beautiful part of the plant world. There are thousands of kinds of flowers in the world.",
+        "Flowers are the most beautiful part of the world of plants. There are thousands of kinds of flowers in the world."
+      ],
+      "answer": "Flowers are the most beautiful part of the plant world. There are thousands of kinds of flowers in the world."
+    },
+    {
+      "q": "«Дар кишвари мо садбаргҳо, лолаҳо, гули бобуна, гули кӯкнор ва дигарон ҳастанд. Дар баҳор лолаҳо дар кӯҳҳои мо гул мекунанд. Миллионҳо сайёҳон барои дидани онҳо меоянд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In our country there are roses, tulips, daisies, poppies and many others. In spring the tulips bloom in our mountains. Millions of tourists come to see them.",
+        "In our country there are roses, tulips, daisies, poppies and others. In spring the tulips bloom in our mountains. Millions of tourists come to see them.",
+        "In our country there are roses, tulips, daisies, poppies and many others. In the spring the tulips bloom in our mountains. Millions of tourists come to see them.",
+        "In our country there are roses, tulips, daisies, poppies and many others. In spring tulips bloom in our mountains. Millions of tourists come to see them."
+      ],
+      "answer": "In our country there are roses, tulips, daisies, poppies and many others. In spring the tulips bloom in our mountains. Millions of tourists come to see them."
+    },
+    {
+      "q": "«Лола рамзи баҳор ва зебоист. Садбарг рамзи муҳаббат аст. Ҳар як гул ранги худ ва бӯи худро дорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The tulip is a symbol of spring and beauty. The rose is a symbol of love. Every flower has its own colour and its own smell.",
+        "The tulip is a symbol of spring and beauty. The rose is a symbol of love. Every flower has its own colour and smell.",
+        "A tulip is a symbol of spring and beauty. A rose is a symbol of love. Every flower has its own colour and its own smell.",
+        "The tulip is a symbol of spring and beauty. The rose is a symbol of love. Every flower has its own color and its own smell."
+      ],
+      "answer": "The tulip is a symbol of spring and beauty. The rose is a symbol of love. Every flower has its own colour and its own smell."
+    },
+    {
+      "q": "«Растаниҳо хеле фоиданок ҳастанд. Аввал, растаниҳо ба мо оксиген медиҳанд. Бе оксиген ҳеҷ мавҷуди зинда нафас гирифта наметавонад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Plants are very useful. First, plants give us oxygen. Without oxygen no living thing can breathe.",
+        "Plants are very useful. First, plants give us oxygen. Without oxygen, no living thing can breathe.",
+        "Plants are very useful. At first, plants give us oxygen. Without oxygen no living thing can breathe.",
+        "Plants are very useful. First, plants give us oxygen. Without oxygen no living thing can breathe."
+      ],
+      "answer": "Plants are very useful. First, plants give us oxygen. Without oxygen no living thing can breathe."
+    },
+    {
+      "q": "«Дуюм, растаниҳо ба мо ғизо медиҳанд. Мо сабзавот, мева, нон ва биринҷ мехӯрем — ҳамаи ин аз растаниҳо меоянд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Second, plants give us food. We eat vegetables, fruit, bread and rice — all of these come from plants.",
+        "Second, plants give us food. We eat vegetables, fruit, bread and rice — all these come from plants.",
+        "Secondly, plants give us food. We eat vegetables, fruit, bread and rice — all of these come from plants.",
+        "Second, plants give us food. We eat vegetables, fruits, bread and rice — all of these come from plants."
+      ],
+      "answer": "Second, plants give us food. We eat vegetables, fruit, bread and rice — all of these come from plants."
+    },
+    {
+      "q": "«Сеюм, растаниҳо ба мо чӯб медиҳанд. Мо аз чӯб хонаҳо месозем ва мизу курсӣ тайёр мекунем. Чорум, растаниҳо ба мо дору медиҳанд. Доруҳои зиёд аз растаниҳо меоянд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Third, plants give us wood. We build houses and make tables and chairs from wood. Fourth, plants give us medicine. Many medicines come from plants.",
+        "Third, plants give us wood. We build houses and make tables and chairs from wood. Fourth, plants give us medicine. Many medicines come from plants.",
+        "Thirdly, plants give us wood. We build houses and make tables and chairs from wood. Fourthly, plants give us medicine. Many medicines come from plants.",
+        "Third, plants give us wood. We build houses and make tables and chairs from the wood. Fourth, plants give us medicine. Many medicines come from plants."
+      ],
+      "answer": "Third, plants give us wood. We build houses and make tables and chairs from wood. Fourth, plants give us medicine. Many medicines come from plants."
+    },
+    {
+      "q": "«Панҷум, растаниҳо ҷаҳони моро зебо мекунанд. Гулҳо ва дарахтон ба мо шодӣ медиҳанд ва моро хушбахт мекунанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Fifth, plants make our world beautiful. Flowers and trees give us joy and make us happy.",
+        "Fifthly, plants make our world beautiful. Flowers and trees give us joy and make us happy.",
+        "Fifth, plants make our world beautiful. Flowers and trees give us joy and make us happy.",
+        "Fifth, plants make the world beautiful. Flowers and trees give us joy and make us happy."
+      ],
+      "answer": "Fifth, plants make our world beautiful. Flowers and trees give us joy and make us happy."
+    },
+    {
+      "q": "«Мо бояд ба растаниҳо ғамхорӣ кунем. Мо бояд онҳоро об диҳем, мо набояд шохҳоро шиканем ва мо набояд дар ҷангал ё дар боғи истироҳат гул чием» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must take care of plants. We must water them, we must not break branches, and we must not pick flowers in the forest or in the park.",
+        "We must take care of plants. We must water them, we must not break the branches, and we must not pick flowers in the forest or in the park.",
+        "We must take care of the plants. We must water them, we must not break branches, and we must not pick flowers in the forest or in the park.",
+        "We must look after plants. We must water them, we must not break branches, and we must not pick flowers in the forest or in the park."
+      ],
+      "answer": "We must take care of plants. We must water them, we must not break branches, and we must not pick flowers in the forest or in the park."
+    },
+    {
+      "q": "«Мо бояд ҳар сол дарахтони нав шинонем. Дар мактаби мо рӯзи махсус дар баҳор ҳаст, ки ҳамаи хонандагон дарахтон ва гулҳои нав мешинонанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must plant new trees every year. In our school we have a special day in spring when all pupils plant new trees and flowers.",
+        "We must plant new trees every year. In our school we have a special day in spring when all the pupils plant new trees and flowers.",
+        "We must plant new trees every year. In our school there is a special day in spring when all pupils plant new trees and flowers.",
+        "We should plant new trees every year. In our school we have a special day in spring when all pupils plant new trees and flowers."
+      ],
+      "answer": "We must plant new trees every year. In our school we have a special day in spring when all pupils plant new trees and flowers."
+    },
+    {
+      "q": "«Синфи мо соли гузашта даҳ дарахти себ шинонд ва ҳоло онҳо хуб месабзанд. Мо ҳар ҳафта онҳоро об медиҳем ва сабзиши онҳоро тамошо мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My class planted ten apple trees last year and now they are growing well. We water them every week and we watch them grow.",
+        "My class planted ten apple trees last year and now they are growing well. We water them every week and we watch them grow.",
+        "Our class planted ten apple trees last year and now they are growing well. We water them every week and we watch them grow.",
+        "My class planted ten apple trees last year and now they grow well. We water them every week and we watch them grow."
+      ],
+      "answer": "My class planted ten apple trees last year and now they are growing well. We water them every week and we watch them grow."
+    },
+    {
+      "q": "«Бибиам дар деҳа боғи калон дорад. Ӯ дар он ҷо сабзавот ва гулҳои зиёд парвариш мекунад. Ӯ помидор, бодиринг, пиёз, сабзӣ ва картошка дорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandmother has a big garden in the village. She grows many vegetables and flowers there. She has tomatoes, cucumbers, onions, carrots and potatoes.",
+        "My grandmother has a big garden in the village. She grows many vegetables and flowers there. She has tomatoes, cucumbers, onions, carrots and potatoes.",
+        "My grandmother has a big garden in the village. She grows many vegetables and flowers there. She has tomatoes, cucumbers, onions, carrots and potatoes.",
+        "My grandmother has a big garden in the village. She grows a lot of vegetables and flowers there. She has tomatoes, cucumbers, onions, carrots and potatoes."
+      ],
+      "answer": "My grandmother has a big garden in the village. She grows many vegetables and flowers there. She has tomatoes, cucumbers, onions, carrots and potatoes."
+    },
+    {
+      "q": "«Вақте ки ман дар тобистон ба деҳа меоям, ман ба бибиам кӯмак мекунам. Ман гулҳоро об медиҳам, меваро аз дарахтон мечинам ва ба ӯ бо сабзавот кӯмак мекунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I come to the village in summer, I help my grandmother. I water the flowers, I pick fruit from the trees and I help her with the vegetables.",
+        "When I come to the village in summer, I help my grandmother. I water the flowers, I pick fruit from the trees and I help her with the vegetables.",
+        "When I come to the village in the summer, I help my grandmother. I water the flowers, I pick fruit from the trees and I help her with the vegetables.",
+        "When I come to the village in summer I help my grandmother. I water the flowers, I pick fruit from the trees and I help her with the vegetables."
+      ],
+      "answer": "When I come to the village in summer, I help my grandmother. I water the flowers, I pick fruit from the trees and I help her with the vegetables."
+    },
+    {
+      "q": "«Ин кори душвор аст, аммо ман онро хеле дӯст медорам. Бибиам мегӯяд: \"Вақте ки шумо дар боғ кор мекунед, шумо сабрро меомӯзед. Растаниҳо оҳиста месабзанд ва шумо бояд ба онҳо интизор шавед.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It is hard work, but I like it very much. My grandmother says: \"When you work in a garden, you learn patience. Plants grow slowly and you must wait for them.\"",
+        "It is hard work, but I like it very much. My grandmother says: \"When you work in a garden you learn patience. Plants grow slowly and you must wait for them.\"",
+        "It is hard work, but I like it very much. My grandmother says: \"When you work in the garden, you learn patience. Plants grow slowly and you must wait for them.\"",
+        "It is difficult work, but I like it very much. My grandmother says: \"When you work in a garden, you learn patience. Plants grow slowly and you must wait for them.\""
+      ],
+      "answer": "It is hard work, but I like it very much. My grandmother says: \"When you work in a garden, you learn patience. Plants grow slowly and you must wait for them.\""
+    },
+    {
+      "q": "«Дар тирамоҳ баргҳои дарахтон зард, сурх ва қаҳваранг мешаванд. Баъд онҳо меафтанд ва заминро мепӯшанд. Ин вақти хеле зебои сол аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In autumn the leaves of the trees become yellow, red and brown. Then they fall down and cover the ground. This is a very beautiful time of the year.",
+        "In autumn the leaves of the trees become yellow, red and brown. Then they fall down and cover the ground. This is a very beautiful time of the year.",
+        "In the autumn the leaves of the trees become yellow, red and brown. Then they fall down and cover the ground. This is a very beautiful time of the year.",
+        "In autumn the leaves of trees become yellow, red and brown. Then they fall down and cover the ground. This is a very beautiful time of the year."
+      ],
+      "answer": "In autumn the leaves of the trees become yellow, red and brown. Then they fall down and cover the ground. This is a very beautiful time of the year."
+    },
+    {
+      "q": "«Одамони зиёд ба боғҳо ва ба ҷангалҳо мераванд, то ки баргҳои тирамоҳиро бинанд. Модарам аз баргҳои тирамоҳӣ ва гулҳои хушк дастаи гул сохтанро дӯст медорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Many people go to the parks and to the forests to look at the autumn leaves. My mother likes to make a bouquet from autumn leaves and dry flowers.",
+        "Many people go to the parks and to the forests to look at autumn leaves. My mother likes to make a bouquet from autumn leaves and dry flowers.",
+        "Many people go to the parks and forests to look at the autumn leaves. My mother likes to make a bouquet from autumn leaves and dry flowers.",
+        "Many people go to the parks and to the forests to look at the autumn leaves. My mother likes making a bouquet from autumn leaves and dry flowers."
+      ],
+      "answer": "Many people go to the parks and to the forests to look at the autumn leaves. My mother likes to make a bouquet from autumn leaves and dry flowers."
+    },
+    {
+      "q": "«Ман ҷаҳони растаниҳо ва гулҳоро хеле дӯст медорам. Ман мехоҳам духтур шавам, аммо ман инчунин мехоҳам дар хонаи худ боғи калон дошта бошам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I love the world of plants and flowers very much. I want to be a doctor, but I also want to have a big garden at my home.",
+        "I love the world of plants and flowers very much. I want to become a doctor, but I also want to have a big garden at my home.",
+        "I love the world of plants and flowers very much. I want to be a doctor but I also want to have a big garden at my home.",
+        "I love the world of plants and flowers very much. I want to be a doctor, but I want to have a big garden at my home too."
+      ],
+      "answer": "I love the world of plants and flowers very much. I want to be a doctor, but I also want to have a big garden at my home."
+    },
+    {
+      "q": "«Ман мехоҳам дар он ҷо дарахтон ва гулҳои зиёд шинонам. Ман мехоҳам, ки кӯдаконам дар ҷаҳони сабз ва зебо ба воя расанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to plant many trees and flowers there. I want my children to grow up in a green and beautiful world.",
+        "I want to plant many trees and flowers there. I want my children to grow up in a green and beautiful world.",
+        "I want to plant a lot of trees and flowers there. I want my children to grow up in a green and beautiful world.",
+        "I want to plant many trees and flowers there. I want my children to grow in a green and beautiful world."
+      ],
+      "answer": "I want to plant many trees and flowers there. I want my children to grow up in a green and beautiful world."
+    },
+    {
+      "q": "«Ман мехоҳам, ки онҳо номҳои ҳамаи дарахтон ва гулҳои атрофи худро доданд. Зеро ки растаниҳо беҳтарин дӯстон дар Замин ҳастанд ва мо бояд онҳоро дӯст дорем ва муҳофизат кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want them to know the names of all the trees and flowers around them. Because plants are our best friends on the Earth and we must love and protect them.",
+        "I want them to know the names of all the trees and flowers around them. Because plants are our best friends on Earth and we must love and protect them.",
+        "I want them to know the names of all the trees and flowers around them, because plants are our best friends on the Earth and we must love and protect them.",
+        "I want them to know the names of all the trees and flowers around them. Because plants are the best friends on the Earth and we must love and protect them."
+      ],
+      "answer": "I want them to know the names of all the trees and flowers around them. Because plants are our best friends on the Earth and we must love and protect them."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 27
+  "wordsCount": 16
 }
