@@ -1,476 +1,552 @@
 {
   "id": 67,
-  "title": "Муоширати воқеӣ 67",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 67: Ҳиссиёт ва саломатии рӯҳӣ",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "emotion",
+      "tj": "эҳсос",
+      "ex": "Love and joy are positive emotions."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "mood",
+      "tj": "рӯҳия",
+      "ex": "My mother is in a good mood today."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "stress",
+      "tj": "фишор / стресс",
+      "ex": "Too much work causes stress."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "calm",
+      "tj": "ором",
+      "ex": "Stay calm and do not worry."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "nervous",
+      "tj": "ҳаяҷонзада",
+      "ex": "I feel nervous before the exam."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "excited",
+      "tj": "баҳравар",
+      "ex": "The children are excited about the holiday."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "lonely",
+      "tj": "танҳо",
+      "ex": "The old man feels lonely."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "cheerful",
+      "tj": "шодком",
+      "ex": "My grandmother is always cheerful."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "worried",
+      "tj": "нигарон",
+      "ex": "My mother is worried about my brother."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "confident",
+      "tj": "боваринок",
+      "ex": "A confident person is not afraid of difficulties."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "grateful",
+      "tj": "миннатдор",
+      "ex": "I am grateful to my parents."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "jealous",
+      "tj": "рашкгар",
+      "ex": "A jealous person is never happy."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "to calm down",
+      "tj": "ором шудан",
+      "ex": "Take a deep breath and calm down."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "to cheer up",
+      "tj": "дилхуш кардан",
+      "ex": "I want to cheer up my sad friend."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to worry",
+      "tj": "нигарон будан",
+      "ex": "Do not worry about small things."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "understanding",
+      "tj": "фаҳмиш / ҳамдардӣ",
+      "ex": "A good friend is always full of understanding."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 67)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Love and joy are the most beautiful emotions.",
+      "tj": "Муҳаббат ва шодӣ зеботарин эҳсосот ҳастанд."
     },
     {
-      "en": "I'm working on lesson 67",
-      "tj": "Ман дарси 67-ро меомӯзам"
+      "en": "My mother is in a good mood today.",
+      "tj": "Модарам имрӯз дар рӯҳияи хуб аст."
+    },
+    {
+      "en": "Too much work causes stress and tiredness.",
+      "tj": "Кори аз ҳад зиёд фишор ва хастагӣ меорад."
+    },
+    {
+      "en": "Stay calm and do not worry about small things.",
+      "tj": "Ором бош ва дар бораи чизҳои хурд нигарон нашав."
+    },
+    {
+      "en": "I feel nervous before the exam.",
+      "tj": "Ман пеш аз имтиҳон ҳаяҷонзада мешавам."
+    },
+    {
+      "en": "The children are excited about the holiday.",
+      "tj": "Кӯдакон дар бораи ид баҳраваранд."
+    },
+    {
+      "en": "The old man feels lonely because his children live far away.",
+      "tj": "Пирамард худро танҳо ҳис мекунад, зеро ки фарзандони ӯ дур зиндагӣ мекунанд."
+    },
+    {
+      "en": "My grandmother is always cheerful and kind.",
+      "tj": "Бибиам ҳамеша шодком ва меҳрубон аст."
+    },
+    {
+      "en": "My mother is worried about my brother.",
+      "tj": "Модарам дар бораи бародарам нигарон аст."
+    },
+    {
+      "en": "A confident person is not afraid of difficulties.",
+      "tj": "Одами боваринок аз душвориҳо наметарсад."
+    },
+    {
+      "en": "I am grateful to my parents for everything.",
+      "tj": "Ман ба волидонам барои ҳама чиз миннатдорам."
+    },
+    {
+      "en": "A jealous person is never happy.",
+      "tj": "Одами рашкгар ҳеҷ гоҳ хушбахт нест."
+    },
+    {
+      "en": "Take a deep breath and calm down.",
+      "tj": "Нафаси амиқ гир ва ором шав."
+    },
+    {
+      "en": "I want to cheer up my sad friend.",
+      "tj": "Ман мехоҳам дӯсти ғамгинамро дилхуш кунам."
+    },
+    {
+      "en": "A good friend is always full of understanding.",
+      "tj": "Дӯсти хуб ҳамеша пур аз фаҳмиш аст."
+    },
+    {
+      "en": "Learn to understand your emotions and they will not control you.",
+      "tj": "Омӯз эҳсосоти худро фаҳмӣ ва онҳо туро идора нахоҳанд кард."
     }
   ],
   "text": {
-    "en": "Text for lesson 67. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 67 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 67 text.",
-    "tj": "Матни дарси 67..."
+    "en": "Emotions and Mental Health\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. Every person has emotions. Emotions are our feelings — joy, sadness, love, fear, anger and many others. Emotions are a very important part of our life. They help us to understand ourselves and other people. Today I want to tell you about emotions and about mental health.\n\nWe all have good days and bad days. On a good day we feel happy, cheerful and confident. On a bad day we feel sad, tired and worried. This is normal — all people have different moods. The most important thing is to understand our emotions and to know how to manage them.\n\nThere are positive emotions and negative emotions. Positive emotions are joy, love, hope, gratitude and calm. Negative emotions are fear, sadness, anger, jealousy and worry. Positive emotions make us happy and healthy. Negative emotions make us tired and sad. But negative emotions are not bad — they also help us. For example, fear protects us from danger. Anger helps us to defend ourselves. Sadness helps us to understand what is important to us.\n\nThe problem is when negative emotions become too strong or too long. If a person feels sad for many months, it is not good. If a person is angry all the time, it is not good. This can cause stress — a very difficult feeling when a person is tired, worried and cannot relax. Stress is a big problem for many people today, both for children and for adults. Too much stress can cause illness.\n\nHow can we stay calm and healthy? First, we must understand our emotions. When we feel angry or sad, we must ask ourselves: \"Why do I feel this way? What has happened?\" Understanding is the first step to feeling better. Second, we must talk about our feelings. We can talk to our mother, our father, our grandmother or a good friend. When we talk about our problems, they become smaller. Third, we must do sport. Sport is a great way to reduce stress. When we run, play football or swim, our body makes special chemicals that make us happy.\n\nFourth, we must sleep well. Children need at least nine or ten hours of sleep every night. If we do not sleep well, we become nervous and worried. Fifth, we must eat good food. Fresh fruits, vegetables and milk help our brain to work well. Sixth, we must have hobbies — reading, drawing, music or sport. A good hobby helps us to relax and to forget our problems.\n\nIf our friend is sad, we must help him. We can cheer him up with a kind word, a funny story or a small present. We can listen to him and show understanding. My grandmother says: \"A good friend is a doctor for the soul.\" When we help our friends, we also help ourselves.\n\nIf a person feels very bad for a long time, he must go to a special doctor — a psychologist. This is not a shame. A psychologist helps people to understand their emotions and to be healthy again. Many people in our country go to a psychologist and it helps them a lot.\n\nMy mother always says: \"Learn to understand yourself, my son. When you understand yourself, you can understand other people. When you understand other people, you can help them.\" I try to follow her advice. When I feel angry, I take a deep breath and count to ten. When I feel sad, I talk to my mother or I read a good book. When I feel nervous, I do some sport. These simple things help me a lot.\n\nI am grateful to my parents for their love and understanding. I am grateful to my teachers for their patience and kindness. I want to be a good doctor when I grow up, and I want to help people not only with their bodies, but also with their souls. Because a healthy mind in a healthy body is the real treasure of every person.",
+    "tj": "Ҳиссиёт ва саломатии рӯҳӣ\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Ҳар як одам эҳсосот дорад. Эҳсосот ҳиссиёти мо ҳастанд — шодӣ, ғам, муҳаббат, тарс, бадқаҳрӣ ва бисёр эҳсосоти дигар. Эҳсосот қисми хеле муҳими ҳаёти мо ҳастанд. Онҳо ба мо кӯмак мекунанд, ки худамон ва одамони дигарро фаҳмем. Имрӯз ман мехоҳам ба шумо дар бораи эҳсосот ва дар бораи саломатии рӯҳӣ нақл кунам.\n\nҲамаи мо рӯзҳои хуб ва рӯзҳои бад дорем. Дар рӯзи хуб мо худро хушбахт, шодком ва боваринок ҳис мекунем. Дар рӯзи бад мо худро ғамгин, хаста ва нигарон ҳис мекунем. Ин муқаррарӣ аст — ҳамаи одамон рӯҳияи гуногун доранд. Муҳимтарин чиз ин аст, ки эҳсосоти худро фаҳмем ва донем, ки онҳоро чӣ тавр идора кунем.\n\nЭҳсосоти мусбӣ ва эҳсосоти манфӣ ҳастанд. Эҳсосоти мусбӣ — шодӣ, муҳаббат, умед, миннатдорӣ ва оромӣ. Эҳсосоти манфӣ — тарс, ғам, бадқаҳрӣ, рашк ва нигаронӣ. Эҳсосоти мусбӣ моро хушбахт ва солим мекунанд. Эҳсосоти манфӣ моро хаста ва ғамгин мекунанд. Аммо эҳсосоти манфӣ бад нестанд — онҳо низ ба мо кӯмак мекунанд. Масалан, тарс моро аз хатар муҳофизат мекунад. Бадқаҳрӣ ба мо кӯмак мекунад, ки худро ҳимоя кунем. Ғам ба мо кӯмак мекунад, ки фаҳмем, ки чӣ барои мо муҳим аст.\n\nМушкилӣ вақтест, ки эҳсосоти манфӣ аз ҳад зиёд қавӣ ё аз ҳад дароз мешаванд. Агар одам моҳҳои зиёд ғамгин бошад, ин хуб нест. Агар одам ҳамеша бадқаҳр бошад, ин хуб нест. Ин метавонад фишор ба вуҷуд оварад — ҳисси хеле душворе, ки одам хаста, нигарон аст ва ором шуда наметавонад. Фишор имрӯз барои одамони зиёд мушкили калон аст, ҳам барои кӯдакон ва ҳам барои калонсолон. Фишори аз ҳад зиёд метавонад беморӣ ба вуҷуд оварад.\n\nЧӣ тавр мо метавонем ором ва солим бимонем? Аввал, мо бояд эҳсосоти худро фаҳмем. Вақте ки мо бадқаҳр ё ғамгин мешавем, мо бояд аз худам бипурсем: «Чаро ман ин тавр ҳис мекунам? Чӣ рӯй дод?» Фаҳмиш қадами аввал ба сӯи беҳтар шудан аст. Дуюм, мо бояд дар бораи ҳиссиёти худ гап занем. Мо метавонем бо модар, бо падар, бо бибӣ ё бо дӯсти хуб гап занем. Вақте ки мо дар бораи мушкилоти худ гап мезанем, онҳо хурдтар мешаванд. Сеюм, мо бояд варзиш кунем. Варзиш роҳи бузурги коҳиш додани фишор аст. Вақте ки мо медаваем, футбол бозӣ мекунем ё шино мекунем, бадани мо моддаҳои махсус месозад, ки моро хушбахт мекунанд.\n\nЧорум, мо бояд хуб хоб кунем. Кӯдакон ба ҳадди ақал нӯҳ ё даҳ соат хоб дар як шаб ниёз доранд. Агар мо хуб хоб накунем, мо ҳаяҷонзада ва нигарон мешавем. Панҷум, мо бояд ғизои хуб хӯрем. Меваҳои тоза, сабзавот ва шир ба майнаи мо кӯмак мекунанд, ки хуб кор кунад. Шашум, мо бояд машғулиятҳои дӯстдошта дошта бошем — хониш, расмкашӣ, мусиқӣ ё варзиш. Машғулияти хуб ба мо кӯмак мекунад, ки ором шавем ва мушкилоти худро фаромӯш кунем.\n\nАгар дӯсти мо ғамгин бошад, мо бояд ба ӯ кӯмак кунем. Мо метавонем ӯро бо сухани меҳрубон, бо ҳикояи хандаовар ё бо тӯҳфаи хурд дилхуш кунем. Мо метавонем ба ӯ гӯш кунем ва фаҳмиш нишон диҳем. Бибиам мегӯяд: «Дӯсти хуб духтури рӯҳ аст.» Вақте ки мо ба дӯстонамон кӯмак мекунем, мо ба худамон низ кӯмак мекунем.\n\nАгар одам муддати дароз худро хеле бад ҳис кунад, ӯ бояд ба духтури махсус — равоншинос равад. Ин шарм нест. Равоншинос ба одамон кӯмак мекунад, ки эҳсосоти худро фаҳманд ва боз солим шаванд. Одамони зиёд дар кишвари мо ба равоншинос мераванд ва ин ба онҳо хеле кӯмак мекунад.\n\nМодарам ҳамеша мегӯяд: «Омӯз худатро фаҳмӣ, писарам. Вақте ки ту худатро мефаҳмӣ, ту одамони дигарро фаҳмида метавонӣ. Вақте ки ту одамони дигарро мефаҳмӣ, ту ба онҳо кӯмак карда метавонӣ.» Ман кӯшиш мекунам, ки ин маслиҳатро риоя кунам. Вақте ки ман бадқаҳр мешавам, ман нафаси амиқ мегирам ва то даҳ мешуморам. Вақте ки ман ғамгин мешавам, ман бо модарам гап мезанам ё китоби хуб мехонам. Вақте ки ман ҳаяҷонзада мешавам, ман варзиш мекунам. Ин чизҳои оддӣ ба ман хеле кӯмак мекунанд.\n\nМан ба волидонам барои муҳаббат ва фаҳмишашон миннатдорам. Ман ба муаллимонам барои сабр ва меҳрубониашон миннатдорам. Ман мехоҳам вақте ки калон мешавам, духтури хуб бошам ва ба одамон на танҳо бо баданашон, балки инчунин бо рӯҳашон кӯмак кунам. Зеро ки ақли солим дар бадани солим ганҷи ҳақиқии ҳар як одам аст."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Муҳаббат ва шодӣ зеботарин эҳсосот ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст A"
+        "Love and joy are the most beautiful emotions.",
+        "Love and joy are the most beautiful feelings.",
+        "Love and happiness are the most beautiful emotions.",
+        "Love and joy are the beautiful emotions."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Love and joy are the most beautiful emotions."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Модарам имрӯз дар рӯҳияи хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: experience"
+        "My mother is in a good mood today.",
+        "My mother is in good mood today.",
+        "My mother is in the good mood today.",
+        "My mother has a good mood today."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "My mother is in a good mood today."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Кори аз ҳад зиёд фишор ва хастагӣ меорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: environment",
-        "нодуруст A"
+        "Too much work causes stress and tiredness.",
+        "Too much work causes stress and fatigue.",
+        "Very much work causes stress and tiredness.",
+        "Too many work causes stress and tiredness."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Too much work causes stress and tiredness."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ором бош ва дар бораи чизҳои хурд нигарон нашав» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: communication",
-        "нодуруст B"
+        "Stay calm and do not worry about small things.",
+        "Stay calm and don't worry about small things.",
+        "Be calm and do not worry about small things.",
+        "Stay calm and do not worry about the small things."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "Stay calm and do not worry about small things."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ман пеш аз имтиҳон ҳаяҷонзада мешавам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: education",
-        "нодуруст C",
-        "нодуруст A"
+        "I feel nervous before the exam.",
+        "I feel nervous before exam.",
+        "I feel nervous before an exam.",
+        "I am nervous before the exam."
       ],
-      "answer": "тарҷума: education"
+      "answer": "I feel nervous before the exam."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Кӯдакон дар бораи ид баҳраваранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст C"
+        "The children are excited about the holiday.",
+        "The children are excited about holiday.",
+        "Children are excited about the holiday.",
+        "The children are excited for the holiday."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The children are excited about the holiday."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Пирамард худро танҳо ҳис мекунад, зеро ки фарзандони ӯ дур зиндагӣ мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: achievement",
-        "нодуруст A",
-        "нодуруст B"
+        "The old man feels lonely because his children live far away.",
+        "The old man feels lonely because his children live far.",
+        "The old man feels lonely, because his children live far away.",
+        "An old man feels lonely because his children live far away."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The old man feels lonely because his children live far away."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Бибиам ҳамеша шодком ва меҳрубон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "My grandmother is always cheerful and kind.",
+        "My grandmother is always cheerful and kind.",
+        "My grandmother is always merry and kind.",
+        "My grandmother is cheerful and kind always."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "My grandmother is always cheerful and kind."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Модарам дар бораи бародарам нигарон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: knowledge",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "My mother is worried about my brother.",
+        "My mother worries about my brother.",
+        "My mother is worried for my brother.",
+        "My mother is worrying about my brother."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "My mother is worried about my brother."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Одами боваринок аз душвориҳо наметарсад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: conversation"
+        "A confident person is not afraid of difficulties.",
+        "A confident man is not afraid of difficulties.",
+        "The confident person is not afraid of difficulties.",
+        "A confident person is not afraid of the difficulties."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "A confident person is not afraid of difficulties."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ман ба волидонам барои ҳама чиз миннатдорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: fluency",
-        "нодуруст A"
+        "I am grateful to my parents for everything.",
+        "I am grateful to my parents for all.",
+        "I am grateful for my parents for everything.",
+        "I am grateful to my parents for every thing."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "I am grateful to my parents for everything."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Одами рашкгар ҳеҷ гоҳ хушбахт нест» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст C"
+        "A jealous person is never happy.",
+        "A jealous man is never happy.",
+        "The jealous person is never happy.",
+        "A jealous person is not happy ever."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "A jealous person is never happy."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Нафаси амиқ гир ва ором шав» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: pronunciation",
-        "нодуруст B",
-        "нодуруст C"
+        "Take a deep breath and calm down.",
+        "Take deep breath and calm down.",
+        "Take a deep breath and calm yourself down.",
+        "Take a deep breath, and calm down."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "Take a deep breath and calm down."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ман мехоҳам дӯсти ғамгинамро дилхуш кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: vocabulary",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "I want to cheer up my sad friend.",
+        "I want to cheer my sad friend up.",
+        "I want to cheer up my sad friend.",
+        "I want to make my sad friend cheerful."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "I want to cheer up my sad friend."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Дӯсти хуб ҳамеша пур аз фаҳмиш аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: grammar",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "A good friend is always full of understanding.",
+        "A good friend is always full of understanding.",
+        "A good friend is full of understanding always.",
+        "The good friend is always full of understanding."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "A good friend is always full of understanding."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Омӯз эҳсосоти худро фаҳмӣ ва онҳо туро идора нахоҳанд кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Learn to understand your emotions and they will not control you.",
+        "Learn to understand your emotions and they won't control you.",
+        "Learn to understand your emotions and they will not control you.",
+        "Learn to understand your feelings and they will not control you."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Learn to understand your emotions and they will not control you."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ҳар як одам эҳсосот дорад. Эҳсосот ҳиссиёти мо ҳастанд — шодӣ, ғам, муҳаббат, тарс, бадқаҳрӣ ва бисёр эҳсосоти дигар. Эҳсосот қисми хеле муҳими ҳаёти мо ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: experience",
-        "нодуруст A"
+        "Every person has emotions. Emotions are our feelings — joy, sadness, love, fear, anger and many others. Emotions are a very important part of our life.",
+        "Every person has emotions. Emotions are our feelings — joy, sadness, love, fear, anger and many others. Emotions are a very important part of our life.",
+        "Each person has emotions. Emotions are our feelings — joy, sadness, love, fear, anger and many others. Emotions are a very important part of our life.",
+        "Every person has emotions. Emotions are our feelings — joy, sadness, love, fear, anger and many other things. Emotions are a very important part of our life."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "Every person has emotions. Emotions are our feelings — joy, sadness, love, fear, anger and many others. Emotions are a very important part of our life."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Онҳо ба мо кӯмак мекунанд, ки худамон ва одамони дигарро фаҳмем. Имрӯз ман мехоҳам ба шумо дар бораи эҳсосот ва дар бораи саломатии рӯҳӣ нақл кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: environment"
+        "They help us to understand ourselves and other people. Today I want to tell you about emotions and about mental health.",
+        "They help us understand ourselves and other people. Today I want to tell you about emotions and about mental health.",
+        "They help us to understand ourselves and other people. Today I want to tell you about emotions and mental health.",
+        "They help us to understand ourselves and the other people. Today I want to tell you about emotions and about mental health."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "They help us to understand ourselves and other people. Today I want to tell you about emotions and about mental health."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ҳамаи мо рӯзҳои хуб ва рӯзҳои бад дорем. Дар рӯзи хуб мо худро хушбахт, шодком ва боваринок ҳис мекунем. Дар рӯзи бад мо худро ғамгин, хаста ва нигарон ҳис мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст C"
+        "We all have good days and bad days. On a good day we feel happy, cheerful and confident. On a bad day we feel sad, tired and worried.",
+        "We all have good days and bad days. On a good day we feel happy, cheerful and confident. On a bad day we feel sad, tired and worried.",
+        "We all have good days and bad days. On the good day we feel happy, cheerful and confident. On the bad day we feel sad, tired and worried.",
+        "All of us have good days and bad days. On a good day we feel happy, cheerful and confident. On a bad day we feel sad, tired and worried."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "We all have good days and bad days. On a good day we feel happy, cheerful and confident. On a bad day we feel sad, tired and worried."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ин муқаррарӣ аст — ҳамаи одамон рӯҳияи гуногун доранд. Муҳимтарин чиз ин аст, ки эҳсосоти худро фаҳмем ва донем, ки онҳоро чӣ тавр идора кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст A",
-        "нодуруст B"
+        "This is normal — all people have different moods. The most important thing is to understand our emotions and to know how to manage them.",
+        "This is normal — all people have different moods. The most important thing is to understand our emotions and know how to manage them.",
+        "It is normal — all people have different moods. The most important thing is to understand our emotions and to know how to manage them.",
+        "This is normal — all people have different moods. The most important thing is to understand our emotions and to know how to control them."
       ],
-      "answer": "тарҷума: education"
+      "answer": "This is normal — all people have different moods. The most important thing is to understand our emotions and to know how to manage them."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Эҳсосоти мусбӣ ва эҳсосоти манфӣ ҳастанд. Эҳсосоти мусбӣ — шодӣ, муҳаббат, умед, миннатдорӣ ва оромӣ. Эҳсосоти манфӣ — тарс, ғам, бадқаҳрӣ, рашк ва нигаронӣ» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: development"
+        "There are positive emotions and negative emotions. Positive emotions are joy, love, hope, gratitude and calm. Negative emotions are fear, sadness, anger, jealousy and worry.",
+        "There are positive and negative emotions. Positive emotions are joy, love, hope, gratitude and calm. Negative emotions are fear, sadness, anger, jealousy and worry.",
+        "There are positive emotions and negative emotions. Positive emotions are joy, love, hope, gratitude and calm. Negative emotions are fear, sadness, anger, jealousy and worry.",
+        "There are positive emotions and negative emotions. Positive emotions are joy, love, hope, gratitude and calm. Negative emotions are fear, sadness, anger, jealousy and worrying."
       ],
-      "answer": "тарҷума: development"
+      "answer": "There are positive emotions and negative emotions. Positive emotions are joy, love, hope, gratitude and calm. Negative emotions are fear, sadness, anger, jealousy and worry."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Эҳсосоти мусбӣ моро хушбахт ва солим мекунанд. Эҳсосоти манфӣ моро хаста ва ғамгин мекунанд. Аммо эҳсосоти манфӣ бад нестанд — онҳо низ ба мо кӯмак мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст B"
+        "Positive emotions make us happy and healthy. Negative emotions make us tired and sad. But negative emotions are not bad — they also help us.",
+        "Positive emotions make us happy and healthy. Negative emotions make us tired and sad. But negative emotions are not bad, they also help us.",
+        "Positive emotions make us happy and healthy. Negative emotions make us tired and sad. But the negative emotions are not bad — they also help us.",
+        "Positive emotions make us happy and healthy. Negative emotions make us tired and sad. But negative emotions are not bad — they help us too."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "Positive emotions make us happy and healthy. Negative emotions make us tired and sad. But negative emotions are not bad — they also help us."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Масалан, тарс моро аз хатар муҳофизат мекунад. Бадқаҳрӣ ба мо кӯмак мекунад, ки худро ҳимоя кунем. Ғам ба мо кӯмак мекунад, ки фаҳмем, ки чӣ барои мо муҳим аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: challenge"
+        "For example, fear protects us from danger. Anger helps us to defend ourselves. Sadness helps us to understand what is important to us.",
+        "For example, fear protects us from danger. Anger helps us defend ourselves. Sadness helps us to understand what is important to us.",
+        "For example, fear protects us from the danger. Anger helps us to defend ourselves. Sadness helps us to understand what is important to us.",
+        "For example, fear protects us from danger. Anger helps us to defend ourselves. Sadness helps us understand what is important to us."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "For example, fear protects us from danger. Anger helps us to defend ourselves. Sadness helps us to understand what is important to us."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Мушкилӣ вақтест, ки эҳсосоти манфӣ аз ҳад зиёд қавӣ ё аз ҳад дароз мешаванд. Агар одам моҳҳои зиёд ғамгин бошад, ин хуб нест. Агар одам ҳамеша бадқаҳр бошад, ин хуб нест» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: knowledge",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "The problem is when negative emotions become too strong or too long. If a person feels sad for many months, it is not good. If a person is angry all the time, it is not good.",
+        "The problem is when negative emotions become too strong or too long. If a person feels sad for many months it is not good. If a person is angry all the time, it is not good.",
+        "The problem is when the negative emotions become too strong or too long. If a person feels sad for many months, it is not good. If a person is angry all the time, it is not good.",
+        "The problem is when negative emotions become too strong or too long. If a person feels sad for many months, it is not good. If a person is angry all the time it is not good."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "The problem is when negative emotions become too strong or too long. If a person feels sad for many months, it is not good. If a person is angry all the time, it is not good."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Ин метавонад фишор ба вуҷуд оварад — ҳисси хеле душворе, ки одам хаста, нигарон аст ва ором шуда наметавонад. Фишор имрӯз барои одамони зиёд мушкили калон аст, ҳам барои кӯдакон ва ҳам барои калонсолон. Фишори аз ҳад зиёд метавонад беморӣ ба вуҷуд оварад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: conversation"
+        "This can cause stress — a very difficult feeling when a person is tired, worried and cannot relax. Stress is a big problem for many people today, both for children and for adults. Too much stress can cause illness.",
+        "This can cause stress — a very difficult feeling when a person is tired, worried and cannot relax. Stress is a big problem for many people today, both for children and adults. Too much stress can cause illness.",
+        "This can cause stress — a very difficult feeling when a person is tired, worried and cannot relax. Stress is a big problem for many people today both for children and for adults. Too much stress can cause illness.",
+        "It can cause stress — a very difficult feeling when a person is tired, worried and cannot relax. Stress is a big problem for many people today, both for children and for adults. Too much stress can cause illness."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "This can cause stress — a very difficult feeling when a person is tired, worried and cannot relax. Stress is a big problem for many people today, both for children and for adults. Too much stress can cause illness."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Чӣ тавр мо метавонем ором ва солим бимонем? Аввал, мо бояд эҳсосоти худро фаҳмем. Вақте ки мо бадқаҳр ё ғамгин мешавем, мо бояд аз худам бипурсем: \"Чаро ман ин тавр ҳис мекунам? Чӣ рӯй дод?\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: fluency"
+        "How can we stay calm and healthy? First, we must understand our emotions. When we feel angry or sad, we must ask ourselves: \"Why do I feel this way? What has happened?\"",
+        "How can we stay calm and healthy? First, we must understand our emotions. When we feel angry or sad we must ask ourselves: \"Why do I feel this way? What has happened?\"",
+        "How can we stay calm and healthy? First, we must understand our emotions. When we feel angry or sad, we must ask ourselves: \"Why do I feel this way? What happened?\"",
+        "How can we stay calm and healthy? At first, we must understand our emotions. When we feel angry or sad, we must ask ourselves: \"Why do I feel this way? What has happened?\""
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "How can we stay calm and healthy? First, we must understand our emotions. When we feel angry or sad, we must ask ourselves: \"Why do I feel this way? What has happened?\""
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Фаҳмиш қадами аввал ба сӯи беҳтар шудан аст. Дуюм, мо бояд дар бораи ҳиссиёти худ гап занем. Мо метавонем бо модар, бо падар, бо бибӣ ё бо дӯсти хуб гап занем. Вақте ки мо дар бораи мушкилоти худ гап мезанем, онҳо хурдтар мешаванд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст B"
+        "Understanding is the first step to feeling better. Second, we must talk about our feelings. We can talk to our mother, our father, our grandmother or a good friend. When we talk about our problems, they become smaller.",
+        "Understanding is the first step to feeling better. Second, we must talk about our feelings. We can talk to our mother, our father, our grandmother or a good friend. When we talk about our problems they become smaller.",
+        "Understanding is the first step to feeling better. Secondly, we must talk about our feelings. We can talk to our mother, our father, our grandmother or a good friend. When we talk about our problems, they become smaller.",
+        "Understanding is the first step to feeling better. Second, we must talk about our feelings. We can talk to our mother, our father, our grandmother or a good friend. When we talk about the problems, they become smaller."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "Understanding is the first step to feeling better. Second, we must talk about our feelings. We can talk to our mother, our father, our grandmother or a good friend. When we talk about our problems, they become smaller."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Сеюм, мо бояд варзиш кунем. Варзиш роҳи бузурги коҳиш додани фишор аст. Вақте ки мо медаваем, футбол бозӣ мекунем ё шино мекунем, бадани мо моддаҳои махсус месозад, ки моро хушбахт мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: pronunciation",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Third, we must do sport. Sport is a great way to reduce stress. When we run, play football or swim, our body makes special chemicals that make us happy.",
+        "Third, we must do sport. Sport is a great way to reduce stress. When we run, play football or swim our body makes special chemicals that make us happy.",
+        "Thirdly, we must do sport. Sport is a great way to reduce stress. When we run, play football or swim, our body makes special chemicals that make us happy.",
+        "Third, we must go in for sports. Sport is a great way to reduce stress. When we run, play football or swim, our body makes special chemicals that make us happy."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "Third, we must do sport. Sport is a great way to reduce stress. When we run, play football or swim, our body makes special chemicals that make us happy."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Чорум, мо бояд хуб хоб кунем. Кӯдакон ба ҳадди ақал нӯҳ ё даҳ соат хоб дар як шаб ниёз доранд. Агар мо хуб хоб накунем, мо ҳаяҷонзада ва нигарон мешавем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: vocabulary",
-        "нодуруст C"
+        "Fourth, we must sleep well. Children need at least nine or ten hours of sleep every night. If we do not sleep well, we become nervous and worried.",
+        "Fourth, we must sleep well. Children need at least nine or ten hours of sleep every night. If we don't sleep well, we become nervous and worried.",
+        "Fourthly, we must sleep well. Children need at least nine or ten hours of sleep every night. If we do not sleep well, we become nervous and worried.",
+        "Fourth, we must sleep well. Children need at least nine or ten hours of sleep every night. If we do not sleep well we become nervous and worried."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "Fourth, we must sleep well. Children need at least nine or ten hours of sleep every night. If we do not sleep well, we become nervous and worried."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Панҷум, мо бояд ғизои хуб хӯрем. Меваҳои тоза, сабзавот ва шир ба майнаи мо кӯмак мекунанд, ки хуб кор кунад. Шашум, мо бояд машғулиятҳои дӯстдошта дошта бошем — хониш, расмкашӣ, мусиқӣ ё варзиш» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: grammar",
-        "нодуруст C"
+        "Fifth, we must eat good food. Fresh fruits, vegetables and milk help our brain to work well. Sixth, we must have hobbies — reading, drawing, music or sport.",
+        "Fifth, we must eat good food. Fresh fruit, vegetables and milk help our brain to work well. Sixth, we must have hobbies — reading, drawing, music or sport.",
+        "Fifthly, we must eat good food. Fresh fruits, vegetables and milk help our brain to work well. Sixthly, we must have hobbies — reading, drawing, music or sport.",
+        "Fifth, we must eat good food. Fresh fruits, vegetables and milk help our brain work well. Sixth, we must have hobbies — reading, drawing, music or sport."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "Fifth, we must eat good food. Fresh fruits, vegetables and milk help our brain to work well. Sixth, we must have hobbies — reading, drawing, music or sport."
+    },
+    {
+      "q": "«Машғулияти хуб ба мо кӯмак мекунад, ки ором шавем ва мушкилоти худро фаромӯш кунем. Агар дӯсти мо ғамгин бошад, мо бояд ба ӯ кӯмак кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "A good hobby helps us to relax and to forget our problems. If our friend is sad, we must help him.",
+        "A good hobby helps us relax and forget our problems. If our friend is sad, we must help him.",
+        "A good hobby helps us to relax and forget our problems. If our friend is sad, we must help him.",
+        "A good hobby helps us to relax and to forget our problems. If a friend of ours is sad, we must help him."
+      ],
+      "answer": "A good hobby helps us to relax and to forget our problems. If our friend is sad, we must help him."
+    },
+    {
+      "q": "«Мо метавонем ӯро бо сухани меҳрубон, бо ҳикояи хандаовар ё бо тӯҳфаи хурд дилхуш кунем. Мо метавонем ба ӯ гӯш кунем ва фаҳмиш нишон диҳем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We can cheer him up with a kind word, a funny story or a small present. We can listen to him and show understanding.",
+        "We can cheer him up with a kind word, a funny story or a small gift. We can listen to him and show understanding.",
+        "We can cheer him up with a kind word, with a funny story or with a small present. We can listen to him and show understanding.",
+        "We can cheer up him with a kind word, a funny story or a small present. We can listen to him and show understanding."
+      ],
+      "answer": "We can cheer him up with a kind word, a funny story or a small present. We can listen to him and show understanding."
+    },
+    {
+      "q": "«Бибиам мегӯяд: \"Дӯсти хуб духтури рӯҳ аст.\" Вақте ки мо ба дӯстонамон кӯмак мекунем, мо ба худамон низ кӯмак мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandmother says: \"A good friend is a doctor for the soul.\" When we help our friends, we also help ourselves.",
+        "My grandmother says: \"A good friend is the doctor for the soul.\" When we help our friends, we also help ourselves.",
+        "My grandmother says: \"A good friend is a doctor for the soul.\" When we help our friends we also help ourselves.",
+        "My grandmother says: \"A good friend is a doctor of the soul.\" When we help our friends, we also help ourselves."
+      ],
+      "answer": "My grandmother says: \"A good friend is a doctor for the soul.\" When we help our friends, we also help ourselves."
+    },
+    {
+      "q": "«Агар одам муддати дароз худро хеле бад ҳис кунад, ӯ бояд ба духтури махсус — равоншинос равад. Ин шарм нест. Равоншинос ба одамон кӯмак мекунад, ки эҳсосоти худро фаҳманд ва боз солим шаванд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "If a person feels very bad for a long time, he must go to a special doctor — a psychologist. This is not a shame. A psychologist helps people to understand their emotions and to be healthy again.",
+        "If a person feels very bad for a long time he must go to a special doctor — a psychologist. This is not a shame. A psychologist helps people to understand their emotions and to be healthy again.",
+        "If a person feels very bad for a long time, he must go to a special doctor — a psychologist. It is not a shame. A psychologist helps people to understand their emotions and to be healthy again.",
+        "If a person feels very bad for a long time, he must go to a special doctor — a psychologist. This is not shame. A psychologist helps people to understand their emotions and to be healthy again."
+      ],
+      "answer": "If a person feels very bad for a long time, he must go to a special doctor — a psychologist. This is not a shame. A psychologist helps people to understand their emotions and to be healthy again."
+    },
+    {
+      "q": "«Модарам ҳамеша мегӯяд: \"Омӯз худатро фаҳмӣ, писарам. Вақте ки ту худатро мефаҳмӣ, ту одамони дигарро фаҳмида метавонӣ.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My mother always says: \"Learn to understand yourself, my son. When you understand yourself, you can understand other people.\"",
+        "My mother always says: \"Learn to understand yourself, my son. When you understand yourself you can understand other people.\"",
+        "My mother always says: \"Learn to understand yourself, my son. When you understand yourself, you can understand the other people.\"",
+        "My mother always says: \"Learn to understand yourself, my son. When you understand yourself, you will understand other people.\""
+      ],
+      "answer": "My mother always says: \"Learn to understand yourself, my son. When you understand yourself, you can understand other people.\""
+    },
+    {
+      "q": "«Ман кӯшиш мекунам, ки ин маслиҳатро риоя кунам. Вақте ки ман бадқаҳр мешавам, ман нафаси амиқ мегирам ва то даҳ мешуморам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I try to follow her advice. When I feel angry, I take a deep breath and count to ten.",
+        "I try to follow her advice. When I feel angry I take a deep breath and count to ten.",
+        "I try to follow her advice. When I feel angry, I take a deep breath and count to ten.",
+        "I try to follow her advice. When I feel angry, I take deep breath and count to ten."
+      ],
+      "answer": "I try to follow her advice. When I feel angry, I take a deep breath and count to ten."
+    },
+    {
+      "q": "«Вақте ки ман ғамгин мешавам, ман бо модарам гап мезанам ё китоби хуб мехонам. Вақте ки ман ҳаяҷонзада мешавам, ман варзиш мекунам. Ин чизҳои оддӣ ба ман хеле кӯмак мекунанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I feel sad, I talk to my mother or I read a good book. When I feel nervous, I do some sport. These simple things help me a lot.",
+        "When I feel sad I talk to my mother or I read a good book. When I feel nervous, I do some sport. These simple things help me a lot.",
+        "When I feel sad, I talk to my mother or read a good book. When I feel nervous, I do some sport. These simple things help me a lot.",
+        "When I feel sad, I talk to my mother or I read a good book. When I feel nervous, I do sport. These simple things help me a lot."
+      ],
+      "answer": "When I feel sad, I talk to my mother or I read a good book. When I feel nervous, I do some sport. These simple things help me a lot."
+    },
+    {
+      "q": "«Ман ба волидонам барои муҳаббат ва фаҳмишашон миннатдорам. Ман ба муаллимонам барои сабр ва меҳрубониашон миннатдорам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I am grateful to my parents for their love and understanding. I am grateful to my teachers for their patience and kindness.",
+        "I am grateful to my parents for their love and understanding. I am grateful to my teachers for their patience and kindness.",
+        "I am grateful to my parents for love and understanding. I am grateful to my teachers for patience and kindness.",
+        "I am grateful to my parents for their love and understanding. I am grateful to my teachers for their patience and their kindness."
+      ],
+      "answer": "I am grateful to my parents for their love and understanding. I am grateful to my teachers for their patience and kindness."
+    },
+    {
+      "q": "«Ман мехоҳам вақте ки калон мешавам, духтури хуб бошам ва ба одамон на танҳо бо баданашон, балки инчунин бо рӯҳашон кӯмак кунам. Зеро ки ақли солим дар бадани солим ганҷи ҳақиқии ҳар як одам аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to be a good doctor when I grow up, and I want to help people not only with their bodies, but also with their souls. Because a healthy mind in a healthy body is the real treasure of every person.",
+        "I want to be a good doctor when I grow up and I want to help people not only with their bodies, but also with their souls. Because a healthy mind in a healthy body is the real treasure of every person.",
+        "I want to be a good doctor when I grow up, and I want to help people not only with their bodies but also with their souls. Because a healthy mind in a healthy body is the real treasure of every person.",
+        "I want to be a good doctor when I grow up, and I want to help people not only with their bodies, but also with their souls. Because a healthy mind in a healthy body is the real treasure of every man."
+      ],
+      "answer": "I want to be a good doctor when I grow up, and I want to help people not only with their bodies, but also with their souls. Because a healthy mind in a healthy body is the real treasure of every person."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 30
+  "wordsCount": 16
 }
