@@ -1,416 +1,602 @@
 {
   "id": 55,
-  "title": "Муоширати воқеӣ 55",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 55: Технологияи муосир ва оянда",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "robot",
+      "tj": "робот",
+      "ex": "Robots help people in factories."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "machine",
+      "tj": "мошин",
+      "ex": "This machine works very quickly."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "screen",
+      "tj": "экран",
+      "ex": "The screen of my phone is small."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "smartphone",
+      "tj": "телефони ҳушманд",
+      "ex": "My father has a new smartphone."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "app",
+      "tj": "барнома",
+      "ex": "This app helps me learn English."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "to download",
+      "tj": "боргирӣ кардан",
+      "ex": "I download new songs every week."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "to connect",
+      "tj": "пайваст кардан",
+      "ex": "I connect my phone to the internet."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "wireless",
+      "tj": "бесим",
+      "ex": "Wireless internet is very useful."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "device",
+      "tj": "дастгоҳ",
+      "ex": "A smartphone is a useful device."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "modern",
+      "tj": "муосир",
+      "ex": "Modern technology changes our life."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "invention",
+      "tj": "ихтироъ",
+      "ex": "The computer is a great invention."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "to invent",
+      "tj": "ихтироъ кардан",
+      "ex": "Scientists invent new things every year."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "to develop",
+      "tj": "рушд додан",
+      "ex": "Our country develops modern technology."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "to be careful",
+      "tj": "бодиққат будан",
+      "ex": "We must be careful with the internet."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "dangerous",
+      "tj": "хатарнок",
+      "ex": "Some websites are dangerous for children."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "safe",
+      "tj": "бехатар",
+      "ex": "This website is safe for pupils."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 55)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Robots help people in factories and in hospitals.",
+      "tj": "Роботҳо ба одамон дар заводҳо ва дар беморхонаҳо кӯмак мекунанд."
     },
     {
-      "en": "I'm working on lesson 55",
-      "tj": "Ман дарси 55-ро меомӯзам"
+      "en": "This machine works very quickly and correctly.",
+      "tj": "Ин мошин хеле зуд ва дуруст кор мекунад."
+    },
+    {
+      "en": "The screen of my phone is small, but very useful.",
+      "tj": "Экрани телефони ман хурд аст, аммо хеле фоиданок."
+    },
+    {
+      "en": "My father has a new smartphone with many apps.",
+      "tj": "Падарам телефони ҳушманди нав бо барномаҳои зиёд дорад."
+    },
+    {
+      "en": "This app helps me learn English words every day.",
+      "tj": "Ин барнома ҳар рӯз ба ман омӯхтани калимаҳои англисӣ кӯмак мекунад."
+    },
+    {
+      "en": "I download new books and songs from the internet.",
+      "tj": "Ман аз интернет китобҳо ва сурудҳои нав боргирӣ мекунам."
+    },
+    {
+      "en": "I connect my phone to wireless internet at home.",
+      "tj": "Ман телефони худро дар хона ба интернети бесим пайваст мекунам."
+    },
+    {
+      "en": "A smartphone is a useful device for pupils.",
+      "tj": "Телефони ҳушманд дастгоҳи фоиданок барои хонандагон аст."
+    },
+    {
+      "en": "Modern technology changes our life very quickly.",
+      "tj": "Технологияи муосир ҳаёти моро хеле зуд тағйир медиҳад."
+    },
+    {
+      "en": "The computer is a great invention of the twentieth century.",
+      "tj": "Компютер ихтирои бузурги асри бистум аст."
+    },
+    {
+      "en": "Scientists invent new machines and new devices every year.",
+      "tj": "Олимон ҳар сол мошинҳои нав ва дастгоҳҳои нав ихтироъ мекунанд."
+    },
+    {
+      "en": "Our country develops modern technology very quickly.",
+      "tj": "Кишвари мо технологияи муосиро хеле зуд рушд медиҳад."
+    },
+    {
+      "en": "We must be careful with the internet and with our devices.",
+      "tj": "Мо бояд бо интернет ва бо дастгоҳҳои худ бодиққат бошем."
+    },
+    {
+      "en": "Some websites are dangerous for small children.",
+      "tj": "Баъзе сомонаҳо барои кӯдакони хурд хатарнок ҳастанд."
+    },
+    {
+      "en": "This website is safe and very useful for pupils.",
+      "tj": "Ин сомона бехатар ва барои хонандагон хеле фоиданок аст."
+    },
+    {
+      "en": "Modern technology is useful, but we must use it carefully.",
+      "tj": "Технологияи муосир фоиданок аст, аммо мо бояд онро бодиққат истифода барем."
     }
   ],
   "text": {
-    "en": "Text for lesson 55. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 55 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 55 text.",
-    "tj": "Матни дарси 55..."
+    "en": "Modern Technology and the Future\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. I love modern technology very much. In our flat we have a computer, a laptop, two smartphones and a printer. Every day I use them for school, for reading books and for talking with my friends.\n\nModern technology changes our life very quickly. Fifty years ago people did not have smartphones. They did not have wireless internet. They did not have apps. They wrote letters by hand and waited for many days for an answer. Today we write a message and in one second our friend reads it on his phone. It is a wonderful thing!\n\nThe computer is a great invention of the twentieth century. The first computers were very big. They filled a whole room! Today computers are very small — you can put them in your pocket. A smartphone is a small computer. It is a useful device for everyone. With a smartphone you can read books, watch videos, listen to music and study foreign languages.\n\nI have many apps on my phone. One app helps me learn English. Another app helps me with math. I also have an app for reading books. Every evening I download a new book and read it. Some books are free and some books cost money. But it is easy and quick — I do not need to go to the shop.\n\nI connect my phone to wireless internet at home. When I want to learn something new, I search for information on the internet. When I do not understand a word in English, I use my dictionary app. When I want to know the weather for tomorrow, I use my weather app. When I want to call my grandmother, I use my phone. Modern technology makes our life very easy.\n\nRobots also help people very much. In big factories robots make cars, phones and other things. They work very quickly and never get tired. In hospitals robots help doctors during difficult operations. In some countries robots deliver food and letters to people's homes. In Japan there are robot dogs and robot cats. It is very interesting to look at them.\n\nScientists invent new machines and new devices every year. Our country Tajikistan also develops modern technology. In our schools we have computer classes. Our teachers teach us how to use computers and how to work with different apps. In our hospitals doctors use modern machines to help sick people. Our government helps young people study technology and become good engineers and programmers.\n\nBut modern technology has its own problems too. Some people use their phones for many hours every day. They do not read books, they do not do sport, they do not talk with their family. Their eyes hurt and their heads hurt. Some children look at dangerous websites. They see bad things and they cannot sleep at night. This is a very big problem.\n\nWe must be careful with the internet and with our devices. We must not give our password to other people. We must not open dangerous websites. We must not believe everything we read on the internet. We must use modern technology for good things only: for study, for learning new languages, for talking with our family and for helping other people.\n\nMy parents say: \"Modern technology is useful, but it must not be the most important thing in your life. Books, sport, family and friends are more important than any phone.\" I agree with them. I try to use my phone for one hour a day — not more. I read real books, I play football with my friends and I help my mother at home. Technology helps me, but it does not rule my life.\n\nWhen I grow up, I want to be a doctor. I also want to study modern technology. I want to invent a new medical device — a small machine that helps doctors save lives. I want to help my country and my people. I want to use modern technology for good things. And I want to teach my children to use technology carefully, kindly and wisely.",
+    "tj": "Технологияи муосир ва оянда\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Ман технологияи муосиро хеле дӯст медорам. Дар хонаи мо компютер, лаптоп, ду телефони ҳушманд ва принтер ҳастанд. Ҳар рӯз ман онҳоро барои мактаб, барои хондани китобҳо ва барои гап задан бо дӯстонам истифода мебарам.\n\nТехнологияи муосир ҳаёти моро хеле зуд тағйир медиҳад. Панҷоҳ сол пеш одамон телефонҳои ҳушманд надоштанд. Онҳо интернети бесим надоштанд. Онҳо барномаҳо надоштанд. Онҳо мактубҳоро бо даст менавиштанд ва рӯзҳои зиёд барои ҷавоб интизор мешуданд. Имрӯз мо паём менависем ва дар як сония дӯсти мо онро дар телефони худ мехонад. Ин чизи аҷоиб аст!\n\nКомпютер ихтирои бузурги асри бистум аст. Аввалин компютерҳо хеле калон буданд. Онҳо тамоми як ҳуҷраро пур мекарданд! Имрӯз компютерҳо хеле хурд ҳастанд — шумо метавонед онҳоро дар ҷайби худ гузоред. Телефони ҳушманд компютери хурд аст. Он дастгоҳи фоиданок барои ҳама аст. Бо телефони ҳушманд шумо метавонед китобҳо хонед, видео тамошо кунед, мусиқӣ гӯш кунед ва забонҳои хориҷиро омӯзед.\n\nМан дар телефони худ барномаҳои зиёд дорам. Як барнома ба ман омӯхтани англисӣ кӯмак мекунад. Барномаи дигар ба ман бо математика кӯмак мекунад. Ман инчунин барномае барои хондани китобҳо дорам. Ҳар бегоҳ ман китоби нав боргирӣ мекунам ва онро мехонам. Баъзе китобҳо ройгонанд ва баъзе китобҳо пул меарзанд. Аммо ин осон ва зуд аст — ба ман лозим нест, ки ба дукон равам.\n\nМан телефони худро дар хона ба интернети бесим пайваст мекунам. Вақте ки ман чизи навро омӯхтан мехоҳам, ман дар интернет маълумот ҷустуҷӯ мекунам. Вақте ки ман калимаеро бо англисӣ намефаҳмам, ман барномаи луғати худро истифода мебарам. Вақте ки ман мехоҳам обу ҳавои фардоро донум, ман барномаи обу ҳавои худро истифода мебарам. Вақте ки ман мехоҳам ба бибиам занг занам, ман телефони худро истифода мебарам. Технологияи муосир ҳаёти моро хеле осон мекунад.\n\nРоботҳо низ ба одамон хеле кӯмак мекунанд. Дар заводҳои калон роботҳо мошинҳо, телефонҳо ва чизҳои дигар месозанд. Онҳо хеле зуд кор мекунанд ва ҳеҷ гоҳ хаста намешаванд. Дар беморхонаҳо роботҳо ба духтурон ҳангоми амалиёти душвор кӯмак мекунанд. Дар баъзе кишварҳо роботҳо ғизо ва мактубҳоро ба хонаҳои одамон мерасонанд. Дар Ҷопон сагҳои робот ва гурбаҳои робот ҳастанд. Ба онҳо нигоҳ кардан хеле ҷолиб аст.\n\nОлимон ҳар сол мошинҳои нав ва дастгоҳҳои нав ихтироъ мекунанд. Кишвари мо Тоҷикистон низ технологияи муосиро рушд медиҳад. Дар мактабҳои мо синфҳои компютерӣ ҳастанд. Муаллимони мо ба мо истифода бурдани компютерҳо ва кор кардан бо барномаҳои гуногунро меомӯзонанд. Дар беморхонаҳои мо духтурон мошинҳои муосирро барои кӯмак ба беморон истифода мебаранд. Ҳукумати мо ба ҷавонон кӯмак мекунад, ки технологияро омӯзанд ва муҳандисон ва барномасозони хуб шаванд.\n\nАммо технологияи муосир мушкилоти худро низ дорад. Баъзе одамон телефонҳои худро ҳар рӯз соатҳои зиёд истифода мебаранд. Онҳо китоб намехонанд, варзиш намекунанд, бо оилаи худ гап намезананд. Чашмони онҳо дард мекунад ва сари онҳо дард мекунад. Баъзе кӯдакон ба сомонаҳои хатарнок нигоҳ мекунанд. Онҳо чизҳои бадро мебинанд ва шабона хоб карда наметавонанд. Ин мушкили хеле калон аст.\n\nМо бояд бо интернет ва бо дастгоҳҳои худ бодиққат бошем. Мо набояд рамзи худро ба одамони дигар диҳем. Мо набояд сомонаҳои хатарнокро кушоем. Мо набояд ба ҳама чизе, ки дар интернет мехонем, бовар кунем. Мо бояд технологияи муосиро танҳо барои корҳои хуб истифода барем: барои таҳсил, барои омӯхтани забонҳои нав, барои гап задан бо оилаамон ва барои кӯмак кардан ба одамони дигар.\n\nВолидонам мегӯянд: «Технологияи муосир фоиданок аст, аммо он набояд муҳимтарин чиз дар ҳаёти шумо бошад. Китобҳо, варзиш, оила ва дӯстон аз ҳар гуна телефон муҳимтаранд.» Ман бо онҳо розӣ ҳастам. Ман кӯшиш мекунам, ки телефони худро як соат дар як рӯз истифода барам — на бештар. Ман китобҳои ҳақиқӣ мехонам, бо дӯстонам футбол бозӣ мекунам ва дар хона ба модарам кӯмак мекунам. Технология ба ман кӯмак мекунад, аммо он ҳаёти маро идора намекунад.\n\nВақте ки ман калон мешавам, ман мехоҳам духтур шавам. Ман инчунин мехоҳам технологияи муосиро омӯзам. Ман мехоҳам дастгоҳи нави тиббиро ихтироъ кунам — мошини хурде, ки ба духтурон барои наҷот додани ҳаёт кӯмак мекунад. Ман мехоҳам ба кишварам ва мардумам кӯмак кунам. Ман мехоҳам технологияи муосиро барои корҳои хуб истифода барам. Ва ман мехоҳам ба кӯдаконам омӯзонам, ки технологияро бодиққат, меҳрубонона ва бо ақл истифода баранд."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Роботҳо ба одамон дар заводҳо ва дар беморхонаҳо кӯмак мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: opportunity"
+        "Robots help people in factories and in hospitals.",
+        "Robots help people in factories and hospitals.",
+        "The robots help people in factories and in hospitals.",
+        "Robots help to people in factories and in hospitals."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Robots help people in factories and in hospitals."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ин мошин хеле зуд ва дуруст кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст B",
-        "нодуруст C"
+        "This machine works very quickly and correctly.",
+        "This machine works very quick and correctly.",
+        "This machine works very quickly and correct.",
+        "This machine works very fast and correctly."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "This machine works very quickly and correctly."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Экрани телефони ман хурд аст, аммо хеле фоиданок» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст B"
+        "The screen of my phone is small, but very useful.",
+        "The screen of my phone is small but very useful.",
+        "The screen of my phone is small, but very good.",
+        "A screen of my phone is small, but very useful."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "The screen of my phone is small, but very useful."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Падарам телефони ҳушманди нав бо барномаҳои зиёд дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: communication"
+        "My father has a new smartphone with many apps.",
+        "My father has a new smartphone with many applications.",
+        "My father has the new smartphone with many apps.",
+        "My father has a new smartphone and many apps."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "My father has a new smartphone with many apps."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ин барнома ҳар рӯз ба ман омӯхтани калимаҳои англисӣ кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: education"
+        "This app helps me learn English words every day.",
+        "This app helps me to learn English words every day.",
+        "This app helps me learning English words every day.",
+        "This app helps me learn English words every morning."
       ],
-      "answer": "тарҷума: education"
+      "answer": "This app helps me learn English words every day."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Ман аз интернет китобҳо ва сурудҳои нав боргирӣ мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: development"
+        "I download new books and songs from the internet.",
+        "I download new books and songs from internet.",
+        "I download the new books and songs from the internet.",
+        "I download new books and new songs from the internet."
       ],
-      "answer": "тарҷума: development"
+      "answer": "I download new books and songs from the internet."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ман телефони худро дар хона ба интернети бесим пайваст мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: achievement",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "I connect my phone to wireless internet at home.",
+        "I connect my phone with wireless internet at home.",
+        "I connect my phone to the wireless internet at home.",
+        "I connect the phone to wireless internet at home."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "I connect my phone to wireless internet at home."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Телефони ҳушманд дастгоҳи фоиданок барои хонандагон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "A smartphone is a useful device for pupils.",
+        "A smartphone is the useful device for pupils.",
+        "A smartphone is a useful device for pupils.",
+        "The smartphone is a useful device for pupils."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "A smartphone is a useful device for pupils."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Технологияи муосир ҳаёти моро хеле зуд тағйир медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: knowledge"
+        "Modern technology changes our life very quickly.",
+        "Modern technology changes our life very fast.",
+        "Modern technologies change our life very quickly.",
+        "The modern technology changes our life very quickly."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "Modern technology changes our life very quickly."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Компютер ихтирои бузурги асри бистум аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: conversation",
-        "нодуруст C"
+        "The computer is a great invention of the twentieth century.",
+        "The computer is a great invention of the 20th century.",
+        "A computer is a great invention of the twentieth century.",
+        "The computer is the great invention of the twentieth century."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The computer is a great invention of the twentieth century."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Олимон ҳар сол мошинҳои нав ва дастгоҳҳои нав ихтироъ мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: fluency",
-        "нодуруст A",
-        "нодуруст B"
+        "Scientists invent new machines and new devices every year.",
+        "Scientists invent new machines and new devices each year.",
+        "The scientists invent new machines and new devices every year.",
+        "Scientists invent new machines and devices every year."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "Scientists invent new machines and new devices every year."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Кишвари мо технологияи муосиро хеле зуд рушд медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: confidence",
-        "нодуруст A"
+        "Our country develops modern technology very quickly.",
+        "Our country develops modern technology very fast.",
+        "Our country develops the modern technology very quickly.",
+        "Our country is developing modern technology very quickly."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "Our country develops modern technology very quickly."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Мо бояд бо интернет ва бо дастгоҳҳои худ бодиққат бошем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: pronunciation",
-        "нодуруст A"
+        "We must be careful with the internet and with our devices.",
+        "We must be careful with internet and with our devices.",
+        "We should be careful with the internet and with our devices.",
+        "We must be careful with the internet and our devices."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "We must be careful with the internet and with our devices."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Баъзе сомонаҳо барои кӯдакони хурд хатарнок ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: vocabulary",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Some websites are dangerous for small children.",
+        "Some websites are dangerous for little children.",
+        "Some website are dangerous for small children.",
+        "Some websites are dangerous to small children."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "Some websites are dangerous for small children."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ин сомона бехатар ва барои хонандагон хеле фоиданок аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: grammar",
-        "нодуруст A"
+        "This website is safe and very useful for pupils.",
+        "This website is safe and very useful for pupils.",
+        "This site is safe and very useful for pupils.",
+        "This website is safe and very useful to pupils."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "This website is safe and very useful for pupils."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Технологияи муосир фоиданок аст, аммо мо бояд онро бодиққат истифода барем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "Modern technology is useful, but we must use it carefully.",
+        "Modern technology is useful but we must use it carefully.",
+        "Modern technology is useful, but we should use it carefully.",
+        "The modern technology is useful, but we must use it carefully."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Modern technology is useful, but we must use it carefully."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Дар хонаи мо компютер, лаптоп, ду телефони ҳушманд ва принтер ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: experience"
+        "In our flat we have a computer, a laptop, two smartphones and a printer.",
+        "In our flat we have a computer, a laptop, two smartphones and a printer.",
+        "In our house we have a computer, a laptop, two smartphones and a printer.",
+        "In our flat we have the computer, a laptop, two smartphones and a printer."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "In our flat we have a computer, a laptop, two smartphones and a printer."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Панҷоҳ сол пеш одамон телефонҳои ҳушманд надоштанд. Онҳо интернети бесим надоштанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: environment",
-        "нодуруст C"
+        "Fifty years ago people did not have smartphones. They did not have wireless internet.",
+        "Fifty years ago people did not have smartphones. They did not have wireless Internet.",
+        "Fifty years ago people did not have smartphones. They had no wireless internet.",
+        "Fifty years ago people did not have smartphones. They didn't have wireless internet."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Fifty years ago people did not have smartphones. They did not have wireless internet."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Онҳо мактубҳоро бо даст менавиштанд ва рӯзҳои зиёд барои ҷавоб интизор мешуданд. Имрӯз мо паём менависем ва дар як сония дӯсти мо онро дар телефони худ мехонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст A"
+        "They wrote letters by hand and waited for many days for an answer. Today we write a message and in one second our friend reads it on his phone.",
+        "They wrote letters by hand and waited for many days for an answer. Today we write a message and in one second our friend reads it on his phone.",
+        "They wrote letters by hand and waited many days for an answer. Today we write a message and in one second our friend reads it on his phone.",
+        "They wrote letters by hand and waited for many days for an answer. Today we write a message and our friend reads it on his phone in one second."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "They wrote letters by hand and waited for many days for an answer. Today we write a message and in one second our friend reads it on his phone."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ин чизи аҷоиб аст! Аввалин компютерҳо хеле калон буданд. Онҳо тамоми як ҳуҷраро пур мекарданд!» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: education",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "It is a wonderful thing! The first computers were very big. They filled a whole room!",
+        "It is a wonderful thing! The first computers were very large. They filled a whole room!",
+        "It is a wonderful thing! The first computers were very big. They filled the whole room!",
+        "It is a wonderful thing! The first computers were very big. They filled a whole room!"
       ],
-      "answer": "тарҷума: education"
+      "answer": "It is a wonderful thing! The first computers were very big. They filled a whole room!"
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Имрӯз компютерҳо хеле хурд ҳастанд — шумо метавонед онҳоро дар ҷайби худ гузоред» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст C"
+        "Today computers are very small — you can put them in your pocket.",
+        "Today computers are very small — you can put them in your pocket.",
+        "Today computers are very little — you can put them in your pocket.",
+        "Today the computers are very small — you can put them in your pocket."
       ],
-      "answer": "тарҷума: development"
+      "answer": "Today computers are very small — you can put them in your pocket."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Бо телефони ҳушманд шумо метавонед китобҳо хонед, видео тамошо кунед, мусиқӣ гӯш кунед ва забонҳои хориҷиро омӯзед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст A"
+        "With a smartphone you can read books, watch videos, listen to music and study foreign languages.",
+        "With a smartphone you can read books, watch videos, listen to music and learn foreign languages.",
+        "With a smartphone you can read books, watch video, listen to music and study foreign languages.",
+        "With a smartphone you can read books, watch videos, listen to the music and study foreign languages."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "With a smartphone you can read books, watch videos, listen to music and study foreign languages."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Як барнома ба ман омӯхтани англисӣ кӯмак мекунад. Барномаи дигар ба ман бо математика кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "One app helps me learn English. Another app helps me with math.",
+        "One app helps me learn English. Another app helps me with maths.",
+        "One app helps me to learn English. Another app helps me with math.",
+        "One app helps me learn English. The other app helps me with math."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "One app helps me learn English. Another app helps me with math."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Ҳар бегоҳ ман китоби нав боргирӣ мекунам ва онро мехонам. Баъзе китобҳо ройгонанд ва баъзе китобҳо пул меарзанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: knowledge",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "Every evening I download a new book and read it. Some books are free and some books cost money.",
+        "Every evening I download a new book and read it. Some books are free and some books cost money.",
+        "Every evening I download a new book and read it. Some books are free and some books cost money.",
+        "Every evening I download a new book and read it. Some books are free, and some books cost money."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "Every evening I download a new book and read it. Some books are free and some books cost money."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Вақте ки ман чизи навро омӯхтан мехоҳам, ман дар интернет маълумот ҷустуҷӯ мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: conversation",
-        "нодуруст C",
-        "нодуруст B"
+        "When I want to learn something new, I search for information on the internet.",
+        "When I want to learn something new, I search for information in the internet.",
+        "When I want to learn new things, I search for information on the internet.",
+        "When I want to learn something new I search for information on the internet."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "When I want to learn something new, I search for information on the internet."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Вақте ки ман калимаеро бо англисӣ намефаҳмам, ман барномаи луғати худро истифода мебарам. Вақте ки ман мехоҳам ба бибиам занг занам, ман телефони худро истифода мебарам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: fluency",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "When I do not understand a word in English, I use my dictionary app. When I want to call my grandmother, I use my phone.",
+        "When I don't understand a word in English, I use my dictionary app. When I want to call my grandmother, I use my phone.",
+        "When I do not understand a word in English, I use my dictionary app. When I want to call my grandmother, I use the phone.",
+        "When I do not understand a word in English, I use my dictionary app. When I want to phone my grandmother, I use my phone."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "When I do not understand a word in English, I use my dictionary app. When I want to call my grandmother, I use my phone."
+    },
+    {
+      "q": "«Технологияи муосир ҳаёти моро хеле осон мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Modern technology makes our life very easy.",
+        "Modern technology makes our life very easy.",
+        "Modern technology makes our life very simple.",
+        "The modern technology makes our life very easy."
+      ],
+      "answer": "Modern technology makes our life very easy."
+    },
+    {
+      "q": "«Дар заводҳои калон роботҳо мошинҳо, телефонҳо ва чизҳои дигар месозанд. Онҳо хеле зуд кор мекунанд ва ҳеҷ гоҳ хаста намешаванд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In big factories robots make cars, phones and other things. They work very quickly and never get tired.",
+        "In big factories robots make cars, phones and other things. They work very quickly and never get tired.",
+        "In big factories the robots make cars, phones and other things. They work very quickly and never get tired.",
+        "In big factories robots make cars, telephones and other things. They work very quickly and never get tired."
+      ],
+      "answer": "In big factories robots make cars, phones and other things. They work very quickly and never get tired."
+    },
+    {
+      "q": "«Дар беморхонаҳо роботҳо ба духтурон ҳангоми амалиёти душвор кӯмак мекунанд. Дар баъзе кишварҳо роботҳо ғизо ва мактубҳоро ба хонаҳои одамон мерасонанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In hospitals robots help doctors during difficult operations. In some countries robots deliver food and letters to people's homes.",
+        "In hospitals robots help doctors during difficult operations. In some countries robots deliver food and letters to people's homes.",
+        "In hospitals robots help doctors during hard operations. In some countries robots deliver food and letters to people's homes.",
+        "In hospitals robots help doctors during difficult operations. In some countries, robots deliver food and letters to people's homes."
+      ],
+      "answer": "In hospitals robots help doctors during difficult operations. In some countries robots deliver food and letters to people's homes."
+    },
+    {
+      "q": "«Дар Ҷопон сагҳои робот ва гурбаҳои робот ҳастанд. Ба онҳо нигоҳ кардан хеле ҷолиб аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In Japan there are robot dogs and robot cats. It is very interesting to look at them.",
+        "In Japan there are robot dogs and robot cats. It is very interesting to watch them.",
+        "In Japan there are robot dogs and robot cats. It is very interesting to look at them.",
+        "In Japan there are robot dogs and robot cats. It is very interesting to look at them."
+      ],
+      "answer": "In Japan there are robot dogs and robot cats. It is very interesting to look at them."
+    },
+    {
+      "q": "«Дар мактабҳои мо синфҳои компютерӣ ҳастанд. Муаллимони мо ба мо истифода бурдани компютерҳо ва кор кардан бо барномаҳои гуногунро меомӯзонанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In our schools we have computer classes. Our teachers teach us how to use computers and how to work with different apps.",
+        "In our schools we have computer classes. Our teachers teach us how to use computers and how to work with different apps.",
+        "In our schools we have computer classes. Our teachers teach us how to use the computers and how to work with different apps.",
+        "In our schools we have computer classes. Our teachers teach us to use computers and to work with different apps."
+      ],
+      "answer": "In our schools we have computer classes. Our teachers teach us how to use computers and how to work with different apps."
+    },
+    {
+      "q": "«Дар беморхонаҳои мо духтурон мошинҳои муосирро барои кӯмак ба беморон истифода мебаранд. Ҳукумати мо ба ҷавонон кӯмак мекунад, ки технологияро омӯзанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In our hospitals doctors use modern machines to help sick people. Our government helps young people study technology.",
+        "In our hospitals doctors use modern machines to help sick people. Our government helps young people to study technology.",
+        "In our hospitals doctors use modern machines to help sick people. Our government helps young people study technology.",
+        "In our hospitals, doctors use modern machines to help sick people. Our government helps young people study technology."
+      ],
+      "answer": "In our hospitals doctors use modern machines to help sick people. Our government helps young people study technology."
+    },
+    {
+      "q": "«Баъзе одамон телефонҳои худро ҳар рӯз соатҳои зиёд истифода мебаранд. Онҳо китоб намехонанд, варзиш намекунанд, бо оилаи худ гап намезананд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Some people use their phones for many hours every day. They do not read books, they do not do sport, they do not talk with their family.",
+        "Some people use their phones for many hours every day. They do not read books, they do not do sport and they do not talk with their family.",
+        "Some people use their phones for many hours every day. They don't read books, they don't do sport, they don't talk with their family.",
+        "Some people use their phones for many hours every day. They do not read books, do not do sport, do not talk with their family."
+      ],
+      "answer": "Some people use their phones for many hours every day. They do not read books, they do not do sport, they do not talk with their family."
+    },
+    {
+      "q": "«Чашмони онҳо дард мекунад ва сари онҳо дард мекунад. Баъзе кӯдакон ба сомонаҳои хатарнок нигоҳ мекунанд. Онҳо чизҳои бадро мебинанд ва шабона хоб карда наметавонанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Their eyes hurt and their heads hurt. Some children look at dangerous websites. They see bad things and they cannot sleep at night.",
+        "Their eyes hurt and their heads hurt. Some children look at dangerous websites. They see bad things and cannot sleep at night.",
+        "Their eyes hurt and their heads hurt. Some children look at the dangerous websites. They see bad things and they cannot sleep at night.",
+        "Their eyes hurt and their heads hurt. Some children look at dangerous sites. They see bad things and they cannot sleep at night."
+      ],
+      "answer": "Their eyes hurt and their heads hurt. Some children look at dangerous websites. They see bad things and they cannot sleep at night."
+    },
+    {
+      "q": "«Мо набояд рамзи худро ба одамони дигар диҳем. Мо набояд сомонаҳои хатарнокро кушоем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must not give our password to other people. We must not open dangerous websites.",
+        "We mustn't give our password to other people. We must not open dangerous websites.",
+        "We must not give our password to other people. We must not open the dangerous websites.",
+        "We must not give our password to other people. We should not open dangerous websites."
+      ],
+      "answer": "We must not give our password to other people. We must not open dangerous websites."
+    },
+    {
+      "q": "«Мо набояд ба ҳама чизе, ки дар интернет мехонем, бовар кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must not believe everything we read on the internet.",
+        "We must not believe everything that we read on the internet.",
+        "We should not believe everything we read on the internet.",
+        "We must not believe all we read on the internet."
+      ],
+      "answer": "We must not believe everything we read on the internet."
+    },
+    {
+      "q": "«Мо бояд технологияи муосиро танҳо барои корҳои хуб истифода барем: барои таҳсил, барои омӯхтани забонҳои нав, барои гап задан бо оилаамон ва барои кӯмак кардан ба одамони дигар» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must use modern technology for good things only: for study, for learning new languages, for talking with our family and for helping other people.",
+        "We must use modern technology for good things only: for study, for learning new languages, for talking with our family, and for helping other people.",
+        "We must use modern technology only for good things: for study, for learning new languages, for talking with our family and for helping other people.",
+        "We must use modern technology for good things only: for study, for learning new languages, for talking to our family and for helping other people."
+      ],
+      "answer": "We must use modern technology for good things only: for study, for learning new languages, for talking with our family and for helping other people."
+    },
+    {
+      "q": "«Волидонам мегӯянд: \"Технологияи муосир фоиданок аст, аммо он набояд муҳимтарин чиз дар ҳаёти шумо бошад.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My parents say: \"Modern technology is useful, but it must not be the most important thing in your life.\"",
+        "My parents say: \"Modern technology is useful, but it mustn't be the most important thing in your life.\"",
+        "My parents say: \"Modern technology is useful, but it should not be the most important thing in your life.\"",
+        "My parents say: \"The modern technology is useful, but it must not be the most important thing in your life.\""
+      ],
+      "answer": "My parents say: \"Modern technology is useful, but it must not be the most important thing in your life.\""
+    },
+    {
+      "q": "«Китобҳо, варзиш, оила ва дӯстон аз ҳар гуна телефон муҳимтаранд.\" Ман бо онҳо розӣ ҳастам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Books, sport, family and friends are more important than any phone.\" I agree with them.",
+        "Books, sport, family and friends are more important than any phone.\" I agree with them.",
+        "Books, sport, family and friends are more important than any telephone.\" I agree with them.",
+        "Books, sport, family and friends are more important than a phone.\" I agree with them."
+      ],
+      "answer": "Books, sport, family and friends are more important than any phone.\" I agree with them."
+    },
+    {
+      "q": "«Ман кӯшиш мекунам, ки телефони худро як соат дар як рӯз истифода барам — на бештар. Ман китобҳои ҳақиқӣ мехонам, бо дӯстонам футбол бозӣ мекунам ва дар хона ба модарам кӯмак мекунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I try to use my phone for one hour a day — not more. I read real books, I play football with my friends and I help my mother at home.",
+        "I try to use my phone for one hour a day — not more. I read real books, I play football with my friends and help my mother at home.",
+        "I try to use my phone one hour a day — not more. I read real books, I play football with my friends and I help my mother at home.",
+        "I try to use my phone for one hour a day, not more. I read real books, I play football with my friends and I help my mother at home."
+      ],
+      "answer": "I try to use my phone for one hour a day — not more. I read real books, I play football with my friends and I help my mother at home."
+    },
+    {
+      "q": "«Технология ба ман кӯмак мекунад, аммо он ҳаёти маро идора намекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Technology helps me, but it does not rule my life.",
+        "Technology helps me, but it doesn't rule my life.",
+        "Technology helps me, but it does not control my life.",
+        "The technology helps me, but it does not rule my life."
+      ],
+      "answer": "Technology helps me, but it does not rule my life."
+    },
+    {
+      "q": "«Ман мехоҳам дастгоҳи нави тиббиро ихтироъ кунам — мошини хурде, ки ба духтурон барои наҷот додани ҳаёт кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to invent a new medical device — a small machine that helps doctors save lives.",
+        "I want to invent a new medical device — a small machine which helps doctors save lives.",
+        "I want to invent a new medical device — a small machine that helps doctors to save lives.",
+        "I want to invent a new medical device — a small car that helps doctors save lives."
+      ],
+      "answer": "I want to invent a new medical device — a small machine that helps doctors save lives."
+    },
+    {
+      "q": "«Ман мехоҳам ба кишварам ва мардумам кӯмак кунам. Ман мехоҳам технологияи муосиро барои корҳои хуб истифода барам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to help my country and my people. I want to use modern technology for good things.",
+        "I want to help my country and my people. I want to use modern technology for good things.",
+        "I want to help my country and my people. I want to use the modern technology for good things.",
+        "I want to help my country and my people. I want to use modern technology for good."
+      ],
+      "answer": "I want to help my country and my people. I want to use modern technology for good things."
+    },
+    {
+      "q": "«Ва ман мехоҳам ба кӯдаконам омӯзонам, ки технологияро бодиққат, меҳрубонона ва бо ақл истифода баранд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "And I want to teach my children to use technology carefully, kindly and wisely.",
+        "And I want to teach my children to use technology carefully, kindly and wisely.",
+        "And I want to teach my children to use technology carefully, kind and wisely.",
+        "And I want to teach my children to use technology carefully, kindly and wise."
+      ],
+      "answer": "And I want to teach my children to use technology carefully, kindly and wisely."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 26
+  "wordsCount": 16
 }
