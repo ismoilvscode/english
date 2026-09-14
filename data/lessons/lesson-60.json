@@ -1,446 +1,622 @@
 {
   "id": 60,
-  "title": "Муоширати воқеӣ 60",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 60: Либос, мӯд ва зебоӣ",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "clothes",
+      "tj": "либос",
+      "ex": "I wear warm clothes in winter."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "dress",
+      "tj": "куртаи занона",
+      "ex": "My sister has a beautiful new dress."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "suit",
+      "tj": "костюм",
+      "ex": "My father wears a suit at work."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "jacket",
+      "tj": "куртаи болопӯш",
+      "ex": "I wear a warm jacket in autumn."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "trousers",
+      "tj": "шим",
+      "ex": "These trousers are too long for me."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "shirt",
+      "tj": "курта",
+      "ex": "My white shirt is very clean."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "scarf",
+      "tj": "шарф",
+      "ex": "My mother wears a warm scarf in winter."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "gloves",
+      "tj": "дастпӯшак",
+      "ex": "I wear gloves when it is cold."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "socks",
+      "tj": "ҷуроб",
+      "ex": "My socks are white and clean."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "boots",
+      "tj": "муза",
+      "ex": "I wear boots in winter."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "to wear",
+      "tj": "пӯшидан",
+      "ex": "I wear a uniform at school."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "to try on",
+      "tj": "чен кардан / пӯшида дидан",
+      "ex": "I try on new shoes before I buy them."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "fashion",
+      "tj": "мӯд",
+      "ex": "She is always in fashion."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "fashionable",
+      "tj": "мӯдӣ",
+      "ex": "This is a very fashionable dress."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "comfortable",
+      "tj": "бароҳат",
+      "ex": "My shoes are very comfortable."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "style",
+      "tj": "услуб / сабк",
+      "ex": "Everyone has their own style."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 60)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "I wear warm clothes in winter and light clothes in summer.",
+      "tj": "Ман дар зимистон либоси гарм ва дар тобистон либоси сабук мепӯшам."
     },
     {
-      "en": "I'm working on lesson 60",
-      "tj": "Ман дарси 60-ро меомӯзам"
+      "en": "My sister has a beautiful new dress for the holiday.",
+      "tj": "Хоҳарам барои ид куртаи нави зебо дорад."
+    },
+    {
+      "en": "My father wears a dark suit at work.",
+      "tj": "Падарам дар кор костюми торик мепӯшад."
+    },
+    {
+      "en": "I wear a warm jacket in autumn and a coat in winter.",
+      "tj": "Ман дар тирамоҳ куртаи болопӯши гарм ва дар зимистон пальто мепӯшам."
+    },
+    {
+      "en": "These trousers are too long for me.",
+      "tj": "Ин шим барои ман хеле дароз аст."
+    },
+    {
+      "en": "My white shirt is very clean and very beautiful.",
+      "tj": "Куртаи сафеди ман хеле тоза ва хеле зебо аст."
+    },
+    {
+      "en": "My mother wears a warm scarf in winter.",
+      "tj": "Модарам дар зимистон шарфи гарм мепӯшад."
+    },
+    {
+      "en": "I wear gloves when it is very cold outside.",
+      "tj": "Ман вақте ки берун хеле хунук аст, дастпӯшак мепӯшам."
+    },
+    {
+      "en": "My socks are white and clean.",
+      "tj": "Ҷуробҳои ман сафед ва тоза ҳастанд."
+    },
+    {
+      "en": "I wear warm boots in winter.",
+      "tj": "Ман дар зимистон музаҳои гарм мепӯшам."
+    },
+    {
+      "en": "I wear a school uniform every day.",
+      "tj": "Ман ҳар рӯз либоси мактабӣ мепӯшам."
+    },
+    {
+      "en": "I try on new shoes before I buy them.",
+      "tj": "Ман пеш аз харидани музаҳои нав онҳоро мепӯшам ва мебинам."
+    },
+    {
+      "en": "She is always in fashion and wears beautiful clothes.",
+      "tj": "Ӯ ҳамеша дар мӯд аст ва либосҳои зебо мепӯшад."
+    },
+    {
+      "en": "This is a very fashionable dress from a new collection.",
+      "tj": "Ин куртаи занонаи хеле мӯдӣ аз коллексияи нав аст."
+    },
+    {
+      "en": "My shoes are very comfortable — I can walk in them all day.",
+      "tj": "Музаҳои ман хеле бароҳат ҳастанд — ман метавонам тамоми рӯз дар онҳо қадам занам."
+    },
+    {
+      "en": "Everyone has their own style and everyone looks different.",
+      "tj": "Ҳар кас услуби худро дорад ва ҳар кас гуногун менамояд."
     }
   ],
   "text": {
-    "en": "Text for lesson 60. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 60 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 60 text.",
-    "tj": "Матни дарси 60..."
+    "en": "Clothes, Fashion and Beauty\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. Clothes are a very important part of our life. We wear them every day: at home, at school, at work and at holidays. Clothes keep us warm, they protect us from rain and from the sun, and they make us beautiful. Today I want to tell you about clothes, fashion and beauty.\n\nIn different seasons we wear different clothes. In summer, when it is hot, we wear light and comfortable clothes: T-shirts, shorts, sandals and light dresses. In autumn, when it starts to get cool, we wear sweaters, jackets and light trousers. In winter, when it is very cold and snowy, we wear warm clothes: heavy coats, hats, scarves, gloves and warm boots. In spring, when the weather is warm but not hot, we wear a jacket or a light coat. My grandmother says: \"Choose your clothes for the weather, not only for beauty. If you are healthy, you are beautiful.\"\n\nMy family has different clothes for different occasions. My father wears a dark suit, a white shirt and a tie to his work. My mother wears beautiful dresses and skirts to her office. My sister Zuhro wears a school uniform to school and beautiful traditional dresses for holidays. I wear a school uniform every day: dark trousers, a white shirt and a jacket. On Saturday and Sunday I wear jeans, a T-shirt and sports shoes. I feel very comfortable in these clothes.\n\nTajik traditional clothes are very beautiful. Women wear a special dress called a kurta. It has long sleeves and it is decorated with beautiful embroidery. Girls wear colourful dresses with bright patterns. Men wear a chapan — a long warm coat that is worn over other clothes. Tajik national dress is very old and very beautiful. Every region of our country has its own patterns and its own colours. When I look at old photos of my grandmother, I see that she wore very beautiful traditional clothes.\n\nTajik people love jewellery and accessories. Women wear earrings, rings, bracelets and necklaces. Many of them are made of silver with beautiful stones. My grandmother has an old silver necklace that her mother gave her. She says: \"This necklace is older than me. When you look at it, you see our history.\"\n\nFashion is a very interesting thing. Fashion changes very quickly. What was fashionable twenty years ago is not fashionable today. But some things never go out of fashion — for example, a simple white shirt, a classic dark suit or a beautiful scarf. My mother says: \"Do not follow fashion too much. Choose clothes that suit you and that you feel good in. Your own style is more important than the latest fashion.\"\n\nI think this is very good advice. When we choose our clothes, we must think about three things. First, the clothes must be comfortable. If you are not comfortable in your clothes, you cannot feel good. Second, the clothes must suit you. Not every fashionable thing looks good on every person. We are all different — and that is a good thing. Third, the clothes must be right for the place. We cannot wear a sports suit to a party and we cannot wear an evening dress to school.\n\nThere is also another important thing about clothes. We must not judge people by their clothes. A rich person is not always a good person, and a poor person is not always a bad person. The most important thing is what is inside a person — their heart, their mind and their actions. My grandfather says: \"Beautiful clothes make you look good for one day. A beautiful heart makes you beautiful for all your life.\"\n\nIn our family we try to buy good quality clothes. Quality clothes cost more money, but they last longer. We buy new clothes when we need them, not when we want them. My mother says: \"A wise person buys what he needs. A foolish person buys what he wants.\" I try to remember this rule.\n\nEvery year before Navruz my mother and my sister go to the market and buy new clothes for the holiday. It is a tradition in our country to wear new clothes on Navruz. We also give new clothes to children as a present. On Navruz the whole family wears beautiful new clothes and we go to visit our grandmother and grandfather. It is a very happy and very beautiful time.\n\nWhen I grow up, I want to wear good and beautiful clothes. But I always want to remember the words of my grandfather: beautiful clothes make you look good for one day, but a beautiful heart makes you beautiful for all your life. So I want to have both — good clothes and a good heart. Because a real person is beautiful both outside and inside.",
+    "tj": "Либос, мӯд ва зебоӣ\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Либос қисми хеле муҳими ҳаёти мост. Мо ҳар рӯз онро мепӯшем: дар хона, дар мактаб, дар кор ва дар идҳо. Либос моро гарм мекунад, он моро аз борон ва аз офтоб муҳофизат мекунад ва он моро зебо мекунад. Имрӯз ман мехоҳам ба шумо дар бораи либос, мӯд ва зебоӣ нақл кунам.\n\nДар фаслҳои гуногун мо либосҳои гуногун мепӯшем. Дар тобистон, вақте ки гарм аст, мо либоси сабук ва бароҳат мепӯшем: футболка, шорт, сандал ва куртаҳои сабук. Дар тирамоҳ, вақте ки салқин мешавад, мо свитер, куртаи болопӯш ва шимҳои сабук мепӯшем. Дар зимистон, вақте ки хеле хунук ва барфнок аст, мо либоси гарм мепӯшем: палтоҳои вазнин, кулоҳ, шарф, дастпӯшак ва музаҳои гарм. Дар баҳор, вақте ки обу ҳаво гарм аст, аммо на гарм, мо куртаи болопӯш ё палтои сабук мепӯшем. Бибиам мегӯяд: «Либоси худро барои обу ҳаво интихоб кунед, на танҳо барои зебоӣ. Агар шумо солим бошед, шумо зебо ҳастед.»\n\nОилаи ман барои мавридҳои гуногун либосҳои гуногун дорад. Падарам барои кори худ костюми торик, куртаи сафед ва галстук мепӯшад. Модарам барои идорааш куртаҳо ва доманҳои зебо мепӯшад. Хоҳарам Зуҳро ба мактаб либоси мактабӣ ва ба идҳо куртаҳои зебои миллӣ мепӯшад. Ман ҳар рӯз либоси мактабӣ мепӯшам: шими торик, куртаи сафед ва куртаи болопӯш. Рӯзи шанбе ва якшанбе ман ҷинс, футболка ва пойафзоли варзишӣ мепӯшам. Ман дар ин либос хеле бароҳат ҳастам.\n\nЛибоси миллии тоҷикӣ хеле зебо аст. Занон куртаи махсус мепӯшанд. Он остинҳои дароз дорад ва бо кашиши зебо оро дода шудааст. Духтарон куртаҳои рангин бо нақшҳои дурахшон мепӯшанд. Мардон чапан мепӯшанд — палтои дарози гарм, ки дар болои либосҳои дигар пӯшида мешавад. Либоси миллии тоҷикӣ хеле қадимӣ ва хеле зебо аст. Ҳар як минтақаи кишвари мо нақшҳо ва рангҳои худро дорад. Вақте ки ман ба аксҳои кӯҳнаи бибиам нигоҳ мекунам, ман мебинам, ки ӯ либосҳои хеле зебои миллӣ мепӯшид.\n\nМардуми тоҷик зевар ва лавозимотро дӯст медоранд. Занон гӯшвор, ангуштарӣ, дастпона ва гарданбанд мепӯшанд. Бисёре аз онҳо аз нуқра бо сангҳои зебо сохта шудаанд. Бибиам гарданбанди нуқраи кӯҳнае дорад, ки модараш ба ӯ додааст. Ӯ мегӯяд: «Ин гарданбанд аз ман калонтар аст. Вақте ки шумо ба он нигоҳ мекунед, шумо таърихи моро мебинед.»\n\nМӯд чизи хеле ҷолиб аст. Мӯд хеле зуд тағйир меёбад. Он чи бист сол пеш мӯдӣ буд, имрӯз мӯдӣ нест. Аммо баъзе чизҳо ҳеҷ гоҳ аз мӯд намебароянд — масалан, куртаи сафед, костюми торики классикӣ ё шарфи зебо. Модарам мегӯяд: «Аз мӯд аз ҳад зиёд пайравӣ накунед. Либосеро интихоб кунед, ки ба шумо мувофиқ аст ва шумо дар он худро хуб ҳис мекунед. Услуби шумо аз мӯди охирин муҳимтар аст.»\n\nМан фикр мекунам, ки ин маслиҳати хеле хуб аст. Вақте ки мо либоси худро интихоб мекунем, мо бояд дар бораи се чиз фикр кунем. Аввал, либос бояд бароҳат бошад. Агар шумо дар либоси худ бароҳат набошед, шумо худро хуб ҳис карда наметавонед. Дуюм, либос бояд ба шумо мувофиқ бошад. На ҳар чизи мӯдӣ ба ҳар як одам хуб менамояд. Мо ҳама гуногун ҳастем — ва ин чизи хуб аст. Сеюм, либос бояд барои ҷой дуруст бошад. Мо наметавонем костюми варзиширо ба базм пӯшем ва мо наметавонем куртаи шабонаро ба мактаб пӯшем.\n\nДар бораи либос боз як чизи муҳим ҳаст. Мо набояд одамонро аз рӯи либосашон баҳо диҳем. Одами бой на ҳамеша одами хуб аст ва одами камбағал на ҳамеша одами бад аст. Муҳимтарин чиз он аст, ки дар дохили одам аст — дили ӯ, ақли ӯ ва амалҳои ӯ. Бобоям мегӯяд: «Либоси зебо шуморо як рӯз зебо нишон медиҳад. Дилатон шуморо тамоми умр зебо нигоҳ медорад.»\n\nДар оилаи мо мо кӯшиш мекунем, ки либоси босифат харем. Либоси босифат пули бештар меарзад, аммо он дарозтар мемонад. Мо либоси навро вақте мехарем, ки ба он ниёз дорем, на вақте ки онро мехоҳем. Модарам мегӯяд: «Одами доно он чиро мехарад, ки ба он ниёз дорад. Одами нодон он чиро мехарад, ки онро мехоҳад.» Ман кӯшиш мекунам, ки ин қоидаро ба ёд дорам.\n\nҲар сол пеш аз Наврӯз модарам ва хоҳарам ба бозор мераванд ва барои ид либоси нав мехаранд. Ин анъана дар кишвари мост, ки дар Наврӯз либоси нав пӯшем. Мо инчунин ба кӯдакон либоси нав ҳамчун тӯҳфа медиҳем. Дар Наврӯз тамоми оила либоси зебои нав мепӯшад ва мо ба дидани биби ва бобоямон меравем. Ин вақти хеле хушбахт ва хеле зебо аст.\n\nВақте ки ман калон мешавам, ман мехоҳам либоси хуб ва зебо пӯшам. Аммо ман ҳамеша мехоҳам суханони бобоямро ба ёд дорам: либоси зебо шуморо як рӯз зебо нишон медиҳад, аммо дили зебо шуморо тамоми умр зебо нигоҳ медорад. Бинобар ин ман мехоҳам ҳардуро дошта бошам — либоси хуб ва дили хуб. Зеро ки одами ҳақиқӣ ҳам аз берун ва ҳам аз дарун зебо аст."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ман дар зимистон либоси гарм ва дар тобистон либоси сабук мепӯшам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "I wear warm clothes in winter and light clothes in summer.",
+        "I wear warm clothes in the winter and light clothes in the summer.",
+        "I put on warm clothes in winter and light clothes in summer.",
+        "I wear warm clothes in winter and light clothes in the summer."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "I wear warm clothes in winter and light clothes in summer."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Хоҳарам барои ид куртаи нави зебо дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: experience"
+        "My sister has a beautiful new dress for the holiday.",
+        "My sister has a beautiful new dress for the holidays.",
+        "My sister has a new beautiful dress for the holiday.",
+        "My sister has a beautiful new dress for holiday."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "My sister has a beautiful new dress for the holiday."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Падарам дар кор костюми торик мепӯшад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: environment",
-        "нодуруст A"
+        "My father wears a dark suit at work.",
+        "My father wears a dark suit to work.",
+        "My father puts on a dark suit at work.",
+        "My father wears dark suit at work."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "My father wears a dark suit at work."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ман дар тирамоҳ куртаи болопӯши гарм ва дар зимистон пальто мепӯшам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: communication",
-        "нодуруст B"
+        "I wear a warm jacket in autumn and a coat in winter.",
+        "I wear a warm jacket in the autumn and a coat in the winter.",
+        "I put on a warm jacket in autumn and a coat in winter.",
+        "I wear a warm jacket in autumn and coat in winter."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "I wear a warm jacket in autumn and a coat in winter."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ин шим барои ман хеле дароз аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: education",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "These trousers are too long for me.",
+        "These trousers are very long for me.",
+        "This trousers are too long for me.",
+        "These trousers are too long to me."
       ],
-      "answer": "тарҷума: education"
+      "answer": "These trousers are too long for me."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Куртаи сафеди ман хеле тоза ва хеле зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст C"
+        "My white shirt is very clean and very beautiful.",
+        "My white shirt is very clean and beautiful.",
+        "My white shirt is very clean and very good.",
+        "A white shirt of mine is very clean and very beautiful."
       ],
-      "answer": "тарҷума: development"
+      "answer": "My white shirt is very clean and very beautiful."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Модарам дар зимистон шарфи гарм мепӯшад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст B"
+        "My mother wears a warm scarf in winter.",
+        "My mother wears a warm scarf in the winter.",
+        "My mother puts on a warm scarf in winter.",
+        "My mother wears warm scarf in winter."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "My mother wears a warm scarf in winter."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ман вақте ки берун хеле хунук аст, дастпӯшак мепӯшам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: challenge",
-        "нодуруст C",
-        "нодуруст B"
+        "I wear gloves when it is very cold outside.",
+        "I wear gloves when it is cold outside.",
+        "I put on gloves when it is very cold outside.",
+        "I wear gloves when it's very cold outside."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "I wear gloves when it is very cold outside."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Ҷуробҳои ман сафед ва тоза ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: knowledge",
-        "нодуруст C",
-        "нодуруст B"
+        "My socks are white and clean.",
+        "My socks are white and clean.",
+        "My socks are white and pure.",
+        "My socks are white and very clean."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "My socks are white and clean."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Ман дар зимистон музаҳои гарм мепӯшам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: conversation"
+        "I wear warm boots in winter.",
+        "I wear warm boots in the winter.",
+        "I put on warm boots in winter.",
+        "I wear warm shoes in winter."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "I wear warm boots in winter."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ман ҳар рӯз либоси мактабӣ мепӯшам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: fluency",
-        "нодуруст A",
-        "нодуруст C"
+        "I wear a school uniform every day.",
+        "I wear a school uniform each day.",
+        "I put on a school uniform every day.",
+        "I wear the school uniform every day."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "I wear a school uniform every day."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ман пеш аз харидани музаҳои нав онҳоро мепӯшам ва мебинам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: confidence",
-        "нодуруст A"
+        "I try on new shoes before I buy them.",
+        "I try on the new shoes before I buy them.",
+        "I try new shoes on before I buy them.",
+        "I put on new shoes before I buy them."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "I try on new shoes before I buy them."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Ӯ ҳамеша дар мӯд аст ва либосҳои зебо мепӯшад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: pronunciation",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "She is always in fashion and wears beautiful clothes.",
+        "She is always in fashion and puts on beautiful clothes.",
+        "She always is in fashion and wears beautiful clothes.",
+        "She is always in fashion and wears good clothes."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "She is always in fashion and wears beautiful clothes."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ин куртаи занонаи хеле мӯдӣ аз коллексияи нав аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: vocabulary",
-        "нодуруст B",
-        "нодуруст A"
+        "This is a very fashionable dress from a new collection.",
+        "This is a very fashionable dress from the new collection.",
+        "This is the very fashionable dress from a new collection.",
+        "This is a very fashionable dress from new collection."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "This is a very fashionable dress from a new collection."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Музаҳои ман хеле бароҳат ҳастанд — ман метавонам тамоми рӯз дар онҳо қадам занам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: grammar",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "My shoes are very comfortable — I can walk in them all day.",
+        "My shoes are very comfortable — I can walk in them the whole day.",
+        "My shoes are very comfortable — I can walk in it all day.",
+        "My shoes are very comfortable, I can walk in them all day."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "My shoes are very comfortable — I can walk in them all day."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ҳар кас услуби худро дорад ва ҳар кас гуногун менамояд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст A"
+        "Everyone has their own style and everyone looks different.",
+        "Every person has their own style and everyone looks different.",
+        "Everyone has their own style and everybody looks different.",
+        "Everyone has their own style and everyone looks differently."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Everyone has their own style and everyone looks different."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Либос қисми хеле муҳими ҳаёти мост. Мо ҳар рӯз онро мепӯшем: дар хона, дар мактаб, дар кор ва дар идҳо» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Clothes are a very important part of our life. We wear them every day: at home, at school, at work and at holidays.",
+        "Clothes are a very important part of our life. We wear them every day: at home, at school, at work and on holidays.",
+        "Clothes are a very important part of our life. We wear it every day: at home, at school, at work and at holidays.",
+        "The clothes are a very important part of our life. We wear them every day: at home, at school, at work and at holidays."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "Clothes are a very important part of our life. We wear them every day: at home, at school, at work and at holidays."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Либос моро гарм мекунад, он моро аз борон ва аз офтоб муҳофизат мекунад ва он моро зебо мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: environment"
+        "Clothes keep us warm, they protect us from rain and from the sun, and they make us beautiful.",
+        "Clothes keep us warm, they protect us from the rain and from the sun, and they make us beautiful.",
+        "Clothes keep us warm, they protect us from rain and the sun, and they make us beautiful.",
+        "Clothes keep us warm, protect us from rain and from the sun, and make us beautiful."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Clothes keep us warm, they protect us from rain and from the sun, and they make us beautiful."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Имрӯз ман мехоҳам ба шумо дар бораи либос, мӯд ва зебоӣ нақл кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст B"
+        "Today I want to tell you about clothes, fashion and beauty.",
+        "Today I want to tell you about the clothes, fashion and beauty.",
+        "Today I want to tell you about clothes, fashion and beauty.",
+        "Today I want to speak to you about clothes, fashion and beauty."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "Today I want to tell you about clothes, fashion and beauty."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Дар фаслҳои гуногун мо либосҳои гуногун мепӯшем. Дар тобистон, вақте ки гарм аст, мо либоси сабук ва бароҳат мепӯшем: футболка, шорт, сандал ва куртаҳои сабук» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: education",
-        "нодуруст C",
-        "нодуруст B"
+        "In different seasons we wear different clothes. In summer, when it is hot, we wear light and comfortable clothes: T-shirts, shorts, sandals and light dresses.",
+        "In different seasons we wear different clothes. In summer when it is hot, we wear light and comfortable clothes: T-shirts, shorts, sandals and light dresses.",
+        "In different seasons we wear different clothes. In the summer, when it is hot, we wear light and comfortable clothes: T-shirts, shorts, sandals and light dresses.",
+        "In different seasons we wear different clothes. In summer, when it is hot, we put on light and comfortable clothes: T-shirts, shorts, sandals and light dresses."
       ],
-      "answer": "тарҷума: education"
+      "answer": "In different seasons we wear different clothes. In summer, when it is hot, we wear light and comfortable clothes: T-shirts, shorts, sandals and light dresses."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Дар тирамоҳ, вақте ки салқин мешавад, мо свитер, куртаи болопӯш ва шимҳои сабук мепӯшем. Дар зимистон, вақте ки хеле хунук ва барфнок аст, мо либоси гарм мепӯшем: палтоҳои вазнин, кулоҳ, шарф, дастпӯшак ва музаҳои гарм» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: development"
+        "In autumn, when it starts to get cool, we wear sweaters, jackets and light trousers. In winter, when it is very cold and snowy, we wear warm clothes: heavy coats, hats, scarves, gloves and warm boots.",
+        "In autumn when it starts to get cool, we wear sweaters, jackets and light trousers. In winter, when it is very cold and snowy, we wear warm clothes: heavy coats, hats, scarves, gloves and warm boots.",
+        "In autumn, when it starts to get cool, we wear sweaters, jackets and light trousers. In the winter, when it is very cold and snowy, we wear warm clothes: heavy coats, hats, scarves, gloves and warm boots.",
+        "In autumn, when it starts to get cool, we wear sweaters, jackets and light trousers. In winter, when it is very cold and snowy, we wear warm clothes: heavy coats, hats, scarves, gloves and warm shoes."
       ],
-      "answer": "тарҷума: development"
+      "answer": "In autumn, when it starts to get cool, we wear sweaters, jackets and light trousers. In winter, when it is very cold and snowy, we wear warm clothes: heavy coats, hats, scarves, gloves and warm boots."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Дар баҳор, вақте ки обу ҳаво гарм аст, аммо на гарм, мо куртаи болопӯш ё палтои сабук мепӯшем. Бибиам мегӯяд: \"Либоси худро барои обу ҳаво интихоб кунед, на танҳо барои зебоӣ. Агар шумо солим бошед, шумо зебо ҳастед.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: achievement"
+        "In spring, when the weather is warm but not hot, we wear a jacket or a light coat. My grandmother says: \"Choose your clothes for the weather, not only for beauty. If you are healthy, you are beautiful.\"",
+        "In spring, when the weather is warm but not hot, we wear a jacket or a light coat. My grandmother says: \"Choose your clothes for the weather, not only for beauty. If you are healthy you are beautiful.\"",
+        "In spring when the weather is warm but not hot, we wear a jacket or a light coat. My grandmother says: \"Choose your clothes for the weather, not only for beauty. If you are healthy, you are beautiful.\"",
+        "In spring, when the weather is warm but not hot, we wear a jacket or a light coat. My grandmother says: \"Choose your clothes by the weather, not only for beauty. If you are healthy, you are beautiful.\""
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "In spring, when the weather is warm but not hot, we wear a jacket or a light coat. My grandmother says: \"Choose your clothes for the weather, not only for beauty. If you are healthy, you are beautiful.\""
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Оилаи ман барои мавридҳои гуногун либосҳои гуногун дорад. Падарам барои кори худ костюми торик, куртаи сафед ва галстук мепӯшад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст C"
+        "My family has different clothes for different occasions. My father wears a dark suit, a white shirt and a tie to his work.",
+        "My family has different clothes for different occasions. My father wears a dark suit, a white shirt and a tie to work.",
+        "My family has different clothes for different occasions. My father wears a dark suit, a white shirt and a tie for his work.",
+        "My family has different clothes for different occasions. My father puts on a dark suit, a white shirt and a tie to his work."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "My family has different clothes for different occasions. My father wears a dark suit, a white shirt and a tie to his work."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Модарам барои идорааш куртаҳо ва доманҳои зебо мепӯшад. Хоҳарам Зуҳро ба мактаб либоси мактабӣ ва ба идҳо куртаҳои зебои миллӣ мепӯшад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: knowledge"
+        "My mother wears beautiful dresses and skirts to her office. My sister Zuhro wears a school uniform to school and beautiful traditional dresses for holidays.",
+        "My mother wears beautiful dresses and skirts to her office. My sister Zuhro wears a school uniform to school and beautiful traditional dresses on holidays.",
+        "My mother wears beautiful dresses and skirts to her office. My sister Zuhro wears a school uniform at school and beautiful traditional dresses for holidays.",
+        "My mother wears beautiful dresses and skirts to her office. My sister Zuhro wears a school uniform to school and the beautiful traditional dresses for holidays."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "My mother wears beautiful dresses and skirts to her office. My sister Zuhro wears a school uniform to school and beautiful traditional dresses for holidays."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Ман ҳар рӯз либоси мактабӣ мепӯшам: шими торик, куртаи сафед ва куртаи болопӯш. Рӯзи шанбе ва якшанбе ман ҷинс, футболка ва пойафзоли варзишӣ мепӯшам. Ман дар ин либос хеле бароҳат ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: conversation",
-        "нодуруст C",
-        "нодуруст B"
+        "I wear a school uniform every day: dark trousers, a white shirt and a jacket. On Saturday and Sunday I wear jeans, a T-shirt and sports shoes. I feel very comfortable in these clothes.",
+        "I wear a school uniform every day: dark trousers, a white shirt and a jacket. On Saturday and Sunday I wear jeans, a T-shirt and sports shoes. I feel very comfortable in this clothes.",
+        "I wear a school uniform every day: dark trousers, a white shirt and a jacket. On Saturday and Sunday I put on jeans, a T-shirt and sports shoes. I feel very comfortable in these clothes.",
+        "I wear a school uniform every day: dark trousers, a white shirt and a jacket. On Saturday and Sunday I wear jeans, a T-shirt and sports shoes. I feel very comfortable in these cloth."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "I wear a school uniform every day: dark trousers, a white shirt and a jacket. On Saturday and Sunday I wear jeans, a T-shirt and sports shoes. I feel very comfortable in these clothes."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Либоси миллии тоҷикӣ хеле зебо аст. Занон куртаи махсус мепӯшанд. Он остинҳои дароз дорад ва бо кашиши зебо оро дода шудааст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: fluency"
+        "Tajik traditional clothes are very beautiful. Women wear a special dress called a kurta. It has long sleeves and it is decorated with beautiful embroidery.",
+        "Tajik traditional clothes are very beautiful. Women wear a special dress which is called a kurta. It has long sleeves and it is decorated with beautiful embroidery.",
+        "The Tajik traditional clothes are very beautiful. Women wear a special dress called a kurta. It has long sleeves and it is decorated with beautiful embroidery.",
+        "Tajik traditional clothes are very beautiful. Women wear a special dress called kurta. It has long sleeves and it is decorated with beautiful embroidery."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "Tajik traditional clothes are very beautiful. Women wear a special dress called a kurta. It has long sleeves and it is decorated with beautiful embroidery."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Духтарон куртаҳои рангин бо нақшҳои дурахшон мепӯшанд. Мардон чапан мепӯшанд — палтои дарози гарм, ки дар болои либосҳои дигар пӯшида мешавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст A"
+        "Girls wear colourful dresses with bright patterns. Men wear a chapan — a long warm coat that is worn over other clothes.",
+        "Girls wear colourful dresses with bright patterns. Men wear a chapan — a long warm coat which is worn over other clothes.",
+        "Girls wear colourful dresses with bright patterns. Men wear the chapan — a long warm coat that is worn over other clothes.",
+        "Girls wear colorful dresses with bright patterns. Men wear a chapan — a long warm coat that is worn over other clothes."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "Girls wear colourful dresses with bright patterns. Men wear a chapan — a long warm coat that is worn over other clothes."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Либоси миллии тоҷикӣ хеле қадимӣ ва хеле зебо аст. Ҳар як минтақаи кишвари мо нақшҳо ва рангҳои худро дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: pronunciation"
+        "Tajik national dress is very old and very beautiful. Every region of our country has its own patterns and its own colours.",
+        "Tajik national dress is very ancient and very beautiful. Every region of our country has its own patterns and its own colours.",
+        "The Tajik national dress is very old and very beautiful. Every region of our country has its own patterns and its own colours.",
+        "Tajik national dress is very old and beautiful. Every region of our country has its own patterns and its own colours."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "Tajik national dress is very old and very beautiful. Every region of our country has its own patterns and its own colours."
+    },
+    {
+      "q": "«Вақте ки ман ба аксҳои кӯҳнаи бибиам нигоҳ мекунам, ман мебинам, ки ӯ либосҳои хеле зебои миллӣ мепӯшид» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I look at old photos of my grandmother, I see that she wore very beautiful traditional clothes.",
+        "When I look at the old photos of my grandmother, I see that she wore very beautiful traditional clothes.",
+        "When I look at old photos of my grandmother, I see that she was wearing very beautiful traditional clothes.",
+        "When I look at old photos of my grandmother I see that she wore very beautiful traditional clothes."
+      ],
+      "answer": "When I look at old photos of my grandmother, I see that she wore very beautiful traditional clothes."
+    },
+    {
+      "q": "«Мардуми тоҷик зевар ва лавозимотро дӯст медоранд. Занон гӯшвор, ангуштарӣ, дастпона ва гарданбанд мепӯшанд. Бисёре аз онҳо аз нуқра бо сангҳои зебо сохта шудаанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Tajik people love jewellery and accessories. Women wear earrings, rings, bracelets and necklaces. Many of them are made of silver with beautiful stones.",
+        "Tajik people love jewellery and accessories. Women wear earrings, rings, bracelets and necklaces. Many of them are made of silver and beautiful stones.",
+        "The Tajik people love jewellery and accessories. Women wear earrings, rings, bracelets and necklaces. Many of them are made of silver with beautiful stones.",
+        "Tajik people love jewelry and accessories. Women wear earrings, rings, bracelets and necklaces. Many of them are made of silver with beautiful stones."
+      ],
+      "answer": "Tajik people love jewellery and accessories. Women wear earrings, rings, bracelets and necklaces. Many of them are made of silver with beautiful stones."
+    },
+    {
+      "q": "«Бибиам гарданбанди нуқраи кӯҳнае дорад, ки модараш ба ӯ додааст. Ӯ мегӯяд: \"Ин гарданбанд аз ман калонтар аст. Вақте ки шумо ба он нигоҳ мекунед, шумо таърихи моро мебинед.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandmother has an old silver necklace that her mother gave her. She says: \"This necklace is older than me. When you look at it, you see our history.\"",
+        "My grandmother has an old silver necklace which her mother gave her. She says: \"This necklace is older than me. When you look at it, you see our history.\"",
+        "My grandmother has an old silver necklace that her mother gave to her. She says: \"This necklace is older than me. When you look at it, you see our history.\"",
+        "My grandmother has an old silver necklace that her mother gave her. She says: \"This necklace is older than I. When you look at it, you see our history.\""
+      ],
+      "answer": "My grandmother has an old silver necklace that her mother gave her. She says: \"This necklace is older than me. When you look at it, you see our history.\""
+    },
+    {
+      "q": "«Мӯд чизи хеле ҷолиб аст. Мӯд хеле зуд тағйир меёбад. Он чи бист сол пеш мӯдӣ буд, имрӯз мӯдӣ нест» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Fashion is a very interesting thing. Fashion changes very quickly. What was fashionable twenty years ago is not fashionable today.",
+        "Fashion is a very interesting thing. Fashion changes very fast. What was fashionable twenty years ago is not fashionable today.",
+        "The fashion is a very interesting thing. Fashion changes very quickly. What was fashionable twenty years ago is not fashionable today.",
+        "Fashion is a very interesting thing. Fashion changes very quickly. That which was fashionable twenty years ago is not fashionable today."
+      ],
+      "answer": "Fashion is a very interesting thing. Fashion changes very quickly. What was fashionable twenty years ago is not fashionable today."
+    },
+    {
+      "q": "«Аммо баъзе чизҳо ҳеҷ гоҳ аз мӯд намебароянд — масалан, куртаи сафед, костюми торики классикӣ ё шарфи зебо» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "But some things never go out of fashion — for example, a simple white shirt, a classic dark suit or a beautiful scarf.",
+        "But some things never go out of fashion — for example, a simple white shirt, a classic dark suit or a beautiful scarf.",
+        "But some things never go out of fashion, for example, a simple white shirt, a classic dark suit or a beautiful scarf.",
+        "But some things never go out of fashion — for example a simple white shirt, a classic dark suit or a beautiful scarf."
+      ],
+      "answer": "But some things never go out of fashion — for example, a simple white shirt, a classic dark suit or a beautiful scarf."
+    },
+    {
+      "q": "«Модарам мегӯяд: \"Аз мӯд аз ҳад зиёд пайравӣ накунед. Либосеро интихоб кунед, ки ба шумо мувофиқ аст ва шумо дар он худро хуб ҳис мекунед. Услуби шумо аз мӯди охирин муҳимтар аст.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My mother says: \"Do not follow fashion too much. Choose clothes that suit you and that you feel good in. Your own style is more important than the latest fashion.\"",
+        "My mother says: \"Don't follow fashion too much. Choose clothes that suit you and that you feel good in. Your own style is more important than the latest fashion.\"",
+        "My mother says: \"Do not follow the fashion too much. Choose clothes that suit you and that you feel good in. Your own style is more important than the latest fashion.\"",
+        "My mother says: \"Do not follow fashion too much. Choose clothes that suit you and that you feel good in. Your style is more important than the latest fashion.\""
+      ],
+      "answer": "My mother says: \"Do not follow fashion too much. Choose clothes that suit you and that you feel good in. Your own style is more important than the latest fashion.\""
+    },
+    {
+      "q": "«Ман фикр мекунам, ки ин маслиҳати хеле хуб аст. Вақте ки мо либоси худро интихоб мекунем, мо бояд дар бораи се чиз фикр кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I think this is very good advice. When we choose our clothes, we must think about three things.",
+        "I think that this is very good advice. When we choose our clothes, we must think about three things.",
+        "I think this is very good advice. When we choose our clothes we must think about three things.",
+        "I think this is a very good advice. When we choose our clothes, we must think about three things."
+      ],
+      "answer": "I think this is very good advice. When we choose our clothes, we must think about three things."
+    },
+    {
+      "q": "«Аввал, либос бояд бароҳат бошад. Агар шумо дар либоси худ бароҳат набошед, шумо худро хуб ҳис карда наметавонед. Дуюм, либос бояд ба шумо мувофиқ бошад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "First, the clothes must be comfortable. If you are not comfortable in your clothes, you cannot feel good. Second, the clothes must suit you.",
+        "First, clothes must be comfortable. If you are not comfortable in your clothes, you cannot feel good. Second, the clothes must suit you.",
+        "First, the clothes must be comfortable. If you are not comfortable in your clothes you cannot feel good. Second, the clothes must suit you.",
+        "First, the clothes must be comfortable. If you are not comfortable in your clothes, you can't feel good. Second, the clothes must suit you."
+      ],
+      "answer": "First, the clothes must be comfortable. If you are not comfortable in your clothes, you cannot feel good. Second, the clothes must suit you."
+    },
+    {
+      "q": "«На ҳар чизи мӯдӣ ба ҳар як одам хуб менамояд. Мо ҳама гуногун ҳастем — ва ин чизи хуб аст. Сеюм, либос бояд барои ҷой дуруст бошад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Not every fashionable thing looks good on every person. We are all different — and that is a good thing. Third, the clothes must be right for the place.",
+        "Not every fashionable thing looks good on every person. We are all different, and that is a good thing. Third, the clothes must be right for the place.",
+        "Not every fashionable thing looks good on every person. We are all different — and that is a good thing. Third, clothes must be right for the place.",
+        "Not every fashionable thing looks good on every person. We all are different — and that is a good thing. Third, the clothes must be right for the place."
+      ],
+      "answer": "Not every fashionable thing looks good on every person. We are all different — and that is a good thing. Third, the clothes must be right for the place."
+    },
+    {
+      "q": "«Мо наметавонем костюми варзиширо ба базм пӯшем ва мо наметавонем куртаи шабонаро ба мактаб пӯшем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We cannot wear a sports suit to a party and we cannot wear an evening dress to school.",
+        "We can't wear a sports suit to a party and we cannot wear an evening dress to school.",
+        "We cannot wear a sports suit to the party and we cannot wear an evening dress to school.",
+        "We cannot wear a sports suit to a party and we cannot wear the evening dress to school."
+      ],
+      "answer": "We cannot wear a sports suit to a party and we cannot wear an evening dress to school."
+    },
+    {
+      "q": "«Дар бораи либос боз як чизи муҳим ҳаст. Мо набояд одамонро аз рӯи либосашон баҳо диҳем. Одами бой на ҳамеша одами хуб аст ва одами камбағал на ҳамеша одами бад аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "There is also another important thing about clothes. We must not judge people by their clothes. A rich person is not always a good person, and a poor person is not always a bad person.",
+        "There is also another important thing about clothes. We must not judge people by their clothes. A rich person is not always a good person and a poor person is not always a bad person.",
+        "There is also another important thing about clothes. We must not judge people by their clothes. The rich person is not always a good person, and a poor person is not always a bad person.",
+        "There is also another important thing about clothes. We should not judge people by their clothes. A rich person is not always a good person, and a poor person is not always a bad person."
+      ],
+      "answer": "There is also another important thing about clothes. We must not judge people by their clothes. A rich person is not always a good person, and a poor person is not always a bad person."
+    },
+    {
+      "q": "«Муҳимтарин чиз он аст, ки дар дохили одам аст — дили ӯ, ақли ӯ ва амалҳои ӯ. Бобоям мегӯяд: \"Либоси зебо шуморо як рӯз зебо нишон медиҳад. Дили зебо шуморо тамоми умр зебо нигоҳ медорад.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The most important thing is what is inside a person — their heart, their mind and their actions. My grandfather says: \"Beautiful clothes make you look good for one day. A beautiful heart makes you beautiful for all your life.\"",
+        "The most important thing is what is inside a person — their heart, their mind and their actions. My grandfather says: \"Beautiful clothes make you look good for one day. A beautiful heart makes you beautiful for your whole life.\"",
+        "The most important thing is what is inside a person: their heart, their mind and their actions. My grandfather says: \"Beautiful clothes make you look good for one day. A beautiful heart makes you beautiful for all your life.\"",
+        "The most important thing is what is inside a person — their heart, their mind and their actions. My grandfather says: \"Beautiful clothes make you look good for one day. The beautiful heart makes you beautiful for all your life.\""
+      ],
+      "answer": "The most important thing is what is inside a person — their heart, their mind and their actions. My grandfather says: \"Beautiful clothes make you look good for one day. A beautiful heart makes you beautiful for all your life.\""
+    },
+    {
+      "q": "«Дар оилаи мо мо кӯшиш мекунем, ки либоси босифат харем. Либоси босифат пули бештар меарзад, аммо он дарозтар мемонад. Мо либоси навро вақте мехарем, ки ба он ниёз дорем, на вақте ки онро мехоҳем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In our family we try to buy good quality clothes. Quality clothes cost more money, but they last longer. We buy new clothes when we need them, not when we want them.",
+        "In our family we try to buy clothes of good quality. Quality clothes cost more money, but they last longer. We buy new clothes when we need them, not when we want them.",
+        "In our family we try to buy good quality clothes. Quality clothes cost more money but they last longer. We buy new clothes when we need them, not when we want them.",
+        "In our family we try to buy good quality clothes. Quality clothes cost more money, but they last longer. We buy new clothes when we need them, not when we want it."
+      ],
+      "answer": "In our family we try to buy good quality clothes. Quality clothes cost more money, but they last longer. We buy new clothes when we need them, not when we want them."
+    },
+    {
+      "q": "«Модарам мегӯяд: \"Одами доно он чиро мехарад, ки ба он ниёз дорад. Одами нодон он чиро мехарад, ки онро мехоҳад.\" Ман кӯшиш мекунам, ки ин қоидаро ба ёд дорам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My mother says: \"A wise person buys what he needs. A foolish person buys what he wants.\" I try to remember this rule.",
+        "My mother says: \"A wise person buys what he needs. A foolish person buys what he wants.\" I try to remember this rule.",
+        "My mother says: \"The wise person buys what he needs. The foolish person buys what he wants.\" I try to remember this rule.",
+        "My mother says: \"A wise person buys what he needs. A foolish person buys what he wants.\" I try to keep this rule in mind."
+      ],
+      "answer": "My mother says: \"A wise person buys what he needs. A foolish person buys what he wants.\" I try to remember this rule."
+    },
+    {
+      "q": "«Ҳар сол пеш аз Наврӯз модарам ва хоҳарам ба бозор мераванд ва барои ид либоси нав мехаранд. Ин анъана дар кишвари мост, ки дар Наврӯз либоси нав пӯшем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Every year before Navruz my mother and my sister go to the market and buy new clothes for the holiday. It is a tradition in our country to wear new clothes on Navruz.",
+        "Every year before Navruz my mother and my sister go to the market and buy new clothes for the holiday. It is a tradition in our country to wear new clothes at Navruz.",
+        "Every year, before Navruz, my mother and my sister go to the market and buy new clothes for the holiday. It is a tradition in our country to wear new clothes on Navruz.",
+        "Every year before Navruz my mother and sister go to the market and buy new clothes for the holiday. It is a tradition in our country to wear new clothes on Navruz."
+      ],
+      "answer": "Every year before Navruz my mother and my sister go to the market and buy new clothes for the holiday. It is a tradition in our country to wear new clothes on Navruz."
+    },
+    {
+      "q": "«Мо инчунин ба кӯдакон либоси нав ҳамчун тӯҳфа медиҳем. Дар Наврӯз тамоми оила либоси зебои нав мепӯшад ва мо ба дидани биби ва бобоямон меравем. Ин вақти хеле хушбахт ва хеле зебо аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We also give new clothes to children as a present. On Navruz the whole family wears beautiful new clothes and we go to visit our grandmother and grandfather. It is a very happy and very beautiful time.",
+        "We also give new clothes to children as a present. On Navruz the whole family wears beautiful new clothes and we go to visit our grandmother and grandfather. It is a very happy and a very beautiful time.",
+        "We also give new clothes to children as presents. On Navruz the whole family wears beautiful new clothes and we go to visit our grandmother and grandfather. It is a very happy and very beautiful time.",
+        "We also give new clothes to the children as a present. On Navruz the whole family wears beautiful new clothes and we go to visit our grandmother and grandfather. It is a very happy and very beautiful time."
+      ],
+      "answer": "We also give new clothes to children as a present. On Navruz the whole family wears beautiful new clothes and we go to visit our grandmother and grandfather. It is a very happy and very beautiful time."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам либоси хуб ва зебо пӯшам. Аммо ман ҳамеша мехоҳам суханони бобоямро ба ёд дорам: либоси зебо шуморо як рӯз зебо нишон медиҳад, аммо дили зебо шуморо тамоми умр зебо нигоҳ медорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to wear good and beautiful clothes. But I always want to remember the words of my grandfather: beautiful clothes make you look good for one day, but a beautiful heart makes you beautiful for all your life.",
+        "When I grow up, I want to wear good and beautiful clothes. But I always want to remember the words of my grandfather: beautiful clothes make you look good for one day but a beautiful heart makes you beautiful for all your life.",
+        "When I grow up I want to wear good and beautiful clothes. But I always want to remember the words of my grandfather: beautiful clothes make you look good for one day, but a beautiful heart makes you beautiful for all your life.",
+        "When I grow up, I want to wear good and beautiful clothes. But I always want to remember the words of my grandfather: beautiful clothes make you look good for one day, but the beautiful heart makes you beautiful for all your life."
+      ],
+      "answer": "When I grow up, I want to wear good and beautiful clothes. But I always want to remember the words of my grandfather: beautiful clothes make you look good for one day, but a beautiful heart makes you beautiful for all your life."
+    },
+    {
+      "q": "«Бинобар ин ман мехоҳам ҳардуро дошта бошам — либоси хуб ва дили хуб. Зеро ки одами ҳақиқӣ ҳам аз берун ва ҳам аз дарун зебо аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "So I want to have both — good clothes and a good heart. Because a real person is beautiful both outside and inside.",
+        "So I want to have both — good clothes and a good heart. Because a real person is beautiful both outside and inside.",
+        "So I want to have both: good clothes and a good heart. Because a real person is beautiful both outside and inside.",
+        "So I want to have both — good clothes and good heart. Because a real person is beautiful both outside and inside."
+      ],
+      "answer": "So I want to have both — good clothes and a good heart. Because a real person is beautiful both outside and inside."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 28
+  "wordsCount": 16
 }
