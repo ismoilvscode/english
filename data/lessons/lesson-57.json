@@ -1,431 +1,672 @@
 {
   "id": 57,
-  "title": "Муоширати воқеӣ 57",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 57: Кайҳон ва ситораҳо",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "universe",
+      "tj": "коинот",
+      "ex": "The universe is very big and very old."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "galaxy",
+      "tj": "галактика",
+      "ex": "Our galaxy is called the Milky Way."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "planet",
+      "tj": "сайёра",
+      "ex": "The Earth is a planet."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "orbit",
+      "tj": "мадор",
+      "ex": "The Moon moves in its orbit around the Earth."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "satellite",
+      "tj": "моҳвора",
+      "ex": "The Moon is a satellite of the Earth."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "comet",
+      "tj": "думдор",
+      "ex": "A comet has a long bright tail."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "asteroid",
+      "tj": "сайёрак",
+      "ex": "Many asteroids fly between Mars and Jupiter."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "astronaut",
+      "tj": "кайҳоннавард",
+      "ex": "The astronaut flew into space."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "spaceship",
+      "tj": "киштии кайҳонӣ",
+      "ex": "The spaceship flew to the Moon."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to launch",
+      "tj": "парвоз додан",
+      "ex": "They launch rockets from the space centre."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "telescope",
+      "tj": "телескоп",
+      "ex": "We look at the stars through a telescope."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "to explore",
+      "tj": "тадқиқ кардан",
+      "ex": "Scientists explore space every year."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "to observe",
+      "tj": "мушоҳида кардан",
+      "ex": "I observe the sky every night."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "gravity",
+      "tj": "ҷозиба",
+      "ex": "The gravity of the Earth pulls us down."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "weightless",
+      "tj": "бевазн",
+      "ex": "In space astronauts are weightless."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "spacecraft",
+      "tj": "киштии кайҳонӣ",
+      "ex": "The spacecraft returned to Earth safely."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 57)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "The universe is very big and very old.",
+      "tj": "Коинот хеле калон ва хеле қадимӣ аст."
     },
     {
-      "en": "I'm working on lesson 57",
-      "tj": "Ман дарси 57-ро меомӯзам"
+      "en": "Our galaxy is called the Milky Way.",
+      "tj": "Галактикаи мо Роҳи Каҳкашон ном дорад."
+    },
+    {
+      "en": "The Earth is a planet and the Moon is its satellite.",
+      "tj": "Замин сайёра аст ва Моҳ моҳвораи он аст."
+    },
+    {
+      "en": "The Moon moves in its orbit around the Earth.",
+      "tj": "Моҳ дар мадори худ гирди Замин ҳаракат мекунад."
+    },
+    {
+      "en": "A comet has a long bright tail.",
+      "tj": "Думдор думи дароз ва дурахшон дорад."
+    },
+    {
+      "en": "Many asteroids fly between Mars and Jupiter.",
+      "tj": "Сайёракҳои зиёд байни Миррих ва Муштарӣ парвоз мекунанд."
+    },
+    {
+      "en": "The astronaut flew into space in a spaceship.",
+      "tj": "Кайҳоннавард бо киштии кайҳонӣ ба кайҳон парвоз кард."
+    },
+    {
+      "en": "They launch rockets from the space centre every year.",
+      "tj": "Онҳо ҳар сол аз маркази кайҳонӣ ракетаҳоро парвоз медиҳанд."
+    },
+    {
+      "en": "We look at the stars and planets through a telescope.",
+      "tj": "Мо ба ситораҳо ва сайёраҳо тавассути телескоп нигоҳ мекунем."
+    },
+    {
+      "en": "Scientists explore space to learn new things.",
+      "tj": "Олимон кайҳонро тадқиқ мекунанд, то ки чизҳои навро омӯзанд."
+    },
+    {
+      "en": "I observe the night sky and write down what I see.",
+      "tj": "Ман осмони шабонаро мушоҳида мекунам ва он чиро, ки мебинам, менависам."
+    },
+    {
+      "en": "The gravity of the Earth pulls everything down.",
+      "tj": "Ҷозибаи Замин ҳама чизро ба поён мекашад."
+    },
+    {
+      "en": "In space astronauts are weightless and float in the air.",
+      "tj": "Дар кайҳон кайҳоннавардҳо бевазн ҳастанд ва дар ҳаво шино мекунанд."
+    },
+    {
+      "en": "The spacecraft returned to Earth safely after the flight.",
+      "tj": "Киштии кайҳонӣ баъд аз парвоз ба Замин бехатар баргашт."
+    },
+    {
+      "en": "Space is very beautiful and very dangerous at the same time.",
+      "tj": "Кайҳон дар як вақт хеле зебо ва хеле хатарнок аст."
+    },
+    {
+      "en": "I want to be an astronaut and travel to the Moon and to Mars.",
+      "tj": "Ман мехоҳам кайҳоннавард шавам ва ба Моҳ ва ба Миррих сафар кунам."
     }
   ],
   "text": {
-    "en": "Text for lesson 57. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 57 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 57 text.",
-    "tj": "Матни дарси 57..."
+    "en": "Space and the Stars\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. I love to look at the sky at night. When the sky is clear and there are no clouds, I can see thousands of stars. They look like small bright lamps in the dark sky. I always ask myself: \"What is there, high above us? What are stars? How big is the universe?\" Today I want to tell you about space and the stars.\n\nThe universe is everything that exists: all the stars, all the planets, all the galaxies and all the space between them. The universe is very big and very old. Scientists think that it is about fourteen billion years old. Nobody knows how big it is. It has no beginning and no end — or at least, we cannot see the end of it. Our small planet Earth is only a very small part of this huge universe.\n\nA galaxy is a very big group of stars. Our galaxy is called the Milky Way. It has more than two hundred billion stars. Our Sun is only one of these stars. It looks much bigger and brighter than other stars because it is much closer to us. Around our Sun, eight planets move: Mercury, Venus, the Earth, Mars, Jupiter, Saturn, Uranus and Neptune. The Earth is the third planet from the Sun. It is the only planet where there is life — as far as we know.\n\nThe Moon is the Earth's satellite. It moves in its orbit around the Earth and it takes about twenty-eight days to go round our planet. The Moon has no light of its own — it shines because the Sun's light falls on it. That is why the Moon looks different every night: sometimes it is full, sometimes it is half, sometimes it is only a thin line.\n\nThere are also other interesting things in space. A comet is a small icy body that flies through space. When a comet comes near the Sun, it gets a long bright tail. People in the past were afraid of comets — they thought that comets brought bad luck. Today we know that a comet is just a piece of ice and rock that flies around the Sun. An asteroid is a small rocky body that also flies around the Sun. There are many asteroids between Mars and Jupiter.\n\nPeople have always wanted to fly into space. In 1961 the first man flew into space. His name was Yuri Gagarin. He was a Soviet cosmonaut. His flight lasted only one hundred and eight minutes, but it changed the history of the whole world. Since that time, hundreds of astronauts and cosmonauts have flown into space. They have visited the Moon, they have lived for months on space stations and they have done thousands of experiments.\n\nA spaceship or a spacecraft is a special machine that flies into space. It is very different from a plane. It must have a very strong engine to fly away from the Earth's gravity. It must have food, water and air for the astronauts. It must be very safe. Scientists launch spaceships from special space centres. After the flight the spacecraft returns to Earth — it lands in the sea or in the steppe.\n\nAstronauts must be very strong and very healthy. They must be clever and brave. They must be able to work with many machines. In space, astronauts are weightless. They float in the air and cannot walk. They eat special food from tubes and drink water from special bags. They sleep in special sleeping bags that are fixed to the wall. It is a very difficult job but also a very interesting one.\n\nScientists use big telescopes to observe space. A telescope is a special machine that makes faraway things look bigger and closer. Through a telescope we can see the Moon, the planets, the stars and the galaxies. There are also radio telescopes — they listen to signals from space. With their help scientists have learned many things about the universe.\n\nI love space very much. I read books about stars and planets. I watch films about astronauts. In summer, when we go to the village, the night sky there is very dark and I can see many more stars than in the city. My grandfather shows me different stars and tells me their names. He says: \"When you look at the stars, you understand how small we are and how big the world is. And you want to learn more.\"\n\nWhen I grow up, I want to be an astronaut. I want to fly into space in a spaceship. I want to see the Earth from above. I want to walk on the Moon. I want to fly to Mars. I want to explore the universe and to learn new things. I know it is very difficult. But I remember the words of Yuri Gagarin: \"Let us go!\" If I work hard, one day my big dream will come true.",
+    "tj": "Кайҳон ва ситораҳо\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Ман шабона ба осмон нигоҳ карданро дӯст медорам. Вақте ки осмон равшан аст ва абрҳо нестанд, ман ҳазорон ситораро дида метавонам. Онҳо дар осмони торик мисли чароғҳои хурди дурахшон менамоянд. Ман ҳамеша аз худам мепурсам: «Дар болои мо, дар баландӣ чӣ ҳаст? Ситораҳо чист? Коинот чӣ қадар калон аст?» Имрӯз ман мехоҳам ба шумо дар бораи кайҳон ва ситораҳо нақл кунам.\n\nКоинот ҳама чизест, ки вуҷуд дорад: ҳамаи ситораҳо, ҳамаи сайёраҳо, ҳамаи галактикаҳо ва тамоми фазои байни онҳо. Коинот хеле калон ва хеле қадимӣ аст. Олимон фикр мекунанд, ки он тақрибан чордаҳ миллиард сол дорад. Ҳеҷ кас намедонад, ки он чӣ қадар калон аст. Он на оғоз дорад ва на анҷом — ё ҳадди ақал, мо охири онро дида наметавонем. Сайёраи хурди мо Замин танҳо қисми хеле хурди ин коиноти азим аст.\n\nГалактика гурӯҳи хеле калони ситораҳост. Галактикаи мо Роҳи Каҳкашон ном дорад. Он беш аз дусад миллиард ситора дорад. Офтоби мо танҳо яке аз ин ситораҳост. Он нисбат ба ситораҳои дигар хеле калонтар ва дурахшонтар менамояд, зеро ки он ба мо хеле наздиктар аст. Гирди Офтоби мо ҳашт сайёра ҳаракат мекунанд: Уторид, Зуҳра, Замин, Миррих, Муштарӣ, Зуҳал, Уран ва Нептун. Замин сайёраи сеюм аз Офтоб аст. Он танҳо сайёраест, ки дар он ҳаёт вуҷуд дорад — то он ҷое ки мо медонем.\n\nМоҳ моҳвораи Замин аст. Он дар мадори худ гирди Замин ҳаракат мекунад ва барои гирди сайёраи мо гаштан тақрибан бисту ҳашт рӯз лозим аст. Моҳ нури худро надорад — он медурахшад, зеро ки нури Офтоб ба он меафтад. Барои ҳамин Моҳ ҳар шаб гуногун менамояд: баъзан пурра аст, баъзан нисф, баъзан танҳо хати тунук.\n\nДар кайҳон инчунин чизҳои дигари ҷолиб ҳастанд. Думдор ҷисми хурди яхбастаест, ки дар кайҳон парвоз мекунад. Вақте ки думдор ба Офтоб наздик мешавад, он думи дароз ва дурахшон мегирад. Одамон дар гузашта аз думдорҳо метарсиданд — онҳо фикр мекарданд, ки думдорҳо бадбахтӣ меоранд. Имрӯз мо медонем, ки думдор танҳо порчаи ях ва санг аст, ки гирди Офтоб парвоз мекунад. Сайёрак ҷисми хурди сангӣ аст, ки он низ гирди Офтоб парвоз мекунад. Байни Миррих ва Муштарӣ сайёракҳои зиёд ҳастанд.\n\nОдамон ҳамеша мехостанд, ки ба кайҳон парвоз кунанд. Дар соли 1961 аввалин одам ба кайҳон парвоз кард. Номи ӯ Юрий Гагарин буд. Ӯ кайҳоннаварди шӯравӣ буд. Парвози ӯ танҳо саду ҳашт дақиқа давом кард, аммо он таърихи тамоми ҷаҳонро тағйир дод. Аз ҳамон вақт садҳо кайҳоннавардҳо ба кайҳон парвоз карданд. Онҳо ба Моҳ рафтанд, моҳҳо дар истгоҳҳои кайҳонӣ зиндагӣ карданд ва ҳазорон таҷриба гузарониданд.\n\nКиштии кайҳонӣ мошини махсусест, ки ба кайҳон парвоз мекунад. Он аз тайёра хеле фарқ мекунад. Барои аз ҷозибаи Замин дур парвоз кардан он бояд муҳаррики хеле қавӣ дошта бошад. Он бояд барои кайҳоннавардҳо ғизо, об ва ҳаво дошта бошад. Он бояд хеле бехатар бошад. Олимон киштиҳои кайҳониро аз марказҳои махсуси кайҳонӣ парвоз медиҳанд. Баъд аз парвоз киштии кайҳонӣ ба Замин бармегардад — он дар баҳр ё дар дашт фуруд меояд.\n\nКайҳоннавардҳо бояд хеле қавӣ ва хеле солим бошанд. Онҳо бояд зирак ва ҷасур бошанд. Онҳо бояд бо мошинҳои зиёд кор карда тавонанд. Дар кайҳон кайҳоннавардҳо бевазн ҳастанд. Онҳо дар ҳаво шино мекунанд ва қадам зада наметавонанд. Онҳо ғизои махсусро аз найчаҳо мехӯранд ва обро аз халтаҳои махсус менӯшанд. Онҳо дар халтаҳои махсуси хоб, ки ба девор часпонида шудаанд, мехобанд. Ин кори хеле душвор, аммо инчунин хеле ҷолиб аст.\n\nОлимон барои мушоҳидаи кайҳон телескопҳои калон истифода мебаранд. Телескоп мошини махсусест, ки чизҳои дурро калонтар ва наздиктар нишон медиҳад. Тавассути телескоп мо Моҳ, сайёраҳо, ситораҳо ва галактикаҳоро дида метавонем. Инчунин телескопҳои радиоӣ ҳастанд — онҳо сигналҳоро аз кайҳон гӯш мекунанд. Бо кӯмаки онҳо олимон дар бораи коинот чизҳои зиёдро омӯхтанд.\n\nМан кайҳонро хеле дӯст медорам. Ман китобҳо дар бораи ситораҳо ва сайёраҳо мехонам. Ман филмҳо дар бораи кайҳоннавардҳо тамошо мекунам. Дар тобистон, вақте ки мо ба деҳа меравем, осмони шабона дар он ҷо хеле торик аст ва ман нисбат ба шаҳр ситораҳои зиёдтарро дида метавонам. Бобоям ба ман ситораҳои гуногунро нишон медиҳад ва номҳои онҳоро нақл мекунад. Ӯ мегӯяд: «Вақте ки шумо ба ситораҳо нигоҳ мекунед, шумо мефаҳмед, ки мо чӣ қадар хурд ҳастем ва ҷаҳон чӣ қадар калон аст. Ва шумо мехоҳед, ки бештар омӯзед.»\n\nВақте ки ман калон мешавам, ман мехоҳам кайҳоннавард шавам. Ман мехоҳам бо киштии кайҳонӣ ба кайҳон парвоз кунам. Ман мехоҳам Заминро аз боло бинам. Ман мехоҳам дар Моҳ қадам занам. Ман мехоҳам ба Миррих парвоз кунам. Ман мехоҳам коинотро тадқиқ кунам ва чизҳои навро омӯзам. Ман медонам, ки ин хеле душвор аст. Аммо ман суханони Юрий Гагаринро ба ёд меорам: «Биёед равем!» Агар ман бо ҷидду ҷаҳд кор кунам, як рӯз орзуи бузурги ман амалӣ мешавад."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Коинот хеле калон ва хеле қадимӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: opportunity"
+        "The universe is very big and very old.",
+        "The universe is very large and very old.",
+        "The universe is very big and very ancient.",
+        "The space is very big and very old."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "The universe is very big and very old."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Галактикаи мо Роҳи Каҳкашон ном дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст A"
+        "Our galaxy is called the Milky Way.",
+        "Our galaxy is named the Milky Way.",
+        "Our galaxy has the name the Milky Way.",
+        "Our galaxy is called the Galaxy Way."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "Our galaxy is called the Milky Way."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Замин сайёра аст ва Моҳ моҳвораи он аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: environment"
+        "The Earth is a planet and the Moon is its satellite.",
+        "The Earth is a planet and the Moon is a satellite of it.",
+        "The Earth is a planet and the Moon is the satellite of it.",
+        "The Earth is the planet and the Moon is its satellite."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "The Earth is a planet and the Moon is its satellite."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Моҳ дар мадори худ гирди Замин ҳаракат мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: communication"
+        "The Moon moves in its orbit around the Earth.",
+        "The Moon moves in its orbit round the Earth.",
+        "The Moon goes in its orbit around the Earth.",
+        "The Moon moves on its orbit around the Earth."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "The Moon moves in its orbit around the Earth."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Думдор думи дароз ва дурахшон дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: education",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "A comet has a long bright tail.",
+        "A comet has a long and bright tail.",
+        "The comet has a long bright tail.",
+        "A comet has a long light tail."
       ],
-      "answer": "тарҷума: education"
+      "answer": "A comet has a long bright tail."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Сайёракҳои зиёд байни Миррих ва Муштарӣ парвоз мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст C"
+        "Many asteroids fly between Mars and Jupiter.",
+        "Many asteroids fly between Mars and Jupiter.",
+        "A lot of asteroids fly between Mars and Jupiter.",
+        "Many asteroids fly among Mars and Jupiter."
       ],
-      "answer": "тарҷума: development"
+      "answer": "Many asteroids fly between Mars and Jupiter."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Кайҳоннавард бо киштии кайҳонӣ ба кайҳон парвоз кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: achievement"
+        "The astronaut flew into space in a spaceship.",
+        "The astronaut flew into space by a spaceship.",
+        "The astronaut flew to space in a spaceship.",
+        "The cosmonaut flew into space in a spaceship."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The astronaut flew into space in a spaceship."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Онҳо ҳар сол аз маркази кайҳонӣ ракетаҳоро парвоз медиҳанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: challenge"
+        "They launch rockets from the space centre every year.",
+        "They launch rockets from the space center every year.",
+        "They launch rockets from the space centre each year.",
+        "They send rockets from the space centre every year."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "They launch rockets from the space centre every year."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Мо ба ситораҳо ва сайёраҳо тавассути телескоп нигоҳ мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: knowledge",
-        "нодуруст C"
+        "We look at the stars and planets through a telescope.",
+        "We look at stars and planets through a telescope.",
+        "We look at the stars and the planets through a telescope.",
+        "We look at the stars and planets with a telescope."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "We look at the stars and planets through a telescope."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Олимон кайҳонро тадқиқ мекунанд, то ки чизҳои навро омӯзанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Scientists explore space to learn new things.",
+        "Scientists explore space to learn new things.",
+        "The scientists explore space to learn new things.",
+        "Scientists explore space for learning new things."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "Scientists explore space to learn new things."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ман осмони шабонаро мушоҳида мекунам ва он чиро, ки мебинам, менависам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: fluency"
+        "I observe the night sky and write down what I see.",
+        "I observe the night sky and write down what I see.",
+        "I watch the night sky and write down what I see.",
+        "I observe the night sky and write what I see."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "I observe the night sky and write down what I see."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ҷозибаи Замин ҳама чизро ба поён мекашад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: confidence",
-        "нодуруст A"
+        "The gravity of the Earth pulls everything down.",
+        "The gravity of the Earth pulls all things down.",
+        "The gravity of the Earth pulls everything down.",
+        "The Earth's gravity pulls everything down."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "The gravity of the Earth pulls everything down."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Дар кайҳон кайҳоннавардҳо бевазн ҳастанд ва дар ҳаво шино мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: pronunciation",
-        "нодуруст A",
-        "нодуруст B"
+        "In space astronauts are weightless and float in the air.",
+        "In space the astronauts are weightless and float in the air.",
+        "In space astronauts are weightless and fly in the air.",
+        "In space astronauts are weightless and float in air."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "In space astronauts are weightless and float in the air."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Киштии кайҳонӣ баъд аз парвоз ба Замин бехатар баргашт» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: vocabulary",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "The spacecraft returned to Earth safely after the flight.",
+        "The spacecraft came back to Earth safely after the flight.",
+        "The spaceship returned to Earth safely after the flight.",
+        "The spacecraft returned to the Earth safely after the flight."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "The spacecraft returned to Earth safely after the flight."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Кайҳон дар як вақт хеле зебо ва хеле хатарнок аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: grammar",
-        "нодуруст A"
+        "Space is very beautiful and very dangerous at the same time.",
+        "Space is very beautiful and very dangerous at the same time.",
+        "Space is very beautiful and dangerous at the same time.",
+        "The space is very beautiful and very dangerous at the same time."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "Space is very beautiful and very dangerous at the same time."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ман мехоҳам кайҳоннавард шавам ва ба Моҳ ва ба Миррих сафар кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст A",
-        "нодуруст C"
+        "I want to be an astronaut and travel to the Moon and to Mars.",
+        "I want to become an astronaut and travel to the Moon and to Mars.",
+        "I want to be an astronaut and to travel to the Moon and to Mars.",
+        "I want to be a cosmonaut and travel to the Moon and to Mars."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "I want to be an astronaut and travel to the Moon and to Mars."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Вақте ки осмон равшан аст ва абрҳо нестанд, ман ҳазорон ситораро дида метавонам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "When the sky is clear and there are no clouds, I can see thousands of stars.",
+        "When the sky is clear and there are no clouds I can see thousands of stars.",
+        "When the sky is clear and there are not any clouds, I can see thousands of stars.",
+        "When the sky is clear and no clouds, I can see thousands of stars."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "When the sky is clear and there are no clouds, I can see thousands of stars."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Онҳо дар осмони торик мисли чароғҳои хурди дурахшон менамоянд. Ман ҳамеша аз худам мепурсам: \"Дар болои мо, дар баландӣ чӣ ҳаст?\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: environment"
+        "They look like small bright lamps in the dark sky. I always ask myself: \"What is there, high above us?\"",
+        "They look like small bright lamps in the dark sky. I always ask myself: \"What is there high above us?\"",
+        "They look like small bright lamps in the dark sky. I always ask myself: \"What is there, high above us?\"",
+        "They look like little bright lamps in the dark sky. I always ask myself: \"What is there, high above us?\""
       ],
-      "answer": "тарҷума: environment"
+      "answer": "They look like small bright lamps in the dark sky. I always ask myself: \"What is there, high above us?\""
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Коинот ҳама чизест, ки вуҷуд дорад: ҳамаи ситораҳо, ҳамаи сайёраҳо, ҳамаи галактикаҳо ва тамоми фазои байни онҳо» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: communication",
-        "нодуруст C"
+        "The universe is everything that exists: all the stars, all the planets, all the galaxies and all the space between them.",
+        "The universe is everything that exists: all stars, all planets, all galaxies and all the space between them.",
+        "The universe is everything that exists: all the stars, all the planets, all the galaxies and all space between them.",
+        "The universe is all that exists: all the stars, all the planets, all the galaxies and all the space between them."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "The universe is everything that exists: all the stars, all the planets, all the galaxies and all the space between them."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Олимон фикр мекунанд, ки он тақрибан чордаҳ миллиард сол дорад. Ҳеҷ кас намедонад, ки он чӣ қадар калон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст B"
+        "Scientists think that it is about fourteen billion years old. Nobody knows how big it is.",
+        "Scientists think that it is about fourteen billion years old. No one knows how big it is.",
+        "Scientists think it is about fourteen billion years old. Nobody knows how big it is.",
+        "Scientists believe that it is about fourteen billion years old. Nobody knows how big it is."
       ],
-      "answer": "тарҷума: education"
+      "answer": "Scientists think that it is about fourteen billion years old. Nobody knows how big it is."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Он на оғоз дорад ва на анҷом — ё ҳадди ақал, мо охири онро дида наметавонем. Сайёраи хурди мо Замин танҳо қисми хеле хурди ин коиноти азим аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст C",
-        "нодуруст A"
+        "It has no beginning and no end — or at least, we cannot see the end of it. Our small planet Earth is only a very small part of this huge universe.",
+        "It has no beginning and no end — or at least we cannot see the end of it. Our small planet Earth is only a very small part of this huge universe.",
+        "It has no beginning and no end — or at least, we can't see the end of it. Our small planet Earth is only a very small part of this huge universe.",
+        "It has no beginning and no end — or at least, we cannot see its end. Our small planet Earth is only a very small part of this huge universe."
       ],
-      "answer": "тарҷума: development"
+      "answer": "It has no beginning and no end — or at least, we cannot see the end of it. Our small planet Earth is only a very small part of this huge universe."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Галактика гурӯҳи хеле калони ситораҳост. Галактикаи мо Роҳи Каҳкашон ном дорад. Он беш аз дусад миллиард ситора дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: achievement"
+        "A galaxy is a very big group of stars. Our galaxy is called the Milky Way. It has more than two hundred billion stars.",
+        "A galaxy is a very big group of stars. Our galaxy is called the Milky Way. It has over two hundred billion stars.",
+        "A galaxy is a very big group of stars. Our galaxy has the name the Milky Way. It has more than two hundred billion stars.",
+        "A galaxy is a very large group of stars. Our galaxy is called the Milky Way. It has more than two hundred billion stars."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "A galaxy is a very big group of stars. Our galaxy is called the Milky Way. It has more than two hundred billion stars."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Офтоби мо танҳо яке аз ин ситораҳост. Он нисбат ба ситораҳои дигар хеле калонтар ва дурахшонтар менамояд, зеро ки он ба мо хеле наздиктар аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: challenge",
-        "нодуруст B"
+        "Our Sun is only one of these stars. It looks much bigger and brighter than other stars because it is much closer to us.",
+        "Our Sun is only one of these stars. It looks much bigger and brighter than the other stars because it is much closer to us.",
+        "Our Sun is only one of these stars. It looks much bigger and brighter than other stars, because it is much closer to us.",
+        "Our Sun is only one of these stars. It looks much larger and brighter than other stars because it is much closer to us."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "Our Sun is only one of these stars. It looks much bigger and brighter than other stars because it is much closer to us."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Гирди Офтоби мо ҳашт сайёра ҳаракат мекунанд: Уторид, Зуҳра, Замин, Миррих, Муштарӣ, Зуҳал, Уран ва Нептун» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: knowledge",
-        "нодуруст A"
+        "Around our Sun, eight planets move: Mercury, Venus, the Earth, Mars, Jupiter, Saturn, Uranus and Neptune.",
+        "Around our Sun eight planets move: Mercury, Venus, the Earth, Mars, Jupiter, Saturn, Uranus and Neptune.",
+        "Around our Sun, eight planets move: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune.",
+        "Around the Sun, eight planets move: Mercury, Venus, the Earth, Mars, Jupiter, Saturn, Uranus and Neptune."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "Around our Sun, eight planets move: Mercury, Venus, the Earth, Mars, Jupiter, Saturn, Uranus and Neptune."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Замин сайёраи сеюм аз Офтоб аст. Он танҳо сайёраест, ки дар он ҳаёт вуҷуд дорад — то он ҷое ки мо медонем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: conversation"
+        "The Earth is the third planet from the Sun. It is the only planet where there is life — as far as we know.",
+        "The Earth is the third planet from the Sun. It is the only planet where there is life, as far as we know.",
+        "The Earth is the third planet from the Sun. It is the only planet with life — as far as we know.",
+        "The Earth is the third planet from the Sun. It is the only planet where life exists — as far as we know."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The Earth is the third planet from the Sun. It is the only planet where there is life — as far as we know."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Моҳ моҳвораи Замин аст. Он дар мадори худ гирди Замин ҳаракат мекунад ва барои гирди сайёраи мо гаштан тақрибан бисту ҳашт рӯз лозим аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: fluency",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The Moon is the Earth's satellite. It moves in its orbit around the Earth and it takes about twenty-eight days to go round our planet.",
+        "The Moon is the Earth's satellite. It moves in its orbit around the Earth and it takes about 28 days to go round our planet.",
+        "The Moon is the satellite of the Earth. It moves in its orbit around the Earth and it takes about twenty-eight days to go round our planet.",
+        "The Moon is the Earth's satellite. It moves in its orbit round the Earth and it takes about twenty-eight days to go round our planet."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "The Moon is the Earth's satellite. It moves in its orbit around the Earth and it takes about twenty-eight days to go round our planet."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Моҳ нури худро надорад — он медурахшад, зеро ки нури Офтоб ба он меафтад. Барои ҳамин Моҳ ҳар шаб гуногун менамояд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: confidence",
-        "нодуруст C"
+        "The Moon has no light of its own — it shines because the Sun's light falls on it. That is why the Moon looks different every night.",
+        "The Moon has no light of its own — it shines because the Sun's light falls on it. That is why the Moon looks different every night.",
+        "The Moon has no light of its own — it shines because sunlight falls on it. That is why the Moon looks different every night.",
+        "The Moon has no light of its own — it shines because the light of the Sun falls on it. That is why the Moon looks different every night."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "The Moon has no light of its own — it shines because the Sun's light falls on it. That is why the Moon looks different every night."
+    },
+    {
+      "q": "«Баъзан пурра аст, баъзан нисф, баъзан танҳо хати тунук» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Sometimes it is full, sometimes it is half, sometimes it is only a thin line.",
+        "Sometimes it is full, sometimes it is half, sometimes it is only a thin line.",
+        "Sometimes it is full, sometimes it is half, sometimes only a thin line.",
+        "Sometimes it is full, sometimes half, sometimes it is only a thin line."
+      ],
+      "answer": "Sometimes it is full, sometimes it is half, sometimes it is only a thin line."
+    },
+    {
+      "q": "«Дар кайҳон инчунин чизҳои дигари ҷолиб ҳастанд. Думдор ҷисми хурди яхбастаест, ки дар кайҳон парвоз мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "There are also other interesting things in space. A comet is a small icy body that flies through space.",
+        "There are also other interesting things in space. A comet is a small icy body which flies through space.",
+        "There are also other interesting things in space. A comet is a small icy body that flies in space.",
+        "There are also other interesting things in space. The comet is a small icy body that flies through space."
+      ],
+      "answer": "There are also other interesting things in space. A comet is a small icy body that flies through space."
+    },
+    {
+      "q": "«Вақте ки думдор ба Офтоб наздик мешавад, он думи дароз ва дурахшон мегирад. Одамон дар гузашта аз думдорҳо метарсиданд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When a comet comes near the Sun, it gets a long bright tail. People in the past were afraid of comets.",
+        "When a comet comes near the Sun, it gets a long bright tail. People in the past were afraid of comets.",
+        "When a comet comes near to the Sun, it gets a long bright tail. People in the past were afraid of comets.",
+        "When a comet comes near the Sun it gets a long bright tail. People in the past were afraid of comets."
+      ],
+      "answer": "When a comet comes near the Sun, it gets a long bright tail. People in the past were afraid of comets."
+    },
+    {
+      "q": "«Онҳо фикр мекарданд, ки думдорҳо бадбахтӣ меоранд. Имрӯз мо медонем, ки думдор танҳо порчаи ях ва санг аст, ки гирди Офтоб парвоз мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "They thought that comets brought bad luck. Today we know that a comet is just a piece of ice and rock that flies around the Sun.",
+        "They thought that comets brought bad luck. Today we know that a comet is only a piece of ice and rock that flies around the Sun.",
+        "They thought comets brought bad luck. Today we know that a comet is just a piece of ice and rock that flies around the Sun.",
+        "They thought that comets brought bad luck. Today we know that a comet is just a piece of ice and stone that flies around the Sun."
+      ],
+      "answer": "They thought that comets brought bad luck. Today we know that a comet is just a piece of ice and rock that flies around the Sun."
+    },
+    {
+      "q": "«Сайёрак ҷисми хурди сангӣ аст, ки он низ гирди Офтоб парвоз мекунад. Байни Миррих ва Муштарӣ сайёракҳои зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "An asteroid is a small rocky body that also flies around the Sun. There are many asteroids between Mars and Jupiter.",
+        "An asteroid is a small rocky body which also flies around the Sun. There are many asteroids between Mars and Jupiter.",
+        "An asteroid is a small rocky body that also flies round the Sun. There are many asteroids between Mars and Jupiter.",
+        "An asteroid is a small stone body that also flies around the Sun. There are many asteroids between Mars and Jupiter."
+      ],
+      "answer": "An asteroid is a small rocky body that also flies around the Sun. There are many asteroids between Mars and Jupiter."
+    },
+    {
+      "q": "«Одамон ҳамеша мехостанд, ки ба кайҳон парвоз кунанд. Дар соли 1961 аввалин одам ба кайҳон парвоз кард. Номи ӯ Юрий Гагарин буд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "People have always wanted to fly into space. In 1961 the first man flew into space. His name was Yuri Gagarin.",
+        "People always wanted to fly into space. In 1961 the first man flew into space. His name was Yuri Gagarin.",
+        "People have always wanted to fly into space. In 1961 the first man flew to space. His name was Yuri Gagarin.",
+        "People have always wanted to fly into space. In 1961, the first man flew into space. His name was Yuri Gagarin."
+      ],
+      "answer": "People have always wanted to fly into space. In 1961 the first man flew into space. His name was Yuri Gagarin."
+    },
+    {
+      "q": "«Ӯ кайҳоннаварди шӯравӣ буд. Парвози ӯ танҳо саду ҳашт дақиқа давом кард, аммо он таърихи тамоми ҷаҳонро тағйир дод» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He was a Soviet cosmonaut. His flight lasted only one hundred and eight minutes, but it changed the history of the whole world.",
+        "He was a Soviet cosmonaut. His flight lasted only 108 minutes, but it changed the history of the whole world.",
+        "He was a Soviet astronaut. His flight lasted only one hundred and eight minutes, but it changed the history of the whole world.",
+        "He was a Soviet cosmonaut. His flight lasted only one hundred and eight minutes but it changed the history of the whole world."
+      ],
+      "answer": "He was a Soviet cosmonaut. His flight lasted only one hundred and eight minutes, but it changed the history of the whole world."
+    },
+    {
+      "q": "«Аз ҳамон вақт садҳо кайҳоннавардҳо ба кайҳон парвоз карданд. Онҳо ба Моҳ рафтанд, моҳҳо дар истгоҳҳои кайҳонӣ зиндагӣ карданд ва ҳазорон таҷриба гузарониданд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Since that time, hundreds of astronauts and cosmonauts have flown into space. They have visited the Moon, they have lived for months on space stations and they have done thousands of experiments.",
+        "Since that time hundreds of astronauts and cosmonauts have flown into space. They have visited the Moon, they have lived for months on space stations and they have done thousands of experiments.",
+        "Since that time, hundreds of astronauts and cosmonauts flew into space. They have visited the Moon, they have lived for months on space stations and they have done thousands of experiments.",
+        "Since that time, hundreds of astronauts and cosmonauts have flown into space. They visited the Moon, they have lived for months on space stations and they have done thousands of experiments."
+      ],
+      "answer": "Since that time, hundreds of astronauts and cosmonauts have flown into space. They have visited the Moon, they have lived for months on space stations and they have done thousands of experiments."
+    },
+    {
+      "q": "«Киштии кайҳонӣ мошини махсусест, ки ба кайҳон парвоз мекунад. Он аз тайёра хеле фарқ мекунад. Барои аз ҷозибаи Замин дур парвоз кардан он бояд муҳаррики хеле қавӣ дошта бошад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "A spaceship or a spacecraft is a special machine that flies into space. It is very different from a plane. It must have a very strong engine to fly away from the Earth's gravity.",
+        "A spaceship or a spacecraft is a special machine which flies into space. It is very different from a plane. It must have a very strong engine to fly away from the Earth's gravity.",
+        "A spaceship or a spacecraft is a special machine that flies into space. It is very different from a plane. It must have a very strong engine to fly from the Earth's gravity.",
+        "A spaceship is a special machine that flies into space. It is very different from a plane. It must have a very strong engine to fly away from the Earth's gravity."
+      ],
+      "answer": "A spaceship or a spacecraft is a special machine that flies into space. It is very different from a plane. It must have a very strong engine to fly away from the Earth's gravity."
+    },
+    {
+      "q": "«Он бояд барои кайҳоннавардҳо ғизо, об ва ҳаво дошта бошад. Он бояд хеле бехатар бошад. Олимон киштиҳои кайҳониро аз марказҳои махсуси кайҳонӣ парвоз медиҳанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It must have food, water and air for the astronauts. It must be very safe. Scientists launch spaceships from special space centres.",
+        "It must have food, water and air for the astronauts. It must be very safe. Scientists launch spaceships from special space centers.",
+        "It must have food, water and air for astronauts. It must be very safe. Scientists launch spaceships from special space centres.",
+        "It must have food, water and air for the astronauts. It must be very safe. The scientists launch spaceships from special space centres."
+      ],
+      "answer": "It must have food, water and air for the astronauts. It must be very safe. Scientists launch spaceships from special space centres."
+    },
+    {
+      "q": "«Баъд аз парвоз киштии кайҳонӣ ба Замин бармегардад — он дар баҳр ё дар дашт фуруд меояд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "After the flight the spacecraft returns to Earth — it lands in the sea or in the steppe.",
+        "After the flight the spacecraft returns to Earth — it lands in the sea or in the steppe.",
+        "After the flight the spaceship returns to Earth — it lands in the sea or in the steppe.",
+        "After the flight, the spacecraft returns to Earth — it lands in the sea or in the steppe."
+      ],
+      "answer": "After the flight the spacecraft returns to Earth — it lands in the sea or in the steppe."
+    },
+    {
+      "q": "«Кайҳоннавардҳо бояд хеле қавӣ ва хеле солим бошанд. Онҳо бояд зирак ва ҷасур бошанд. Онҳо бояд бо мошинҳои зиёд кор карда тавонанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Astronauts must be very strong and very healthy. They must be clever and brave. They must be able to work with many machines.",
+        "Astronauts must be very strong and very healthy. They must be clever and brave. They must be able to work with many machines.",
+        "The astronauts must be very strong and very healthy. They must be clever and brave. They must be able to work with many machines.",
+        "Astronauts must be very strong and healthy. They must be clever and brave. They must be able to work with many machines."
+      ],
+      "answer": "Astronauts must be very strong and very healthy. They must be clever and brave. They must be able to work with many machines."
+    },
+    {
+      "q": "«Дар кайҳон кайҳоннавардҳо бевазн ҳастанд. Онҳо дар ҳаво шино мекунанд ва қадам зада наметавонанд. Онҳо ғизои махсусро аз найчаҳо мехӯранд ва обро аз халтаҳои махсус менӯшанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In space, astronauts are weightless. They float in the air and cannot walk. They eat special food from tubes and drink water from special bags.",
+        "In space astronauts are weightless. They float in the air and cannot walk. They eat special food from tubes and drink water from special bags.",
+        "In space, astronauts are weightless. They float in air and cannot walk. They eat special food from tubes and drink water from special bags.",
+        "In space, astronauts are weightless. They float in the air and can't walk. They eat special food from tubes and drink water from special bags."
+      ],
+      "answer": "In space, astronauts are weightless. They float in the air and cannot walk. They eat special food from tubes and drink water from special bags."
+    },
+    {
+      "q": "«Онҳо дар халтаҳои махсуси хоб, ки ба девор часпонида шудаанд, мехобанд. Ин кори хеле душвор, аммо инчунин хеле ҷолиб аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "They sleep in special sleeping bags that are fixed to the wall. It is a very difficult job but also a very interesting one.",
+        "They sleep in special sleeping bags that are fixed to the wall. It is a very difficult job but also a very interesting one.",
+        "They sleep in special sleeping bags which are fixed to the wall. It is a very difficult job but also a very interesting one.",
+        "They sleep in special sleeping bags that are fixed to the wall. It is a very hard job but also a very interesting one."
+      ],
+      "answer": "They sleep in special sleeping bags that are fixed to the wall. It is a very difficult job but also a very interesting one."
+    },
+    {
+      "q": "«Олимон барои мушоҳидаи кайҳон телескопҳои калон истифода мебаранд. Телескоп мошини махсусест, ки чизҳои дурро калонтар ва наздиктар нишон медиҳад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Scientists use big telescopes to observe space. A telescope is a special machine that makes faraway things look bigger and closer.",
+        "Scientists use big telescopes to observe space. A telescope is a special machine which makes faraway things look bigger and closer.",
+        "Scientists use big telescopes to observe space. The telescope is a special machine that makes faraway things look bigger and closer.",
+        "Scientists use big telescopes for observing space. A telescope is a special machine that makes faraway things look bigger and closer."
+      ],
+      "answer": "Scientists use big telescopes to observe space. A telescope is a special machine that makes faraway things look bigger and closer."
+    },
+    {
+      "q": "«Тавассути телескоп мо Моҳ, сайёраҳо, ситораҳо ва галактикаҳоро дида метавонем. Инчунин телескопҳои радиоӣ ҳастанд — онҳо сигналҳоро аз кайҳон гӯш мекунанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Through a telescope we can see the Moon, the planets, the stars and the galaxies. There are also radio telescopes — they listen to signals from space.",
+        "Through a telescope we can see the Moon, the planets, the stars and the galaxies. There are also radio telescopes — they listen to signals from space.",
+        "Through a telescope we can see the Moon, planets, stars and galaxies. There are also radio telescopes — they listen to signals from space.",
+        "Through a telescope we can see the Moon, the planets, the stars and galaxies. There are also radio telescopes — they listen to signals from space."
+      ],
+      "answer": "Through a telescope we can see the Moon, the planets, the stars and the galaxies. There are also radio telescopes — they listen to signals from space."
+    },
+    {
+      "q": "«Бо кӯмаки онҳо олимон дар бораи коинот чизҳои зиёдро омӯхтанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "With their help scientists have learned many things about the universe.",
+        "With their help, scientists have learned many things about the universe.",
+        "With their help scientists learned many things about the universe.",
+        "With their help the scientists have learned many things about the universe."
+      ],
+      "answer": "With their help scientists have learned many things about the universe."
+    },
+    {
+      "q": "«Ман кайҳонро хеле дӯст медорам. Ман китобҳо дар бораи ситораҳо ва сайёраҳо мехонам. Ман филмҳо дар бораи кайҳоннавардҳо тамошо мекунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I love space very much. I read books about stars and planets. I watch films about astronauts.",
+        "I love space very much. I read books about the stars and planets. I watch films about astronauts.",
+        "I love space very much. I read books about stars and planets. I watch movies about astronauts.",
+        "I love space very much. I read books about stars and the planets. I watch films about astronauts."
+      ],
+      "answer": "I love space very much. I read books about stars and planets. I watch films about astronauts."
+    },
+    {
+      "q": "«Дар тобистон, вақте ки мо ба деҳа меравем, осмони шабона дар он ҷо хеле торик аст ва ман нисбат ба шаҳр ситораҳои зиёдтарро дида метавонам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In summer, when we go to the village, the night sky there is very dark and I can see many more stars than in the city.",
+        "In summer when we go to the village, the night sky there is very dark and I can see many more stars than in the city.",
+        "In summer, when we go to the village, the night sky is very dark there and I can see many more stars than in the city.",
+        "In the summer, when we go to the village, the night sky there is very dark and I can see many more stars than in the city."
+      ],
+      "answer": "In summer, when we go to the village, the night sky there is very dark and I can see many more stars than in the city."
+    },
+    {
+      "q": "«Бобоям ба ман ситораҳои гуногунро нишон медиҳад ва номҳои онҳоро нақл мекунад. Ӯ мегӯяд: \"Вақте ки шумо ба ситораҳо нигоҳ мекунед, шумо мефаҳмед, ки мо чӣ қадар хурд ҳастем ва ҷаҳон чӣ қадар калон аст.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandfather shows me different stars and tells me their names. He says: \"When you look at the stars, you understand how small we are and how big the world is.\"",
+        "My grandfather shows me different stars and tells me their names. He says: \"When you look at the stars you understand how small we are and how big the world is.\"",
+        "My grandfather shows me the different stars and tells me their names. He says: \"When you look at the stars, you understand how small we are and how big the world is.\"",
+        "My grandfather shows me different stars and tells me their names. He says: \"When you look at the stars, you understand how small we are and how large the world is.\""
+      ],
+      "answer": "My grandfather shows me different stars and tells me their names. He says: \"When you look at the stars, you understand how small we are and how big the world is.\""
+    },
+    {
+      "q": "«Ва шумо мехоҳед, ки бештар омӯзед» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "And you want to learn more.",
+        "And you want to learn more.",
+        "And you want to study more.",
+        "And you want to know more."
+      ],
+      "answer": "And you want to learn more."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам кайҳоннавард шавам. Ман мехоҳам бо киштии кайҳонӣ ба кайҳон парвоз кунам. Ман мехоҳам Заминро аз боло бинам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to be an astronaut. I want to fly into space in a spaceship. I want to see the Earth from above.",
+        "When I grow up, I want to become an astronaut. I want to fly into space in a spaceship. I want to see the Earth from above.",
+        "When I grow up, I want to be an astronaut. I want to fly to space in a spaceship. I want to see the Earth from above.",
+        "When I grow up I want to be an astronaut. I want to fly into space in a spaceship. I want to see the Earth from above."
+      ],
+      "answer": "When I grow up, I want to be an astronaut. I want to fly into space in a spaceship. I want to see the Earth from above."
+    },
+    {
+      "q": "«Ман мехоҳам дар Моҳ қадам занам. Ман мехоҳам ба Миррих парвоз кунам. Ман мехоҳам коинотро тадқиқ кунам ва чизҳои навро омӯзам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to walk on the Moon. I want to fly to Mars. I want to explore the universe and to learn new things.",
+        "I want to walk on the Moon. I want to fly to Mars. I want to explore the universe and learn new things.",
+        "I want to walk on the Moon. I want to fly to Mars. I want to explore the universe and to learn new things.",
+        "I want to walk on the Moon. I want to fly to Mars. I want to study the universe and to learn new things."
+      ],
+      "answer": "I want to walk on the Moon. I want to fly to Mars. I want to explore the universe and to learn new things."
+    },
+    {
+      "q": "«Ман медонам, ки ин хеле душвор аст. Аммо ман суханони Юрий Гагаринро ба ёд меорам: \"Биёед равем!\" Агар ман бо ҷидду ҷаҳд кор кунам, як рӯз орзуи бузурги ман амалӣ мешавад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I know it is very difficult. But I remember the words of Yuri Gagarin: \"Let us go!\" If I work hard, one day my big dream will come true.",
+        "I know it is very difficult. But I remember the words of Yuri Gagarin: \"Let's go!\" If I work hard, one day my big dream will come true.",
+        "I know that it is very difficult. But I remember the words of Yuri Gagarin: \"Let us go!\" If I work hard, one day my big dream will come true.",
+        "I know it is very difficult. But I remember the words of Yuri Gagarin: \"Let us go!\" If I work hard one day my big dream will come true."
+      ],
+      "answer": "I know it is very difficult. But I remember the words of Yuri Gagarin: \"Let us go!\" If I work hard, one day my big dream will come true."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 27
+  "wordsCount": 16
 }
