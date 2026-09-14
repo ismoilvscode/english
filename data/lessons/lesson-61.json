@@ -1,446 +1,552 @@
 {
   "id": 61,
-  "title": "Муоширати воқеӣ 61",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 61: Асбобҳои мусиқии миллӣ",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "dutar",
+      "tj": "дутор",
+      "ex": "The dutar is a Tajik national instrument."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "rubob",
+      "tj": "рубоб",
+      "ex": "My uncle plays the rubob very well."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "doira",
+      "tj": "доира",
+      "ex": "The doira is a small drum."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "nay",
+      "tj": "най",
+      "ex": "The nay is made of wood."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "tanbur",
+      "tj": "танбур",
+      "ex": "The tanbur has many strings."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "sato",
+      "tj": "сато",
+      "ex": "The sato is a very old instrument."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "to play",
+      "tj": "навохтан",
+      "ex": "I want to learn to play the dutar."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "string",
+      "tj": "тор",
+      "ex": "The rubob has five strings."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "bow",
+      "tj": "камонча",
+      "ex": "He plays the sato with a bow."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "drum",
+      "tj": "нақора",
+      "ex": "The doira is a drum."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "flute",
+      "tj": "най (флейта)",
+      "ex": "The flute is a wind instrument."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "folk music",
+      "tj": "мусиқии халқӣ",
+      "ex": "I love Tajik folk music."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "melody",
+      "tj": "оханг",
+      "ex": "This melody is very old and beautiful."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "rhythm",
+      "tj": "ритм / зарб",
+      "ex": "The rhythm of the doira is very quick."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to tune",
+      "tj": "соз кардан",
+      "ex": "The musician tunes his instrument before the concert."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "to accompany",
+      "tj": "ҳамроҳӣ кардан",
+      "ex": "The doira accompanies the singer."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 61)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "The dutar is a Tajik national instrument.",
+      "tj": "Дутор асбоби мусиқии миллии тоҷикӣ аст."
     },
     {
-      "en": "I'm working on lesson 61",
-      "tj": "Ман дарси 61-ро меомӯзам"
+      "en": "My uncle plays the rubob very well.",
+      "tj": "Амакам рубобро хеле хуб менавозад."
+    },
+    {
+      "en": "The doira is a small drum that gives rhythm.",
+      "tj": "Доира нақораи хурдест, ки ритм медиҳад."
+    },
+    {
+      "en": "The nay is a wind instrument made of wood.",
+      "tj": "Най асбоби нафасии аз чӯб сохташуда аст."
+    },
+    {
+      "en": "The tanbur has many strings and a long neck.",
+      "tj": "Танбур торҳои зиёд ва гарданаи дароз дорад."
+    },
+    {
+      "en": "The sato is a very old instrument played with a bow.",
+      "tj": "Сато асбоби хеле қадимӣ аст, ки бо камонча навохта мешавад."
+    },
+    {
+      "en": "I want to learn to play the dutar.",
+      "tj": "Ман мехоҳам навохтани дуторро омӯзам."
+    },
+    {
+      "en": "The rubob has five strings.",
+      "tj": "Рубоб панҷ тор дорад."
+    },
+    {
+      "en": "He plays the sato with a bow.",
+      "tj": "Ӯ саторо бо камонча менавозад."
+    },
+    {
+      "en": "The doira is a drum that everyone can play.",
+      "tj": "Доира нақораест, ки ҳар кас навохта метавонад."
+    },
+    {
+      "en": "The flute is a wind instrument from wood or metal.",
+      "tj": "Най асбоби нафасӣ аз чӯб ё металл аст."
+    },
+    {
+      "en": "I love Tajik folk music very much.",
+      "tj": "Ман мусиқии халқии тоҷикиро хеле дӯст медорам."
+    },
+    {
+      "en": "This melody is very old and beautiful.",
+      "tj": "Ин оханг хеле қадимӣ ва зебо аст."
+    },
+    {
+      "en": "The rhythm of the doira is very quick and happy.",
+      "tj": "Ритми доира хеле тез ва шод аст."
+    },
+    {
+      "en": "The musician tunes his instrument before the concert.",
+      "tj": "Мусиқачӣ асбоби худро пеш аз концерт соз мекунад."
+    },
+    {
+      "en": "The doira accompanies the singer during the song.",
+      "tj": "Доира ҳангоми суруд ба сароянда ҳамроҳӣ мекунад."
     }
   ],
   "text": {
-    "en": "Text for lesson 61. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 61 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 61 text.",
-    "tj": "Матни дарси 61..."
+    "en": "Tajik National Musical Instruments\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. I love music very much. In our family my uncle is a famous musician. He plays many Tajik national instruments. When he plays, everybody listens to him with great pleasure. Today I want to tell you about Tajik national musical instruments.\n\nTajik music is very old. Our people have played music for thousands of years. Our national instruments are unique. They have their own sounds, their own melodies and their own rhythms. Each instrument has its own history and its own character.\n\nThe most famous Tajik instrument is the dutar. A dutar is a long-necked string instrument. It has two strings — that is why it is called \"dutar\" (\"du\" means two, \"tar\" means string). It is made of wood and it is very light. When you play the dutar, you hear a soft and gentle sound. Shepherds in the mountains love to play the dutar in the evening.\n\nAnother famous instrument is the rubob. The rubob is a string instrument with five strings. It is bigger than the dutar and it has a louder, deeper sound. My uncle plays the rubob very well. He says: \"The rubob is a real Tajik soul. When I play it, I feel like I am in the mountains of my country.\"\n\nThe doira is a small drum. It looks like a big tambourine. It has a round wooden frame and a skin. Small metal rings are fixed around the frame. When you play the doira, you hear a quick and happy rhythm. The doira accompanies the singer and other instruments. It is very popular at weddings and at holidays.\n\nThe nay is a wind instrument. It is a small flute made of wood. It has a soft and sad sound. The nay is often played by shepherds in the mountains. When they play the nay, their melodies sound like the wind in the mountains.\n\nThe tanbur is a long-necked string instrument. It has many strings and a deep sound. It is one of the oldest instruments in Central Asia. In the past, only professional musicians played the tanbur for kings and rich people. Today anybody can learn to play it.\n\nThe sato is a very old string instrument. It is played with a bow. It is one of the largest Tajik instruments. It has a low, warm and rich sound. The sato is used in classical Tajik music.\n\nAll these instruments together create wonderful music. When the dutar, the rubob, the doira and the nay play together, the sound is very beautiful. This music is called folk music. Folk music is the music of the people. It tells us about our history, our traditions and our beautiful country.\n\nWhen I grow up, I want to learn to play the dutar. My uncle promises to teach me. He says: \"Playing a musical instrument is a great art. It takes patience and practice. But when you learn it, you will have a friend for all your life.\" I believe him. I want to play beautiful melodies for my family and my friends. I want to keep our Tajik music alive. Because music is our soul.",
+    "tj": "Асбобҳои мусиқии миллии тоҷикӣ\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Ман мусиқиро хеле дӯст медорам. Дар оилаи мо амакам мусиқачии машҳур аст. Ӯ асбобҳои зиёди мусиқии миллии тоҷикиро менавозад. Вақте ки ӯ менавозад, ҳама ба ӯ бо лаззати бузург гӯш мекунанд. Имрӯз ман мехоҳам ба шумо дар бораи асбобҳои мусиқии миллии тоҷикӣ нақл кунам.\n\nМусиқии тоҷикӣ хеле қадимӣ аст. Мардуми мо ҳазорон сол мусиқӣ навохтаанд. Асбобҳои миллии мо беназиранд. Онҳо садои худ, охангҳои худ ва ритмҳои худро доранд. Ҳар як асбоб таърихи худ ва хислати худро дорад.\n\nМашҳуртарин асбоби тоҷикӣ дутор аст. Дутор асбоби ториест, ки гарданаи дароз дорад. Он ду тор дорад — барои ҳамин онро «дутор» меноманд («ду» ду ва «тор» тор аст). Он аз чӯб сохта шудааст ва хеле сабук аст. Вақте ки шумо дутор менавозад, шумо садои мулоим ва нармро мешунавед. Чӯпонон дар кӯҳҳо бегоҳҳо дутор навохтанро дӯст медоранд.\n\nАсбоби дигари машҳур рубоб аст. Рубоб асбоби ториест, ки панҷ тор дорад. Он аз дутор калонтар аст ва садои баландтар ва чуқуртар дорад. Амакам рубобро хеле хуб менавозад. Ӯ мегӯяд: «Рубоб ҷони ҳақиқии тоҷик аст. Вақте ки ман онро менавозад, ман худро дар кӯҳҳои кишварам ҳис мекунам.»\n\nДоира нақораи хурд аст. Он мисли доираи калон менамояд. Он чаҳорчӯбаи мудаввари чӯбӣ ва пӯст дорад. Ҳалқаҳои хурди металлӣ гирди чаҳорчӯба часпонида шудаанд. Вақте ки шумо доира менавозад, шумо ритми тез ва шодро мешунавед. Доира ба сароянда ва асбобҳои дигар ҳамроҳӣ мекунад. Он дар тӯйҳо ва дар идҳо хеле машҳур аст.\n\nНай асбоби нафасӣ аст. Он флейтаи хурди аз чӯб сохташуда аст. Он садои мулоим ва ғамгин дорад. Най аксар вақт аз ҷониби чӯпонон дар кӯҳҳо навохта мешавад. Вақте ки онҳо най менавозад, охангҳои онҳо мисли шамол дар кӯҳҳо менамоянд.\n\nТанбур асбоби ториест, ки гарданаи дароз дорад. Он торҳои зиёд ва садои чуқур дорад. Он яке аз қадимтарин асбобҳо дар Осиёи Марказӣ аст. Дар гузашта танҳо мусиқачиёни касбӣ танбурро барои подшоҳон ва одамони бой менавохтанд. Имрӯз ҳар кас метавонад навохтани онро омӯзад.\n\nСато асбоби тории хеле қадимӣ аст. Он бо камонча навохта мешавад. Он яке аз калонтарин асбобҳои тоҷикӣ аст. Он садои паст, гарм ва бой дорад. Сато дар мусиқии классикии тоҷикӣ истифода мешавад.\n\nҲамаи ин асбобҳо якҷоя мусиқии аҷоиб месозанд. Вақте ки дутор, рубоб, доира ва най якҷоя менавозад, садо хеле зебо аст. Ин мусиқӣ мусиқии халқӣ ном дорад. Мусиқии халқӣ мусиқии мардум аст. Он ба мо дар бораи таърихи мо, анъанаҳои мо ва кишвари зебои мо нақл мекунад.\n\nВақте ки ман калон мешавам, ман мехоҳам навохтани дуторро омӯзам. Амакам ваъда медиҳад, ки ба ман омӯзонад. Ӯ мегӯяд: «Навохтани асбоби мусиқӣ санъати бузург аст. Ба он сабр ва машқ лозим аст. Аммо вақте ки шумо онро омӯзед, шумо барои тамоми умр дӯст хоҳед дошт.» Ман ба ӯ бовар мекунам. Ман мехоҳам барои оила ва дӯстонам охангҳои зебо навохтам. Ман мехоҳам мусиқии тоҷикии моро зинда нигоҳ дорам. Зеро ки мусиқӣ ҷони мост."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Дутор асбоби мусиқии миллии тоҷикӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: opportunity",
-        "нодуруст C"
+        "The dutar is a Tajik national instrument.",
+        "The dutar is the Tajik national instrument.",
+        "The dutar is a national Tajik instrument.",
+        "A dutar is a Tajik national instrument."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "The dutar is a Tajik national instrument."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Амакам рубобро хеле хуб менавозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "My uncle plays the rubob very well.",
+        "My uncle plays rubob very well.",
+        "My uncle plays the rubob very good.",
+        "My uncle plays a rubob very well."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "My uncle plays the rubob very well."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Доира нақораи хурдест, ки ритм медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: environment",
-        "нодуруст B"
+        "The doira is a small drum that gives rhythm.",
+        "The doira is a small drum which gives rhythm.",
+        "A doira is a small drum that gives rhythm.",
+        "The doira is a small drum giving rhythm."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "The doira is a small drum that gives rhythm."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Най асбоби нафасии аз чӯб сохташуда аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст B"
+        "The nay is a wind instrument made of wood.",
+        "The nay is a wind instrument made from wood.",
+        "The nay is a wind instrument which is made of wood.",
+        "A nay is a wind instrument made of wood."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "The nay is a wind instrument made of wood."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Танбур торҳои зиёд ва гарданаи дароз дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: education",
-        "нодуруст C"
+        "The tanbur has many strings and a long neck.",
+        "The tanbur has many strings and long neck.",
+        "The tanbur has a lot of strings and a long neck.",
+        "A tanbur has many strings and a long neck."
       ],
-      "answer": "тарҷума: education"
+      "answer": "The tanbur has many strings and a long neck."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Сато асбоби хеле қадимӣ аст, ки бо камонча навохта мешавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: development",
-        "нодуруст B",
-        "нодуруст C"
+        "The sato is a very old instrument played with a bow.",
+        "The sato is a very old instrument which is played with a bow.",
+        "The sato is a very ancient instrument played with a bow.",
+        "The sato is a very old instrument that is played with a bow."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The sato is a very old instrument played with a bow."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ман мехоҳам навохтани дуторро омӯзам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: achievement",
-        "нодуруст A",
-        "нодуруст C"
+        "I want to learn to play the dutar.",
+        "I want to learn to play dutar.",
+        "I want to learn playing the dutar.",
+        "I want to learn how to play the dutar."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "I want to learn to play the dutar."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Рубоб панҷ тор дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст C"
+        "The rubob has five strings.",
+        "The rubob has five strings.",
+        "A rubob has five strings.",
+        "The rubob has 5 strings."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The rubob has five strings."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Ӯ саторо бо камонча менавозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: knowledge",
-        "нодуруст C",
-        "нодуруст A"
+        "He plays the sato with a bow.",
+        "He plays sato with a bow.",
+        "He plays the sato by a bow.",
+        "He plays the sato with the bow."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "He plays the sato with a bow."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Доира нақораест, ки ҳар кас навохта метавонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "The doira is a drum that everyone can play.",
+        "The doira is a drum which everyone can play.",
+        "The doira is a drum that everybody can play.",
+        "The doira is a drum everyone can play."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The doira is a drum that everyone can play."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Най асбоби нафасӣ аз чӯб ё металл аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: fluency",
-        "нодуруст C",
-        "нодуруст A"
+        "The flute is a wind instrument from wood or metal.",
+        "The flute is a wind instrument made of wood or metal.",
+        "The flute is a wind instrument of wood or metal.",
+        "A flute is a wind instrument from wood or metal."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "The flute is a wind instrument from wood or metal."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ман мусиқии халқии тоҷикиро хеле дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: confidence"
+        "I love Tajik folk music very much.",
+        "I love Tajik national music very much.",
+        "I love Tajik folk music a lot.",
+        "I love the Tajik folk music very much."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "I love Tajik folk music very much."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Ин оханг хеле қадимӣ ва зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: pronunciation",
-        "нодуруст A",
-        "нодуруст C"
+        "This melody is very old and beautiful.",
+        "This melody is very ancient and beautiful.",
+        "The melody is very old and beautiful.",
+        "This melody is very old and very beautiful."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "This melody is very old and beautiful."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ритми доира хеле тез ва шод аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: vocabulary",
-        "нодуруст C",
-        "нодуруст A"
+        "The rhythm of the doira is very quick and happy.",
+        "The rhythm of the doira is very fast and happy.",
+        "The rhythm of the doira is very quick and glad.",
+        "A rhythm of the doira is very quick and happy."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "The rhythm of the doira is very quick and happy."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Мусиқачӣ асбоби худро пеш аз концерт соз мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: grammar",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "The musician tunes his instrument before the concert.",
+        "The musician tunes his instrument before concert.",
+        "The musician tunes the instrument before the concert.",
+        "The musician tunes his instruments before the concert."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "The musician tunes his instrument before the concert."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Доира ҳангоми суруд ба сароянда ҳамроҳӣ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: opportunity"
+        "The doira accompanies the singer during the song.",
+        "The doira accompanies the singer during a song.",
+        "The doira accompanies the singer during song.",
+        "A doira accompanies the singer during the song."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "The doira accompanies the singer during the song."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман мусиқиро хеле дӯст медорам. Дар оилаи мо амакам мусиқачии машҳур аст. Ӯ асбобҳои зиёди мусиқии миллии тоҷикиро менавозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: experience"
+        "I love music very much. In our family my uncle is a famous musician. He plays many Tajik national instruments.",
+        "I love music very much. In our family, my uncle is a famous musician. He plays many Tajik national instruments.",
+        "I love music very much. In our family my uncle is a famous musician. He plays many national Tajik instruments.",
+        "I love the music very much. In our family my uncle is a famous musician. He plays many Tajik national instruments."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I love music very much. In our family my uncle is a famous musician. He plays many Tajik national instruments."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Вақте ки ӯ менавозад, ҳама ба ӯ бо лаззати бузург гӯш мекунанд. Имрӯз ман мехоҳам ба шумо дар бораи асбобҳои мусиқии миллии тоҷикӣ нақл кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: environment",
-        "нодуруст C",
-        "нодуруст A"
+        "When he plays, everybody listens to him with great pleasure. Today I want to tell you about Tajik national musical instruments.",
+        "When he plays, everybody listens to him with great pleasure. Today I want to tell you about the Tajik national musical instruments.",
+        "When he plays everybody listens to him with great pleasure. Today I want to tell you about Tajik national musical instruments.",
+        "When he plays, everybody listens to him with great pleasure. Today I want to speak to you about Tajik national musical instruments."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "When he plays, everybody listens to him with great pleasure. Today I want to tell you about Tajik national musical instruments."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Мусиқии тоҷикӣ хеле қадимӣ аст. Мардуми мо ҳазорон сол мусиқӣ навохтаанд. Асбобҳои миллии мо беназиранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: communication"
+        "Tajik music is very old. Our people have played music for thousands of years. Our national instruments are unique.",
+        "Tajik music is very ancient. Our people have played music for thousands of years. Our national instruments are unique.",
+        "Tajik music is very old. Our people have played music for thousands of years. Our national instruments are unique.",
+        "The Tajik music is very old. Our people have played music for thousands of years. Our national instruments are unique."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "Tajik music is very old. Our people have played music for thousands of years. Our national instruments are unique."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Онҳо садои худ, охангҳои худ ва ритмҳои худро доранд. Ҳар як асбоб таърихи худ ва хислати худро дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: education"
+        "They have their own sounds, their own melodies and their own rhythms. Each instrument has its own history and its own character.",
+        "They have their own sounds, their own melodies and their own rhythms. Every instrument has its own history and its own character.",
+        "They have their own sounds, their own melodies and their own rhythms. Each instrument has its own history and character.",
+        "They have their own sounds, their own melodies and their own rhythms. Every instrument has its own history and character."
       ],
-      "answer": "тарҷума: education"
+      "answer": "They have their own sounds, their own melodies and their own rhythms. Each instrument has its own history and its own character."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Машҳуртарин асбоби тоҷикӣ дутор аст. Дутор асбоби ториест, ки гарданаи дароз дорад. Он ду тор дорад — барои ҳамин онро \"дутор\" меноманд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: development"
+        "The most famous Tajik instrument is the dutar. A dutar is a long-necked string instrument. It has two strings — that is why it is called \"dutar\".",
+        "The most famous Tajik instrument is the dutar. The dutar is a long-necked string instrument. It has two strings — that is why it is called \"dutar\".",
+        "The most famous Tajik instrument is dutar. A dutar is a long-necked string instrument. It has two strings — that is why it is called \"dutar\".",
+        "The most famous Tajik instrument is the dutar. A dutar is a long-necked string instrument. It has two strings, that is why it is called \"dutar\"."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The most famous Tajik instrument is the dutar. A dutar is a long-necked string instrument. It has two strings — that is why it is called \"dutar\"."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Он аз чӯб сохта шудааст ва хеле сабук аст. Вақте ки шумо дутор менавозад, шумо садои мулоим ва нармро мешунавед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст B"
+        "It is made of wood and it is very light. When you play the dutar, you hear a soft and gentle sound.",
+        "It is made of wood and it is very light. When you play the dutar you hear a soft and gentle sound.",
+        "It is made from wood and it is very light. When you play the dutar, you hear a soft and gentle sound.",
+        "It is made of wood and it is very light. When you play a dutar, you hear a soft and gentle sound."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "It is made of wood and it is very light. When you play the dutar, you hear a soft and gentle sound."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Асбоби дигари машҳур рубоб аст. Рубоб асбоби ториест, ки панҷ тор дорад. Он аз дутор калонтар аст ва садои баландтар ва чуқуртар дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "Another famous instrument is the rubob. The rubob is a string instrument with five strings. It is bigger than the dutar and it has a louder, deeper sound.",
+        "Another famous instrument is the rubob. The rubob is a string instrument with five strings. It is bigger than the dutar and has a louder, deeper sound.",
+        "The other famous instrument is the rubob. The rubob is a string instrument with five strings. It is bigger than the dutar and it has a louder, deeper sound.",
+        "Another famous instrument is rubob. The rubob is a string instrument with five strings. It is bigger than the dutar and it has a louder, deeper sound."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "Another famous instrument is the rubob. The rubob is a string instrument with five strings. It is bigger than the dutar and it has a louder, deeper sound."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Амакам рубобро хеле хуб менавозад. Ӯ мегӯяд: \"Рубоб ҷони ҳақиқии тоҷик аст.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: knowledge",
-        "нодуруст C",
-        "нодуруст B"
+        "My uncle plays the rubob very well. He says: \"The rubob is a real Tajik soul.\"",
+        "My uncle plays the rubob very well. He says: \"The rubob is the real Tajik soul.\"",
+        "My uncle plays rubob very well. He says: \"The rubob is a real Tajik soul.\"",
+        "My uncle plays the rubob very well. He tells: \"The rubob is a real Tajik soul.\""
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "My uncle plays the rubob very well. He says: \"The rubob is a real Tajik soul.\""
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Вақте ки ман онро менавозад, ман худро дар кӯҳҳои кишварам ҳис мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: conversation",
-        "нодуруст A"
+        "When I play it, I feel like I am in the mountains of my country.",
+        "When I play it I feel like I am in the mountains of my country.",
+        "When I play it, I feel as if I am in the mountains of my country.",
+        "When I play it, I feel like I am in the mountains of my land."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "When I play it, I feel like I am in the mountains of my country."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Доира нақораи хурд аст. Он мисли доираи калон менамояд. Он чаҳорчӯбаи мудаввари чӯбӣ ва пӯст дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: fluency",
-        "нодуруст A",
-        "нодуруст C"
+        "The doira is a small drum. It looks like a big tambourine. It has a round wooden frame and a skin.",
+        "The doira is a small drum. It looks like a big tambourine. It has a round wooden frame and skin.",
+        "The doira is a small drum. It looks like the big tambourine. It has a round wooden frame and a skin.",
+        "The doira is a little drum. It looks like a big tambourine. It has a round wooden frame and a skin."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "The doira is a small drum. It looks like a big tambourine. It has a round wooden frame and a skin."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ҳалқаҳои хурди металлӣ гирди чаҳорчӯба часпонида шудаанд. Вақте ки шумо доира менавозад, шумо ритми тез ва шодро мешунавед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: confidence",
-        "нодуруст C"
+        "Small metal rings are fixed around the frame. When you play the doira, you hear a quick and happy rhythm.",
+        "Small metal rings are fixed round the frame. When you play the doira, you hear a quick and happy rhythm.",
+        "Little metal rings are fixed around the frame. When you play the doira, you hear a quick and happy rhythm.",
+        "Small metal rings are fixed around the frame. When you play doira, you hear a quick and happy rhythm."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "Small metal rings are fixed around the frame. When you play the doira, you hear a quick and happy rhythm."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Доира ба сароянда ва асбобҳои дигар ҳамроҳӣ мекунад. Он дар тӯйҳо ва дар идҳо хеле машҳур аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: pronunciation",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "The doira accompanies the singer and other instruments. It is very popular at weddings and at holidays.",
+        "The doira accompanies the singer and the other instruments. It is very popular at weddings and at holidays.",
+        "The doira accompanies the singer and other instruments. It is very popular at weddings and on holidays.",
+        "The doira accompanies the singer and other instruments. It is very popular at the weddings and at holidays."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "The doira accompanies the singer and other instruments. It is very popular at weddings and at holidays."
+    },
+    {
+      "q": "«Най асбоби нафасӣ аст. Он флейтаи хурди аз чӯб сохташуда аст. Он садои мулоим ва ғамгин дорад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The nay is a wind instrument. It is a small flute made of wood. It has a soft and sad sound.",
+        "The nay is a wind instrument. It is a small flute made from wood. It has a soft and sad sound.",
+        "The nay is a wind instrument. It is a little flute made of wood. It has a soft and sad sound.",
+        "A nay is a wind instrument. It is a small flute made of wood. It has a soft and sad sound."
+      ],
+      "answer": "The nay is a wind instrument. It is a small flute made of wood. It has a soft and sad sound."
+    },
+    {
+      "q": "«Най аксар вақт аз ҷониби чӯпонон дар кӯҳҳо навохта мешавад. Вақте ки онҳо най менавозад, охангҳои онҳо мисли шамол дар кӯҳҳо менамоянд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The nay is often played by shepherds in the mountains. When they play the nay, their melodies sound like the wind in the mountains.",
+        "The nay is often played by the shepherds in the mountains. When they play the nay, their melodies sound like the wind in the mountains.",
+        "The nay is often played by shepherds in mountains. When they play the nay, their melodies sound like the wind in the mountains.",
+        "The nay is often played by shepherds in the mountains. When they play nay, their melodies sound like the wind in the mountains."
+      ],
+      "answer": "The nay is often played by shepherds in the mountains. When they play the nay, their melodies sound like the wind in the mountains."
+    },
+    {
+      "q": "«Танбур асбоби ториест, ки гарданаи дароз дорад. Он торҳои зиёд ва садои чуқур дорад. Он яке аз қадимтарин асбобҳо дар Осиёи Марказӣ аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The tanbur is a long-necked string instrument. It has many strings and a deep sound. It is one of the oldest instruments in Central Asia.",
+        "The tanbur is a long-necked string instrument. It has many strings and a deep sound. It is one of the oldest instruments of Central Asia.",
+        "The tanbur is a long-necked string instrument. It has many strings and a deep sound. It is one of the most ancient instruments in Central Asia.",
+        "A tanbur is a long-necked string instrument. It has many strings and a deep sound. It is one of the oldest instruments in Central Asia."
+      ],
+      "answer": "The tanbur is a long-necked string instrument. It has many strings and a deep sound. It is one of the oldest instruments in Central Asia."
+    },
+    {
+      "q": "«Дар гузашта танҳо мусиқачиёни касбӣ танбурро барои подшоҳон ва одамони бой менавохтанд. Имрӯз ҳар кас метавонад навохтани онро омӯзад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In the past, only professional musicians played the tanbur for kings and rich people. Today anybody can learn to play it.",
+        "In the past only professional musicians played the tanbur for kings and rich people. Today anybody can learn to play it.",
+        "In the past, only professional musicians played tanbur for kings and rich people. Today anybody can learn to play it.",
+        "In the past, only the professional musicians played the tanbur for kings and rich people. Today anybody can learn to play it."
+      ],
+      "answer": "In the past, only professional musicians played the tanbur for kings and rich people. Today anybody can learn to play it."
+    },
+    {
+      "q": "«Сато асбоби тории хеле қадимӣ аст. Он бо камонча навохта мешавад. Он яке аз калонтарин асбобҳои тоҷикӣ аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The sato is a very old string instrument. It is played with a bow. It is one of the largest Tajik instruments.",
+        "The sato is a very old string instrument. It is played with the bow. It is one of the largest Tajik instruments.",
+        "The sato is a very ancient string instrument. It is played with a bow. It is one of the largest Tajik instruments.",
+        "A sato is a very old string instrument. It is played with a bow. It is one of the largest Tajik instruments."
+      ],
+      "answer": "The sato is a very old string instrument. It is played with a bow. It is one of the largest Tajik instruments."
+    },
+    {
+      "q": "«Он садои паст, гарм ва бой дорад. Сато дар мусиқии классикии тоҷикӣ истифода мешавад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "It has a low, warm and rich sound. The sato is used in classical Tajik music.",
+        "It has a low, warm and rich sound. Sato is used in classical Tajik music.",
+        "It has a low, warm and rich sound. The sato is used in the classical Tajik music.",
+        "It has a low, warm and rich sound. The sato is used in Tajik classical music."
+      ],
+      "answer": "It has a low, warm and rich sound. The sato is used in classical Tajik music."
+    },
+    {
+      "q": "«Ҳамаи ин асбобҳо якҷоя мусиқии аҷоиб месозанд. Вақте ки дутор, рубоб, доира ва най якҷоя менавозад, садо хеле зебо аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "All these instruments together create wonderful music. When the dutar, the rubob, the doira and the nay play together, the sound is very beautiful.",
+        "All these instruments together create wonderful music. When the dutar, rubob, doira and nay play together, the sound is very beautiful.",
+        "All these instruments together make wonderful music. When the dutar, the rubob, the doira and the nay play together, the sound is very beautiful.",
+        "All of these instruments together create wonderful music. When the dutar, the rubob, the doira and the nay play together, the sound is very beautiful."
+      ],
+      "answer": "All these instruments together create wonderful music. When the dutar, the rubob, the doira and the nay play together, the sound is very beautiful."
+    },
+    {
+      "q": "«Ин мусиқӣ мусиқии халқӣ ном дорад. Мусиқии халқӣ мусиқии мардум аст. Он ба мо дар бораи таърихи мо, анъанаҳои мо ва кишвари зебои мо нақл мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "This music is called folk music. Folk music is the music of the people. It tells us about our history, our traditions and our beautiful country.",
+        "This music is called folk music. Folk music is music of the people. It tells us about our history, our traditions and our beautiful country.",
+        "This music is named folk music. Folk music is the music of the people. It tells us about our history, our traditions and our beautiful country.",
+        "This music is called folk music. The folk music is the music of the people. It tells us about our history, our traditions and our beautiful country."
+      ],
+      "answer": "This music is called folk music. Folk music is the music of the people. It tells us about our history, our traditions and our beautiful country."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам навохтани дуторро омӯзам. Амакам ваъда медиҳад, ки ба ман омӯзонад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to learn to play the dutar. My uncle promises to teach me.",
+        "When I grow up I want to learn to play the dutar. My uncle promises to teach me.",
+        "When I grow up, I want to learn to play dutar. My uncle promises to teach me.",
+        "When I grow up, I want to learn playing the dutar. My uncle promises to teach me."
+      ],
+      "answer": "When I grow up, I want to learn to play the dutar. My uncle promises to teach me."
+    },
+    {
+      "q": "«Ӯ мегӯяд: \"Навохтани асбоби мусиқӣ санъати бузург аст. Ба он сабр ва машқ лозим аст. Аммо вақте ки шумо онро омӯзед, шумо барои тамоми умр дӯст хоҳед дошт.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He says: \"Playing a musical instrument is a great art. It takes patience and practice. But when you learn it, you will have a friend for all your life.\"",
+        "He says: \"Playing a musical instrument is a great art. It needs patience and practice. But when you learn it, you will have a friend for all your life.\"",
+        "He says: \"Playing a musical instrument is a great art. It takes patience and practice. But when you learn it you will have a friend for all your life.\"",
+        "He says: \"To play a musical instrument is a great art. It takes patience and practice. But when you learn it, you will have a friend for all your life.\""
+      ],
+      "answer": "He says: \"Playing a musical instrument is a great art. It takes patience and practice. But when you learn it, you will have a friend for all your life.\""
+    },
+    {
+      "q": "«Ман ба ӯ бовар мекунам. Ман мехоҳам барои оила ва дӯстонам охангҳои зебо навохтам. Ман мехоҳам мусиқии тоҷикии моро зинда нигоҳ дорам. Зеро ки мусиқӣ ҷони мост» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I believe him. I want to play beautiful melodies for my family and my friends. I want to keep our Tajik music alive. Because music is our soul.",
+        "I believe him. I want to play beautiful melodies for my family and friends. I want to keep our Tajik music alive. Because music is our soul.",
+        "I believe in him. I want to play beautiful melodies for my family and my friends. I want to keep our Tajik music alive. Because music is our soul.",
+        "I believe him. I want to play beautiful melodies for my family and my friends. I want to keep the Tajik music alive. Because music is our soul."
+      ],
+      "answer": "I believe him. I want to play beautiful melodies for my family and my friends. I want to keep our Tajik music alive. Because music is our soul."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 28
+  "wordsCount": 16
 }
