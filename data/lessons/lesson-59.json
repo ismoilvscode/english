@@ -1,431 +1,592 @@
 {
   "id": 59,
-  "title": "Муоширати воқеӣ 59",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 59: Ҳунари ошпазӣ ва ғизои тоҷикӣ",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "to boil",
+      "tj": "ҷӯшонидан",
+      "ex": "My mother boils water for tea."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "to fry",
+      "tj": "бирьён кардан",
+      "ex": "We fry onions in oil."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "to bake",
+      "tj": "пухтан (дар танӯр)",
+      "ex": "My grandmother bakes bread in the tandyr."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "recipe",
+      "tj": "дастур (рецепт)",
+      "ex": "This is an old recipe for pilaf."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "ingredient",
+      "tj": "компонент / мавод",
+      "ex": "Rice is the main ingredient of pilaf."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "pot",
+      "tj": "дег",
+      "ex": "The pot is on the fire."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "pan",
+      "tj": "тоба",
+      "ex": "Fry the meat in a pan."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "kettle",
+      "tj": "чойник",
+      "ex": "The kettle is boiling on the stove."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "to peel",
+      "tj": "пӯст кардан",
+      "ex": "I peel potatoes for dinner."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to mix",
+      "tj": "омехтан",
+      "ex": "Mix the eggs with the flour."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "to serve",
+      "tj": "хизмат кардан / кашидан",
+      "ex": "We serve pilaf on a big dish."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "delicious",
+      "tj": "лазиз",
+      "ex": "The soup smells delicious."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "tasty",
+      "tj": "бомазза",
+      "ex": "These cakes are very tasty."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "salty",
+      "tj": "шӯр",
+      "ex": "The soup is too salty."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "sweet",
+      "tj": "ширин",
+      "ex": "This tea is very sweet."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "sour",
+      "tj": "турш",
+      "ex": "The lemon is sour."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 59)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "My mother boils water for tea in the kettle.",
+      "tj": "Модарам дар чойник обро барои чой меҷӯшонад."
     },
     {
-      "en": "I'm working on lesson 59",
-      "tj": "Ман дарси 59-ро меомӯзам"
+      "en": "We fry onions and meat in oil in the pan.",
+      "tj": "Мо дар тоба пиёз ва гӯштро дар равған бирьён мекунем."
+    },
+    {
+      "en": "My grandmother bakes bread in the tandyr every morning.",
+      "tj": "Бибиам ҳар субҳ дар танӯр нон мепазад."
+    },
+    {
+      "en": "This is an old recipe for pilaf from my grandmother.",
+      "tj": "Ин дастури кӯҳнаи палав аз бибиам аст."
+    },
+    {
+      "en": "Rice, meat, carrots and onions are the main ingredients of pilaf.",
+      "tj": "Биринҷ, гӯшт, сабзӣ ва пиёз компонентҳои асосии палав ҳастанд."
+    },
+    {
+      "en": "The pot with pilaf is on the fire.",
+      "tj": "Дег бо палав дар оташ аст."
+    },
+    {
+      "en": "Fry the meat in a pan with onions and oil.",
+      "tj": "Гӯштро дар тоба бо пиёз ва равған бирьён кунед."
+    },
+    {
+      "en": "I peel potatoes and carrots for the soup.",
+      "tj": "Ман барои шӯрбо картошка ва сабзӣ пӯст мекунам."
+    },
+    {
+      "en": "Mix the eggs with the flour and milk.",
+      "tj": "Тухмҳоро бо орд ва шир омехта кунед."
+    },
+    {
+      "en": "We serve pilaf on a big dish and put it in the centre of the table.",
+      "tj": "Мо палавро дар табақи калон мекашем ва онро ба маркази миз мегузорем."
+    },
+    {
+      "en": "The soup smells delicious and my mouth waters.",
+      "tj": "Шӯрбои лазиз бӯй медиҳад ва оби даҳонам меояд."
+    },
+    {
+      "en": "These cakes are very tasty and sweet.",
+      "tj": "Ин тортҳо хеле бомазза ва ширин ҳастанд."
+    },
+    {
+      "en": "The soup is too salty — add some water.",
+      "tj": "Шӯрбо хеле шӯр аст — каме об илова кунед."
+    },
+    {
+      "en": "This green tea is very sweet and tasty.",
+      "tj": "Ин чойи сабз хеле ширин ва бомазза аст."
+    },
+    {
+      "en": "The lemon is very sour, but it is good for tea.",
+      "tj": "Лимӯ хеле турш аст, аммо он барои чой хуб аст."
+    },
+    {
+      "en": "Tajik cuisine is famous for its pilaf, sambusa and mastoba.",
+      "tj": "Таомҳои тоҷикӣ бо палав, самбӯса ва мастоба машҳуранд."
     }
   ],
   "text": {
-    "en": "Text for lesson 59. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 59 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 59 text.",
-    "tj": "Матни дарси 59..."
+    "en": "The Art of Cooking and Tajik Food\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. I love Tajik food very much. My grandmother is the best cook in our family. She knows hundreds of old recipes. When she cooks, the whole house smells delicious. Today I want to tell you about the art of cooking and about Tajik food.\n\nCooking is a real art. A good cook is like an artist. He or she takes simple ingredients — rice, meat, vegetables, flour — and makes a wonderful dish. A good cook must have a good memory, a good eye and, most important of all, a kind heart. My grandmother says: \"When you cook, put a piece of your heart into the pot. Then the food will be tasty.\"\n\nTajik food is very old and very rich. Our people have cooked the same dishes for hundreds of years. The most famous Tajik dish is pilaf. Pilaf is made from rice, meat, carrots and onions. First, you heat the oil in a big pot. Then you fry the onions and the meat. After that you add the carrots. Then you put the rice in the pot and add hot water. You cook the pilaf for about one hour. It is a very tasty and very healthy dish.\n\nAnother famous Tajik dish is sambusa. Sambusa is a small pastry with meat inside. First, you make a dough from flour, water and salt. Then you make the filling from meat, onions and spices. Then you put the filling inside the dough and bake the sambusa in the tandyr. Sambusa is very tasty and very popular in our country.\n\nMastoba is a light soup with rice and meat. Shurbo is a soup with vegetables and meat. Mantu is a big steamed pastry with meat and onions. Kabob is fried or grilled meat with onions. Non is our traditional bread, and we bake it in the tandyr. Every Tajik dish is a piece of our history and our culture.\n\nIn our family we all help with the cooking. My mother boils the water and makes the tea in the kettle. My grandmother peels the vegetables and cooks the pilaf. My father helps by frying the meat in the pan. My sister Zuhro mixes the dough for the sambusa. I help my mother to serve the food. We put all the dishes on a big tablecloth — a dastarkhon. Then the whole family sits around the dastarkhon and eats together. This is our tradition.\n\nIn Tajikistan we always serve tea first. We drink green tea or black tea with sugar or with dried fruit. We eat bread with the tea. Only after that we eat the main dish. After the main dish we eat fruit or sweets. We always offer more food to our guests. My grandmother says: \"A guest who leaves our house hungry is a shame for our family.\"\n\nEvery part of Tajikistan has its own special dishes. In the north people cook more pilaf and sambusa. In the south people cook more shurbo and mastoba. In the mountains people cook more mantu and kabob. But everywhere in Tajikistan we cook with love and we serve our food with joy.\n\nI want to learn to cook all these dishes from my grandmother. I already know how to peel potatoes, mix the dough and make tea. My grandmother says: \"When you are a doctor, you will need to cook too. A good doctor must eat good food.\" I agree with her. Cooking is not only for girls — it is for everyone who wants to eat tasty food and to be healthy.\n\nWhen I grow up, I want to cook pilaf for my family. I want to cook Tajik dishes for my friends. I want to teach my children how to cook our wonderful food. Because our food is our tradition, our history and our love. And I want to keep this tradition alive.",
+    "tj": "Ҳунари ошпазӣ ва ғизои тоҷикӣ\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Ман ғизои тоҷикиро хеле дӯст медорам. Бибиам беҳтарин ошпази оилаи мост. Ӯ садҳо дастурҳои кӯҳнаро медонад. Вақте ки ӯ пухта мепазад, тамоми хона бӯи лазиз медиҳад. Имрӯз ман мехоҳам ба шумо дар бораи ҳунари ошпазӣ ва дар бораи ғизои тоҷикӣ нақл кунам.\n\nОшпазӣ санъати ҳақиқӣ аст. Ошпази хуб мисли ҳунарманд аст. Ӯ компонентҳои оддӣ — биринҷ, гӯшт, сабзавот, орд — мегирад ва таоми аҷоиб месозад. Ошпази хуб бояд хотираи хуб, чашми тез ва аз ҳама муҳимтар дили меҳрубон дошта бошад. Бибиам мегӯяд: «Вақте ки шумо пухта мепазед, порчаи дили худро ба дег гузоред. Он гоҳ ғизо бомазза мешавад.»\n\nҒизои тоҷикӣ хеле қадимӣ ва хеле бой аст. Мардуми мо садҳо сол ҳамон таомҳоро пухта мепазанд. Машҳуртарин таоми тоҷикӣ палав аст. Палав аз биринҷ, гӯшт, сабзӣ ва пиёз сохта мешавад. Аввал шумо равғанро дар деги калон гарм мекунед. Баъд шумо пиёз ва гӯштро бирьён мекунед. Баъд аз он шумо сабзӣ илова мекунед. Баъд шумо биринҷро ба дег мегузоред ва оби гарм илова мекунед. Шумо палавро тақрибан як соат мепазед. Ин таоми хеле бомазза ва хеле солим аст.\n\nТаоми дигари машҳури тоҷикӣ самбӯса аст. Самбӯса хамири хурдест бо гӯшт дар дохили он. Аввал шумо аз орд, об ва намак хамир месозед. Баъд шумо аз гӯшт, пиёз ва доруворӣ пуркунанда месозед. Баъд шумо пуркунандаро ба дохили хамир мегузоред ва самбӯсаро дар танӯр мепазед. Самбӯса хеле бомазза ва дар кишвари мо хеле машҳур аст.\n\nМастоба шӯрбои сабук бо биринҷ ва гӯшт аст. Шӯрбо шӯрбоест бо сабзавот ва гӯшт. Манту хамири калони буғӣ бо гӯшт ва пиёз аст. Кабоб гӯшти бирьён ё дар оташ пухташуда бо пиёз аст. Нон нони анъанавии мост ва мо онро дар танӯр мепазем. Ҳар як таоми тоҷикӣ порчаи таърих ва фарҳанги мост.\n\nДар оилаи мо ҳама дар пухтани ғизо кӯмак мекунанд. Модарам обро меҷӯшонад ва дар чойник чой месозад. Бибиам сабзавотро пӯст мекунад ва палав мепазад. Падарам бо бирьён кардани гӯшт дар тоба кӯмак мекунад. Хоҳарам Зуҳро хамири самбӯсаро омехта мекунад. Ман ба модарам дар кашидани ғизо кӯмак мекунам. Мо ҳамаи таомҳоро ба дастурхони калон мегузорем. Баъд тамоми оила гирди дастурхон менишинад ва якҷоя мехӯрад. Ин анъанаи мост.\n\nДар Тоҷикистон мо ҳамеша аввал чой медиҳем. Мо чойи сабз ё чойи сиёҳро бо шакар ё бо меваҳои хушк менӯшем. Мо бо чой нон мехӯрем. Танҳо баъд аз он мо таоми асосиро мехӯрем. Баъд аз таоми асосӣ мо мева ё шириниҳо мехӯрем. Мо ҳамеша ба меҳмонони худ ғизои бештар пешниҳод мекунем. Бибиам мегӯяд: «Меҳмоне, ки аз хонаи мо гурусна меравад, шармандагии оилаи мост.»\n\nҲар як қисми Тоҷикистон таомҳои махсуси худро дорад. Дар шимол одамон бештар палав ва самбӯса мепазанд. Дар ҷануб одамон бештар шӯрбо ва мастоба мепазанд. Дар кӯҳҳо одамон бештар манту ва кабоб мепазанд. Аммо дар ҳама ҷои Тоҷикистон мо бо муҳаббат пухта мепазем ва ғизои худро бо шодӣ пешниҳод мекунем.\n\nМан мехоҳам ҳамаи ин таомҳоро аз бибиам омӯзам. Ман аллакай медонам, ки чӣ тавр картошкаро пӯст кунам, хамирро омехта кунам ва чой созам. Бибиам мегӯяд: «Вақте ки шумо духтур мешавед, шумо низ бояд пухта тавонед. Духтури хуб бояд ғизои хуб хӯрад.» Ман бо ӯ розӣ ҳастам. Ошпазӣ на танҳо барои духтарон аст — он барои ҳар касест, ки мехоҳад ғизои бомазза хӯрад ва солим бошад.\n\nВақте ки ман калон мешавам, ман мехоҳам барои оилаам палав пухтан. Ман мехоҳам барои дӯстонам таомҳои тоҷикӣ пухтан. Ман мехоҳам ба кӯдаконам омӯзонам, ки чӣ тавр ғизои аҷоиби моро пухтан. Зеро ки ғизои мо анъанаи мо, таърихи мо ва муҳаббати мост. Ва ман мехоҳам ин анъанаро зинда нигоҳ дорам."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Модарам дар чойник обро барои чой меҷӯшонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст C"
+        "My mother boils water for tea in the kettle.",
+        "My mother boils water for tea in the pot.",
+        "My mother heats water for tea in the kettle.",
+        "My mother boils the water for tea in the kettle."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "My mother boils water for tea in the kettle."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Мо дар тоба пиёз ва гӯштро дар равған бирьён мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "We fry onions and meat in oil in the pan.",
+        "We fry onions and meat in oil in the pot.",
+        "We fry the onions and meat in oil in the pan.",
+        "We fry onions and meat with oil in the pan."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "We fry onions and meat in oil in the pan."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Бибиам ҳар субҳ дар танӯр нон мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: environment"
+        "My grandmother bakes bread in the tandyr every morning.",
+        "My grandmother bakes bread in the tandyr every day.",
+        "My grandmother bakes the bread in the tandyr every morning.",
+        "My grandmother cooks bread in the tandyr every morning."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "My grandmother bakes bread in the tandyr every morning."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ин дастури кӯҳнаи палав аз бибиам аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "This is an old recipe for pilaf from my grandmother.",
+        "This is an old recipe of pilaf from my grandmother.",
+        "This is the old recipe for pilaf from my grandmother.",
+        "This is an old recipe for pilaf by my grandmother."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "This is an old recipe for pilaf from my grandmother."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Биринҷ, гӯшт, сабзӣ ва пиёз компонентҳои асосии палав ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: education",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "Rice, meat, carrots and onions are the main ingredients of pilaf.",
+        "Rice, meat, carrot and onions are the main ingredients of pilaf.",
+        "Rice, meat, carrots and onions are the main components of pilaf.",
+        "The rice, meat, carrots and onions are the main ingredients of pilaf."
       ],
-      "answer": "тарҷума: education"
+      "answer": "Rice, meat, carrots and onions are the main ingredients of pilaf."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Дег бо палав дар оташ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст B"
+        "The pot with pilaf is on the fire.",
+        "The pot with pilaf is on fire.",
+        "The pot with pilaf is in the fire.",
+        "A pot with pilaf is on the fire."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The pot with pilaf is on the fire."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Гӯштро дар тоба бо пиёз ва равған бирьён кунед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: achievement"
+        "Fry the meat in a pan with onions and oil.",
+        "Fry the meat in a pan with the onions and oil.",
+        "Fry meat in a pan with onions and oil.",
+        "Fry the meat in a pan with onions and butter."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "Fry the meat in a pan with onions and oil."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ман барои шӯрбо картошка ва сабзӣ пӯст мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: challenge",
-        "нодуруст C",
-        "нодуруст A"
+        "I peel potatoes and carrots for the soup.",
+        "I peel the potatoes and carrots for the soup.",
+        "I peel potatoes and carrot for the soup.",
+        "I peel potatoes and carrots for soup."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "I peel potatoes and carrots for the soup."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Тухмҳоро бо орд ва шир омехта кунед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: knowledge",
-        "нодуруст B",
-        "нодуруст A"
+        "Mix the eggs with the flour and milk.",
+        "Mix the eggs with flour and milk.",
+        "Mix eggs with the flour and milk.",
+        "Mix the eggs with the flour and the milk."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "Mix the eggs with the flour and milk."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Мо палавро дар табақи калон мекашем ва онро ба маркази миз мегузорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: conversation"
+        "We serve pilaf on a big dish and put it in the centre of the table.",
+        "We serve pilaf on a big dish and put it in the center of the table.",
+        "We serve the pilaf on a big dish and put it in the centre of the table.",
+        "We serve pilaf on a big plate and put it in the centre of the table."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "We serve pilaf on a big dish and put it in the centre of the table."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Шӯрбои лазиз бӯй медиҳад ва оби даҳонам меояд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: fluency",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "The soup smells delicious and my mouth waters.",
+        "The soup smells delicious and my mouth waters.",
+        "The soup smells tasty and my mouth waters.",
+        "The soup smells delicious and the water comes into my mouth."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "The soup smells delicious and my mouth waters."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ин тортҳо хеле бомазза ва ширин ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: confidence",
-        "нодуруст B",
-        "нодуруст A"
+        "These cakes are very tasty and sweet.",
+        "These cakes are very tasty and sweet.",
+        "These cakes are very delicious and sweet.",
+        "This cakes are very tasty and sweet."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "These cakes are very tasty and sweet."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Шӯрбо хеле шӯр аст — каме об илова кунед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: pronunciation",
-        "нодуруст C"
+        "The soup is too salty — add some water.",
+        "The soup is very salty — add some water.",
+        "The soup is too salty — add a little water.",
+        "The soup is too salt — add some water."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "The soup is too salty — add some water."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ин чойи сабз хеле ширин ва бомазза аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: vocabulary",
-        "нодуруст C",
-        "нодуруст A"
+        "This green tea is very sweet and tasty.",
+        "This green tea is very sweet and tasty.",
+        "This green tea is very sweet and delicious.",
+        "This green tea is very sweet and tasty."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "This green tea is very sweet and tasty."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Лимӯ хеле турш аст, аммо он барои чой хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: grammar",
-        "нодуруст C"
+        "The lemon is very sour, but it is good for tea.",
+        "The lemon is very sour but it is good for tea.",
+        "The lemon is very sour, but it is good for the tea.",
+        "A lemon is very sour, but it is good for tea."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "The lemon is very sour, but it is good for tea."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Таомҳои тоҷикӣ бо палав, самбӯса ва мастоба машҳуранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст C"
+        "Tajik cuisine is famous for its pilaf, sambusa and mastoba.",
+        "Tajik food is famous for its pilaf, sambusa and mastoba.",
+        "Tajik cuisine is famous for pilaf, sambusa and mastoba.",
+        "The Tajik cuisine is famous for its pilaf, sambusa and mastoba."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Tajik cuisine is famous for its pilaf, sambusa and mastoba."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман ғизои тоҷикиро хеле дӯст медорам. Бибиам беҳтарин ошпази оилаи мост. Ӯ садҳо дастурҳои кӯҳнаро медонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "I love Tajik food very much. My grandmother is the best cook in our family. She knows hundreds of old recipes.",
+        "I love Tajik food very much. My grandmother is the best cook in our family. She knows hundreds of old recipes.",
+        "I love the Tajik food very much. My grandmother is the best cook in our family. She knows hundreds of old recipes.",
+        "I love Tajik food very much. My grandmother is a best cook in our family. She knows hundreds of old recipes."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I love Tajik food very much. My grandmother is the best cook in our family. She knows hundreds of old recipes."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Вақте ки ӯ пухта мепазад, тамоми хона бӯи лазиз медиҳад. Имрӯз ман мехоҳам ба шумо дар бораи ҳунари ошпазӣ ва дар бораи ғизои тоҷикӣ нақл кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст C"
+        "When she cooks, the whole house smells delicious. Today I want to tell you about the art of cooking and about Tajik food.",
+        "When she cooks the whole house smells delicious. Today I want to tell you about the art of cooking and about Tajik food.",
+        "When she cooks, the whole house smells delicious. Today I want to tell you about cooking art and about Tajik food.",
+        "When she cooks, the whole house smells delicious. Today I want to speak about the art of cooking and about Tajik food."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "When she cooks, the whole house smells delicious. Today I want to tell you about the art of cooking and about Tajik food."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ошпазӣ санъати ҳақиқӣ аст. Ошпази хуб мисли ҳунарманд аст. Ӯ компонентҳои оддӣ — биринҷ, гӯшт, сабзавот, орд — мегирад ва таоми аҷоиб месозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Cooking is a real art. A good cook is like an artist. He or she takes simple ingredients — rice, meat, vegetables, flour — and makes a wonderful dish.",
+        "Cooking is a real art. A good cook is like an artist. He or she takes simple ingredients — rice, meat, vegetables, flour — and makes a wonderful dish.",
+        "Cooking is a real art. A good cook is like an artist. He or she takes simple components — rice, meat, vegetables, flour — and makes a wonderful dish.",
+        "Cooking is a real art. The good cook is like an artist. He or she takes simple ingredients — rice, meat, vegetables, flour — and makes a wonderful dish."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "Cooking is a real art. A good cook is like an artist. He or she takes simple ingredients — rice, meat, vegetables, flour — and makes a wonderful dish."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ошпази хуб бояд хотираи хуб, чашми тез ва аз ҳама муҳимтар дили меҳрубон дошта бошад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: education"
+        "A good cook must have a good memory, a good eye and, most important of all, a kind heart.",
+        "A good cook must have a good memory, a good eye and most important of all, a kind heart.",
+        "A good cook must have good memory, a good eye and, most important of all, a kind heart.",
+        "A good cook must have a good memory, good eyes and, most important of all, a kind heart."
       ],
-      "answer": "тарҷума: education"
+      "answer": "A good cook must have a good memory, a good eye and, most important of all, a kind heart."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Бибиам мегӯяд: \"Вақте ки шумо пухта мепазед, порчаи дили худро ба дег гузоред. Он гоҳ ғизо бомазза мешавад.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст B"
+        "My grandmother says: \"When you cook, put a piece of your heart into the pot. Then the food will be tasty.\"",
+        "My grandmother says: \"When you cook put a piece of your heart into the pot. Then the food will be tasty.\"",
+        "My grandmother says: \"When you cook, put a piece of your heart in the pot. Then the food will be tasty.\"",
+        "My grandmother says: \"When you cook, put a piece of your heart into the pot. Then the food will be delicious.\""
       ],
-      "answer": "тарҷума: development"
+      "answer": "My grandmother says: \"When you cook, put a piece of your heart into the pot. Then the food will be tasty.\""
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ғизои тоҷикӣ хеле қадимӣ ва хеле бой аст. Мардуми мо садҳо сол ҳамон таомҳоро пухта мепазанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: achievement",
-        "нодуруст A",
-        "нодуруст C"
+        "Tajik food is very old and very rich. Our people have cooked the same dishes for hundreds of years.",
+        "Tajik food is very ancient and very rich. Our people have cooked the same dishes for hundreds of years.",
+        "Tajik cuisine is very old and very rich. Our people have cooked the same dishes for hundreds of years.",
+        "Tajik food is very old and rich. Our people have cooked the same dishes for hundreds of years."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "Tajik food is very old and very rich. Our people have cooked the same dishes for hundreds of years."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Машҳуртарин таоми тоҷикӣ палав аст. Палав аз биринҷ, гӯшт, сабзӣ ва пиёз сохта мешавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: challenge"
+        "The most famous Tajik dish is pilaf. Pilaf is made from rice, meat, carrots and onions.",
+        "The most famous Tajik dish is pilaf. Pilaf is made of rice, meat, carrots and onions.",
+        "The most famous Tajik dish is pilaf. The pilaf is made from rice, meat, carrots and onions.",
+        "The most famous dish of Tajikistan is pilaf. Pilaf is made from rice, meat, carrots and onions."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The most famous Tajik dish is pilaf. Pilaf is made from rice, meat, carrots and onions."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Аввал шумо равғанро дар деги калон гарм мекунед. Баъд шумо пиёз ва гӯштро бирьён мекунед. Баъд аз он шумо сабзӣ илова мекунед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: knowledge"
+        "First, you heat the oil in a big pot. Then you fry the onions and the meat. After that you add the carrots.",
+        "First, you heat oil in a big pot. Then you fry the onions and the meat. After that you add the carrots.",
+        "First you heat the oil in a big pot. Then you fry the onions and the meat. After that you add the carrots.",
+        "First, you heat the oil in a big pot. Then you fry onions and meat. After that you add the carrots."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "First, you heat the oil in a big pot. Then you fry the onions and the meat. After that you add the carrots."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Баъд шумо биринҷро ба дег мегузоред ва оби гарм илова мекунед. Шумо палавро тақрибан як соат мепазед. Ин таоми хеле бомазза ва хеле солим аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "Then you put the rice in the pot and add hot water. You cook the pilaf for about one hour. It is a very tasty and very healthy dish.",
+        "Then you put the rice in the pot and add hot water. You cook pilaf for about one hour. It is a very tasty and very healthy dish.",
+        "Then you put the rice into the pot and add hot water. You cook the pilaf for about one hour. It is a very tasty and very healthy dish.",
+        "Then you put the rice in the pot and add hot water. You cook the pilaf for about an hour. It is a very tasty and very healthy dish."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "Then you put the rice in the pot and add hot water. You cook the pilaf for about one hour. It is a very tasty and very healthy dish."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Таоми дигари машҳури тоҷикӣ самбӯса аст. Самбӯса хамири хурдест бо гӯшт дар дохили он» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: fluency",
-        "нодуруст A"
+        "Another famous Tajik dish is sambusa. Sambusa is a small pastry with meat inside.",
+        "The other famous Tajik dish is sambusa. Sambusa is a small pastry with meat inside.",
+        "Another famous Tajik dish is sambusa. The sambusa is a small pastry with meat inside.",
+        "Another famous dish of Tajikistan is sambusa. Sambusa is a small pastry with meat inside."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "Another famous Tajik dish is sambusa. Sambusa is a small pastry with meat inside."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Аввал шумо аз орд, об ва намак хамир месозед. Баъд шумо аз гӯшт, пиёз ва доруворӣ пуркунанда месозед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: confidence"
+        "First, you make a dough from flour, water and salt. Then you make the filling from meat, onions and spices.",
+        "First, you make the dough from flour, water and salt. Then you make the filling from meat, onions and spices.",
+        "First you make a dough from flour, water and salt. Then you make the filling from meat, onions and spices.",
+        "First, you make a dough of flour, water and salt. Then you make the filling from meat, onions and spices."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "First, you make a dough from flour, water and salt. Then you make the filling from meat, onions and spices."
+    },
+    {
+      "q": "«Баъд шумо пуркунандаро ба дохили хамир мегузоред ва самбӯсаро дар танӯр мепазед. Самбӯса хеле бомазза ва дар кишвари мо хеле машҳур аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Then you put the filling inside the dough and bake the sambusa in the tandyr. Sambusa is very tasty and very popular in our country.",
+        "Then you put the filling into the dough and bake the sambusa in the tandyr. Sambusa is very tasty and very popular in our country.",
+        "Then you put the filling inside the dough and bake sambusa in the tandyr. Sambusa is very tasty and very popular in our country.",
+        "Then you put the filling inside the dough and bake the sambusa in the tandyr. Sambusa is very tasty and popular in our country."
+      ],
+      "answer": "Then you put the filling inside the dough and bake the sambusa in the tandyr. Sambusa is very tasty and very popular in our country."
+    },
+    {
+      "q": "«Мастоба шӯрбои сабук бо биринҷ ва гӯшт аст. Шӯрбо шӯрбоест бо сабзавот ва гӯшт. Манту хамири калони буғӣ бо гӯшт ва пиёз аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Mastoba is a light soup with rice and meat. Shurbo is a soup with vegetables and meat. Mantu is a big steamed pastry with meat and onions.",
+        "Mastoba is a light soup with rice and meat. Shurbo is a soup with vegetables and meat. Mantu is a big steamed pastry with meat and onions.",
+        "Mastoba is a light soup with rice and meat. Shurbo is a soup with vegetables and meat. Mantu is a big steamed pastry with meat and onions.",
+        "Mastoba is a light soup with rice and meat. Shurbo is a soup with vegetables and meat. Mantu is a big steamed pastry with meat and onion."
+      ],
+      "answer": "Mastoba is a light soup with rice and meat. Shurbo is a soup with vegetables and meat. Mantu is a big steamed pastry with meat and onions."
+    },
+    {
+      "q": "«Кабоб гӯшти бирьён ё дар оташ пухташуда бо пиёз аст. Нон нони анъанавии мост ва мо онро дар танӯр мепазем. Ҳар як таоми тоҷикӣ порчаи таърих ва фарҳанги мост» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Kabob is fried or grilled meat with onions. Non is our traditional bread, and we bake it in the tandyr. Every Tajik dish is a piece of our history and our culture.",
+        "Kabob is fried or grilled meat with onions. Non is our traditional bread and we bake it in the tandyr. Every Tajik dish is a piece of our history and our culture.",
+        "Kabob is fried or grilled meat with onions. Non is our traditional bread, and we bake it in the tandyr. Each Tajik dish is a piece of our history and our culture.",
+        "Kabob is fried or grilled meat with the onions. Non is our traditional bread, and we bake it in the tandyr. Every Tajik dish is a piece of our history and our culture."
+      ],
+      "answer": "Kabob is fried or grilled meat with onions. Non is our traditional bread, and we bake it in the tandyr. Every Tajik dish is a piece of our history and our culture."
+    },
+    {
+      "q": "«Дар оилаи мо ҳама дар пухтани ғизо кӯмак мекунанд. Модарам обро меҷӯшонад ва дар чойник чой месозад. Бибиам сабзавотро пӯст мекунад ва палав мепазад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In our family we all help with the cooking. My mother boils the water and makes the tea in the kettle. My grandmother peels the vegetables and cooks the pilaf.",
+        "In our family we all help with cooking. My mother boils the water and makes the tea in the kettle. My grandmother peels the vegetables and cooks the pilaf.",
+        "In our family we all help with the cooking. My mother boils water and makes the tea in the kettle. My grandmother peels the vegetables and cooks the pilaf.",
+        "In our family we all help with the cooking. My mother boils the water and makes tea in the kettle. My grandmother peels the vegetables and cooks the pilaf."
+      ],
+      "answer": "In our family we all help with the cooking. My mother boils the water and makes the tea in the kettle. My grandmother peels the vegetables and cooks the pilaf."
+    },
+    {
+      "q": "«Падарам бо бирьён кардани гӯшт дар тоба кӯмак мекунад. Хоҳарам Зуҳро хамири самбӯсаро омехта мекунад. Ман ба модарам дар кашидани ғизо кӯмак мекунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father helps by frying the meat in the pan. My sister Zuhro mixes the dough for the sambusa. I help my mother to serve the food.",
+        "My father helps by frying meat in the pan. My sister Zuhro mixes the dough for the sambusa. I help my mother to serve the food.",
+        "My father helps by frying the meat in the pan. My sister Zuhro mixes dough for the sambusa. I help my mother to serve the food.",
+        "My father helps with frying the meat in the pan. My sister Zuhro mixes the dough for the sambusa. I help my mother to serve the food."
+      ],
+      "answer": "My father helps by frying the meat in the pan. My sister Zuhro mixes the dough for the sambusa. I help my mother to serve the food."
+    },
+    {
+      "q": "«Мо ҳамаи таомҳоро ба дастурхони калон мегузорем. Баъд тамоми оила гирди дастурхон менишинад ва якҷоя мехӯрад. Ин анъанаи мост» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We put all the dishes on a big tablecloth — a dastarkhon. Then the whole family sits around the dastarkhon and eats together. This is our tradition.",
+        "We put all the dishes on a big tablecloth — a dastarkhon. Then the whole family sits around the dastarkhon and eats together. This is our tradition.",
+        "We put all the dishes on a big tablecloth — a dastarkhon. Then the whole family sits round the dastarkhon and eats together. This is our tradition.",
+        "We put all the dishes on a big tablecloth — a dastarkhon. Then all the family sits around the dastarkhon and eats together. This is our tradition."
+      ],
+      "answer": "We put all the dishes on a big tablecloth — a dastarkhon. Then the whole family sits around the dastarkhon and eats together. This is our tradition."
+    },
+    {
+      "q": "«Дар Тоҷикистон мо ҳамеша аввал чой медиҳем. Мо чойи сабз ё чойи сиёҳро бо шакар ё бо меваҳои хушк менӯшем. Мо бо чой нон мехӯрем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In Tajikistan we always serve tea first. We drink green tea or black tea with sugar or with dried fruit. We eat bread with the tea.",
+        "In Tajikistan, we always serve tea first. We drink green tea or black tea with sugar or with dried fruit. We eat bread with the tea.",
+        "In Tajikistan we always serve tea first. We drink green tea or black tea with sugar or with dry fruit. We eat bread with the tea.",
+        "In Tajikistan we always serve tea first. We drink green tea or black tea with sugar or dried fruit. We eat bread with tea."
+      ],
+      "answer": "In Tajikistan we always serve tea first. We drink green tea or black tea with sugar or with dried fruit. We eat bread with the tea."
+    },
+    {
+      "q": "«Танҳо баъд аз он мо таоми асосиро мехӯрем. Баъд аз таоми асосӣ мо мева ё шириниҳо мехӯрем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Only after that we eat the main dish. After the main dish we eat fruit or sweets.",
+        "Only after that do we eat the main dish. After the main dish we eat fruit or sweets.",
+        "Only after that we eat the main course. After the main dish we eat fruit or sweets.",
+        "Only after that we eat the main dish. After the main dish we eat fruit or sweet."
+      ],
+      "answer": "Only after that we eat the main dish. After the main dish we eat fruit or sweets."
+    },
+    {
+      "q": "«Мо ҳамеша ба меҳмонони худ ғизои бештар пешниҳод мекунем. Бибиам мегӯяд: \"Меҳмоне, ки аз хонаи мо гурусна меравад, шармандагии оилаи мост.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We always offer more food to our guests. My grandmother says: \"A guest who leaves our house hungry is a shame for our family.\"",
+        "We always offer more food to our guests. My grandmother says: \"A guest who leaves our house hungry is a shame for our family.\"",
+        "We always offer more food to our guests. My grandmother says: \"A guest who leaves our house hungry is a shame to our family.\"",
+        "We always offer more food to our guests. My grandmother says: \"The guest who leaves our house hungry is a shame for our family.\""
+      ],
+      "answer": "We always offer more food to our guests. My grandmother says: \"A guest who leaves our house hungry is a shame for our family.\""
+    },
+    {
+      "q": "«Ҳар як қисми Тоҷикистон таомҳои махсуси худро дорад. Дар шимол одамон бештар палав ва самбӯса мепазанд. Дар ҷануб одамон бештар шӯрбо ва мастоба мепазанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Every part of Tajikistan has its own special dishes. In the north people cook more pilaf and sambusa. In the south people cook more shurbo and mastoba.",
+        "Every part of Tajikistan has its own special dishes. In the north people cook more pilaf and sambusa. In the south people cook more shurbo and mastoba.",
+        "Each part of Tajikistan has its own special dishes. In the north people cook more pilaf and sambusa. In the south people cook more shurbo and mastoba.",
+        "Every part of Tajikistan has its special dishes. In the north people cook more pilaf and sambusa. In the south people cook more shurbo and mastoba."
+      ],
+      "answer": "Every part of Tajikistan has its own special dishes. In the north people cook more pilaf and sambusa. In the south people cook more shurbo and mastoba."
+    },
+    {
+      "q": "«Дар кӯҳҳо одамон бештар манту ва кабоб мепазанд. Аммо дар ҳама ҷои Тоҷикистон мо бо муҳаббат пухта мепазем ва ғизои худро бо шодӣ пешниҳод мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In the mountains people cook more mantu and kabob. But everywhere in Tajikistan we cook with love and we serve our food with joy.",
+        "In the mountains people cook more mantu and kabob. But everywhere in Tajikistan we cook with love and serve our food with joy.",
+        "In the mountains people cook more mantu and kabob. But everywhere in Tajikistan we cook with love and we serve our food with joy.",
+        "In the mountains, people cook more mantu and kabob. But everywhere in Tajikistan we cook with love and we serve our food with joy."
+      ],
+      "answer": "In the mountains people cook more mantu and kabob. But everywhere in Tajikistan we cook with love and we serve our food with joy."
+    },
+    {
+      "q": "«Ман мехоҳам ҳамаи ин таомҳоро аз бибиам омӯзам. Ман аллакай медонам, ки чӣ тавр картошкаро пӯст кунам, хамирро омехта кунам ва чой созам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I want to learn to cook all these dishes from my grandmother. I already know how to peel potatoes, mix the dough and make tea.",
+        "I want to learn all these dishes from my grandmother. I already know how to peel potatoes, mix the dough and make tea.",
+        "I want to learn to cook all these dishes from my grandmother. I already know how to peel the potatoes, mix the dough and make tea.",
+        "I want to learn to cook all these dishes from my grandmother. I already know how to peel potatoes, to mix the dough and to make tea."
+      ],
+      "answer": "I want to learn to cook all these dishes from my grandmother. I already know how to peel potatoes, mix the dough and make tea."
+    },
+    {
+      "q": "«Бибиам мегӯяд: \"Вақте ки шумо духтур мешавед, шумо низ бояд пухта тавонед. Духтури хуб бояд ғизои хуб хӯрад.\" Ман бо ӯ розӣ ҳастам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandmother says: \"When you are a doctor, you will need to cook too. A good doctor must eat good food.\" I agree with her.",
+        "My grandmother says: \"When you become a doctor, you will need to cook too. A good doctor must eat good food.\" I agree with her.",
+        "My grandmother says: \"When you are a doctor you will need to cook too. A good doctor must eat good food.\" I agree with her.",
+        "My grandmother says: \"When you are a doctor, you will need to cook too. A good doctor must eat good food.\" I agree with him."
+      ],
+      "answer": "My grandmother says: \"When you are a doctor, you will need to cook too. A good doctor must eat good food.\" I agree with her."
+    },
+    {
+      "q": "«Ошпазӣ на танҳо барои духтарон аст — он барои ҳар касест, ки мехоҳад ғизои бомазза хӯрад ва солим бошад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Cooking is not only for girls — it is for everyone who wants to eat tasty food and to be healthy.",
+        "Cooking is not only for girls — it is for everyone who wants to eat tasty food and be healthy.",
+        "Cooking is not only for girls, it is for everyone who wants to eat tasty food and to be healthy.",
+        "Cooking is not only for girls — it is for everybody who wants to eat tasty food and to be healthy."
+      ],
+      "answer": "Cooking is not only for girls — it is for everyone who wants to eat tasty food and to be healthy."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам барои оилаам палав пухтан. Ман мехоҳам барои дӯстонам таомҳои тоҷикӣ пухтан. Ман мехоҳам ба кӯдаконам омӯзонам, ки чӣ тавр ғизои аҷоиби моро пухтан» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to cook pilaf for my family. I want to cook Tajik dishes for my friends. I want to teach my children how to cook our wonderful food.",
+        "When I grow up, I want to cook pilaf for my family. I want to cook Tajik dishes for my friends. I want to teach my children how to cook our wonderful food.",
+        "When I grow up I want to cook pilaf for my family. I want to cook Tajik dishes for my friends. I want to teach my children how to cook our wonderful food.",
+        "When I grow up, I want to cook pilaf for my family. I want to cook the Tajik dishes for my friends. I want to teach my children how to cook our wonderful food."
+      ],
+      "answer": "When I grow up, I want to cook pilaf for my family. I want to cook Tajik dishes for my friends. I want to teach my children how to cook our wonderful food."
+    },
+    {
+      "q": "«Зеро ки ғизои мо анъанаи мо, таърихи мо ва муҳаббати мост. Ва ман мехоҳам ин анъанаро зинда нигоҳ дорам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Because our food is our tradition, our history and our love. And I want to keep this tradition alive.",
+        "Because our food is our tradition, our history and our love. And I want to keep this tradition alive.",
+        "Because our food is our tradition, our history and our love. And I want to keep the tradition alive.",
+        "Because our food is our tradition, our history and our love. And I want to keep this tradition live."
+      ],
+      "answer": "Because our food is our tradition, our history and our love. And I want to keep this tradition alive."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 27
+  "wordsCount": 16
 }
