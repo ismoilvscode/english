@@ -1,461 +1,642 @@
 {
   "id": 64,
-  "title": "Муоширати воқеӣ 64",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 64: Касбҳои одамон дар деҳа ва шаҳр",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "shepherd",
+      "tj": "чӯпон",
+      "ex": "The shepherd takes the sheep to the mountain."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "miller",
+      "tj": "осиёбон",
+      "ex": "The miller makes flour from wheat."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "blacksmith",
+      "tj": "оҳангар",
+      "ex": "The blacksmith makes horseshoes."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "carpenter",
+      "tj": "дуредгар",
+      "ex": "The carpenter makes tables and chairs."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "potter",
+      "tj": "кулолгар",
+      "ex": "The potter makes beautiful plates and bowls."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "weaver",
+      "tj": "бофанда",
+      "ex": "The weaver makes beautiful carpets."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "tailor",
+      "tj": "хайёт",
+      "ex": "The tailor sews warm coats."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "baker",
+      "tj": "нонвой",
+      "ex": "The baker makes fresh bread every morning."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "engineer",
+      "tj": "муҳандис",
+      "ex": "The engineer builds new bridges."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "dentist",
+      "tj": "духтури дандон",
+      "ex": "The dentist helps children with their teeth."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "lawyer",
+      "tj": "ҳуқуқшинос",
+      "ex": "The lawyer helps people with their problems."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "to sew",
+      "tj": "дӯхтан",
+      "ex": "My grandmother sews beautiful dresses."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "to build",
+      "tj": "сохтан",
+      "ex": "Workers build new houses in our city."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "flour",
+      "tj": "орд",
+      "ex": "The miller makes flour from wheat."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "horseshoe",
+      "tj": "ноъл",
+      "ex": "The blacksmith makes horseshoes for horses."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "to repair",
+      "tj": "таъмир кардан",
+      "ex": "The mechanic repairs our car."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 64)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "The shepherd takes the sheep to the mountain every morning.",
+      "tj": "Чӯпон ҳар субҳ гӯсфандҳоро ба кӯҳ мебарад."
     },
     {
-      "en": "I'm working on lesson 64",
-      "tj": "Ман дарси 64-ро меомӯзам"
+      "en": "The miller makes flour from wheat at the mill.",
+      "tj": "Осиёбон дар осиёб аз гандум орд месозад."
+    },
+    {
+      "en": "The blacksmith makes horseshoes for horses.",
+      "tj": "Оҳангар барои аспҳо ноълҳо месозад."
+    },
+    {
+      "en": "The carpenter makes tables and chairs from wood.",
+      "tj": "Дуредгар аз чӯб миз ва курсӣ месозад."
+    },
+    {
+      "en": "The potter makes beautiful plates and bowls from clay.",
+      "tj": "Кулолгар аз гил табақҳо ва косаҳои зебо месозад."
+    },
+    {
+      "en": "The weaver makes beautiful carpets from wool.",
+      "tj": "Бофанда аз пашм гилемҳои зебо месозад."
+    },
+    {
+      "en": "The tailor sews warm coats and beautiful dresses.",
+      "tj": "Хайёт пальтоҳои гарм ва куртаҳои зебо медӯзад."
+    },
+    {
+      "en": "The baker makes fresh bread every morning.",
+      "tj": "Нонвой ҳар субҳ нони тоза мепазад."
+    },
+    {
+      "en": "The engineer builds new bridges and roads.",
+      "tj": "Муҳандис пулҳо ва роҳҳои нав месозад."
+    },
+    {
+      "en": "The dentist helps children with their teeth.",
+      "tj": "Духтури дандон ба кӯдакон бо дандонҳояшон кӯмак мекунад."
+    },
+    {
+      "en": "The lawyer helps people with their problems.",
+      "tj": "Ҳуқуқшинос ба одамон бо мушкилоти онҳо кӯмак мекунад."
+    },
+    {
+      "en": "My grandmother sews beautiful dresses and warm coats.",
+      "tj": "Бибиам куртаҳои зебо ва пальтоҳои гарм медӯзад."
+    },
+    {
+      "en": "Workers build new houses and schools in our city.",
+      "tj": "Коргарон дар шаҳри мо хонаҳо ва мактабҳои нав месозанд."
+    },
+    {
+      "en": "The miller makes flour from wheat at the old mill.",
+      "tj": "Осиёбон дар осиёби кӯҳна аз гандум орд месозад."
+    },
+    {
+      "en": "The blacksmith makes horseshoes and other iron things.",
+      "tj": "Оҳангар ноълҳо ва дигар чизҳои оҳанинро месозад."
+    },
+    {
+      "en": "Every profession is important and every master loves his work.",
+      "tj": "Ҳар як касб муҳим аст ва ҳар як устод кори худро дӯст медорад."
     }
   ],
   "text": {
-    "en": "Text for lesson 64. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 64 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 64 text.",
-    "tj": "Матни дарси 64..."
+    "en": "Professions of People in the Village and in the City\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. My grandfather and grandmother live in a small village in the mountains. I visit them every summer and I know the life of a village very well. I also know the life of our big city. In the village and in the city people have very different professions. Today I want to tell you about them.\n\nA profession is the work that a person does every day. In the village many people are farmers. They grow wheat, vegetables and fruits. They also keep cows, sheep and goats. In the city people work in offices, factories, hospitals and schools. Both village and city workers are important for our country.\n\nLet us start with the professions of the village. The shepherd is a very old and very important profession. The shepherd takes the sheep and the goats to the mountains every morning. He stays with them all day, and in the evening he brings them home. The shepherd knows the mountains very well. He knows where the best grass grows and where the clean water is. The shepherd's dog helps him to keep the animals safe. My grandfather says: \"A good shepherd is the father of his animals.\"\n\nThe miller is another old profession. The miller works at the mill. He takes wheat from farmers and makes flour from it. Flour is used for making bread. Without flour we cannot bake bread and without bread we cannot live. In the past every village had its own mill. Today big factories make most of the flour, but in some villages the old water mill still works. When I visit the village, my grandfather takes me to the old water mill and shows me how the water turns the heavy stone and makes flour.\n\nThe blacksmith is a very old and very important profession. The blacksmith works with iron. He makes horseshoes for horses, knives for the kitchen and iron tools for farmers. In the past every village had a blacksmith. Today there are not many blacksmiths, but some craftsmen still work with iron. It is a very difficult job. The blacksmith must be strong and patient.\n\nThe carpenter works with wood. He makes tables, chairs, doors and windows. He also makes wooden toys for children. My uncle is a carpenter and his workshop is always full of the good smell of wood. He says: \"When I make a chair, I always think about the person who will sit on it.\"\n\nThe potter works with clay. He makes plates, bowls, cups and jugs. In the old days every village had its own potter. Today pottery is a traditional craft of our country, and our potters still make beautiful things.\n\nThe weaver works with wool and makes beautiful carpets, blankets and clothes. This is mostly a woman's profession in Tajikistan. My grandmother and my aunt are weavers. They make the most beautiful carpets in our village.\n\nThe tailor sews clothes. He makes coats, dresses, trousers and other clothes. A good tailor always knows what suits his client best.\n\nNow let us talk about professions in the city. In our city there are doctors, teachers, engineers, lawyers, dentists, drivers, sellers and many other workers. My father is a doctor. He works in a big hospital and helps sick people every day. My mother works in an office. My sister Zuhro studies at the university and wants to be a teacher. My uncle is an engineer and he builds new bridges and roads. Our neighbour is a dentist and he helps children with their teeth. Our other neighbour is a lawyer and she helps people with their problems.\n\nIn big cities there are also factory workers. They work in factories and make cars, machines, phones and other important things. Factory workers get up very early and work hard all day. They are the real heroes of our country. Because of them, we have all the things we use every day.\n\nEvery profession is important and every worker deserves respect. There is no bad profession — there are only bad workers. A good cleaner can be more useful than a bad doctor. My grandfather says: \"Respect every worker. The hands that work are the hands that feed the world.\"\n\nWhen I grow up, I want to be a doctor. But I also want to know how to work with my hands. I want to learn to build things, to repair things and to make things. Because a real person must not only be clever — he must also be useful. He must be able to help his family and his country. He must be able to work both with his mind and with his hands. This is what my grandparents taught me, and I will never forget it.",
+    "tj": "Касбҳои одамон дар деҳа ва шаҳр\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Бобо ва бибии ман дар деҳаи хурде дар кӯҳҳо зиндагӣ мекунанд. Ман ҳар тобистон ба онҳо меравам ва ман ҳаёти деҳаро хеле хуб медонам. Ман инчунин ҳаёти шаҳри калони моро медонам. Дар деҳа ва дар шаҳр одамон касбҳои гуногун доранд. Имрӯз ман мехоҳам ба шумо дар бораи онҳо нақл кунам.\n\nКасб корест, ки одам ҳар рӯз мекунад. Дар деҳа одамони зиёд деҳқонанд. Онҳо гандум, сабзавот ва меваҳо парвариш мекунанд. Онҳо инчунин говҳо, гӯсфандҳо ва бузҳо нигоҳ медоранд. Дар шаҳр одамон дар идораҳо, заводҳо, беморхонаҳо ва мактабҳо кор мекунанд. Ҳам коргарони деҳа ва ҳам коргарони шаҳр барои кишвари мо муҳим ҳастанд.\n\nБиёед аз касбҳои деҳа сар кунем. Чӯпонӣ касби хеле қадимӣ ва хеле муҳим аст. Чӯпон ҳар субҳ гӯсфандҳо ва бузҳоро ба кӯҳҳо мебарад. Ӯ тамоми рӯз бо онҳо мемонад ва бегоҳ онҳоро ба хона меорад. Чӯпон кӯҳҳоро хеле хуб медонад. Ӯ медонад, ки алафи беҳтарин дар куҷо месабзад ва оби тоза дар куҷост. Саги чӯпон ба ӯ кӯмак мекунад, ки ҳайвонотро бехатар нигоҳ дорад. Бобоям мегӯяд: «Чӯпони хуб падари ҳайвоноти худ аст.»\n\nОсиёбонӣ касби дигари қадимӣ аст. Осиёбон дар осиёб кор мекунад. Ӯ аз деҳқонон гандум мегирад ва аз он орд месозад. Орд барои сохтани нон истифода мешавад. Бе орд мо нон пухта наметавонем ва бе нон мо зиндагӣ карда наметавонем. Дар гузашта ҳар як деҳа осиёби худро дошт. Имрӯз заводҳои калон аксари ордро месозанд, аммо дар баъзе деҳаҳо осиёби кӯҳнаи обӣ ҳанӯз кор мекунад. Вақте ки ман ба деҳа меравам, бобоям маро ба осиёби кӯҳнаи обӣ мебарад ва нишон медиҳад, ки чӣ тавр об санги вазнинро мегардонад ва орд месозад.\n\nОҳангарӣ касби хеле қадимӣ ва хеле муҳим аст. Оҳангар бо оҳан кор мекунад. Ӯ барои аспҳо ноълҳо, барои ошхона кордҳо ва барои деҳқонон асбобҳои оҳанин месозад. Дар гузашта ҳар як деҳа оҳангари худро дошт. Имрӯз оҳангарҳо кам ҳастанд, аммо баъзе ҳунармандон ҳанӯз бо оҳан кор мекунанд. Ин кори хеле душвор аст. Оҳангар бояд қавӣ ва сабрнок бошад.\n\nДуредгар бо чӯб кор мекунад. Ӯ мизҳо, курсӣҳо, дарҳо ва тирезаҳо месозад. Ӯ инчунин бозичаҳои чӯбиро барои кӯдакон месозад. Амакам дуредгар аст ва коргоҳи ӯ ҳамеша пур аз бӯи хуби чӯб аст. Ӯ мегӯяд: «Вақте ки ман курсӣ месозам, ман ҳамеша дар бораи одаме фикр мекунам, ки дар он менишинад.»\n\nКулолгар бо гил кор мекунад. Ӯ табақҳо, косаҳо, пиёлаҳо ва кӯзаҳо месозад. Дар замонҳои қадим ҳар як деҳа кулолгари худро дошт. Имрӯз кулолгарӣ ҳунари анъанавии кишвари мост ва кулолгарони мо ҳанӯз чизҳои зебо месозанд.\n\nБофанда бо пашм кор мекунад ва гилемҳо, кӯрпаҳо ва либосҳои зебо месозад. Ин асосан касби занона дар Тоҷикистон аст. Бибиам ва аммаам бофанда ҳастанд. Онҳо зеботарин гилемҳоро дар деҳаи мо месозанд.\n\nХайёт либос медӯзад. Ӯ пальтоҳо, куртаҳо, шимҳо ва либосҳои дигар месозад. Хайёти хуб ҳамеша медонад, ки чӣ ба муштарии ӯ беҳтар мувофиқ аст.\n\nҲоло биёед дар бораи касбҳо дар шаҳр сӯҳбат кунем. Дар шаҳри мо духтурон, муаллимон, муҳандисон, ҳуқуқшиносон, духтурони дандон, ронандагон, фурӯшандагон ва коргарони дигари зиёд ҳастанд. Падарам духтур аст. Ӯ дар беморхонаи калон кор мекунад ва ҳар рӯз ба беморон кӯмак мекунад. Модарам дар идора кор мекунад. Хоҳарам Зуҳро дар донишгоҳ таҳсил мекунад ва мехоҳад муаллим шавад. Амакам муҳандис аст ва ӯ пулҳо ва роҳҳои нав месозад. Ҳамсояи мо духтури дандон аст ва ӯ ба кӯдакон бо дандонҳояшон кӯмак мекунад. Ҳамсояи дигари мо ҳуқуқшинос аст ва ӯ ба одамон бо мушкилоти онҳо кӯмак мекунад.\n\nДар шаҳрҳои калон коргарони заводҳо низ ҳастанд. Онҳо дар заводҳо кор мекунанд ва мошинҳо, мошинҳои гуногун, телефонҳо ва дигар чизҳои муҳимро месозанд. Коргарони заводҳо хеле барвақт аз ҷой мехезанд ва тамоми рӯз бо ҷидду ҷаҳд кор мекунанд. Онҳо қаҳрамонони ҳақиқии кишвари мо ҳастанд. Ба туфайли онҳо мо ҳамаи чизҳоеро, ки ҳар рӯз истифода мебарем, дорем.\n\nҲар як касб муҳим аст ва ҳар як коргар сазовори эҳтиром аст. Касби бад нест — танҳо коргарони бад ҳастанд. Тозакунандаи хуб метавонад аз духтури бад фоиданоктар бошад. Бобоям мегӯяд: «Ҳар як коргарро эҳтиром кун. Дастҳое, ки кор мекунанд, дастҳое ҳастанд, ки ҷаҳонро ғизо медиҳанд.»\n\nВақте ки ман калон мешавам, ман мехоҳам духтур шавам. Аммо ман инчунин мехоҳам донам, ки чӣ тавр бо дастҳоям кор кунам. Ман мехоҳам сохтан, таъмир кардан ва чизҳоро сохтанро омӯзам. Зеро ки одами ҳақиқӣ на танҳо бояд зирак бошад — ӯ инчунин бояд фоиданок бошад. Ӯ бояд тавонад ба оила ва кишвари худ кӯмак кунад. Ӯ бояд тавонад ҳам бо ақли худ ва ҳам бо дастҳои худ кор кунад. Ин чизест, ки бобою бибиям ба ман омӯхтаанд ва ман ҳеҷ гоҳ онро фаромӯш намекунам."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Чӯпон ҳар субҳ гӯсфандҳоро ба кӯҳ мебарад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: opportunity"
+        "The shepherd takes the sheep to the mountain every morning.",
+        "The shepherd takes sheep to the mountain every morning.",
+        "The shepherd brings the sheep to the mountain every morning.",
+        "A shepherd takes the sheep to the mountain every morning."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "The shepherd takes the sheep to the mountain every morning."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Осиёбон дар осиёб аз гандум орд месозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "The miller makes flour from wheat at the mill.",
+        "The miller makes flour from wheat in the mill.",
+        "A miller makes flour from wheat at the mill.",
+        "The miller makes the flour from wheat at the mill."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The miller makes flour from wheat at the mill."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Оҳангар барои аспҳо ноълҳо месозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: environment"
+        "The blacksmith makes horseshoes for horses.",
+        "The blacksmith makes horseshoes for the horses.",
+        "A blacksmith makes horseshoes for horses.",
+        "The blacksmith makes the horseshoes for horses."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "The blacksmith makes horseshoes for horses."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Дуредгар аз чӯб миз ва курсӣ месозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The carpenter makes tables and chairs from wood.",
+        "The carpenter makes tables and chairs of wood.",
+        "A carpenter makes tables and chairs from wood.",
+        "The carpenter makes the tables and chairs from wood."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "The carpenter makes tables and chairs from wood."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Кулолгар аз гил табақҳо ва косаҳои зебо месозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст B",
-        "нодуруст A"
+        "The potter makes beautiful plates and bowls from clay.",
+        "The potter makes beautiful plates and bowls of clay.",
+        "A potter makes beautiful plates and bowls from clay.",
+        "The potter makes the beautiful plates and bowls from clay."
       ],
-      "answer": "тарҷума: education"
+      "answer": "The potter makes beautiful plates and bowls from clay."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Бофанда аз пашм гилемҳои зебо месозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: development"
+        "The weaver makes beautiful carpets from wool.",
+        "The weaver makes beautiful carpets of wool.",
+        "A weaver makes beautiful carpets from wool.",
+        "The weaver makes the beautiful carpets from wool."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The weaver makes beautiful carpets from wool."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Хайёт пальтоҳои гарм ва куртаҳои зебо медӯзад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: achievement"
+        "The tailor sews warm coats and beautiful dresses.",
+        "The tailor sews warm coats and beautiful dresses.",
+        "A tailor sews warm coats and beautiful dresses.",
+        "The tailor sews the warm coats and beautiful dresses."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The tailor sews warm coats and beautiful dresses."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Нонвой ҳар субҳ нони тоза мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "The baker makes fresh bread every morning.",
+        "The baker bakes fresh bread every morning.",
+        "A baker makes fresh bread every morning.",
+        "The baker makes the fresh bread every morning."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The baker makes fresh bread every morning."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Муҳандис пулҳо ва роҳҳои нав месозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: knowledge",
-        "нодуруст A",
-        "нодуруст B"
+        "The engineer builds new bridges and roads.",
+        "The engineer makes new bridges and roads.",
+        "An engineer builds new bridges and roads.",
+        "The engineer builds the new bridges and roads."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "The engineer builds new bridges and roads."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Духтури дандон ба кӯдакон бо дандонҳояшон кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The dentist helps children with their teeth.",
+        "The dentist helps the children with their teeth.",
+        "A dentist helps children with their teeth.",
+        "The dentist helps children with the teeth."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The dentist helps children with their teeth."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ҳуқуқшинос ба одамон бо мушкилоти онҳо кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: fluency",
-        "нодуруст C",
-        "нодуруст B"
+        "The lawyer helps people with their problems.",
+        "The lawyer helps the people with their problems.",
+        "A lawyer helps people with their problems.",
+        "The lawyer helps people with the problems."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "The lawyer helps people with their problems."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Бибиам куртаҳои зебо ва пальтоҳои гарм медӯзад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: confidence",
-        "нодуруст A"
+        "My grandmother sews beautiful dresses and warm coats.",
+        "My grandmother sews the beautiful dresses and warm coats.",
+        "My grandmother sews beautiful dresses and warm coats.",
+        "My grandmother sews beautiful dress and warm coats."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "My grandmother sews beautiful dresses and warm coats."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Коргарон дар шаҳри мо хонаҳо ва мактабҳои нав месозанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: pronunciation",
-        "нодуруст B"
+        "Workers build new houses and schools in our city.",
+        "Workers build new houses and schools in the city.",
+        "The workers build new houses and schools in our city.",
+        "Workers build the new houses and schools in our city."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "Workers build new houses and schools in our city."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Осиёбон дар осиёби кӯҳна аз гандум орд месозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: vocabulary",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "The miller makes flour from wheat at the old mill.",
+        "The miller makes flour from wheat in the old mill.",
+        "A miller makes flour from wheat at the old mill.",
+        "The miller makes the flour from wheat at the old mill."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "The miller makes flour from wheat at the old mill."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Оҳангар ноълҳо ва дигар чизҳои оҳанинро месозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: grammar",
-        "нодуруст A"
+        "The blacksmith makes horseshoes and other iron things.",
+        "The blacksmith makes horseshoes and other iron things.",
+        "A blacksmith makes horseshoes and other iron things.",
+        "The blacksmith makes the horseshoes and other iron things."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "The blacksmith makes horseshoes and other iron things."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ҳар як касб муҳим аст ва ҳар як устод кори худро дӯст медорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "Every profession is important and every master loves his work.",
+        "Every profession is important and every master loves his job.",
+        "Each profession is important and every master loves his work.",
+        "Every profession is important and every master loves the work."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Every profession is important and every master loves his work."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Бобо ва бибии ман дар деҳаи хурде дар кӯҳҳо зиндагӣ мекунанд. Ман ҳар тобистон ба онҳо меравам ва ман ҳаёти деҳаро хеле хуб медонам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст C"
+        "My grandfather and grandmother live in a small village in the mountains. I visit them every summer and I know the life of a village very well.",
+        "My grandfather and grandmother live in a small village in the mountains. I visit them every summer and I know the life in the village very well.",
+        "My grandfather and grandmother live in a small village in the mountains. I visit them every summer and I know the village life very well.",
+        "My grandfather and grandmother live in the small village in the mountains. I visit them every summer and I know the life of a village very well."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "My grandfather and grandmother live in a small village in the mountains. I visit them every summer and I know the life of a village very well."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ман инчунин ҳаёти шаҳри калони моро медонам. Дар деҳа ва дар шаҳр одамон касбҳои гуногун доранд. Имрӯз ман мехоҳам ба шумо дар бораи онҳо нақл кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "I also know the life of our big city. In the village and in the city people have very different professions. Today I want to tell you about them.",
+        "I also know the life of our big city. In the village and in the city people have different professions. Today I want to tell you about them.",
+        "I also know the life in our big city. In the village and in the city people have very different professions. Today I want to tell you about them.",
+        "I know the life of our big city too. In the village and in the city people have very different professions. Today I want to tell you about them."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "I also know the life of our big city. In the village and in the city people have very different professions. Today I want to tell you about them."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Касб корест, ки одам ҳар рӯз мекунад. Дар деҳа одамони зиёд деҳқонанд. Онҳо гандум, сабзавот ва меваҳо парвариш мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: communication"
+        "A profession is the work that a person does every day. In the village many people are farmers. They grow wheat, vegetables and fruits.",
+        "A profession is the work which a person does every day. In the village many people are farmers. They grow wheat, vegetables and fruits.",
+        "A profession is work that a person does every day. In the village many people are farmers. They grow wheat, vegetables and fruits.",
+        "A profession is the work that a person does every day. In a village many people are farmers. They grow wheat, vegetables and fruits."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "A profession is the work that a person does every day. In the village many people are farmers. They grow wheat, vegetables and fruits."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Онҳо инчунин говҳо, гӯсфандҳо ва бузҳо нигоҳ медоранд. Дар шаҳр одамон дар идораҳо, заводҳо, беморхонаҳо ва мактабҳо кор мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: education",
-        "нодуруст C",
-        "нодуруст B"
+        "They also keep cows, sheep and goats. In the city people work in offices, factories, hospitals and schools.",
+        "They also keep cows, sheep and goats. In the city people work in offices, factories, hospitals and schools.",
+        "They also keep the cows, sheep and goats. In the city people work in offices, factories, hospitals and schools.",
+        "They also keep cows, sheep and goats. In a city people work in offices, factories, hospitals and schools."
       ],
-      "answer": "тарҷума: education"
+      "answer": "They also keep cows, sheep and goats. In the city people work in offices, factories, hospitals and schools."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Ҳам коргарони деҳа ва ҳам коргарони шаҳр барои кишвари мо муҳим ҳастанд. Биёед аз касбҳои деҳа сар кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст A"
+        "Both village and city workers are important for our country. Let us start with the professions of the village.",
+        "Both the village and city workers are important for our country. Let us start with the professions of the village.",
+        "Both village and city workers are important to our country. Let us start with the professions of the village.",
+        "Both village and city workers are important for our country. Let's start with the professions of the village."
       ],
-      "answer": "тарҷума: development"
+      "answer": "Both village and city workers are important for our country. Let us start with the professions of the village."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Чӯпонӣ касби хеле қадимӣ ва хеле муҳим аст. Чӯпон ҳар субҳ гӯсфандҳо ва бузҳоро ба кӯҳҳо мебарад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: achievement"
+        "The shepherd is a very old and very important profession. The shepherd takes the sheep and the goats to the mountains every morning.",
+        "The shepherd is a very old and very important profession. The shepherd takes sheep and goats to the mountains every morning.",
+        "The shepherd is a very ancient and very important profession. The shepherd takes the sheep and the goats to the mountains every morning.",
+        "A shepherd is a very old and very important profession. The shepherd takes the sheep and the goats to the mountains every morning."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The shepherd is a very old and very important profession. The shepherd takes the sheep and the goats to the mountains every morning."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ӯ тамоми рӯз бо онҳо мемонад ва бегоҳ онҳоро ба хона меорад. Чӯпон кӯҳҳоро хеле хуб медонад. Ӯ медонад, ки алафи беҳтарин дар куҷо месабзад ва оби тоза дар куҷост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: challenge"
+        "He stays with them all day, and in the evening he brings them home. The shepherd knows the mountains very well. He knows where the best grass grows and where the clean water is.",
+        "He stays with them all day, and in the evening he brings them home. The shepherd knows the mountains very well. He knows where the best grass grows and where clean water is.",
+        "He stays with them all day and in the evening he brings them home. The shepherd knows the mountains very well. He knows where the best grass grows and where the clean water is.",
+        "He stays with them all day, and in the evening he takes them home. The shepherd knows the mountains very well. He knows where the best grass grows and where the clean water is."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "He stays with them all day, and in the evening he brings them home. The shepherd knows the mountains very well. He knows where the best grass grows and where the clean water is."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Саги чӯпон ба ӯ кӯмак мекунад, ки ҳайвонотро бехатар нигоҳ дорад. Бобоям мегӯяд: \"Чӯпони хуб падари ҳайвоноти худ аст.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: knowledge",
-        "нодуруст C",
-        "нодуруст B"
+        "The shepherd's dog helps him to keep the animals safe. My grandfather says: \"A good shepherd is the father of his animals.\"",
+        "The shepherd's dog helps him keep the animals safe. My grandfather says: \"A good shepherd is the father of his animals.\"",
+        "A shepherd's dog helps him to keep the animals safe. My grandfather says: \"A good shepherd is the father of his animals.\"",
+        "The shepherd's dog helps him to keep the animals safe. My grandfather says: \"The good shepherd is the father of his animals.\""
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "The shepherd's dog helps him to keep the animals safe. My grandfather says: \"A good shepherd is the father of his animals.\""
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Осиёбонӣ касби дигари қадимӣ аст. Осиёбон дар осиёб кор мекунад. Ӯ аз деҳқонон гандум мегирад ва аз он орд месозад. Орд барои сохтани нон истифода мешавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: conversation",
-        "нодуруст A",
-        "нодуруст B"
+        "The miller is another old profession. The miller works at the mill. He takes wheat from farmers and makes flour from it. Flour is used for making bread.",
+        "The miller is another old profession. The miller works at the mill. He takes wheat from the farmers and makes flour from it. Flour is used for making bread.",
+        "A miller is another old profession. The miller works at the mill. He takes wheat from farmers and makes flour from it. Flour is used for making bread.",
+        "The miller is another ancient profession. The miller works at the mill. He takes wheat from farmers and makes flour from it. Flour is used for making bread."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The miller is another old profession. The miller works at the mill. He takes wheat from farmers and makes flour from it. Flour is used for making bread."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Бе орд мо нон пухта наметавонем ва бе нон мо зиндагӣ карда наметавонем. Дар гузашта ҳар як деҳа осиёби худро дошт» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: fluency",
-        "нодуруст C",
-        "нодуруст B"
+        "Without flour we cannot bake bread and without bread we cannot live. In the past every village had its own mill.",
+        "Without flour we cannot bake bread and without bread we cannot live. In the past each village had its own mill.",
+        "Without flour we can't bake bread and without bread we cannot live. In the past every village had its own mill.",
+        "Without flour we cannot make bread and without bread we cannot live. In the past every village had its own mill."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "Without flour we cannot bake bread and without bread we cannot live. In the past every village had its own mill."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Имрӯз заводҳои калон аксари ордро месозанд, аммо дар баъзе деҳаҳо осиёби кӯҳнаи обӣ ҳанӯз кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст B"
+        "Today big factories make most of the flour, but in some villages the old water mill still works.",
+        "Today big factories make the most of the flour, but in some villages the old water mill still works.",
+        "Today the big factories make most of the flour, but in some villages the old water mill still works.",
+        "Today big factories make most of flour, but in some villages the old water mill still works."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "Today big factories make most of the flour, but in some villages the old water mill still works."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Вақте ки ман ба деҳа меравам, бобоям маро ба осиёби кӯҳнаи обӣ мебарад ва нишон медиҳад, ки чӣ тавр об санги вазнинро мегардонад ва орд месозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: pronunciation"
+        "When I visit the village, my grandfather takes me to the old water mill and shows me how the water turns the heavy stone and makes flour.",
+        "When I visit the village my grandfather takes me to the old water mill and shows me how the water turns the heavy stone and makes flour.",
+        "When I visit the village, my grandfather takes me to the old water mill and shows me how water turns the heavy stone and makes flour.",
+        "When I go to the village, my grandfather takes me to the old water mill and shows me how the water turns the heavy stone and makes flour."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "When I visit the village, my grandfather takes me to the old water mill and shows me how the water turns the heavy stone and makes flour."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Оҳангарӣ касби хеле қадимӣ ва хеле муҳим аст. Оҳангар бо оҳан кор мекунад. Ӯ барои аспҳо ноълҳо, барои ошхона кордҳо ва барои деҳқонон асбобҳои оҳанин месозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: vocabulary",
-        "нодуруст A"
+        "The blacksmith is a very old and very important profession. The blacksmith works with iron. He makes horseshoes for horses, knives for the kitchen and iron tools for farmers.",
+        "The blacksmith is a very old and very important profession. The blacksmith works with iron. He makes horseshoes for the horses, knives for the kitchen and iron tools for farmers.",
+        "A blacksmith is a very old and very important profession. The blacksmith works with iron. He makes horseshoes for horses, knives for the kitchen and iron tools for farmers.",
+        "The blacksmith is a very ancient and very important profession. The blacksmith works with iron. He makes horseshoes for horses, knives for the kitchen and iron tools for farmers."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "The blacksmith is a very old and very important profession. The blacksmith works with iron. He makes horseshoes for horses, knives for the kitchen and iron tools for farmers."
+    },
+    {
+      "q": "«Дар гузашта ҳар як деҳа оҳангари худро дошт. Имрӯз оҳангарҳо кам ҳастанд, аммо баъзе ҳунармандон ҳанӯз бо оҳан кор мекунанд. Ин кори хеле душвор аст. Оҳангар бояд қавӣ ва сабрнок бошад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In the past every village had a blacksmith. Today there are not many blacksmiths, but some craftsmen still work with iron. It is a very difficult job. The blacksmith must be strong and patient.",
+        "In the past each village had a blacksmith. Today there are not many blacksmiths, but some craftsmen still work with iron. It is a very difficult job. The blacksmith must be strong and patient.",
+        "In the past every village had its own blacksmith. Today there are not many blacksmiths, but some craftsmen still work with iron. It is a very difficult job. The blacksmith must be strong and patient.",
+        "In the past every village had a blacksmith. Today there are not many blacksmiths but some craftsmen still work with iron. It is a very difficult job. The blacksmith must be strong and patient."
+      ],
+      "answer": "In the past every village had a blacksmith. Today there are not many blacksmiths, but some craftsmen still work with iron. It is a very difficult job. The blacksmith must be strong and patient."
+    },
+    {
+      "q": "«Дуредгар бо чӯб кор мекунад. Ӯ мизҳо, курсӣҳо, дарҳо ва тирезаҳо месозад. Ӯ инчунин бозичаҳои чӯбиро барои кӯдакон месозад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The carpenter works with wood. He makes tables, chairs, doors and windows. He also makes wooden toys for children.",
+        "The carpenter works with wood. He makes tables, chairs, doors and windows. He also makes wooden toys for the children.",
+        "A carpenter works with wood. He makes tables, chairs, doors and windows. He also makes wooden toys for children.",
+        "The carpenter works with wood. He makes tables, chairs, doors and windows. He also makes the wooden toys for children."
+      ],
+      "answer": "The carpenter works with wood. He makes tables, chairs, doors and windows. He also makes wooden toys for children."
+    },
+    {
+      "q": "«Амакам дуредгар аст ва коргоҳи ӯ ҳамеша пур аз бӯи хуби чӯб аст. Ӯ мегӯяд: \"Вақте ки ман курсӣ месозам, ман ҳамеша дар бораи одаме фикр мекунам, ки дар он менишинад.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My uncle is a carpenter and his workshop is always full of the good smell of wood. He says: \"When I make a chair, I always think about the person who will sit on it.\"",
+        "My uncle is a carpenter and his workshop is always full of good smell of wood. He says: \"When I make a chair, I always think about the person who will sit on it.\"",
+        "My uncle is a carpenter and his workshop is always full of the good smell of the wood. He says: \"When I make a chair, I always think about the person who will sit on it.\"",
+        "My uncle is a carpenter and his workshop is always full of the good smell of wood. He says: \"When I make a chair I always think about the person who will sit on it.\""
+      ],
+      "answer": "My uncle is a carpenter and his workshop is always full of the good smell of wood. He says: \"When I make a chair, I always think about the person who will sit on it.\""
+    },
+    {
+      "q": "«Кулолгар бо гил кор мекунад. Ӯ табақҳо, косаҳо, пиёлаҳо ва кӯзаҳо месозад. Дар замонҳои қадим ҳар як деҳа кулолгари худро дошт» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The potter works with clay. He makes plates, bowls, cups and jugs. In the old days every village had its own potter.",
+        "The potter works with clay. He makes plates, bowls, cups and jugs. In the old days each village had its own potter.",
+        "A potter works with clay. He makes plates, bowls, cups and jugs. In the old days every village had its own potter.",
+        "The potter works with clay. He makes plates, bowls, cups and jugs. In old days every village had its own potter."
+      ],
+      "answer": "The potter works with clay. He makes plates, bowls, cups and jugs. In the old days every village had its own potter."
+    },
+    {
+      "q": "«Имрӯз кулолгарӣ ҳунари анъанавии кишвари мост ва кулолгарони мо ҳанӯз чизҳои зебо месозанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Today pottery is a traditional craft of our country, and our potters still make beautiful things.",
+        "Today pottery is a traditional craft of our country and our potters still make beautiful things.",
+        "Today pottery is a traditional craft in our country, and our potters still make beautiful things.",
+        "Today pottery is the traditional craft of our country, and our potters still make beautiful things."
+      ],
+      "answer": "Today pottery is a traditional craft of our country, and our potters still make beautiful things."
+    },
+    {
+      "q": "«Бофанда бо пашм кор мекунад ва гилемҳо, кӯрпаҳо ва либосҳои зебо месозад. Ин асосан касби занона дар Тоҷикистон аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The weaver works with wool and makes beautiful carpets, blankets and clothes. This is mostly a woman's profession in Tajikistan.",
+        "The weaver works with wool and makes beautiful carpets, blankets and clothes. This is mainly a woman's profession in Tajikistan.",
+        "A weaver works with wool and makes beautiful carpets, blankets and clothes. This is mostly a woman's profession in Tajikistan.",
+        "The weaver works with wool and makes the beautiful carpets, blankets and clothes. This is mostly a woman's profession in Tajikistan."
+      ],
+      "answer": "The weaver works with wool and makes beautiful carpets, blankets and clothes. This is mostly a woman's profession in Tajikistan."
+    },
+    {
+      "q": "«Хайёт либос медӯзад. Ӯ пальтоҳо, куртаҳо, шимҳо ва либосҳои дигар месозад. Хайёти хуб ҳамеша медонад, ки чӣ ба муштарии ӯ беҳтар мувофиқ аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "The tailor sews clothes. He makes coats, dresses, trousers and other clothes. A good tailor always knows what suits his client best.",
+        "The tailor sews clothes. He makes coats, dresses, trousers and other clothes. A good tailor always knows what suits his customer best.",
+        "A tailor sews clothes. He makes coats, dresses, trousers and other clothes. A good tailor always knows what suits his client best.",
+        "The tailor sews the clothes. He makes coats, dresses, trousers and other clothes. A good tailor always knows what suits his client best."
+      ],
+      "answer": "The tailor sews clothes. He makes coats, dresses, trousers and other clothes. A good tailor always knows what suits his client best."
+    },
+    {
+      "q": "«Ҳоло биёед дар бораи касбҳо дар шаҳр сӯҳбат кунем. Дар шаҳри мо духтурон, муаллимон, муҳандисон, ҳуқуқшиносон, духтурони дандон, ронандагон, фурӯшандагон ва коргарони дигари зиёд ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Now let us talk about professions in the city. In our city there are doctors, teachers, engineers, lawyers, dentists, drivers, sellers and many other workers.",
+        "Now let's talk about professions in the city. In our city there are doctors, teachers, engineers, lawyers, dentists, drivers, sellers and many other workers.",
+        "Now let us talk about the professions in the city. In our city there are doctors, teachers, engineers, lawyers, dentists, drivers, sellers and many other workers.",
+        "Now let us talk about professions in the city. In our city there are doctors, teachers, engineers, lawyers, dentists, drivers, sellers and many other workers."
+      ],
+      "answer": "Now let us talk about professions in the city. In our city there are doctors, teachers, engineers, lawyers, dentists, drivers, sellers and many other workers."
+    },
+    {
+      "q": "«Падарам духтур аст. Ӯ дар беморхонаи калон кор мекунад ва ҳар рӯз ба беморон кӯмак мекунад. Модарам дар идора кор мекунад. Хоҳарам Зуҳро дар донишгоҳ таҳсил мекунад ва мехоҳад муаллим шавад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father is a doctor. He works in a big hospital and helps sick people every day. My mother works in an office. My sister Zuhro studies at the university and wants to be a teacher.",
+        "My father is a doctor. He works in a big hospital and helps sick people every day. My mother works in an office. My sister Zuhro studies at university and wants to be a teacher.",
+        "My father is a doctor. He works in a big hospital and helps sick people every day. My mother works in an office. My sister Zuhro studies at the university and wants to become a teacher.",
+        "My father is a doctor. He works in a big hospital and helps the sick people every day. My mother works in an office. My sister Zuhro studies at the university and wants to be a teacher."
+      ],
+      "answer": "My father is a doctor. He works in a big hospital and helps sick people every day. My mother works in an office. My sister Zuhro studies at the university and wants to be a teacher."
+    },
+    {
+      "q": "«Амакам муҳандис аст ва ӯ пулҳо ва роҳҳои нав месозад. Ҳамсояи мо духтури дандон аст ва ӯ ба кӯдакон бо дандонҳояшон кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My uncle is an engineer and he builds new bridges and roads. Our neighbour is a dentist and he helps children with their teeth.",
+        "My uncle is an engineer and he builds new bridges and roads. Our neighbour is a dentist and he helps the children with their teeth.",
+        "My uncle is an engineer and he builds new bridges and roads. A neighbour of ours is a dentist and he helps children with their teeth.",
+        "My uncle is an engineer, and he builds new bridges and roads. Our neighbour is a dentist, and he helps children with their teeth."
+      ],
+      "answer": "My uncle is an engineer and he builds new bridges and roads. Our neighbour is a dentist and he helps children with their teeth."
+    },
+    {
+      "q": "«Ҳамсояи дигари мо ҳуқуқшинос аст ва ӯ ба одамон бо мушкилоти онҳо кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Our other neighbour is a lawyer and she helps people with their problems.",
+        "Our other neighbour is a lawyer and she helps people with their problems.",
+        "The other neighbour of ours is a lawyer and she helps people with their problems.",
+        "Our other neighbour is a lawyer, and she helps people with their problems."
+      ],
+      "answer": "Our other neighbour is a lawyer and she helps people with their problems."
+    },
+    {
+      "q": "«Дар шаҳрҳои калон коргарони заводҳо низ ҳастанд. Онҳо дар заводҳо кор мекунанд ва мошинҳо, мошинҳои гуногун, телефонҳо ва дигар чизҳои муҳимро месозанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "In big cities there are also factory workers. They work in factories and make cars, machines, phones and other important things.",
+        "In big cities there are factory workers too. They work in factories and make cars, machines, phones and other important things.",
+        "In the big cities there are also factory workers. They work in factories and make cars, machines, phones and other important things.",
+        "In big cities there are also factory workers. They work in the factories and make cars, machines, phones and other important things."
+      ],
+      "answer": "In big cities there are also factory workers. They work in factories and make cars, machines, phones and other important things."
+    },
+    {
+      "q": "«Коргарони заводҳо хеле барвақт аз ҷой мехезанд ва тамоми рӯз бо ҷидду ҷаҳд кор мекунанд. Онҳо қаҳрамонони ҳақиқии кишвари мо ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Factory workers get up very early and work hard all day. They are the real heroes of our country.",
+        "Factory workers get up very early and work hard all day. They are real heroes of our country.",
+        "The factory workers get up very early and work hard all day. They are the real heroes of our country.",
+        "Factory workers get up very early and work hard all day. They are the real heroes of the country."
+      ],
+      "answer": "Factory workers get up very early and work hard all day. They are the real heroes of our country."
+    },
+    {
+      "q": "«Ба туфайли онҳо мо ҳамаи чизҳоеро, ки ҳар рӯз истифода мебарем, дорем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Because of them, we have all the things we use every day.",
+        "Because of them we have all the things we use every day.",
+        "Thanks to them, we have all the things we use every day.",
+        "Because of them, we have all the things that we use every day."
+      ],
+      "answer": "Because of them, we have all the things we use every day."
+    },
+    {
+      "q": "«Ҳар як касб муҳим аст ва ҳар як коргар сазовори эҳтиром аст. Касби бад нест — танҳо коргарони бад ҳастанд. Тозакунандаи хуб метавонад аз духтури бад фоиданоктар бошад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Every profession is important and every worker deserves respect. There is no bad profession — there are only bad workers. A good cleaner can be more useful than a bad doctor.",
+        "Every profession is important and every worker deserves respect. There is no bad profession, there are only bad workers. A good cleaner can be more useful than a bad doctor.",
+        "Each profession is important and every worker deserves respect. There is no bad profession — there are only bad workers. A good cleaner can be more useful than a bad doctor.",
+        "Every profession is important, and every worker deserves respect. There is no bad profession — there are only bad workers. A good cleaner can be more useful than a bad doctor."
+      ],
+      "answer": "Every profession is important and every worker deserves respect. There is no bad profession — there are only bad workers. A good cleaner can be more useful than a bad doctor."
+    },
+    {
+      "q": "«Бобоям мегӯяд: \"Ҳар як коргарро эҳтиром кун. Дастҳое, ки кор мекунанд, дастҳое ҳастанд, ки ҷаҳонро ғизо медиҳанд.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandfather says: \"Respect every worker. The hands that work are the hands that feed the world.\"",
+        "My grandfather says: \"Respect every worker. The hands that work are the hands that feed the world.\"",
+        "My grandfather says: \"Respect each worker. The hands that work are the hands that feed the world.\"",
+        "My grandfather says: \"Respect every worker. Hands that work are the hands that feed the world.\""
+      ],
+      "answer": "My grandfather says: \"Respect every worker. The hands that work are the hands that feed the world.\""
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам духтур шавам. Аммо ман инчунин мехоҳам донам, ки чӣ тавр бо дастҳоям кор кунам. Ман мехоҳам сохтан, таъмир кардан ва чизҳоро сохтанро омӯзам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to be a doctor. But I also want to know how to work with my hands. I want to learn to build things, to repair things and to make things.",
+        "When I grow up I want to be a doctor. But I also want to know how to work with my hands. I want to learn to build things, to repair things and to make things.",
+        "When I grow up, I want to become a doctor. But I also want to know how to work with my hands. I want to learn to build things, to repair things and to make things.",
+        "When I grow up, I want to be a doctor. But I also want to know how to work with my hands. I want to learn to build, to repair and to make things."
+      ],
+      "answer": "When I grow up, I want to be a doctor. But I also want to know how to work with my hands. I want to learn to build things, to repair things and to make things."
+    },
+    {
+      "q": "«Зеро ки одами ҳақиқӣ на танҳо бояд зирак бошад — ӯ инчунин бояд фоиданок бошад. Ӯ бояд тавонад ба оила ва кишвари худ кӯмак кунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Because a real person must not only be clever — he must also be useful. He must be able to help his family and his country.",
+        "Because a real person must not only be clever, he must also be useful. He must be able to help his family and his country.",
+        "Because a real person should not only be clever — he must also be useful. He must be able to help his family and his country.",
+        "Because a real person must not only be clever — he must be useful too. He must be able to help his family and his country."
+      ],
+      "answer": "Because a real person must not only be clever — he must also be useful. He must be able to help his family and his country."
+    },
+    {
+      "q": "«Ӯ бояд тавонад ҳам бо ақли худ ва ҳам бо дастҳои худ кор кунад. Ин чизест, ки бобою бибиям ба ман омӯхтаанд ва ман ҳеҷ гоҳ онро фаромӯш намекунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "He must be able to work both with his mind and with his hands. This is what my grandparents taught me, and I will never forget it.",
+        "He must be able to work with both his mind and his hands. This is what my grandparents taught me, and I will never forget it.",
+        "He must be able to work both with his mind and his hands. This is what my grandparents taught me and I will never forget it.",
+        "He must be able to work both with his mind and with his hands. This is what my grandparents taught me, and I shall never forget it."
+      ],
+      "answer": "He must be able to work both with his mind and with his hands. This is what my grandparents taught me, and I will never forget it."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 29
+  "wordsCount": 16
 }
