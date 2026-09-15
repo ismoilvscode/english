@@ -1,506 +1,492 @@
 {
   "id": 72,
-  "title": "Муоширати воқеӣ 72",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 72: Илм ва дониш",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "knowledge",
+      "tj": "дониш",
+      "ex": "Knowledge is power."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "science",
+      "tj": "илм",
+      "ex": "Science helps us understand the world."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "to learn by heart",
+      "tj": "аз ёд кардан",
+      "ex": "I learn poems by heart."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "curious",
+      "tj": "кунҷков",
+      "ex": "A curious child asks many questions."
+    },
+    {
+      "en": "to explore",
+      "tj": "тадқиқ кардан",
+      "ex": "We explore the world around us."
+    },
+    {
+      "en": "to discover",
+      "tj": "кашф кардан",
+      "ex": "Scientists discover new things."
+    },
+    {
+      "en": "clever",
+      "tj": "зеҳновар",
+      "ex": "My friend is a clever pupil."
+    },
+    {
+      "en": "wise",
+      "tj": "хирадманд",
+      "ex": "My grandfather is a wise man."
     },
     {
       "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "tj": "маориф",
+      "ex": "Education is important for everyone."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "to study hard",
+      "tj": "бо ҷидду ҷаҳд таҳсил кардан",
+      "ex": "I study hard to get good marks."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "to remember",
+      "tj": "дар хотир нигоҳ доштан",
+      "ex": "I remember all the new words."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to forget",
+      "tj": "фаромӯш кардан",
+      "ex": "I never forget my homework."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "textbook",
+      "tj": "китоби дарсӣ",
+      "ex": "I open my textbook on page ten."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to answer",
+      "tj": "ҷавоб додан",
+      "ex": "I answer the teacher's questions."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "to ask",
+      "tj": "пурсидан",
+      "ex": "I ask my teacher when I do not understand."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "brain",
+      "tj": "майна",
+      "ex": "Our brain helps us think."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 72)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Knowledge is power and education is the road to it.",
+      "tj": "Дониш қувват аст ва маориф роҳи ба сӯи он аст."
     },
     {
-      "en": "I'm working on lesson 72",
-      "tj": "Ман дарси 72-ро меомӯзам"
+      "en": "Science helps us understand the world around us.",
+      "tj": "Илм ба мо дар фаҳмидани ҷаҳони атрофи мо кӯмак мекунад."
+    },
+    {
+      "en": "I learn new poems by heart every week.",
+      "tj": "Ман ҳар ҳафта шеърҳои навро аз ёд мекунам."
+    },
+    {
+      "en": "A curious child asks many questions.",
+      "tj": "Кӯдаки кунҷков саволҳои зиёд мепурсад."
+    },
+    {
+      "en": "We explore the world around us every day.",
+      "tj": "Мо ҳар рӯз ҷаҳони атрофи худро тадқиқ мекунем."
+    },
+    {
+      "en": "Scientists discover new things every year.",
+      "tj": "Олимон ҳар сол чизҳои навро кашф мекунанд."
+    },
+    {
+      "en": "My friend is a clever pupil and studies hard.",
+      "tj": "Дӯсти ман хонандаи зеҳновар аст ва бо ҷидду ҷаҳд таҳсил мекунад."
+    },
+    {
+      "en": "My grandfather is a wise man and I listen to him.",
+      "tj": "Бобоям марди хирадманд аст ва ман ба ӯ гӯш мекунам."
+    },
+    {
+      "en": "Education is important for every person.",
+      "tj": "Маориф барои ҳар як одам муҳим аст."
+    },
+    {
+      "en": "I study hard to get good marks at school.",
+      "tj": "Ман барои гирифтани баҳои хуб дар мактаб бо ҷидду ҷаҳд таҳсил мекунам."
+    },
+    {
+      "en": "I remember all the new words from my lesson.",
+      "tj": "Ман ҳамаи калимаҳои нави дарсамро дар хотир нигоҳ медорам."
+    },
+    {
+      "en": "I never forget my homework.",
+      "tj": "Ман ҳеҷ гоҳ вазифаи хонагиамро фаромӯш намекунам."
+    },
+    {
+      "en": "I open my textbook on page ten and read the text.",
+      "tj": "Ман китоби дарсиамро дар саҳифаи даҳум мекушоям ва матнро мехонам."
+    },
+    {
+      "en": "I answer the teacher's questions in class.",
+      "tj": "Ман дар синф ба саволҳои муаллим ҷавоб медиҳам."
+    },
+    {
+      "en": "I ask my teacher when I do not understand something.",
+      "tj": "Ман вақте ки чизеро намефаҳмам, аз муаллимам мепурсам."
+    },
+    {
+      "en": "Our brain helps us think and remember new things.",
+      "tj": "Майнаи мо ба мо дар фикр кардан ва дар хотир нигоҳ доштани чизҳои нав кӯмак мекунад."
     }
   ],
   "text": {
-    "en": "Text for lesson 72. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 72 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 72 text.",
-    "tj": "Матни дарси 72..."
+    "en": "Knowledge and Science\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. Knowledge and science are the most important things in our life. Without knowledge we cannot understand the world. Without science we cannot make our life better. Today I want to tell you about knowledge and about science.\n\nKnowledge is everything we know about the world. We get knowledge from books, from teachers, from our parents and from our own experience. A person with knowledge can do many things. He can read, write, count and think. He can understand other people and help them. My grandfather says: \"Knowledge is power. A person with knowledge can change the world.\"\n\nScience is a special kind of knowledge. Science helps us to understand how the world works. Scientists study nature, the human body, the stars and the oceans. They do experiments, they ask questions and they look for answers. Scientists discover new things every year. They discover new medicines, new planets and new ways to help people.\n\nTo get knowledge, we must study. Study is not always easy, but it is always useful. We must study hard at school. We must read books, do our homework and answer our teacher's questions. We must learn new words by heart. We must remember what we learned yesterday and use it today. And we must never forget that study is our most important duty.\n\nA curious child is a child who asks many questions. Curiosity is a very good quality. When we are curious, we want to know more. We want to explore the world. We want to discover new things. My teacher says: \"A curious child is a future scientist. A lazy child is a future fool.\"\n\nOur brain is the most important part of our body. It helps us think, remember and learn. To keep our brain strong, we must read books, learn new things and use our mind every day. My mother says: \"The brain is like a muscle. If you use it, it becomes strong. If you do not use it, it becomes weak.\"\n\nA clever pupil studies hard and asks questions. A wise man uses his knowledge to help other people. We must all try to be clever and wise. We must study hard at school and read books at home. We must help our friends and family. We must love our country and our people. And we must remember: knowledge is the greatest treasure of every person.\n\nWhen I grow up, I want to be a doctor. I want to use my knowledge to help sick people. I want to learn new things every day. I want to be a wise man. Because a wise man is a happy man.",
+    "tj": "Илм ва дониш\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Илм ва дониш муҳимтарин чизҳо дар ҳаёти мо ҳастанд. Бе дониш мо ҷаҳонро фаҳмида наметавонем. Бе илм мо ҳаёти худро беҳтар карда наметавонем. Имрӯз ман мехоҳам ба шумо дар бораи дониш ва дар бораи илм нақл кунам.\n\nДониш ҳама чизест, ки мо дар бораи ҷаҳон медонем. Мо донишро аз китобҳо, аз муаллимон, аз волидонамон ва аз таҷрибаи худамон мегирем. Одами донишманд корҳои зиёд карда метавонад. Ӯ метавонад хонад, нависад, ҳисоб кунад ва фикр кунад. Ӯ метавонад одамони дигарро фаҳмад ва ба онҳо кӯмак кунад. Бобоям мегӯяд: «Дониш қувват аст. Одами донишманд метавонад ҷаҳонро тағйир диҳад.»\n\nИлм навъи махсуси дониш аст. Илм ба мо дар фаҳмидани он ки ҷаҳон чӣ тавр кор мекунад, кӯмак мекунад. Олимон табиат, бадани одам, ситораҳо ва уқёнусҳоро меомӯзанд. Онҳо таҷриба мегузаронанд, савол медиҳанд ва ҷавоб меҷӯянд. Олимон ҳар сол чизҳои навро кашф мекунанд. Онҳо доруҳои нав, сайёраҳои нав ва роҳҳои нави кӯмак кардан ба одамонро кашф мекунанд.\n\nБарои гирифтани дониш мо бояд таҳсил кунем. Таҳсил на ҳамеша осон аст, аммо он ҳамеша фоиданок аст. Мо бояд дар мактаб бо ҷидду ҷаҳд таҳсил кунем. Мо бояд китобҳо хонем, вазифаи хонагиамонро иҷро кунем ва ба саволҳои муаллимамон ҷавоб диҳем. Мо бояд калимаҳои навро аз ёд кунем. Мо бояд он чиро, ки дирӯз омӯхтем, дар хотир нигоҳ дорем ва имрӯз истифода барем. Ва мо бояд ҳеҷ гоҳ фаромӯш накунем, ки таҳсил муҳимтарин вазифаи мост.\n\nКӯдаки кунҷков кӯдакест, ки саволҳои зиёд мепурсад. Кунҷковӣ хислати хеле хуб аст. Вақте ки мо кунҷков ҳастем, мо мехоҳем бештар донем. Мо мехоҳем ҷаҳонро тадқиқ кунем. Мо мехоҳем чизҳои навро кашф кунем. Муаллимам мегӯяд: «Кӯдаки кунҷков олими оянда аст. Кӯдаки танбал нодони оянда аст.»\n\nМайнаи мо муҳимтарин қисми бадани мост. Он ба мо дар фикр кардан, дар хотир нигоҳ доштан ва омӯхтан кӯмак мекунад. Барои қавӣ нигоҳ доштани майнаи худ мо бояд китоб хонем, чизҳои нав омӯзем ва ҳар рӯз ақли худро истифода барем. Модарам мегӯяд: «Майна мисли мушак аст. Агар шумо онро истифода баред, он қавӣ мешавад. Агар шумо онро истифода набаред, он заиф мешавад.»\n\nХонандаи зеҳновар бо ҷидду ҷаҳд таҳсил мекунад ва савол медиҳад. Одами хирадманд дониши худро барои кӯмак кардан ба одамони дигар истифода мебарад. Мо ҳама бояд кӯшиш кунем, ки зеҳновар ва хирадманд бошем. Мо бояд дар мактаб бо ҷидду ҷаҳд таҳсил кунем ва дар хона китоб хонем. Мо бояд ба дӯстон ва оилаамон кӯмак кунем. Мо бояд кишвар ва мардуми худро дӯст дорем. Ва мо бояд ба ёд дорем: дониш бузургтарин ганҷи ҳар як одам аст.\n\nВақте ки ман калон мешавам, ман мехоҳам духтур шавам. Ман мехоҳам дониши худро барои кӯмак кардан ба одамони бемор истифода барам. Ман мехоҳам ҳар рӯз чизҳои навро омӯзам. Ман мехоҳам марди хирадманд бошам. Зеро ки марди хирадманд марди хушбахт аст."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Дониш қувват аст ва маориф роҳи ба сӯи он аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: opportunity"
+        "Knowledge is power and education is the road to it.",
+        "Knowledge is power and education is the road to it.",
+        "Knowledge is a power and education is the road to it.",
+        "Knowledge is power and the education is the road to it."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Knowledge is power and education is the road to it."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Илм ба мо дар фаҳмидани ҷаҳони атрофи мо кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст B"
+        "Science helps us understand the world around us.",
+        "Science helps us to understand the world around us.",
+        "Science helps us understand the world around us.",
+        "The science helps us understand the world around us."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "Science helps us understand the world around us."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ман ҳар ҳафта шеърҳои навро аз ёд мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "I learn new poems by heart every week.",
+        "I learn the new poems by heart every week.",
+        "I learn new poems by heart each week.",
+        "I study new poems by heart every week."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "I learn new poems by heart every week."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Кӯдаки кунҷков саволҳои зиёд мепурсад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст B",
-        "нодуруст A"
+        "A curious child asks many questions.",
+        "A curious child asks a lot of questions.",
+        "The curious child asks many questions.",
+        "A curious child puts many questions."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "A curious child asks many questions."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Мо ҳар рӯз ҷаҳони атрофи худро тадқиқ мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: education",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "We explore the world around us every day.",
+        "We explore the world around us each day.",
+        "We explore the world near us every day.",
+        "We study the world around us every day."
       ],
-      "answer": "тарҷума: education"
+      "answer": "We explore the world around us every day."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Олимон ҳар сол чизҳои навро кашф мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: development",
-        "нодуруст B"
+        "Scientists discover new things every year.",
+        "Scientists discover new things each year.",
+        "The scientists discover new things every year.",
+        "Scientists find new things every year."
       ],
-      "answer": "тарҷума: development"
+      "answer": "Scientists discover new things every year."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Дӯсти ман хонандаи зеҳновар аст ва бо ҷидду ҷаҳд таҳсил мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: achievement",
-        "нодуруст B"
+        "My friend is a clever pupil and studies hard.",
+        "My friend is a clever pupil and he studies hard.",
+        "My friend is the clever pupil and studies hard.",
+        "My friend is a clever pupil and he studies well."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "My friend is a clever pupil and studies hard."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Бобоям марди хирадманд аст ва ман ба ӯ гӯш мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: challenge",
-        "нодуруст A"
+        "My grandfather is a wise man and I listen to him.",
+        "My grandfather is a wise man and I listen him.",
+        "My grandfather is the wise man and I listen to him.",
+        "My grandfather is a wise man and I hear him."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "My grandfather is a wise man and I listen to him."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Маориф барои ҳар як одам муҳим аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: knowledge"
+        "Education is important for every person.",
+        "Education is important for every man.",
+        "The education is important for every person.",
+        "Education is important to every person."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "Education is important for every person."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Ман барои гирифтани баҳои хуб дар мактаб бо ҷидду ҷаҳд таҳсил мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: conversation",
-        "нодуруст B",
-        "нодуруст A"
+        "I study hard to get good marks at school.",
+        "I study hard to get good marks in school.",
+        "I study hard for getting good marks at school.",
+        "I study hard to get good marks at the school."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "I study hard to get good marks at school."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ман ҳамаи калимаҳои нави дарсамро дар хотир нигоҳ медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: fluency",
-        "нодуруст C"
+        "I remember all the new words from my lesson.",
+        "I remember all the new words of my lesson.",
+        "I remember all new words from my lesson.",
+        "I keep in mind all the new words from my lesson."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "I remember all the new words from my lesson."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ман ҳеҷ гоҳ вазифаи хонагиамро фаромӯш намекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "I never forget my homework.",
+        "I never forget about my homework.",
+        "I never forget to do my homework.",
+        "I do not ever forget my homework."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "I never forget my homework."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Ман китоби дарсиамро дар саҳифаи даҳум мекушоям ва матнро мехонам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: pronunciation",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "I open my textbook on page ten and read the text.",
+        "I open my textbook on page ten and read a text.",
+        "I open my textbook at page ten and read the text.",
+        "I open my book on page ten and read the text."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "I open my textbook on page ten and read the text."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ман дар синф ба саволҳои муаллим ҷавоб медиҳам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: vocabulary"
+        "I answer the teacher's questions in class.",
+        "I answer the questions of the teacher in class.",
+        "I answer to the teacher's questions in class.",
+        "I answer the teacher's questions at class."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "I answer the teacher's questions in class."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ман вақте ки чизеро намефаҳмам, аз муаллимам мепурсам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: grammar",
-        "нодуруст C"
+        "I ask my teacher when I do not understand something.",
+        "I ask my teacher when I don't understand something.",
+        "I ask the teacher when I do not understand something.",
+        "I ask my teacher when I do not understand anything."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "I ask my teacher when I do not understand something."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Майнаи мо ба мо дар фикр кардан ва дар хотир нигоҳ доштани чизҳои нав кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст C"
+        "Our brain helps us think and remember new things.",
+        "Our brain helps us to think and remember new things.",
+        "Our brain helps us think and to remember new things.",
+        "The brain helps us think and remember new things."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Our brain helps us think and remember new things."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Дониш ҳама чизест, ки мо дар бораи ҷаҳон медонем. Мо донишро аз китобҳо, аз муаллимон, аз волидонамон ва аз таҷрибаи худамон мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "Knowledge is everything we know about the world. We get knowledge from books, from teachers, from our parents and from our own experience.",
+        "Knowledge is everything we know about the world. We get knowledge from books, from teachers, from our parents and from own experience.",
+        "Knowledge is all we know about the world. We get knowledge from books, from teachers, from our parents and from our own experience.",
+        "Knowledge is everything we know about the world. We take knowledge from books, from teachers, from our parents and from our own experience."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "Knowledge is everything we know about the world. We get knowledge from books, from teachers, from our parents and from our own experience."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Одами донишманд корҳои зиёд карда метавонад. Ӯ метавонад хонад, нависад, ҳисоб кунад ва фикр кунад. Ӯ метавонад одамони дигарро фаҳмад ва ба онҳо кӯмак кунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст C"
+        "A person with knowledge can do many things. He can read, write, count and think. He can understand other people and help them.",
+        "A person with knowledge can do many things. He can read, write, count and think. He can understand other people and to help them.",
+        "A person with knowledge can do many things. He can read, write, count, and think. He can understand other people and help them.",
+        "The person with knowledge can do many things. He can read, write, count and think. He can understand other people and help them."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "A person with knowledge can do many things. He can read, write, count and think. He can understand other people and help them."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Бобоям мегӯяд: \"Дониш қувват аст. Одами донишманд метавонад ҷаҳонро тағйир диҳад.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст C"
+        "My grandfather says: \"Knowledge is power. A person with knowledge can change the world.\"",
+        "My grandfather says: \"Knowledge is power. The person with knowledge can change the world.\"",
+        "My grandfather says: \"Knowledge is a power. A person with knowledge can change the world.\"",
+        "My grandfather says: \"Knowledge is power. A person with knowledge can change the world.\""
       ],
-      "answer": "тарҷума: communication"
+      "answer": "My grandfather says: \"Knowledge is power. A person with knowledge can change the world.\""
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Илм навъи махсуси дониш аст. Илм ба мо дар фаҳмидани он ки ҷаҳон чӣ тавр кор мекунад, кӯмак мекунад. Олимон табиат, бадани одам, ситораҳо ва уқёнусҳоро меомӯзанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст B"
+        "Science is a special kind of knowledge. Science helps us to understand how the world works. Scientists study nature, the human body, the stars and the oceans.",
+        "Science is a special kind of knowledge. Science helps us understand how the world works. Scientists study nature, the human body, the stars and the oceans.",
+        "Science is a special kind of knowledge. Science helps us to understand how the world works. Scientists study nature, human body, the stars and the oceans.",
+        "Science is a special type of knowledge. Science helps us to understand how the world works. Scientists study nature, the human body, the stars and the oceans."
       ],
-      "answer": "тарҷума: education"
+      "answer": "Science is a special kind of knowledge. Science helps us to understand how the world works. Scientists study nature, the human body, the stars and the oceans."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Онҳо таҷриба мегузаронанд, савол медиҳанд ва ҷавоб меҷӯянд. Олимон ҳар сол чизҳои навро кашф мекунанд. Онҳо доруҳои нав, сайёраҳои нав ва роҳҳои нави кӯмак кардан ба одамонро кашф мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: development"
+        "They do experiments, they ask questions and they look for answers. Scientists discover new things every year. They discover new medicines, new planets and new ways to help people.",
+        "They do experiments, they ask questions and they look for answers. Scientists discover new things every year. They discover new medicines, new planets and new ways of helping people.",
+        "They do experiments, ask questions and look for answers. Scientists discover new things every year. They discover new medicines, new planets and new ways to help people.",
+        "They make experiments, they ask questions and they look for answers. Scientists discover new things every year. They discover new medicines, new planets and new ways to help people."
       ],
-      "answer": "тарҷума: development"
+      "answer": "They do experiments, they ask questions and they look for answers. Scientists discover new things every year. They discover new medicines, new planets and new ways to help people."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Барои гирифтани дониш мо бояд таҳсил кунем. Таҳсил на ҳамеша осон аст, аммо он ҳамеша фоиданок аст. Мо бояд дар мактаб бо ҷидду ҷаҳд таҳсил кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: achievement"
+        "To get knowledge, we must study. Study is not always easy, but it is always useful. We must study hard at school.",
+        "To get knowledge we must study. Study is not always easy, but it is always useful. We must study hard at school.",
+        "To get knowledge, we must study. Study is not always easy but it is always useful. We must study hard at school.",
+        "To get knowledge, we must study. Study is not always easy, but it is always useful. We should study hard at school."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "To get knowledge, we must study. Study is not always easy, but it is always useful. We must study hard at school."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Мо бояд китобҳо хонем, вазифаи хонагиамонро иҷро кунем ва ба саволҳои муаллимамон ҷавоб диҳем. Мо бояд калимаҳои навро аз ёд кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "We must read books, do our homework and answer our teacher's questions. We must learn new words by heart.",
+        "We must read books, do our homework and answer the questions of our teacher. We must learn new words by heart.",
+        "We must read books, make our homework and answer our teacher's questions. We must learn new words by heart.",
+        "We must read books, do our homework and answer our teachers' questions. We must learn new words by heart."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "We must read books, do our homework and answer our teacher's questions. We must learn new words by heart."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Мо бояд он чиро, ки дирӯз омӯхтем, дар хотир нигоҳ дорем ва имрӯз истифода барем. Ва мо бояд ҳеҷ гоҳ фаромӯш накунем, ки таҳсил муҳимтарин вазифаи мост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: knowledge",
-        "нодуруст C",
-        "нодуруст A"
+        "We must remember what we learned yesterday and use it today. And we must never forget that study is our most important duty.",
+        "We must remember what we learned yesterday and use it today. And we must never forget that study is our most important duty.",
+        "We must remember what we learnt yesterday and use it today. And we must never forget that study is our most important duty.",
+        "We must remember what we learned yesterday and use it today. And we must never forget that study is the most important duty of ours."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "We must remember what we learned yesterday and use it today. And we must never forget that study is our most important duty."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Кӯдаки кунҷков кӯдакест, ки саволҳои зиёд мепурсад. Кунҷковӣ хислати хеле хуб аст. Вақте ки мо кунҷков ҳастем, мо мехоҳем бештар донем. Мо мехоҳем ҷаҳонро тадқиқ кунем. Мо мехоҳем чизҳои навро кашф кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: conversation",
-        "нодуруст B"
+        "A curious child is a child who asks many questions. Curiosity is a very good quality. When we are curious, we want to know more. We want to explore the world. We want to discover new things.",
+        "A curious child is a child who asks many questions. Curiosity is a very good quality. When we are curious we want to know more. We want to explore the world. We want to discover new things.",
+        "A curious child is a child that asks many questions. Curiosity is a very good quality. When we are curious, we want to know more. We want to explore the world. We want to discover new things.",
+        "A curious child is a child who asks many questions. Curiosity is a very good quality. When we are curious, we want to know more. We want to explore the world. We want to discover new things."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "A curious child is a child who asks many questions. Curiosity is a very good quality. When we are curious, we want to know more. We want to explore the world. We want to discover new things."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Муаллимам мегӯяд: \"Кӯдаки кунҷков олими оянда аст. Кӯдаки танбал нодони оянда аст.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: fluency",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "My teacher says: \"A curious child is a future scientist. A lazy child is a future fool.\"",
+        "My teacher says: \"A curious child is the future scientist. A lazy child is the future fool.\"",
+        "My teacher says: \"The curious child is a future scientist. The lazy child is a future fool.\"",
+        "My teacher says: \"A curious child is a future scientist. A lazy child is a future fool.\""
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "My teacher says: \"A curious child is a future scientist. A lazy child is a future fool.\""
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Майнаи мо муҳимтарин қисми бадани мост. Он ба мо дар фикр кардан, дар хотир нигоҳ доштан ва омӯхтан кӯмак мекунад. Барои қавӣ нигоҳ доштани майнаи худ мо бояд китоб хонем, чизҳои нав омӯзем ва ҳар рӯз ақли худро истифода барем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: confidence"
+        "Our brain is the most important part of our body. It helps us think, remember and learn. To keep our brain strong, we must read books, learn new things and use our mind every day.",
+        "Our brain is the most important part of our body. It helps us to think, remember and learn. To keep our brain strong, we must read books, learn new things and use our mind every day.",
+        "Our brain is the most important part of the body. It helps us think, remember and learn. To keep our brain strong, we must read books, learn new things and use our mind every day.",
+        "Our brain is the most important part of our body. It helps us think, remember and learn. To keep the brain strong, we must read books, learn new things and use our mind every day."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "Our brain is the most important part of our body. It helps us think, remember and learn. To keep our brain strong, we must read books, learn new things and use our mind every day."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Модарам мегӯяд: \"Майна мисли мушак аст. Агар шумо онро истифода баред, он қавӣ мешавад. Агар шумо онро истифода набаред, он заиф мешавад.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: pronunciation",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "My mother says: \"The brain is like a muscle. If you use it, it becomes strong. If you do not use it, it becomes weak.\"",
+        "My mother says: \"The brain is like a muscle. If you use it it becomes strong. If you do not use it, it becomes weak.\"",
+        "My mother says: \"The brain is like a muscle. If you use it, it becomes strong. If you don't use it, it becomes weak.\"",
+        "My mother says: \"The brain is like a muscle. If you use it, it becomes strong. If you do not use it it becomes weak.\""
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "My mother says: \"The brain is like a muscle. If you use it, it becomes strong. If you do not use it, it becomes weak.\""
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Хонандаи зеҳновар бо ҷидду ҷаҳд таҳсил мекунад ва савол медиҳад. Одами хирадманд дониши худро барои кӯмак кардан ба одамони дигар истифода мебарад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: vocabulary",
-        "нодуруст B",
-        "нодуруст C"
+        "A clever pupil studies hard and asks questions. A wise man uses his knowledge to help other people.",
+        "A clever pupil studies hard and asks questions. A wise man uses his knowledge to help other people.",
+        "The clever pupil studies hard and asks questions. The wise man uses his knowledge to help other people.",
+        "A clever pupil studies hard and asks questions. A wise man uses his knowledge for helping other people."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "A clever pupil studies hard and asks questions. A wise man uses his knowledge to help other people."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Мо ҳама бояд кӯшиш кунем, ки зеҳновар ва хирадманд бошем. Мо бояд дар мактаб бо ҷидду ҷаҳд таҳсил кунем ва дар хона китоб хонем. Мо бояд ба дӯстон ва оилаамон кӯмак кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: grammar",
-        "нодуруст B"
+        "We must all try to be clever and wise. We must study hard at school and read books at home. We must help our friends and family.",
+        "We all must try to be clever and wise. We must study hard at school and read books at home. We must help our friends and family.",
+        "We must all try to be clever and wise. We must study hard at school and read books at home. We must help our friends and our family.",
+        "We must all try to be clever and wise. We should study hard at school and read books at home. We must help our friends and family."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "We must all try to be clever and wise. We must study hard at school and read books at home. We must help our friends and family."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Мо бояд кишвар ва мардуми худро дӯст дорем. Ва мо бояд ба ёд дорем: дониш бузургтарин ганҷи ҳар як одам аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст A"
+        "We must love our country and our people. And we must remember: knowledge is the greatest treasure of every person.",
+        "We must love our country and our people. And we must remember: knowledge is the greatest treasure of every person.",
+        "We must love our country and people. And we must remember: knowledge is the greatest treasure of every person.",
+        "We must love our country and our people. And we must remember that knowledge is the greatest treasure of every person."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "We must love our country and our people. And we must remember: knowledge is the greatest treasure of every person."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам духтур шавам. Ман мехоҳам дониши худро барои кӯмак кардан ба одамони бемор истифода барам. Ман мехоҳам ҳар рӯз чизҳои навро омӯзам. Ман мехоҳам марди хирадманд бошам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: experience"
+        "When I grow up, I want to be a doctor. I want to use my knowledge to help sick people. I want to learn new things every day. I want to be a wise man.",
+        "When I grow up I want to be a doctor. I want to use my knowledge to help sick people. I want to learn new things every day. I want to be a wise man.",
+        "When I grow up, I want to become a doctor. I want to use my knowledge to help sick people. I want to learn new things every day. I want to be a wise man.",
+        "When I grow up, I want to be a doctor. I want to use my knowledge for helping sick people. I want to learn new things every day. I want to be a wise man."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "When I grow up, I want to be a doctor. I want to use my knowledge to help sick people. I want to learn new things every day. I want to be a wise man."
+    },
+    {
+      "q": "«Зеро ки марди хирадманд марди хушбахт аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Because a wise man is a happy man.",
+        "Because a wise man is a happy man.",
+        "Because the wise man is a happy man.",
+        "Because a wise man is the happy man."
+      ],
+      "answer": "Because a wise man is a happy man."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 32
+  "wordsCount": 16
 }
