@@ -1,536 +1,322 @@
 {
   "id": 78,
-  "title": "Муоширати воқеӣ 78",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 78: Муошират ва гуфтугӯ",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
       "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "tj": "гуфтугӯ",
+      "ex": "We had a long conversation yesterday."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "to greet",
+      "tj": "салом додан",
+      "ex": "I greet my teacher every morning."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "greeting",
+      "tj": "салом",
+      "ex": "A kind greeting makes people happy."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "politeness",
+      "tj": "адаб",
+      "ex": "Politeness is important in every country."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "to apologise",
+      "tj": "узр пурсидан",
+      "ex": "I apologise for my mistake."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "apology",
+      "tj": "узр",
+      "ex": "A sincere apology helps to make peace."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "to interrupt",
+      "tj": "халал расондан",
+      "ex": "Do not interrupt when someone is speaking."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "reply",
+      "tj": "посух",
+      "ex": "I am waiting for his reply."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "to chat",
+      "tj": "гуфтугӯ кардан",
+      "ex": "We chat about our day every evening."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "to disagree",
+      "tj": "розӣ нашудан",
+      "ex": "It is fine to disagree politely."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "opinion",
+      "tj": "фикр",
+      "ex": "Everyone has his own opinion."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "to express",
+      "tj": "ифода кардан",
+      "ex": "I express my opinion clearly."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "gesture",
+      "tj": "ишора",
+      "ex": "A friendly gesture helps in conversation."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to listen carefully",
+      "tj": "бодиққат гӯш кардан",
+      "ex": "A good friend listens carefully."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "to understand each other",
+      "tj": "якдигарро фаҳмидан",
+      "ex": "Good friends always understand each other."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "to be polite",
+      "tj": "боадаб будан",
+      "ex": "We must be polite to everyone."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 78)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "We had a long conversation yesterday.",
+      "tj": "Мо дирӯз гуфтугӯи дароз доштем."
     },
     {
-      "en": "I'm working on lesson 78",
-      "tj": "Ман дарси 78-ро меомӯзам"
+      "en": "I greet my teacher every morning.",
+      "tj": "Ман ҳар субҳ ба муаллимам салом медиҳам."
+    },
+    {
+      "en": "A kind greeting makes people happy.",
+      "tj": "Саломи меҳрубон одамонро хушбахт мекунад."
+    },
+    {
+      "en": "Politeness is important in every country.",
+      "tj": "Адаб дар ҳар кишвар муҳим аст."
+    },
+    {
+      "en": "I apologise for my mistake.",
+      "tj": "Ман барои хатои худ узр мепурсам."
+    },
+    {
+      "en": "A sincere apology helps to make peace.",
+      "tj": "Узри самимӣ ба оштӣ кардан кӯмак мекунад."
+    },
+    {
+      "en": "Do not interrupt when someone is speaking.",
+      "tj": "Вақте ки касе гап мезанад, халал нарасонед."
+    },
+    {
+      "en": "I am waiting for his reply.",
+      "tj": "Ман интизори посухи ӯ ҳастам."
+    },
+    {
+      "en": "We chat about our day every evening.",
+      "tj": "Мо ҳар бегоҳ дар бораи рӯзи худ гуфтугӯ мекунем."
+    },
+    {
+      "en": "It is fine to disagree politely.",
+      "tj": "Боадабона розӣ нашудан мумкин аст."
+    },
+    {
+      "en": "Everyone has his own opinion.",
+      "tj": "Ҳар кас фикри худро дорад."
+    },
+    {
+      "en": "I express my opinion clearly.",
+      "tj": "Ман фикри худро равшан ифода мекунам."
+    },
+    {
+      "en": "A friendly gesture helps in conversation.",
+      "tj": "Ишораи дӯстона дар гуфтугӯ кӯмак мекунад."
+    },
+    {
+      "en": "A good friend listens carefully.",
+      "tj": "Дӯсти хуб бодиққат гӯш мекунад."
+    },
+    {
+      "en": "Good friends always understand each other.",
+      "tj": "Дӯстони хуб ҳамеша якдигарро мефаҳманд."
+    },
+    {
+      "en": "We must be polite to everyone.",
+      "tj": "Мо бояд ба ҳама боадаб бошем."
     }
   ],
   "text": {
-    "en": "Text for lesson 78. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 78 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 78 text.",
-    "tj": "Матни дарси 78..."
+    "en": "Conversation and Communication\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. Every day we talk to many people: our family, our friends, our teachers and our neighbours. Good conversation helps us to understand each other. Today I want to tell you about conversation and communication.\n\nWhen we meet a person, we greet him. A greeting is a polite word at the beginning of a conversation. We say: \"Good morning!\" or \"Hello, how are you?\" A kind greeting makes people happy.\n\nPoliteness is very important in every conversation. We must say \"Please\" and \"Thank you\". We must listen carefully when another person is speaking. We must not interrupt him. When we want to say something, we must wait for our turn.\n\nSometimes we make mistakes and hurt other people. Then we must apologise. A sincere apology helps to make peace. A good person is not afraid to say: \"I am sorry.\"\n\nIn a conversation, everyone can have his own opinion. Sometimes we disagree. It is fine to disagree politely. We must say: \"I understand you, but I think differently.\" We must respect the opinion of other people.\n\nWe also use gestures and smiles to express our feelings. A friendly smile is a kind of silent greeting. A friendly gesture helps in every conversation.\n\nGood friends always understand each other. They listen carefully and share their news. They chat about their day, about school and about their dreams. My grandfather says: \"A good conversation is like a good meal: it makes your heart warm and happy.\"\n\nWe must be polite to everyone — to old people, to children and to our friends. Because politeness is the key to a good relationship.",
+    "tj": "Муошират ва гуфтугӯ\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Ҳар рӯз мо бо одамони зиёд гап мезанем: бо оилаамон, бо дӯстонамон, бо муаллимонамон ва бо ҳамсояҳоямон. Гуфтугӯи хуб ба мо дар фаҳмидани якдигар кӯмак мекунад. Имрӯз ман мехоҳам ба шумо дар бораи муошират ва гуфтугӯ нақл кунам.\n\nВақте ки мо бо одам вохӯрда мекунем, мо ба ӯ салом медиҳем. Салом калимаи боадабона дар оғози гуфтугӯ аст. Мо мегӯем: «Субҳ ба хайр!» ё «Салом, ҳолат чӣ хел?» Саломи меҳрубон одамонро хушбахт мекунад.\n\nАдаб дар ҳар як гуфтугӯ хеле муҳим аст. Мо бояд «Лутфан» ва «Ташаккур» гӯем. Мо бояд вақте ки одами дигар гап мезанад, бодиққат гӯш кунем. Мо набояд халал расонем. Вақте ки мо чизе гуфтан мехоҳем, мо бояд навбати худро интизор шавем.\n\nБаъзан мо хато мекунем ва одамони дигарро озор медиҳем. Он гоҳ мо бояд узр пурсем. Узри самимӣ ба оштӣ кардан кӯмак мекунад. Одами хуб аз гуфтани «Ман бубахшед» наметарсад.\n\nДар гуфтугӯ ҳар кас метавонад фикри худро дошта бошад. Баъзан мо розӣ намешавем. Боадабона розӣ нашудан мумкин аст. Мо бояд гӯем: «Ман туро мефаҳмам, аммо ман дигар тавр фикр мекунам.» Мо бояд фикри одамони дигарро эҳтиром кунем.\n\nМо инчунин ишораҳо ва табассумро барои ифодаи ҳиссиёти худ истифода мебарем. Табассуми дӯстона навъи саломи хомӯшона аст. Ишораи дӯстона дар ҳар гуфтугӯ кӯмак мекунад.\n\nДӯстони хуб ҳамеша якдигарро мефаҳманд. Онҳо бодиққат гӯш мекунанд ва хабарҳои худро тақсим мекунанд. Онҳо дар бораи рӯзи худ, дар бораи мактаб ва дар бораи орзуҳои худ гуфтугӯ мекунанд. Бобоям мегӯяд: «Гуфтугӯи хуб мисли ғизои хуб аст: дили шуморо гарм ва хушбахт мекунад.»\n\nМо бояд ба ҳама боадаб бошем — ба пиронсолон, ба кӯдакон ва ба дӯстонамон. Зеро ки адаб калиди муносибати хуб аст."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Мо дирӯз гуфтугӯи дароз доштем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст C"
+        "We had a long conversation yesterday.",
+        "We had a long conversation last day.",
+        "We had the long conversation yesterday.",
+        "We had a long talk yesterday."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "We had a long conversation yesterday."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман ҳар субҳ ба муаллимам салом медиҳам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "I greet my teacher every morning.",
+        "I greet the teacher every morning.",
+        "I greet my teacher each morning.",
+        "I say hello to my teacher every morning."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I greet my teacher every morning."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Саломи меҳрубон одамонро хушбахт мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст B"
+        "A kind greeting makes people happy.",
+        "A kind greeting makes the people happy.",
+        "The kind greeting makes people happy.",
+        "A kind greeting makes people glad."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "A kind greeting makes people happy."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Адаб дар ҳар кишвар муҳим аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "Politeness is important in every country.",
+        "The politeness is important in every country.",
+        "Politeness is important in each country.",
+        "Politeness is important in all countries."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "Politeness is important in every country."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ман барои хатои худ узр мепурсам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: education",
-        "нодуруст C"
+        "I apologise for my mistake.",
+        "I apologize for my mistake.",
+        "I apologise for the mistake.",
+        "I am sorry for my mistake."
       ],
-      "answer": "тарҷума: education"
+      "answer": "I apologise for my mistake."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Узри самимӣ ба оштӣ кардан кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: development"
+        "A sincere apology helps to make peace.",
+        "The sincere apology helps to make peace.",
+        "A sincere apology helps make peace.",
+        "A sincere apology helps in making peace."
       ],
-      "answer": "тарҷума: development"
+      "answer": "A sincere apology helps to make peace."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Вақте ки касе гап мезанад, халал нарасонед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: achievement",
-        "нодуруст B"
+        "Do not interrupt when someone is speaking.",
+        "Don't interrupt when someone is speaking.",
+        "Do not interrupt when somebody is speaking.",
+        "Do not interrupt when someone speaks."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "Do not interrupt when someone is speaking."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ман интизори посухи ӯ ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "I am waiting for his reply.",
+        "I wait for his reply.",
+        "I am waiting for the reply of him.",
+        "I am waiting for his answer."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "I am waiting for his reply."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Мо ҳар бегоҳ дар бораи рӯзи худ гуфтугӯ мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: knowledge"
+        "We chat about our day every evening.",
+        "We chat about our day each evening.",
+        "We talk about our day every evening.",
+        "We chat about the day every evening."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "We chat about our day every evening."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Боадабона розӣ нашудан мумкин аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "It is fine to disagree politely.",
+        "It is good to disagree politely.",
+        "It is fine to disagree polite.",
+        "It is fine to disagree in a polite way."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "It is fine to disagree politely."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ҳар кас фикри худро дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: fluency",
-        "нодуруст A"
+        "Everyone has his own opinion.",
+        "Everybody has his own opinion.",
+        "Everyone has their own opinion.",
+        "Every person has his own opinion."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "Everyone has his own opinion."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ман фикри худро равшан ифода мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "I express my opinion clearly.",
+        "I express my opinion clear.",
+        "I express the opinion clearly.",
+        "I say my opinion clearly."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "I express my opinion clearly."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Ишораи дӯстона дар гуфтугӯ кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: pronunciation"
+        "A friendly gesture helps in conversation.",
+        "The friendly gesture helps in conversation.",
+        "A friendly gesture helps in a conversation.",
+        "A friendly gesture helps during conversation."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "A friendly gesture helps in conversation."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Дӯсти хуб бодиққат гӯш мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: vocabulary",
-        "нодуруст B"
+        "A good friend listens carefully.",
+        "The good friend listens carefully.",
+        "A good friend listens with care.",
+        "A good friend hears carefully."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "A good friend listens carefully."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Дӯстони хуб ҳамеша якдигарро мефаҳманд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: grammar",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "Good friends always understand each other.",
+        "Good friends understand each other always.",
+        "The good friends always understand each other.",
+        "Good friends always understand one another."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "Good friends always understand each other."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Мо бояд ба ҳама боадаб бошем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "We must be polite to everyone.",
+        "We must be polite to everybody.",
+        "We should be polite to everyone.",
+        "We must be polite with everyone."
       ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "тарҷума: environment",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: education"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: development"
-    },
-    {
-      "q": "'achievement' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: achievement"
-    },
-    {
-      "q": "'challenge' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: challenge",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: challenge"
-    },
-    {
-      "q": "'knowledge' чи маъно дорад?",
-      "options": [
-        "тарҷума: knowledge",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: knowledge"
-    },
-    {
-      "q": "'conversation' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: conversation",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: conversation"
-    },
-    {
-      "q": "'fluency' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: fluency",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: fluency"
-    },
-    {
-      "q": "'confidence' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: pronunciation",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "тарҷума: vocabulary",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: grammar",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: opportunity",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: experience"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: communication",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: communication"
+      "answer": "We must be polite to everyone."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 34
+  "wordsCount": 16
 }
