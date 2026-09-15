@@ -1,506 +1,472 @@
 {
   "id": 74,
-  "title": "Муоширати воқеӣ 74",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 74: Мусиқии классикӣ ва эстрада",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "classical music",
+      "tj": "мусиқии классикӣ",
+      "ex": "My father loves classical music."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "pop music",
+      "tj": "мусиқии эстрада",
+      "ex": "Young people like pop music."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "singer",
+      "tj": "сароянда",
+      "ex": "The singer has a beautiful voice."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "band",
+      "tj": "гурӯҳи мусиқӣ",
+      "ex": "Our school band plays every Friday."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "stage",
+      "tj": "сахна",
+      "ex": "The singer stood on the stage."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "concert",
+      "tj": "концерт",
+      "ex": "We went to a concert in the evening."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "to perform",
+      "tj": "иҷро кардан",
+      "ex": "The band performs on the big stage."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "audience",
+      "tj": "тамошобин",
+      "ex": "The audience clapped after the song."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "applause",
+      "tj": "чапакзанӣ",
+      "ex": "There was loud applause in the hall."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "famous",
+      "tj": "машҳур",
+      "ex": "He is a famous Tajik singer."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "tune",
+      "tj": "оханг",
+      "ex": "This tune is very beautiful."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "to sound",
+      "tj": "садо додан",
+      "ex": "The violin sounds soft and warm."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "talented",
+      "tj": "боистеъдод",
+      "ex": "The young singer is very talented."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "to clap",
+      "tj": "чапак задан",
+      "ex": "The audience clapped loudly."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "record",
+      "tj": "сабт (диск)",
+      "ex": "I bought a new record of my favourite singer."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "to record",
+      "tj": "сабт кардан",
+      "ex": "The band recorded a new song yesterday."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 74)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "My father loves classical music and listens to it every evening.",
+      "tj": "Падарам мусиқии классикиро дӯст медорад ва ҳар бегоҳ ба он гӯш мекунад."
     },
     {
-      "en": "I'm working on lesson 74",
-      "tj": "Ман дарси 74-ро меомӯзам"
+      "en": "Young people like pop music and dance to it.",
+      "tj": "Ҷавонон мусиқии эстрадаро дӯст медоранд ва ба он рақс мекунанд."
+    },
+    {
+      "en": "The singer has a beautiful voice and sings very well.",
+      "tj": "Сароянда овози зебо дорад ва хеле хуб суруд мехонад."
+    },
+    {
+      "en": "Our school band plays every Friday on the small stage.",
+      "tj": "Гурӯҳи мусиқии мактаби мо ҳар ҷумъа дар саҳнаи хурд менавозад."
+    },
+    {
+      "en": "The singer stood on the stage and sang a beautiful song.",
+      "tj": "Сароянда дар саҳна истод ва суруди зебо хонд."
+    },
+    {
+      "en": "We went to a concert in the evening and enjoyed the music.",
+      "tj": "Мо бегоҳ ба концерт рафтем ва аз мусиқӣ лаззат бурдем."
+    },
+    {
+      "en": "The band performs on the big stage in front of many people.",
+      "tj": "Гурӯҳи мусиқӣ дар саҳнаи калон дар назди одамони зиёд иҷро мекунад."
+    },
+    {
+      "en": "The audience clapped loudly after the beautiful song.",
+      "tj": "Тамошобин баъд аз суруди зебо баланд чапак заданд."
+    },
+    {
+      "en": "There was loud applause in the concert hall.",
+      "tj": "Дар толори концерт чапакзании баланд буд."
+    },
+    {
+      "en": "He is a famous Tajik singer and everybody knows his songs.",
+      "tj": "Ӯ сарояндаи машҳури тоҷик аст ва ҳама сурудҳояшро медонанд."
+    },
+    {
+      "en": "This tune is very beautiful and I want to learn it.",
+      "tj": "Ин оханг хеле зебо аст ва ман мехоҳам онро омӯзам."
+    },
+    {
+      "en": "The violin sounds soft and warm in the evening.",
+      "tj": "Скрипка бегоҳ нарм ва гарм садо медиҳад."
+    },
+    {
+      "en": "The young singer is very talented and hard-working.",
+      "tj": "Сарояндаи ҷавон хеле боистеъдод ва меҳнатдӯст аст."
+    },
+    {
+      "en": "The audience clapped and shouted: \"Bravo!\"",
+      "tj": "Тамошобин чапак заданд ва фарёд карданд: \"Браво!\""
+    },
+    {
+      "en": "I bought a new record of my favourite singer yesterday.",
+      "tj": "Ман дирӯз сабти нави сарояндаи дӯстдоштаамро харидам."
+    },
+    {
+      "en": "The band recorded a new song in the studio last week.",
+      "tj": "Гурӯҳи мусиқӣ ҳафтаи гузашта дар студия суруди нав сабт кард."
     }
   ],
   "text": {
-    "en": "Text for lesson 74. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 74 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 74 text.",
-    "tj": "Матни дарси 74..."
+    "en": "Classical Music and Pop Music\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. Music is a very important part of our life. We listen to music at home, at school and in the streets. Today I want to tell you about classical music and pop music.\n\nClassical music is very old and very beautiful. My father loves classical music very much. Every evening he listens to classical music and reads a book. He says: \"Classical music helps me to relax and to think.\" My favourite classical instrument is the violin. The violin sounds soft and warm. When I listen to the violin, I feel calm and happy.\n\nPop music is modern and very popular. Young people like pop music very much. My sister Zuhro loves pop music. She listens to pop songs every morning and knows all the new tunes. She says: \"Pop music gives me energy and makes me happy.\"\n\nThe singer is the main person in any song. A good singer has a beautiful voice and a kind heart. He sings about love, about life and about his country. My favourite singer is a famous Tajik singer. He is very talented and everybody knows his songs. When he performs on the stage, the audience always claps loudly.\n\nThe band is a group of musicians who play together. Our school band has five pupils: two guitar players, one drummer and two singers. They perform on the small stage every Friday. When they play, the whole school listens to them. Last week they recorded a new song in the school studio.\n\nA concert is a special event where musicians perform for the audience. Last month my family and I went to a big concert in the theatre. We saw many famous singers and bands. The concert hall was full of people. The audience clapped and shouted \"Bravo!\" after every song. There was loud applause in the hall all evening.\n\nMusic helps us in many ways. When we are sad, music makes us happy. When we are tired, music gives us energy. When we are happy, music makes us even happier. My grandmother says: \"Good music is like a good friend. It is always with you.\"\n\nWhen I grow up, I want to be a doctor. But I also want to learn to play the violin. I want to play beautiful classical music for my family and friends. And I want to listen to good music all my life. Because music is the language of the soul.",
+    "tj": "Мусиқии классикӣ ва эстрада\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Мусиқӣ қисми хеле муҳими ҳаёти мост. Мо дар хона, дар мактаб ва дар кӯчаҳо ба мусиқӣ гӯш мекунем. Имрӯз ман мехоҳам ба шумо дар бораи мусиқии классикӣ ва эстрада нақл кунам.\n\nМусиқии классикӣ хеле қадимӣ ва хеле зебо аст. Падарам мусиқии классикиро хеле дӯст медорад. Ҳар бегоҳ ӯ ба мусиқии классикӣ гӯш мекунад ва китоб мехонад. Ӯ мегӯяд: «Мусиқии классикӣ ба ман дар ором шудан ва фикр кардан кӯмак мекунад.» Асбоби классикии дӯстдоштаи ман скрипка аст. Скрипка нарм ва гарм садо медиҳад. Вақте ки ман ба скрипка гӯш мекунам, ман худро ором ва хушбахт ҳис мекунам.\n\nМусиқии эстрада муосир ва хеле машҳур аст. Ҷавонон мусиқии эстрадаро хеле дӯст медоранд. Хоҳарам Зуҳро мусиқии эстрадаро дӯст медорад. Ӯ ҳар субҳ ба сурудҳои эстрада гӯш мекунад ва ҳамаи охангҳои навро медонад. Ӯ мегӯяд: «Мусиқии эстрада ба ман қувват медиҳад ва маро хушбахт мекунад.»\n\nСароянда шахси асосӣ дар ҳар як суруд аст. Сарояндаи хуб овози зебо ва дили меҳрубон дорад. Ӯ дар бораи муҳаббат, дар бораи ҳаёт ва дар бораи кишвари худ суруд мехонад. Сарояндаи дӯстдоштаи ман сарояндаи машҳури тоҷик аст. Ӯ хеле боистеъдод аст ва ҳама сурудҳояшро медонанд. Вақте ки ӯ дар саҳна иҷро мекунад, тамошобин ҳамеша баланд чапак мезанад.\n\nГурӯҳи мусиқӣ гурӯҳи мусиқачиёнест, ки якҷоя менавозад. Гурӯҳи мусиқии мактаби мо панҷ хонанда дорад: ду гитаранавоз, як нақоранавоз ва ду сароянда. Онҳо ҳар ҷумъа дар саҳнаи хурд иҷро мекунанд. Вақте ки онҳо менавозад, тамоми мактаб ба онҳо гӯш мекунад. Ҳафтаи гузашта онҳо дар студияи мактаб суруди нав сабт карданд.\n\nКонцерт чорабинии махсусест, ки дар он мусиқачиён барои тамошобин иҷро мекунанд. Моҳи гузашта ман ва оилаам ба концерти калон дар театр рафтем. Мо сарояндагон ва гурӯҳҳои мусиқии машҳури зиёдро дидем. Толори концерт пур аз мардум буд. Тамошобин баъд аз ҳар як суруд чапак заданд ва фарёд карданд: «Браво!» Тамоми бегоҳ дар толор чапакзании баланд буд.\n\nМусиқӣ ба мо дар корҳои зиёд кӯмак мекунад. Вақте ки мо ғамгин ҳастем, мусиқӣ моро хушбахт мекунад. Вақте ки мо хаста ҳастем, мусиқӣ ба мо қувват медиҳад. Вақте ки мо хушбахт ҳастем, мусиқӣ моро боз ҳам хушбахттар мекунад. Бибиам мегӯяд: «Мусиқии хуб мисли дӯсти хуб аст. Он ҳамеша бо шумост.»\n\nВақте ки ман калон мешавам, ман мехоҳам духтур шавам. Аммо ман инчунин мехоҳам навохтани скрипкаро омӯзам. Ман мехоҳам барои оила ва дӯстонам мусиқии зебои классикӣ навозаи. Ва ман мехоҳам тамоми умрам ба мусиқии хуб гӯш кунам. Зеро ки мусиқӣ забони ҷон аст."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Падарам мусиқии классикиро дӯст медорад ва ҳар бегоҳ ба он гӯш мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: opportunity"
+        "My father loves classical music and listens to it every evening.",
+        "My father loves classical music and listens to it each evening.",
+        "My father loves the classical music and listens to it every evening.",
+        "My father likes classical music and listens to it every evening."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "My father loves classical music and listens to it every evening."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ҷавонон мусиқии эстрадаро дӯст медоранд ва ба он рақс мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст C"
+        "Young people like pop music and dance to it.",
+        "Young people like pop music and dance it.",
+        "The young people like pop music and dance to it.",
+        "Young people love pop music and dance to it."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "Young people like pop music and dance to it."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Сароянда овози зебо дорад ва хеле хуб суруд мехонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "The singer has a beautiful voice and sings very well.",
+        "The singer has a beautiful voice and sings very good.",
+        "A singer has a beautiful voice and sings very well.",
+        "The singer has beautiful voice and sings very well."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "The singer has a beautiful voice and sings very well."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Гурӯҳи мусиқии мактаби мо ҳар ҷумъа дар саҳнаи хурд менавозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст B",
-        "нодуруст A"
+        "Our school band plays every Friday on the small stage.",
+        "Our school band plays every Friday on a small stage.",
+        "Our school band plays each Friday on the small stage.",
+        "Our school band plays every Friday at the small stage."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "Our school band plays every Friday on the small stage."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Сароянда дар саҳна истод ва суруди зебо хонд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: education"
+        "The singer stood on the stage and sang a beautiful song.",
+        "The singer stood on the stage and sang the beautiful song.",
+        "A singer stood on the stage and sang a beautiful song.",
+        "The singer stood at the stage and sang a beautiful song."
       ],
-      "answer": "тарҷума: education"
+      "answer": "The singer stood on the stage and sang a beautiful song."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Мо бегоҳ ба концерт рафтем ва аз мусиқӣ лаззат бурдем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: development"
+        "We went to a concert in the evening and enjoyed the music.",
+        "We went to the concert in the evening and enjoyed the music.",
+        "We went to a concert in the evening and enjoyed music.",
+        "We went to a concert in the evening and enjoyed the music."
       ],
-      "answer": "тарҷума: development"
+      "answer": "We went to a concert in the evening and enjoyed the music."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Гурӯҳи мусиқӣ дар саҳнаи калон дар назди одамони зиёд иҷро мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: achievement",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The band performs on the big stage in front of many people.",
+        "The band performs on a big stage in front of many people.",
+        "The band performs at the big stage in front of many people.",
+        "The band performs on the big stage in front of a lot of people."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The band performs on the big stage in front of many people."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Тамошобин баъд аз суруди зебо баланд чапак заданд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The audience clapped loudly after the beautiful song.",
+        "The audience clapped loudly after a beautiful song.",
+        "The audience clapped loud after the beautiful song.",
+        "The audience clapped loudly before the beautiful song."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The audience clapped loudly after the beautiful song."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Дар толори концерт чапакзании баланд буд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: knowledge",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "There was loud applause in the concert hall.",
+        "There was a loud applause in the concert hall.",
+        "There was loud applause in the concert hall.",
+        "There was loud applause at the concert hall."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "There was loud applause in the concert hall."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Ӯ сарояндаи машҳури тоҷик аст ва ҳама сурудҳояшро медонанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: conversation"
+        "He is a famous Tajik singer and everybody knows his songs.",
+        "He is a famous Tajik singer and everyone knows his songs.",
+        "He is the famous Tajik singer and everybody knows his songs.",
+        "He is a famous Tajik singer and everybody knows the songs of him."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "He is a famous Tajik singer and everybody knows his songs."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ин оханг хеле зебо аст ва ман мехоҳам онро омӯзам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: fluency"
+        "This tune is very beautiful and I want to learn it.",
+        "This tune is very beautiful and I want to learn it.",
+        "The tune is very beautiful and I want to learn it.",
+        "This tune is very nice and I want to learn it."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "This tune is very beautiful and I want to learn it."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Скрипка бегоҳ нарм ва гарм садо медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: confidence",
-        "нодуруст B",
-        "нодуруст A"
+        "The violin sounds soft and warm in the evening.",
+        "The violin sounds soft and warm in the evenings.",
+        "A violin sounds soft and warm in the evening.",
+        "The violin sounds softly and warmly in the evening."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "The violin sounds soft and warm in the evening."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Сарояндаи ҷавон хеле боистеъдод ва меҳнатдӯст аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: pronunciation",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "The young singer is very talented and hard-working.",
+        "A young singer is very talented and hard-working.",
+        "The young singer is very talented and hardworking.",
+        "The young singer is very talented and very hard-working."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "The young singer is very talented and hard-working."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Тамошобин чапак заданд ва фарёд карданд: \"Браво!\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: vocabulary",
-        "нодуруст A"
+        "The audience clapped and shouted: \"Bravo!\"",
+        "The audience clapped and shouted \"Bravo!\"",
+        "The audience clapped and cried: \"Bravo!\"",
+        "The audience clapped and shouted: \"Well done!\""
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "The audience clapped and shouted: \"Bravo!\""
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ман дирӯз сабти нави сарояндаи дӯстдоштаамро харидам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: grammar"
+        "I bought a new record of my favourite singer yesterday.",
+        "I bought a new record of my favourite singer last day.",
+        "I bought the new record of my favourite singer yesterday.",
+        "I bought a new record of my favourite singer yesterday."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "I bought a new record of my favourite singer yesterday."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Гурӯҳи мусиқӣ ҳафтаи гузашта дар студия суруди нав сабт кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст A",
-        "нодуруст C"
+        "The band recorded a new song in the studio last week.",
+        "The band recorded a new song in a studio last week.",
+        "The band recorded the new song in the studio last week.",
+        "The band recorded a new song at the studio last week."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "The band recorded a new song in the studio last week."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Мусиқӣ қисми хеле муҳими ҳаёти мост. Мо дар хона, дар мактаб ва дар кӯчаҳо ба мусиқӣ гӯш мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: experience"
+        "Music is a very important part of our life. We listen to music at home, at school and in the streets.",
+        "Music is a very important part of our life. We listen to music at home, at school and in streets.",
+        "The music is a very important part of our life. We listen to music at home, at school and in the streets.",
+        "Music is the very important part of our life. We listen to music at home, at school and in the streets."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "Music is a very important part of our life. We listen to music at home, at school and in the streets."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Имрӯз ман мехоҳам ба шумо дар бораи мусиқии классикӣ ва эстрада нақл кунам. Мусиқии классикӣ хеле қадимӣ ва хеле зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст C"
+        "Today I want to tell you about classical music and pop music. Classical music is very old and very beautiful.",
+        "Today I want to tell you about classical music and pop music. The classical music is very old and very beautiful.",
+        "Today I want to tell you about the classical music and pop music. Classical music is very old and very beautiful.",
+        "Today I want to tell you about classical music and pop music. Classical music is very ancient and very beautiful."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Today I want to tell you about classical music and pop music. Classical music is very old and very beautiful."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Падарам мусиқии классикиро хеле дӯст медорад. Ҳар бегоҳ ӯ ба мусиқии классикӣ гӯш мекунад ва китоб мехонад. Ӯ мегӯяд: \"Мусиқии классикӣ ба ман дар ором шудан ва фикр кардан кӯмак мекунад.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: communication"
+        "My father loves classical music very much. Every evening he listens to classical music and reads a book. He says: \"Classical music helps me to relax and to think.\"",
+        "My father loves classical music very much. Every evening he listens to classical music and reads a book. He says: \"Classical music helps me relax and to think.\"",
+        "My father loves classical music very much. Every evening he listens to classical music and reads the book. He says: \"Classical music helps me to relax and to think.\"",
+        "My father loves classical music very much. Every evening he listens to classical music and reads a book. He tells: \"Classical music helps me to relax and to think.\""
       ],
-      "answer": "тарҷума: communication"
+      "answer": "My father loves classical music very much. Every evening he listens to classical music and reads a book. He says: \"Classical music helps me to relax and to think.\""
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Асбоби классикии дӯстдоштаи ман скрипка аст. Скрипка нарм ва гарм садо медиҳад. Вақте ки ман ба скрипка гӯш мекунам, ман худро ором ва хушбахт ҳис мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: education",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "My favourite classical instrument is the violin. The violin sounds soft and warm. When I listen to the violin, I feel calm and happy.",
+        "My favourite classical instrument is the violin. The violin sounds soft and warm. When I listen to the violin I feel calm and happy.",
+        "My favourite classical instrument is a violin. The violin sounds soft and warm. When I listen to the violin, I feel calm and happy.",
+        "My favourite classical instrument is the violin. The violin sounds soft and warm. When I listen to a violin, I feel calm and happy."
       ],
-      "answer": "тарҷума: education"
+      "answer": "My favourite classical instrument is the violin. The violin sounds soft and warm. When I listen to the violin, I feel calm and happy."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Мусиқии эстрада муосир ва хеле машҳур аст. Ҷавонон мусиқии эстрадаро хеле дӯст медоранд. Хоҳарам Зуҳро мусиқии эстрадаро дӯст медорад. Ӯ ҳар субҳ ба сурудҳои эстрада гӯш мекунад ва ҳамаи охангҳои навро медонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст C",
-        "нодуруст A"
+        "Pop music is modern and very popular. Young people like pop music very much. My sister Zuhro loves pop music. She listens to pop songs every morning and knows all the new tunes.",
+        "Pop music is modern and very popular. Young people like pop music very much. My sister Zuhro loves pop music. She listens to pop songs every morning and knows all new tunes.",
+        "Pop music is modern and very popular. The young people like pop music very much. My sister Zuhro loves pop music. She listens to pop songs every morning and knows all the new tunes.",
+        "Pop music is modern and very popular. Young people like pop music very much. My sister Zuhro loves the pop music. She listens to pop songs every morning and knows all the new tunes."
       ],
-      "answer": "тарҷума: development"
+      "answer": "Pop music is modern and very popular. Young people like pop music very much. My sister Zuhro loves pop music. She listens to pop songs every morning and knows all the new tunes."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ӯ мегӯяд: \"Мусиқии эстрада ба ман қувват медиҳад ва маро хушбахт мекунад.\" Сароянда шахси асосӣ дар ҳар як суруд аст. Сарояндаи хуб овози зебо ва дили меҳрубон дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "She says: \"Pop music gives me energy and makes me happy.\" The singer is the main person in any song. A good singer has a beautiful voice and a kind heart.",
+        "She says: \"Pop music gives me energy and makes me happy.\" The singer is the main person in any song. The good singer has a beautiful voice and a kind heart.",
+        "She says: \"Pop music gives me energy and makes me happy.\" The singer is the main person in every song. A good singer has a beautiful voice and a kind heart.",
+        "She says: \"Pop music gives me energy and makes me happy.\" A singer is the main person in any song. A good singer has a beautiful voice and a kind heart."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "She says: \"Pop music gives me energy and makes me happy.\" The singer is the main person in any song. A good singer has a beautiful voice and a kind heart."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ӯ дар бораи муҳаббат, дар бораи ҳаёт ва дар бораи кишвари худ суруд мехонад. Сарояндаи дӯстдоштаи ман сарояндаи машҳури тоҷик аст. Ӯ хеле боистеъдод аст ва ҳама сурудҳояшро медонанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: challenge",
-        "нодуруст A"
+        "He sings about love, about life and about his country. My favourite singer is a famous Tajik singer. He is very talented and everybody knows his songs.",
+        "He sings about love, about life and his country. My favourite singer is a famous Tajik singer. He is very talented and everybody knows his songs.",
+        "He sings about love, about life and about his country. My favourite singer is the famous Tajik singer. He is very talented and everybody knows his songs.",
+        "He sings about love, about the life and about his country. My favourite singer is a famous Tajik singer. He is very talented and everybody knows his songs."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "He sings about love, about life and about his country. My favourite singer is a famous Tajik singer. He is very talented and everybody knows his songs."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Вақте ки ӯ дар саҳна иҷро мекунад, тамошобин ҳамеша баланд чапак мезанад. Гурӯҳи мусиқӣ гурӯҳи мусиқачиёнест, ки якҷоя менавозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: knowledge",
-        "нодуруст C"
+        "When he performs on the stage, the audience always claps loudly. A band is a group of musicians who play together.",
+        "When he performs on the stage the audience always claps loudly. A band is a group of musicians who play together.",
+        "When he performs on the stage, the audience always claps loud. A band is a group of musicians who play together.",
+        "When he performs on the stage, the audience always claps loudly. The band is a group of musicians who play together."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "When he performs on the stage, the audience always claps loudly. A band is a group of musicians who play together."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Гурӯҳи мусиқии мактаби мо панҷ хонанда дорад: ду гитаранавоз, як нақоранавоз ва ду сароянда. Онҳо ҳар ҷумъа дар саҳнаи хурд иҷро мекунанд. Вақте ки онҳо менавозад, тамоми мактаб ба онҳо гӯш мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: conversation",
-        "нодуруст A"
+        "Our school band has five pupils: two guitar players, one drummer and two singers. They perform on the small stage every Friday. When they play, the whole school listens to them.",
+        "Our school band has five pupils: two guitar players, one drummer and two singers. They perform on the small stage every Friday. When they play the whole school listens to them.",
+        "Our school band has five pupils: two guitar players, a drummer and two singers. They perform on the small stage every Friday. When they play, the whole school listens to them.",
+        "Our school band has five pupils: two guitar players, one drummer and two singers. They perform on a small stage every Friday. When they play, the whole school listens to them."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "Our school band has five pupils: two guitar players, one drummer and two singers. They perform on the small stage every Friday. When they play, the whole school listens to them."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ҳафтаи гузашта онҳо дар студияи мактаб суруди нав сабт карданд. Концерт чорабинии махсусест, ки дар он мусиқачиён барои тамошобин иҷро мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: fluency",
-        "нодуруст C",
-        "нодуруст B"
+        "Last week they recorded a new song in the school studio. A concert is a special event where musicians perform for the audience.",
+        "Last week they recorded a new song in the school studio. The concert is a special event where musicians perform for the audience.",
+        "Last week they recorded a new song at the school studio. A concert is a special event where musicians perform for the audience.",
+        "Last week they recorded the new song in the school studio. A concert is a special event where musicians perform for the audience."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "Last week they recorded a new song in the school studio. A concert is a special event where musicians perform for the audience."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Моҳи гузашта ман ва оилаам ба концерти калон дар театр рафтем. Мо сарояндагон ва гурӯҳҳои мусиқии машҳури зиёдро дидем. Толори концерт пур аз мардум буд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "Last month my family and I went to a big concert in the theatre. We saw many famous singers and bands. The concert hall was full of people.",
+        "Last month my family and I went to a big concert in the theatre. We saw many famous singers and bands. The concert hall was full of people.",
+        "Last month my family and I went to a big concert at the theatre. We saw many famous singers and bands. The concert hall was full of people.",
+        "Last month my family and I went to the big concert in the theatre. We saw many famous singers and bands. The concert hall was full of people."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "Last month my family and I went to a big concert in the theatre. We saw many famous singers and bands. The concert hall was full of people."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Тамошобин баъд аз ҳар як суруд чапак заданд ва фарёд карданд: \"Браво!\" Тамоми бегоҳ дар толор чапакзании баланд буд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: pronunciation",
-        "нодуруст C"
+        "The audience clapped and shouted \"Bravo!\" after every song. There was loud applause in the hall all evening.",
+        "The audience clapped and shouted \"Bravo!\" after every song. There was a loud applause in the hall all evening.",
+        "The audience clapped and shouted: \"Bravo!\" after every song. There was loud applause in the hall all evening.",
+        "The audience clapped and shouted \"Bravo!\" after each song. There was loud applause in the hall all evening."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "The audience clapped and shouted \"Bravo!\" after every song. There was loud applause in the hall all evening."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Мусиқӣ ба мо дар корҳои зиёд кӯмак мекунад. Вақте ки мо ғамгин ҳастем, мусиқӣ моро хушбахт мекунад. Вақте ки мо хаста ҳастем, мусиқӣ ба мо қувват медиҳад. Вақте ки мо хушбахт ҳастем, мусиқӣ моро боз ҳам хушбахттар мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: vocabulary"
+        "Music helps us in many ways. When we are sad, music makes us happy. When we are tired, music gives us energy. When we are happy, music makes us even happier.",
+        "Music helps us in many ways. When we are sad music makes us happy. When we are tired, music gives us energy. When we are happy, music makes us even happier.",
+        "Music helps us in many ways. When we are sad, music makes us happy. When we are tired music gives us energy. When we are happy, music makes us even happier.",
+        "Music helps us in many ways. When we are sad, music makes us happy. When we are tired, music gives us energy. When we are happy music makes us even happier."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "Music helps us in many ways. When we are sad, music makes us happy. When we are tired, music gives us energy. When we are happy, music makes us even happier."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Бибиам мегӯяд: \"Мусиқии хуб мисли дӯсти хуб аст. Он ҳамеша бо шумост.\" Вақте ки ман калон мешавам, ман мехоҳам духтур шавам. Аммо ман инчунин мехоҳам навохтани скрипкаро омӯзам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: grammar",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "My grandmother says: \"Good music is like a good friend. It is always with you.\" When I grow up, I want to be a doctor. But I also want to learn to play the violin.",
+        "My grandmother says: \"Good music is like a good friend. It is always with you.\" When I grow up I want to be a doctor. But I also want to learn to play the violin.",
+        "My grandmother says: \"The good music is like a good friend. It is always with you.\" When I grow up, I want to be a doctor. But I also want to learn to play the violin.",
+        "My grandmother says: \"Good music is like a good friend. It is always with you.\" When I grow up, I want to become a doctor. But I also want to learn to play the violin."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "My grandmother says: \"Good music is like a good friend. It is always with you.\" When I grow up, I want to be a doctor. But I also want to learn to play the violin."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ман мехоҳам барои оила ва дӯстонам мусиқии зебои классикӣ навозаи. Ва ман мехоҳам тамоми умрам ба мусиқии хуб гӯш кунам. Зеро ки мусиқӣ забони ҷон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "I want to play beautiful classical music for my family and friends. And I want to listen to good music all my life. Because music is the language of the soul.",
+        "I want to play beautiful classical music for my family and friends. And I want to listen to good music all my life. Because music is the language of the soul.",
+        "I want to play beautiful classical music for my family and my friends. And I want to listen to good music all my life. Because music is the language of the soul.",
+        "I want to play the beautiful classical music for my family and friends. And I want to listen to good music all my life. Because music is the language of the soul."
       ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: experience"
-      ],
-      "answer": "тарҷума: experience"
+      "answer": "I want to play beautiful classical music for my family and friends. And I want to listen to good music all my life. Because music is the language of the soul."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 32
+  "wordsCount": 16
 }
