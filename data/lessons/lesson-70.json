@@ -1,491 +1,632 @@
 {
   "id": 70,
-  "title": "Муоширати воқеӣ 70",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 70: Китобхона ва мутолиа",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "library",
+      "tj": "китобхона",
+      "ex": "Our school library is very big."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "librarian",
+      "tj": "китобдор",
+      "ex": "The librarian helps us find books."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "shelf",
+      "tj": "раф",
+      "ex": "There are many shelves in the library."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "novel",
+      "tj": "роман",
+      "ex": "I am reading an interesting novel."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "poem",
+      "tj": "шеър",
+      "ex": "My sister knows many poems by heart."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "fairy tale",
+      "tj": "афсона",
+      "ex": "My mother reads fairy tales to my brother."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "author",
+      "tj": "муаллиф",
+      "ex": "Who is the author of this book?"
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "character",
+      "tj": "қаҳрамон",
+      "ex": "My favourite character is a small boy."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "plot",
+      "tj": "сюжет",
+      "ex": "The plot of this story is very interesting."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to borrow",
+      "tj": "қарз гирифтан",
+      "ex": "I borrow books from the library."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "to return",
+      "tj": "баргардондан",
+      "ex": "I return the books to the library."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "encyclopedia",
+      "tj": "энциклопедия",
+      "ex": "We look for information in the encyclopedia."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "dictionary",
+      "tj": "луғат",
+      "ex": "I use a dictionary to find new words."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "to read aloud",
+      "tj": "баланд хондан",
+      "ex": "The teacher reads the text aloud."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to read by heart",
+      "tj": "аз ёд хондан",
+      "ex": "I know this poem by heart."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "wisdom of books",
+      "tj": "хиради китобҳо",
+      "ex": "The wisdom of books helps us in life."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 70)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Our school library is very big and quiet.",
+      "tj": "Китобхонаи мактаби мо хеле калон ва ором аст."
     },
     {
-      "en": "I'm working on lesson 70",
-      "tj": "Ман дарси 70-ро меомӯзам"
+      "en": "The librarian helps us find interesting books.",
+      "tj": "Китобдор ба мо дар ёфтани китобҳои ҷолиб кӯмак мекунад."
+    },
+    {
+      "en": "There are many shelves with books in the library.",
+      "tj": "Дар китобхона рафҳои зиёд бо китобҳо ҳастанд."
+    },
+    {
+      "en": "I am reading an interesting novel about nature.",
+      "tj": "Ман романи ҷолиб дар бораи табиат мехонам."
+    },
+    {
+      "en": "My sister knows many poems by heart.",
+      "tj": "Хоҳарам шеърҳои зиёдро аз ёд медонад."
+    },
+    {
+      "en": "My mother reads fairy tales to my little brother.",
+      "tj": "Модарам барои бародари хурдиам афсонаҳо мехонад."
+    },
+    {
+      "en": "Who is the author of this book?",
+      "tj": "Муаллифи ин китоб кист?"
+    },
+    {
+      "en": "My favourite character is a small boy who lives in a village.",
+      "tj": "Қаҳрамони дӯстдоштаи ман писари хурдест, ки дар деҳа зиндагӣ мекунад."
+    },
+    {
+      "en": "The plot of this story is very interesting.",
+      "tj": "Сюжети ин ҳикоя хеле ҷолиб аст."
+    },
+    {
+      "en": "I borrow books from the library every week.",
+      "tj": "Ман ҳар ҳафта аз китобхона китобҳо қарз мегирам."
+    },
+    {
+      "en": "I return the books to the library on time.",
+      "tj": "Ман китобҳоро сари вақт ба китобхона бармегардонам."
+    },
+    {
+      "en": "We look for information in the encyclopedia.",
+      "tj": "Мо дар энциклопедия маълумот меҷӯем."
+    },
+    {
+      "en": "I use a dictionary to find new words.",
+      "tj": "Ман барои ёфтани калимаҳои нав луғат истифода мебарам."
+    },
+    {
+      "en": "The teacher reads the text aloud and we listen carefully.",
+      "tj": "Муаллим матнро баланд мехонад ва мо бодиққат гӯш мекунем."
+    },
+    {
+      "en": "I know this poem by heart.",
+      "tj": "Ман ин шеърро аз ёд медонам."
+    },
+    {
+      "en": "The wisdom of books helps us in life.",
+      "tj": "Хиради китобҳо дар ҳаёт ба мо кӯмак мекунад."
     }
   ],
   "text": {
-    "en": "Text for lesson 70. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 70 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 70 text.",
-    "tj": "Матни дарси 70..."
+    "en": "The Library and Reading\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. I love books very much. My parents taught me to read when I was five years old, and since that time books have been my best friends. Today I want to tell you about the library and about reading.\n\nA library is a place where many books are kept. Our school library is big and quiet. It has many shelves with books on them. On the shelves there are fairy tales, novels, poems, encyclopedias and dictionaries. There are books about animals, about nature, about history and about foreign countries. There are also books in English and in Russian. We can read books at the library or we can borrow them and take them home.\n\nThe librarian is a very kind woman. She knows all the books in our library. When I come to the library, she always helps me to find an interesting book. She says: \"A library is a treasure house. Every book here is a treasure. Take it, read it and it will make you richer.\"\n\nI borrow books from the library every week. I always return them on time, because other pupils are also waiting for them. A good reader always returns books on time. When I do not return a book on time, the librarian cannot give it to another reader. This is not fair. My mother says: \"A borrowed book is not yours. Take care of it as if it were your own, and return it as if it were a stranger's.\"\n\nWhen I read a book, I always pay attention to the author. The author is a person who wrote the book. My favourite author is a Tajik writer who wrote many stories about children. He understands children very well and he writes about their lives, their dreams and their problems. I also love books by foreign authors — I have read many interesting stories about English and American children.\n\nThe main character of a book is called the hero. The hero is usually a good person who does good things. In one of my favourite books, the hero is a small boy who lives in a village with his grandmother. He loves nature very much and he helps everyone. He is kind, clever and brave. I want to be like him. A good hero teaches us how to be a good person.\n\nThe plot of a book is the story itself — what happens from the beginning to the end. Some plots are simple and some are difficult. Some books have happy endings and some have sad endings. My grandmother says: \"A book with a sad ending is not always a bad book. Sometimes sad books teach us more than happy books.\"\n\nThere are different ways to read a book. We can read it aloud, when we say every word. We can read it silently, when we read only with our eyes. We can read it by heart, when we learn the text and can say it without looking at the book. The teacher reads the text aloud and we listen carefully. Then we read it silently. Then we answer the questions and sometimes we learn the poem by heart.\n\nI also love fairy tales very much. A fairy tale is a story about magic, about kings and queens, about good and evil. My mother reads fairy tales to my little brother every evening. He loves them very much. His favourite fairy tale is about a boy who found a magic apple. When he gave the apple to his sick grandmother, she became healthy again. My brother says: \"When I grow up, I want to find a magic apple too!\"\n\nThere are also reference books — encyclopedias and dictionaries. An encyclopedia is a big book of knowledge. It has information about everything in the world. A dictionary is a book of words. When I do not understand a word, I look it up in the dictionary. When I want to learn something new, I open the encyclopedia. My father says: \"A dictionary and an encyclopedia are the two best teachers. They never get tired and they never make mistakes.\"\n\nReading is one of the best habits of a person. When we read, we learn new words, we learn new things, we travel to other countries and other times. We meet interesting people and we learn about their lives. Reading makes us clever and kind. Reading makes our imagination strong. Reading helps us to think and to dream.\n\nMy grandfather says: \"Gold can be stolen, money can be spent, beauty can be lost. But the wisdom of books stays with you forever. Nobody can take it away from you.\" I remember these words every time I open a new book. And every book I read makes me a little richer.\n\nWhen I grow up, I want to have a big library in my own house. I want to have thousands of books on my shelves. I want to read them to my children and to my grandchildren. Because a house without books is like a body without a soul. A house with books is a happy house.\n\nSo, let us read books every day. Let us go to the library, borrow books, return them on time and read them with joy. Because reading is the best road to knowledge, and knowledge is the best road to a happy life.",
+    "tj": "Китобхона ва мутолиа\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Ман китобҳоро хеле дӯст медорам. Волидонам ба ман хонданро вақте ки ман панҷсола будам омӯхтанд ва аз ҳамон вақт китобҳо беҳтарин дӯстони ман ҳастанд. Имрӯз ман мехоҳам ба шумо дар бораи китобхона ва дар бораи мутолиа нақл кунам.\n\nКитобхона ҷоест, ки дар он китобҳои зиёд нигоҳ дошта мешаванд. Китобхонаи мактаби мо калон ва ором аст. Дар он рафҳои зиёд бо китобҳо ҳастанд. Дар рафҳо афсонаҳо, романҳо, шеърҳо, энциклопедияҳо ва луғатҳо ҳастанд. Китобҳо дар бораи ҳайвонот, дар бораи табиат, дар бораи таърих ва дар бораи кишварҳои хориҷӣ ҳастанд. Инчунин китобҳо бо англисӣ ва бо русӣ ҳастанд. Мо метавонем китобҳоро дар китобхона хонем ё метавонем онҳоро қарз гирем ва ба хона барем.\n\nКитобдор зани хеле меҳрубон аст. Ӯ ҳамаи китобҳоро дар китобхонаи мо медонад. Вақте ки ман ба китобхона меоям, ӯ ҳамеша ба ман китоби ҷолиб ёфтан кӯмак мекунад. Ӯ мегӯяд: «Китобхона хонаи ганҷҳост. Ҳар як китоб дар ин ҷо ганҷ аст. Онро гир, хон ва он туро бойтар мекунад.»\n\nМан ҳар ҳафта аз китобхона китобҳо қарз мегирам. Ман ҳамеша онҳоро сари вақт бармегардонам, зеро ки хонандагони дигар низ ба онҳо интизоранд. Хонандаи хуб ҳамеша китобҳоро сари вақт бармегардонад. Вақте ки ман китобро сари вақт барнамегардонам, китобдор наметавонад онро ба хонандаи дигар диҳад. Ин беадолатӣ аст. Модарам мегӯяд: «Китоби қарзгирифта аз они ту нест. Ба он мисли китоби худӣ ғамхорӣ кун ва онро мисли китоби бегона баргардон.»\n\nВақте ки ман китоб мехонам, ман ҳамеша ба муаллиф диққат медиҳам. Муаллиф одамест, ки китобро навишт. Муаллифи дӯстдоштаи ман нависандаи тоҷикест, ки ҳикояҳои зиёд дар бораи кӯдакон навиштааст. Ӯ кӯдаконро хеле хуб мефаҳмад ва дар бораи ҳаёт, орзуҳо ва мушкилоти онҳо менависад. Ман инчунин китобҳои муаллифони хориҷиро дӯст медорам — ман ҳикояҳои ҷолиби зиёд дар бораи кӯдакони англис ва америкоӣ хондаам.\n\nҚаҳрамони асосии китоб қаҳрамон ном дорад. Қаҳрамон одатан одами хубест, ки корҳои хуб мекунад. Дар яке аз китобҳои дӯстдоштаи ман қаҳрамон писари хурдест, ки дар деҳа бо бибиаш зиндагӣ мекунад. Ӯ табиатро хеле дӯст медорад ва ӯ ба ҳама кӯмак мекунад. Ӯ меҳрубон, зирак ва ҷасур аст. Ман мехоҳам мисли ӯ бошам. Қаҳрамони хуб ба мо омӯзонад, ки чӣ тавр одами хуб бошем.\n\nСюжети китоб худи ҳикоя аст — он чи аз оғоз то анҷом рӯй медиҳад. Баъзе сюжетҳо оддӣ ва баъзеҳо душвор ҳастанд. Баъзе китобҳо анҷоми хушбахт доранд ва баъзеҳо анҷоми ғамгин. Бибиам мегӯяд: «Китоби анҷоми ғамгиндошта на ҳамеша китоби бад аст. Баъзан китобҳои ғамгин аз китобҳои хушбахт бештар ба мо меомӯзонанд.»\n\nРоҳҳои гуногуни хондани китоб ҳастанд. Мо метавонем онро баланд хонем, вақте ки ҳар як калимаро мегӯем. Мо метавонем онро оромона хонем, вақте ки танҳо бо чашмонамон мехонем. Мо метавонем онро аз ёд хонем, вақте ки матнро меомӯзем ва метавонем онро бе нигоҳ кардан ба китоб гӯем. Муаллим матнро баланд мехонад ва мо бодиққат гӯш мекунем. Баъд мо онро оромона мехонем. Баъд мо ба саволҳо ҷавоб медиҳем ва баъзан шеърро аз ёд меомӯзем.\n\nМан инчунин афсонаҳоро хеле дӯст медорам. Афсона ҳикоя дар бораи сеҳр, дар бораи подшоҳон ва маликаҳо, дар бораи некӣ ва бадӣ аст. Модарам ҳар бегоҳ барои бародари хурдии ман афсонаҳо мехонад. Ӯ онҳоро хеле дӯст медорад. Афсонаи дӯстдоштаи ӯ дар бораи писарбачаест, ки себи сеҳрнок ёфт. Вақте ки ӯ себро ба бибии бемораш дод, ӯ боз солим шуд. Бародарам мегӯяд: «Вақте ки ман калон мешавам, ман низ мехоҳам себи сеҳрнок ёбам!»\n\nИнчунин китобҳои маълумотӣ ҳастанд — энциклопедияҳо ва луғатҳо. Энциклопедия китоби калони дониш аст. Дар он маълумот дар бораи ҳама чиз дар ҷаҳон ҳаст. Луғат китоби калимаҳост. Вақте ки ман калимаеро намефаҳмам, ман онро дар луғат меҷӯям. Вақте ки ман чизи навро омӯхтан мехоҳам, ман энциклопедияро мекушоям. Падарам мегӯяд: «Луғат ва энциклопедия ду муаллими беҳтарин ҳастанд. Онҳо ҳеҷ гоҳ хаста намешаванд ва ҳеҷ гоҳ хато намекунанд.»\n\nМутолиа яке аз беҳтарин одатҳои инсон аст. Вақте ки мо мехонем, мо калимаҳои нав меомӯзем, мо чизҳои нав меомӯзем, мо ба кишварҳо ва замонҳои дигар сафар мекунем. Мо бо одамони ҷолиб вохӯрда мекунем ва дар бораи ҳаёти онҳо меомӯзем. Мутолиа моро зирак ва меҳрубон мекунад. Мутолиа тасаввуроти моро қавӣ мекунад. Мутолиа ба мо дар фикр кардан ва дар орзу кардан кӯмак мекунад.\n\nБобоям мегӯяд: «Тиллоро дуздидан мумкин аст, пулро сарф кардан мумкин аст, зебоиро гум кардан мумкин аст. Аммо хиради китобҳо бо шумо то абад мемонад. Ҳеҷ кас онро аз шумо гирифта наметавонад.» Ман ин суханонро ҳар дафъае, ки китоби нав мекушоям, ба ёд меорам. Ва ҳар як китобе, ки мехонам, маро каме бойтар мекунад.\n\nВақте ки ман калон мешавам, ман мехоҳам дар хонаи худ китобхонаи калон дошта бошам. Ман мехоҳам ҳазорон китоб дар рафҳоям дошта бошам. Ман мехоҳам онҳоро ба кӯдаконам ва ба набераҳоям хонам. Зеро ки хонае, ки китоб надорад, мисли баданест, ки рӯҳ надорад. Хонае, ки китоб дорад, хонаи хушбахт аст.\n\nПас, биёед ҳар рӯз китоб хонем. Биёед ба китобхона равем, китобҳоро қарз гирем, онҳоро сари вақт баргардонем ва онҳоро бо шодӣ хонем. Зеро ки мутолиа беҳтарин роҳи ба сӯи дониш аст ва дониш беҳтарин роҳи ба сӯи ҳаёти хушбахт аст."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Китобхонаи мактаби мо хеле калон ва ором аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст A"
+        "Our school library is very big and quiet.",
+        "Our school library is very big and calm.",
+        "The school library is very big and quiet.",
+        "Our school library is big and quiet."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Our school library is very big and quiet."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Китобдор ба мо дар ёфтани китобҳои ҷолиб кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: experience"
+        "The librarian helps us find interesting books.",
+        "The librarian helps us to find interesting books.",
+        "A librarian helps us find interesting books.",
+        "The librarian helps us to find the interesting books."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The librarian helps us find interesting books."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Дар китобхона рафҳои зиёд бо китобҳо ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "There are many shelves with books in the library.",
+        "There are many shelves with books on them in the library.",
+        "In the library there are many shelves with books.",
+        "There are a lot of shelves with books in the library."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "There are many shelves with books in the library."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ман романи ҷолиб дар бораи табиат мехонам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: communication"
+        "I am reading an interesting novel about nature.",
+        "I read an interesting novel about nature.",
+        "I am reading an interesting novel about the nature.",
+        "I am reading a good novel about nature."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "I am reading an interesting novel about nature."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Хоҳарам шеърҳои зиёдро аз ёд медонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: education"
+        "My sister knows many poems by heart.",
+        "My sister knows many poems by memory.",
+        "My sister learns many poems by heart.",
+        "My sister knows a lot of poems by heart."
       ],
-      "answer": "тарҷума: education"
+      "answer": "My sister knows many poems by heart."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Модарам барои бародари хурдиам афсонаҳо мехонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст C"
+        "My mother reads fairy tales to my little brother.",
+        "My mother reads fairy tales to my brother.",
+        "My mother reads to my little brother fairy tales.",
+        "My mother reads fairy tales for my little brother."
       ],
-      "answer": "тарҷума: development"
+      "answer": "My mother reads fairy tales to my little brother."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Муаллифи ин китоб кист?» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст B"
+        "Who is the author of this book?",
+        "Who is the writer of this book?",
+        "Who is the author of that book?",
+        "Whose author is this book?"
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "Who is the author of this book?"
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Қаҳрамони дӯстдоштаи ман писари хурдест, ки дар деҳа зиндагӣ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: challenge"
+        "My favourite character is a small boy who lives in a village.",
+        "My favourite hero is a small boy who lives in a village.",
+        "My favourite character is a little boy who lives in a village.",
+        "My favourite character is a small boy that lives in a village."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "My favourite character is a small boy who lives in a village."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Сюжети ин ҳикоя хеле ҷолиб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: knowledge",
-        "нодуруст B",
-        "нодуруст A"
+        "The plot of this story is very interesting.",
+        "The plot of that story is very interesting.",
+        "The plot of this story is very good.",
+        "The plot of this book is very interesting."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "The plot of this story is very interesting."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Ман ҳар ҳафта аз китобхона китобҳо қарз мегирам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: conversation",
-        "нодуруст A"
+        "I borrow books from the library every week.",
+        "I take books from the library every week.",
+        "I borrow books from the library each week.",
+        "I borrow books in the library every week."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "I borrow books from the library every week."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ман китобҳоро сари вақт ба китобхона бармегардонам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: fluency"
+        "I return the books to the library on time.",
+        "I give back the books to the library on time.",
+        "I return books to the library on time.",
+        "I return the books to the library in time."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "I return the books to the library on time."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Мо дар энциклопедия маълумот меҷӯем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: confidence"
+        "We look for information in the encyclopedia.",
+        "We look for the information in the encyclopedia.",
+        "We search for information in the encyclopedia.",
+        "We look for information in an encyclopedia."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "We look for information in the encyclopedia."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Ман барои ёфтани калимаҳои нав луғат истифода мебарам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: pronunciation"
+        "I use a dictionary to find new words.",
+        "I use a dictionary for finding new words.",
+        "I use a dictionary to look for new words.",
+        "I use a dictionary to find the new words."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "I use a dictionary to find new words."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Муаллим матнро баланд мехонад ва мо бодиққат гӯш мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: vocabulary",
-        "нодуруст A"
+        "The teacher reads the text aloud and we listen carefully.",
+        "The teacher reads the text aloud and we listen attentively.",
+        "A teacher reads the text aloud and we listen carefully.",
+        "The teacher reads the text aloud, and we listen carefully."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "The teacher reads the text aloud and we listen carefully."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ман ин шеърро аз ёд медонам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: grammar",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "I know this poem by heart.",
+        "I know this poem by memory.",
+        "I know that poem by heart.",
+        "I learned this poem by heart."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "I know this poem by heart."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Хиради китобҳо дар ҳаёт ба мо кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The wisdom of books helps us in life.",
+        "The wisdom of books helps us in our life.",
+        "The wisdom of the books helps us in life.",
+        "Wisdom of books helps us in life."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "The wisdom of books helps us in life."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман китобҳоро хеле дӯст медорам. Волидонам ба ман хонданро вақте ки ман панҷсола будам омӯхтанд ва аз ҳамон вақт китобҳо беҳтарин дӯстони ман ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст B"
+        "I love books very much. My parents taught me to read when I was five years old, and since that time books have been my best friends.",
+        "I love books very much. My parents taught me to read when I was five years old and since that time books have been my best friends.",
+        "I love books very much. My parents taught me to read when I was five, and since that time books have been my best friends.",
+        "I love books very much. My parents learned me to read when I was five years old, and since that time books have been my best friends."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I love books very much. My parents taught me to read when I was five years old, and since that time books have been my best friends."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Имрӯз ман мехоҳам ба шумо дар бораи китобхона ва дар бораи мутолиа нақл кунам. Китобхона ҷоест, ки дар он китобҳои зиёд нигоҳ дошта мешаванд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Today I want to tell you about the library and about reading. A library is a place where many books are kept.",
+        "Today I want to tell you about the library and about reading. The library is a place where many books are kept.",
+        "Today I want to tell you about the library and reading. A library is a place where many books are kept.",
+        "Today I want to tell you about the library and about reading. A library is a place where a lot of books are kept."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Today I want to tell you about the library and about reading. A library is a place where many books are kept."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Дар он рафҳои зиёд бо китобҳо ҳастанд. Дар рафҳо афсонаҳо, романҳо, шеърҳо, энциклопедияҳо ва луғатҳо ҳастанд. Китобҳо дар бораи ҳайвонот, дар бораи табиат, дар бораи таърих ва дар бораи кишварҳои хориҷӣ ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст C"
+        "It has many shelves with books on them. On the shelves there are fairy tales, novels, poems, encyclopedias and dictionaries. There are books about animals, about nature, about history and about foreign countries.",
+        "It has many shelves with books on them. On the shelves there are fairy tales, novels, poems, encyclopedias and dictionaries. There are books about animals, about nature, about history and foreign countries.",
+        "It has many shelves with books on them. On the shelves there are fairy tales, novels, poems, encyclopedias and dictionaries. There are books about animals, nature, history and about foreign countries.",
+        "It has many shelves with books on them. On the shelves there are fairy tales, novels, poems, encyclopedias and dictionaries. There are books about animals, about nature, about history and about the foreign countries."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "It has many shelves with books on them. On the shelves there are fairy tales, novels, poems, encyclopedias and dictionaries. There are books about animals, about nature, about history and about foreign countries."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Инчунин китобҳо бо англисӣ ва бо русӣ ҳастанд. Мо метавонем китобҳоро дар китобхона хонем ё метавонем онҳоро қарз гирем ва ба хона барем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст A",
-        "нодуруст B"
+        "There are also books in English and in Russian. We can read books at the library or we can borrow them and take them home.",
+        "There are also books in English and in Russian. We can read books in the library or we can borrow them and take them home.",
+        "There are also books in English and Russian. We can read books at the library or we can borrow them and take them home.",
+        "There are also books in English and in Russian. We can read the books at the library or we can borrow them and take them home."
       ],
-      "answer": "тарҷума: education"
+      "answer": "There are also books in English and in Russian. We can read books at the library or we can borrow them and take them home."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Китобдор зани хеле меҳрубон аст. Ӯ ҳамаи китобҳоро дар китобхонаи мо медонад. Вақте ки ман ба китобхона меоям, ӯ ҳамеша ба ман китоби ҷолиб ёфтан кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: development"
+        "The librarian is a very kind woman. She knows all the books in our library. When I come to the library, she always helps me to find an interesting book.",
+        "The librarian is a very kind woman. She knows all the books in our library. When I come to the library she always helps me to find an interesting book.",
+        "The librarian is a very kind woman. She knows all books in our library. When I come to the library, she always helps me to find an interesting book.",
+        "The librarian is a very kind woman. She knows all the books in the library. When I come to the library, she always helps me to find an interesting book."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The librarian is a very kind woman. She knows all the books in our library. When I come to the library, she always helps me to find an interesting book."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ӯ мегӯяд: \"Китобхона хонаи ганҷҳост. Ҳар як китоб дар ин ҷо ганҷ аст. Онро гир, хон ва он туро бойтар мекунад.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: achievement",
-        "нодуруст B"
+        "She says: \"A library is a treasure house. Every book here is a treasure. Take it, read it and it will make you richer.\"",
+        "She says: \"A library is a treasure house. Every book here is a treasure. Take it, read it, and it will make you richer.\"",
+        "She says: \"The library is a treasure house. Every book here is a treasure. Take it, read it and it will make you richer.\"",
+        "She says: \"A library is a treasure house. Each book here is a treasure. Take it, read it and it will make you richer.\""
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "She says: \"A library is a treasure house. Every book here is a treasure. Take it, read it and it will make you richer.\""
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ман ҳар ҳафта аз китобхона китобҳо қарз мегирам. Ман ҳамеша онҳоро сари вақт бармегардонам, зеро ки хонандагони дигар низ ба онҳо интизоранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "I borrow books from the library every week. I always return them on time, because other pupils are also waiting for them.",
+        "I borrow books from the library every week. I always return them on time, because other readers are also waiting for them.",
+        "I borrow books from the library every week. I always return them on time because other pupils are also waiting for them.",
+        "I borrow books from the library each week. I always return them on time, because other pupils are also waiting for them."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "I borrow books from the library every week. I always return them on time, because other pupils are also waiting for them."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Хонандаи хуб ҳамеша китобҳоро сари вақт бармегардонад. Вақте ки ман китобро сари вақт барнамегардонам, китобдор наметавонад онро ба хонандаи дигар диҳад. Ин беадолатӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: knowledge"
+        "A good reader always returns books on time. When I do not return a book on time, the librarian cannot give it to another reader. This is not fair.",
+        "A good reader always returns books on time. When I don't return a book on time, the librarian cannot give it to another reader. This is not fair.",
+        "A good reader always returns books on time. When I do not return the book on time, the librarian cannot give it to another reader. This is not fair.",
+        "A good reader always returns books in time. When I do not return a book on time, the librarian cannot give it to another reader. This is not fair."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "A good reader always returns books on time. When I do not return a book on time, the librarian cannot give it to another reader. This is not fair."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Модарам мегӯяд: \"Китоби қарзгирифта аз они ту нест. Ба он мисли китоби худӣ ғамхорӣ кун ва онро мисли китоби бегона баргардон.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "My mother says: \"A borrowed book is not yours. Take care of it as if it were your own, and return it as if it were a stranger's.\"",
+        "My mother says: \"A borrowed book is not yours. Take care of it as if it were your own and return it as if it were a stranger's.\"",
+        "My mother says: \"The borrowed book is not yours. Take care of it as if it were your own, and return it as if it were a stranger's.\"",
+        "My mother says: \"A borrowed book is not yours. Take care of it like your own, and return it as if it were a stranger's.\""
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "My mother says: \"A borrowed book is not yours. Take care of it as if it were your own, and return it as if it were a stranger's.\""
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Вақте ки ман китоб мехонам, ман ҳамеша ба муаллиф диққат медиҳам. Муаллиф одамест, ки китобро навишт. Муаллифи дӯстдоштаи ман нависандаи тоҷикест, ки ҳикояҳои зиёд дар бораи кӯдакон навиштааст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: fluency"
+        "When I read a book, I always pay attention to the author. The author is a person who wrote the book. My favourite author is a Tajik writer who wrote many stories about children.",
+        "When I read a book I always pay attention to the author. The author is a person who wrote the book. My favourite author is a Tajik writer who wrote many stories about children.",
+        "When I read a book, I always pay attention to the author. The author is a person which wrote the book. My favourite author is a Tajik writer who wrote many stories about children.",
+        "When I read a book, I always pay attention to the author. An author is a person who wrote the book. My favourite author is a Tajik writer who wrote many stories about children."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "When I read a book, I always pay attention to the author. The author is a person who wrote the book. My favourite author is a Tajik writer who wrote many stories about children."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ӯ кӯдаконро хеле хуб мефаҳмад ва дар бораи ҳаёт, орзуҳо ва мушкилоти онҳо менависад. Ман инчунин китобҳои муаллифони хориҷиро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "He understands children very well and he writes about their lives, their dreams and their problems. I also love books by foreign authors.",
+        "He understands children very well and writes about their lives, their dreams and their problems. I also love books by foreign authors.",
+        "He understands children very well and he writes about their life, their dreams and their problems. I also love books by foreign authors.",
+        "He understands children very well and he writes about their lives, their dreams and their problems. I love books by foreign authors too."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "He understands children very well and he writes about their lives, their dreams and their problems. I also love books by foreign authors."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Ман ҳикояҳои ҷолиби зиёд дар бораи кӯдакони англис ва америкоӣ хондаам. Қаҳрамони асосии китоб қаҳрамон ном дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: pronunciation",
-        "нодуруст B",
-        "нодуруст A"
+        "I have read many interesting stories about English and American children. The main character of a book is called the hero.",
+        "I have read many interesting stories about English and American children. The main character of the book is called the hero.",
+        "I have read a lot of interesting stories about English and American children. The main character of a book is called the hero.",
+        "I read many interesting stories about English and American children. The main character of a book is called the hero."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "I have read many interesting stories about English and American children. The main character of a book is called the hero."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Қаҳрамон одатан одами хубест, ки корҳои хуб мекунад. Дар яке аз китобҳои дӯстдоштаи ман қаҳрамон писари хурдест, ки дар деҳа бо бибиаш зиндагӣ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: vocabulary"
+        "The hero is usually a good person who does good things. In one of my favourite books, the hero is a small boy who lives in a village with his grandmother.",
+        "The hero is usually a good person who does good things. In one of my favourite books the hero is a small boy who lives in a village with his grandmother.",
+        "A hero is usually a good person who does good things. In one of my favourite books, the hero is a small boy who lives in a village with his grandmother.",
+        "The hero is usually a good person which does good things. In one of my favourite books, the hero is a small boy who lives in a village with his grandmother."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "The hero is usually a good person who does good things. In one of my favourite books, the hero is a small boy who lives in a village with his grandmother."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ӯ табиатро хеле дӯст медорад ва ӯ ба ҳама кӯмак мекунад. Ӯ меҳрубон, зирак ва ҷасур аст. Ман мехоҳам мисли ӯ бошам. Қаҳрамони хуб ба мо омӯзонад, ки чӣ тавр одами хуб бошем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: grammar",
-        "нодуруст B",
-        "нодуруст A"
+        "He loves nature very much and he helps everyone. He is kind, clever and brave. I want to be like him. A good hero teaches us how to be a good person.",
+        "He loves nature very much and helps everyone. He is kind, clever and brave. I want to be like him. A good hero teaches us how to be a good person.",
+        "He loves nature very much and he helps everybody. He is kind, clever and brave. I want to be like him. A good hero teaches us how to be a good person.",
+        "He loves nature very much and he helps everyone. He is kind, clever and brave. I want to be like him. The good hero teaches us how to be a good person."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "He loves nature very much and he helps everyone. He is kind, clever and brave. I want to be like him. A good hero teaches us how to be a good person."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Сюжети китоб худи ҳикоя аст — он чи аз оғоз то анҷом рӯй медиҳад. Баъзе сюжетҳо оддӣ ва баъзеҳо душвор ҳастанд. Баъзе китобҳо анҷоми хушбахт доранд ва баъзеҳо анҷоми ғамгин» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "The plot of a book is the story itself — what happens from the beginning to the end. Some plots are simple and some are difficult. Some books have happy endings and some have sad endings.",
+        "The plot of a book is the story itself — what happens from the beginning to the end. Some plots are simple and some are difficult. Some books have happy endings and some have sad endings.",
+        "The plot of a book is the story itself: what happens from the beginning to the end. Some plots are simple and some are difficult. Some books have happy endings and some have sad endings.",
+        "The plot of the book is the story itself — what happens from the beginning to the end. Some plots are simple and some are difficult. Some books have happy endings and some have sad endings."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "The plot of a book is the story itself — what happens from the beginning to the end. Some plots are simple and some are difficult. Some books have happy endings and some have sad endings."
+    },
+    {
+      "q": "«Бибиам мегӯяд: \"Китоби анҷоми ғамгиндошта на ҳамеша китоби бад аст. Баъзан китобҳои ғамгин аз китобҳои хушбахт бештар ба мо меомӯзонанд.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandmother says: \"A book with a sad ending is not always a bad book. Sometimes sad books teach us more than happy books.\"",
+        "My grandmother says: \"The book with a sad ending is not always a bad book. Sometimes sad books teach us more than happy books.\"",
+        "My grandmother says: \"A book with a sad ending is not always a bad book. Sometimes the sad books teach us more than happy books.\"",
+        "My grandmother says: \"A book with a sad ending is not always a bad book. Sometimes sad books teach us more than the happy books.\""
+      ],
+      "answer": "My grandmother says: \"A book with a sad ending is not always a bad book. Sometimes sad books teach us more than happy books.\""
+    },
+    {
+      "q": "«Роҳҳои гуногуни хондани китоб ҳастанд. Мо метавонем онро баланд хонем, вақте ки ҳар як калимаро мегӯем. Мо метавонем онро оромона хонем, вақте ки танҳо бо чашмонамон мехонем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "There are different ways to read a book. We can read it aloud, when we say every word. We can read it silently, when we read only with our eyes.",
+        "There are different ways to read a book. We can read it aloud when we say every word. We can read it silently, when we read only with our eyes.",
+        "There are different ways of reading a book. We can read it aloud, when we say every word. We can read it silently, when we read only with our eyes.",
+        "There are different ways to read a book. We can read it aloud, when we say each word. We can read it silently, when we read only with our eyes."
+      ],
+      "answer": "There are different ways to read a book. We can read it aloud, when we say every word. We can read it silently, when we read only with our eyes."
+    },
+    {
+      "q": "«Мо метавонем онро аз ёд хонем, вақте ки матнро меомӯзем ва метавонем онро бе нигоҳ кардан ба китоб гӯем. Муаллим матнро баланд мехонад ва мо бодиққат гӯш мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We can read it by heart, when we learn the text and can say it without looking at the book. The teacher reads the text aloud and we listen carefully.",
+        "We can read it by heart when we learn the text and can say it without looking at the book. The teacher reads the text aloud and we listen carefully.",
+        "We can read it by heart, when we learn the text and can say it without looking at the book. The teacher reads the text aloud, and we listen carefully.",
+        "We can read it by heart, when we learn the text and we can say it without looking at the book. The teacher reads the text aloud and we listen carefully."
+      ],
+      "answer": "We can read it by heart, when we learn the text and can say it without looking at the book. The teacher reads the text aloud and we listen carefully."
+    },
+    {
+      "q": "«Ман инчунин афсонаҳоро хеле дӯст медорам. Афсона ҳикоя дар бораи сеҳр, дар бораи подшоҳон ва маликаҳо, дар бораи некӣ ва бадӣ аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I also love fairy tales very much. A fairy tale is a story about magic, about kings and queens, about good and evil.",
+        "I love fairy tales very much too. A fairy tale is a story about magic, about kings and queens, about good and evil.",
+        "I also love fairy tales very much. A fairy tale is a story about magic, about kings and queens, about the good and evil.",
+        "I also love fairy tales very much. A fairy tale is a story about magic, about kings and queens, about good and the evil."
+      ],
+      "answer": "I also love fairy tales very much. A fairy tale is a story about magic, about kings and queens, about good and evil."
+    },
+    {
+      "q": "«Модарам ҳар бегоҳ барои бародари хурдии ман афсонаҳо мехонад. Ӯ онҳоро хеле дӯст медорад. Афсонаи дӯстдоштаи ӯ дар бораи писарбачаест, ки себи сеҳрнок ёфт» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My mother reads fairy tales to my little brother every evening. He loves them very much. His favourite fairy tale is about a boy who found a magic apple.",
+        "My mother reads fairy tales to my little brother every evening. He loves them very much. His favourite fairy tale is about a boy which found a magic apple.",
+        "My mother reads fairy tales to my little brother every evening. He loves them very much. His favourite fairy tale is about a boy who found a magical apple.",
+        "My mother reads fairy tales to my little brother each evening. He loves them very much. His favourite fairy tale is about a boy who found a magic apple."
+      ],
+      "answer": "My mother reads fairy tales to my little brother every evening. He loves them very much. His favourite fairy tale is about a boy who found a magic apple."
+    },
+    {
+      "q": "«Вақте ки ӯ себро ба бибии бемораш дод, ӯ боз солим шуд. Бародарам мегӯяд: \"Вақте ки ман калон мешавам, ман низ мехоҳам себи сеҳрнок ёбам!\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When he gave the apple to his sick grandmother, she became healthy again. My brother says: \"When I grow up, I want to find a magic apple too!\"",
+        "When he gave the apple to his sick grandmother she became healthy again. My brother says: \"When I grow up, I want to find a magic apple too!\"",
+        "When he gave the apple to his ill grandmother, she became healthy again. My brother says: \"When I grow up, I want to find a magic apple too!\"",
+        "When he gave the apple to his sick grandmother, she became healthy again. My brother says: \"When I grow up I want to find a magic apple too!\""
+      ],
+      "answer": "When he gave the apple to his sick grandmother, she became healthy again. My brother says: \"When I grow up, I want to find a magic apple too!\""
+    },
+    {
+      "q": "«Инчунин китобҳои маълумотӣ ҳастанд — энциклопедияҳо ва луғатҳо. Энциклопедия китоби калони дониш аст. Дар он маълумот дар бораи ҳама чиз дар ҷаҳон ҳаст. Луғат китоби калимаҳост» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "There are also reference books — encyclopedias and dictionaries. An encyclopedia is a big book of knowledge. It has information about everything in the world. A dictionary is a book of words.",
+        "There are also reference books: encyclopedias and dictionaries. An encyclopedia is a big book of knowledge. It has information about everything in the world. A dictionary is a book of words.",
+        "There are also reference books — encyclopedias and dictionaries. The encyclopedia is a big book of knowledge. It has information about everything in the world. A dictionary is a book of words.",
+        "There are also reference books — encyclopedias and dictionaries. An encyclopedia is the big book of knowledge. It has information about everything in the world. A dictionary is a book of words."
+      ],
+      "answer": "There are also reference books — encyclopedias and dictionaries. An encyclopedia is a big book of knowledge. It has information about everything in the world. A dictionary is a book of words."
+    },
+    {
+      "q": "«Вақте ки ман калимаеро намефаҳмам, ман онро дар луғат меҷӯям. Вақте ки ман чизи навро омӯхтан мехоҳам, ман энциклопедияро мекушоям» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I do not understand a word, I look it up in the dictionary. When I want to learn something new, I open the encyclopedia.",
+        "When I don't understand a word, I look it up in the dictionary. When I want to learn something new, I open the encyclopedia.",
+        "When I do not understand a word I look it up in the dictionary. When I want to learn something new, I open the encyclopedia.",
+        "When I do not understand a word, I look for it in the dictionary. When I want to learn something new, I open the encyclopedia."
+      ],
+      "answer": "When I do not understand a word, I look it up in the dictionary. When I want to learn something new, I open the encyclopedia."
+    },
+    {
+      "q": "«Падарам мегӯяд: \"Луғат ва энциклопедия ду муаллими беҳтарин ҳастанд. Онҳо ҳеҷ гоҳ хаста намешаванд ва ҳеҷ гоҳ хато намекунанд.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My father says: \"A dictionary and an encyclopedia are the two best teachers. They never get tired and they never make mistakes.\"",
+        "My father says: \"The dictionary and the encyclopedia are the two best teachers. They never get tired and they never make mistakes.\"",
+        "My father says: \"A dictionary and an encyclopedia are two best teachers. They never get tired and they never make mistakes.\"",
+        "My father says: \"A dictionary and an encyclopedia are the two best teachers. They never get tired and never make mistakes.\""
+      ],
+      "answer": "My father says: \"A dictionary and an encyclopedia are the two best teachers. They never get tired and they never make mistakes.\""
+    },
+    {
+      "q": "«Мутолиа яке аз беҳтарин одатҳои инсон аст. Вақте ки мо мехонем, мо калимаҳои нав меомӯзем, мо чизҳои нав меомӯзем, мо ба кишварҳо ва замонҳои дигар сафар мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Reading is one of the best habits of a person. When we read, we learn new words, we learn new things, we travel to other countries and other times.",
+        "Reading is one of the best habits of a person. When we read we learn new words, we learn new things, we travel to other countries and other times.",
+        "Reading is one of the best habits of the person. When we read, we learn new words, we learn new things, we travel to other countries and other times.",
+        "Reading is one of the best habits of a person. When we read, we learn new words, we learn new things, we travel to other countries and to other times."
+      ],
+      "answer": "Reading is one of the best habits of a person. When we read, we learn new words, we learn new things, we travel to other countries and other times."
+    },
+    {
+      "q": "«Мо бо одамони ҷолиб вохӯрда мекунем ва дар бораи ҳаёти онҳо меомӯзем. Мутолиа моро зирак ва меҳрубон мекунад. Мутолиа тасаввуроти моро қавӣ мекунад. Мутолиа ба мо дар фикр кардан ва дар орзу кардан кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We meet interesting people and we learn about their lives. Reading makes us clever and kind. Reading makes our imagination strong. Reading helps us to think and to dream.",
+        "We meet interesting people and learn about their lives. Reading makes us clever and kind. Reading makes our imagination strong. Reading helps us to think and to dream.",
+        "We meet interesting people and we learn about their lives. Reading makes us clever and kind. Reading makes our imagination strong. Reading helps us think and dream.",
+        "We meet with interesting people and we learn about their lives. Reading makes us clever and kind. Reading makes our imagination strong. Reading helps us to think and to dream."
+      ],
+      "answer": "We meet interesting people and we learn about their lives. Reading makes us clever and kind. Reading makes our imagination strong. Reading helps us to think and to dream."
+    },
+    {
+      "q": "«Бобоям мегӯяд: \"Тиллоро дуздидан мумкин аст, пулро сарф кардан мумкин аст, зебоиро гум кардан мумкин аст. Аммо хиради китобҳо бо шумо то абад мемонад. Ҳеҷ кас онро аз шумо гирифта наметавонад.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandfather says: \"Gold can be stolen, money can be spent, beauty can be lost. But the wisdom of books stays with you forever. Nobody can take it away from you.\"",
+        "My grandfather says: \"Gold can be stolen, money can be spent, beauty can be lost. But the wisdom of books stays with you forever. Nobody can take it away from you.\"",
+        "My grandfather says: \"Gold can be stolen, money can be spent, beauty can be lost. But the wisdom of books stays with you for ever. Nobody can take it away from you.\"",
+        "My grandfather says: \"Gold can be stolen, money can be spent, beauty can be lost. But the wisdom of books stays with you forever. No one can take it away from you.\""
+      ],
+      "answer": "My grandfather says: \"Gold can be stolen, money can be spent, beauty can be lost. But the wisdom of books stays with you forever. Nobody can take it away from you.\""
+    },
+    {
+      "q": "«Ман ин суханонро ҳар дафъае, ки китоби нав мекушоям, ба ёд меорам. Ва ҳар як китобе, ки мехонам, маро каме бойтар мекунад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I remember these words every time I open a new book. And every book I read makes me a little richer.",
+        "I remember these words every time I open a new book. And every book I read makes me a bit richer.",
+        "I remember these words every time when I open a new book. And every book I read makes me a little richer.",
+        "I remember these words each time I open a new book. And every book I read makes me a little richer."
+      ],
+      "answer": "I remember these words every time I open a new book. And every book I read makes me a little richer."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам дар хонаи худ китобхонаи калон дошта бошам. Ман мехоҳам ҳазорон китоб дар рафҳоям дошта бошам. Ман мехоҳам онҳоро ба кӯдаконам ва ба набераҳоям хонам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to have a big library in my own house. I want to have thousands of books on my shelves. I want to read them to my children and to my grandchildren.",
+        "When I grow up I want to have a big library in my own house. I want to have thousands of books on my shelves. I want to read them to my children and to my grandchildren.",
+        "When I grow up, I want to have a big library in my own house. I want to have thousands of books on the shelves. I want to read them to my children and to my grandchildren.",
+        "When I grow up, I want to have a big library in my house. I want to have thousands of books on my shelves. I want to read them to my children and to my grandchildren."
+      ],
+      "answer": "When I grow up, I want to have a big library in my own house. I want to have thousands of books on my shelves. I want to read them to my children and to my grandchildren."
+    },
+    {
+      "q": "«Зеро ки хонае, ки китоб надорад, мисли баданест, ки рӯҳ надорад. Хонае, ки китоб дорад, хонаи хушбахт аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Because a house without books is like a body without a soul. A house with books is a happy house.",
+        "Because a house without books is like a body without a soul. A house with books is a happy house.",
+        "Because the house without books is like a body without a soul. A house with books is a happy house.",
+        "Because a house without books is like a body without the soul. A house with books is a happy house."
+      ],
+      "answer": "Because a house without books is like a body without a soul. A house with books is a happy house."
+    },
+    {
+      "q": "«Пас, биёед ҳар рӯз китоб хонем. Биёед ба китобхона равем, китобҳоро қарз гирем, онҳоро сари вақт баргардонем ва онҳоро бо шодӣ хонем. Зеро ки мутолиа беҳтарин роҳи ба сӯи дониш аст ва дониш беҳтарин роҳи ба сӯи ҳаёти хушбахт аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "So, let us read books every day. Let us go to the library, borrow books, return them on time and read them with joy. Because reading is the best road to knowledge, and knowledge is the best road to a happy life.",
+        "So let us read books every day. Let us go to the library, borrow books, return them on time and read them with joy. Because reading is the best road to knowledge, and knowledge is the best road to a happy life.",
+        "So, let's read books every day. Let's go to the library, borrow books, return them on time and read them with joy. Because reading is the best road to knowledge, and knowledge is the best road to a happy life.",
+        "So, let us read books every day. Let us go to the library, borrow books, return them on time, and read them with joy. Because reading is the best road to knowledge and knowledge is the best road to a happy life."
+      ],
+      "answer": "So, let us read books every day. Let us go to the library, borrow books, return them on time and read them with joy. Because reading is the best road to knowledge, and knowledge is the best road to a happy life."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 31
+  "wordsCount": 16
 }
