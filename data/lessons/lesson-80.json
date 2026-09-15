@@ -1,536 +1,322 @@
 {
   "id": 80,
-  "title": "Муоширати воқеӣ 80",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 80: Офатҳои табиӣ ва бехатарӣ",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "earthquake",
+      "tj": "заминларза",
+      "ex": "The earthquake was very strong."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "flood",
+      "tj": "обхезӣ",
+      "ex": "The flood destroyed many houses."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "storm",
+      "tj": "тӯфон",
+      "ex": "A big storm came in the evening."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "thunder",
+      "tj": "раъд",
+      "ex": "The thunder was loud at night."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "lightning",
+      "tj": "барқ",
+      "ex": "The lightning lit the sky."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "danger",
+      "tj": "хатар",
+      "ex": "There was danger on the road."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "dangerous",
+      "tj": "хатарнок",
+      "ex": "A storm is very dangerous."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "safety",
+      "tj": "бехатарӣ",
+      "ex": "Safety is the most important thing."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "safe",
+      "tj": "бехатар",
+      "ex": "Our house is safe and strong."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "shelter",
+      "tj": "паноҳгоҳ",
+      "ex": "We found shelter from the rain."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "warning",
+      "tj": "огоҳӣ",
+      "ex": "We heard a storm warning on the radio."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "to warn",
+      "tj": "огоҳ кардан",
+      "ex": "The teacher warned us about the danger."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "to destroy",
+      "tj": "вайрон кардан",
+      "ex": "The strong wind destroyed the old house."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "to rescue",
+      "tj": "наҷот додан",
+      "ex": "The brave men rescued the children."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to be careful",
+      "tj": "бодиққат будан",
+      "ex": "Be careful on the road!"
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "emergency",
+      "tj": "ҳолати фавқулодда",
+      "ex": "In an emergency, call for help."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 80)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "The earthquake was very strong and dangerous.",
+      "tj": "Заминларза хеле қавӣ ва хатарнок буд."
     },
     {
-      "en": "I'm working on lesson 80",
-      "tj": "Ман дарси 80-ро меомӯзам"
+      "en": "The flood destroyed many houses in our village.",
+      "tj": "Обхезӣ дар деҳаи мо хонаҳои зиёдро вайрон кард."
+    },
+    {
+      "en": "A big storm came in the evening and the wind was very strong.",
+      "tj": "Бегоҳ тӯфони калон омад ва шамол хеле қавӣ буд."
+    },
+    {
+      "en": "The thunder was loud and the lightning lit the dark sky.",
+      "tj": "Раъд баланд буд ва барқ осмони торикро равшан кард."
+    },
+    {
+      "en": "There was danger on the mountain road.",
+      "tj": "Дар роҳи кӯҳӣ хатар буд."
+    },
+    {
+      "en": "A storm is very dangerous for small children and old people.",
+      "tj": "Тӯфон барои кӯдакони хурд ва пиронсолон хеле хатарнок аст."
+    },
+    {
+      "en": "Safety is the most important thing for our family.",
+      "tj": "Бехатарӣ муҳимтарин чиз барои оилаи мост."
+    },
+    {
+      "en": "Our house is safe and strong.",
+      "tj": "Хонаи мо бехатар ва қавӣ аст."
+    },
+    {
+      "en": "We found shelter from the rain in an old building.",
+      "tj": "Мо аз борон дар бинои кӯҳна паноҳ ёфтем."
+    },
+    {
+      "en": "We heard a storm warning on the radio in the morning.",
+      "tj": "Мо субҳ дар радио огоҳии тӯфонро шунидем."
+    },
+    {
+      "en": "The teacher warned us about the danger on the road.",
+      "tj": "Муаллим моро дар бораи хатар дар роҳ огоҳ кард."
+    },
+    {
+      "en": "The strong wind destroyed the old house near the river.",
+      "tj": "Шамоли қавӣ хонаи кӯҳнаро дар назди дарё вайрон кард."
+    },
+    {
+      "en": "The brave men rescued the children from the flood.",
+      "tj": "Мардҳои ҷасур кӯдаконро аз обхезӣ наҷот доданд."
+    },
+    {
+      "en": "Be careful on the road when the weather is bad.",
+      "tj": "Вақте ки обу ҳаво бад аст, дар роҳ бодиққат бошед."
+    },
+    {
+      "en": "In an emergency, call for help at once.",
+      "tj": "Дар ҳолати фавқулодда фавран кӯмак талаб кунед."
+    },
+    {
+      "en": "We must know what to do in an emergency.",
+      "tj": "Мо бояд донем, ки дар ҳолати фавқулодда чӣ кор кунем."
     }
   ],
   "text": {
-    "en": "Text for lesson 80. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 80 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 80 text.",
-    "tj": "Матни дарси 80..."
+    "en": "Natural Disasters and Safety\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. Our country has beautiful mountains and rivers, but sometimes nature is very strong. Earthquakes, floods and storms can be dangerous. Today I want to tell you about natural disasters and about safety.\n\nAn earthquake is when the ground shakes. A strong earthquake can destroy buildings and roads. When the earth shakes, we must go outside to an open place. We must not stay near tall buildings. My grandfather says: \"When the ground shakes, stay calm and help small children and old people.\"\n\nA flood comes when there is too much water in the rivers. Heavy rain in the mountains can cause a flood. Floods destroy roads, bridges and houses. We must never go near a river during heavy rain. My mother says: \"Water is our friend, but it can also be very dangerous.\"\n\nA storm comes with strong wind, thunder and lightning. Lightning is very dangerous. During a storm we must stay at home and close all the windows and doors. We must not stand under tall trees. The radio and the television often warn us about storms.\n\nSafety is the most important thing. In every town and village there are special people who help during a disaster. They are brave rescuers. They save people, they bring food and water, and they help to build new houses. My uncle is a rescuer. He says: \"When you help one person, you save a whole world.\"\n\nWe must know what to do in an emergency. First, stay calm. Second, listen to the adults. Third, call for help. Fourth, be careful and do not panic. My teacher says: \"A calm person can save his life and the lives of other people.\"\n\nNature is very strong, but people are also strong when they help each other. When a disaster happens, all people must work together. When we help each other, no disaster can break us. Because the most important thing in the world is love, kindness and friendship.",
+    "tj": "Офатҳои табиӣ ва бехатарӣ\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Кишвари мо кӯҳҳо ва дарёҳои зебо дорад, аммо баъзан табиат хеле қавӣ аст. Заминларза, обхезӣ ва тӯфонҳо метавонанд хатарнок бошанд. Имрӯз ман мехоҳам ба шумо дар бораи офатҳои табиӣ ва дар бораи бехатарӣ нақл кунам.\n\nЗаминларза вақтест, ки замин меҷунбад. Заминларзаи қавӣ метавонад биноҳо ва роҳҳоро вайрон кунад. Вақте ки замин меҷунбад, мо бояд ба берун, ба ҷои кушод равем. Мо набояд дар назди биноҳои баланд бимонем. Бобоям мегӯяд: «Вақте ки замин меҷунбад, ором бош ва ба кӯдакони хурд ва пиронсолон кӯмак кун.»\n\nОбхезӣ вақте меояд, ки дар дарёҳо об аз ҳад зиёд мешавад. Борони сахт дар кӯҳҳо метавонад обхезӣ ба вуҷуд оварад. Обхезӣ роҳҳо, пулҳо ва хонаҳоро вайрон мекунад. Мо набояд ҳеҷ гоҳ дар вақти борони сахт ба дарё наздик шавем. Модарам мегӯяд: «Об дӯсти мост, аммо он инчунин метавонад хеле хатарнок бошад.»\n\nТӯфон бо шамоли қавӣ, раъд ва барқ меояд. Барқ хеле хатарнок аст. Дар вақти тӯфон мо бояд дар хона бимонем ва ҳамаи тирезаҳо ва дарҳоро пӯшем. Мо набояд дар зери дарахтони баланд истем. Радио ва телевизор аксар вақт моро дар бораи тӯфонҳо огоҳ мекунанд.\n\nБехатарӣ муҳимтарин чиз аст. Дар ҳар як шаҳр ва деҳа одамони махсус ҳастанд, ки дар вақти офат кӯмак мекунанд. Онҳо наҷотдиҳандагони ҷасур ҳастанд. Онҳо одамонро наҷот медиҳанд, ғизо ва об меоранд ва ба сохтани хонаҳои нав кӯмак мекунанд. Амакам наҷотдиҳанда аст. Ӯ мегӯяд: «Вақте ки шумо ба як одам кӯмак мекунед, шумо тамоми ҷаҳонро наҷот медиҳед.»\n\nМо бояд донем, ки дар ҳолати фавқулодда чӣ кор кунем. Аввал, ором бимонед. Дуюм, ба калонсолон гӯш кунед. Сеюм, кӯмак талаб кунед. Чорум, бодиққат бошед ва даҳшат накунед. Муаллимам мегӯяд: «Одами ором метавонад ҳаёти худ ва ҳаёти одамони дигарро наҷот диҳад.»\n\nТабиат хеле қавӣ аст, аммо одамон низ қавӣ ҳастанд, вақте ки ба якдигар кӯмак мекунанд. Вақте ки офат рӯй медиҳад, ҳамаи одамон бояд якҷоя кор кунанд. Вақте ки мо ба якдигар кӯмак мекунем, ҳеҷ офат моро шикаста наметавонад. Зеро ки муҳимтарин чиз дар ҷаҳон муҳаббат, меҳрубонӣ ва дӯстӣ аст."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Заминларза хеле қавӣ ва хатарнок буд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: opportunity"
+        "The earthquake was very strong and dangerous.",
+        "The earthquake was strong and dangerous.",
+        "An earthquake was very strong and dangerous.",
+        "The earthquake was very strong and very dangerous."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "The earthquake was very strong and dangerous."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Обхезӣ дар деҳаи мо хонаҳои зиёдро вайрон кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "The flood destroyed many houses in our village.",
+        "The flood destroyed many houses in the village.",
+        "The flood destroyed a lot of houses in our village.",
+        "The flood has destroyed many houses in our village."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The flood destroyed many houses in our village."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Бегоҳ тӯфони калон омад ва шамол хеле қавӣ буд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст C",
-        "нодуруст B"
+        "A big storm came in the evening and the wind was very strong.",
+        "A big storm came in the evening and wind was very strong.",
+        "A big storm came in the evening and the wind was strong.",
+        "The big storm came in the evening and the wind was very strong."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "A big storm came in the evening and the wind was very strong."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Раъд баланд буд ва барқ осмони торикро равшан кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The thunder was loud and the lightning lit the dark sky.",
+        "The thunder was loud and lightning lit the dark sky.",
+        "The thunder was loud and the lightning lit the dark sky.",
+        "The thunder was loud and the lightning lit a dark sky."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "The thunder was loud and the lightning lit the dark sky."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Дар роҳи кӯҳӣ хатар буд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: education"
+        "There was danger on the mountain road.",
+        "There was a danger on the mountain road.",
+        "There was danger on the mountain road.",
+        "There was danger in the mountain road."
       ],
-      "answer": "тарҷума: education"
+      "answer": "There was danger on the mountain road."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Тӯфон барои кӯдакони хурд ва пиронсолон хеле хатарнок аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст B"
+        "A storm is very dangerous for small children and old people.",
+        "The storm is very dangerous for small children and old people.",
+        "A storm is very dangerous for small children and the old people.",
+        "A storm is very dangerous to small children and old people."
       ],
-      "answer": "тарҷума: development"
+      "answer": "A storm is very dangerous for small children and old people."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Бехатарӣ муҳимтарин чиз барои оилаи мост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: achievement"
+        "Safety is the most important thing for our family.",
+        "The safety is the most important thing for our family.",
+        "Safety is the most important thing for the family.",
+        "Safety is the most important thing in our family."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "Safety is the most important thing for our family."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Хонаи мо бехатар ва қавӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "Our house is safe and strong.",
+        "Our house is safe and strong.",
+        "The house is safe and strong.",
+        "Our house is safe and powerful."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "Our house is safe and strong."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Мо аз борон дар бинои кӯҳна паноҳ ёфтем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: knowledge",
-        "нодуруст C"
+        "We found shelter from the rain in an old building.",
+        "We found shelter from the rain in the old building.",
+        "We found a shelter from the rain in an old building.",
+        "We found shelter from rain in an old building."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "We found shelter from the rain in an old building."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Мо субҳ дар радио огоҳии тӯфонро шунидем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: conversation",
-        "нодуруст B",
-        "нодуруст A"
+        "We heard a storm warning on the radio in the morning.",
+        "We heard a storm warning on radio in the morning.",
+        "We heard the storm warning on the radio in the morning.",
+        "We heard a storm warning in the radio in the morning."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "We heard a storm warning on the radio in the morning."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Муаллим моро дар бораи хатар дар роҳ огоҳ кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: fluency",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "The teacher warned us about the danger on the road.",
+        "The teacher warned us about danger on the road.",
+        "The teacher warned us of the danger on the road.",
+        "A teacher warned us about the danger on the road."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "The teacher warned us about the danger on the road."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Шамоли қавӣ хонаи кӯҳнаро дар назди дарё вайрон кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: confidence"
+        "The strong wind destroyed the old house near the river.",
+        "The strong wind destroyed an old house near the river.",
+        "Strong wind destroyed the old house near the river.",
+        "The strong wind destroyed the old house near a river."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "The strong wind destroyed the old house near the river."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Мардҳои ҷасур кӯдаконро аз обхезӣ наҷот доданд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: pronunciation",
-        "нодуруст C",
-        "нодуруст A"
+        "The brave men rescued the children from the flood.",
+        "The brave men rescued children from the flood.",
+        "The brave men rescued the children from flood.",
+        "Brave men rescued the children from the flood."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "The brave men rescued the children from the flood."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Вақте ки обу ҳаво бад аст, дар роҳ бодиққат бошед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: vocabulary",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "Be careful on the road when the weather is bad.",
+        "Be careful on the road when weather is bad.",
+        "Be careful in the road when the weather is bad.",
+        "Be careful on the road when the weather is bad."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "Be careful on the road when the weather is bad."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Дар ҳолати фавқулодда фавран кӯмак талаб кунед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: grammar"
+        "In an emergency, call for help at once.",
+        "In an emergency call for help at once.",
+        "In emergency, call for help at once.",
+        "In an emergency, call for help immediately."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "In an emergency, call for help at once."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Мо бояд донем, ки дар ҳолати фавқулодда чӣ кор кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст A"
+        "We must know what to do in an emergency.",
+        "We must know what to do in an emergency.",
+        "We should know what to do in an emergency.",
+        "We must know what to do in emergency."
       ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "тарҷума: education",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: development"
-    },
-    {
-      "q": "'achievement' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: achievement"
-    },
-    {
-      "q": "'challenge' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: challenge"
-      ],
-      "answer": "тарҷума: challenge"
-    },
-    {
-      "q": "'knowledge' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: knowledge"
-      ],
-      "answer": "тарҷума: knowledge"
-    },
-    {
-      "q": "'conversation' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: conversation",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: conversation"
-    },
-    {
-      "q": "'fluency' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: fluency"
-      ],
-      "answer": "тарҷума: fluency"
-    },
-    {
-      "q": "'confidence' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: pronunciation",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "тарҷума: vocabulary",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: grammar"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: experience"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: communication"
+      "answer": "We must know what to do in an emergency."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 34
+  "wordsCount": 16
 }
