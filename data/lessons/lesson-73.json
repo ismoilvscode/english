@@ -1,506 +1,542 @@
 {
   "id": 73,
-  "title": "Муоширати воқеӣ 73",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 73: Ҳунари расмкашӣ ва эҷодиёт",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "canvas",
+      "tj": "бодбон (тахтаи расм)",
+      "ex": "The artist paints on a big canvas."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "brush",
+      "tj": "мӯйқалам",
+      "ex": "He paints with a thin brush."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "paint",
+      "tj": "ранг",
+      "ex": "The paint is bright and beautiful."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "portrait",
+      "tj": "портрет",
+      "ex": "She painted a portrait of her mother."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "landscape",
+      "tj": "манзара",
+      "ex": "This landscape shows our mountains."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "gallery",
+      "tj": "галерея",
+      "ex": "We visited an art gallery in Dushanbe."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "masterpiece",
+      "tj": "асари аҷоиб",
+      "ex": "This painting is a real masterpiece."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to imagine",
+      "tj": "тасаввур кардан",
+      "ex": "I imagine a beautiful garden."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "imagination",
+      "tj": "тасаввур",
+      "ex": "A good artist has strong imagination."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "creative",
+      "tj": "эҷодкор",
+      "ex": "My sister is a creative girl."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "inspiration",
+      "tj": "илҳом",
+      "ex": "Nature gives me inspiration."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "to inspire",
+      "tj": "илҳом бахшидан",
+      "ex": "My teacher inspires me to draw."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "sketch",
+      "tj": "эскиз",
+      "ex": "I made a quick sketch of the tree."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "drawing",
+      "tj": "расм",
+      "ex": "Her drawing is very beautiful."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "shade",
+      "tj": "соя",
+      "ex": "The artist uses light and shade."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "colourful",
+      "tj": "рангин",
+      "ex": "The autumn forest is very colourful."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 73)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "The artist paints on a big canvas with a thin brush.",
+      "tj": "Рассом бо мӯйқалами тунук дар бодбони калон расм мекашад."
     },
     {
-      "en": "I'm working on lesson 73",
-      "tj": "Ман дарси 73-ро меомӯзам"
+      "en": "The paint is bright and the picture looks beautiful.",
+      "tj": "Ранг дурахшон аст ва расм зебо менамояд."
+    },
+    {
+      "en": "She painted a portrait of her mother.",
+      "tj": "Ӯ портрети модарашро кашид."
+    },
+    {
+      "en": "This landscape shows the beautiful mountains of our country.",
+      "tj": "Ин манзара кӯҳҳои зебои кишвари моро нишон медиҳад."
+    },
+    {
+      "en": "We visited an art gallery in Dushanbe last week.",
+      "tj": "Мо ҳафтаи гузашта ба галереяи санъат дар Душанбе рафтем."
+    },
+    {
+      "en": "This painting is a real masterpiece of our artist.",
+      "tj": "Ин расм асари аҷоиби ҳақиқии рассоми мост."
+    },
+    {
+      "en": "When I read a book, I imagine a beautiful garden.",
+      "tj": "Вақте ки ман китоб мехонам, ман боғи зеборо тасаввур мекунам."
+    },
+    {
+      "en": "A good artist has a strong imagination.",
+      "tj": "Рассоми хуб тасаввури қавӣ дорад."
+    },
+    {
+      "en": "My sister is a creative girl and she draws very well.",
+      "tj": "Хоҳари ман духтари эҷодкор аст ва хеле хуб расм мекашад."
+    },
+    {
+      "en": "Nature gives me inspiration for my drawings.",
+      "tj": "Табиат ба ман барои расмҳоям илҳом мебахшад."
+    },
+    {
+      "en": "My teacher inspires me to draw every day.",
+      "tj": "Муаллимам маро барои ҳар рӯз расм кашидан илҳом мебахшад."
+    },
+    {
+      "en": "I made a quick sketch of the old tree.",
+      "tj": "Ман эскизи зудҳатаи дарахти кӯҳнаро кашидам."
+    },
+    {
+      "en": "Her drawing is very beautiful and colourful.",
+      "tj": "Расми ӯ хеле зебо ва рангин аст."
+    },
+    {
+      "en": "The artist uses light and shade in his paintings.",
+      "tj": "Рассом дар расмҳояш равшанӣ ва сояро истифода мебарад."
+    },
+    {
+      "en": "The autumn forest is very colourful and beautiful.",
+      "tj": "Ҷангали тирамоҳӣ хеле рангин ва зебо аст."
+    },
+    {
+      "en": "A real artist creates beauty from simple things.",
+      "tj": "Рассоми ҳақиқӣ аз чизҳои оддӣ зебоӣ меофарад."
     }
   ],
   "text": {
-    "en": "Text for lesson 73. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 73 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 73 text.",
-    "tj": "Матни дарси 73..."
+    "en": "The Art of Drawing and Creativity\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. My sister Zuhro loves drawing very much. She draws every day: mountains, flowers, animals and people. When I look at her drawings, I feel happy. Today I want to tell you about the art of drawing and about creativity.\n\nDrawing is a very old art. People started to draw on the walls of caves many thousands of years ago. They drew animals, the sun and their families. Even then, people wanted to show the world around them and their feelings. Today artists draw on paper, on canvas and on computer screens. But the main thing has not changed: an artist shows the beauty of the world and his own soul.\n\nAn artist uses many tools. A brush, a pencil, a canvas and paint are the main tools of a real artist. A good artist knows how to use light and shade. He knows how to mix colours to get the right feeling. Some paintings are bright and colourful. Some paintings are dark and quiet. Every painting tells us a story. A real artist puts a piece of his heart into every drawing.\n\nThere are different kinds of paintings. A portrait shows a person — his face, his eyes, his character. A landscape shows nature — mountains, rivers, fields and forests. A still life shows simple things: fruits, flowers, a cup, a book. My sister likes to draw landscapes and portraits. Her favourite subject is our grandmother. She has drawn her five times already, and every drawing is different.\n\nEvery artist needs imagination and inspiration. Imagination is the power to see pictures in your mind. Inspiration is a special feeling when you want to create something new and beautiful. My sister says: \"When I see a beautiful sunset, I want to draw it. When I see a kind face, I want to paint it. Nature and people give me inspiration.\"\n\nA creative person is a person who creates new things. A writer creates stories. A musician creates songs. An artist creates paintings. A scientist creates new ideas. Every person can be creative — not only artists. When we cook, when we build, when we write a letter — we create something new. My grandfather says: \"Every person is an artist in his own way. You only need to find your own art.\"\n\nMy teacher of art inspires me very much. She says: \"Do not be afraid to make mistakes. Every great artist made thousands of bad drawings before he created his masterpiece. A masterpiece is a great work of art that people admire for many years. But behind every masterpiece there are years of hard work.\"\n\nLast month our class went to an art gallery in Dushanbe. We saw many beautiful paintings of famous Tajik artists. I liked the landscapes of our mountains most of all. They were so real that I felt I was standing in the mountains myself. I understood that a real artist can show the beauty of his country to the whole world.\n\nWhen I grow up, I want to be a doctor. But I also want to learn to draw well. I want to draw my family, my city and the beautiful nature of Tajikistan. Drawing helps me to relax and to see the world in a new way. My sister says: \"When you draw, you learn to see.\" I think she is right. Because a real artist sees beauty where other people see nothing.",
+    "tj": "Ҳунари расмкашӣ ва эҷодиёт\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Хоҳарам Зуҳро расмкаширо хеле дӯст медорад. Ӯ ҳар рӯз расм мекашад: кӯҳҳо, гулҳо, ҳайвонот ва одамон. Вақте ки ман ба расмҳои ӯ нигоҳ мекунам, ман худро хушбахт ҳис мекунам. Имрӯз ман мехоҳам ба шумо дар бораи ҳунари расмкашӣ ва дар бораи эҷодиёт нақл кунам.\n\nРасмкашӣ санъати хеле қадимӣ аст. Одамон ҳазорон сол пеш дар деворҳои ғорҳо расм кашиданд. Онҳо ҳайвонот, офтоб ва оилаи худро мекашиданд. Ҳатто он вақт одамон мехостанд ҷаҳони атрофи худ ва ҳиссиёти худро нишон диҳанд. Имрӯз рассомон дар коғаз, дар бодбон ва дар экранҳои компютер расм мекашанд. Аммо чизи асосӣ тағйир наёфтааст: рассом зебоии ҷаҳон ва ҷони худро нишон медиҳад.\n\nРассом асбобҳои зиёдро истифода мебарад. Мӯйқалам, қалам, бодбон ва ранг асбобҳои асосии рассоми ҳақиқӣ ҳастанд. Рассоми хуб медонад, ки чӣ тавр равшанӣ ва сояро истифода барад. Ӯ медонад, ки чӣ тавр рангҳоро омехта кунад, то ки ҳисси дурустро гирад. Баъзе расмҳо дурахшон ва рангинанд. Баъзе расмҳо торик ва ором ҳастанд. Ҳар як расм ба мо ҳикоя нақл мекунад. Рассоми ҳақиқӣ ба ҳар як расм порчаи дили худро мегузорад.\n\nНавъҳои гуногуни расмҳо ҳастанд. Портрет одамро нишон медиҳад — рӯй, чашмон ва хислати ӯро. Манзара табиатро нишон медиҳад — кӯҳҳо, дарёҳо, киштзорҳо ва ҷангалҳоро. Расми чизҳои хомӯш чизҳои оддиро нишон медиҳад: меваҳо, гулҳо, пиёла, китоб. Хоҳарам манзараҳо ва портретҳоро кашиданро дӯст медорад. Мавзӯи дӯстдоштаи ӯ бибии мост. Ӯ аллакай ӯро панҷ маротиба кашидааст ва ҳар як расм гуногун аст.\n\nҲар як рассом ба тасаввур ва илҳом ниёз дорад. Тасаввур қувватест, ки шумо дар ақли худ расмҳоро мебинед. Илҳом ҳисси махсусест, вақте ки шумо чизи нав ва зеборо офаридан мехоҳед. Хоҳарам мегӯяд: «Вақте ки ман ғуруби зебои офтобро мебинам, ман мехоҳам онро кашам. Вақте ки ман рӯи меҳрубонро мебинам, ман мехоҳам онро кашам. Табиат ва одамон ба ман илҳом мебахшанд.»\n\nОдами эҷодкор одамест, ки чизҳои навро меофарад. Нависанда ҳикояҳо меофарад. Мусиқачӣ сурудҳо меофарад. Рассом расмҳо меофарад. Олим фикрҳои нав меофарад. Ҳар як одам метавонад эҷодкор бошад — на танҳо рассомон. Вақте ки мо пухта мепазем, вақте ки мо месозем, вақте ки мо мактуб менависем — мо чизи навро меофарем. Бобоям мегӯяд: «Ҳар як одам ба тарзи худ рассом аст. Шумо танҳо бояд санъати худро ёбед.»\n\nМуаллимаи санъати ман ба ман хеле илҳом мебахшад. Ӯ мегӯяд: «Аз хато кардан натарсед. Ҳар як рассоми бузург ҳазорон расмҳои бадро кашидааст, пеш аз он ки асари аҷоиби худро офарад. Асари аҷоиб кори бузурги санъатест, ки одамон солҳои зиёд онро тамошо мекунанд. Аммо дар паси ҳар як асари аҷоиб солҳои меҳнати душвор ҳастанд.»\n\nМоҳи гузашта синфи мо ба галереяи санъат дар Душанбе рафт. Мо расмҳои зебои рассомони машҳури тоҷикро дидем. Ба ман манзараҳои кӯҳҳои мо аз ҳама бештар писанд омаданд. Онҳо он қадар ҳақиқӣ буданд, ки ман худро дар кӯҳҳо истода ҳис кардам. Ман фаҳмидам, ки рассоми ҳақиқӣ метавонад зебоии кишвари худро ба тамоми ҷаҳон нишон диҳад.\n\nВақте ки ман калон мешавам, ман мехоҳам духтур шавам. Аммо ман инчунин мехоҳам расмкашиданро хуб омӯзам. Ман мехоҳам оилаи худ, шаҳри худ ва табиати зебои Тоҷикистонро кашам. Расмкашӣ ба ман дар ором шудан ва дар дидани ҷаҳон ба тарзи нав кӯмак мекунад. Хоҳарам мегӯяд: «Вақте ки шумо расм мекашед, шумо диданро меомӯзед.» Ман фикр мекунам, ки ӯ ҳақ аст. Зеро ки рассоми ҳақиқӣ зебоиро дар он ҷое мебинад, ки одамони дигар ҳеҷ чиз намебинанд."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Рассом бо мӯйқалами тунук дар бодбони калон расм мекашад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: opportunity",
-        "нодуруст A"
+        "The artist paints on a big canvas with a thin brush.",
+        "The artist paints on a big canvas by a thin brush.",
+        "The artist draws on a big canvas with a thin brush.",
+        "An artist paints on a big canvas with a thin brush."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "The artist paints on a big canvas with a thin brush."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ранг дурахшон аст ва расм зебо менамояд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: experience",
-        "нодуруст A"
+        "The paint is bright and the picture looks beautiful.",
+        "The paint is bright and the picture looks nice.",
+        "The paint is bright and the picture looks beautiful.",
+        "The paint is light and the picture looks beautiful."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The paint is bright and the picture looks beautiful."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ӯ портрети модарашро кашид» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст A"
+        "She painted a portrait of her mother.",
+        "She drew a portrait of her mother.",
+        "She painted the portrait of her mother.",
+        "She painted a portrait of the mother."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "She painted a portrait of her mother."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ин манзара кӯҳҳои зебои кишвари моро нишон медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: communication"
+        "This landscape shows the beautiful mountains of our country.",
+        "This landscape shows beautiful mountains of our country.",
+        "This landscape shows the beautiful mountains in our country.",
+        "That landscape shows the beautiful mountains of our country."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "This landscape shows the beautiful mountains of our country."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Мо ҳафтаи гузашта ба галереяи санъат дар Душанбе рафтем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: education",
-        "нодуруст B"
+        "We visited an art gallery in Dushanbe last week.",
+        "We visited an art gallery in Dushanbe last week.",
+        "We went to an art gallery in Dushanbe last week.",
+        "We visited the art gallery in Dushanbe last week."
       ],
-      "answer": "тарҷума: education"
+      "answer": "We visited an art gallery in Dushanbe last week."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Ин расм асари аҷоиби ҳақиқии рассоми мост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "This painting is a real masterpiece of our artist.",
+        "This painting is a real masterpiece of our artist.",
+        "This picture is a real masterpiece of our artist.",
+        "This painting is the real masterpiece of our artist."
       ],
-      "answer": "тарҷума: development"
+      "answer": "This painting is a real masterpiece of our artist."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Вақте ки ман китоб мехонам, ман боғи зеборо тасаввур мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "When I read a book, I imagine a beautiful garden.",
+        "When I read a book I imagine a beautiful garden.",
+        "When I read the book, I imagine a beautiful garden.",
+        "When I am reading a book, I imagine a beautiful garden."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "When I read a book, I imagine a beautiful garden."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Рассоми хуб тасаввури қавӣ дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "A good artist has a strong imagination.",
+        "A good artist has strong imagination.",
+        "The good artist has a strong imagination.",
+        "A good artist has a strong imagination."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "A good artist has a strong imagination."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Хоҳари ман духтари эҷодкор аст ва хеле хуб расм мекашад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: knowledge",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "My sister is a creative girl and she draws very well.",
+        "My sister is a creative girl and draws very well.",
+        "My sister is the creative girl and she draws very well.",
+        "My sister is a creative girl and she draws very good."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "My sister is a creative girl and she draws very well."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Табиат ба ман барои расмҳоям илҳом мебахшад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "Nature gives me inspiration for my drawings.",
+        "Nature gives me an inspiration for my drawings.",
+        "The nature gives me inspiration for my drawings.",
+        "Nature gives me inspiration to my drawings."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "Nature gives me inspiration for my drawings."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Муаллимам маро барои ҳар рӯз расм кашидан илҳом мебахшад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: fluency",
-        "нодуруст C",
-        "нодуруст B"
+        "My teacher inspires me to draw every day.",
+        "My teacher inspires me draw every day.",
+        "The teacher inspires me to draw every day.",
+        "My teacher inspires me for drawing every day."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "My teacher inspires me to draw every day."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ман эскизи зудҳатаи дарахти кӯҳнаро кашидам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: confidence",
-        "нодуруст B"
+        "I made a quick sketch of the old tree.",
+        "I made the quick sketch of the old tree.",
+        "I made a quick sketch of an old tree.",
+        "I did a quick sketch of the old tree."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "I made a quick sketch of the old tree."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Расми ӯ хеле зебо ва рангин аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: pronunciation"
+        "Her drawing is very beautiful and colourful.",
+        "Her drawing is very beautiful and colourful.",
+        "His drawing is very beautiful and colourful.",
+        "Her picture is very beautiful and colourful."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "Her drawing is very beautiful and colourful."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Рассом дар расмҳояш равшанӣ ва сояро истифода мебарад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: vocabulary",
-        "нодуруст C",
-        "нодуруст A"
+        "The artist uses light and shade in his paintings.",
+        "The artist uses light and shadow in his paintings.",
+        "The artist uses the light and shade in his paintings.",
+        "An artist uses light and shade in his paintings."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "The artist uses light and shade in his paintings."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ҷангали тирамоҳӣ хеле рангин ва зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: grammar"
+        "The autumn forest is very colourful and beautiful.",
+        "The autumn forest is very colourful and beautiful.",
+        "Autumn forest is very colourful and beautiful.",
+        "The autumn forest is very colourful and nice."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "The autumn forest is very colourful and beautiful."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Рассоми ҳақиқӣ аз чизҳои оддӣ зебоӣ меофарад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: opportunity",
-        "нодуруст B"
+        "A real artist creates beauty from simple things.",
+        "A real artist creates beauty of simple things.",
+        "The real artist creates beauty from simple things.",
+        "A real artist creates the beauty from simple things."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "A real artist creates beauty from simple things."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Хоҳарам Зуҳро расмкаширо хеле дӯст медорад. Ӯ ҳар рӯз расм мекашад: кӯҳҳо, гулҳо, ҳайвонот ва одамон. Вақте ки ман ба расмҳои ӯ нигоҳ мекунам, ман худро хушбахт ҳис мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "My sister Zuhro loves drawing very much. She draws every day: mountains, flowers, animals and people. When I look at her drawings, I feel happy.",
+        "My sister Zuhro loves drawing very much. She draws every day: mountains, flowers, animals and people. When I look at her drawings I feel happy.",
+        "My sister Zuhro loves drawing very much. She draws every day: mountains, flowers, animals and people. When I look at the drawings of her, I feel happy.",
+        "My sister Zuhro loves to draw very much. She draws every day: mountains, flowers, animals and people. When I look at her drawings, I feel happy."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "My sister Zuhro loves drawing very much. She draws every day: mountains, flowers, animals and people. When I look at her drawings, I feel happy."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Имрӯз ман мехоҳам ба шумо дар бораи ҳунари расмкашӣ ва дар бораи эҷодиёт нақл кунам. Расмкашӣ санъати хеле қадимӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: environment"
+        "Today I want to tell you about the art of drawing and about creativity. Drawing is a very old art.",
+        "Today I want to tell you about the art of drawing and about creativity. Drawing is a very ancient art.",
+        "Today I want to tell you about the art of drawing and creativity. Drawing is a very old art.",
+        "Today I want to tell you about the art of drawing and about creativity. The drawing is a very old art."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Today I want to tell you about the art of drawing and about creativity. Drawing is a very old art."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Одамон ҳазорон сол пеш дар деворҳои ғорҳо расм кашиданд. Онҳо ҳайвонот, офтоб ва оилаи худро мекашиданд. Ҳатто он вақт одамон мехостанд ҷаҳони атрофи худ ва ҳиссиёти худро нишон диҳанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "People started to draw on the walls of caves many thousands of years ago. They drew animals, the sun and their families. Even then, people wanted to show the world around them and their feelings.",
+        "People started to draw on the walls of caves many thousands of years ago. They drew animals, the sun and their families. Even then people wanted to show the world around them and their feelings.",
+        "People started to draw on the walls of caves many thousands of years ago. They drew animals, the sun and their families. Even then, people wanted to show the world around them and their feelings.",
+        "People started drawing on the walls of caves many thousands of years ago. They drew animals, the sun and their families. Even then, people wanted to show the world around them and their feelings."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "People started to draw on the walls of caves many thousands of years ago. They drew animals, the sun and their families. Even then, people wanted to show the world around them and their feelings."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Имрӯз рассомон дар коғаз, дар бодбон ва дар экранҳои компютер расм мекашанд. Аммо чизи асосӣ тағйир наёфтааст: рассом зебоии ҷаҳон ва ҷони худро нишон медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст B"
+        "Today artists draw on paper, on canvas and on computer screens. But the main thing has not changed: an artist shows the beauty of the world and his own soul.",
+        "Today artists draw on paper, on canvas and on computer screens. But the main thing has not changed: the artist shows the beauty of the world and his own soul.",
+        "Today artists draw on paper, on canvas and on the computer screens. But the main thing has not changed: an artist shows the beauty of the world and his own soul.",
+        "Today artists draw on paper, on canvas and on computer screens. But the main thing did not change: an artist shows the beauty of the world and his own soul."
       ],
-      "answer": "тарҷума: education"
+      "answer": "Today artists draw on paper, on canvas and on computer screens. But the main thing has not changed: an artist shows the beauty of the world and his own soul."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Рассом асбобҳои зиёдро истифода мебарад. Мӯйқалам, қалам, бодбон ва ранг асбобҳои асосии рассоми ҳақиқӣ ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: development"
+        "An artist uses many tools. A brush, a pencil, a canvas and paint are the main tools of a real artist.",
+        "An artist uses many tools. A brush, a pencil, a canvas and paint are the main tools of the real artist.",
+        "The artist uses many tools. A brush, a pencil, a canvas and paint are the main tools of a real artist.",
+        "An artist uses many tools: a brush, a pencil, a canvas and paint are the main tools of a real artist."
       ],
-      "answer": "тарҷума: development"
+      "answer": "An artist uses many tools. A brush, a pencil, a canvas and paint are the main tools of a real artist."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Рассоми хуб медонад, ки чӣ тавр равшанӣ ва сояро истифода барад. Ӯ медонад, ки чӣ тавр рангҳоро омехта кунад, то ки ҳисси дурустро гирад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст A"
+        "A good artist knows how to use light and shade. He knows how to mix colours to get the right feeling.",
+        "A good artist knows how to use light and shade. He knows how to mix colors to get the right feeling.",
+        "The good artist knows how to use light and shade. He knows how to mix colours to get the right feeling.",
+        "A good artist knows how to use light and shade. He knows how to mix the colours to get the right feeling."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "A good artist knows how to use light and shade. He knows how to mix colours to get the right feeling."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Баъзе расмҳо дурахшон ва рангинанд. Баъзе расмҳо торик ва ором ҳастанд. Ҳар як расм ба мо ҳикоя нақл мекунад. Рассоми ҳақиқӣ ба ҳар як расм порчаи дили худро мегузорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: challenge",
-        "нодуруст C",
-        "нодуруст A"
+        "Some paintings are bright and colourful. Some paintings are dark and quiet. Every painting tells us a story. A real artist puts a piece of his heart into every drawing.",
+        "Some paintings are bright and colourful. Some paintings are dark and quiet. Each painting tells us a story. A real artist puts a piece of his heart into every drawing.",
+        "Some paintings are bright and colourful, some paintings are dark and quiet. Every painting tells us a story. A real artist puts a piece of his heart into every drawing.",
+        "Some paintings are bright and colourful. Some paintings are dark and quiet. Every painting tells us a story. The real artist puts a piece of his heart into every drawing."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "Some paintings are bright and colourful. Some paintings are dark and quiet. Every painting tells us a story. A real artist puts a piece of his heart into every drawing."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Навъҳои гуногуни расмҳо ҳастанд. Портрет одамро нишон медиҳад — рӯй, чашмон ва хислати ӯро. Манзара табиатро нишон медиҳад — кӯҳҳо, дарёҳо, киштзорҳо ва ҷангалҳоро» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: knowledge",
-        "нодуруст B",
-        "нодуруст C"
+        "There are different kinds of paintings. A portrait shows a person — his face, his eyes, his character. A landscape shows nature — mountains, rivers, fields and forests.",
+        "There are different kinds of paintings. A portrait shows a person: his face, his eyes, his character. A landscape shows nature — mountains, rivers, fields and forests.",
+        "There are different kinds of paintings. A portrait shows a person — his face, his eyes, his character. The landscape shows nature — mountains, rivers, fields and forests.",
+        "There are different kinds of pictures. A portrait shows a person — his face, his eyes, his character. A landscape shows nature — mountains, rivers, fields and forests."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "There are different kinds of paintings. A portrait shows a person — his face, his eyes, his character. A landscape shows nature — mountains, rivers, fields and forests."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Расми чизҳои хомӯш чизҳои оддиро нишон медиҳад: меваҳо, гулҳо, пиёла, китоб. Хоҳарам манзараҳо ва портретҳоро кашиданро дӯст медорад. Мавзӯи дӯстдоштаи ӯ бибии мост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "A still life shows simple things: fruits, flowers, a cup, a book. My sister likes to draw landscapes and portraits. Her favourite subject is our grandmother.",
+        "A still life shows simple things: fruits, flowers, a cup, a book. My sister likes to draw landscapes and portraits. Her favourite subject is our grandmother.",
+        "A still life shows simple things: fruits, flowers, a cup, a book. My sister likes to draw landscapes and portraits. Her favourite subject is our grandmother.",
+        "A still life shows simple things: fruit, flowers, a cup, a book. My sister likes to draw landscapes and portraits. Her favourite subject is our grandmother."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "A still life shows simple things: fruits, flowers, a cup, a book. My sister likes to draw landscapes and portraits. Her favourite subject is our grandmother."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ӯ аллакай ӯро панҷ маротиба кашидааст ва ҳар як расм гуногун аст. Ҳар як рассом ба тасаввур ва илҳом ниёз дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: fluency"
+        "She has drawn her five times already, and every drawing is different. Every artist needs imagination and inspiration.",
+        "She has drawn her five times already and every drawing is different. Every artist needs imagination and inspiration.",
+        "She has drawn her five times already, and every drawing is different. Each artist needs imagination and inspiration.",
+        "She has drawn her five times already, and every picture is different. Every artist needs imagination and inspiration."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "She has drawn her five times already, and every drawing is different. Every artist needs imagination and inspiration."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Тасаввур қувватест, ки шумо дар ақли худ расмҳоро мебинед. Илҳом ҳисси махсусест, вақте ки шумо чизи нав ва зеборо офаридан мехоҳед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: confidence",
-        "нодуруст A"
+        "Imagination is the power to see pictures in your mind. Inspiration is a special feeling when you want to create something new and beautiful.",
+        "Imagination is the power to see pictures in your mind. Inspiration is a special feeling when you want to create something new and beautiful.",
+        "The imagination is the power to see pictures in your mind. Inspiration is a special feeling when you want to create something new and beautiful.",
+        "Imagination is the power to see pictures in your mind. The inspiration is a special feeling when you want to create something new and beautiful."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "Imagination is the power to see pictures in your mind. Inspiration is a special feeling when you want to create something new and beautiful."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Хоҳарам мегӯяд: \"Вақте ки ман ғуруби зебои офтобро мебинам, ман мехоҳам онро кашам. Вақте ки ман рӯи меҳрубонро мебинам, ман мехоҳам онро кашам. Табиат ва одамон ба ман илҳом мебахшанд.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: pronunciation",
-        "нодуруст A"
+        "My sister says: \"When I see a beautiful sunset, I want to draw it. When I see a kind face, I want to paint it. Nature and people give me inspiration.\"",
+        "My sister says: \"When I see a beautiful sunset I want to draw it. When I see a kind face, I want to paint it. Nature and people give me inspiration.\"",
+        "My sister says: \"When I see a beautiful sunset, I want to draw it. When I see a kind face I want to paint it. Nature and people give me inspiration.\"",
+        "My sister says: \"When I see the beautiful sunset, I want to draw it. When I see a kind face, I want to paint it. Nature and people give me inspiration.\""
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "My sister says: \"When I see a beautiful sunset, I want to draw it. When I see a kind face, I want to paint it. Nature and people give me inspiration.\""
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Одами эҷодкор одамест, ки чизҳои навро меофарад. Нависанда ҳикояҳо меофарад. Мусиқачӣ сурудҳо меофарад. Рассом расмҳо меофарад. Олим фикрҳои нав меофарад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: vocabulary",
-        "нодуруст B",
-        "нодуруст A"
+        "A creative person is a person who creates new things. A writer creates stories. A musician creates songs. An artist creates paintings. A scientist creates new ideas.",
+        "A creative person is a person who creates new things. The writer creates stories. The musician creates songs. The artist creates paintings. The scientist creates new ideas.",
+        "A creative person is a person that creates new things. A writer creates stories. A musician creates songs. An artist creates paintings. A scientist creates new ideas.",
+        "A creative person is a person who creates new things. A writer creates stories, a musician creates songs, an artist creates paintings, a scientist creates new ideas."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "A creative person is a person who creates new things. A writer creates stories. A musician creates songs. An artist creates paintings. A scientist creates new ideas."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ҳар як одам метавонад эҷодкор бошад — на танҳо рассомон. Вақте ки мо пухта мепазем, вақте ки мо месозем, вақте ки мо мактуб менависем — мо чизи навро меофарем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: grammar",
-        "нодуруст B",
-        "нодуруст C"
+        "Every person can be creative — not only artists. When we cook, when we build, when we write a letter — we create something new.",
+        "Every person can be creative — not only artists. When we cook, when we build, when we write a letter we create something new.",
+        "Every person can be creative, not only artists. When we cook, when we build, when we write a letter — we create something new.",
+        "Every person can be creative — not only the artists. When we cook, when we build, when we write a letter — we create something new."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "Every person can be creative — not only artists. When we cook, when we build, when we write a letter — we create something new."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Бобоям мегӯяд: \"Ҳар як одам ба тарзи худ рассом аст. Шумо танҳо бояд санъати худро ёбед.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: opportunity"
+        "My grandfather says: \"Every person is an artist in his own way. You only need to find your own art.\"",
+        "My grandfather says: \"Every person is an artist in his own way. You only need to find your own art.\"",
+        "My grandfather says: \"Each person is an artist in his own way. You only need to find your own art.\"",
+        "My grandfather says: \"Every person is the artist in his own way. You only need to find your own art.\""
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "My grandfather says: \"Every person is an artist in his own way. You only need to find your own art.\""
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Муаллимаи санъати ман ба ман хеле илҳом мебахшад. Ӯ мегӯяд: \"Аз хато кардан натарсед. Ҳар як рассоми бузург ҳазорон расмҳои бадро кашидааст, пеш аз он ки асари аҷоиби худро офарад.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст C"
+        "My teacher of art inspires me very much. She says: \"Do not be afraid to make mistakes. Every great artist made thousands of bad drawings before he created his masterpiece.\"",
+        "My teacher of art inspires me very much. She says: \"Don't be afraid to make mistakes. Every great artist made thousands of bad drawings before he created his masterpiece.\"",
+        "My teacher of art inspires me very much. She says: \"Do not be afraid of making mistakes. Every great artist made thousands of bad drawings before he created his masterpiece.\"",
+        "My art teacher inspires me very much. She says: \"Do not be afraid to make mistakes. Every great artist made thousands of bad drawings before he created his masterpiece.\""
       ],
-      "answer": "тарҷума: experience"
+      "answer": "My teacher of art inspires me very much. She says: \"Do not be afraid to make mistakes. Every great artist made thousands of bad drawings before he created his masterpiece.\""
+    },
+    {
+      "q": "«Асари аҷоиб кори бузурги санъатест, ки одамон солҳои зиёд онро тамошо мекунанд. Аммо дар паси ҳар як асари аҷоиб солҳои меҳнати душвор ҳастанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "A masterpiece is a great work of art that people admire for many years. But behind every masterpiece there are years of hard work.",
+        "A masterpiece is a great work of art which people admire for many years. But behind every masterpiece there are years of hard work.",
+        "A masterpiece is a great work of art that people admire for many years. But behind each masterpiece there are years of hard work.",
+        "The masterpiece is a great work of art that people admire for many years. But behind every masterpiece there are years of hard work."
+      ],
+      "answer": "A masterpiece is a great work of art that people admire for many years. But behind every masterpiece there are years of hard work."
+    },
+    {
+      "q": "«Моҳи гузашта синфи мо ба галереяи санъат дар Душанбе рафт. Мо расмҳои зебои рассомони машҳури тоҷикро дидем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Last month our class went to an art gallery in Dushanbe. We saw many beautiful paintings of famous Tajik artists.",
+        "Last month our class went to an art gallery in Dushanbe. We saw many beautiful paintings of the famous Tajik artists.",
+        "Last month our class visited an art gallery in Dushanbe. We saw many beautiful paintings of famous Tajik artists.",
+        "Last month our class went to the art gallery in Dushanbe. We saw many beautiful paintings of famous Tajik artists."
+      ],
+      "answer": "Last month our class went to an art gallery in Dushanbe. We saw many beautiful paintings of famous Tajik artists."
+    },
+    {
+      "q": "«Ба ман манзараҳои кӯҳҳои мо аз ҳама бештар писанд омаданд. Онҳо он қадар ҳақиқӣ буданд, ки ман худро дар кӯҳҳо истода ҳис кардам. Ман фаҳмидам, ки рассоми ҳақиқӣ метавонад зебоии кишвари худро ба тамоми ҷаҳон нишон диҳад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "I liked the landscapes of our mountains most of all. They were so real that I felt I was standing in the mountains myself. I understood that a real artist can show the beauty of his country to the whole world.",
+        "I liked the landscapes of our mountains most of all. They were so real that I felt I was standing in the mountains myself. I understood that a real artist can show the beauty of his country to the whole world.",
+        "I liked the landscapes of our mountains most of all. They were so real that I felt I was standing in mountains myself. I understood that a real artist can show the beauty of his country to the whole world.",
+        "I liked the landscapes of our mountains most of all. They were so real that I felt I was standing in the mountains myself. I understood that the real artist can show the beauty of his country to the whole world."
+      ],
+      "answer": "I liked the landscapes of our mountains most of all. They were so real that I felt I was standing in the mountains myself. I understood that a real artist can show the beauty of his country to the whole world."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам духтур шавам. Аммо ман инчунин мехоҳам расмкашиданро хуб омӯзам. Ман мехоҳам оилаи худ, шаҳри худ ва табиати зебои Тоҷикистонро кашам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to be a doctor. But I also want to learn to draw well. I want to draw my family, my city and the beautiful nature of Tajikistan.",
+        "When I grow up I want to be a doctor. But I also want to learn to draw well. I want to draw my family, my city and the beautiful nature of Tajikistan.",
+        "When I grow up, I want to become a doctor. But I also want to learn to draw well. I want to draw my family, my city and the beautiful nature of Tajikistan.",
+        "When I grow up, I want to be a doctor. But I want to learn to draw well too. I want to draw my family, my city and the beautiful nature of Tajikistan."
+      ],
+      "answer": "When I grow up, I want to be a doctor. But I also want to learn to draw well. I want to draw my family, my city and the beautiful nature of Tajikistan."
+    },
+    {
+      "q": "«Расмкашӣ ба ман дар ором шудан ва дар дидани ҷаҳон ба тарзи нав кӯмак мекунад. Хоҳарам мегӯяд: \"Вақте ки шумо расм мекашед, шумо диданро меомӯзед.\" Ман фикр мекунам, ки ӯ ҳақ аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Drawing helps me to relax and to see the world in a new way. My sister says: \"When you draw, you learn to see.\" I think she is right.",
+        "Drawing helps me relax and to see the world in a new way. My sister says: \"When you draw, you learn to see.\" I think she is right.",
+        "Drawing helps me to relax and see the world in a new way. My sister says: \"When you draw, you learn to see.\" I think she is right.",
+        "Drawing helps me to relax and to see the world in a new way. My sister says: \"When you draw you learn to see.\" I think she is right."
+      ],
+      "answer": "Drawing helps me to relax and to see the world in a new way. My sister says: \"When you draw, you learn to see.\" I think she is right."
+    },
+    {
+      "q": "«Зеро ки рассоми ҳақиқӣ зебоиро дар он ҷое мебинад, ки одамони дигар ҳеҷ чиз намебинанд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Because a real artist sees beauty where other people see nothing.",
+        "Because a real artist sees beauty where other people see nothing.",
+        "Because the real artist sees beauty where other people see nothing.",
+        "Because a real artist sees the beauty where other people see nothing."
+      ],
+      "answer": "Because a real artist sees beauty where other people see nothing."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 32
+  "wordsCount": 16
 }
