@@ -1,11 +1,20 @@
 // ============================================================
-// ADMIN PANEL — Premium Orders Management
+// ADMIN PANEL — Premium Orders + User Management
 // ============================================================
 const ADMIN_ID_LOCAL = 8406121228;
 const user_admin = window.Telegram?.WebApp?.initDataUnsafe?.user || {};
 const IS_ADMIN_LOCAL = Number(user_admin.id) === ADMIN_ID_LOCAL;
 
 let currentOrders = [];
+let allUsersList = [];
+let selectedUser = null;
+
+const PREMIUM_PLANS_ADMIN = {
+  '1day':   { label: '1 рӯз',   days: 1 },
+  '1week':  { label: '1 ҳафта', days: 7 },
+  '1month': { label: '1 моҳ',   days: 30 },
+  '1year':  { label: '1 сол',   days: 365 }
+};
 
 // ============================================================
 // INIT
@@ -13,66 +22,208 @@ let currentOrders = [];
 function initAdminPanel() {
   if (!IS_ADMIN_LOCAL) return;
 
-  // Тугмаҳои амалҳои админ
   document.querySelectorAll('[data-admin-action]').forEach(btn => {
-    btn.addEventListener('click', () => {
-      const action = btn.dataset.adminAction;
-
-      if (action === 'give-premium') {
-        const plan = document.getElementById('adminPlanSelect').value;
-        givePremiumSelf(plan);
-      }
-
-      if (action === 'unlock-all') {
-        if (confirm('Ҳамаи дарсҳоро кушоем?')) {
-          const progress = store.get('progress', { completedLessons: [], testScores: {} });
-          progress.completedLessons = LESSONS.map(l => l.id);
-          store.set('progress', progress);
-          location.reload();
-        }
-      }
-
-      if (action === 'reset-progress') {
-        if (confirm('Пешрафт нест карда шавад?')) {
-          store.set('progress', { completedLessons: [], testScores: {}, streak: 0 });
-          location.reload();
-        }
-      }
-
-      if (action === 'reset-premium') {
-        store.set('premium', { active: false });
-        showToast('Premium нест шуд');
-        setTimeout(() => location.reload(), 1000);
-      }
-    });
+    btn.addEventListener('click', () => handleAdminAction(btn.dataset.adminAction));
   });
 
+  const searchInput = document.getElementById('adminUserSearch');
+  if (searchInput) {
+    searchInput.addEventListener('input', () => {
+      renderUsersList(filterUsers(searchInput.value));
+    });
+  }
+
   startOrdersListener();
+  startUsersListener();
   console.log('✅ Admin Panel омода');
+}
+
+// ============================================================
+// ACTIONS
+// ============================================================
+function handleAdminAction(action) {
+  if (action === 'unlock-all') {
+    if (confirm('Ҳамаи дарсҳоро кушоем?')) {
+      const progress = store.get('progress', { completedLessons: [], testScores: {} });
+      progress.completedLessons = LESSONS.map(l => l.id);
+      store.set('progress', progress);
+      location.reload();
+    }
+  }
+
+  if (action === 'reset-progress') {
+    if (confirm('Пешрафт нест карда шавад?')) {
+      store.set('progress', { completedLessons: [], testScores: {}, streak: 0 });
+      location.reload();
+    }
+  }
+
+  if (action === 'give-premium-user')   givePremiumToSelectedUser();
+  if (action === 'remove-premium-user') removePremiumFromSelectedUser();
+}
+
+// ============================================================
+// USERS LIST
+// ============================================================
+function startUsersListener() {
+  if (typeof listenRatingRealtime !== 'function') {
+    setTimeout(startUsersListener, 1000);
+    return;
+  }
+
+  listenRatingRealtime(users => {
+    allUsersList = (users || []).filter(u => u && u.id);
+    allUsersList.sort((a, b) => {
+      const ap = a.isPremium && a.premiumExpiresAt > Date.now() ? 1 : 0;
+      const bp = b.isPremium && b.premiumExpiresAt > Date.now() ? 1 : 0;
+      return bp - ap;
+    });
+    const q = document.getElementById('adminUserSearch')?.value || '';
+    renderUsersList(filterUsers(q));
+  });
+}
+
+function filterUsers(query) {
+  if (!query) return allUsersList;
+  const q = String(query).toLowerCase().trim();
+  return allUsersList.filter(u =>
+    String(u.id).includes(q) ||
+    (u.name || '').toLowerCase().includes(q) ||
+    (u.username || '').toLowerCase().includes(q)
+  );
+}
+
+function renderUsersList(users) {
+  const list = document.getElementById('adminUsersList');
+  if (!list) return;
+
+  if (!users.length) {
+    list.innerHTML = `<div style="text-align:center;padding:20px;color:var(--text-2);font-size:12px">Корбар ёфт нашуд</div>`;
+    return;
+  }
+
+  list.innerHTML = users.slice(0, 100).map(u => {
+    const isSelected = selectedUser && Number(selectedUser.id) === Number(u.id);
+    const hasPremium = u.isPremium && u.premiumExpiresAt && Date.now() < u.premiumExpiresAt;
+    const initial = (u.name || 'U').charAt(0).toUpperCase();
+
+    return `
+      <div onclick="selectAdminUser(${u.id})" style="
+        display:flex;align-items:center;gap:10px;padding:10px 12px;
+        background:${isSelected ? 'rgba(99,102,241,0.18)' : 'var(--bg-2)'};
+        border:1px solid ${isSelected ? 'var(--primary)' : 'var(--card-border)'};
+        border-radius:12px;cursor:pointer;transition:all 0.2s;
+      ">
+        <div style="width:36px;height:36px;border-radius:10px;background:linear-gradient(135deg,#6366f1,#8b5cf6);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:15px;flex-shrink:0">
+          ${escapeHtmlLocal(initial)}
+        </div>
+        <div style="flex:1;min-width:0">
+          <div style="font-weight:700;font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">
+            ${escapeHtmlLocal(u.name || 'Корбар')} ${hasPremium ? '👑' : ''}
+          </div>
+          <div style="font-size:11px;color:var(--text-2);margin-top:2px">
+            ID: ${u.id}${u.username ? ' · @' + escapeHtmlLocal(u.username) : ''}
+          </div>
+        </div>
+        <div style="font-size:11px;font-weight:700;color:#fbbf24">${u.totalScore || 0}</div>
+      </div>
+    `;
+  }).join('');
+}
+
+function selectAdminUser(userId) {
+  const u = allUsersList.find(x => Number(x.id) === Number(userId));
+  if (!u) return;
+  selectedUser = u;
+
+  const box = document.getElementById('adminSelectedUser');
+  const nameEl = document.getElementById('adminSelectedName');
+  const statusEl = document.getElementById('adminSelectedStatus');
+
+  if (box) box.style.display = 'block';
+  if (nameEl) nameEl.textContent = `${u.name || 'Корбар'} (ID: ${u.id})`;
+
+  if (statusEl) {
+    const hasPremium = u.isPremium && u.premiumExpiresAt && Date.now() < u.premiumExpiresAt;
+    if (hasPremium) {
+      const days = Math.ceil((u.premiumExpiresAt - Date.now()) / 86400000);
+      statusEl.innerHTML = `👑 Premium фаъол — ${days} рӯз боқӣ`;
+      statusEl.style.color = '#fbbf24';
+    } else {
+      statusEl.textContent = 'Free корбар';
+      statusEl.style.color = 'var(--text-2)';
+    }
+  }
+
+  const q = document.getElementById('adminUserSearch')?.value || '';
+  renderUsersList(filterUsers(q));
+}
+
+// ============================================================
+// GIVE PREMIUM
+// ============================================================
+async function givePremiumToSelectedUser() {
+  if (!selectedUser) {
+    showToast('Корбарро интихоб кунед');
+    return;
+  }
+
+  const planKey = document.getElementById('adminPlanSelect')?.value || '1month';
+  const plan = PREMIUM_PLANS_ADMIN[planKey];
+  if (!plan) return;
+
+  if (!confirm(`Ба ${selectedUser.name} (ID: ${selectedUser.id}) Premium дода шавад?\nНақша: ${plan.label}`)) return;
+
+  try {
+    await givePremiumToUser(selectedUser.id, planKey, plan.days);
+    showToast(`✅ Premium дода шуд: ${selectedUser.name}`);
+    if (window.Telegram?.WebApp) {
+      window.Telegram.WebApp.HapticFeedback?.notificationOccurred('success');
+    }
+  } catch (e) {
+    console.error('Give premium error:', e);
+    alert('Хато: ' + e.message);
+  }
+}
+
+// ============================================================
+// REMOVE PREMIUM — БЕ ТОЗАКУНИИ КЭШ
+// ============================================================
+async function removePremiumFromSelectedUser() {
+  if (!selectedUser) {
+    showToast('Корбарро интихоб кунед');
+    return;
+  }
+
+  if (!confirm(
+    `Premium аз ${selectedUser.name} (ID: ${selectedUser.id}) гирифта шавад?\n\n` +
+    `Дарсҳои нав қулф мешаванд, аммо дарсҳои кушодашуда кушода мемонанд.`
+  )) return;
+
+  try {
+    await removePremiumFromUser(selectedUser.id);
+    showToast(`❌ Premium гирифта шуд: ${selectedUser.name}`);
+    if (window.Telegram?.WebApp) {
+      window.Telegram.WebApp.HapticFeedback?.notificationOccurred('success');
+    }
+  } catch (e) {
+    console.error('Remove premium error:', e);
+    alert('Хато: ' + e.message);
+  }
 }
 
 // ============================================================
 // LISTEN — Фармоишҳои pending
 // ============================================================
 function startOrdersListener() {
-  if (typeof db === 'undefined' || !db) {
+  if (typeof listenPremiumOrders !== 'function') {
     setTimeout(startOrdersListener, 1000);
     return;
   }
 
-  db.ref('premium_orders').on('value', snap => {
-    const orders = [];
-    snap.forEach(child => {
-      const val = child.val();
-      if (val && val.status === 'pending') {
-        orders.push({ id: child.key, ...val });
-      }
-    });
-    orders.sort((a, b) => (b.createdAt || 0) - (a.createdAt || 0));
+  listenPremiumOrders(orders => {
     currentOrders = orders;
     renderPremiumOrders(orders);
-  }, err => {
-    console.error('Orders listener error:', err);
   });
 }
 
@@ -110,13 +261,9 @@ function orderCardHTML(order) {
 
   return `
     <div class="order-card" style="
-      background:var(--bg-2);
-      border:1px solid var(--card-border);
-      border-radius:16px;
-      padding:14px;
-      margin-bottom:12px;
+      background:var(--bg-2);border:1px solid var(--card-border);
+      border-radius:16px;padding:14px;margin-bottom:12px;
     ">
-      <!-- User -->
       <div style="display:flex;align-items:center;gap:10px;margin-bottom:12px">
         <div style="
           width:44px;height:44px;border-radius:12px;
@@ -132,7 +279,6 @@ function orderCardHTML(order) {
         </div>
       </div>
 
-      <!-- Info -->
       <div style="
         display:grid;grid-template-columns:1fr 1fr;gap:8px;
         padding:10px 12px;background:rgba(99,102,241,0.08);
@@ -149,7 +295,6 @@ function orderCardHTML(order) {
         </div>
       </div>
 
-      <!-- Photo -->
       ${order.photo ? `
         <div style="margin-bottom:12px;cursor:pointer" onclick="viewPhotoFull('${order.id}')">
           <img src="${order.photo}" style="
@@ -167,22 +312,17 @@ function orderCardHTML(order) {
         </div>
       `}
 
-      <!-- Buttons -->
       <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px">
-        <button onclick="approveOrder('${order.id}', ${order.userId}, '${order.plan}', ${order.planDays || 30})" 
-          style="
-            padding:12px;background:linear-gradient(135deg,#10b981,#059669);
+        <button onclick="approveOrder('${order.id}', ${order.userId}, '${order.plan}', ${order.planDays || 30})"
+          style="padding:12px;background:linear-gradient(135deg,#10b981,#059669);
             color:#fff;border:none;border-radius:12px;font-weight:700;
-            font-size:13px;cursor:pointer;font-family:inherit;
-          ">
+            font-size:13px;cursor:pointer;font-family:inherit;">
           ✅ Қабул
         </button>
         <button onclick="rejectOrder('${order.id}', ${order.userId})"
-          style="
-            padding:12px;background:linear-gradient(135deg,#ef4444,#dc2626);
+          style="padding:12px;background:linear-gradient(135deg,#ef4444,#dc2626);
             color:#fff;border:none;border-radius:12px;font-weight:700;
-            font-size:13px;cursor:pointer;font-family:inherit;
-          ">
+            font-size:13px;cursor:pointer;font-family:inherit;">
           ❌ Рад
         </button>
       </div>
@@ -191,14 +331,13 @@ function orderCardHTML(order) {
 }
 
 // ============================================================
-// PHOTO FULLSCREEN VIEWER
+// PHOTO FULLSCREEN
 // ============================================================
 function viewPhotoFull(orderId) {
   const order = currentOrders.find(o => o.id === orderId);
   if (!order || !order.photo) return;
 
-  const existing = document.getElementById('photoViewer');
-  if (existing) existing.remove();
+  document.getElementById('photoViewer')?.remove();
 
   const viewer = document.createElement('div');
   viewer.id = 'photoViewer';
@@ -207,9 +346,7 @@ function viewPhotoFull(orderId) {
     display:flex;align-items:center;justify-content:center;padding:20px;
   `;
   viewer.innerHTML = `
-    <img src="${order.photo}" style="
-      max-width:100%;max-height:100%;object-fit:contain;border-radius:12px;
-    ">
+    <img src="${order.photo}" style="max-width:100%;max-height:100%;object-fit:contain;border-radius:12px;">
     <button onclick="document.getElementById('photoViewer').remove()" style="
       position:absolute;top:20px;right:20px;width:44px;height:44px;
       border-radius:12px;background:rgba(255,255,255,0.15);
@@ -217,46 +354,18 @@ function viewPhotoFull(orderId) {
       display:flex;align-items:center;justify-content:center;
     ">✕</button>
   `;
-  viewer.addEventListener('click', e => {
-    if (e.target === viewer) viewer.remove();
-  });
+  viewer.addEventListener('click', e => { if (e.target === viewer) viewer.remove(); });
   document.body.appendChild(viewer);
 }
 
 // ============================================================
-// APPROVE ORDER
+// APPROVE / REJECT ORDER
 // ============================================================
 async function approveOrder(orderId, userId, plan, days) {
   if (!confirm(`Қабули фармоиш?\nКорбар ID: ${userId}\nНақша: ${plan} (${days} рӯз)`)) return;
 
   try {
-    const expiresAt = Date.now() + days * 86400000;
-
-    // 1. Update order status
-    await db.ref('premium_orders/' + orderId).update({
-      status: 'approved',
-      approvedAt: Date.now(),
-      approvedBy: user_admin.id || ADMIN_ID_LOCAL
-    });
-
-    // 2. Premium ба корбар
-    await db.ref('users/' + userId).update({
-      isPremium: true,
-      premiumPlan: plan,
-      premiumStartedAt: Date.now(),
-      premiumExpiresAt: expiresAt
-    });
-
-    // 3. Notification
-    await db.ref('notifications/' + userId).push({
-      type: 'premium_approved',
-      plan: plan,
-      days: days,
-      expiresAt: expiresAt,
-      createdAt: Date.now(),
-      read: false
-    });
-
+    await approveOrderInFirebase(orderId, userId, plan, days);
     showToast('✅ Фармоиш қабул шуд');
     if (window.Telegram?.WebApp) {
       window.Telegram.WebApp.HapticFeedback?.notificationOccurred('success');
@@ -267,32 +376,13 @@ async function approveOrder(orderId, userId, plan, days) {
   }
 }
 
-// ============================================================
-// REJECT ORDER
-// ============================================================
 async function rejectOrder(orderId, userId) {
   const reason = prompt('Сабаби радкунӣ:', 'Скриншот нодуруст');
   if (reason === null) return;
 
   try {
-    await db.ref('premium_orders/' + orderId).update({
-      status: 'rejected',
-      rejectedAt: Date.now(),
-      rejectedBy: user_admin.id || ADMIN_ID_LOCAL,
-      rejectReason: reason || 'Сабаб нишон дода нашуд'
-    });
-
-    await db.ref('notifications/' + userId).push({
-      type: 'premium_rejected',
-      reason: reason,
-      createdAt: Date.now(),
-      read: false
-    });
-
+    await rejectOrderInFirebase(orderId, userId, reason);
     showToast('❌ Фармоиш рад шуд');
-    if (window.Telegram?.WebApp) {
-      window.Telegram.WebApp.HapticFeedback?.notificationOccurred('success');
-    }
   } catch (e) {
     console.error('Reject error:', e);
     alert('Хато: ' + e.message);
@@ -305,19 +395,6 @@ async function rejectOrder(orderId, userId) {
 function escapeHtmlLocal(s) {
   return String(s).replace(/[&<>"']/g, c =>
     ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]));
-}
-
-function givePremiumSelf(planKey) {
-  const plans = { '1day': 1, '1week': 7, '1month': 30, '1year': 365 };
-  const days = plans[planKey] || 30;
-  store.set('premium', {
-    active: true,
-    plan: planKey,
-    startedAt: Date.now(),
-    expiresAt: Date.now() + days * 86400000
-  });
-  showToast(`👑 Premium фаъол: ${days} рӯз`);
-  setTimeout(() => location.reload(), 800);
 }
 
 window.addEventListener('load', () => setTimeout(initAdminPanel, 2000));
