@@ -238,6 +238,19 @@ const store = {
   set: (k, v) => localStorage.setItem(k, JSON.stringify(v))
 };
 
+// Дарсҳое, ки як бор дар вақти Premium будан кушода шудаанд —
+// баъд аз тамом шудани Premium низ КУШОДА мемонанд (қулф намешаванд).
+let premiumUnlockedLessons = store.get('premiumUnlockedLessons', []);
+function isPremiumUnlockedLesson(id) {
+  return premiumUnlockedLessons.includes(id);
+}
+function markPremiumUnlocked(id) {
+  if (!premiumUnlockedLessons.includes(id)) {
+    premiumUnlockedLessons.push(id);
+    store.set('premiumUnlockedLessons', premiumUnlockedLessons);
+  }
+}
+
 const user = tg?.initDataUnsafe?.user || { id: 0, first_name: 'Корбар', username: null };
 
 // ============================================
@@ -359,9 +372,16 @@ async function loadLesson() {
   }
 
   // 2. Қулфи Premium — барои дарсҳои 4+
-  if (!FREE_LESSONS.includes(LESSON_ID) && !isPremiumActive()) {
+  // (Агар ин дарс қаблан дар вақти Premium будан кушода шуда бошад,
+  //  он ҳатто баъд аз тамом шудани Premium низ кушода мемонад)
+  if (!FREE_LESSONS.includes(LESSON_ID) && !isPremiumActive() && !isPremiumUnlockedLesson(LESSON_ID)) {
     showPremiumLockedScreen();
     return;
+  }
+
+  // Агар дарс премиумӣ бошад ва Premium ҳоло фаъол бошад — сабт мекунем
+  if (!FREE_LESSONS.includes(LESSON_ID) && isPremiumActive()) {
+    markPremiumUnlocked(LESSON_ID);
   }
 
   // 3. Боркунии дарс
