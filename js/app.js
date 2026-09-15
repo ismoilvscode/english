@@ -1,9 +1,8 @@
 // ============================================================
 // APP VERSION — ҳар бор ки маълумоти data/*.json-ро иваз мекунед,
-// ин рақамро зиёд кунед (масалан 5, 6, 7...), то Telegram кэши
-// куҳнаро истифода набарад ва файлҳои навро бор кунад.
+// ин рақамро зиёд кунед (масалан 6, 7, 8...)
 // ============================================================
-const APP_VERSION = 4;
+const APP_VERSION = 5;
 
 // ============================================================
 // TELEGRAM
@@ -44,12 +43,7 @@ const store = {
 };
 
 // ============================================================
-// RESET HAMAGON — ин фақат он вақт кор мекунад, ки шумо
-// FORCE_RESET_VERSION-ро зиёд карда push кунед. Дар он лаҳза,
-// пешрафти ҲАМАИ корбарон (аз ҳама дастгоҳҳо) худкор пок мешавад,
-// вақте ки онҳо барномаро кушоянд — шумо ба телефони онҳо ниёз
-// надоред. Барои гирифтани ин натиҷа, танҳо рақами поёнро зиёд
-// кунед (масалан аз 1 ба 2) ва дар GitHub push кунед.
+// FORCE RESET
 // ============================================================
 const FORCE_RESET_VERSION = 1;
 const _savedResetVersion = store.get('_forceResetVersion', 0);
@@ -74,9 +68,6 @@ let premium = store.get('premium', {
 let savedLessons = store.get('savedLessons', []);
 let settings = store.get('settings', { dark: true, sound: true });
 let allUsers = store.get('allUsers', {});
-
-// Дарсҳое, ки корбар як бор дар вақти Premium будан кушодааст —
-// онҳо баъд аз тамом шудани Premium низ КУШОДА мемонанд (қулф намешаванд).
 let premiumUnlockedLessons = store.get('premiumUnlockedLessons', []);
 
 // ============================================================
@@ -97,7 +88,7 @@ function isPremiumActive() {
 }
 
 // ============================================================
-// ⏱ ТАЙМЕРИ PREMIUM (бо сонияшумор)
+// ⏱ ТАЙМЕРИ PREMIUM
 // ============================================================
 function formatPremiumCountdown(ms) {
   if (ms < 0) ms = 0;
@@ -131,11 +122,9 @@ setInterval(updatePremiumTimerUI, 1000);
 // ============================================================
 // 🧹 ТОЗА КАРДАНИ КОРБАРОНИ СОХТАГӢ
 // ============================================================
-// ID-и воқеии Telegram: 5-10 рақам (мисли 8406121228)
-// ID-и сохтагӣ: хурдтар аз 1 миллион (мисли 1, 100, 12345)
 function isValidTelegramId(id) {
   const n = Number(id);
-  return n > 1000000;   // > 1 миллион = корбари воқеӣ
+  return n > 1000000;
 }
 
 function cleanupFakeUsers() {
@@ -161,9 +150,6 @@ function isLessonUnlocked(id) {
   return progress.completedLessons.includes(id - 1);
 }
 
-// ============================================================
-// 👑 ДАРСҲОИ ЯКБОРА КУШОДАШУДА ДАР ВАҚТИ PREMIUM
-// ============================================================
 function isPremiumUnlockedLesson(id) {
   return premiumUnlockedLessons.includes(id);
 }
@@ -176,6 +162,47 @@ function markPremiumUnlocked(id) {
 }
 
 // ============================================================
+// 🛑 PREMIUM REVOKE HANDLER — тоза кардани кэш
+// ============================================================
+function handlePremiumRevoke(revokedAt) {
+  console.log('🛑 Premium revoke detected — cache cleared at', new Date(revokedAt).toLocaleString());
+
+  const lastRevoked = store.get('_lastPremiumRevokedAt', 0);
+  if (revokedAt <= lastRevoked) return; // Аллакай коркард шудааст
+
+  store.set('_lastPremiumRevokedAt', revokedAt);
+
+  // 1. Premium-ро хомӯш кун
+  premium = { active: false, plan: null, startedAt: null, expiresAt: null };
+  store.set('premium', premium);
+
+  // 2. Дарсҳои Premium-кушодашударо тоза кун
+  premiumUnlockedLessons = [];
+  store.set('premiumUnlockedLessons', []);
+
+  // 3. Кэшҳои марбут ба Premium-ро тоза кун
+  try {
+    const keysToRemove = [];
+    for (let i = 0; i < localStorage.length; i++) {
+      const k = localStorage.key(i);
+      if (k && (k.startsWith('premium_popup_') || k.startsWith('notif_shown_'))) {
+        keysToRemove.push(k);
+      }
+    }
+    keysToRemove.forEach(k => localStorage.removeItem(k));
+    console.log(`🧹 ${keysToRemove.length} кэшҳои Premium тоза шуданд`);
+  } catch (e) { console.warn('Cache clear error:', e); }
+
+  // 4. UI-ро навсозӣ кун
+  renderProfile();
+  updateTestLockUI();
+  renderLessons('all');
+  updateStats();
+  renderContinueLessons();
+  renderSavedLessons();
+}
+
+// ============================================================
 // 🎧 PREMIUM SYNC
 // ============================================================
 function initPremiumSync() {
@@ -183,6 +210,17 @@ function initPremiumSync() {
   if (typeof listenMyPremiumFromFirebase !== 'function') return;
 
   listenMyPremiumFromFirebase(user.id, data => {
+
+    // ========================================
+    // ⚠️ АВВАЛ: Check premium revocation
+    // ========================================
+    if (data.premiumRevokedAt) {
+      handlePremiumRevoke(data.premiumRevokedAt);
+    }
+
+    // ========================================
+    // Premium фаъол шуд
+    // ========================================
     const wasActive = isPremiumActive();
 
     if (data.isPremium && data.premiumExpiresAt && Date.now() < data.premiumExpiresAt) {
@@ -216,6 +254,7 @@ function initPremiumSync() {
         renderContinueLessons();
       }
     } else if (!data.isPremium && premium.active) {
+      // Premium тамом шуд
       premium = { active: false, plan: null, startedAt: null, expiresAt: null };
       store.set('premium', premium);
       renderProfile();
@@ -248,6 +287,22 @@ function initNotificationsListener() {
           buttons: [{ type: 'close' }]
         });
       }
+    }
+
+    if (notif.type === 'premium_revoked') {
+      showToast('👑 Premium гирифта шуд');
+      if (tg) {
+        tg.HapticFeedback?.notificationOccurred('warning');
+        tg.showPopup({
+          title: '👑 Premium гирифта шуд',
+          message: 'Premium-и шумо аз ҷониби админ гирифта шуд. Дарсҳои Premium баста шуданд.',
+          buttons: [{ type: 'close' }]
+        });
+      }
+    }
+
+    if (notif.type === 'premium_approved') {
+      showToast('🎉 Premium фаъол шуд!');
     }
 
     if (db && user.id && notif.id) {
@@ -328,10 +383,12 @@ async function initApp() {
   initPremiumSync();
   initNotificationsListener();
 
+  // Nav
   document.querySelectorAll('.nav-btn').forEach(btn => {
     btn.addEventListener('click', () => navigateTo(btn.dataset.target));
   });
 
+  // Filters
   document.querySelectorAll('.filters .filter-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       document.querySelectorAll('.filters .filter-btn').forEach(b => b.classList.remove('active'));
@@ -500,8 +557,6 @@ function bindLessonClicks() {
         return;
       }
 
-      // Агар дарс премиумӣ бошад ва Premium ҳоло фаъол бошад — сабт мекунем,
-      // ки ин дарс кушода шудааст, то баъд аз тамом шудани Premium низ кушода монад.
       if (!lesson.free && isPremiumActive()) {
         markPremiumUnlocked(id);
       }
@@ -620,7 +675,7 @@ function updateTestLockUI() {
 }
 
 // ============================================================
-// 🏆 RATING — ДУРУСТ ШУД
+// 🏆 RATING
 // ============================================================
 function renderRating(filter = 'all') {
   syncMyUser();
@@ -629,7 +684,6 @@ function renderRating(filter = 'all') {
   const container = document.getElementById('ratingList');
   const myCard = document.getElementById('myRankCard');
 
-  // Loading
   if (container) {
     container.innerHTML = `
       <div style="text-align:center;padding:40px;color:var(--text-2);font-size:13px;">
@@ -640,7 +694,6 @@ function renderRating(filter = 'all') {
   if (podium) podium.innerHTML = '';
   if (myCard) myCard.innerHTML = '';
 
-  // Кӯшиш кун аз Firebase
   if (typeof listenRatingRealtime === 'function') {
     console.log('🏆 Рейтинг аз Firebase бор мешавад...');
 
@@ -648,7 +701,6 @@ function renderRating(filter = 'all') {
       listenRatingRealtime(users => {
         console.log('🏆 Firebase users:', users.length);
 
-        // ⚠️ ҲЕҶ ФИЛТР НАКУНЕМ — ҳамаи корбаронро нишон медиҳем
         const validUsers = (users || []).filter(u => u && u.id);
 
         let filtered = validUsers;
@@ -664,7 +716,6 @@ function renderRating(filter = 'all') {
       });
     } catch (e) {
       console.error('❌ Firebase rating error:', e);
-      // Fallback ба local
       const list = getLocalRatingList(filter, 100);
       renderRatingUI(list);
     }
@@ -676,7 +727,6 @@ function renderRating(filter = 'all') {
 }
 
 function getLocalRatingList(filter = 'all', limit = 100) {
-  // ⚠️ ҲЕҶ ФИЛТР — ҳамаи корбарон
   let users = Object.values(allUsers).filter(u => u && u.id);
 
   if (filter === 'week') {
@@ -710,7 +760,6 @@ function renderRatingUI(users) {
     return;
   }
 
-  // Топ-3
   if (podium && users.length >= 3) {
     const [first, second, third] = users;
     podium.innerHTML = `
@@ -735,7 +784,6 @@ function renderRatingUI(users) {
     podium.innerHTML = '';
   }
 
-  // Ҷои худ
   const myRank = users.findIndex(u => Number(u.id) === Number(user.id)) + 1;
   if (myCard) {
     if (myRank > 0) {
@@ -1337,16 +1385,17 @@ function onFirebaseReady() {
 }
 
 // ============================================================
-// ADMIN RENDER
+// ADMIN — Статистика (admin.js боқимондаро идора мекунад)
 // ============================================================
 function renderAdmin() {
   if (!IS_ADMIN) return;
 
   const renderList = (users) => {
-    // ⚠️ ҲЕҶ ФИЛТР
-    const validUsers = users.filter(u => u && u.id);
+    const validUsers = (users || []).filter(u => u && u.id);
 
-    const premiumCount = validUsers.filter(u => u.isPremium).length;
+    const premiumCount = validUsers.filter(u =>
+      u.isPremium && u.premiumExpiresAt && Date.now() < u.premiumExpiresAt
+    ).length;
     const activeCount = validUsers.filter(u => (u.lastActive || 0) > Date.now() - 7 * 86400000).length;
 
     const set = (id, v) => { const el = document.getElementById(id); if (el) el.textContent = v; };
