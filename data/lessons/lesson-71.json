@@ -1,491 +1,322 @@
 {
   "id": 71,
-  "title": "Муоширати воқеӣ 71",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 71: Дӯстӣ ва муносибатҳо",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "relationship",
+      "tj": "муносибат",
+      "ex": "A good relationship is based on trust."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "trust",
+      "tj": "боварӣ",
+      "ex": "Trust is the most important thing in friendship."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "to trust",
+      "tj": "бовар кардан",
+      "ex": "I trust my best friend."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "loyal",
+      "tj": "вафодор",
+      "ex": "A loyal friend never leaves you in trouble."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "to support",
+      "tj": "дастгирӣ кардан",
+      "ex": "A good friend supports you in difficult times."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "to share",
+      "tj": "тақсим кардан",
+      "ex": "Good friends share their joys and their problems."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "to quarrel",
+      "tj": "ҷанҷол кардан",
+      "ex": "Good friends never quarrel for a long time."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to make peace",
+      "tj": "оштӣ шудан",
+      "ex": "After a quarrel, real friends make peace."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "honest",
+      "tj": "ростқавл",
+      "ex": "An honest friend tells you the truth."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to respect",
+      "tj": "эҳтиром кардан",
+      "ex": "We must respect each other."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "respect",
+      "tj": "эҳтиром",
+      "ex": "Respect is the base of every good relationship."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "to forgive",
+      "tj": "бубахшидан",
+      "ex": "A good friend knows how to forgive."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "to betray",
+      "tj": "хиёнат кардан",
+      "ex": "A true friend never betrays you."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "to make friends",
+      "tj": "дӯст пайдо кардан",
+      "ex": "It is easy to make friends at school."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "close friend",
+      "tj": "дӯсти наздик",
+      "ex": "He is my closest friend."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "to rely on",
+      "tj": "такя кардан ба",
+      "ex": "You can always rely on a true friend."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 71)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "A good relationship is based on trust and respect.",
+      "tj": "Муносибати хуб бар боварӣ ва эҳтиром асос ёфтааст."
     },
     {
-      "en": "I'm working on lesson 71",
-      "tj": "Ман дарси 71-ро меомӯзам"
+      "en": "Trust is the most important thing in friendship.",
+      "tj": "Боварӣ муҳимтарин чиз дар дӯстӣ аст."
+    },
+    {
+      "en": "I trust my best friend and he trusts me.",
+      "tj": "Ман ба беҳтарин дӯстам бовар мекунам ва ӯ ба ман бовар мекунад."
+    },
+    {
+      "en": "A loyal friend never leaves you in trouble.",
+      "tj": "Дӯсти вафодор ҳеҷ гоҳ туро дар бало намепартояд."
+    },
+    {
+      "en": "A good friend supports you in difficult times.",
+      "tj": "Дӯсти хуб дар вақтҳои душвор туро дастгирӣ мекунад."
+    },
+    {
+      "en": "Good friends share their joys and their problems.",
+      "tj": "Дӯстони хуб шодиҳо ва мушкилоти худро тақсим мекунанд."
+    },
+    {
+      "en": "Good friends never quarrel for a long time.",
+      "tj": "Дӯстони хуб ҳеҷ гоҳ барои муддати дароз ҷанҷол намекунанд."
+    },
+    {
+      "en": "After a quarrel, real friends make peace.",
+      "tj": "Баъд аз ҷанҷол дӯстони ҳақиқӣ оштӣ мешаванд."
+    },
+    {
+      "en": "An honest friend tells you the truth, even when it is unpleasant.",
+      "tj": "Дӯсти ростқавл ба ту ҳақиқатро мегӯяд, ҳатто вақте ки он хушоянд нест."
+    },
+    {
+      "en": "We must respect each other and listen to each other.",
+      "tj": "Мо бояд якдигарро эҳтиром кунем ва ба якдигар гӯш кунем."
+    },
+    {
+      "en": "Respect is the base of every good relationship.",
+      "tj": "Эҳтиром асоси ҳар як муносибати хуб аст."
+    },
+    {
+      "en": "A good friend knows how to forgive and how to ask for forgiveness.",
+      "tj": "Дӯсти хуб метавонад бубахшад ва талаб кардани бахшишро медонад."
+    },
+    {
+      "en": "A true friend never betrays you.",
+      "tj": "Дӯсти ҳақиқӣ ҳеҷ гоҳ ба ту хиёнат намекунад."
+    },
+    {
+      "en": "It is easy to make friends at school, in the yard and in the village.",
+      "tj": "Дар мактаб, дар ҳавлӣ ва дар деҳа дӯст пайдо кардан осон аст."
+    },
+    {
+      "en": "He is my closest friend and I can tell him everything.",
+      "tj": "Ӯ дӯсти наздиктарини ман аст ва ман метавонам ба ӯ ҳама чизро гӯям."
+    },
+    {
+      "en": "You can always rely on a true friend.",
+      "tj": "Шумо ҳамеша метавонед ба дӯсти ҳақиқӣ такя кунед."
     }
   ],
   "text": {
-    "en": "Text for lesson 71. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 71 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 71 text.",
-    "tj": "Матни дарси 71..."
+    "en": "Friendship and Relationships\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. I have many friends at school, in the yard and in our village. Friendship is one of the greatest treasures in our life. A good friend is more valuable than gold. Today I want to tell you about friendship and about good relationships between people.\n\nFriendship is a special relationship between two or more people. It is not like being brothers or sisters — we cannot choose our family. But we can choose our friends. And this is a very important choice. A good friend can change your life for the better. A bad friend can make your life very hard. So we must choose our friends very carefully.\n\nWhat is a real friend? A real friend is a person who is always near you — in good times and in bad times. A real friend is honest with you. He tells you the truth, even when the truth is unpleasant. He does not tell lies to make you happy. He tells you the truth to help you. My father says: \"A friend who tells you only what you want to hear is not a real friend. A real friend tells you what you need to hear.\"\n\nTrust is the most important thing in friendship. When we trust someone, we know that this person will never hurt us. We can tell him our secrets, our dreams and our fears. We can rely on him in difficult times. Trust takes a long time to build — sometimes years. But it can be destroyed in one moment. My grandmother says: \"Trust is like a mirror — once it is broken, it can never be the same again.\" So we must protect the trust of our friends very carefully.\n\nA loyal friend is a friend who stays with you when things get difficult. When you are ill, he comes to visit you. When you have problems, he helps you. When everyone else leaves you, he stays with you. My grandfather says: \"A friend in need is a friend indeed.\" This means that a real friend shows himself in difficult times. Anyone can be with you when you are happy. But only a real friend stays with you when you are sad.\n\nA good friend shares with you. He shares his joy and his sadness. He shares his food and his books. He shares his time and his attention. When something good happens to him, he wants to tell you. When something bad happens to him, he also wants to tell you. Because he knows that you will understand him. A person who does not share is not a real friend.\n\nA good friend supports you. He believes in you even when you do not believe in yourself. He says: \"You can do it! I know you can!\" When you make a mistake, he does not laugh at you. He helps you to learn from your mistake and to become better. My mother says: \"A good friend is like a strong wall — you can always lean on him.\"\n\nOf course, even the best friends sometimes quarrel. A quarrel is a normal thing in every friendship. Two people cannot always agree about everything. The question is not whether we quarrel — the question is how we quarrel and how we make peace. A good friend never says bad words to his friend. He never says: \"I will never talk to you again!\" He knows that they will make peace very soon. And after the quarrel, they make peace. And after making peace, they become even better friends than before.\n\nWe must also be able to forgive. Everyone makes mistakes — our friends make mistakes too. When a friend makes a mistake, we must forgive him. But we must also be able to ask for forgiveness when we make a mistake. A person who cannot say \"I am sorry\" is a person with a weak heart. My grandfather says: \"The one who asks for forgiveness is strong. The one who cannot forgive is weak.\"\n\nA real friend never betrays you. Betrayal is the worst thing in friendship. When a person betrays his friend, he loses the most valuable thing — the trust of other people. Nobody will trust him anymore. And without trust there is no friendship. A true friend will never tell your secrets to other people. He will never leave you in trouble. He will always be with you, no matter what.\n\nHow can we make real friends? First, we must be a good friend ourselves. If we want to have good friends, we must be a good friend. We must be honest, kind, loyal and patient. Second, we must choose our friends carefully. We must choose people who are kind, clever and honest. Third, we must give our friendship time. Friendship is like a flower — it needs time and care to grow. Fourth, we must be ready to help our friends without expecting anything in return. Real friendship is not about what we can get. It is about what we can give.\n\nMy best friend is a boy named Farid. We have been friends for four years. He sits next to me at school. We do our homework together, we play football together, and we talk about everything. Farid is very honest, kind and loyal. When I was ill for two weeks, he came to visit me every day and brought me my homework. When his grandmother died, I sat with him all day and did not say a word. Sometimes a real friend does not need to say anything. He just needs to be near.\n\nWhen I grow up, I want to be a doctor. I want to help people who are sick. But I also want to be a good friend. I want to have many good friends and I want to be a good friend to them. Because life without friends is like a sky without stars. It is dark and empty. But with friends, our life is full of light and happiness. A good friend is one of the greatest gifts that life can give us.",
+    "tj": "Дӯстӣ ва муносибатҳо\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Ман дӯстони зиёд дар мактаб, дар ҳавлӣ ва дар деҳаи мо дорам. Дӯстӣ яке аз бузургтарин ганҷҳо дар ҳаёти мост. Дӯсти хуб аз тилло қиматбаҳотар аст. Имрӯз ман мехоҳам ба шумо дар бораи дӯстӣ ва дар бораи муносибатҳои хуб байни одамон нақл кунам.\n\nДӯстӣ муносибати махсус байни ду ё зиёда одам аст. Он мисли бародар ё хоҳар будан нест — мо оилаи худро интихоб карда наметавонем. Аммо мо дӯстони худро интихоб карда метавонем. Ва ин интихоби хеле муҳим аст. Дӯсти хуб метавонад ҳаёти шуморо ба беҳтар тағйир диҳад. Дӯсти бад метавонад ҳаёти шуморо хеле душвор кунад. Бинобар ин мо бояд дӯстони худро бодиққат интихоб кунем.\n\nДӯсти ҳақиқӣ чист? Дӯсти ҳақиқӣ одамест, ки ҳамеша дар назди шумост — дар вақтҳои хуб ва дар вақтҳои бад. Дӯсти ҳақиқӣ бо шумо ростқавл аст. Ӯ ба шумо ҳақиқатро мегӯяд, ҳатто вақте ки ҳақиқат хушоянд нест. Ӯ барои шуморо хушбахт кардан дурӯғ намегӯяд. Ӯ ҳақиқатро ба шумо мегӯяд, то ки ба шумо кӯмак кунад. Падарам мегӯяд: «Дӯсте, ки ба шумо танҳо он чиро мегӯяд, ки шумо шунидан мехоҳед, дӯсти ҳақиқӣ нест. Дӯсти ҳақиқӣ он чиро мегӯяд, ки шумо бояд шунавед.»\n\nБоварӣ муҳимтарин чиз дар дӯстӣ аст. Вақте ки мо ба касе бовар мекунем, мо медонем, ки ин одам ҳеҷ гоҳ моро озор намедиҳад. Мо метавонем ба ӯ сирҳои худ, орзуҳои худ ва тарсҳои худро гӯем. Мо метавонем дар вақтҳои душвор ба ӯ такя кунем. Боварӣ вақти дароз мехоҳад, то ки сохта шавад — баъзан солҳо. Аммо он дар як лаҳза вайрон шуда метавонад. Бибиам мегӯяд: «Боварӣ мисли оина аст — вақте ки он шикаст, ҳеҷ гоҳ боз ҳамон тавр шуда наметавонад.» Бинобар ин мо бояд боварии дӯстони худро бодиққат муҳофизат кунем.\n\nДӯсти вафодор дӯстест, ки вақте корҳо душвор мешаванд, бо шумо мемонад. Вақте ки шумо бемор ҳастед, ӯ ба дидани шумо меояд. Вақте ки шумо мушкилот доред, ӯ ба шумо кӯмак мекунад. Вақте ки ҳамаи дигарон шуморо тарк мекунанд, ӯ бо шумо мемонад. Бобоям мегӯяд: «Дӯст дар вақти ниёз дӯсти ҳақиқӣ аст.» Ин маънои онро дорад, ки дӯсти ҳақиқӣ дар вақтҳои душвор худашро нишон медиҳад. Ҳар кас метавонад вақте ки шумо хушбахт ҳастед, бо шумо бошад. Аммо танҳо дӯсти ҳақиқӣ вақте ки шумо ғамгин ҳастед, бо шумо мемонад.\n\nДӯсти хуб бо шумо тақсим мекунад. Ӯ шодии худ ва ғами худро тақсим мекунад. Ӯ ғизои худ ва китобҳои худро тақсим мекунад. Ӯ вақти худ ва диққати худро тақсим мекунад. Вақте ки чизеи хуб ба ӯ рӯй медиҳад, ӯ мехоҳад ба шумо гӯяд. Вақте ки чизеи бад ба ӯ рӯй медиҳад, ӯ низ мехоҳад ба шумо гӯяд. Зеро ки ӯ медонад, ки шумо ӯро мефаҳмед. Одаме, ки тақсим намекунад, дӯсти ҳақиқӣ нест.\n\nДӯсти хуб шуморо дастгирӣ мекунад. Ӯ ба шумо бовар мекунад, ҳатто вақте ки шумо ба худатон бовар намекунед. Ӯ мегӯяд: «Ту метавонӣ! Ман медонам, ки ту метавонӣ!» Вақте ки шумо хато мекунед, ӯ ба шумо намехандад. Ӯ ба шумо кӯмак мекунад, ки аз хатои худ сабақ гиред ва беҳтар шавед. Модарам мегӯяд: «Дӯсти хуб мисли девори қавӣ аст — шумо ҳамеша метавонед ба ӯ такя кунед.»\n\nАлбатта, ҳатто беҳтарин дӯстон баъзан ҷанҷол мекунанд. Ҷанҷол дар ҳар як дӯстӣ чизи муқаррарӣ аст. Ду одам наметавонанд ҳамеша дар бораи ҳама чиз розӣ бошанд. Савол на дар он аст, ки мо ҷанҷол мекунем ё не — савол дар он аст, ки мо чӣ тавр ҷанҷол мекунем ва чӣ тавр оштӣ мешавем. Дӯсти хуб ҳеҷ гоҳ ба дӯсташ суханони бад намегӯяд. Ӯ ҳеҷ гоҳ намегӯяд: «Ман ҳеҷ гоҳ бо ту гап намезанам!» Ӯ медонад, ки онҳо ба зудӣ оштӣ мешаванд. Ва баъд аз ҷанҷол онҳо оштӣ мешаванд. Ва баъд аз оштӣ онҳо аз пеш ҳам беҳтар дӯст мешаванд.\n\nМо инчунин бояд бубахшиданро донам. Ҳар кас хато мекунад — дӯстони мо низ хато мекунанд. Вақте ки дӯст хато мекунад, мо бояд ӯро бубахшем. Аммо мо инчунин бояд талаб кардани бахшишро донам, вақте ки худамон хато мекунем. Одаме, ки наметавонад гӯяд «Ман бубахшед», одами дили заиф аст. Бобоям мегӯяд: «Он ки бахшиш мепурсад, қавӣ аст. Он ки бубахшида наметавонад, заиф аст.»\n\nДӯсти ҳақиқӣ ҳеҷ гоҳ ба шумо хиёнат намекунад. Хиёнат бадтарин чиз дар дӯстӣ аст. Вақте ки одам ба дӯсташ хиёнат мекунад, ӯ қиматбаҳотарин чизро гум мекунад — боварии одамони дигарро. Ҳеҷ кас дигар ба ӯ бовар намекунад. Ва бе боварӣ дӯстӣ нест. Дӯсти ҳақиқӣ ҳеҷ гоҳ сирҳои шуморо ба одамони дигар намегӯяд. Ӯ ҳеҷ гоҳ шуморо дар бало намепартояд. Ӯ ҳамеша бо шумо хоҳад буд, новобаста аз ҳама чиз.\n\nЧӣ тавр мо метавонем дӯстони ҳақиқӣ пайдо кунем? Аввал, мо бояд худамон дӯсти хуб бошем. Агар мо дӯстони хуб доштан хоҳем, мо бояд дӯсти хуб бошем. Мо бояд ростқавл, меҳрубон, вафодор ва сабрнок бошем. Дуюм, мо бояд дӯстони худро бодиққат интихоб кунем. Мо бояд одамони меҳрубон, зирак ва ростқавлро интихоб кунем. Сеюм, мо бояд ба дӯстии худ вақт диҳем. Дӯстӣ мисли гул аст — барои сабзидан вақт ва ғамхорӣ лозим аст. Чорум, мо бояд омода бошем, ки ба дӯстони худ бидуни интизори чизе кӯмак кунем. Дӯстии ҳақиқӣ дар бораи он чизе, ки мо метавонем гирем, нест. Он дар бораи он чизест, ки мо метавонем диҳем.\n\nБеҳтарин дӯсти ман писарбачаест, ки номаш Фарид аст. Мо чор сол дӯст ҳастем. Ӯ дар мактаб дар паҳлӯи ман менишинад. Мо вазифаи хонагиамонро якҷоя иҷро мекунем, якҷоя футбол бозӣ мекунем ва дар бораи ҳама чиз гап мезанем. Фарид хеле ростқавл, меҳрубон ва вафодор аст. Вақте ки ман ду ҳафта бемор будам, ӯ ҳар рӯз ба дидани ман меомад ва вазифаи хонагиамро ба ман меовард. Вақте ки бибии ӯ вафот кард, ман тамоми рӯз дар назди ӯ нишастам ва як калима ҳам нагуфтам. Баъзан дӯсти ҳақиқӣ намехоҳад чизе гӯяд. Ӯ танҳо бояд дар назди шумо бошад.\n\nВақте ки ман калон мешавам, ман мехоҳам духтур шавам. Ман мехоҳам ба одамони бемор кӯмак кунам. Аммо ман инчунин мехоҳам дӯсти хуб бошам. Ман мехоҳам дӯстони хуб дошта бошам ва ман мехоҳам барои онҳо дӯсти хуб бошам. Зеро ки ҳаёт бе дӯстон мисли осмони бе ситораҳост. Он торик ва холӣ аст. Аммо бо дӯстон ҳаёти мо пур аз рӯшноӣ ва хушбахтист. Дӯсти хуб яке аз бузургтарин тӯҳфаҳоест, ки ҳаёт метавонад ба мо диҳад."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Муносибати хуб бар боварӣ ва эҳтиром асос ёфтааст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст A"
+        "A good relationship is based on trust and respect.",
+        "A good relationship is based on the trust and respect.",
+        "Good relationship is based on trust and respect.",
+        "A good relationship is based on trust and on respect."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "A good relationship is based on trust and respect."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Боварӣ муҳимтарин чиз дар дӯстӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст C"
+        "Trust is the most important thing in friendship.",
+        "The trust is the most important thing in friendship.",
+        "Trust is the most important thing in the friendship.",
+        "Trust is the most important thing for friendship."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "Trust is the most important thing in friendship."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ман ба беҳтарин дӯстам бовар мекунам ва ӯ ба ман бовар мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: environment",
-        "нодуруст C"
+        "I trust my best friend and he trusts me.",
+        "I trust my best friend and he trust me.",
+        "I believe my best friend and he trusts me.",
+        "I trust in my best friend and he trusts me."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "I trust my best friend and he trusts me."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Дӯсти вафодор ҳеҷ гоҳ туро дар бало намепартояд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: communication"
+        "A loyal friend never leaves you in trouble.",
+        "A loyal friend never leaves you in the trouble.",
+        "The loyal friend never leaves you in trouble.",
+        "A loyal friend never leaves you in problems."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "A loyal friend never leaves you in trouble."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Дӯсти хуб дар вақтҳои душвор туро дастгирӣ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: education",
-        "нодуруст A"
+        "A good friend supports you in difficult times.",
+        "A good friend supports you in the difficult times.",
+        "The good friend supports you in difficult times.",
+        "A good friend supports you at difficult times."
       ],
-      "answer": "тарҷума: education"
+      "answer": "A good friend supports you in difficult times."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Дӯстони хуб шодиҳо ва мушкилоти худро тақсим мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст B"
+        "Good friends share their joys and their problems.",
+        "Good friends share their joy and their problems.",
+        "Good friends share their joys and problems.",
+        "The good friends share their joys and their problems."
       ],
-      "answer": "тарҷума: development"
+      "answer": "Good friends share their joys and their problems."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Дӯстони хуб ҳеҷ гоҳ барои муддати дароз ҷанҷол намекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Good friends never quarrel for a long time.",
+        "Good friends never quarrel for long time.",
+        "Good friends never argue for a long time.",
+        "The good friends never quarrel for a long time."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "Good friends never quarrel for a long time."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Баъд аз ҷанҷол дӯстони ҳақиқӣ оштӣ мешаванд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: challenge",
-        "нодуруст B",
-        "нодуруст A"
+        "After a quarrel, real friends make peace.",
+        "After the quarrel, real friends make peace.",
+        "After a quarrel real friends make peace.",
+        "After a quarrel, true friends make peace."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "After a quarrel, real friends make peace."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Дӯсти ростқавл ба ту ҳақиқатро мегӯяд, ҳатто вақте ки он хушоянд нест» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: knowledge",
-        "нодуруст C"
+        "An honest friend tells you the truth, even when it is unpleasant.",
+        "An honest friend tells you the truth even when it is unpleasant.",
+        "The honest friend tells you the truth, even when it is unpleasant.",
+        "An honest friend says you the truth, even when it is unpleasant."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "An honest friend tells you the truth, even when it is unpleasant."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Мо бояд якдигарро эҳтиром кунем ва ба якдигар гӯш кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: conversation",
-        "нодуруст B",
-        "нодуруст C"
+        "We must respect each other and listen to each other.",
+        "We must respect each other and listen to one another.",
+        "We should respect each other and listen to each other.",
+        "We must respect one another and listen to each other."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "We must respect each other and listen to each other."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Эҳтиром асоси ҳар як муносибати хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: fluency",
-        "нодуруст B",
-        "нодуруст C"
+        "Respect is the base of every good relationship.",
+        "Respect is the base for every good relationship.",
+        "The respect is the base of every good relationship.",
+        "Respect is a base of every good relationship."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "Respect is the base of every good relationship."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Дӯсти хуб метавонад бубахшад ва талаб кардани бахшишро медонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст B"
+        "A good friend knows how to forgive and how to ask for forgiveness.",
+        "A good friend knows how to forgive and ask for forgiveness.",
+        "The good friend knows how to forgive and how to ask for forgiveness.",
+        "A good friend knows to forgive and how to ask for forgiveness."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "A good friend knows how to forgive and how to ask for forgiveness."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Дӯсти ҳақиқӣ ҳеҷ гоҳ ба ту хиёнат намекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: pronunciation",
-        "нодуруст A",
-        "нодуруст B"
+        "A true friend never betrays you.",
+        "A real friend never betrays you.",
+        "The true friend never betrays you.",
+        "A true friend never betrays to you."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "A true friend never betrays you."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Дар мактаб, дар ҳавлӣ ва дар деҳа дӯст пайдо кардан осон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: vocabulary",
-        "нодуруст A"
+        "It is easy to make friends at school, in the yard and in the village.",
+        "It is easy to make friends at school, in the yard and in a village.",
+        "It is easy to make friends at school, in a yard and in the village.",
+        "It is easy to find friends at school, in the yard and in the village."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "It is easy to make friends at school, in the yard and in the village."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ӯ дӯсти наздиктарини ман аст ва ман метавонам ба ӯ ҳама чизро гӯям» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: grammar",
-        "нодуруст B"
+        "He is my closest friend and I can tell him everything.",
+        "He is my closest friend and I can tell to him everything.",
+        "He is my close friend and I can tell him everything.",
+        "He is the closest friend of mine and I can tell him everything."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "He is my closest friend and I can tell him everything."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Шумо ҳамеша метавонед ба дӯсти ҳақиқӣ такя кунед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: opportunity",
-        "нодуруст A",
-        "нодуруст B"
+        "You can always rely on a true friend.",
+        "You can always rely upon a true friend.",
+        "You can always rely on the true friend.",
+        "You can always lean on a true friend."
       ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: experience"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: education"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: development",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: development"
-    },
-    {
-      "q": "'achievement' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: achievement"
-      ],
-      "answer": "тарҷума: achievement"
-    },
-    {
-      "q": "'challenge' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: challenge"
-      ],
-      "answer": "тарҷума: challenge"
-    },
-    {
-      "q": "'knowledge' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: knowledge",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: knowledge"
-    },
-    {
-      "q": "'conversation' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: conversation",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: conversation"
-    },
-    {
-      "q": "'fluency' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: fluency",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: fluency"
-    },
-    {
-      "q": "'confidence' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: confidence"
-      ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: pronunciation",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: vocabulary",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: grammar",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: opportunity"
+      "answer": "You can always rely on a true friend."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 31
+  "wordsCount": 16
 }
