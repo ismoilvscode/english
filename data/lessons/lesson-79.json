@@ -1,536 +1,322 @@
 {
   "id": 79,
-  "title": "Муоширати воқеӣ 79",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 79: Роҳҳои оҳан ва сафарҳои дароз",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "railway",
+      "tj": "роҳи оҳан",
+      "ex": "The railway connects our city with other cities."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "railway station",
+      "tj": "истгоҳи роҳи оҳан",
+      "ex": "We met him at the railway station."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "carriage",
+      "tj": "вагон",
+      "ex": "Our carriage was clean and comfortable."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "compartment",
+      "tj": "купе",
+      "ex": "We sat in a quiet compartment."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "platform",
+      "tj": "платформа",
+      "ex": "The train stopped at the platform."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "conductor",
+      "tj": "роҳбари қатора",
+      "ex": "The conductor checked our tickets."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "passenger",
+      "tj": "мусофир",
+      "ex": "Many passengers waited for the train."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to board",
+      "tj": "савор шудан",
+      "ex": "We boarded the train at eight o'clock."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "to depart",
+      "tj": "ҳаракат кардан",
+      "ex": "The train departs from the station at nine."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to arrive",
+      "tj": "расидан",
+      "ex": "We arrived in Khujand in the morning."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "delay",
+      "tj": "таъхир",
+      "ex": "There was a small delay on the way."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "window seat",
+      "tj": "ҷои назди тиреза",
+      "ex": "I always choose a window seat."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "to travel by train",
+      "tj": "бо қатора сафар кардан",
+      "ex": "We like to travel by train."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "to wave goodbye",
+      "tj": "даст афшондан",
+      "ex": "My mother waved goodbye at the station."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "view from the window",
+      "tj": "манзараи тиреза",
+      "ex": "The view from the window was beautiful."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "long journey",
+      "tj": "сафари дароз",
+      "ex": "It was a long journey but very interesting."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 79)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "The railway connects our city with other cities.",
+      "tj": "Роҳи оҳан шаҳри моро бо шаҳрҳои дигар пайваст мекунад."
     },
     {
-      "en": "I'm working on lesson 79",
-      "tj": "Ман дарси 79-ро меомӯзам"
+      "en": "We met our uncle at the railway station.",
+      "tj": "Мо амакамро дар истгоҳи роҳи оҳан пешвоз гирифтем."
+    },
+    {
+      "en": "Our carriage was clean and comfortable.",
+      "tj": "Вагони мо тоза ва бароҳат буд."
+    },
+    {
+      "en": "We sat in a quiet compartment and read books.",
+      "tj": "Мо дар купеи ором нишастем ва китоб хондем."
+    },
+    {
+      "en": "The train stopped at the platform and the passengers got off.",
+      "tj": "Қатора дар платформа истод ва мусофирон фуруд омаданд."
+    },
+    {
+      "en": "The conductor checked our tickets and smiled.",
+      "tj": "Роҳбари қатора чиптаҳои моро санҷид ва табассум кард."
+    },
+    {
+      "en": "Many passengers waited for the train on the platform.",
+      "tj": "Мусофирони зиёд дар платформа барои қатора интизор шуданд."
+    },
+    {
+      "en": "We boarded the train at eight o'clock in the morning.",
+      "tj": "Мо субҳ соати ҳашт ба қатора савор шудем."
+    },
+    {
+      "en": "The train departs from the station at nine o'clock.",
+      "tj": "Қатора соати нӯҳ аз истгоҳ ҳаракат мекунад."
+    },
+    {
+      "en": "We arrived in Khujand in the morning.",
+      "tj": "Мо субҳ ба Хуҷанд расидем."
+    },
+    {
+      "en": "There was a small delay on the way, but we did not worry.",
+      "tj": "Дар роҳ таъхири хурд буд, аммо мо нигарон нашудем."
+    },
+    {
+      "en": "I always choose a window seat to see the view.",
+      "tj": "Ман ҳамеша ҷои назди тирезаро интихоб мекунам, то ки манзараро бинам."
+    },
+    {
+      "en": "We like to travel by train with our family.",
+      "tj": "Мо бо оилаамон бо қатора сафар карданро дӯст медорем."
+    },
+    {
+      "en": "My mother waved goodbye at the railway station.",
+      "tj": "Модарам дар истгоҳи роҳи оҳан даст афшонд."
+    },
+    {
+      "en": "The view from the window was very beautiful.",
+      "tj": "Манзараи тиреза хеле зебо буд."
+    },
+    {
+      "en": "It was a long journey but very interesting.",
+      "tj": "Ин сафари дароз буд, аммо хеле ҷолиб."
     }
   ],
   "text": {
-    "en": "Text for lesson 79. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 79 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 79 text.",
-    "tj": "Матни дарси 79..."
+    "en": "Railways and Long Journeys\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. Last summer my family and I travelled by train to Khujand. It was a long journey and very interesting. Today I want to tell you about railways and about long journeys.\n\nA railway is a road for trains. Railways connect cities, villages and countries. Our country has many railways. The railway station is a place where people wait for the train. My father says: \"A railway station is a small world. Here you can meet people from different cities and different countries.\"\n\nOn the day of our journey we came to the railway station early. Many passengers were waiting on the platform. Some of them had big bags and suitcases. My mother waved goodbye to our grandmother. Then the train arrived and we boarded the carriage.\n\nOur carriage was clean and comfortable. We sat in a quiet compartment. I chose a window seat because I wanted to see the view from the window. My little brother sat next to me and looked at the fields, mountains and rivers. He asked: \"Is this our village? Is that a lake?\" It was very funny.\n\nThe conductor came and checked our tickets. He was a kind man. He said: \"Good morning! Your compartment is number five.\" My father thanked him.\n\nThe train departed from the station at nine o'clock in the morning. It was a long journey — almost ten hours. But the time passed quickly, because we read books, played games and talked about our plans. There was a small delay on the way, but we did not worry.\n\nWe arrived in Khujand in the evening. My uncle met us at the station. He said: \"Welcome to Khujand!\" We were happy and tired at the same time. It was a wonderful journey.\n\nA long journey by train is a good way to see our beautiful country. From the window we saw mountains, fields, rivers and small villages. My father says: \"A journey is not only about the place you visit. It is also about the road you take.\"\n\nWhen I grow up, I want to travel by train to many cities of our country. I want to see Samarkand, Bukhara and other ancient cities. I want to meet new people and to learn new things. Because every journey teaches us something new.",
+    "tj": "Роҳҳои оҳан ва сафарҳои дароз\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Тобистони гузашта ман ва оилаам бо қатора ба Хуҷанд сафар кардем. Ин сафари дароз ва хеле ҷолиб буд. Имрӯз ман мехоҳам ба шумо дар бораи роҳҳои оҳан ва дар бораи сафарҳои дароз нақл кунам.\n\nРоҳи оҳан роҳест барои қатораҳо. Роҳҳои оҳан шаҳрҳо, деҳаҳо ва кишварҳоро пайваст мекунанд. Кишвари мо роҳҳои оҳани зиёд дорад. Истгоҳи роҳи оҳан ҷоест, ки дар он одамон барои қатора интизор мешаванд. Падарам мегӯяд: «Истгоҳи роҳи оҳан ҷаҳони хурд аст. Дар ин ҷо шумо метавонед бо одамон аз шаҳрҳо ва кишварҳои гуногун вохӯред.»\n\nДар рӯзи сафар мо барвақт ба истгоҳи роҳи оҳан омадем. Мусофирони зиёд дар платформа интизор мешуданд. Баъзеи онҳо халтаҳо ва ҷомадонҳои калон доштанд. Модарам ба бибиам даст афшонд. Баъд қатора расид ва мо ба вагон савор шудем.\n\nВагони мо тоза ва бароҳат буд. Мо дар купеи ором нишастем. Ман ҷои назди тирезаро интихоб кардам, зеро ки ман мехостам манзараи тирезаро бинам. Бародари хурдии ман дар паҳлӯи ман нишаст ва ба киштзорҳо, кӯҳҳо ва дарёҳо нигоҳ мекард. Ӯ мепурсид: «Ин деҳаи мост? Он кӯл аст?» Ин хеле хандаовар буд.\n\nРоҳбари қатора омад ва чиптаҳои моро санҷид. Ӯ марди меҳрубон буд. Ӯ гуфт: «Субҳ ба хайр! Купеи шумо рақами панҷ аст.» Падарам ба ӯ ташаккур гуфт.\n\nҚатора субҳ соати нӯҳ аз истгоҳ ҳаракат кард. Ин сафари дароз буд — тақрибан даҳ соат. Аммо вақт зуд гузашт, зеро ки мо китоб хондем, бозӣ кардем ва дар бораи нақшаҳои худ гап задем. Дар роҳ таъхири хурд буд, аммо мо нигарон нашудем.\n\nМо бегоҳ ба Хуҷанд расидем. Амакам моро дар истгоҳ пешвоз гирифт. Ӯ гуфт: «Хуш омадед ба Хуҷанд!» Мо дар як вақт хушбахт ва хаста будем. Ин сафари аҷоиб буд.\n\nСафари дароз бо қатора роҳи хуб барои дидани кишвари зебои мост. Аз тиреза мо кӯҳҳо, киштзорҳо, дарёҳо ва деҳаҳои хурдро дидем. Падарам мегӯяд: «Сафар на танҳо дар бораи ҷое, ки шумо мебинед, аст. Он инчунин дар бораи роҳест, ки шумо меравед.»\n\nВақте ки ман калон мешавам, ман мехоҳам бо қатора ба шаҳрҳои зиёди кишвари мо сафар кунам. Ман мехоҳам Самарқанд, Бухоро ва дигар шаҳрҳои қадимиро бинам. Ман мехоҳам бо одамони нав вохӯрам ва чизҳои навро омӯзам. Зеро ки ҳар як сафар ба мо чизи навро меомӯзонад."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Роҳи оҳан шаҳри моро бо шаҳрҳои дигар пайваст мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст A"
+        "The railway connects our city with other cities.",
+        "The railway connects our city to other cities.",
+        "The railway connects our city and other cities.",
+        "The railway joins our city with other cities."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "The railway connects our city with other cities."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Мо амакамро дар истгоҳи роҳи оҳан пешвоз гирифтем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "We met our uncle at the railway station.",
+        "We met our uncle at the train station.",
+        "We met my uncle at the railway station.",
+        "We met our uncle in the railway station."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "We met our uncle at the railway station."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Вагони мо тоза ва бароҳат буд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: environment",
-        "нодуруст A"
+        "Our carriage was clean and comfortable.",
+        "The carriage was clean and comfortable.",
+        "Our carriage was clean and convenient.",
+        "Our carriage was clean and nice."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Our carriage was clean and comfortable."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Мо дар купеи ором нишастем ва китоб хондем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "We sat in a quiet compartment and read books.",
+        "We sat in the quiet compartment and read books.",
+        "We sat in a quiet compartment and read the books.",
+        "We sat in a quiet carriage and read books."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "We sat in a quiet compartment and read books."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Қатора дар платформа истод ва мусофирон фуруд омаданд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: education",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "The train stopped at the platform and the passengers got off.",
+        "The train stopped at the platform and the passengers got on.",
+        "The train stopped at the platform and passengers got off.",
+        "The train stopped on the platform and the passengers got off."
       ],
-      "answer": "тарҷума: education"
+      "answer": "The train stopped at the platform and the passengers got off."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Роҳбари қатора чиптаҳои моро санҷид ва табассум кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст C",
-        "нодуруст A"
+        "The conductor checked our tickets and smiled.",
+        "The conductor checked our tickets and smiles.",
+        "The conductor checked the tickets and smiled.",
+        "The conductor checked our tickets and laughed."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The conductor checked our tickets and smiled."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Мусофирони зиёд дар платформа барои қатора интизор шуданд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: achievement",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "Many passengers waited for the train on the platform.",
+        "Many passengers waited for the train at the platform.",
+        "Many passengers waited for a train on the platform.",
+        "A lot of passengers waited for the train on the platform."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "Many passengers waited for the train on the platform."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Мо субҳ соати ҳашт ба қатора савор шудем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "We boarded the train at eight o'clock in the morning.",
+        "We boarded the train at eight o'clock in the evening.",
+        "We boarded a train at eight o'clock in the morning.",
+        "We got on the train at eight o'clock in the morning."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "We boarded the train at eight o'clock in the morning."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Қатора соати нӯҳ аз истгоҳ ҳаракат мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: knowledge",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The train departs from the station at nine o'clock.",
+        "The train departs from the station at nine.",
+        "The train leaves from the station at nine o'clock.",
+        "The train departs the station at nine o'clock."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "The train departs from the station at nine o'clock."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Мо субҳ ба Хуҷанд расидем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "We arrived in Khujand in the morning.",
+        "We arrived in Khujand in the evening.",
+        "We arrived at Khujand in the morning.",
+        "We came to Khujand in the morning."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "We arrived in Khujand in the morning."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Дар роҳ таъхири хурд буд, аммо мо нигарон нашудем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: fluency",
-        "нодуруст B",
-        "нодуруст A"
+        "There was a small delay on the way, but we did not worry.",
+        "There was a small delay on the way but we did not worry.",
+        "There was a small delay in the way, but we did not worry.",
+        "There was a small delay on the way, but we did not worry about it."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "There was a small delay on the way, but we did not worry."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ман ҳамеша ҷои назди тирезаро интихоб мекунам, то ки манзараро бинам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "I always choose a window seat to see the view.",
+        "I always choose the window seat to see the view.",
+        "I always choose a window seat for seeing the view.",
+        "I always choose a place near the window to see the view."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "I always choose a window seat to see the view."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Мо бо оилаамон бо қатора сафар карданро дӯст медорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: pronunciation"
+        "We like to travel by train with our family.",
+        "We like to travel by train with the family.",
+        "We like to travel on train with our family.",
+        "We like travelling by train with our family."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "We like to travel by train with our family."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Модарам дар истгоҳи роҳи оҳан даст афшонд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: vocabulary"
+        "My mother waved goodbye at the railway station.",
+        "My mother waved goodbye at the train station.",
+        "My mother waved good-bye at the railway station.",
+        "My mother waved at the railway station."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "My mother waved goodbye at the railway station."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Манзараи тиреза хеле зебо буд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: grammar",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The view from the window was very beautiful.",
+        "The view from the window was beautiful.",
+        "A view from the window was very beautiful.",
+        "The view out of the window was very beautiful."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "The view from the window was very beautiful."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ин сафари дароз буд, аммо хеле ҷолиб» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "It was a long journey but very interesting.",
+        "It was a long journey, but very interesting.",
+        "It was a long journey but it was very interesting.",
+        "It was a long trip but very interesting."
       ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: experience"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "тарҷума: environment",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: communication",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: development"
-    },
-    {
-      "q": "'achievement' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: achievement"
-    },
-    {
-      "q": "'challenge' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: challenge"
-    },
-    {
-      "q": "'knowledge' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: knowledge",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: knowledge"
-    },
-    {
-      "q": "'conversation' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: conversation",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: conversation"
-    },
-    {
-      "q": "'fluency' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: fluency"
-      ],
-      "answer": "тарҷума: fluency"
-    },
-    {
-      "q": "'confidence' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: confidence",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: pronunciation",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: vocabulary"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: grammar",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: experience"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: communication",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: communication"
+      "answer": "It was a long journey but very interesting."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 34
+  "wordsCount": 16
 }
