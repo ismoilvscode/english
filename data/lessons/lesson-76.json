@@ -1,521 +1,322 @@
 {
   "id": 76,
-  "title": "Муоширати воқеӣ 76",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 76: Ҳунарҳои мардумӣ ва дастӣ",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "craft",
+      "tj": "ҳунари дастӣ",
+      "ex": "Pottery is an old craft."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "craftsman",
+      "tj": "ҳунарманд",
+      "ex": "The craftsman makes beautiful things with his hands."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "handmade",
+      "tj": "дастсоз",
+      "ex": "This carpet is handmade."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "embroidery",
+      "tj": "кашиш",
+      "ex": "My grandmother does beautiful embroidery."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "pottery",
+      "tj": "кулолгарӣ",
+      "ex": "Pottery is a very old craft."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "wood carving",
+      "tj": "кандакории чӯб",
+      "ex": "Wood carving is an old tradition in our country."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "jewellery",
+      "tj": "зевар",
+      "ex": "She wears beautiful silver jewellery."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to weave",
+      "tj": "бофтан",
+      "ex": "They weave beautiful carpets."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "to carve",
+      "tj": "канадкорӣ кардан",
+      "ex": "He carves beautiful patterns on wood."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "pattern",
+      "tj": "нақш",
+      "ex": "The pattern on this carpet is very beautiful."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "needle",
+      "tj": "сӯзан",
+      "ex": "She uses a needle and a thread."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "thread",
+      "tj": "ришта",
+      "ex": "The thread is red and thin."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "clay",
+      "tj": "гил",
+      "ex": "The potter makes plates from clay."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "work of art",
+      "tj": "асари ҳунарӣ",
+      "ex": "This carpet is a real work of art."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to be proud of",
+      "tj": "ифтихор кардан ба",
+      "ex": "I am proud of our craftsmen."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "to keep alive",
+      "tj": "зинда нигоҳ доштан",
+      "ex": "We must keep our crafts alive."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 76)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Pottery is a very old craft of our people.",
+      "tj": "Кулолгарӣ ҳунари хеле қадимии мардуми мост."
     },
     {
-      "en": "I'm working on lesson 76",
-      "tj": "Ман дарси 76-ро меомӯзам"
+      "en": "The craftsman makes beautiful things with his hands.",
+      "tj": "Ҳунарманд бо дастҳои худ чизҳои зебо месозад."
+    },
+    {
+      "en": "This carpet is handmade and very beautiful.",
+      "tj": "Ин гилем дастсоз ва хеле зебо аст."
+    },
+    {
+      "en": "My grandmother does beautiful embroidery with a needle and thread.",
+      "tj": "Бибиам бо сӯзан ва ришта кашиши зебо мекунад."
+    },
+    {
+      "en": "Wood carving is an old tradition in our country.",
+      "tj": "Кандакории чӯб анъанаи қадимӣ дар кишвари мост."
+    },
+    {
+      "en": "She wears beautiful silver jewellery on holidays.",
+      "tj": "Ӯ дар идҳо зевари нуқраи зеборо мепӯшад."
+    },
+    {
+      "en": "They weave beautiful carpets with old patterns.",
+      "tj": "Онҳо гилемҳои зеборо бо нақшҳои кӯҳна мебофанд."
+    },
+    {
+      "en": "He carves beautiful patterns on wood with a knife.",
+      "tj": "Ӯ бо корд дар чӯб нақшҳои зебо меканад."
+    },
+    {
+      "en": "The pattern on this carpet is very old and beautiful.",
+      "tj": "Нақши ин гилем хеле қадимӣ ва зебо аст."
+    },
+    {
+      "en": "The potter makes plates and cups from clay.",
+      "tj": "Кулолгар аз гил табақҳо ва пиёлаҳо месозад."
+    },
+    {
+      "en": "This carpet is a real work of art.",
+      "tj": "Ин гилем асари ҳақиқии ҳунарӣ аст."
+    },
+    {
+      "en": "I am proud of our craftsmen and their beautiful work.",
+      "tj": "Ман ба ҳунармандони мо ва кори зебои онҳо ифтихор мекунам."
+    },
+    {
+      "en": "We must keep our crafts alive for our children.",
+      "tj": "Мо бояд ҳунарҳои худро барои кӯдаконамон зинда нигоҳ дорем."
+    },
+    {
+      "en": "A good craftsman loves his work and works with patience.",
+      "tj": "Ҳунарманди хуб кори худро дӯст медорад ва бо сабр кор мекунад."
+    },
+    {
+      "en": "Handmade things are more valuable than machine-made things.",
+      "tj": "Чизҳои дастсоз аз чизҳои мошинсоз қиматбаҳотар ҳастанд."
+    },
+    {
+      "en": "Our craftsmen make our country famous all over the world.",
+      "tj": "Ҳунармандони мо кишвари моро дар тамоми ҷаҳон машҳур мекунанд."
     }
   ],
   "text": {
-    "en": "Text for lesson 76. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 76 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 76 text.",
-    "tj": "Матни дарси 76..."
+    "en": "Folk Crafts and Handmade Things\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. Our people have many old crafts. Craftsmen make beautiful things with their hands. Today I want to tell you about folk crafts and handmade things.\n\nPottery is a very old craft. The potter works with clay. He makes plates, cups and jugs from clay. Then he paints beautiful patterns on them. My uncle is a potter. His plates are famous in our city.\n\nMy grandmother does beautiful embroidery. She uses a needle and a thread. She makes beautiful patterns on dresses and pillows. Her embroidery is a real work of art.\n\nCarpet weaving is also an old craft. Women weave carpets with wool. They use old patterns and bright colours. Every carpet is a work of art. Tajik carpets are famous all over the world.\n\nWood carving is an old tradition too. Craftsmen carve beautiful patterns on doors and boxes. My neighbour is a wood carver. He says: \"To be a good craftsman, you need patience and love for your work.\"\n\nWe must be proud of our craftsmen. We must keep our crafts alive. When I grow up, I want to learn one of these crafts. Because handmade things are the treasure of our people.",
+    "tj": "Ҳунарҳои мардумӣ ва чизҳои дастсоз\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Мардуми мо ҳунарҳои кӯҳнаи зиёд доранд. Ҳунармандон бо дастҳои худ чизҳои зебо месозанд. Имрӯз ман мехоҳам ба шумо дар бораи ҳунарҳои мардумӣ ва чизҳои дастсоз нақл кунам.\n\nКулолгарӣ ҳунари хеле қадимӣ аст. Кулолгар бо гил кор мекунад. Ӯ аз гил табақҳо, пиёлаҳо ва кӯзаҳо месозад. Баъд ӯ дар онҳо нақшҳои зебо мекашад. Амакам кулолгар аст. Табақҳои ӯ дар шаҳри мо машҳуранд.\n\nБибиам кашиши зебо мекунад. Ӯ сӯзан ва риштаро истифода мебарад. Ӯ дар куртаҳо ва болишҳо нақшҳои зебо месозад. Кашиши ӯ асари ҳақиқии ҳунарӣ аст.\n\nГилембофӣ низ ҳунари қадимӣ аст. Занон гилемҳоро бо пашм мебофанд. Онҳо нақшҳои кӯҳна ва рангҳои дурахшонро истифода мебаранд. Ҳар як гилем асари ҳунарӣ аст. Гилемҳои тоҷикӣ дар тамоми ҷаҳон машҳуранд.\n\nКандакории чӯб низ анъанаи қадимӣ аст. Ҳунармандон дар дарҳо ва қуттиҳо нақшҳои зебо мекананд. Ҳамсояи ман кандакори чӯб аст. Ӯ мегӯяд: «Барои ҳунарманди хуб будан сабр ва муҳаббат ба кори худ лозим аст.»\n\nМо бояд ба ҳунармандони худ ифтихор кунем. Мо бояд ҳунарҳои худро зинда нигоҳ дорем. Вақте ки ман калон мешавам, ман мехоҳам яке аз ин ҳунарҳоро омӯзам. Зеро ки чизҳои дастсоз ганҷи мардуми мо ҳастанд."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Кулолгарӣ ҳунари хеле қадимии мардуми мост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст A"
+        "Pottery is a very old craft of our people.",
+        "Pottery is a very ancient craft of our people.",
+        "The pottery is a very old craft of our people.",
+        "Pottery is a very old craft of the people."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Pottery is a very old craft of our people."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ҳунарманд бо дастҳои худ чизҳои зебо месозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст C"
+        "The craftsman makes beautiful things with his hands.",
+        "The craftsman makes beautiful things by his hands.",
+        "A craftsman makes beautiful things with his hands.",
+        "The craftsman makes the beautiful things with his hands."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The craftsman makes beautiful things with his hands."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ин гилем дастсоз ва хеле зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: environment"
+        "This carpet is handmade and very beautiful.",
+        "This carpet is handmade and beautiful.",
+        "The carpet is handmade and very beautiful.",
+        "This carpet is hand-made and very beautiful."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "This carpet is handmade and very beautiful."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Бибиам бо сӯзан ва ришта кашиши зебо мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: communication",
-        "нодуруст B"
+        "My grandmother does beautiful embroidery with a needle and thread.",
+        "My grandmother does beautiful embroidery with a needle and a thread.",
+        "My grandmother makes beautiful embroidery with a needle and thread.",
+        "My grandmother does beautiful embroidery by a needle and thread."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "My grandmother does beautiful embroidery with a needle and thread."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Кандакории чӯб анъанаи қадимӣ дар кишвари мост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: education"
+        "Wood carving is an old tradition in our country.",
+        "Wood carving is an ancient tradition in our country.",
+        "The wood carving is an old tradition in our country.",
+        "Wood carving is an old tradition of our country."
       ],
-      "answer": "тарҷума: education"
+      "answer": "Wood carving is an old tradition in our country."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Ӯ дар идҳо зевари нуқраи зеборо мепӯшад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: development",
-        "нодуруст B",
-        "нодуруст C"
+        "She wears beautiful silver jewellery on holidays.",
+        "She wears beautiful silver jewellery at holidays.",
+        "She wears beautiful silver jewelry on holidays.",
+        "She puts on beautiful silver jewellery on holidays."
       ],
-      "answer": "тарҷума: development"
+      "answer": "She wears beautiful silver jewellery on holidays."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Онҳо гилемҳои зеборо бо нақшҳои кӯҳна мебофанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: achievement",
-        "нодуруст A",
-        "нодуруст B"
+        "They weave beautiful carpets with old patterns.",
+        "They weave beautiful carpets with the old patterns.",
+        "They make beautiful carpets with old patterns.",
+        "They weave the beautiful carpets with old patterns."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "They weave beautiful carpets with old patterns."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ӯ бо корд дар чӯб нақшҳои зебо меканад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: challenge"
+        "He carves beautiful patterns on wood with a knife.",
+        "He carves beautiful patterns in wood with a knife.",
+        "He carves beautiful patterns on the wood with a knife.",
+        "He carves the beautiful patterns on wood with a knife."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "He carves beautiful patterns on wood with a knife."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Нақши ин гилем хеле қадимӣ ва зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: knowledge",
-        "нодуруст A"
+        "The pattern on this carpet is very old and beautiful.",
+        "The pattern of this carpet is very old and beautiful.",
+        "The pattern on the carpet is very old and beautiful.",
+        "The pattern on this carpet is very ancient and beautiful."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "The pattern on this carpet is very old and beautiful."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Кулолгар аз гил табақҳо ва пиёлаҳо месозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: conversation",
-        "нодуруст B",
-        "нодуруст C"
+        "The potter makes plates and cups from clay.",
+        "The potter makes plates and cups of clay.",
+        "A potter makes plates and cups from clay.",
+        "The potter makes the plates and cups from clay."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The potter makes plates and cups from clay."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ин гилем асари ҳақиқии ҳунарӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: fluency"
+        "This carpet is a real work of art.",
+        "This carpet is a real work of art.",
+        "The carpet is a real work of art.",
+        "This carpet is a true work of art."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "This carpet is a real work of art."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ман ба ҳунармандони мо ва кори зебои онҳо ифтихор мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: confidence",
-        "нодуруст B"
+        "I am proud of our craftsmen and their beautiful work.",
+        "I am proud of our craftsmen and their beautiful work.",
+        "I am proud of the craftsmen and their beautiful work.",
+        "I am proud of our craftsmen and their nice work."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "I am proud of our craftsmen and their beautiful work."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Мо бояд ҳунарҳои худро барои кӯдаконамон зинда нигоҳ дорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: pronunciation",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "We must keep our crafts alive for our children.",
+        "We must keep our crafts alive for the children.",
+        "We should keep our crafts alive for our children.",
+        "We must keep alive our crafts for our children."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "We must keep our crafts alive for our children."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ҳунарманди хуб кори худро дӯст медорад ва бо сабр кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: vocabulary",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "A good craftsman loves his work and works with patience.",
+        "The good craftsman loves his work and works with patience.",
+        "A good craftsman loves his work and works patiently.",
+        "A good craftsman loves his job and works with patience."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "A good craftsman loves his work and works with patience."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Чизҳои дастсоз аз чизҳои мошинсоз қиматбаҳотар ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: grammar",
-        "нодуруст C"
+        "Handmade things are more valuable than machine-made things.",
+        "Handmade things are more valuable than machine-made things.",
+        "The handmade things are more valuable than machine-made things.",
+        "Handmade things are more valuable than the machine-made things."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "Handmade things are more valuable than machine-made things."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ҳунармандони мо кишвари моро дар тамоми ҷаҳон машҳур мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст A",
-        "нодуруст C"
+        "Our craftsmen make our country famous all over the world.",
+        "Our craftsmen make our country famous in the world.",
+        "Our craftsmen make our country famous all over the world.",
+        "Our craftsmen make the country famous all over the world."
       ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: experience",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "тарҷума: education",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: development"
-    },
-    {
-      "q": "'achievement' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: achievement"
-    },
-    {
-      "q": "'challenge' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: challenge"
-      ],
-      "answer": "тарҷума: challenge"
-    },
-    {
-      "q": "'knowledge' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: knowledge",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: knowledge"
-    },
-    {
-      "q": "'conversation' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: conversation",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: conversation"
-    },
-    {
-      "q": "'fluency' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: fluency",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: fluency"
-    },
-    {
-      "q": "'confidence' чи маъно дорад?",
-      "options": [
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: pronunciation",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: vocabulary",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: grammar"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: opportunity",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: environment"
+      "answer": "Our craftsmen make our country famous all over the world."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 33
+  "wordsCount": 16
 }
