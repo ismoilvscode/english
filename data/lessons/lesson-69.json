@@ -1,491 +1,622 @@
 {
   "id": 69,
-  "title": "Муоширати воқеӣ 69",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 69: Одамони калонсол ва пиронсолон",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "adult",
+      "tj": "калонсол",
+      "ex": "Adults must help children and old people."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "elderly",
+      "tj": "пиронсол",
+      "ex": "We must respect elderly people."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "generation",
+      "tj": "насл",
+      "ex": "Three generations live in our house."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "wisdom",
+      "tj": "хирад",
+      "ex": "Old people have great wisdom."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "experience of life",
+      "tj": "таҷрибаи ҳаёт",
+      "ex": "My grandfather has great experience of life."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "to take care of",
+      "tj": "ғамхорӣ кардан ба",
+      "ex": "We take care of our grandmother."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "to look after",
+      "tj": "нигоҳубинӣ кардан",
+      "ex": "I look after my little brother."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to grow old",
+      "tj": "пир шудан",
+      "ex": "Every person grows old one day."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "to pass away",
+      "tj": "вафот кардан",
+      "ex": "My great-grandfather passed away many years ago."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to remember",
+      "tj": "ба ёд овардан",
+      "ex": "I remember my grandfather every day."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "memory",
+      "tj": "хотира",
+      "ex": "We keep the memory of our ancestors."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "grave",
+      "tj": "қабр",
+      "ex": "We visit the graves of our grandparents."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "to pray",
+      "tj": "дуо кардан",
+      "ex": "My grandmother prays every morning."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "patience",
+      "tj": "сабр",
+      "ex": "Old people have great patience."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to advise",
+      "tj": "маслиҳат додан",
+      "ex": "My grandfather advises me to study hard."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "advice",
+      "tj": "маслиҳат",
+      "ex": "Good advice is more valuable than gold."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 69)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Adults must help children and old people.",
+      "tj": "Калонсолон бояд ба кӯдакон ва пиронсолон кӯмак кунанд."
     },
     {
-      "en": "I'm working on lesson 69",
-      "tj": "Ман дарси 69-ро меомӯзам"
+      "en": "We must respect elderly people and listen to their advice.",
+      "tj": "Мо бояд пиронсолонро эҳтиром кунем ва ба маслиҳатҳои онҳо гӯш кунем."
+    },
+    {
+      "en": "Three generations live in our house: my grandparents, my parents and us.",
+      "tj": "Дар хонаи мо се насл зиндагӣ мекунанд: бибию бобоямон, волидонамон ва мо."
+    },
+    {
+      "en": "Old people have great wisdom and experience of life.",
+      "tj": "Пиронсолон хиради бузург ва таҷрибаи ҳаёт доранд."
+    },
+    {
+      "en": "My grandfather has great experience of life.",
+      "tj": "Бобоям таҷрибаи бузурги ҳаёт дорад."
+    },
+    {
+      "en": "We take care of our grandmother every day.",
+      "tj": "Мо ҳар рӯз ба бибиамон ғамхорӣ мекунем."
+    },
+    {
+      "en": "I look after my little brother when my mother is busy.",
+      "tj": "Ман вақте ки модарам банд аст, ба бародари хурдиам нигоҳубинӣ мекунам."
+    },
+    {
+      "en": "Every person grows old one day.",
+      "tj": "Ҳар як одам як рӯз пир мешавад."
+    },
+    {
+      "en": "My great-grandfather passed away many years ago.",
+      "tj": "Бобокалонам бисёр сол пеш вафот карданд."
+    },
+    {
+      "en": "I remember my grandfather every day and I miss him.",
+      "tj": "Ман ҳар рӯз бобоямро ба ёд меорам ва пазмон мешавам."
+    },
+    {
+      "en": "We keep the memory of our ancestors in our hearts.",
+      "tj": "Мо хотираи аҷдодони худро дар дилҳоямон нигоҳ медорем."
+    },
+    {
+      "en": "We visit the graves of our grandparents every spring.",
+      "tj": "Мо ҳар баҳор ба қабрҳои бибию бобоямон меравем."
+    },
+    {
+      "en": "My grandmother prays every morning before breakfast.",
+      "tj": "Бибиам ҳар субҳ пеш аз наҳорӣ дуо мекунад."
+    },
+    {
+      "en": "Old people have great patience and understanding.",
+      "tj": "Пиронсолон сабр ва фаҳмиши бузург доранд."
+    },
+    {
+      "en": "My grandfather always advises me to study hard and to be kind.",
+      "tj": "Бобоям ҳамеша ба ман маслиҳат медиҳад, ки бо ҷидду ҷаҳд таҳсил кунам ва меҳрубон бошам."
+    },
+    {
+      "en": "Good advice is more valuable than gold.",
+      "tj": "Маслиҳати хуб аз тилло қиматбаҳотар аст."
     }
   ],
   "text": {
-    "en": "Text for lesson 69. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 69 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 69 text.",
-    "tj": "Матни дарси 69..."
+    "en": "Adults and Elderly People\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. In our family there are people of different ages: my little brother, my sister Zuhro, my parents, and my grandparents. Grandparents are elderly people, and elderly people are the most important part of any family. Today I want to tell you about adults and elderly people.\n\nAn adult is a person who is grown up. Adults are older than children, but younger than elderly people. Adults work, take care of their families and make decisions. Adults have more experience than children, so children must listen to them. But adults also must respect children and help them to grow up well.\n\nAn elderly person is a person who is very old — sixty, seventy or eighty years old. In our country we say that an elderly person has a heart full of gold. Elderly people are wise, patient and kind. They have lived for many years and they have learned many things. They have seen good times and bad times, happy days and sad days. This is why we call their experience \"wisdom\" — not just knowledge, but deep understanding of life.\n\nIn our family we have three generations: my grandparents, my parents and us — the children. Three generations live together in one house, and it is a great happiness. My grandmother cooks the most delicious food in the world. My grandfather tells us the most interesting stories about the past. In the evening we all sit together and listen to them. They talk about their youth, about their parents, about the old days in our village. It is very interesting to listen to them.\n\nMy grandfather is a very wise man. He has great experience of life. When I do not know what to do, I ask him for advice. His advice is always simple and always right. He says: \"Good advice is more valuable than gold, because gold can be lost, but good advice helps you all your life.\"\n\nWe must take care of elderly people. When my grandmother is tired, I help her. When my grandfather is ill, we take him to the doctor. When they need something, we bring it to them. When they want to talk, we listen to them. Taking care of elderly people is not a difficult job — it is an easy and a very good job. My mother says: \"When you take care of your parents when they are old, your children will take care of you when you are old. This is the law of life.\"\n\nI also look after my little brother. When my mother is busy in the kitchen, I play with him, I read books to him and I help him with his lessons. He is small and he needs our help. My grandmother says: \"We must look after the small, and we must listen to the old. Then our family will be happy.\"\n\nSome elderly people live alone. Their children live in other cities or in other countries, and they do not visit them often. This is very sad. Elderly people need not only food and money — they need love, attention and understanding. My grandfather says: \"When you are young, you want to be rich. When you are old, you want to be loved. Do not forget this.\"\n\nWe must always remember our ancestors. My great-grandfather passed away many years ago, but we still keep his memory in our hearts. We have his old photographs in our family album. We visit the graves of our grandparents every spring. We clean the graves, we plant flowers on them, and we pray for our ancestors. My grandmother says: \"A person who does not remember his ancestors has no roots. And a tree without roots cannot grow tall.\"\n\nElderly people have great patience. When I make a mistake, my grandmother never gets angry with me. She says: \"We all make mistakes. This is how we learn.\" When I am slow, she never rushes me. She has the patience of a hundred years. I want to have this same patience when I grow up. Because patience is one of the most beautiful human qualities.\n\nWhen I grow up and become a doctor, I want to work with elderly people. They need special care. Their health is not as strong as ours. Their heart, their legs, their eyes — everything needs attention. I want to be a doctor who is not only clever but also kind. I want to be a doctor who takes care of elderly people the same way I take care of my grandparents.\n\nOne day I too will grow old. This is the law of nature. I want to grow old with dignity, with a family around me, with grandchildren who love me. And to have this, I must be a good son, a good husband, a good father and a good person. Because what we give comes back to us. My grandfather says: \"Do good, and good will return to you. Plant a tree today, and in fifty years your grandchildren will rest in its shadow.\"\n\nElderly people are our greatest treasure. We must respect them, love them, help them and listen to them. Without them, we would not be here. Without them, we would not know our history and our traditions. Without them, our family would not be complete. When I grow up, I want to have a big and happy family where three or four generations live together. Because this is real happiness — this is our Tajik way of life.",
+    "tj": "Калонсолон ва пиронсолон\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Дар оилаи мо одамони синну соли гуногун ҳастанд: бародари хурдии ман, хоҳарам Зуҳро, волидонам ва бибию бобоям. Бибию бобоён пиронсолон ҳастанд ва пиронсолон муҳимтарин қисми ҳар як оила ҳастанд. Имрӯз ман мехоҳам ба шумо дар бораи калонсолон ва пиронсолон нақл кунам.\n\nКалонсол одамест, ки калон шудааст. Калонсолон аз кӯдакон калонтаранд, аммо аз пиронсолон хурдтаранд. Калонсолон кор мекунанд, ба оилаҳои худ ғамхорӣ мекунанд ва қарорҳо қабул мекунанд. Калонсолон таҷрибаи бештар аз кӯдакон доранд, бинобар ин кӯдакон бояд ба онҳо гӯш кунанд. Аммо калонсолон низ бояд кӯдаконро эҳтиром кунанд ва ба онҳо кӯмак кунанд, ки хуб ба воя расанд.\n\nПиронсол одамест, ки хеле пир аст — шаст, ҳафтод ё ҳаштодсола. Дар кишвари мо мегӯянд, ки пиронсол диле пур аз тилло дорад. Пиронсолон хирадманд, сабрнок ва меҳрубонанд. Онҳо солҳои зиёд зиндагӣ кардаанд ва чизҳои зиёдро омӯхтаанд. Онҳо рӯзҳои хуб ва рӯзҳои бадро дидаанд, рӯзҳои хушбахтӣ ва рӯзҳои ғамро. Барои ҳамин мо таҷрибаи онҳоро «хирад» меномем — на танҳо дониш, балки фаҳмиши амиқи ҳаёт.\n\nДар оилаи мо се насл ҳаст: бибию бобоям, волидонам ва мо — кӯдакон. Се насл дар як хона якҷоя зиндагӣ мекунанд ва ин бахти бузург аст. Бибиам бомаззатарин ғизоро дар ҷаҳон мепазад. Бобоям ҷолибтарин ҳикояҳоро дар бораи гузашта нақл мекунад. Бегоҳ мо ҳама якҷоя менишинем ва ба онҳо гӯш мекунем. Онҳо дар бораи ҷавонии худ, дар бораи волидонашон, дар бораи рӯзҳои қадими деҳаи мо нақл мекунанд. Гӯш кардани онҳо хеле ҷолиб аст.\n\nБобоям одами хеле хирадманд аст. Ӯ таҷрибаи бузурги ҳаёт дорад. Вақте ки ман намедонам чӣ кор кунам, ман аз ӯ маслиҳат мепурсам. Маслиҳати ӯ ҳамеша оддӣ ва ҳамеша дуруст аст. Ӯ мегӯяд: «Маслиҳати хуб аз тилло қиматбаҳотар аст, зеро ки тиллоро гум кардан мумкин аст, аммо маслиҳати хуб ба шумо тамоми умр кӯмак мекунад.»\n\nМо бояд ба пиронсолон ғамхорӣ кунем. Вақте ки бибиам хаста мешавад, ман ба ӯ кӯмак мекунам. Вақте ки бобоям бемор мешавад, мо ӯро ба духтур мебарем. Вақте ки онҳо чизе лозим доранд, мо онро ба онҳо меорем. Вақте ки онҳо гап задан мехоҳанд, мо ба онҳо гӯш мекунем. Нигоҳубини пиронсолон кори душвор нест — ин кори осон ва хеле хуб аст. Модарам мегӯяд: «Вақте ки шумо ба волидонатон дар пирӣ ғамхорӣ мекунед, фарзандони шумо вақте ки шумо пир мешавед, ба шумо ғамхорӣ мекунанд. Ин қонуни ҳаёт аст.»\n\nМан инчунин ба бародари хурдии худ нигоҳубинӣ мекунам. Вақте ки модарам дар ошхона банд аст, ман бо ӯ бозӣ мекунам, ба ӯ китоб мехонам ва ба ӯ дар дарсҳояш кӯмак мекунам. Ӯ хурд аст ва ӯ ба кӯмаки мо ниёз дорад. Бибиам мегӯяд: «Мо бояд ба хурдҳо нигоҳубинӣ кунем ва ба пиронсолон гӯш кунем. Он гоҳ оилаи мо хушбахт хоҳад буд.»\n\nБаъзе пиронсолон танҳо зиндагӣ мекунанд. Фарзандони онҳо дар шаҳрҳои дигар ё дар кишварҳои дигар зиндагӣ мекунанд ва онҳо аксар вақт ба онҳо намеоянд. Ин хеле ғамгин аст. Пиронсолон на танҳо ғизо ва пул лозим доранд — онҳо муҳаббат, диққат ва фаҳмиш лозим доранд. Бобоям мегӯяд: «Вақте ки шумо ҷавон ҳастед, шумо мехоҳед бой шавед. Вақте ки шумо пир мешавед, шумо мехоҳед дӯст дошта шавед. Инро фаромӯш накунед.»\n\nМо бояд ҳамеша аҷдодони худро ба ёд орем. Бобокалонам бисёр сол пеш вафот карданд, аммо мо ҳанӯз хотираи онҳоро дар дилҳоямон нигоҳ медорем. Мо дар албоми оилавии худ аксҳои кӯҳнаи онҳоро дорем. Мо ҳар баҳор ба қабрҳои бибию бобоямон меравем. Мо қабрҳоро тоза мекунем, ба онҳо гул мешинонем ва барои аҷдодони худ дуо мекунем. Бибиам мегӯяд: «Одаме, ки аҷдодони худро ба ёд намеорад, реша надорад. Ва дарахти бе реша баланд шуда наметавонад.»\n\nПиронсолон сабри бузург доранд. Вақте ки ман хато мекунам, бибиам ҳеҷ гоҳ ба ман бадқаҳр намешавад. Ӯ мегӯяд: «Ҳамаи мо хато мекунем. Ин тавр мо меомӯзем.» Вақте ки ман оҳиста ҳастам, ӯ ҳеҷ гоҳ маро шитоб намекунад. Ӯ сабри садсола дорад. Ман мехоҳам вақте ки калон мешавам, ҳамин сабрро дошта бошам. Зеро ки сабр яке аз зеботарин сифатҳои инсонӣ аст.\n\nВақте ки ман калон мешавам ва духтур мешавам, ман мехоҳам бо пиронсолон кор кунам. Онҳо нигоҳубини махсус лозим доранд. Саломатии онҳо ба қадри мо қавӣ нест. Дили онҳо, пойҳои онҳо, чашмони онҳо — ҳама чиз диққат лозим дорад. Ман мехоҳам духтури хуб бошам. Ман мехоҳам духтури меҳрубон бошам, ки ба пиронсолон ҳамон тавр ғамхорӣ мекунад, ки ман ба бибию бобоям мекунам.\n\nЯк рӯз ман низ пир мешавам. Ин қонуни табиат аст. Ман мехоҳам бо иззат пир шавам, бо оила дар атрофи худ, бо набераҳое, ки маро дӯст медоранд. Ва барои ин доштан, ман бояд писари хуб, шавҳари хуб, падари хуб ва одами хуб бошам. Зеро ки он чи мо медиҳем, ба мо бармегардад. Бобоям мегӯяд: «Некӣ кун, то некӣ ба ту баргардад. Имрӯз дарахт шинон, то панҷоҳ сол баъд набераҳои ту дар сояи он дам гиранд.»\n\nПиронсолон бузургтарин ганҷи мо ҳастанд. Мо бояд онҳоро эҳтиром кунем, дӯст дорем, ба онҳо кӯмак кунем ва ба онҳо гӯш кунем. Бе онҳо мо ин ҷо намебудем. Бе онҳо мо таърих ва анъанаҳои худро намедонистем. Бе онҳо оилаи мо пурра намебуд. Вақте ки ман калон мешавам, ман мехоҳам оилаи калон ва хушбахт дошта бошам, ки дар он се ё чор насл якҷоя зиндагӣ мекунанд. Зеро ки ин бахти ҳақиқӣ аст — ин тарзи ҳаёти тоҷикии мост."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Калонсолон бояд ба кӯдакон ва пиронсолон кӯмак кунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "Adults must help children and old people.",
+        "Adults must help children and elderly people.",
+        "The adults must help children and old people.",
+        "Adults should help children and old people."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Adults must help children and old people."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Мо бояд пиронсолонро эҳтиром кунем ва ба маслиҳатҳои онҳо гӯш кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст B"
+        "We must respect elderly people and listen to their advice.",
+        "We must respect the elderly people and listen to their advice.",
+        "We should respect elderly people and listen to their advice.",
+        "We must respect elderly people and listen to their advices."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "We must respect elderly people and listen to their advice."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Дар хонаи мо се насл зиндагӣ мекунанд: бибию бобоямон, волидонамон ва мо» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: environment"
+        "Three generations live in our house: my grandparents, my parents and us.",
+        "Three generations live in our house: my grandparents, my parents and we.",
+        "Three generations live in our house: my grandparents, parents and us.",
+        "The three generations live in our house: my grandparents, my parents and us."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Three generations live in our house: my grandparents, my parents and us."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Пиронсолон хиради бузург ва таҷрибаи ҳаёт доранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Old people have great wisdom and experience of life.",
+        "Elderly people have great wisdom and experience of life.",
+        "The old people have great wisdom and experience of life.",
+        "Old people have great wisdom and life experience."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "Old people have great wisdom and experience of life."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Мо ҳар рӯз ба бибиамон ғамхорӣ мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: education",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "We take care of our grandmother every day.",
+        "We look after our grandmother every day.",
+        "We take care about our grandmother every day.",
+        "We care of our grandmother every day."
       ],
-      "answer": "тарҷума: education"
+      "answer": "We take care of our grandmother every day."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Ман вақте ки модарам банд аст, ба бародари хурдиам нигоҳубинӣ мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "I look after my little brother when my mother is busy.",
+        "I look after my little brother when my mother is busy.",
+        "I take care of my little brother when my mother is busy.",
+        "I look for my little brother when my mother is busy."
       ],
-      "answer": "тарҷума: development"
+      "answer": "I look after my little brother when my mother is busy."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ҳар як одам як рӯз пир мешавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: achievement",
-        "нодуруст A"
+        "Every person grows old one day.",
+        "Each person grows old one day.",
+        "Every person becomes old one day.",
+        "Every man grows old one day."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "Every person grows old one day."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Бобокалонам бисёр сол пеш вафот карданд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "My great-grandfather passed away many years ago.",
+        "My great-grandfather died many years ago.",
+        "My great-grandfather passed away many years before.",
+        "My great grandfather passed away many years ago."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "My great-grandfather passed away many years ago."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Ман ҳар рӯз бобоямро ба ёд меорам ва пазмон мешавам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: knowledge"
+        "I remember my grandfather every day and I miss him.",
+        "I remember my grandfather every day and miss him.",
+        "I remember my grandfather every day and I miss him.",
+        "I remember about my grandfather every day and I miss him."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "I remember my grandfather every day and I miss him."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Мо хотираи аҷдодони худро дар дилҳоямон нигоҳ медорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: conversation",
-        "нодуруст C"
+        "We keep the memory of our ancestors in our hearts.",
+        "We keep the memory of our ancestors in our heart.",
+        "We keep memory of our ancestors in our hearts.",
+        "We keep the memory of our ancestors in the hearts."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "We keep the memory of our ancestors in our hearts."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Мо ҳар баҳор ба қабрҳои бибию бобоямон меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: fluency",
-        "нодуруст C"
+        "We visit the graves of our grandparents every spring.",
+        "We visit the graves of our grandparents every spring.",
+        "We go to the graves of our grandparents every spring.",
+        "We visit the graves of our grandmother and grandfather every spring."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "We visit the graves of our grandparents every spring."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Бибиам ҳар субҳ пеш аз наҳорӣ дуо мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "My grandmother prays every morning before breakfast.",
+        "My grandmother prays every morning before the breakfast.",
+        "My grandmother says a prayer every morning before breakfast.",
+        "My grandmother prays each morning before breakfast."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "My grandmother prays every morning before breakfast."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Пиронсолон сабр ва фаҳмиши бузург доранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: pronunciation",
-        "нодуруст A"
+        "Old people have great patience and understanding.",
+        "Elderly people have great patience and understanding.",
+        "Old people have a great patience and understanding.",
+        "Old people have great patience and understanding."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "Old people have great patience and understanding."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Бобоям ҳамеша ба ман маслиҳат медиҳад, ки бо ҷидду ҷаҳд таҳсил кунам ва меҳрубон бошам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: vocabulary"
+        "My grandfather always advises me to study hard and to be kind.",
+        "My grandfather always advises me to study hard and be kind.",
+        "My grandfather always advises me to work hard and to be kind.",
+        "My grandfather always advises me to study good and to be kind."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "My grandfather always advises me to study hard and to be kind."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Маслиҳати хуб аз тилло қиматбаҳотар аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: grammar",
-        "нодуруст C",
-        "нодуруст B"
+        "Good advice is more valuable than gold.",
+        "Good advice is more valuable than the gold.",
+        "A good advice is more valuable than gold.",
+        "Good advice is the most valuable than gold."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "Good advice is more valuable than gold."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Дар оилаи мо одамони синну соли гуногун ҳастанд: бародари хурдии ман, хоҳарам Зуҳро, волидонам ва бибию бобоям. Бибию бобоён пиронсолон ҳастанд ва пиронсолон муҳимтарин қисми ҳар як оила ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: opportunity",
-        "нодуруст A"
+        "In our family there are people of different ages: my little brother, my sister Zuhro, my parents, and my grandparents. Grandparents are elderly people, and elderly people are the most important part of any family.",
+        "In our family there are people of different ages: my little brother, my sister Zuhro, my parents and my grandparents. Grandparents are elderly people, and elderly people are the most important part of any family.",
+        "In our family there are people of different ages: my little brother, my sister Zuhro, my parents, and my grandparents. Grandparents are old people, and elderly people are the most important part of any family.",
+        "In our family there are people of different age: my little brother, my sister Zuhro, my parents, and my grandparents. Grandparents are elderly people, and elderly people are the most important part of any family."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "In our family there are people of different ages: my little brother, my sister Zuhro, my parents, and my grandparents. Grandparents are elderly people, and elderly people are the most important part of any family."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Имрӯз ман мехоҳам ба шумо дар бораи калонсолон ва пиронсолон нақл кунам. Калонсол одамест, ки калон шудааст. Калонсолон аз кӯдакон калонтаранд, аммо аз пиронсолон хурдтаранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст B"
+        "Today I want to tell you about adults and elderly people. An adult is a person who is grown up. Adults are older than children, but younger than elderly people.",
+        "Today I want to tell you about adults and old people. An adult is a person who is grown up. Adults are older than children, but younger than elderly people.",
+        "Today I want to tell you about the adults and elderly people. An adult is a person who is grown up. Adults are older than children, but younger than elderly people.",
+        "Today I want to tell you about adults and elderly people. An adult is a person which is grown up. Adults are older than children, but younger than elderly people."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "Today I want to tell you about adults and elderly people. An adult is a person who is grown up. Adults are older than children, but younger than elderly people."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Калонсолон кор мекунанд, ба оилаҳои худ ғамхорӣ мекунанд ва қарорҳо қабул мекунанд. Калонсолон таҷрибаи бештар аз кӯдакон доранд, бинобар ин кӯдакон бояд ба онҳо гӯш кунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: environment",
-        "нодуруст C"
+        "Adults work, take care of their families and make decisions. Adults have more experience than children, so children must listen to them.",
+        "Adults work, take care of their families and make decisions. Adults have more experience than children, that is why children must listen to them.",
+        "Adults work, take care about their families and make decisions. Adults have more experience than children, so children must listen to them.",
+        "Adults work, take care of their families and take decisions. Adults have more experience than children, so children must listen to them."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Adults work, take care of their families and make decisions. Adults have more experience than children, so children must listen to them."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Аммо калонсолон низ бояд кӯдаконро эҳтиром кунанд ва ба онҳо кӯмак кунанд, ки хуб ба воя расанд. Пиронсол одамест, ки хеле пир аст — шаст, ҳафтод ё ҳаштодсола» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст B"
+        "But adults also must respect children and help them to grow up well. An elderly person is a person who is very old — sixty, seventy or eighty years old.",
+        "But adults must also respect children and help them to grow up well. An elderly person is a person who is very old — sixty, seventy or eighty years old.",
+        "But adults also should respect children and help them grow up well. An elderly person is a person who is very old — sixty, seventy or eighty years old.",
+        "But adults also must respect the children and help them to grow up well. An elderly person is a person who is very old — sixty, seventy or eighty years old."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "But adults also must respect children and help them to grow up well. An elderly person is a person who is very old — sixty, seventy or eighty years old."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Дар кишвари мо мегӯянд, ки пиронсол диле пур аз тилло дорад. Пиронсолон хирадманд, сабрнок ва меҳрубонанд. Онҳо солҳои зиёд зиндагӣ кардаанд ва чизҳои зиёдро омӯхтаанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: education"
+        "In our country we say that an elderly person has a heart full of gold. Elderly people are wise, patient and kind. They have lived for many years and they have learned many things.",
+        "In our country we say that an elderly person has a heart full of gold. Old people are wise, patient and kind. They have lived for many years and they have learned many things.",
+        "In our country we say that the elderly person has a heart full of gold. Elderly people are wise, patient and kind. They have lived for many years and they have learned many things.",
+        "In our country we say that an elderly person has the heart full of gold. Elderly people are wise, patient and kind. They have lived for many years and they have learned many things."
       ],
-      "answer": "тарҷума: education"
+      "answer": "In our country we say that an elderly person has a heart full of gold. Elderly people are wise, patient and kind. They have lived for many years and they have learned many things."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Онҳо рӯзҳои хуб ва рӯзҳои бадро дидаанд, рӯзҳои хушбахтӣ ва рӯзҳои ғамро. Барои ҳамин мо таҷрибаи онҳоро \"хирад\" меномем — на танҳо дониш, балки фаҳмиши амиқи ҳаёт» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: development"
+        "They have seen good times and bad times, happy days and sad days. This is why we call their experience \"wisdom\" — not just knowledge, but deep understanding of life.",
+        "They have seen good times and bad times, happy days and sad days. That is why we call their experience \"wisdom\" — not just knowledge, but deep understanding of life.",
+        "They have seen the good times and bad times, happy days and sad days. This is why we call their experience \"wisdom\" — not just knowledge, but deep understanding of life.",
+        "They saw good times and bad times, happy days and sad days. This is why we call their experience \"wisdom\" — not just knowledge, but deep understanding of life."
       ],
-      "answer": "тарҷума: development"
+      "answer": "They have seen good times and bad times, happy days and sad days. This is why we call their experience \"wisdom\" — not just knowledge, but deep understanding of life."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Дар оилаи мо се насл ҳаст: бибию бобоям, волидонам ва мо — кӯдакон. Се насл дар як хона якҷоя зиндагӣ мекунанд ва ин бахти бузург аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: achievement",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "In our family we have three generations: my grandparents, my parents and us — the children. Three generations live together in one house, and it is a great happiness.",
+        "In our family there are three generations: my grandparents, my parents and us — the children. Three generations live together in one house, and it is a great happiness.",
+        "In our family we have three generations: my grandparents, my parents and we — the children. Three generations live together in one house, and it is a great happiness.",
+        "In our family we have three generations: my grandparents, my parents and us, the children. Three generations live together in one house, and it is a great happiness."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "In our family we have three generations: my grandparents, my parents and us — the children. Three generations live together in one house, and it is a great happiness."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Бибиам бомаззатарин ғизоро дар ҷаҳон мепазад. Бобоям ҷолибтарин ҳикояҳоро дар бораи гузашта нақл мекунад. Бегоҳ мо ҳама якҷоя менишинем ва ба онҳо гӯш мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: challenge"
+        "My grandmother cooks the most delicious food in the world. My grandfather tells us the most interesting stories about the past. In the evening we all sit together and listen to them.",
+        "My grandmother cooks the most delicious food in the world. My grandfather tells us the most interesting stories about the past. In the evening we all sit together and listen to them.",
+        "My grandmother cooks the most tasty food in the world. My grandfather tells us the most interesting stories about the past. In the evening we all sit together and listen to them.",
+        "My grandmother makes the most delicious food in the world. My grandfather tells us the most interesting stories about the past. In the evening we all sit together and listen to them."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "My grandmother cooks the most delicious food in the world. My grandfather tells us the most interesting stories about the past. In the evening we all sit together and listen to them."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Онҳо дар бораи ҷавонии худ, дар бораи волидонашон, дар бораи рӯзҳои қадими деҳаи мо нақл мекунанд. Гӯш кардани онҳо хеле ҷолиб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: knowledge",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "They talk about their youth, about their parents, about the old days in our village. It is very interesting to listen to them.",
+        "They talk about their youth, about their parents and about the old days in our village. It is very interesting to listen to them.",
+        "They talk about their young years, about their parents, about the old days in our village. It is very interesting to listen to them.",
+        "They talk about their youth, about their parents, about old days in our village. It is very interesting to listen to them."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "They talk about their youth, about their parents, about the old days in our village. It is very interesting to listen to them."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Бобоям одами хеле хирадманд аст. Ӯ таҷрибаи бузурги ҳаёт дорад. Вақте ки ман намедонам чӣ кор кунам, ман аз ӯ маслиҳат мепурсам. Маслиҳати ӯ ҳамеша оддӣ ва ҳамеша дуруст аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: conversation",
-        "нодуруст C"
+        "My grandfather is a very wise man. He has great experience of life. When I do not know what to do, I ask him for advice. His advice is always simple and always right.",
+        "My grandfather is a very wise man. He has great experience of life. When I don't know what to do, I ask him for advice. His advice is always simple and always right.",
+        "My grandfather is a very wise man. He has a great experience of life. When I do not know what to do, I ask him for advice. His advice is always simple and always right.",
+        "My grandfather is the very wise man. He has great experience of life. When I do not know what to do, I ask him for advice. His advice is always simple and always right."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "My grandfather is a very wise man. He has great experience of life. When I do not know what to do, I ask him for advice. His advice is always simple and always right."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ӯ мегӯяд: \"Маслиҳати хуб аз тилло қиматбаҳотар аст, зеро ки тиллоро гум кардан мумкин аст, аммо маслиҳати хуб ба шумо тамоми умр кӯмак мекунад.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: fluency",
-        "нодуруст C"
+        "He says: \"Good advice is more valuable than gold, because gold can be lost, but good advice helps you all your life.\"",
+        "He says: \"Good advice is more valuable than gold because gold can be lost, but good advice helps you all your life.\"",
+        "He says: \"Good advice is more valuable than gold, because gold can be lost but good advice helps you all your life.\"",
+        "He says: \"Good advice is more valuable than the gold, because gold can be lost, but good advice helps you all your life.\""
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "He says: \"Good advice is more valuable than gold, because gold can be lost, but good advice helps you all your life.\""
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Мо бояд ба пиронсолон ғамхорӣ кунем. Вақте ки бибиам хаста мешавад, ман ба ӯ кӯмак мекунам. Вақте ки бобоям бемор мешавад, мо ӯро ба духтур мебарем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "We must take care of elderly people. When my grandmother is tired, I help her. When my grandfather is ill, we take him to the doctor.",
+        "We must take care of the elderly people. When my grandmother is tired, I help her. When my grandfather is ill, we take him to the doctor.",
+        "We should take care of elderly people. When my grandmother is tired, I help her. When my grandfather is ill, we take him to the doctor.",
+        "We must take care of elderly people. When my grandmother is tired I help her. When my grandfather is ill, we take him to the doctor."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "We must take care of elderly people. When my grandmother is tired, I help her. When my grandfather is ill, we take him to the doctor."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Вақте ки онҳо чизе лозим доранд, мо онро ба онҳо меорем. Вақте ки онҳо гап задан мехоҳанд, мо ба онҳо гӯш мекунем. Нигоҳубини пиронсолон кори душвор нест — ин кори осон ва хеле хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: pronunciation",
-        "нодуруст A"
+        "When they need something, we bring it to them. When they want to talk, we listen to them. Taking care of elderly people is not a difficult job — it is an easy and a very good job.",
+        "When they need something we bring it to them. When they want to talk, we listen to them. Taking care of elderly people is not a difficult job — it is an easy and a very good job.",
+        "When they need something, we bring it to them. When they want to talk, we listen to them. Taking care of the elderly people is not a difficult job — it is an easy and a very good job.",
+        "When they need something, we bring it for them. When they want to talk, we listen to them. Taking care of elderly people is not a difficult job — it is an easy and a very good job."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "When they need something, we bring it to them. When they want to talk, we listen to them. Taking care of elderly people is not a difficult job — it is an easy and a very good job."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Модарам мегӯяд: \"Вақте ки шумо ба волидонатон дар пирӣ ғамхорӣ мекунед, фарзандони шумо вақте ки шумо пир мешавед, ба шумо ғамхорӣ мекунанд. Ин қонуни ҳаёт аст.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: vocabulary",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "My mother says: \"When you take care of your parents when they are old, your children will take care of you when you are old. This is the law of life.\"",
+        "My mother says: \"When you take care of your parents when they are old your children will take care of you when you are old. This is the law of life.\"",
+        "My mother says: \"When you take care of your parents when they are old, your children will look after you when you are old. This is the law of life.\"",
+        "My mother says: \"When you look after your parents when they are old, your children will take care of you when you are old. This is the law of life.\""
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "My mother says: \"When you take care of your parents when they are old, your children will take care of you when you are old. This is the law of life.\""
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ман инчунин ба бародари хурдии худ нигоҳубинӣ мекунам. Вақте ки модарам дар ошхона банд аст, ман бо ӯ бозӣ мекунам, ба ӯ китоб мехонам ва ба ӯ дар дарсҳояш кӯмак мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: grammar",
-        "нодуруст B",
-        "нодуруст C"
+        "I also look after my little brother. When my mother is busy in the kitchen, I play with him, I read books to him and I help him with his lessons.",
+        "I also look after my little brother. When my mother is busy in the kitchen I play with him, I read books to him and I help him with his lessons.",
+        "I look after my little brother too. When my mother is busy in the kitchen, I play with him, I read books to him and I help him with his lessons.",
+        "I also look after my little brother. When my mother is busy at the kitchen, I play with him, I read books to him and I help him with his lessons."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "I also look after my little brother. When my mother is busy in the kitchen, I play with him, I read books to him and I help him with his lessons."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ӯ хурд аст ва ӯ ба кӯмаки мо ниёз дорад. Бибиам мегӯяд: \"Мо бояд ба хурдҳо нигоҳубинӣ кунем ва ба пиронсолон гӯш кунем. Он гоҳ оилаи мо хушбахт хоҳад буд.\"» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст A"
+        "He is small and he needs our help. My grandmother says: \"We must look after the small, and we must listen to the old. Then our family will be happy.\"",
+        "He is small and he needs our help. My grandmother says: \"We must look after the small and we must listen to the old. Then our family will be happy.\"",
+        "He is little and he needs our help. My grandmother says: \"We must look after the small, and we must listen to the old. Then our family will be happy.\"",
+        "He is small and he needs our help. My grandmother says: \"We must look after small, and we must listen to old. Then our family will be happy.\""
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "He is small and he needs our help. My grandmother says: \"We must look after the small, and we must listen to the old. Then our family will be happy.\""
+    },
+    {
+      "q": "«Баъзе пиронсолон танҳо зиндагӣ мекунанд. Фарзандони онҳо дар шаҳрҳои дигар ё дар кишварҳои дигар зиндагӣ мекунанд ва онҳо аксар вақт ба онҳо намеоянд. Ин хеле ғамгин аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Some elderly people live alone. Their children live in other cities or in other countries, and they do not visit them often. This is very sad.",
+        "Some old people live alone. Their children live in other cities or in other countries, and they do not visit them often. This is very sad.",
+        "Some elderly people live alone. Their children live in the other cities or in other countries, and they do not visit them often. This is very sad.",
+        "Some of the elderly people live alone. Their children live in other cities or in other countries, and they do not visit them often. This is very sad."
+      ],
+      "answer": "Some elderly people live alone. Their children live in other cities or in other countries, and they do not visit them often. This is very sad."
+    },
+    {
+      "q": "«Пиронсолон на танҳо ғизо ва пул лозим доранд — онҳо муҳаббат, диққат ва фаҳмиш лозим доранд. Бобоям мегӯяд: \"Вақте ки шумо ҷавон ҳастед, шумо мехоҳед бой шавед. Вақте ки шумо пир мешавед, шумо мехоҳед дӯст дошта шавед.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Elderly people need not only food and money — they need love, attention and understanding. My grandfather says: \"When you are young, you want to be rich. When you are old, you want to be loved. Do not forget this.\"",
+        "Elderly people need not only food and money — they need love, attention and understanding. My grandfather says: \"When you are young you want to be rich. When you are old, you want to be loved. Do not forget this.\"",
+        "Old people need not only food and money — they need love, attention and understanding. My grandfather says: \"When you are young, you want to be rich. When you are old, you want to be loved. Do not forget this.\"",
+        "Elderly people need not only food and money, they need love, attention and understanding. My grandfather says: \"When you are young, you want to be rich. When you are old, you want to be loved. Do not forget this.\""
+      ],
+      "answer": "Elderly people need not only food and money — they need love, attention and understanding. My grandfather says: \"When you are young, you want to be rich. When you are old, you want to be loved. Do not forget this.\""
+    },
+    {
+      "q": "«Мо бояд ҳамеша аҷдодони худро ба ёд орем. Бобокалонам бисёр сол пеш вафот карданд, аммо мо ҳанӯз хотираи онҳоро дар дилҳоямон нигоҳ медорем. Мо дар албоми оилавии худ аксҳои кӯҳнаи онҳоро дорем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We must always remember our ancestors. My great-grandfather passed away many years ago, but we still keep his memory in our hearts. We have his old photographs in our family album.",
+        "We must always remember our ancestors. My great-grandfather passed away many years ago but we still keep his memory in our hearts. We have his old photographs in our family album.",
+        "We must always remember our ancestors. My great-grandfather passed away many years ago, but we still keep his memory in our heart. We have his old photographs in our family album.",
+        "We must always remember our ancestors. My great-grandfather passed away many years ago, but we still keep the memory of him in our hearts. We have his old photographs in our family album."
+      ],
+      "answer": "We must always remember our ancestors. My great-grandfather passed away many years ago, but we still keep his memory in our hearts. We have his old photographs in our family album."
+    },
+    {
+      "q": "«Мо ҳар баҳор ба қабрҳои бибию бобоямон меравем. Мо қабрҳоро тоза мекунем, ба онҳо гул мешинонем ва барои аҷдодони худ дуо мекунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "We visit the graves of our grandparents every spring. We clean the graves, we plant flowers on them, and we pray for our ancestors.",
+        "We visit the graves of our grandparents every spring. We clean the graves, we plant flowers on them and we pray for our ancestors.",
+        "We visit the graves of our grandparents each spring. We clean the graves, we plant flowers on them, and we pray for our ancestors.",
+        "We visit the graves of our grandparents every spring. We clean the graves, plant flowers on them, and we pray for our ancestors."
+      ],
+      "answer": "We visit the graves of our grandparents every spring. We clean the graves, we plant flowers on them, and we pray for our ancestors."
+    },
+    {
+      "q": "«Бибиам мегӯяд: \"Одаме, ки аҷдодони худро ба ёд намеорад, реша надорад. Ва дарахти бе реша баланд шуда наметавонад.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandmother says: \"A person who does not remember his ancestors has no roots. And a tree without roots cannot grow tall.\"",
+        "My grandmother says: \"A person who doesn't remember his ancestors has no roots. And a tree without roots cannot grow tall.\"",
+        "My grandmother says: \"The person who does not remember his ancestors has no roots. And a tree without roots cannot grow tall.\"",
+        "My grandmother says: \"A person who does not remember his ancestors has no roots, and a tree without roots cannot grow tall.\""
+      ],
+      "answer": "My grandmother says: \"A person who does not remember his ancestors has no roots. And a tree without roots cannot grow tall.\""
+    },
+    {
+      "q": "«Пиронсолон сабри бузург доранд. Вақте ки ман хато мекунам, бибиам ҳеҷ гоҳ ба ман бадқаҳр намешавад. Ӯ мегӯяд: \"Ҳамаи мо хато мекунем. Ин тавр мо меомӯзем.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Elderly people have great patience. When I make a mistake, my grandmother never gets angry with me. She says: \"We all make mistakes. This is how we learn.\"",
+        "Elderly people have great patience. When I make a mistake my grandmother never gets angry with me. She says: \"We all make mistakes. This is how we learn.\"",
+        "Old people have great patience. When I make a mistake, my grandmother never gets angry with me. She says: \"We all make mistakes. This is how we learn.\"",
+        "Elderly people have a great patience. When I make a mistake, my grandmother never gets angry with me. She says: \"We all make mistakes. This is how we learn.\""
+      ],
+      "answer": "Elderly people have great patience. When I make a mistake, my grandmother never gets angry with me. She says: \"We all make mistakes. This is how we learn.\""
+    },
+    {
+      "q": "«Вақте ки ман оҳиста ҳастам, ӯ ҳеҷ гоҳ маро шитоб намекунад. Ӯ сабри садсола дорад. Ман мехоҳам вақте ки калон мешавам, ҳамин сабрро дошта бошам. Зеро ки сабр яке аз зеботарин сифатҳои инсонӣ аст» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I am slow, she never rushes me. She has the patience of a hundred years. I want to have this same patience when I grow up. Because patience is one of the most beautiful human qualities.",
+        "When I am slow she never rushes me. She has the patience of a hundred years. I want to have this same patience when I grow up. Because patience is one of the most beautiful human qualities.",
+        "When I am slow, she never hurries me. She has the patience of a hundred years. I want to have this same patience when I grow up. Because patience is one of the most beautiful human qualities.",
+        "When I am slow, she never rushes me. She has the patience of hundred years. I want to have this same patience when I grow up. Because patience is one of the most beautiful human qualities."
+      ],
+      "answer": "When I am slow, she never rushes me. She has the patience of a hundred years. I want to have this same patience when I grow up. Because patience is one of the most beautiful human qualities."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам ва духтур мешавам, ман мехоҳам бо пиронсолон кор кунам. Онҳо нигоҳубини махсус лозим доранд. Саломатии онҳо ба қадри мо қавӣ нест» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up and become a doctor, I want to work with elderly people. They need special care. Their health is not as strong as ours.",
+        "When I grow up and become a doctor I want to work with elderly people. They need special care. Their health is not as strong as ours.",
+        "When I grow up and become a doctor, I want to work with the elderly people. They need special care. Their health is not as strong as ours.",
+        "When I grow up and become a doctor, I want to work with elderly people. They need a special care. Their health is not as strong as ours."
+      ],
+      "answer": "When I grow up and become a doctor, I want to work with elderly people. They need special care. Their health is not as strong as ours."
+    },
+    {
+      "q": "«Дили онҳо, пойҳои онҳо, чашмони онҳо — ҳама чиз диққат лозим дорад. Ман мехоҳам духтури хуб бошам. Ман мехоҳам духтури меҳрубон бошам, ки ба пиронсолон ҳамон тавр ғамхорӣ мекунад, ки ман ба бибию бобоям мекунам» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Their heart, their legs, their eyes — everything needs attention. I want to be a doctor who is not only clever but also kind. I want to be a doctor who takes care of elderly people the same way I take care of my grandparents.",
+        "Their heart, their legs, their eyes — everything needs attention. I want to be a doctor who is not only clever but also kind. I want to be a doctor who takes care of old people the same way I take care of my grandparents.",
+        "Their heart, their legs, their eyes, everything needs attention. I want to be a doctor who is not only clever but also kind. I want to be a doctor who takes care of elderly people the same way I take care of my grandparents.",
+        "Their heart, their legs, their eyes — everything needs attention. I want to be a doctor who is not only clever, but also kind. I want to be a doctor who takes care of elderly people the same way I take care of my grandparents."
+      ],
+      "answer": "Their heart, their legs, their eyes — everything needs attention. I want to be a doctor who is not only clever but also kind. I want to be a doctor who takes care of elderly people the same way I take care of my grandparents."
+    },
+    {
+      "q": "«Як рӯз ман низ пир мешавам. Ин қонуни табиат аст. Ман мехоҳам бо иззат пир шавам, бо оила дар атрофи худ, бо набераҳое, ки маро дӯст медоранд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "One day I too will grow old. This is the law of nature. I want to grow old with dignity, with a family around me, with grandchildren who love me.",
+        "One day I will grow old too. This is the law of nature. I want to grow old with dignity, with a family around me, with grandchildren who love me.",
+        "One day I too will grow old. It is the law of nature. I want to grow old with dignity, with a family around me, with grandchildren who love me.",
+        "One day I too will become old. This is the law of nature. I want to grow old with dignity, with a family around me, with grandchildren who love me."
+      ],
+      "answer": "One day I too will grow old. This is the law of nature. I want to grow old with dignity, with a family around me, with grandchildren who love me."
+    },
+    {
+      "q": "«Ва барои ин доштан, ман бояд писари хуб, шавҳари хуб, падари хуб ва одами хуб бошам. Зеро ки он чи мо медиҳем, ба мо бармегардад» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "And to have this, I must be a good son, a good husband, a good father and a good person. Because what we give comes back to us.",
+        "And to have this I must be a good son, a good husband, a good father and a good person. Because what we give comes back to us.",
+        "And to have this, I must be a good son, a good husband, a good father and a good man. Because what we give comes back to us.",
+        "And to have this, I should be a good son, a good husband, a good father and a good person. Because what we give comes back to us."
+      ],
+      "answer": "And to have this, I must be a good son, a good husband, a good father and a good person. Because what we give comes back to us."
+    },
+    {
+      "q": "«Бобоям мегӯяд: \"Некӣ кун, то некӣ ба ту баргардад. Имрӯз дарахт шинон, то панҷоҳ сол баъд набераҳои ту дар сояи он дам гиранд.\"» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "My grandfather says: \"Do good, and good will return to you. Plant a tree today, and in fifty years your grandchildren will rest in its shadow.\"",
+        "My grandfather says: \"Do good and good will return to you. Plant a tree today, and in fifty years your grandchildren will rest in its shadow.\"",
+        "My grandfather says: \"Do good, and the good will return to you. Plant a tree today, and in fifty years your grandchildren will rest in its shadow.\"",
+        "My grandfather says: \"Do good, and good will return to you. Plant a tree today and in fifty years your grandchildren will rest in its shadow.\""
+      ],
+      "answer": "My grandfather says: \"Do good, and good will return to you. Plant a tree today, and in fifty years your grandchildren will rest in its shadow.\""
+    },
+    {
+      "q": "«Пиронсолон бузургтарин ганҷи мо ҳастанд. Мо бояд онҳоро эҳтиром кунем, дӯст дорем, ба онҳо кӯмак кунем ва ба онҳо гӯш кунем» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Elderly people are our greatest treasure. We must respect them, love them, help them and listen to them.",
+        "Elderly people are our greatest treasure. We must respect, love, help and listen to them.",
+        "The elderly people are our greatest treasure. We must respect them, love them, help them and listen to them.",
+        "Elderly people are the greatest treasure of ours. We must respect them, love them, help them and listen to them."
+      ],
+      "answer": "Elderly people are our greatest treasure. We must respect them, love them, help them and listen to them."
+    },
+    {
+      "q": "«Бе онҳо мо ин ҷо намебудем. Бе онҳо мо таърих ва анъанаҳои худро намедонистем. Бе онҳо оилаи мо пурра намебуд» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "Without them, we would not be here. Without them, we would not know our history and our traditions. Without them, our family would not be complete.",
+        "Without them we would not be here. Without them, we would not know our history and our traditions. Without them, our family would not be complete.",
+        "Without them, we would not be here. Without them we would not know our history and our traditions. Without them, our family would not be complete.",
+        "Without them, we would not be here. Without them, we would not know our history and our traditions. Without them our family would not be complete."
+      ],
+      "answer": "Without them, we would not be here. Without them, we would not know our history and our traditions. Without them, our family would not be complete."
+    },
+    {
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам оилаи калон ва хушбахт дошта бошам, ки дар он се ё чор насл якҷоя зиндагӣ мекунанд. Зеро ки ин бахти ҳақиқӣ аст — ин тарзи ҳаёти тоҷикии мост» чӣ тавр ба англисӣ мешавад?",
+      "options": [
+        "When I grow up, I want to have a big and happy family where three or four generations live together. Because this is real happiness — this is our Tajik way of life.",
+        "When I grow up I want to have a big and happy family where three or four generations live together. Because this is real happiness — this is our Tajik way of life.",
+        "When I grow up, I want to have a big and happy family where three or four generations live together. Because it is real happiness — this is our Tajik way of life.",
+        "When I grow up, I want to have a big and happy family in which three or four generations live together. Because this is real happiness — this is our Tajik way of life."
+      ],
+      "answer": "When I grow up, I want to have a big and happy family where three or four generations live together. Because this is real happiness — this is our Tajik way of life."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 31
+  "wordsCount": 16
 }
