@@ -1,521 +1,322 @@
 {
   "id": 77,
-  "title": "Муоширати воқеӣ 77",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 77: Либоси миллӣ ва матоҳо",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "fabric",
+      "tj": "мато",
+      "ex": "This fabric is soft and light."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "silk",
+      "tj": "абрешим",
+      "ex": "Tajik silk is very beautiful."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "cotton",
+      "tj": "пахта",
+      "ex": "Cotton is soft and comfortable."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "wool",
+      "tj": "пашм",
+      "ex": "Wool is warm in winter."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "atlas",
+      "tj": "атлас",
+      "ex": "Tajik atlas is famous all over the world."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "adras",
+      "tj": "адрас",
+      "ex": "Adras is a traditional Tajik fabric."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "traditional dress",
+      "tj": "либоси миллӣ",
+      "ex": "Women wear traditional dress on holidays."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "kurta",
+      "tj": "курта",
+      "ex": "My grandmother wears a beautiful kurta."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "trousers",
+      "tj": "эзор",
+      "ex": "Traditional Tajik trousers are wide and comfortable."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "chapan",
+      "tj": "чапан",
+      "ex": "My grandfather wears a warm chapan in winter."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "skullcap",
+      "tj": "тоқӣ",
+      "ex": "The Tajik skullcap has beautiful patterns."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "scarf",
+      "tj": "румол",
+      "ex": "She wears a bright scarf on her head."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "to embroider",
+      "tj": "кашиш кардан",
+      "ex": "Women embroider beautiful patterns on dresses."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "colourful",
+      "tj": "рангин",
+      "ex": "Tajik national dress is very colourful."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to wear",
+      "tj": "пӯшидан",
+      "ex": "We wear traditional clothes on Navruz."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "to preserve",
+      "tj": "нигоҳ доштан",
+      "ex": "We must preserve our national dress."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 77)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "This fabric is soft and light.",
+      "tj": "Ин мато нарм ва сабук аст."
     },
     {
-      "en": "I'm working on lesson 77",
-      "tj": "Ман дарси 77-ро меомӯзам"
+      "en": "Tajik silk and atlas are famous all over the world.",
+      "tj": "Абрешим ва атласи тоҷикӣ дар тамоми ҷаҳон машҳуранд."
+    },
+    {
+      "en": "Cotton is soft and comfortable for summer.",
+      "tj": "Пахта барои тобистон нарм ва бароҳат аст."
+    },
+    {
+      "en": "Wool is warm in winter.",
+      "tj": "Пашм дар зимистон гарм аст."
+    },
+    {
+      "en": "Adras is a traditional Tajik fabric with bright patterns.",
+      "tj": "Адрас матои анъанавии тоҷикӣ бо нақшҳои дурахшон аст."
+    },
+    {
+      "en": "Women wear traditional dress on holidays.",
+      "tj": "Занон дар идҳо либоси миллӣ мепӯшанд."
+    },
+    {
+      "en": "My grandmother wears a beautiful kurta with embroidery.",
+      "tj": "Бибиам куртаи зебо бо кашиш мепӯшад."
+    },
+    {
+      "en": "My grandfather wears a warm chapan in winter.",
+      "tj": "Бобоям дар зимистон чапани гарм мепӯшад."
+    },
+    {
+      "en": "The Tajik skullcap has beautiful old patterns.",
+      "tj": "Тоқии тоҷикӣ нақшҳои зебои кӯҳна дорад."
+    },
+    {
+      "en": "She wears a bright scarf on her head.",
+      "tj": "Ӯ румоли дурахшон дар сараш мепӯшад."
+    },
+    {
+      "en": "Women embroider beautiful patterns on dresses and scarves.",
+      "tj": "Занон дар куртаҳо ва румолҳо нақшҳои зебо мекашанд."
+    },
+    {
+      "en": "Tajik national dress is very colourful and beautiful.",
+      "tj": "Либоси миллии тоҷикӣ хеле рангин ва зебо аст."
+    },
+    {
+      "en": "We wear traditional clothes on Navruz and on other holidays.",
+      "tj": "Мо дар Наврӯз ва дар идҳои дигар либоси миллӣ мепӯшем."
+    },
+    {
+      "en": "We must preserve our national dress for the future.",
+      "tj": "Мо бояд либоси миллии худро барои оянда нигоҳ дорем."
+    },
+    {
+      "en": "Every region of Tajikistan has its own patterns and colours.",
+      "tj": "Ҳар як минтақаи Тоҷикистон нақшҳо ва рангҳои худро дорад."
+    },
+    {
+      "en": "Handmade fabric is more valuable than factory fabric.",
+      "tj": "Матои дастсоз аз матои заводӣ қиматбаҳотар аст."
     }
   ],
   "text": {
-    "en": "Text for lesson 77. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 77 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 77 text.",
-    "tj": "Матни дарси 77..."
+    "en": "Tajik National Dress and Fabrics\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. Tajik people have very beautiful national dress. We wear it on holidays, at weddings and at big family parties. Today I want to tell you about Tajik national dress and about our fabrics.\n\nTajikistan makes many beautiful fabrics. Atlas and adras are the most famous ones. Atlas is bright and shiny. Adras is softer and has smaller patterns. Both are made from silk and cotton. Our grandmothers and mothers wear dresses made from these fabrics.\n\nCotton is also very important. Tajikistan grows a lot of cotton. Cotton is soft and light. We make summer clothes from cotton. Wool is warm and thick. We make winter clothes and carpets from wool.\n\nThe traditional dress of a Tajik woman is a beautiful kurta. It has long sleeves and bright patterns. Women also wear wide trousers called ezor. On their heads they wear a scarf called rumol. The Tajik skullcap, the toqi, is also a very important part of our dress. It has beautiful embroidery and old patterns.\n\nThe traditional dress of a Tajik man is a chapan — a long warm coat. Men wear it over their shirts, especially in winter. The chapan has bright patterns on the back. My grandfather has an old chapan that his father gave him. He says: \"This chapan is more than fifty years old. It is a real treasure of our family.\"\n\nWomen embroider beautiful patterns on dresses, scarves and skullcaps. Every region of Tajikistan has its own patterns and colours. Some patterns are very old — they pass from generation to generation. My grandmother says: \"When you wear our traditional dress, you carry the history of our people with you.\"\n\nNow many young people wear modern clothes every day. But on Navruz, on Independence Day and at weddings, we all wear our national dress. It is a way to show that we love our country and our traditions.\n\nWe must preserve our national dress for the future. We must teach our children to be proud of it. Because our dress is not just clothes — it is our history, our culture and our soul.",
+    "tj": "Либоси миллӣ ва матоҳои тоҷикӣ\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Мардуми тоҷик либоси миллии хеле зебо доранд. Мо онро дар идҳо, дар тӯйҳо ва дар базмҳои калони оилавӣ мепӯшем. Имрӯз ман мехоҳам ба шумо дар бораи либоси миллии тоҷикӣ ва дар бораи матоҳои мо нақл кунам.\n\nТоҷикистон матоҳои зебои зиёд истеҳсол мекунад. Атлас ва адрас машҳуртарини онҳоянд. Атлас дурахшон ва равшан аст. Адрас нармтар аст ва нақшҳои хурдтар дорад. Ҳарду аз абрешим ва пахта сохта мешаванд. Бибиҳо ва модарони мо куртаҳои аз ин матоҳо сохташударо мепӯшанд.\n\nПахта низ хеле муҳим аст. Тоҷикистон пахтаи зиёд парвариш мекунад. Пахта нарм ва сабук аст. Мо аз пахта либоси тобистонӣ месозем. Пашм гарм ва ғафс аст. Мо аз пашм либоси зимистонӣ ва гилемҳо месозем.\n\nЛибоси анъанавии зани тоҷик куртаи зебост. Он остинҳои дароз ва нақшҳои дурахшон дорад. Занон инчунин эзори васеъ мепӯшанд. Дар сарашон румол мепӯшанд. Тоқии тоҷикӣ низ қисми хеле муҳими либоси мост. Он кашиши зебо ва нақшҳои кӯҳна дорад.\n\nЛибоси анъанавии марди тоҷик чапан аст — палтои дарози гарм. Мардон онро дар болои куртаҳои худ мепӯшанд, хусусан дар зимистон. Чапан нақшҳои дурахшон дар пушт дорад. Бобоям чапани кӯҳнае дорад, ки падараш ба ӯ додааст. Ӯ мегӯяд: «Ин чапан беш аз панҷоҳ сол дорад. Он ганҷи ҳақиқии оилаи мост.»\n\nЗанон дар куртаҳо, румолҳо ва тоқиҳо нақшҳои зебо мекашанд. Ҳар як минтақаи Тоҷикистон нақшҳо ва рангҳои худро дорад. Баъзе нақшҳо хеле қадимианд — онҳо насл ба насл мегузаранд. Бибиам мегӯяд: «Вақте ки шумо либоси миллии моро мепӯшед, шумо таърихи мардуми моро бо худ мебаред.»\n\nҲоло ҷавонони зиёд ҳар рӯз либоси муосир мепӯшанд. Аммо дар Наврӯз, дар Рӯзи истиқлолият ва дар тӯйҳо мо ҳама либоси миллии худро мепӯшем. Ин роҳи нишон додани он аст, ки мо кишвар ва анъанаҳои худро дӯст медорем.\n\nМо бояд либоси миллии худро барои оянда нигоҳ дорем. Мо бояд ба кӯдаконамон омӯзонем, ки ба он ифтихор кунанд. Зеро ки либоси мо на танҳо либос аст — он таърихи мо, фарҳанги мо ва ҷони мост."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ин мато нарм ва сабук аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: opportunity"
+        "This fabric is soft and light.",
+        "This fabric is soft and light.",
+        "The fabric is soft and light.",
+        "This cloth is soft and light."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "This fabric is soft and light."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Абрешим ва атласи тоҷикӣ дар тамоми ҷаҳон машҳуранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: experience",
-        "нодуруст B"
+        "Tajik silk and atlas are famous all over the world.",
+        "Tajik silk and atlas are famous in the world.",
+        "The Tajik silk and atlas are famous all over the world.",
+        "Tajik silk and atlas are well-known all over the world."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "Tajik silk and atlas are famous all over the world."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Пахта барои тобистон нарм ва бароҳат аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст C"
+        "Cotton is soft and comfortable for summer.",
+        "Cotton is soft and comfortable in summer.",
+        "The cotton is soft and comfortable for summer.",
+        "Cotton is soft and convenient for summer."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Cotton is soft and comfortable for summer."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Пашм дар зимистон гарм аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Wool is warm in winter.",
+        "Wool is warm in the winter.",
+        "The wool is warm in winter.",
+        "Wool is hot in winter."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "Wool is warm in winter."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Адрас матои анъанавии тоҷикӣ бо нақшҳои дурахшон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: education"
+        "Adras is a traditional Tajik fabric with bright patterns.",
+        "Adras is a traditional Tajik fabric with bright patterns.",
+        "Adras is the traditional Tajik fabric with bright patterns.",
+        "Adras is a traditional Tajik cloth with bright patterns."
       ],
-      "answer": "тарҷума: education"
+      "answer": "Adras is a traditional Tajik fabric with bright patterns."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Занон дар идҳо либоси миллӣ мепӯшанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: development",
-        "нодуруст B"
+        "Women wear traditional dress on holidays.",
+        "Women wear traditional dress at holidays.",
+        "The women wear traditional dress on holidays.",
+        "Women put on traditional dress on holidays."
       ],
-      "answer": "тарҷума: development"
+      "answer": "Women wear traditional dress on holidays."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Бибиам куртаи зебо бо кашиш мепӯшад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст B"
+        "My grandmother wears a beautiful kurta with embroidery.",
+        "My grandmother wears a beautiful kurta with an embroidery.",
+        "My grandmother puts on a beautiful kurta with embroidery.",
+        "My grandmother wears the beautiful kurta with embroidery."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "My grandmother wears a beautiful kurta with embroidery."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Бобоям дар зимистон чапани гарм мепӯшад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст B"
+        "My grandfather wears a warm chapan in winter.",
+        "My grandfather wears a warm chapan in the winter.",
+        "My grandfather puts on a warm chapan in winter.",
+        "My grandfather wears warm chapan in winter."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "My grandfather wears a warm chapan in winter."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Тоқии тоҷикӣ нақшҳои зебои кӯҳна дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: knowledge",
-        "нодуруст C"
+        "The Tajik skullcap has beautiful old patterns.",
+        "A Tajik skullcap has beautiful old patterns.",
+        "The Tajik skullcap has beautiful ancient patterns.",
+        "The Tajik skullcap has the beautiful old patterns."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "The Tajik skullcap has beautiful old patterns."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Ӯ румоли дурахшон дар сараш мепӯшад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "She wears a bright scarf on her head.",
+        "She wears a bright scarf on the head.",
+        "She puts on a bright scarf on her head.",
+        "She wears a light scarf on her head."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "She wears a bright scarf on her head."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Занон дар куртаҳо ва румолҳо нақшҳои зебо мекашанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: fluency",
-        "нодуруст A"
+        "Women embroider beautiful patterns on dresses and scarves.",
+        "Women embroider beautiful patterns on dresses and scarfs.",
+        "The women embroider beautiful patterns on dresses and scarves.",
+        "Women embroider beautiful patterns on the dresses and scarves."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "Women embroider beautiful patterns on dresses and scarves."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Либоси миллии тоҷикӣ хеле рангин ва зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст C"
+        "Tajik national dress is very colourful and beautiful.",
+        "The Tajik national dress is very colourful and beautiful.",
+        "Tajik national dress is very colourful and nice.",
+        "Tajik national clothes are very colourful and beautiful."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "Tajik national dress is very colourful and beautiful."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Мо дар Наврӯз ва дар идҳои дигар либоси миллӣ мепӯшем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: pronunciation",
-        "нодуруст A"
+        "We wear traditional clothes on Navruz and on other holidays.",
+        "We wear traditional clothes on Navruz and other holidays.",
+        "We put on traditional clothes on Navruz and on other holidays.",
+        "We wear traditional clothes at Navruz and on other holidays."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "We wear traditional clothes on Navruz and on other holidays."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Мо бояд либоси миллии худро барои оянда нигоҳ дорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: vocabulary",
-        "нодуруст A"
+        "We must preserve our national dress for the future.",
+        "We must preserve our national dress for future.",
+        "We should preserve our national dress for the future.",
+        "We must keep our national dress for the future."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "We must preserve our national dress for the future."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ҳар як минтақаи Тоҷикистон нақшҳо ва рангҳои худро дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: grammar",
-        "нодуруст A",
-        "нодуруст C"
+        "Every region of Tajikistan has its own patterns and colours.",
+        "Each region of Tajikistan has its own patterns and colours.",
+        "Every region of Tajikistan has its patterns and colours.",
+        "Every region in Tajikistan has its own patterns and colours."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "Every region of Tajikistan has its own patterns and colours."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Матои дастсоз аз матои заводӣ қиматбаҳотар аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст A"
+        "Handmade fabric is more valuable than factory fabric.",
+        "Handmade fabric is more valuable than factory cloth.",
+        "The handmade fabric is more valuable than factory fabric.",
+        "Handmade fabric is more valuable than the factory fabric."
       ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: communication"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: development"
-    },
-    {
-      "q": "'achievement' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: achievement"
-    },
-    {
-      "q": "'challenge' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: challenge"
-    },
-    {
-      "q": "'knowledge' чи маъно дорад?",
-      "options": [
-        "тарҷума: knowledge",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: knowledge"
-    },
-    {
-      "q": "'conversation' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: conversation",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: conversation"
-    },
-    {
-      "q": "'fluency' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: fluency"
-      ],
-      "answer": "тарҷума: fluency"
-    },
-    {
-      "q": "'confidence' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: confidence",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: pronunciation",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: vocabulary",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: grammar",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: opportunity"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: environment"
+      "answer": "Handmade fabric is more valuable than factory fabric."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 33
+  "wordsCount": 16
 }
