@@ -1,521 +1,322 @@
 {
   "id": 75,
-  "title": "Муоширати воқеӣ 75",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 75: Осорхона ва мероси фарҳангӣ",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "heritage",
+      "tj": "мерос",
+      "ex": "Our culture is a great heritage."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "to preserve",
+      "tj": "нигоҳ доштан / ҳифз кардан",
+      "ex": "We must preserve our traditions."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "exhibit",
+      "tj": "намоишгоҳ (экспонат)",
+      "ex": "This exhibit is very old."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "artifact",
+      "tj": "ёдгории қадимӣ",
+      "ex": "The museum has many ancient artifacts."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "antique",
+      "tj": "атиқа / қадима",
+      "ex": "My grandmother keeps an antique mirror."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "relic",
+      "tj": "боқимондаи қадимӣ",
+      "ex": "This coin is an ancient relic."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "ancestor",
+      "tj": "аҷдод",
+      "ex": "Our ancestors built this city."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "ruins",
+      "tj": "вайронаҳо",
+      "ex": "We visited the ruins of an old fortress."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "monument",
+      "tj": "ёдгорӣ",
+      "ex": "There is a big monument in the centre."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to restore",
+      "tj": "барқарор кардан",
+      "ex": "Workers restore the old building."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "to exhibit",
+      "tj": "намоиш додан",
+      "ex": "The museum exhibits old coins."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "to preserve for the future",
+      "tj": "барои оянда нигоҳ доштан",
+      "ex": "We preserve our history for the future."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "generation to generation",
+      "tj": "насл ба насл",
+      "ex": "Traditions pass from generation to generation."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "priceless",
+      "tj": "бебаҳо",
+      "ex": "This old book is priceless."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to admire",
+      "tj": "ҳайрат кардан",
+      "ex": "Tourists admire our ancient monuments."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "to keep alive",
+      "tj": "зинда нигоҳ доштан",
+      "ex": "We must keep our traditions alive."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 75)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Our culture is a great heritage for all people.",
+      "tj": "Фарҳанги мо барои ҳамаи одамон мероси бузург аст."
     },
     {
-      "en": "I'm working on lesson 75",
-      "tj": "Ман дарси 75-ро меомӯзам"
+      "en": "We must preserve our traditions for the future.",
+      "tj": "Мо бояд анъанаҳои худро барои оянда нигоҳ дорем."
+    },
+    {
+      "en": "The museum has many interesting exhibits and artifacts.",
+      "tj": "Осорхона намоишҳо ва ёдгориҳои қадимии ҷолиби зиёд дорад."
+    },
+    {
+      "en": "My grandmother keeps an antique mirror in her room.",
+      "tj": "Бибиам оинаи қадимаро дар ҳуҷраи худ нигоҳ медорад."
+    },
+    {
+      "en": "This ancient coin is a real relic of our ancestors.",
+      "tj": "Ин тангаи қадимӣ ёдгории ҳақиқии аҷдодони мост."
+    },
+    {
+      "en": "Our ancestors built beautiful cities and fortresses.",
+      "tj": "Аҷдодони мо шаҳрҳо ва қалъаҳои зеборо сохтаанд."
+    },
+    {
+      "en": "We visited the ruins of an old fortress in the mountains.",
+      "tj": "Мо дар кӯҳҳо вайронаҳои қалъаи кӯҳнаро дидан кардем."
+    },
+    {
+      "en": "There is a big monument to our poet in the centre of the city.",
+      "tj": "Дар маркази шаҳр ёдгории калоне ба шоири мо ҳаст."
+    },
+    {
+      "en": "Workers restore old buildings and monuments.",
+      "tj": "Коргарон биноҳо ва ёдгориҳои кӯҳнаро барқарор мекунанд."
+    },
+    {
+      "en": "The museum exhibits many old things every year.",
+      "tj": "Осорхона ҳар сол чизҳои кӯҳнаи зиёдро намоиш медиҳад."
+    },
+    {
+      "en": "We preserve our history for the future generation.",
+      "tj": "Мо таърихи худро барои насли оянда нигоҳ медорем."
+    },
+    {
+      "en": "Traditions pass from generation to generation in our family.",
+      "tj": "Анъанаҳо дар оилаи мо насл ба насл мегузаранд."
+    },
+    {
+      "en": "This old handwritten book is priceless for our people.",
+      "tj": "Ин китоби дастнависи кӯҳна барои мардуми мо бебаҳост."
+    },
+    {
+      "en": "Tourists admire our ancient monuments very much.",
+      "tj": "Сайёҳон аз ёдгориҳои қадимии мо хеле ҳайрат мекунанд."
+    },
+    {
+      "en": "We must keep our traditions alive for our children.",
+      "tj": "Мо бояд анъанаҳои худро барои кӯдаконамон зинда нигоҳ дорем."
+    },
+    {
+      "en": "A person who knows his heritage is a happy person.",
+      "tj": "Одаме, ки мероси худро медонад, одами хушбахт аст."
     }
   ],
   "text": {
-    "en": "Text for lesson 75. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 75 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 75 text.",
-    "tj": "Матни дарси 75..."
+    "en": "The Museum and Our Cultural Heritage\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. Last month our class visited the National Museum in Dushanbe. It was a very interesting day. Today I want to tell you about the museum and about our cultural heritage.\n\nA museum is a place where we can see the history of our country. In the museum we can see old coins, ancient books, beautiful carpets, old clothes and many other things. Every exhibit is a piece of our history. Every artifact tells us a story about our ancestors.\n\nOur ancestors were great people. They built beautiful cities, fortresses and monuments. They wrote books, made carpets and sang songs. We must be proud of them. We must preserve their heritage for the future.\n\nIn the museum I saw a very old book. It was handwritten and priceless. The guide said: \"This book is more than five hundred years old. Our ancestors wrote it for their children. Now we keep it for our children too.\"\n\nWe also saw the ruins of an old fortress in the mountains. The fortress was destroyed many years ago, but workers are restoring it now. My teacher said: \"When we restore old monuments, we keep our history alive.\"\n\nTraditions pass from generation to generation. My grandmother teaches me our traditions. She says: \"Our traditions are our soul. We must keep them alive for our children and grandchildren.\"\n\nWhen I grow up, I want to be a doctor. But I also want to know the history of my country very well. I want to visit all the ancient cities of Tajikistan. I want to show my children the monuments of our ancestors. Because a person who does not know his past cannot build a good future.",
+    "tj": "Осорхона ва мероси фарҳангии мо\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Моҳи гузашта синфи мо ба Осорхонаи Миллӣ дар Душанбе рафт. Ин рӯзи хеле ҷолиб буд. Имрӯз ман мехоҳам ба шумо дар бораи осорхона ва дар бораи мероси фарҳангии худ нақл кунам.\n\nОсорхона ҷоест, ки дар он мо таърихи кишвари худро дида метавонем. Дар осорхона мо метавонем тангаҳои кӯҳна, китобҳои қадимӣ, гилемҳои зебо, либосҳои кӯҳна ва бисёр чизҳои дигарро бинам. Ҳар як намоиш порчаи таърихи мост. Ҳар як ёдгории қадимӣ ба мо дар бораи аҷдодони мо ҳикоя нақл мекунад.\n\nАҷдодони мо одамони бузург буданд. Онҳо шаҳрҳо, қалъаҳо ва ёдгориҳои зеборо сохтанд. Онҳо китобҳо навиштанд, гилемҳо бофтанд ва сурудҳо хонданд. Мо бояд ба онҳо ифтихор кунем. Мо бояд мероси онҳоро барои оянда нигоҳ дорем.\n\nДар осорхона ман китоби хеле кӯҳнаро дидам. Он дастнавис ва бебаҳо буд. Роҳбалад гуфт: «Ин китоб беш аз панҷсад сол дорад. Аҷдодони мо онро барои кӯдакони худ навиштаанд. Ҳоло мо онро барои кӯдакони худ нигоҳ медорем.»\n\nМо инчунин дар кӯҳҳо вайронаҳои қалъаи кӯҳнаро дидем. Қалъа солҳои зиёд пеш вайрон шуда буд, аммо ҳоло коргарон онро барқарор мекунанд. Муаллимам гуфт: «Вақте ки мо ёдгориҳои кӯҳнаро барқарор мекунем, мо таърихи худро зинда нигоҳ медорем.»\n\nАнъанаҳо насл ба насл мегузаранд. Бибиам ба ман анъанаҳои моро меомӯзонад. Ӯ мегӯяд: «Анъанаҳои мо ҷони мо ҳастанд. Мо бояд онҳоро барои кӯдакон ва набераҳоямон зинда нигоҳ дорем.»\n\nВақте ки ман калон мешавам, ман мехоҳам духтур шавам. Аммо ман инчунин мехоҳам таърихи кишвари худро хеле хуб донам. Ман мехоҳам ба ҳамаи шаҳрҳои қадимии Тоҷикистон сафар кунам. Ман мехоҳам ба кӯдаконам ёдгориҳои аҷдодони моро нишон диҳам. Зеро ки одаме, ки гузаштаи худро надонад, ояндаи хубро сохта наметавонад."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Фарҳанги мо барои ҳамаи одамон мероси бузург аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст B"
+        "Our culture is a great heritage for all people.",
+        "Our culture is a great heritage for all the people.",
+        "The culture is a great heritage for all people.",
+        "Our culture is the great heritage for all people."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Our culture is a great heritage for all people."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Мо бояд анъанаҳои худро барои оянда нигоҳ дорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст B",
-        "нодуруст C"
+        "We must preserve our traditions for the future.",
+        "We must preserve our traditions for future.",
+        "We should preserve our traditions for the future.",
+        "We must keep our traditions for the future."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "We must preserve our traditions for the future."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Осорхона намоишҳо ва ёдгориҳои қадимии ҷолиби зиёд дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст C"
+        "The museum has many interesting exhibits and artifacts.",
+        "The museum has many interesting exhibits and artifacts.",
+        "A museum has many interesting exhibits and artifacts.",
+        "The museum has a lot of interesting exhibits and artifacts."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "The museum has many interesting exhibits and artifacts."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Бибиам оинаи қадимаро дар ҳуҷраи худ нигоҳ медорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: communication",
-        "нодуруст C"
+        "My grandmother keeps an antique mirror in her room.",
+        "My grandmother keeps the antique mirror in her room.",
+        "My grandmother keeps an antique mirror in the room.",
+        "My grandmother keeps an ancient mirror in her room."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "My grandmother keeps an antique mirror in her room."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ин тангаи қадимӣ ёдгории ҳақиқии аҷдодони мост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: education",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "This ancient coin is a real relic of our ancestors.",
+        "This ancient coin is the real relic of our ancestors.",
+        "This old coin is a real relic of our ancestors.",
+        "This ancient coin is a real relic of the ancestors."
       ],
-      "answer": "тарҷума: education"
+      "answer": "This ancient coin is a real relic of our ancestors."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Аҷдодони мо шаҳрҳо ва қалъаҳои зеборо сохтаанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: development"
+        "Our ancestors built beautiful cities and fortresses.",
+        "Our ancestors have built beautiful cities and fortresses.",
+        "Our ancestors built the beautiful cities and fortresses.",
+        "Our ancestors built beautiful cities and fortress."
       ],
-      "answer": "тарҷума: development"
+      "answer": "Our ancestors built beautiful cities and fortresses."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Мо дар кӯҳҳо вайронаҳои қалъаи кӯҳнаро дидан кардем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: achievement",
-        "нодуруст B"
+        "We visited the ruins of an old fortress in the mountains.",
+        "We visited the ruins of an old fortress in mountains.",
+        "We visited ruins of an old fortress in the mountains.",
+        "We saw the ruins of an old fortress in the mountains."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "We visited the ruins of an old fortress in the mountains."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Дар маркази шаҳр ёдгории калоне ба шоири мо ҳаст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: challenge"
+        "There is a big monument to our poet in the centre of the city.",
+        "There is a big monument to our poet in the center of the city.",
+        "There is the big monument to our poet in the centre of the city.",
+        "There is a big monument to our poet in the centre of the town."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "There is a big monument to our poet in the centre of the city."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Коргарон биноҳо ва ёдгориҳои кӯҳнаро барқарор мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: knowledge"
+        "Workers restore old buildings and monuments.",
+        "Workers restore the old buildings and monuments.",
+        "The workers restore old buildings and monuments.",
+        "Workers restore old buildings and ancient monuments."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "Workers restore old buildings and monuments."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Осорхона ҳар сол чизҳои кӯҳнаи зиёдро намоиш медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "The museum exhibits many old things every year.",
+        "The museum exhibits many old things each year.",
+        "A museum exhibits many old things every year.",
+        "The museum exhibits a lot of old things every year."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The museum exhibits many old things every year."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Мо таърихи худро барои насли оянда нигоҳ медорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: fluency",
-        "нодуруст B"
+        "We preserve our history for the future generation.",
+        "We preserve our history for the next generation.",
+        "We keep our history for the future generation.",
+        "We preserve our history for future generation."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "We preserve our history for the future generation."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Анъанаҳо дар оилаи мо насл ба насл мегузаранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Traditions pass from generation to generation in our family.",
+        "Traditions pass from generation to generation in the family.",
+        "The traditions pass from generation to generation in our family.",
+        "Traditions pass from one generation to generation in our family."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "Traditions pass from generation to generation in our family."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Ин китоби дастнависи кӯҳна барои мардуми мо бебаҳост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: pronunciation",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "This old handwritten book is priceless for our people.",
+        "This old handwritten book is priceless for the people.",
+        "This handwritten old book is priceless for our people.",
+        "This old handwritten book is priceless to our people."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "This old handwritten book is priceless for our people."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Сайёҳон аз ёдгориҳои қадимии мо хеле ҳайрат мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: vocabulary"
+        "Tourists admire our ancient monuments very much.",
+        "Tourists admire our ancient monuments a lot.",
+        "Tourists admire ancient monuments of ours very much.",
+        "The tourists admire our ancient monuments very much."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "Tourists admire our ancient monuments very much."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Мо бояд анъанаҳои худро барои кӯдаконамон зинда нигоҳ дорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: grammar",
-        "нодуруст A"
+        "We must keep our traditions alive for our children.",
+        "We must keep our traditions alive for the children.",
+        "We should keep our traditions alive for our children.",
+        "We must keep alive our traditions for our children."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "We must keep our traditions alive for our children."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Одаме, ки мероси худро медонад, одами хушбахт аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "A person who knows his heritage is a happy person.",
+        "The person who knows his heritage is a happy person.",
+        "A person who knows his heritage is a happy man.",
+        "A person that knows his heritage is a happy person."
       ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: experience"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: education"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: development"
-    },
-    {
-      "q": "'achievement' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: achievement"
-      ],
-      "answer": "тарҷума: achievement"
-    },
-    {
-      "q": "'challenge' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: challenge",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: challenge"
-    },
-    {
-      "q": "'knowledge' чи маъно дорад?",
-      "options": [
-        "тарҷума: knowledge",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: knowledge"
-    },
-    {
-      "q": "'conversation' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: conversation",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: conversation"
-    },
-    {
-      "q": "'fluency' чи маъно дорад?",
-      "options": [
-        "тарҷума: fluency",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: fluency"
-    },
-    {
-      "q": "'confidence' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: confidence",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "тарҷума: pronunciation",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "тарҷума: vocabulary",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: grammar",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: environment"
-      ],
-      "answer": "тарҷума: environment"
+      "answer": "A person who knows his heritage is a happy person."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 33
+  "wordsCount": 16
 }
