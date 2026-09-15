@@ -1,8 +1,7 @@
 // ============================================================
-// APP VERSION — ҳар бор ки маълумоти data/*.json-ро иваз мекунед,
-// ин рақамро зиёд кунед (масалан 6, 7, 8...)
+// APP VERSION
 // ============================================================
-const APP_VERSION = 5;
+const APP_VERSION = 6;
 
 // ============================================================
 // TELEGRAM
@@ -68,6 +67,9 @@ let premium = store.get('premium', {
 let savedLessons = store.get('savedLessons', []);
 let settings = store.get('settings', { dark: true, sound: true });
 let allUsers = store.get('allUsers', {});
+
+// Дарсҳое, ки як бор дар вақти Premium кушода шудаанд —
+// баъд аз тамом шудани Premium низ КУШОДА мемонанд
 let premiumUnlockedLessons = store.get('premiumUnlockedLessons', []);
 
 // ============================================================
@@ -162,67 +164,18 @@ function markPremiumUnlocked(id) {
 }
 
 // ============================================================
-// 🛑 PREMIUM REVOKE HANDLER — тоза кардани кэш
-// ============================================================
-function handlePremiumRevoke(revokedAt) {
-  console.log('🛑 Premium revoke detected — cache cleared at', new Date(revokedAt).toLocaleString());
-
-  const lastRevoked = store.get('_lastPremiumRevokedAt', 0);
-  if (revokedAt <= lastRevoked) return; // Аллакай коркард шудааст
-
-  store.set('_lastPremiumRevokedAt', revokedAt);
-
-  // 1. Premium-ро хомӯш кун
-  premium = { active: false, plan: null, startedAt: null, expiresAt: null };
-  store.set('premium', premium);
-
-  // 2. Дарсҳои Premium-кушодашударо тоза кун
-  premiumUnlockedLessons = [];
-  store.set('premiumUnlockedLessons', []);
-
-  // 3. Кэшҳои марбут ба Premium-ро тоза кун
-  try {
-    const keysToRemove = [];
-    for (let i = 0; i < localStorage.length; i++) {
-      const k = localStorage.key(i);
-      if (k && (k.startsWith('premium_popup_') || k.startsWith('notif_shown_'))) {
-        keysToRemove.push(k);
-      }
-    }
-    keysToRemove.forEach(k => localStorage.removeItem(k));
-    console.log(`🧹 ${keysToRemove.length} кэшҳои Premium тоза шуданд`);
-  } catch (e) { console.warn('Cache clear error:', e); }
-
-  // 4. UI-ро навсозӣ кун
-  renderProfile();
-  updateTestLockUI();
-  renderLessons('all');
-  updateStats();
-  renderContinueLessons();
-  renderSavedLessons();
-}
-
-// ============================================================
-// 🎧 PREMIUM SYNC
+// 🎧 PREMIUM SYNC — БЕ ТОЗАКУНИИ КЭШ
 // ============================================================
 function initPremiumSync() {
   if (!user.id) return;
   if (typeof listenMyPremiumFromFirebase !== 'function') return;
 
   listenMyPremiumFromFirebase(user.id, data => {
-
-    // ========================================
-    // ⚠️ АВВАЛ: Check premium revocation
-    // ========================================
-    if (data.premiumRevokedAt) {
-      handlePremiumRevoke(data.premiumRevokedAt);
-    }
-
-    // ========================================
-    // Premium фаъол шуд
-    // ========================================
     const wasActive = isPremiumActive();
 
+    // ========================================
+    // Premium фаъол
+    // ========================================
     if (data.isPremium && data.premiumExpiresAt && Date.now() < data.premiumExpiresAt) {
       premium = {
         active: true,
@@ -253,15 +206,22 @@ function initPremiumSync() {
         updateStats();
         renderContinueLessons();
       }
-    } else if (!data.isPremium && premium.active) {
-      // Premium тамом шуд
-      premium = { active: false, plan: null, startedAt: null, expiresAt: null };
-      store.set('premium', premium);
-      renderProfile();
-      updateTestLockUI();
-      renderLessons('all');
-      updateStats();
-      renderContinueLessons();
+    } else {
+      // ========================================
+      // Premium нест — ТАНҲО premium-ро хомӯш кун
+      // 🚫 Кэш тоза НАМЕШАВАД
+      // 🚫 premiumUnlockedLessons тоза НАМЕШАВАД
+      // ========================================
+      if (premium.active) {
+        premium = { active: false, plan: null, startedAt: null, expiresAt: null };
+        store.set('premium', premium);
+
+        renderProfile();
+        updateTestLockUI();
+        renderLessons('all');
+        updateStats();
+        renderContinueLessons();
+      }
     }
   });
 }
@@ -295,7 +255,7 @@ function initNotificationsListener() {
         tg.HapticFeedback?.notificationOccurred('warning');
         tg.showPopup({
           title: '👑 Premium гирифта шуд',
-          message: 'Premium-и шумо аз ҷониби админ гирифта шуд. Дарсҳои Premium баста шуданд.',
+          message: 'Premium-и шумо аз ҷониби админ гирифта шуд. Дарсҳои нав қулф мешаванд.',
           buttons: [{ type: 'close' }]
         });
       }
@@ -1385,7 +1345,7 @@ function onFirebaseReady() {
 }
 
 // ============================================================
-// ADMIN — Статистика (admin.js боқимондаро идора мекунад)
+// ADMIN — Статистика
 // ============================================================
 function renderAdmin() {
   if (!IS_ADMIN) return;
