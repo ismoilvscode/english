@@ -43,6 +43,21 @@ const store = {
   del: (k) => localStorage.removeItem(k)
 };
 
+// ============================================================
+// RESET HAMAGON — ин фақат он вақт кор мекунад, ки шумо
+// FORCE_RESET_VERSION-ро зиёд карда push кунед. Дар он лаҳза,
+// пешрафти ҲАМАИ корбарон (аз ҳама дастгоҳҳо) худкор пок мешавад,
+// вақте ки онҳо барномаро кушоянд — шумо ба телефони онҳо ниёз
+// надоред. Барои гирифтани ин натиҷа, танҳо рақами поёнро зиёд
+// кунед (масалан аз 1 ба 2) ва дар GitHub push кунед.
+// ============================================================
+const FORCE_RESET_VERSION = 1;
+const _savedResetVersion = store.get('_forceResetVersion', 0);
+if (_savedResetVersion !== FORCE_RESET_VERSION) {
+  store.del('progress');
+  store.set('_forceResetVersion', FORCE_RESET_VERSION);
+}
+
 let progress = store.get('progress', {
   completedLessons: [],
   testScores: {},
@@ -60,6 +75,10 @@ let savedLessons = store.get('savedLessons', []);
 let settings = store.get('settings', { dark: true, sound: true });
 let allUsers = store.get('allUsers', {});
 
+// Дарсҳое, ки корбар як бор дар вақти Premium будан кушодааст —
+// онҳо баъд аз тамом шудани Premium низ КУШОДА мемонанд (қулф намешаванд).
+let premiumUnlockedLessons = store.get('premiumUnlockedLessons', []);
+
 // ============================================================
 // PREMIUM PLANS
 // ============================================================
@@ -76,6 +95,38 @@ const PREMIUM_PLANS = {
 function isPremiumActive() {
   return premium.active && Date.now() < (premium.expiresAt || 0);
 }
+
+// ============================================================
+// ⏱ ТАЙМЕРИ PREMIUM (бо сонияшумор)
+// ============================================================
+function formatPremiumCountdown(ms) {
+  if (ms < 0) ms = 0;
+  const totalSec = Math.floor(ms / 1000);
+  const days = Math.floor(totalSec / 86400);
+  const hours = Math.floor((totalSec % 86400) / 3600);
+  const minutes = Math.floor((totalSec % 3600) / 60);
+  const seconds = totalSec % 60;
+  const pad = n => String(n).padStart(2, '0');
+  return days > 0
+    ? `${days}р ${pad(hours)}:${pad(minutes)}:${pad(seconds)}`
+    : `${pad(hours)}:${pad(minutes)}:${pad(seconds)}`;
+}
+
+function updatePremiumTimerUI() {
+  const box = document.getElementById('premiumTimer');
+  const txt = document.getElementById('premiumTimerText');
+  if (!box || !txt) return;
+
+  if (isPremiumActive()) {
+    const remaining = (premium.expiresAt || 0) - Date.now();
+    box.style.display = 'inline-flex';
+    txt.textContent = formatPremiumCountdown(remaining);
+  } else {
+    box.style.display = 'none';
+  }
+}
+
+setInterval(updatePremiumTimerUI, 1000);
 
 // ============================================================
 // 🧹 ТОЗА КАРДАНИ КОРБАРОНИ СОХТАГӢ
@@ -108,6 +159,20 @@ function cleanupFakeUsers() {
 function isLessonUnlocked(id) {
   if (id === 1) return true;
   return progress.completedLessons.includes(id - 1);
+}
+
+// ============================================================
+// 👑 ДАРСҲОИ ЯКБОРА КУШОДАШУДА ДАР ВАҚТИ PREMIUM
+// ============================================================
+function isPremiumUnlockedLesson(id) {
+  return premiumUnlockedLessons.includes(id);
+}
+
+function markPremiumUnlocked(id) {
+  if (!premiumUnlockedLessons.includes(id)) {
+    premiumUnlockedLessons.push(id);
+    store.set('premiumUnlockedLessons', premiumUnlockedLessons);
+  }
 }
 
 // ============================================================
@@ -376,7 +441,7 @@ function renderLessons(filter = 'all') {
 function lessonCardHTML(l, showLevel = false) {
   const isDone = progress.completedLessons.includes(l.id);
   const score = progress.testScores[l.id];
-  const isPremiumLocked = !l.free && !isPremiumActive();
+  const isPremiumLocked = !l.free && !isPremiumActive() && !isPremiumUnlockedLesson(l.id);
   const isLocked = !isLessonUnlocked(l.id);
 
   let statusClass = '';
@@ -429,10 +494,16 @@ function bindLessonClicks() {
         return;
       }
 
-      if (!lesson.free && !isPremiumActive()) {
+      if (!lesson.free && !isPremiumActive() && !isPremiumUnlockedLesson(id)) {
         showToast('👑 Ин дарс барои Premium аст');
         navigateTo('premium');
         return;
+      }
+
+      // Агар дарс премиумӣ бошад ва Premium ҳоло фаъол бошад — сабт мекунем,
+      // ки ин дарс кушода шудааст, то баъд аз тамом шудани Premium низ кушода монад.
+      if (!lesson.free && isPremiumActive()) {
+        markPremiumUnlocked(id);
       }
 
       window.location.href = `lesson.html?id=${id}`;
@@ -478,6 +549,7 @@ function renderProfile() {
       badge.style.color = '';
     }
   }
+  updatePremiumTimerUI();
   syncMyUser();
   updateTestLockUI();
 }
