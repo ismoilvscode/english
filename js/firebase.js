@@ -1,6 +1,6 @@
 // ============================================================
 // FIREBASE — Рейтинги воқеӣ + Premium Sync + Notifications
-// APP_VERSION: 6
+// APP_VERSION: 7
 // ============================================================
 
 const firebaseConfig = {
@@ -80,7 +80,7 @@ function saveUserToFirebase(userData) {
 // ============================================================
 // ХОНДАНИ РЕЙТИНГ (якдафъа)
 // ============================================================
-function fetchRatingFromFirebase(callback, limit = 100) {
+function fetchRatingFromFirebase(callback, limit = 50) {
   if (!isFirebaseReady || !db) {
     callback([]);
     return;
@@ -106,7 +106,7 @@ function fetchRatingFromFirebase(callback, limit = 100) {
 }
 
 // ============================================================
-// РЕЙТИНГ REAL-TIME
+// РЕЙТИНГ REAL-TIME — БАРОИ САҲИФАИ РЕЙТИНГ
 // ============================================================
 let ratingListener = null;
 
@@ -129,7 +129,7 @@ function listenRatingRealtime(callback) {
 
   ratingListener = db.ref('users')
     .orderByChild('totalScore')
-    .limitToLast(100)
+    .limitToLast(50)
     .on('value', snapshot => {
       const users = [];
       snapshot.forEach(child => {
@@ -143,6 +143,43 @@ function listenRatingRealtime(callback) {
       console.error('❌ Firebase listen error:', err);
       callback([]);
     });
+}
+
+// ============================================================
+// ⚡ БОРКУНИИ ТЕЗИ ҲАМАИ КОРБАРОН (барои ADMIN)
+// Бе orderByChild — хеле тезтар!
+// ============================================================
+let allUsersListener = null;
+
+function listenAllUsersRealtime(callback) {
+  if (!isFirebaseReady || !db) {
+    callback([]);
+    return;
+  }
+
+  if (allUsersListener) {
+    try {
+      db.ref('users').off('value', allUsersListener);
+    } catch (e) {
+      console.warn('All users listener off error:', e);
+    }
+  }
+
+  console.log('⚡ Ҳамаи корбарон бор мешаванд (бе orderByChild)...');
+
+  allUsersListener = db.ref('users').on('value', snapshot => {
+    const users = [];
+    snapshot.forEach(child => {
+      const u = child.val();
+      if (u && u.id) users.push(u);
+    });
+    users.sort((a, b) => (b.totalScore || 0) - (a.totalScore || 0));
+    console.log(`⚡ ${users.length} корбарон бор шуданд`);
+    callback(users);
+  }, err => {
+    console.error('❌ All users listener error:', err);
+    callback([]);
+  });
 }
 
 // ============================================================
@@ -254,7 +291,7 @@ async function givePremiumToUser(userId, planKey, days) {
   return expiresAt;
 }
 
-// Гирифтани Premium аз корбар — БЕ ТОЗАКУНИИ КЭШ
+// Гирифтани Premium — БЕ ТОЗАКУНИИ КЭШ
 async function removePremiumFromUser(userId) {
   if (!isFirebaseReady || !db || !userId) {
     throw new Error('Firebase пайваст нест');
@@ -368,42 +405,4 @@ function listenPremiumOrders(callback) {
 // ============================================================
 // LOG
 // ============================================================
-console.log('📦 firebase.js бор шуд (v6)');
-
-// ============================================================
-// ⚡ БОРКУНИИ ТЕЗИ ҲАМАИ КОРБАРОН (барои admin)
-// Бе orderByChild — хеле тезтар!
-// ============================================================
-let allUsersListener = null;
-
-function listenAllUsersRealtime(callback) {
-  if (!isFirebaseReady || !db) {
-    callback([]);
-    return;
-  }
-
-  if (allUsersListener) {
-    try {
-      db.ref('users').off('value', allUsersListener);
-    } catch (e) {
-      console.warn('All users listener off error:', e);
-    }
-  }
-
-  console.log('⚡ Ҳамаи корбарон бор мешаванд (бе orderByChild)...');
-
-  allUsersListener = db.ref('users').on('value', snapshot => {
-    const users = [];
-    snapshot.forEach(child => {
-      const u = child.val();
-      if (u && u.id) users.push(u);
-    });
-    // Сортировка дар client — тезтар аз сервер
-    users.sort((a, b) => (b.totalScore || 0) - (a.totalScore || 0));
-    console.log(`⚡ ${users.length} корбарон бор шуданд`);
-    callback(users);
-  }, err => {
-    console.error('❌ All users listener error:', err);
-    callback([]);
-  });
-}
+console.log('📦 firebase.js бор шуд (v7)');
