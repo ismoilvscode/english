@@ -1,6 +1,6 @@
 // ============================================================
 // FIREBASE — Рейтинги воқеӣ + Premium Sync + Notifications
-// APP_VERSION: 8
+// APP_VERSION: 6
 // ============================================================
 
 const firebaseConfig = {
@@ -80,7 +80,7 @@ function saveUserToFirebase(userData) {
 // ============================================================
 // ХОНДАНИ РЕЙТИНГ (якдафъа)
 // ============================================================
-function fetchRatingFromFirebase(callback, limit = 50) {
+function fetchRatingFromFirebase(callback, limit = 100) {
   if (!isFirebaseReady || !db) {
     callback([]);
     return;
@@ -129,7 +129,7 @@ function listenRatingRealtime(callback) {
 
   ratingListener = db.ref('users')
     .orderByChild('totalScore')
-    .limitToLast(50)
+    .limitToLast(100)
     .on('value', snapshot => {
       const users = [];
       snapshot.forEach(child => {
@@ -143,42 +143,6 @@ function listenRatingRealtime(callback) {
       console.error('❌ Firebase listen error:', err);
       callback([]);
     });
-}
-
-// ============================================================
-// ⚡ БОРКУНИИ ТЕЗИ ҲАМАИ КОРБАРОН (барои ADMIN)
-// ============================================================
-let allUsersListener = null;
-
-function listenAllUsersRealtime(callback) {
-  if (!isFirebaseReady || !db) {
-    callback([]);
-    return;
-  }
-
-  if (allUsersListener) {
-    try {
-      db.ref('users').off('value', allUsersListener);
-    } catch (e) {
-      console.warn('All users listener off error:', e);
-    }
-  }
-
-  console.log('⚡ Ҳамаи корбарон бор мешаванд...');
-
-  allUsersListener = db.ref('users').on('value', snapshot => {
-    const users = [];
-    snapshot.forEach(child => {
-      const u = child.val();
-      if (u && u.id) users.push(u);
-    });
-    users.sort((a, b) => (b.totalScore || 0) - (a.totalScore || 0));
-    console.log(`⚡ ${users.length} корбарон бор шуданд`);
-    callback(users);
-  }, err => {
-    console.error('❌ All users listener error:', err);
-    callback([]);
-  });
 }
 
 // ============================================================
@@ -262,6 +226,7 @@ function listenMyNotifications(userId, callback) {
 // 🛑 ADMIN HELPERS
 // ============================================================
 
+// Додани Premium ба корбар
 async function givePremiumToUser(userId, planKey, days) {
   if (!isFirebaseReady || !db || !userId) {
     throw new Error('Firebase пайваст нест');
@@ -289,6 +254,7 @@ async function givePremiumToUser(userId, planKey, days) {
   return expiresAt;
 }
 
+// Гирифтани Premium аз корбар — БЕ ТОЗАКУНИИ КЭШ
 async function removePremiumFromUser(userId) {
   if (!isFirebaseReady || !db || !userId) {
     throw new Error('Firebase пайваст нест');
@@ -310,6 +276,7 @@ async function removePremiumFromUser(userId) {
   console.log(`❌ Premium гирифта шуд: user ${userId}`);
 }
 
+// Қабули фармоиш
 async function approveOrderInFirebase(orderId, userId, plan, days) {
   if (!isFirebaseReady || !db) {
     throw new Error('Firebase пайваст нест');
@@ -341,6 +308,7 @@ async function approveOrderInFirebase(orderId, userId, plan, days) {
   console.log(`✅ Фармоиш қабул шуд: ${orderId}`);
 }
 
+// Рад кардани фармоиш
 async function rejectOrderInFirebase(orderId, userId, reason) {
   if (!isFirebaseReady || !db) {
     throw new Error('Firebase пайваст нест');
@@ -363,7 +331,7 @@ async function rejectOrderInFirebase(orderId, userId, reason) {
 }
 
 // ============================================================
-// 📊 ОБУНА БА ФАРМОИШҲО
+// 📊 ОБУНА БА ФАРМОИШҲО (барои admin)
 // ============================================================
 let ordersListener = null;
 
@@ -397,4 +365,7 @@ function listenPremiumOrders(callback) {
   });
 }
 
-console.log('📦 firebase.js бор шуд (v8)');
+// ============================================================
+// LOG
+// ============================================================
+console.log('📦 firebase.js бор шуд (v6)');
