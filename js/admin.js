@@ -1,6 +1,6 @@
 // ============================================================
 // ADMIN PANEL — Premium Orders + User Management
-// APP_VERSION: 6
+// APP_VERSION: 8
 // ============================================================
 const ADMIN_ID_LOCAL = 8406121228;
 const user_admin = window.Telegram?.WebApp?.initDataUnsafe?.user || {};
@@ -9,6 +9,8 @@ const IS_ADMIN_LOCAL = Number(user_admin.id) === ADMIN_ID_LOCAL;
 let currentOrders = [];
 let allUsersList = [];
 let selectedUser = null;
+let usersLoaded = false;
+let usersLoadTimeout = null;
 
 const PREMIUM_PLANS_ADMIN = {
   '1day':   { label: '1 рӯз',   days: 1 },
@@ -29,8 +31,12 @@ function initAdminPanel() {
 
   const searchInput = document.getElementById('adminUserSearch');
   if (searchInput) {
+    let searchTimer = null;
     searchInput.addEventListener('input', () => {
-      renderUsersList(filterUsers(searchInput.value));
+      if (searchTimer) clearTimeout(searchTimer);
+      searchTimer = setTimeout(() => {
+        renderUsersList(filterUsers(searchInput.value));
+      }, 200);
     });
   }
 
@@ -64,35 +70,146 @@ function handleAdminAction(action) {
 }
 
 // ============================================================
-// USERS LIST
+// USERS LIST — БО КЭШ
 // ============================================================
 function startUsersListener() {
-  if (typeof listenRatingRealtime !== 'function') {
+  // 1️⃣ КЭШ — дарҳол нишон диҳ
+  const cachedUsers = getAllCachedUsers();
+  if (cachedUsers.length > 0) {
+    allUsersList = cachedUsers;
+    sortUsersList();
+    const q = document.getElementById('adminUserSearch')?.value || '';
+    renderUsersList(filterUsers(q));
+    console.log(`⚡ ${cachedUsers.length} корбарон аз кэш нишон дода шуданд`);
+  } else {
+    showLoadingState();
+  }
+
+  // 2️⃣ TIMEOUT — 5 сония
+  if (usersLoadTimeout) clearTimeout(usersLoadTimeout);
+  usersLoadTimeout = setTimeout(() => {
+    if (!usersLoaded && allUsersList.length === 0) {
+      console.warn('⚠️ Firebase суст — fallback');
+      showTimeoutState();
+    }
+  }, 5000);
+
+  // 3️⃣ FIREBASE
+  const fbFunction = typeof listenAllUsersRealtime === 'function'
+    ? listenAllUsersRealtime
+    : (typeof listenRatingRealtime === 'function' ? listenRatingRealtime : null);
+
+  if (!fbFunction) {
     setTimeout(startUsersListener, 1000);
     return;
   }
 
-  listenRatingRealtime(users => {
+  fbFunction(users => {
+    usersLoaded = true;
+    if (usersLoadTimeout) clearTimeout(usersLoadTimeout);
+
     allUsersList = (users || []).filter(u => u && u.id);
-    // Сортировка: Premium аввал
-    allUsersList.sort((a, b) => {
-      const ap = a.isPremium && a.premiumExpiresAt > Date.now() ? 1 : 0;
-      const bp = b.isPremium && b.premiumExpiresAt > Date.now() ? 1 : 0;
-      return bp - ap;
-    });
+    sortUsersList();
+    cacheUsersToLocal();
+
     const q = document.getElementById('adminUserSearch')?.value || '';
     renderUsersList(filterUsers(q));
+
+    console.log(`✅ ${allUsersList.length} корбарон аз Firebase бор шуданд`);
   });
 }
 
+// ============================================================
+// HELPERS
+// ============================================================
+function sortUsersList() {
+  allUsersList.sort((a, b) => {
+    const ap = a.isPremium && a.premiumExpiresAt > Date.now() ? 1 : 0;
+    const bp = b.isPremium && b.premiumExpiresAt > Date.now() ? 1 : 0;
+    if (ap !== bp) return bp - ap;
+    return (b.totalScore || 0) - (a.totalScore || 0);
+  });
+}
+
+function getAllCachedUsers() {
+  try {
+    const cached = store.get('admin_users_cache', {});
+    return Object.values(cached).filter(u => u && u.id);
+  } catch (e) {
+    return [];
+  }
+}
+
+function cacheUsersToLocal() {
+  try {
+    const obj = {};
+    allUsersList.forEach(u => { obj[u.id] = u; });
+    store.set('admin_users_cache', obj);
+  } catch (e) {
+    console.warn('Cache error:', e);
+  }
+}
+
+function retryLoadUsers() {
+  usersLoaded = false;
+  if (usersLoadTimeout) clearTimeout(usersLoadTimeout);
+  showLoadingState();
+  startUsersListener();
+}
+
+// ============================================================
+// LOADING STATES
+// ============================================================
+function showLoadingState() {
+  const list = document.getElementById('adminUsersList');
+  if (!list) return;
+  list.innerHTML = `
+    <div style="text-align:center;padding:20px;color:var(--text-2);font-size:12px">
+      <div class="loader" style="margin:0 auto 12px;width:24px;height:24px"></div>
+      Бор мешавад...
+    </div>`;
+}
+
+function showTimeoutState() {
+  const list = document.getElementById('adminUsersList');
+  if (!list) return;
+  list.innerHTML = `
+    <div style="text-align:center;padding:20px;color:var(--text-2);font-size:12px">
+      ⚠️ Internet суст аст<br>
+      <button onclick="retryLoadUsers()" style="
+        margin-top:10px;padding:8px 16px;
+        background:linear-gradient(135deg,var(--primary),var(--primary-2));
+        color:#fff;border:none;
+        border-radius:8px;font-weight:700;cursor:pointer;
+        font-family:inherit;font-size:12px;
+      ">🔄 Аз нав кӯшиш кунед</button>
+    </div>`;
+}
+
+// ============================================================
+// FILTER
+// ============================================================
 function filterUsers(query) {
-  if (!query) return allUsersList;
+  if (!query || query.trim().length === 0) return allUsersList;
+
   const q = String(query).toLowerCase().trim();
-  return allUsersList.filter(u =>
-    String(u.id).includes(q) ||
-    (u.name || '').toLowerCase().includes(q) ||
-    (u.username || '').toLowerCase().includes(q)
-  );
+  const byId = [];
+  const byName = [];
+
+  for (const u of allUsersList) {
+    const idStr = String(u.id);
+    if (idStr.includes(q)) {
+      byId.push(u);
+      continue;
+    }
+    const name = (u.name || '').toLowerCase();
+    const username = (u.username || '').toLowerCase();
+    if (name.includes(q) || username.includes(q)) {
+      byName.push(u);
+    }
+  }
+
+  return [...byId, ...byName];
 }
 
 // ============================================================
@@ -103,7 +220,10 @@ function renderUsersList(users) {
   if (!list) return;
 
   if (!users.length) {
-    list.innerHTML = `<div style="text-align:center;padding:20px;color:var(--text-2);font-size:12px">Корбар ёфт нашуд</div>`;
+    list.innerHTML = `
+      <div style="text-align:center;padding:20px;color:var(--text-2);font-size:12px">
+        🔍 Корбар ёфт нашуд
+      </div>`;
     return;
   }
 
@@ -122,7 +242,7 @@ function renderUsersList(users) {
           ${hasPremium ? 'border:2px solid #fbbf24;' : 'border:2px solid transparent;'}
           box-sizing:content-box;
         ">
-          <img src="${u.photo}" alt="${escapeHtmlLocal(u.name || 'U')}"
+          <img src="${u.photo}" alt="${escapeHtmlLocal(u.name || 'U')}" loading="lazy"
             style="width:100%;height:100%;object-fit:cover;display:block;"
             onerror="this.parentElement.innerHTML='<div style=\\'width:100%;height:100%;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:15px\\'>${escapeHtmlLocal(initial)}</div>'">
         </div>
@@ -187,6 +307,10 @@ function selectAdminUser(userId) {
     }
   }
 
+  setTimeout(() => {
+    box?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  }, 100);
+
   const q = document.getElementById('adminUserSearch')?.value || '';
   renderUsersList(filterUsers(q));
 }
@@ -207,7 +331,24 @@ async function givePremiumToSelectedUser() {
   if (!confirm(`Ба ${selectedUser.name} (ID: ${selectedUser.id}) Premium дода шавад?\nНақша: ${plan.label}`)) return;
 
   try {
-    await givePremiumToUser(selectedUser.id, planKey, plan.days);
+    const expiresAt = Date.now() + plan.days * 86400000;
+
+    await db.ref('users/' + selectedUser.id).update({
+      isPremium: true,
+      premiumPlan: planKey,
+      premiumStartedAt: Date.now(),
+      premiumExpiresAt: expiresAt
+    });
+
+    await db.ref('notifications/' + selectedUser.id).push({
+      type: 'premium_approved',
+      plan: planKey,
+      days: plan.days,
+      expiresAt: expiresAt,
+      createdAt: Date.now(),
+      read: false
+    });
+
     showToast(`✅ Premium дода шуд: ${selectedUser.name}`);
     if (window.Telegram?.WebApp) {
       window.Telegram.WebApp.HapticFeedback?.notificationOccurred('success');
@@ -233,7 +374,19 @@ async function removePremiumFromSelectedUser() {
   )) return;
 
   try {
-    await removePremiumFromUser(selectedUser.id);
+    await db.ref('users/' + selectedUser.id).update({
+      isPremium: false,
+      premiumPlan: null,
+      premiumStartedAt: null,
+      premiumExpiresAt: null
+    });
+
+    await db.ref('notifications/' + selectedUser.id).push({
+      type: 'premium_revoked',
+      createdAt: Date.now(),
+      read: false
+    });
+
     showToast(`❌ Premium гирифта шуд: ${selectedUser.name}`);
     if (window.Telegram?.WebApp) {
       window.Telegram.WebApp.HapticFeedback?.notificationOccurred('success');
@@ -245,7 +398,7 @@ async function removePremiumFromSelectedUser() {
 }
 
 // ============================================================
-// LISTEN — Фармоишҳои pending
+// ORDERS LISTENER
 // ============================================================
 function startOrdersListener() {
   if (typeof listenPremiumOrders !== 'function') {
@@ -260,7 +413,7 @@ function startOrdersListener() {
 }
 
 // ============================================================
-// RENDER — Рӯйхати фармоишҳо
+// RENDER ORDERS
 // ============================================================
 function renderPremiumOrders(orders) {
   let container = document.getElementById('adminOrders');
@@ -291,7 +444,6 @@ function orderCardHTML(order) {
     day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit'
   });
 
-  // Ҷустуҷӯи расми корбар дар рӯйхат
   const orderUser = allUsersList.find(u => Number(u.id) === Number(order.userId));
   const userPhoto = orderUser?.photo;
   const hasPhoto = userPhoto && typeof userPhoto === 'string' && userPhoto.length > 10;
@@ -303,7 +455,7 @@ function orderCardHTML(order) {
         background:linear-gradient(135deg,#6366f1,#8b5cf6);
         box-shadow:0 2px 8px rgba(0,0,0,0.3);
       ">
-        <img src="${userPhoto}" alt="${escapeHtmlLocal(order.userName || 'U')}"
+        <img src="${userPhoto}" alt="${escapeHtmlLocal(order.userName || 'U')}" loading="lazy"
           style="width:100%;height:100%;object-fit:cover;display:block;"
           onerror="this.parentElement.innerHTML='<div style=\\'width:100%;height:100%;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:18px\\'>${escapeHtmlLocal(initial)}</div>'">
       </div>
@@ -350,7 +502,7 @@ function orderCardHTML(order) {
 
       ${order.photo ? `
         <div style="margin-bottom:12px;cursor:pointer" onclick="viewPhotoFull('${order.id}')">
-          <img src="${order.photo}" style="
+          <img src="${order.photo}" loading="lazy" style="
             width:100%;border-radius:12px;max-height:220px;
             object-fit:cover;background:#0f172a;display:block;
           " onerror="this.style.display='none'">
@@ -412,13 +564,35 @@ function viewPhotoFull(orderId) {
 }
 
 // ============================================================
-// APPROVE / REJECT ORDER
+// APPROVE / REJECT
 // ============================================================
 async function approveOrder(orderId, userId, plan, days) {
   if (!confirm(`Қабули фармоиш?\nКорбар ID: ${userId}\nНақша: ${plan} (${days} рӯз)`)) return;
 
   try {
-    await approveOrderInFirebase(orderId, userId, plan, days);
+    const expiresAt = Date.now() + days * 86400000;
+
+    await db.ref('premium_orders/' + orderId).update({
+      status: 'approved',
+      approvedAt: Date.now()
+    });
+
+    await db.ref('users/' + userId).update({
+      isPremium: true,
+      premiumPlan: plan,
+      premiumStartedAt: Date.now(),
+      premiumExpiresAt: expiresAt
+    });
+
+    await db.ref('notifications/' + userId).push({
+      type: 'premium_approved',
+      plan: plan,
+      days: days,
+      expiresAt: expiresAt,
+      createdAt: Date.now(),
+      read: false
+    });
+
     showToast('✅ Фармоиш қабул шуд');
     if (window.Telegram?.WebApp) {
       window.Telegram.WebApp.HapticFeedback?.notificationOccurred('success');
@@ -434,7 +608,19 @@ async function rejectOrder(orderId, userId) {
   if (reason === null) return;
 
   try {
-    await rejectOrderInFirebase(orderId, userId, reason);
+    await db.ref('premium_orders/' + orderId).update({
+      status: 'rejected',
+      rejectedAt: Date.now(),
+      rejectReason: reason || 'Сабаб нишон дода нашуд'
+    });
+
+    await db.ref('notifications/' + userId).push({
+      type: 'premium_rejected',
+      reason: reason,
+      createdAt: Date.now(),
+      read: false
+    });
+
     showToast('❌ Фармоиш рад шуд');
   } catch (e) {
     console.error('Reject error:', e);
