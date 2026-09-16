@@ -698,56 +698,92 @@
         </div>
       </div>
 
-      <!-- ===== USER MANAGEMENT ===== -->
+      <!-- ===== 1. USER MANAGEMENT ===== -->
       <div class="admin-section">
-        <h3><svg class="icon icon-sm"><use href="#i-users"/></svg> Идоракунии корбарон</h3>
+        <h3>
+          <svg class="icon icon-sm"><use href="#i-user-plus"/></svg>
+          Идоракунии корбарон
+        </h3>
         <p style="font-size:11px;color:var(--text-2);margin-bottom:10px">
-          ID ё @username-ро нависед, то Premium диҳед ё хомӯш кунед
+          ID ё @username-ро нависед, ё аз рӯйхат корбарро интихоб кунед
         </p>
         <div style="display:flex;gap:8px;margin-bottom:12px">
           <input type="text" id="adminUserSearch" class="admin-input"
-            placeholder="Мисол: 8406121228 ё @ismoilovcode" style="flex:1">
+            placeholder="Ҷустуҷӯ: ID ё @username" style="flex:1">
           <button id="adminSearchBtn" class="btn-primary"
-            style="padding:12px 16px;border-radius:12px;font-size:13px;display:flex;align-items:center;justify-content:center">
+            style="padding:12px 16px;border-radius:12px;font-size:13px;display:flex;align-items:center;justify-content:center;min-width:52px">
             <svg class="icon icon-sm"><use href="#i-search"/></svg>
           </button>
         </div>
+
+        <!-- Натиҷаи ҷустуҷӯ -->
         <div id="adminUserResult"></div>
+
+        <!-- Рӯйхати ҳамаи корбарон -->
+        <div style="margin-top:14px">
+          <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px">
+            <span style="font-size:12px;color:var(--text-2);font-weight:700;text-transform:uppercase;letter-spacing:0.5px">
+              Ҳамаи корбарон
+            </span>
+            <span id="adminUsersCount" style="font-size:11px;font-weight:700;color:var(--primary);background:rgba(99,102,241,0.15);padding:3px 10px;border-radius:20px">
+              0
+            </span>
+          </div>
+          <div id="adminUsersList" class="admin-users-list">
+            <div style="text-align:center;padding:20px;color:var(--text-2);font-size:12px">
+              <div class="loader" style="margin:0 auto 10px;width:28px;height:28px;border-width:2px"></div>
+              Корбарон бор мешаванд...
+            </div>
+          </div>
+        </div>
       </div>
 
-      <!-- ===== PREMIUM ORDERS ===== -->
+      <!-- ===== 2. PREMIUM ORDERS ===== -->
       <div class="admin-section" id="adminOrdersSection">
-        <h3><svg class="icon icon-sm"><use href="#i-gift"/></svg> Фармоишҳои Premium</h3>
+        <h3>
+          <svg class="icon icon-sm"><use href="#i-gift"/></svg>
+          Фармоишҳои Premium
+        </h3>
         <div id="adminOrders" style="margin-top:12px"></div>
       </div>
 
-      <!-- ===== GIVE PREMIUM TO SELF ===== -->
+      <!-- ===== 3. GIVE PREMIUM TO SELF ===== -->
       <div class="admin-section">
-        <h3><svg class="icon icon-sm"><use href="#i-crown"/></svg> Premium ба худам</h3>
+        <h3>
+          <svg class="icon icon-sm"><use href="#i-crown"/></svg>
+          Premium ба худам
+        </h3>
         <select id="adminPlanSelect" class="admin-select">
           <option value="1day">1 рӯз (4 сомонӣ)</option>
           <option value="1week">1 ҳафта (25 сомонӣ)</option>
           <option value="1month" selected>1 моҳ (100 сомонӣ)</option>
           <option value="1year">1 сол (1199 сомонӣ)</option>
         </select>
-        <button class="btn-primary btn-full" data-admin-action="give-premium">
+        <button class="btn-primary btn-full" data-admin-action="give-premium"
+          style="width:100%;justify-content:center;display:flex;align-items:center;gap:8px;padding:14px">
           <svg class="icon icon-sm"><use href="#i-crown"/></svg>
-          Додан
+          Фаъол кардан
         </button>
       </div>
 
-      <!-- ===== ACTIONS ===== -->
+      <!-- ===== 4. ACTIONS ===== -->
       <div class="admin-section">
-        <h3><svg class="icon icon-sm"><use href="#i-settings"/></svg> Амалҳо</h3>
-        <button class="btn-price btn-full" data-admin-action="unlock-all">
+        <h3>
+          <svg class="icon icon-sm"><use href="#i-settings"/></svg>
+          Амалҳо
+        </h3>
+        <button class="btn-price btn-full" data-admin-action="unlock-all"
+          style="width:100%;margin-bottom:8px">
           <svg class="icon icon-sm"><use href="#i-check-circle"/></svg>
           Ҳамаи дарсҳоро кушодан
         </button>
-        <button class="btn-price btn-full" data-admin-action="reset-progress">
+        <button class="btn-price btn-full" data-admin-action="reset-progress"
+          style="width:100%;margin-bottom:8px">
           <svg class="icon icon-sm"><use href="#i-refresh"/></svg>
           Нест кардани пешрафт
         </button>
-        <button class="btn-price btn-full danger" data-admin-action="reset-premium">
+        <button class="btn-price btn-full danger" data-admin-action="reset-premium"
+          style="width:100%">
           <svg class="icon icon-sm"><use href="#i-x"/></svg>
           Нест кардани Premium
         </button>
