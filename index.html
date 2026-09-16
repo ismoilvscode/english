@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#0f172a" />
   <title>EnglishPro — Омӯзиши забони англисӣ</title>
   <script src="https://telegram.org/js/telegram-web-app.js"></script>
-  <link rel="stylesheet" href="css/style.css?v=4" />
+  <link rel="stylesheet" href="css/style.css?v=5" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -66,6 +66,9 @@
   <symbol id="i-shield" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></symbol>
   <symbol id="i-credit-card" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="5" width="20" height="14" rx="2"/><line x1="2" y1="10" x2="22" y2="10"/></symbol>
   <symbol id="i-phone" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></symbol>
+  <symbol id="i-search" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></symbol>
+  <symbol id="i-user-plus" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="8.5" cy="7" r="4"/><line x1="20" y1="8" x2="20" y2="14"/><line x1="23" y1="11" x2="17" y2="11"/></symbol>
+  <symbol id="i-user-x" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="8.5" cy="7" r="4"/><line x1="18" y1="8" x2="23" y2="13"/><line x1="23" y1="8" x2="18" y2="13"/></symbol>
 
   <!-- HELP -->
   <symbol id="i-help-circle" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></symbol>
@@ -679,6 +682,7 @@
         <p>Идоракунии барнома</p>
       </div>
 
+      <!-- ADMIN STATS -->
       <div class="admin-stats">
         <div class="admin-stat">
           <div class="admin-stat-value" id="adminTotalUsers">0</div>
@@ -694,14 +698,32 @@
         </div>
       </div>
 
-      <!-- Premium Orders -->
+      <!-- ===== USER MANAGEMENT ===== -->
+      <div class="admin-section">
+        <h3><svg class="icon icon-sm"><use href="#i-users"/></svg> Идоракунии корбарон</h3>
+        <p style="font-size:11px;color:var(--text-2);margin-bottom:10px">
+          ID ё @username-ро нависед, то Premium диҳед ё хомӯш кунед
+        </p>
+        <div style="display:flex;gap:8px;margin-bottom:12px">
+          <input type="text" id="adminUserSearch" class="admin-input"
+            placeholder="Мисол: 8406121228 ё @ismoilovcode" style="flex:1">
+          <button id="adminSearchBtn" class="btn-primary"
+            style="padding:12px 16px;border-radius:12px;font-size:13px;display:flex;align-items:center;justify-content:center">
+            <svg class="icon icon-sm"><use href="#i-search"/></svg>
+          </button>
+        </div>
+        <div id="adminUserResult"></div>
+      </div>
+
+      <!-- ===== PREMIUM ORDERS ===== -->
       <div class="admin-section" id="adminOrdersSection">
         <h3><svg class="icon icon-sm"><use href="#i-gift"/></svg> Фармоишҳои Premium</h3>
         <div id="adminOrders" style="margin-top:12px"></div>
       </div>
 
+      <!-- ===== GIVE PREMIUM TO SELF ===== -->
       <div class="admin-section">
-        <h3><svg class="icon icon-sm"><use href="#i-crown"/></svg> Додани Premium</h3>
+        <h3><svg class="icon icon-sm"><use href="#i-crown"/></svg> Premium ба худам</h3>
         <select id="adminPlanSelect" class="admin-select">
           <option value="1day">1 рӯз (4 сомонӣ)</option>
           <option value="1week">1 ҳафта (25 сомонӣ)</option>
@@ -714,6 +736,7 @@
         </button>
       </div>
 
+      <!-- ===== ACTIONS ===== -->
       <div class="admin-section">
         <h3><svg class="icon icon-sm"><use href="#i-settings"/></svg> Амалҳо</h3>
         <button class="btn-price btn-full" data-admin-action="unlock-all">
@@ -833,11 +856,11 @@
 <script src="https://www.gstatic.com/firebasejs/10.7.0/firebase-database-compat.js"></script>
 
 <!-- ============================================================
-     APP SCRIPTS (бо ?v=4 барои cache-busting)
+     APP SCRIPTS (бо ?v=5 барои cache-busting)
      ============================================================ -->
-<script src="js/firebase.js?v=4"></script>
-<script src="js/app.js?v=4"></script>
-<script src="js/admin.js?v=4"></script>
+<script src="js/firebase.js?v=5"></script>
+<script src="js/app.js?v=5"></script>
+<script src="js/admin.js?v=5"></script>
 
 </body>
 </html>
