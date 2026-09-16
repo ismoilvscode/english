@@ -3,7 +3,7 @@
 // ин рақамро зиёд кунед (масалан 5, 6, 7...), то Telegram кэши
 // куҳнаро истифода набарад ва файлҳои навро бор кунад.
 // ============================================================
-const APP_VERSION = 4;
+const APP_VERSION = 5;
 
 // ============================================================
 // TELEGRAM
@@ -44,12 +44,7 @@ const store = {
 };
 
 // ============================================================
-// RESET HAMAGON — ин фақат он вақт кор мекунад, ки шумо
-// FORCE_RESET_VERSION-ро зиёд карда push кунед. Дар он лаҳза,
-// пешрафти ҲАМАИ корбарон (аз ҳама дастгоҳҳо) худкор пок мешавад,
-// вақте ки онҳо барномаро кушоянд — шумо ба телефони онҳо ниёз
-// надоред. Барои гирифтани ин натиҷа, танҳо рақами поёнро зиёд
-// кунед (масалан аз 1 ба 2) ва дар GitHub push кунед.
+// FORCE RESET
 // ============================================================
 const FORCE_RESET_VERSION = 1;
 const _savedResetVersion = store.get('_forceResetVersion', 0);
@@ -97,6 +92,30 @@ function isPremiumActive() {
 }
 
 // ============================================================
+// 🧹 ТОЗА КАРДАНИ CACHE-И PREMIUM
+// ============================================================
+function clearPremiumCache() {
+  premium = { active: false, plan: null, startedAt: null, expiresAt: null };
+  store.set('premium', premium);
+  premiumUnlockedLessons = [];
+  store.set('premiumUnlockedLessons', []);
+  console.log('🧹 Premium cache тоза шуд');
+}
+
+function forceRefreshUI() {
+  try {
+    renderProfile();
+    updateTestLockUI();
+    renderLessons('all');
+    updateStats();
+    renderContinueLessons();
+    updatePremiumTimerUI();
+  } catch (e) {
+    console.warn('forceRefreshUI error:', e);
+  }
+}
+
+// ============================================================
 // ⏱ ТАЙМЕРИ PREMIUM (бо сонияшумор)
 // ============================================================
 function formatPremiumCountdown(ms) {
@@ -131,11 +150,9 @@ setInterval(updatePremiumTimerUI, 1000);
 // ============================================================
 // 🧹 ТОЗА КАРДАНИ КОРБАРОНИ СОХТАГӢ
 // ============================================================
-// ID-и воқеии Telegram: 5-10 рақам (мисли 8406121228)
-// ID-и сохтагӣ: хурдтар аз 1 миллион (мисли 1, 100, 12345)
 function isValidTelegramId(id) {
   const n = Number(id);
-  return n > 1000000;   // > 1 миллион = корбари воқеӣ
+  return n > 1000000;
 }
 
 function cleanupFakeUsers() {
@@ -176,7 +193,7 @@ function markPremiumUnlocked(id) {
 }
 
 // ============================================================
-// 🎧 PREMIUM SYNC
+// 🎧 PREMIUM SYNC + AUTO CACHE CLEAR
 // ============================================================
 function initPremiumSync() {
   if (!user.id) return;
@@ -185,6 +202,7 @@ function initPremiumSync() {
   listenMyPremiumFromFirebase(user.id, data => {
     const wasActive = isPremiumActive();
 
+    // === PREMIUM ФАЪОЛ ===
     if (data.isPremium && data.premiumExpiresAt && Date.now() < data.premiumExpiresAt) {
       premium = {
         active: true,
@@ -209,26 +227,21 @@ function initPremiumSync() {
             });
           }
         }
-        renderProfile();
-        updateTestLockUI();
-        renderLessons('all');
-        updateStats();
-        renderContinueLessons();
+        forceRefreshUI();
       }
-    } else if (!data.isPremium && premium.active) {
-      premium = { active: false, plan: null, startedAt: null, expiresAt: null };
-      store.set('premium', premium);
-      renderProfile();
-      updateTestLockUI();
-      renderLessons('all');
-      updateStats();
-      renderContinueLessons();
+    }
+
+    // === PREMIUM ХОМӮШ ШУД (аз админ ё тамом шуд) ===
+    else if (!data.isPremium && premium.active) {
+      clearPremiumCache();
+      forceRefreshUI();
+      showToast('🚫 Premium хомӯш шуд');
     }
   });
 }
 
 // ============================================================
-// 🔔 NOTIFICATIONS
+// 🔔 NOTIFICATIONS — Premium gifted / removed / approved / rejected
 // ============================================================
 function initNotificationsListener() {
   if (!user.id) return;
@@ -239,9 +252,38 @@ function initNotificationsListener() {
     if (localStorage.getItem(notifKey)) return;
     localStorage.setItem(notifKey, '1');
 
+    // ===== PREMIUM APPROVED =====
+    if (notif.type === 'premium_approved') {
+      showToast('✅ Premium фаъол шуд!');
+      if (tg) {
+        tg.HapticFeedback?.notificationOccurred('success');
+        tg.showPopup({
+          title: '🎉 Premium фаъол шуд!',
+          message: `Нақша: ${notif.plan || 'Premium'}\nМӯҳлат: ${notif.days} рӯз`,
+          buttons: [{ type: 'close' }]
+        });
+      }
+    }
+
+    // ===== PREMIUM GIFTED (Тӯҳфа аз админ) =====
+    if (notif.type === 'premium_gifted') {
+      showToast('🎁 Шумо Premium тӯҳфа гирифтед!');
+      if (tg) {
+        tg.HapticFeedback?.notificationOccurred('success');
+        tg.showPopup({
+          title: '🎁 Premium тӯҳфа!',
+          message: `Нақша: ${notif.planLabel || 'Premium'}\nМӯҳлат: ${notif.days} рӯз`,
+          buttons: [{ type: 'close' }]
+        });
+      }
+      forceRefreshUI();
+    }
+
+    // ===== PREMIUM REJECTED =====
     if (notif.type === 'premium_rejected') {
       showToast('❌ Фармоиш рад шуд');
       if (tg) {
+        tg.HapticFeedback?.notificationOccurred('error');
         tg.showPopup({
           title: '❌ Фармоиш рад шуд',
           message: `Сабаб: ${notif.reason || 'Нишон дода нашуд'}`,
@@ -250,17 +292,25 @@ function initNotificationsListener() {
       }
     }
 
+    // ===== PREMIUM REMOVED (аз админ) — CACHE ТОЗА + ҚУЛФ =====
     if (notif.type === 'premium_removed') {
-      showToast('🚫 Premium-и шумо хомӯш карда шуд');
+      // 🧹 CACHE ТОЗА КАРДАНИ ҲАМА
+      clearPremiumCache();
+
+      showToast('🚫 Premium хомӯш карда шуд');
       if (tg) {
+        tg.HapticFeedback?.notificationOccurred('error');
         tg.showPopup({
           title: '🚫 Premium хомӯш карда шуд',
-          message: 'Дастрасии Premium-и шумо аз ҷониби администратор хомӯш карда шуд.',
+          message: 'Дастрасии Premium-и шумо аз ҷониби администратор хомӯш карда шуд. Дарсҳои Premium қулф шуданд.',
           buttons: [{ type: 'close' }]
         });
       }
+
+      forceRefreshUI();
     }
 
+    // Mark read
     if (db && user.id && notif.id) {
       db.ref(`notifications/${user.id}/${notif.id}`).update({ read: true }).catch(() => {});
     }
@@ -511,8 +561,6 @@ function bindLessonClicks() {
         return;
       }
 
-      // Агар дарс премиумӣ бошад ва Premium ҳоло фаъол бошад — сабт мекунем,
-      // ки ин дарс кушода шудааст, то баъд аз тамом шудани Premium низ кушода монад.
       if (!lesson.free && isPremiumActive()) {
         markPremiumUnlocked(id);
       }
@@ -566,7 +614,7 @@ function renderProfile() {
 }
 
 // ============================================================
-// AVATAR
+// AVATAR (бо referrerpolicy барои суратҳои Telegram)
 // ============================================================
 function getUserInitial() {
   const name = user.first_name || user.username || 'U';
@@ -584,7 +632,7 @@ function renderAvatar() {
     el.dataset.initial = initial;
 
     if (photo) {
-      el.innerHTML = `<img src="${photo}" alt="${escapeHtml(user.first_name || 'U')}" onerror="avatarFallback(this, '${initial}')">`;
+      el.innerHTML = `<img src="${photo}" referrerpolicy="no-referrer" alt="${escapeHtml(user.first_name || 'U')}" onerror="avatarFallback(this, '${initial}')">`;
       el.classList.add('has-photo');
     } else {
       el.innerHTML = `<span class="avatar-letter">${initial}</span>`;
@@ -631,7 +679,7 @@ function updateTestLockUI() {
 }
 
 // ============================================================
-// 🏆 RATING — ДУРУСТ ШУД
+// 🏆 RATING
 // ============================================================
 function renderRating(filter = 'all') {
   syncMyUser();
@@ -640,7 +688,6 @@ function renderRating(filter = 'all') {
   const container = document.getElementById('ratingList');
   const myCard = document.getElementById('myRankCard');
 
-  // Loading
   if (container) {
     container.innerHTML = `
       <div style="text-align:center;padding:40px;color:var(--text-2);font-size:13px;">
@@ -651,15 +698,12 @@ function renderRating(filter = 'all') {
   if (podium) podium.innerHTML = '';
   if (myCard) myCard.innerHTML = '';
 
-  // Кӯшиш кун аз Firebase
   if (typeof listenRatingRealtime === 'function') {
     console.log('🏆 Рейтинг аз Firebase бор мешавад...');
 
     try {
       listenRatingRealtime(users => {
         console.log('🏆 Firebase users:', users.length);
-
-        // ⚠️ ҲЕҶ ФИЛТР НАКУНЕМ — ҳамаи корбаронро нишон медиҳем
         const validUsers = (users || []).filter(u => u && u.id);
 
         let filtered = validUsers;
@@ -675,7 +719,6 @@ function renderRating(filter = 'all') {
       });
     } catch (e) {
       console.error('❌ Firebase rating error:', e);
-      // Fallback ба local
       const list = getLocalRatingList(filter, 100);
       renderRatingUI(list);
     }
@@ -687,7 +730,6 @@ function renderRating(filter = 'all') {
 }
 
 function getLocalRatingList(filter = 'all', limit = 100) {
-  // ⚠️ ҲЕҶ ФИЛТР — ҳамаи корбарон
   let users = Object.values(allUsers).filter(u => u && u.id);
 
   if (filter === 'week') {
@@ -806,7 +848,7 @@ function podiumAvatar(u, rank) {
   return `
     <div class="podium-avatar" data-initial="${initial}">
       ${u.photo
-        ? `<img src="${u.photo}" alt="${escapeHtml(u.name || 'Корбар')}" onerror="this.parentElement.innerHTML='<span class=\\'avatar-letter\\'>${initial}</span>'">`
+        ? `<img src="${u.photo}" referrerpolicy="no-referrer" alt="${escapeHtml(u.name || 'Корбар')}" onerror="this.parentElement.innerHTML='<span class=\\'avatar-letter\\'>${initial}</span>'">`
         : `<span class="avatar-letter">${initial}</span>`}
     </div>
     <div class="podium-rank">${rank}</div>
@@ -818,7 +860,7 @@ function listAvatar(u) {
   return `
     <div class="rating-avatar" data-initial="${initial}">
       ${u.photo
-        ? `<img src="${u.photo}" alt="${escapeHtml(u.name || 'Корбар')}" onerror="this.parentElement.innerHTML='<span class=\\'avatar-letter\\'>${initial}</span>'">`
+        ? `<img src="${u.photo}" referrerpolicy="no-referrer" alt="${escapeHtml(u.name || 'Корбар')}" onerror="this.parentElement.innerHTML='<span class=\\'avatar-letter\\'>${initial}</span>'">`
         : `<span class="avatar-letter">${initial}</span>`}
     </div>
   `;
@@ -988,6 +1030,7 @@ function confirmResetAll() {
   if (!confirm('Ҳамаи маълумот нест мешавад. Мутмаин ҳастед?')) return;
   store.del('progress');
   store.del('premium');
+  store.del('premiumUnlockedLessons');
   store.del('savedLessons');
   store.del('settings');
   location.reload();
@@ -1354,7 +1397,6 @@ function renderAdmin() {
   if (!IS_ADMIN) return;
 
   const renderList = (users) => {
-    // ⚠️ ҲЕҶ ФИЛТР
     const validUsers = users.filter(u => u && u.id);
 
     const premiumCount = validUsers.filter(u => u.isPremium).length;
