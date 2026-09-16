@@ -1,7 +1,7 @@
 // ============================================================
 // APP VERSION
 // ============================================================
-const APP_VERSION = 9;
+const APP_VERSION = 10;
 
 // ============================================================
 // TELEGRAM
@@ -169,7 +169,6 @@ function refreshPremiumUI() {
 function initPremiumSync() {
   if (!user.id) return;
 
-  // Якдафъа хон
   if (typeof db !== 'undefined' && db) {
     db.ref('users/' + user.id).once('value')
       .then(snap => {
@@ -179,7 +178,6 @@ function initPremiumSync() {
       .catch(e => console.warn('Premium once error:', e));
   }
 
-  // Listener
   if (typeof listenMyPremiumFromFirebase !== 'function') return;
   listenMyPremiumFromFirebase(user.id, data => {
     applyPremiumData(data, true);
@@ -309,38 +307,80 @@ async function initApp() {
 }
 
 // ============================================================
-// MANIFEST — бо fallback
+// MANIFEST — БО 4 РОҲ ВА FALLBACK
 // ============================================================
 let LESSONS = [];
 
 const FALLBACK_LESSONS = [
-  { id: 1, title: 'Луғат 1: Асосҳо', level: 'Ибтидоӣ', free: true, wordsCount: 8 },
-  { id: 2, title: 'Луғат 2: Асосҳо', level: 'Ибдоӣ', free: true, wordsCount: 10 }
+  { id: 1,   title: 'Луғат 1: Асосҳо',     level: 'Ибтидоӣ', free: true,  wordsCount: 8 },
+  { id: 2,   title: 'Луғат 2: Асосҳо',     level: 'Ибтидоӣ', free: true,  wordsCount: 10 },
+  { id: 3,   title: 'Луғат 3: Асосҳо',     level: 'Ибтидоӣ', free: true,  wordsCount: 12 },
+  { id: 4,   title: 'Луғат 4: Асосҳо',     level: 'Ибтидоӣ', free: false, wordsCount: 18 },
+  { id: 5,   title: 'Луғат 5: Асосҳо',     level: 'Ибтидоӣ', free: false, wordsCount: 18 },
+  { id: 6,   title: 'Луғат 6: Асосҳо',     level: 'Ибтидоӣ', free: false, wordsCount: 20 },
+  { id: 7,   title: 'Луғат 7: Асосҳо',     level: 'Ибтидоӣ', free: false, wordsCount: 22 },
+  { id: 8,   title: 'Луғат 8: Асосҳо',     level: 'Ибтидоӣ', free: false, wordsCount: 24 },
+  { id: 9,   title: 'Луғат 9: Асосҳо',     level: 'Ибтидоӣ', free: false, wordsCount: 26 },
+  { id: 10,  title: 'Луғат ва ибораҳо 10', level: 'Ибтидоӣ', free: false, wordsCount: 28 },
+  { id: 11,  title: 'Луғат ва ибораҳо 11', level: 'Ибтидоӣ', free: false, wordsCount: 30 },
+  { id: 12,  title: 'Луғат ва ибораҳо 12', level: 'Ибтидоӣ', free: false, wordsCount: 32 }
 ];
 
 async function loadManifest() {
   console.log('📦 loadManifest started');
-  try {
-    const url = `data/manifest.json?v=${Date.now()}`;
-    console.log('📦 Fetching:', url);
-    const r = await fetch(url);
-    console.log('📦 Response status:', r.status);
 
-    if (!r.ok) throw new Error('HTTP ' + r.status);
+  const paths = [
+    'data/manifest.json',
+    './data/manifest.json',
+    '/data/manifest.json',
+    'manifest.json'
+  ];
 
-    const text = await r.text();
-    console.log('📦 Response length:', text.length);
+  for (const path of paths) {
+    try {
+      const url = path + '?t=' + Date.now();
+      console.log('📦 Trying:', url);
 
-    const data = JSON.parse(text);
-    LESSONS = data.lessons || [];
-    console.log('✅ Manifest loaded:', LESSONS.length, 'lessons');
-  } catch (e) {
-    console.error('❌ Manifest error:', e);
-    LESSONS = [];
-    setTimeout(() => {
-      showToast('⚠️ Дарсҳо бор нашуд. Интернетро санҷед.');
-    }, 2000);
+      const r = await fetch(url, {
+        cache: 'no-store',
+        headers: { 'Cache-Control': 'no-cache' }
+      });
+
+      console.log('📦 Status:', r.status, path);
+
+      if (!r.ok) continue;
+
+      const data = await r.json();
+
+      if (data && Array.isArray(data.lessons) && data.lessons.length > 0) {
+        LESSONS = data.lessons;
+        console.log('✅ Manifest loaded:', LESSONS.length, 'lessons from', path);
+        return;
+      }
+    } catch (e) {
+      console.warn('❌ Failed:', path, e.message);
+    }
   }
+
+  // Fallback
+  console.error('❌ Ҳамаи роҳҳо кор накарданд — fallback');
+  LESSONS = FALLBACK_LESSONS;
+  showToast('⚠️ Дарсҳо аз захира бор шуданд');
+
+  // Кӯшиши дубора баъд аз 3 сония
+  setTimeout(async () => {
+    try {
+      const r = await fetch('data/manifest.json?t=' + Date.now(), { cache: 'no-store' });
+      if (r.ok) {
+        const data = await r.json();
+        if (data?.lessons?.length > 0) {
+          LESSONS = data.lessons;
+          console.log('✅ Retry successful:', LESSONS.length);
+          renderAll();
+        }
+      }
+    } catch (e) {}
+  }, 3000);
 }
 
 // ============================================================
@@ -374,6 +414,16 @@ function renderContinueLessons() {
   const container = document.getElementById('continueLessons');
   if (!container) return;
 
+  if (!LESSONS.length) {
+    container.innerHTML = `<div class="lesson-card" style="justify-content:center;text-align:center">
+      <div class="lesson-info">
+        <h4>Дарсҳо бор мешаванд...</h4>
+        <p>Лутфан интизор шавед</p>
+      </div>
+    </div>`;
+    return;
+  }
+
   const next = LESSONS.find(l => isLessonUnlocked(l.id) && !progress.completedLessons.includes(l.id));
 
   if (!next) {
@@ -390,6 +440,16 @@ function renderContinueLessons() {
 function renderLessons(filter = 'all') {
   const grid = document.getElementById('lessonsGrid');
   if (!grid) return;
+
+  if (!LESSONS.length) {
+    grid.innerHTML = `
+      <div class="empty-state">
+        <div class="empty-icon"><svg class="icon icon-2xl"><use href="#i-book"/></svg></div>
+        <h3>Дарсҳо бор мешаванд...</h3>
+        <p>Лутфан интизор шавед</p>
+      </div>`;
+    return;
+  }
 
   let list = LESSONS;
   if (filter !== 'all') {
@@ -1058,4 +1118,4 @@ function renderAdmin() {
   else renderList(getLocalRatingList('all', 100));
 }
 
-console.log('📦 app.js v9 бор шуд');
+console.log('📦 app.js v10 бор шуд');
