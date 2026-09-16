@@ -105,39 +105,64 @@ function initAdminPanel() {
 // ============================================================
 // 👥 РӮЙХАТИ ҲАМАИ КОРБАРОН
 // ============================================================
+// ============================================================
+// 👥 РӮЙХАТИ ҲАМАИ КОРБАРОН
+// ============================================================
 function initAdminUsersList() {
-  if (!IS_ADMIN_LOCAL) return;
+  console.log('🚀 initAdminUsersList даъват шуд');
+  console.log('   IS_ADMIN_LOCAL:', IS_ADMIN_LOCAL);
+  console.log('   db:', typeof db, db ? 'ready' : 'not ready');
+
+  if (!IS_ADMIN_LOCAL) {
+    console.warn('⛔ IS_ADMIN_LOCAL = false — рӯйхат бор намешавад');
+    return;
+  }
 
   if (typeof db === 'undefined' || !db) {
-    console.warn('⚠️ Firebase нест — рӯйхат дертар бор мешавад');
+    console.warn('⏳ db нест — 1 сония интизор...');
     setTimeout(initAdminUsersList, 1000);
     return;
   }
 
-  console.log('👥 Рӯйхати корбарон бор мешавад...');
+  console.log('👥 Firebase мехонам: users / orderByChild(totalScore) / limitToLast(500)');
 
-  db.ref('users').on('value', snap => {
-    const users = [];
-    snap.forEach(child => {
-      const u = child.val();
-      if (u && u.id) {
-        users.push({ ...u, _key: child.key });
-      }
+  // ✅ Ҳамон усуле, ки дар рейтинг кор мекунад
+  db.ref('users')
+    .orderByChild('totalScore')
+    .limitToLast(500)
+    .on('value', snap => {
+      console.log('✅ Корбарон гирифта шуданд:', snap.numChildren());
+
+      const users = [];
+      snap.forEach(child => {
+        const u = child.val();
+        if (u && u.id) {
+          users.push({ ...u, _key: child.key });
+        }
+      });
+
+      // Сортировка: Premium аввал, баъд аз рӯи хол
+      users.sort((a, b) => {
+        const aPrem = a.isPremium && Date.now() < (a.premiumExpiresAt || 0) ? 1 : 0;
+        const bPrem = b.isPremium && Date.now() < (b.premiumExpiresAt || 0) ? 1 : 0;
+        if (aPrem !== bPrem) return bPrem - aPrem;
+        return (b.totalScore || 0) - (a.totalScore || 0);
+      });
+
+      allAdminUsers = users;
+      renderAdminUsersList(users);
+    }, err => {
+      console.error('❌ Admin users list error:', err);
+
+      // Fallback — аз localStorage
+      console.warn('⚠️ Fallback — аз localStorage');
+      const localUsers = Object.values(store.get('allUsers', {}))
+        .filter(u => u && u.id)
+        .map(u => ({ ...u, _key: String(u.id) }));
+
+      allAdminUsers = localUsers;
+      renderAdminUsersList(localUsers);
     });
-
-    // Сортировка: Premium аввал, баъд аз рӯи хол
-    users.sort((a, b) => {
-      const aPrem = a.isPremium && Date.now() < (a.premiumExpiresAt || 0) ? 1 : 0;
-      const bPrem = b.isPremium && Date.now() < (b.premiumExpiresAt || 0) ? 1 : 0;
-      if (aPrem !== bPrem) return bPrem - aPrem;
-      return (b.totalScore || 0) - (a.totalScore || 0);
-    });
-
-    allAdminUsers = users;
-    renderAdminUsersList(users);
-  }, err => {
-    console.error('❌ Users list error:', err);
-  });
 }
 
 function renderAdminUsersList(users) {
