@@ -5,6 +5,12 @@ const ADMIN_ID_LOCAL = 8406121228;
 const user_admin = window.Telegram?.WebApp?.initDataUnsafe?.user || {};
 const IS_ADMIN_LOCAL = Number(user_admin.id) === ADMIN_ID_LOCAL;
 
+console.log('🔍 ADMIN CHECK:', {
+  myId: user_admin.id,
+  adminId: ADMIN_ID_LOCAL,
+  isAdmin: IS_ADMIN_LOCAL
+});
+
 let currentOrders = [];
 let foundUser = null;
 
@@ -19,15 +25,24 @@ const ADMIN_PLANS = {
 // INIT
 // ============================================================
 function initAdminPanel() {
-  if (!IS_ADMIN_LOCAL) return;
+  console.log('🚀 initAdminPanel даъват шуд, IS_ADMIN_LOCAL =', IS_ADMIN_LOCAL);
+
+  if (!IS_ADMIN_LOCAL) {
+    console.warn('⛔ Шумо админ нестед — Admin Panel кор намекунад');
+    return;
+  }
 
   // Тугмаҳои амалҳои админ
-  document.querySelectorAll('[data-admin-action]').forEach(btn => {
+  const adminButtons = document.querySelectorAll('[data-admin-action]');
+  console.log('🔘 Тугмаҳои админ ёфт шуданд:', adminButtons.length);
+
+  adminButtons.forEach(btn => {
     btn.addEventListener('click', () => {
       const action = btn.dataset.adminAction;
+      console.log('👆 Тугма пахш шуд:', action);
 
       if (action === 'give-premium') {
-        const plan = document.getElementById('adminPlanSelect').value;
+        const plan = document.getElementById('adminPlanSelect')?.value || '1month';
         givePremiumSelf(plan);
       }
 
@@ -59,7 +74,12 @@ function initAdminPanel() {
   // User search
   const searchBtn = document.getElementById('adminSearchBtn');
   const searchInput = document.getElementById('adminUserSearch');
-  if (searchBtn) searchBtn.addEventListener('click', adminSearchUser);
+  if (searchBtn) {
+    searchBtn.addEventListener('click', adminSearchUser);
+    console.log('✅ Тугмаи ҷустуҷӯ пайваст шуд');
+  } else {
+    console.warn('⚠️ adminSearchBtn ёфт нашуд');
+  }
   if (searchInput) {
     searchInput.addEventListener('keydown', e => {
       if (e.key === 'Enter') adminSearchUser();
@@ -71,7 +91,7 @@ function initAdminPanel() {
 }
 
 // ============================================================
-// 🔎 USER SEARCH (бо ID ё @username)
+// 🔎 USER SEARCH
 // ============================================================
 async function adminSearchUser() {
   const query = (document.getElementById('adminUserSearch')?.value || '').trim();
@@ -186,7 +206,7 @@ function renderFoundUser(u, key) {
 }
 
 // ============================================================
-// ✅ GIVE PREMIUM (бо тӯҳфа)
+// ✅ GIVE PREMIUM TO USER
 // ============================================================
 async function adminGivePremiumToUser(userId) {
   const sel = document.getElementById('adminUserPlanSelect');
@@ -194,19 +214,11 @@ async function adminGivePremiumToUser(userId) {
   const plan = ADMIN_PLANS[planKey];
   if (!plan) return;
 
-  const isGift = confirm(
-    `Ба корбар ${userId} Premium дода шавад?\n\n` +
-    `Нақша: ${plan.label}\n` +
-    `Мӯҳлат: ${plan.days} рӯз\n\n` +
-    `OK = Ҳамчун ТӮҲФА (ройгон)\n` +
-    `Cancel = Бекор`
-  );
-  if (!isGift) return;
+  if (!confirm(`Ба корбар ${userId} Premium (${plan.label}) тӯҳфа дода шавад?`)) return;
 
   try {
     const expiresAt = Date.now() + plan.days * 86400000;
 
-    // 1. Premium-ро ба корбар медиҳем
     await db.ref('users/' + userId).update({
       isPremium: true,
       premiumPlan: planKey,
@@ -214,7 +226,6 @@ async function adminGivePremiumToUser(userId) {
       premiumExpiresAt: expiresAt
     });
 
-    // 2. Огоҳиномаи тӯҳфа мефиристем
     await db.ref('notifications/' + userId).push({
       type: 'premium_gifted',
       plan: planKey,
@@ -236,7 +247,7 @@ async function adminGivePremiumToUser(userId) {
 }
 
 // ============================================================
-// 🚫 REMOVE PREMIUM (бо тоза кардани cache)
+// 🚫 REMOVE PREMIUM
 // ============================================================
 async function adminRemovePremiumFromUser(userId) {
   if (!confirm(`Premium-и корбар ${userId} хомӯш карда шавад?`)) return;
@@ -468,4 +479,21 @@ function givePremiumSelf(planKey) {
   setTimeout(() => location.reload(), 800);
 }
 
-window.addEventListener('load', () => setTimeout(initAdminPanel, 2000));
+// ============================================================
+// ДУ БОР КӮШИШ — ҳам фавран, ҳам баъд аз 1 сония
+// ============================================================
+window.addEventListener('load', () => {
+  // Кӯшиши 1: фавран
+  setTimeout(initAdminPanel, 500);
+  // Кӯшиши 2: баъд аз 2 сония (эҳтиёт)
+  setTimeout(() => {
+    if (document.querySelectorAll('[data-admin-action]').length > 0) {
+      // Санҷед, ки оё аллакай пайваст шудааст
+      const btn = document.querySelector('[data-admin-action="give-premium"]');
+      if (btn && !btn.dataset.bound) {
+        console.log('🔄 Кӯшиши 2 — тугмаҳоро пайваст мекунам');
+        initAdminPanel();
+      }
+    }
+  }, 2000);
+});
