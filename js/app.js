@@ -1,7 +1,135 @@
 // ============================================================
 // APP VERSION
 // ============================================================
-const APP_VERSION = 10;
+const APP_VERSION = 11;
+
+// ============================================================
+// 📚 LESSONS — МАЪЛУМОТИ ДОХИЛӢ (ҳамеша кор мекунад!)
+// ============================================================
+const LESSONS_DATA = [
+  { id: 1,   title: 'Луғат 1: Асосҳо',     level: 'Ибтидоӣ',        free: true,  wordsCount: 8 },
+  { id: 2,   title: 'Луғат 2: Асосҳо',     level: 'Ибтидоӣ',        free: true,  wordsCount: 10 },
+  { id: 3,   title: 'Луғат 3: Асосҳо',     level: 'Ибтидоӣ',        free: true,  wordsCount: 12 },
+  { id: 4,   title: 'Луғат 4: Асосҳо',     level: 'Ибтидоӣ',        free: false, wordsCount: 18 },
+  { id: 5,   title: 'Луғат 5: Асосҳо',     level: 'Ибтидоӣ',        free: false, wordsCount: 18 },
+  { id: 6,   title: 'Луғат 6: Асосҳо',     level: 'Ибтидоӣ',        free: false, wordsCount: 20 },
+  { id: 7,   title: 'Луғат 7: Асосҳо',     level: 'Ибтидоӣ',        free: false, wordsCount: 22 },
+  { id: 8,   title: 'Луғат 8: Асосҳо',     level: 'Ибтидоӣ',        free: false, wordsCount: 24 },
+  { id: 9,   title: 'Луғат 9: Асосҳо',     level: 'Ибтидоӣ',        free: false, wordsCount: 26 },
+  { id: 10,  title: 'Луғат ва ибораҳо 10', level: 'Ибтидоӣ',        free: false, wordsCount: 28 },
+  { id: 11,  title: 'Луғат ва ибораҳо 11', level: 'Ибтидоӣ',        free: false, wordsCount: 30 },
+  { id: 12,  title: 'Луғат ва ибораҳо 12', level: 'Ибтидоӣ',        free: false, wordsCount: 32 },
+  { id: 13,  title: 'Луғат ва ибораҳо 13', level: 'Ибтидоӣ',        free: false, wordsCount: 34 },
+  { id: 14,  title: 'Луғат ва ибораҳо 14', level: 'Ибтидоӣ',        free: false, wordsCount: 36 },
+  { id: 15,  title: 'Луғат ва ибораҳо 15', level: 'Ибтидоӣ',        free: false, wordsCount: 38 },
+  { id: 16,  title: 'Луғат ва ибораҳо 16', level: 'Ибтидоӣ',        free: false, wordsCount: 40 },
+  { id: 17,  title: 'Луғат ва ибораҳо 17', level: 'Ибтидоӣ',        free: false, wordsCount: 42 },
+  { id: 18,  title: 'Луғат ва ибораҳо 18', level: 'Ибтидоӣ',        free: false, wordsCount: 44 },
+  { id: 19,  title: 'Луғат ва ибораҳо 19', level: 'Ибтидоӣ',        free: false, wordsCount: 46 },
+  { id: 20,  title: 'Луғат ва ибораҳо 20', level: 'Ибтидоӣ',        free: false, wordsCount: 48 },
+  { id: 21,  title: 'Матн ва машқҳо 21',   level: 'Миёна',          free: false, wordsCount: 20 },
+  { id: 22,  title: 'Матн ва машқҳо 22',   level: 'Миёна',          free: false, wordsCount: 20 },
+  { id: 23,  title: 'Матн ва машқҳо 23',   level: 'Миёна',          free: false, wordsCount: 21 },
+  { id: 24,  title: 'Матн ва машқҳо 24',   level: 'Миёна',          free: false, wordsCount: 21 },
+  { id: 25,  title: 'Матн ва машқҳо 25',   level: 'Миёна',          free: false, wordsCount: 22 },
+  { id: 26,  title: 'Матн ва машқҳо 26',   level: 'Миёна',          free: false, wordsCount: 22 },
+  { id: 27,  title: 'Матн ва машқҳо 27',   level: 'Миёна',          free: false, wordsCount: 23 },
+  { id: 28,  title: 'Матн ва машқҳо 28',   level: 'Миёна',          free: false, wordsCount: 23 },
+  { id: 29,  title: 'Матн ва машқҳо 29',   level: 'Миёна',          free: false, wordsCount: 24 },
+  { id: 30,  title: 'Матн ва машқҳо 30',   level: 'Миёна',          free: false, wordsCount: 24 },
+  { id: 31,  title: 'Матн ва машқҳо 31',   level: 'Миёна',          free: false, wordsCount: 25 },
+  { id: 32,  title: 'Матн ва машқҳо 32',   level: 'Миёна',          free: false, wordsCount: 25 },
+  { id: 33,  title: 'Матн ва машқҳо 33',   level: 'Миёна',          free: false, wordsCount: 26 },
+  { id: 34,  title: 'Матн ва машқҳо 34',   level: 'Миёна',          free: false, wordsCount: 26 },
+  { id: 35,  title: 'Матн ва машқҳо 35',   level: 'Миёна',          free: false, wordsCount: 27 },
+  { id: 36,  title: 'Матн ва машқҳо 36',   level: 'Миёна',          free: false, wordsCount: 27 },
+  { id: 37,  title: 'Матн ва машқҳо 37',   level: 'Миёна',          free: false, wordsCount: 28 },
+  { id: 38,  title: 'Матн ва машқҳо 38',   level: 'Миёна',          free: false, wordsCount: 28 },
+  { id: 39,  title: 'Матн ва машқҳо 39',   level: 'Миёна',          free: false, wordsCount: 29 },
+  { id: 40,  title: 'Матн ва машқҳо 40',   level: 'Миёна',          free: false, wordsCount: 29 },
+  { id: 41,  title: 'Матн ва машқҳо 41',   level: 'Миёна',          free: false, wordsCount: 30 },
+  { id: 42,  title: 'Матн ва машқҳо 42',   level: 'Миёна',          free: false, wordsCount: 30 },
+  { id: 43,  title: 'Матн ва машқҳо 43',   level: 'Миёна',          free: false, wordsCount: 31 },
+  { id: 44,  title: 'Матн ва машқҳо 44',   level: 'Миёна',          free: false, wordsCount: 31 },
+  { id: 45,  title: 'Матн ва машқҳо 45',   level: 'Миёна',          free: false, wordsCount: 32 },
+  { id: 46,  title: 'Матн ва машқҳо 46',   level: 'Миёна',          free: false, wordsCount: 32 },
+  { id: 47,  title: 'Матн ва машқҳо 47',   level: 'Миёна',          free: false, wordsCount: 33 },
+  { id: 48,  title: 'Матн ва машқҳо 48',   level: 'Миёна',          free: false, wordsCount: 33 },
+  { id: 49,  title: 'Матн ва машқҳо 49',   level: 'Миёна',          free: false, wordsCount: 34 },
+  { id: 50,  title: 'Матн ва машқҳо 50',   level: 'Миёна',          free: false, wordsCount: 34 },
+  { id: 51,  title: 'Муоширати воқеӣ 51',  level: 'Пешрафта',       free: false, wordsCount: 25 },
+  { id: 52,  title: 'Муоширати воқеӣ 52',  level: 'Пешрафта',       free: false, wordsCount: 25 },
+  { id: 53,  title: 'Муоширати воқеӣ 53',  level: 'Пешрафта',       free: false, wordsCount: 25 },
+  { id: 54,  title: 'Муоширати воқеӣ 54',  level: 'Пешрафта',       free: false, wordsCount: 26 },
+  { id: 55,  title: 'Муоширати воқеӣ 55',  level: 'Пешрафта',       free: false, wordsCount: 26 },
+  { id: 56,  title: 'Муоширати воқеӣ 56',  level: 'Пешрафта',       free: false, wordsCount: 26 },
+  { id: 57,  title: 'Муоширати воқеӣ 57',  level: 'Пешрафта',       free: false, wordsCount: 27 },
+  { id: 58,  title: 'Муоширати воқеӣ 58',  level: 'Пешрафта',       free: false, wordsCount: 27 },
+  { id: 59,  title: 'Муоширати воқеӣ 59',  level: 'Пешрафта',       free: false, wordsCount: 27 },
+  { id: 60,  title: 'Муоширати воқеӣ 60',  level: 'Пешрафта',       free: false, wordsCount: 28 },
+  { id: 61,  title: 'Муоширати воқеӣ 61',  level: 'Пешрафта',       free: false, wordsCount: 28 },
+  { id: 62,  title: 'Муоширати воқеӣ 62',  level: 'Пешрафта',       free: false, wordsCount: 28 },
+  { id: 63,  title: 'Муоширати воқеӣ 63',  level: 'Пешрафта',       free: false, wordsCount: 29 },
+  { id: 64,  title: 'Муоширати воқеӣ 64',  level: 'Пешрафта',       free: false, wordsCount: 29 },
+  { id: 65,  title: 'Муоширати воқеӣ 65',  level: 'Пешрафта',       free: false, wordsCount: 29 },
+  { id: 66,  title: 'Муоширати воқеӣ 66',  level: 'Пешрафта',       free: false, wordsCount: 30 },
+  { id: 67,  title: 'Муоширати воқеӣ 67',  level: 'Пешрафта',       free: false, wordsCount: 30 },
+  { id: 68,  title: 'Муоширати воқеӣ 68',  level: 'Пешрафта',       free: false, wordsCount: 30 },
+  { id: 69,  title: 'Муоширати воқеӣ 69',  level: 'Пешрафта',       free: false, wordsCount: 31 },
+  { id: 70,  title: 'Муоширати воқеӣ 70',  level: 'Пешрафта',       free: false, wordsCount: 31 },
+  { id: 71,  title: 'Муоширати воқеӣ 71',  level: 'Пешрафта',       free: false, wordsCount: 31 },
+  { id: 72,  title: 'Муоширати воқеӣ 72',  level: 'Пешрафта',       free: false, wordsCount: 32 },
+  { id: 73,  title: 'Муоширати воқеӣ 73',  level: 'Пешрафта',       free: false, wordsCount: 32 },
+  { id: 74,  title: 'Муоширати воқеӣ 74',  level: 'Пешрафта',       free: false, wordsCount: 32 },
+  { id: 75,  title: 'Муоширати воқеӣ 75',  level: 'Пешрафта',       free: false, wordsCount: 33 },
+  { id: 76,  title: 'Муоширати воқеӣ 76',  level: 'Пешрафта',       free: false, wordsCount: 33 },
+  { id: 77,  title: 'Муоширати воқеӣ 77',  level: 'Пешрафта',       free: false, wordsCount: 33 },
+  { id: 78,  title: 'Муоширати воқеӣ 78',  level: 'Пешрафта',       free: false, wordsCount: 34 },
+  { id: 79,  title: 'Муоширати воқеӣ 79',  level: 'Пешрафта',       free: false, wordsCount: 34 },
+  { id: 80,  title: 'Муоширати воқеӣ 80',  level: 'Пешрафта',       free: false, wordsCount: 34 },
+  { id: 81,  title: 'Муоширати воқеӣ 81',  level: 'Пешрафта',       free: false, wordsCount: 35 },
+  { id: 82,  title: 'Муоширати воқеӣ 82',  level: 'Пешрафта',       free: false, wordsCount: 35 },
+  { id: 83,  title: 'Муоширати воқеӣ 83',  level: 'Пешрафта',       free: false, wordsCount: 35 },
+  { id: 84,  title: 'Муоширати воқеӣ 84',  level: 'Пешрафта',       free: false, wordsCount: 36 },
+  { id: 85,  title: 'Муоширати воқеӣ 85',  level: 'Пешрафта',       free: false, wordsCount: 36 },
+  { id: 86,  title: 'Муоширати воқеӣ 86',  level: 'Пешрафта',       free: false, wordsCount: 36 },
+  { id: 87,  title: 'Муоширати воқеӣ 87',  level: 'Пешрафта',       free: false, wordsCount: 37 },
+  { id: 88,  title: 'Муоширати воқеӣ 88',  level: 'Пешрафта',       free: false, wordsCount: 37 },
+  { id: 89,  title: 'Муоширати воқеӣ 89',  level: 'Пешрафта',       free: false, wordsCount: 37 },
+  { id: 90,  title: 'Муоширати воқеӣ 90',  level: 'Пешрафта',       free: false, wordsCount: 38 },
+  { id: 91,  title: 'Муоширати воқеӣ 91',  level: 'Пешрафта',       free: false, wordsCount: 38 },
+  { id: 92,  title: 'Муоширати воқеӣ 92',  level: 'Пешрафта',       free: false, wordsCount: 38 },
+  { id: 93,  title: 'Муоширати воқеӣ 93',  level: 'Пешрафта',       free: false, wordsCount: 39 },
+  { id: 94,  title: 'Муоширати воқеӣ 94',  level: 'Пешрафта',       free: false, wordsCount: 39 },
+  { id: 95,  title: 'Муоширати воқеӣ 95',  level: 'Пешрафта',       free: false, wordsCount: 39 },
+  { id: 96,  title: 'Муоширати воқеӣ 96',  level: 'Пешрафта',       free: false, wordsCount: 40 },
+  { id: 97,  title: 'Муоширати воқеӣ 97',  level: 'Пешрафта',       free: false, wordsCount: 40 },
+  { id: 98,  title: 'Муоширати воқеӣ 98',  level: 'Пешрафта',       free: false, wordsCount: 40 },
+  { id: 99,  title: 'Муоширати воқеӣ 99',  level: 'Пешрафта',       free: false, wordsCount: 41 },
+  { id: 100, title: 'Муоширати воқеӣ 100', level: 'Пешрафта',       free: false, wordsCount: 41 },
+  { id: 101, title: 'Street Slang 101',     level: 'Street English', free: false, wordsCount: 41 },
+  { id: 102, title: 'Street Slang 102',     level: 'Street English', free: false, wordsCount: 42 },
+  { id: 103, title: 'Street Slang 103',     level: 'Street English', free: false, wordsCount: 42 },
+  { id: 104, title: 'Street Slang 104',     level: 'Street English', free: false, wordsCount: 42 },
+  { id: 105, title: 'Street Slang 105',     level: 'Street English', free: false, wordsCount: 43 },
+  { id: 106, title: 'Street Slang 106',     level: 'Street English', free: false, wordsCount: 43 },
+  { id: 107, title: 'Street Slang 107',     level: 'Street English', free: false, wordsCount: 43 },
+  { id: 108, title: 'Street Slang 108',     level: 'Street English', free: false, wordsCount: 44 },
+  { id: 109, title: 'Street Slang 109',     level: 'Street English', free: false, wordsCount: 44 },
+  { id: 110, title: 'Street Slang 110',     level: 'Street English', free: false, wordsCount: 44 },
+  { id: 111, title: 'Street Slang 111',     level: 'Street English', free: false, wordsCount: 45 },
+  { id: 112, title: 'Street Slang 112',     level: 'Street English', free: false, wordsCount: 45 },
+  { id: 113, title: 'Street Slang 113',     level: 'Street English', free: false, wordsCount: 45 },
+  { id: 114, title: 'Street Slang 114',     level: 'Street English', free: false, wordsCount: 46 },
+  { id: 115, title: 'Street Slang 115',     level: 'Street English', free: false, wordsCount: 46 },
+  { id: 116, title: 'Street Slang 116',     level: 'Street English', free: false, wordsCount: 46 },
+  { id: 117, title: 'Street Slang 117',     level: 'Street English', free: false, wordsCount: 47 },
+  { id: 118, title: 'Street Slang 118',     level: 'Street English', free: false, wordsCount: 47 },
+  { id: 119, title: 'Street Slang 119',     level: 'Street English', free: false, wordsCount: 47 },
+  { id: 120, title: 'Street Slang 120',     level: 'Street English', free: false, wordsCount: 48 }
+];
+
+let LESSONS = LESSONS_DATA.slice();
 
 // ============================================================
 // TELEGRAM
@@ -55,7 +183,7 @@ const PREMIUM_PLANS = {
 };
 
 // ============================================================
-// 🔓 PREMIUM
+// PREMIUM
 // ============================================================
 function isPremiumActive() {
   return premium.active && Date.now() < (premium.expiresAt || 0);
@@ -106,11 +234,10 @@ function markPremiumUnlocked(id) {
 }
 
 // ============================================================
-// 🎯 APPLY PREMIUM DATA
+// APPLY PREMIUM
 // ============================================================
 function applyPremiumData(data, showPopup) {
   if (!data) return;
-
   const wasActive = isPremiumActive();
 
   if (data.isPremium && data.premiumExpiresAt && Date.now() < data.premiumExpiresAt) {
@@ -121,7 +248,6 @@ function applyPremiumData(data, showPopup) {
       expiresAt: data.premiumExpiresAt
     };
     store.set('premium', premium);
-    console.log('👑 Premium фаъол:', data.premiumPlan);
 
     if (!wasActive && showPopup) {
       const key = 'premium_popup_' + data.premiumExpiresAt;
@@ -144,7 +270,6 @@ function applyPremiumData(data, showPopup) {
     if (premium.active) {
       premium = { active: false, plan: null, startedAt: null, expiresAt: null };
       store.set('premium', premium);
-      console.log('❌ Premium хомӯш шуд');
       refreshPremiumUI();
     }
   }
@@ -158,61 +283,63 @@ function refreshPremiumUI() {
     updateStats();
     renderContinueLessons();
     syncMyUser();
-  } catch (e) {
-    console.warn('UI refresh error:', e);
-  }
+  } catch (e) {}
 }
 
 // ============================================================
-// 🎧 PREMIUM SYNC
+// PREMIUM SYNC (Firebase ихтиёрӣ)
 // ============================================================
 function initPremiumSync() {
   if (!user.id) return;
+  if (typeof db === 'undefined' || !db) return;
 
-  if (typeof db !== 'undefined' && db) {
+  try {
     db.ref('users/' + user.id).once('value')
       .then(snap => {
         const data = snap.val();
         if (data) applyPremiumData(data, false);
       })
-      .catch(e => console.warn('Premium once error:', e));
-  }
+      .catch(() => {});
+  } catch (e) {}
 
-  if (typeof listenMyPremiumFromFirebase !== 'function') return;
-  listenMyPremiumFromFirebase(user.id, data => {
-    applyPremiumData(data, true);
-  });
+  if (typeof listenMyPremiumFromFirebase === 'function') {
+    try {
+      listenMyPremiumFromFirebase(user.id, data => applyPremiumData(data, true));
+    } catch (e) {}
+  }
 }
 
 // ============================================================
-// 🔔 NOTIFICATIONS
+// NOTIFICATIONS
 // ============================================================
 function initNotificationsListener() {
   if (!user.id) return;
   if (typeof listenMyNotifications !== 'function') return;
 
-  listenMyNotifications(user.id, notif => {
-    const key = 'notif_shown_' + notif.id;
-    if (localStorage.getItem(key)) return;
-    localStorage.setItem(key, '1');
+  try {
+    listenMyNotifications(user.id, notif => {
+      const key = 'notif_shown_' + notif.id;
+      if (localStorage.getItem(key)) return;
+      localStorage.setItem(key, '1');
 
-    if (notif.type === 'premium_rejected') {
-      showToast('❌ Фармоиш рад шуд');
-      if (tg) tg.showPopup({ title: '❌ Фармоиш рад шуд', message: `Сабаб: ${notif.reason || '—'}`, buttons: [{ type: 'close' }] });
-    }
-    if (notif.type === 'premium_revoked') {
-      showToast('👑 Premium гирифта шуд');
-      if (tg) {
-        tg.HapticFeedback?.notificationOccurred('warning');
-        tg.showPopup({ title: '👑 Premium гирифта шуд', message: 'Premium-и шумо аз ҷониби админ гирифта шуд.', buttons: [{ type: 'close' }] });
+      if (notif.type === 'premium_rejected') {
+        showToast('❌ Фармоиш рад шуд');
+        if (tg) tg.showPopup({ title: '❌ Фармоиш рад шуд', message: `Сабаб: ${notif.reason || '—'}`, buttons: [{ type: 'close' }] });
       }
-    }
-    if (notif.type === 'premium_approved') showToast('🎉 Premium фаъол шуд!');
+      if (notif.type === 'premium_revoked') {
+        showToast('👑 Premium гирифта шуд');
+        if (tg) {
+          tg.HapticFeedback?.notificationOccurred('warning');
+          tg.showPopup({ title: '👑 Premium гирифта шуд', message: 'Premium-и шумо аз ҷониби админ гирифта шуд.', buttons: [{ type: 'close' }] });
+        }
+      }
+      if (notif.type === 'premium_approved') showToast('🎉 Premium фаъол шуд!');
 
-    if (db && user.id && notif.id) {
-      db.ref(`notifications/${user.id}/${notif.id}`).update({ read: true }).catch(() => {});
-    }
-  });
+      if (typeof db !== 'undefined' && db && user.id && notif.id) {
+        db.ref(`notifications/${user.id}/${notif.id}`).update({ read: true }).catch(() => {});
+      }
+    });
+  } catch (e) {}
 }
 
 // ============================================================
@@ -243,7 +370,9 @@ function syncMyUser() {
     isAdmin: IS_ADMIN
   };
 
-  if (typeof saveUserToFirebase === 'function') saveUserToFirebase(myData);
+  if (typeof saveUserToFirebase === 'function') {
+    try { saveUserToFirebase(myData); } catch (e) {}
+  }
 
   allUsers[user.id] = { ...myData, lastActive: Date.now() };
   store.set('allUsers', allUsers);
@@ -261,126 +390,55 @@ window.addEventListener('load', () => {
 });
 
 async function initApp() {
-  if (IS_ADMIN) {
-    document.querySelectorAll('.admin-only').forEach(el => el.style.display = 'flex');
-  }
-
-  const name = user.first_name || 'Корбар';
-  const userNameEl = document.getElementById('userName');
-  const profileNameEl = document.getElementById('profileName');
-  if (userNameEl) userNameEl.textContent = name;
-  if (profileNameEl) profileNameEl.textContent = name;
-
-  renderAvatar();
-  syncMyUser();
-
-  await loadManifest();
-  renderAll();
-
-  initPremiumSync();
-  initNotificationsListener();
-
-  document.querySelectorAll('.nav-btn').forEach(btn => {
-    btn.addEventListener('click', () => navigateTo(btn.dataset.target));
-  });
-
-  document.querySelectorAll('.filters .filter-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('.filters .filter-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      renderLessons(btn.dataset.filter);
-    });
-  });
-
-  document.querySelectorAll('.rating-filters .filter-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('.rating-filters .filter-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      renderRating(btn.dataset.rating);
-    });
-  });
-
-  document.getElementById('themeToggle')?.addEventListener('click', toggleTheme);
-  initSettings();
-
-  if (tg) tg.HapticFeedback?.impactOccurred('light');
-}
-
-// ============================================================
-// MANIFEST — БО 4 РОҲ ВА FALLBACK
-// ============================================================
-let LESSONS = [];
-
-const FALLBACK_LESSONS = [
-  { id: 1,   title: 'Луғат 1: Асосҳо',     level: 'Ибтидоӣ', free: true,  wordsCount: 8 },
-  { id: 2,   title: 'Луғат 2: Асосҳо',     level: 'Ибтидоӣ', free: true,  wordsCount: 10 },
-  { id: 3,   title: 'Луғат 3: Асосҳо',     level: 'Ибтидоӣ', free: true,  wordsCount: 12 },
-  { id: 4,   title: 'Луғат 4: Асосҳо',     level: 'Ибтидоӣ', free: false, wordsCount: 18 },
-  { id: 5,   title: 'Луғат 5: Асосҳо',     level: 'Ибтидоӣ', free: false, wordsCount: 18 },
-  { id: 6,   title: 'Луғат 6: Асосҳо',     level: 'Ибтидоӣ', free: false, wordsCount: 20 },
-  { id: 7,   title: 'Луғат 7: Асосҳо',     level: 'Ибтидоӣ', free: false, wordsCount: 22 },
-  { id: 8,   title: 'Луғат 8: Асосҳо',     level: 'Ибтидоӣ', free: false, wordsCount: 24 },
-  { id: 9,   title: 'Луғат 9: Асосҳо',     level: 'Ибтидоӣ', free: false, wordsCount: 26 },
-  { id: 10,  title: 'Луғат ва ибораҳо 10', level: 'Ибтидоӣ', free: false, wordsCount: 28 },
-  { id: 11,  title: 'Луғат ва ибораҳо 11', level: 'Ибтидоӣ', free: false, wordsCount: 30 },
-  { id: 12,  title: 'Луғат ва ибораҳо 12', level: 'Ибтидоӣ', free: false, wordsCount: 32 }
-];
-
-async function loadManifest() {
-  console.log('📦 loadManifest started');
-
-  const paths = [
-    'data/manifest.json',
-    './data/manifest.json',
-    '/data/manifest.json',
-    'manifest.json'
-  ];
-
-  for (const path of paths) {
-    try {
-      const url = path + '?t=' + Date.now();
-      console.log('📦 Trying:', url);
-
-      const r = await fetch(url, {
-        cache: 'no-store',
-        headers: { 'Cache-Control': 'no-cache' }
-      });
-
-      console.log('📦 Status:', r.status, path);
-
-      if (!r.ok) continue;
-
-      const data = await r.json();
-
-      if (data && Array.isArray(data.lessons) && data.lessons.length > 0) {
-        LESSONS = data.lessons;
-        console.log('✅ Manifest loaded:', LESSONS.length, 'lessons from', path);
-        return;
-      }
-    } catch (e) {
-      console.warn('❌ Failed:', path, e.message);
+  try {
+    if (IS_ADMIN) {
+      document.querySelectorAll('.admin-only').forEach(el => el.style.display = 'flex');
     }
+
+    const name = user.first_name || 'Корбар';
+    const userNameEl = document.getElementById('userName');
+    const profileNameEl = document.getElementById('profileName');
+    if (userNameEl) userNameEl.textContent = name;
+    if (profileNameEl) profileNameEl.textContent = name;
+
+    renderAvatar();
+    syncMyUser();
+    renderAll();
+
+    // Firebase sync (ихтиёрӣ — агар кор кунад)
+    initPremiumSync();
+    initNotificationsListener();
+
+    // Nav events
+    document.querySelectorAll('.nav-btn').forEach(btn => {
+      btn.addEventListener('click', () => navigateTo(btn.dataset.target));
+    });
+
+    document.querySelectorAll('.filters .filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.filters .filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        renderLessons(btn.dataset.filter);
+      });
+    });
+
+    document.querySelectorAll('.rating-filters .filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.rating-filters .filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        renderRating(btn.dataset.rating);
+      });
+    });
+
+    document.getElementById('themeToggle')?.addEventListener('click', toggleTheme);
+    initSettings();
+
+    if (tg) tg.HapticFeedback?.impactOccurred('light');
+
+    console.log('✅ app.js v11 — омода. LESSONS:', LESSONS.length);
+  } catch (e) {
+    console.error('❌ initApp error:', e);
   }
-
-  // Fallback
-  console.error('❌ Ҳамаи роҳҳо кор накарданд — fallback');
-  LESSONS = FALLBACK_LESSONS;
-  showToast('⚠️ Дарсҳо аз захира бор шуданд');
-
-  // Кӯшиши дубора баъд аз 3 сония
-  setTimeout(async () => {
-    try {
-      const r = await fetch('data/manifest.json?t=' + Date.now(), { cache: 'no-store' });
-      if (r.ok) {
-        const data = await r.json();
-        if (data?.lessons?.length > 0) {
-          LESSONS = data.lessons;
-          console.log('✅ Retry successful:', LESSONS.length);
-          renderAll();
-        }
-      }
-    } catch (e) {}
-  }, 3000);
 }
 
 // ============================================================
@@ -414,16 +472,6 @@ function renderContinueLessons() {
   const container = document.getElementById('continueLessons');
   if (!container) return;
 
-  if (!LESSONS.length) {
-    container.innerHTML = `<div class="lesson-card" style="justify-content:center;text-align:center">
-      <div class="lesson-info">
-        <h4>Дарсҳо бор мешаванд...</h4>
-        <p>Лутфан интизор шавед</p>
-      </div>
-    </div>`;
-    return;
-  }
-
   const next = LESSONS.find(l => isLessonUnlocked(l.id) && !progress.completedLessons.includes(l.id));
 
   if (!next) {
@@ -440,16 +488,6 @@ function renderContinueLessons() {
 function renderLessons(filter = 'all') {
   const grid = document.getElementById('lessonsGrid');
   if (!grid) return;
-
-  if (!LESSONS.length) {
-    grid.innerHTML = `
-      <div class="empty-state">
-        <div class="empty-icon"><svg class="icon icon-2xl"><use href="#i-book"/></svg></div>
-        <h3>Дарсҳо бор мешаванд...</h3>
-        <p>Лутфан интизор шавед</p>
-      </div>`;
-    return;
-  }
 
   let list = LESSONS;
   if (filter !== 'all') {
@@ -732,11 +770,13 @@ function getInitial(name) { return (name || 'U').trim().charAt(0).toUpperCase();
 
 function showUserInfo(userId) {
   if (typeof fetchUserFromFirebase === 'function') {
-    fetchUserFromFirebase(userId, u => { if (u) showUserPopup(u); });
-  } else {
-    const u = allUsers[userId];
-    if (u) showUserPopup(u);
+    try {
+      fetchUserFromFirebase(userId, u => { if (u) showUserPopup(u); });
+      return;
+    } catch (e) {}
   }
+  const u = allUsers[userId];
+  if (u) showUserPopup(u);
 }
 
 function showUserPopup(u) {
@@ -1118,4 +1158,4 @@ function renderAdmin() {
   else renderList(getLocalRatingList('all', 100));
 }
 
-console.log('📦 app.js v10 бор шуд');
+console.log('📦 app.js v11 бор шуд — LESSONS:', LESSONS.length);
