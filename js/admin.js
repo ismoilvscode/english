@@ -14,6 +14,7 @@ console.log('🔍 ADMIN CHECK:', {
 let currentOrders = [];
 let foundUser = null;
 let allAdminUsers = [];
+let adminUsersListener = null;
 
 const ADMIN_PLANS = {
   '1day':   { label: '1 рӯз',   price: 4,    days: 1 },
@@ -38,7 +39,6 @@ function initAdminPanel() {
   console.log('🔘 Тугмаҳои админ ёфт шуданд:', adminButtons.length);
 
   adminButtons.forEach(btn => {
-    // Аз дубора пайваст шудан ҷилавгирӣ мекунем
     if (btn.dataset.bound === '1') return;
     btn.dataset.bound = '1';
 
@@ -105,9 +105,6 @@ function initAdminPanel() {
 // ============================================================
 // 👥 РӮЙХАТИ ҲАМАИ КОРБАРОН
 // ============================================================
-// ============================================================
-// 👥 РӮЙХАТИ ҲАМАИ КОРБАРОН
-// ============================================================
 function initAdminUsersList() {
   console.log('🚀 initAdminUsersList даъват шуд');
   console.log('   IS_ADMIN_LOCAL:', IS_ADMIN_LOCAL);
@@ -124,10 +121,20 @@ function initAdminUsersList() {
     return;
   }
 
-  console.log('👥 Firebase мехонам: users / orderByChild(totalScore) / limitToLast(500)');
+  // Аз байн бардоштани listener-и кӯҳна
+  if (adminUsersListener) {
+    try {
+      db.ref('users').off('value', adminUsersListener);
+    } catch (e) {
+      console.warn('Listener off error:', e);
+    }
+    adminUsersListener = null;
+  }
 
-  // ✅ Ҳамон усуле, ки дар рейтинг кор мекунад
-  db.ref('users')
+  console.log('👥 Firebase мехонам: users (бо orderByChild)');
+
+  // ✅ УСУЛИ 1: orderByChild (ҳамон усуле, ки дар рейтинг кор мекунад)
+  adminUsersListener = db.ref('users')
     .orderByChild('totalScore')
     .limitToLast(500)
     .on('value', snap => {
@@ -152,10 +159,47 @@ function initAdminUsersList() {
       allAdminUsers = users;
       renderAdminUsersList(users);
     }, err => {
-      console.error('❌ Admin users list error:', err);
+      console.error('❌ Admin users list error (orderByChild):', err);
+      console.warn('⚠️ Кӯшиши 2 — бе orderByChild');
 
-      // Fallback — аз localStorage
-      console.warn('⚠️ Fallback — аз localStorage');
+      // ✅ УСУЛИ 2: бе orderByChild (агар аввалӣ кор накунад)
+      loadUsersFallback();
+    });
+}
+
+// ============================================================
+// FALLBACK — ХОНИШИ КОРБАРОН БЕ orderByChild
+// ============================================================
+function loadUsersFallback() {
+  if (typeof db === 'undefined' || !db) return;
+
+  db.ref('users').once('value')
+    .then(snap => {
+      console.log('✅ Fallback: корбарон гирифта шуданд:', snap.numChildren());
+
+      const users = [];
+      snap.forEach(child => {
+        const u = child.val();
+        if (u && u.id) {
+          users.push({ ...u, _key: child.key });
+        }
+      });
+
+      users.sort((a, b) => {
+        const aPrem = a.isPremium && Date.now() < (a.premiumExpiresAt || 0) ? 1 : 0;
+        const bPrem = b.isPremium && Date.now() < (b.premiumExpiresAt || 0) ? 1 : 0;
+        if (aPrem !== bPrem) return bPrem - aPrem;
+        return (b.totalScore || 0) - (a.totalScore || 0);
+      });
+
+      allAdminUsers = users;
+      renderAdminUsersList(users);
+    })
+    .catch(err => {
+      console.error('❌ Fallback error:', err);
+      console.warn('⚠️ Кӯшиши 3 — аз localStorage');
+
+      // ✅ УСУЛИ 3: localStorage (охирин fallback)
       const localUsers = Object.values(store.get('allUsers', {}))
         .filter(u => u && u.id)
         .map(u => ({ ...u, _key: String(u.id) }));
@@ -225,7 +269,6 @@ function adminOpenUser(userId) {
   const result = document.getElementById('adminUserResult');
   if (!result) return;
 
-  // Скролл ба боло, то корбар натиҷаро бинад
   result.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
   renderFoundUser(u, u._key);
 }
@@ -262,7 +305,19 @@ async function adminSearchUser() {
       }
     }
 
-    // 2. Ҳамчун @username
+    // 2. Ҳамчун @username — аз рӯйхати аллакай боршуда
+    if (!userData && allAdminUsers.length > 0) {
+      const cleanUsername = query.replace(/^@/, '').toLowerCase();
+      const found = allAdminUsers.find(u =>
+        u.username && String(u.username).toLowerCase() === cleanUsername
+      );
+      if (found) {
+        userData = found;
+        foundKey = found._key;
+      }
+    }
+
+    // 3. Ҳамчун @username — аз Firebase (агар дар рӯйхат набошад)
     if (!userData) {
       const cleanUsername = query.replace(/^@/, '').toLowerCase();
       const snap = await db.ref('users').once('value');
@@ -390,8 +445,7 @@ async function adminGivePremiumToUser(userId) {
     setTimeout(() => {
       const updated = allAdminUsers.find(x => String(x._key) === String(userId));
       if (updated) renderFoundUser(updated, userId);
-      else adminSearchUser();
-    }, 500);
+    }, 600);
   } catch (e) {
     console.error(e);
     alert('Хато: ' + e.message);
@@ -424,8 +478,7 @@ async function adminRemovePremiumFromUser(userId) {
     setTimeout(() => {
       const updated = allAdminUsers.find(x => String(x._key) === String(userId));
       if (updated) renderFoundUser(updated, userId);
-      else adminSearchUser();
-    }, 500);
+    }, 600);
   } catch (e) {
     console.error(e);
     alert('Хато: ' + e.message);
