@@ -21,6 +21,7 @@ const ADMIN_PLANS = {
 function initAdminPanel() {
   if (!IS_ADMIN_LOCAL) return;
 
+  // Тугмаҳои амалҳои админ
   document.querySelectorAll('[data-admin-action]').forEach(btn => {
     btn.addEventListener('click', () => {
       const action = btn.dataset.adminAction;
@@ -29,6 +30,7 @@ function initAdminPanel() {
         const plan = document.getElementById('adminPlanSelect').value;
         givePremiumSelf(plan);
       }
+
       if (action === 'unlock-all') {
         if (confirm('Ҳамаи дарсҳоро кушоем?')) {
           const progress = store.get('progress', { completedLessons: [], testScores: {} });
@@ -37,12 +39,14 @@ function initAdminPanel() {
           location.reload();
         }
       }
+
       if (action === 'reset-progress') {
         if (confirm('Пешрафт нест карда шавад?')) {
           store.set('progress', { completedLessons: [], testScores: {}, streak: 0 });
           location.reload();
         }
       }
+
       if (action === 'reset-premium') {
         store.set('premium', { active: false });
         store.set('premiumUnlockedLessons', []);
@@ -53,17 +57,21 @@ function initAdminPanel() {
   });
 
   // User search
-  document.getElementById('adminSearchBtn')?.addEventListener('click', adminSearchUser);
-  document.getElementById('adminUserSearch')?.addEventListener('keydown', e => {
-    if (e.key === 'Enter') adminSearchUser();
-  });
+  const searchBtn = document.getElementById('adminSearchBtn');
+  const searchInput = document.getElementById('adminUserSearch');
+  if (searchBtn) searchBtn.addEventListener('click', adminSearchUser);
+  if (searchInput) {
+    searchInput.addEventListener('keydown', e => {
+      if (e.key === 'Enter') adminSearchUser();
+    });
+  }
 
   startOrdersListener();
   console.log('✅ Admin Panel омода');
 }
 
 // ============================================================
-// USER SEARCH
+// 🔎 USER SEARCH (бо ID ё @username)
 // ============================================================
 async function adminSearchUser() {
   const query = (document.getElementById('adminUserSearch')?.value || '').trim();
@@ -73,7 +81,7 @@ async function adminSearchUser() {
   if (!query) { showToast('ID ё @username нависед'); return; }
 
   if (typeof db === 'undefined' || !db) {
-    result.innerHTML = `<div style="text-align:center;padding:16px;color:#ef4444;font-size:12px">Firebase пайваст нест</div>`;
+    result.innerHTML = `<div style="text-align:center;padding:16px;color:#ef4444;font-size:12px">❌ Firebase пайваст нест</div>`;
     return;
   }
 
@@ -108,7 +116,7 @@ async function adminSearchUser() {
     }
 
     if (!userData) {
-      result.innerHTML = `<div style="text-align:center;padding:16px;color:#ef4444;font-size:12px">❌ Корбар ёфт нашуд</div>`;
+      result.innerHTML = `<div style="text-align:center;padding:16px;color:#ef4444;font-size:12px">❌ Корбар ёфт нашуд<br><span style="font-size:10px;color:var(--text-2)">Танҳо корбароне, ки барномаро кушодаанд</span></div>`;
       return;
     }
 
@@ -163,7 +171,7 @@ function renderFoundUser(u, key) {
           </select>
           <button onclick="adminGivePremiumToUser('${key}')"
             style="padding:12px 16px;background:linear-gradient(135deg,#10b981,#059669);color:#fff;border:none;border-radius:12px;font-weight:700;font-size:13px;cursor:pointer;font-family:inherit;white-space:nowrap">
-            ✅ ${isPrem ? 'Дароз кардан' : 'Додан'}
+            ${isPrem ? '🔄 Дароз' : '✅ Додан'}
           </button>
         </div>
         ${isPrem ? `
@@ -178,7 +186,7 @@ function renderFoundUser(u, key) {
 }
 
 // ============================================================
-// GIVE PREMIUM (ба корбари дигар)
+// ✅ GIVE PREMIUM (бо тӯҳфа)
 // ============================================================
 async function adminGivePremiumToUser(userId) {
   const sel = document.getElementById('adminUserPlanSelect');
@@ -186,11 +194,19 @@ async function adminGivePremiumToUser(userId) {
   const plan = ADMIN_PLANS[planKey];
   if (!plan) return;
 
-  if (!confirm(`Ба корбар ${userId} Premium (${plan.label}) дода шавад?`)) return;
+  const isGift = confirm(
+    `Ба корбар ${userId} Premium дода шавад?\n\n` +
+    `Нақша: ${plan.label}\n` +
+    `Мӯҳлат: ${plan.days} рӯз\n\n` +
+    `OK = Ҳамчун ТӮҲФА (ройгон)\n` +
+    `Cancel = Бекор`
+  );
+  if (!isGift) return;
 
   try {
     const expiresAt = Date.now() + plan.days * 86400000;
 
+    // 1. Premium-ро ба корбар медиҳем
     await db.ref('users/' + userId).update({
       isPremium: true,
       premiumPlan: planKey,
@@ -198,6 +214,7 @@ async function adminGivePremiumToUser(userId) {
       premiumExpiresAt: expiresAt
     });
 
+    // 2. Огоҳиномаи тӯҳфа мефиристем
     await db.ref('notifications/' + userId).push({
       type: 'premium_gifted',
       plan: planKey,
@@ -208,7 +225,7 @@ async function adminGivePremiumToUser(userId) {
       read: false
     });
 
-    showToast(`🎁 Premium дода шуд (${plan.label})`);
+    showToast(`🎁 Premium тӯҳфа дода шуд (${plan.label})`);
     window.Telegram?.WebApp?.HapticFeedback?.notificationOccurred('success');
 
     setTimeout(adminSearchUser, 500);
@@ -219,7 +236,7 @@ async function adminGivePremiumToUser(userId) {
 }
 
 // ============================================================
-// REMOVE PREMIUM (аз корбари дигар)
+// 🚫 REMOVE PREMIUM (бо тоза кардани cache)
 // ============================================================
 async function adminRemovePremiumFromUser(userId) {
   if (!confirm(`Premium-и корбар ${userId} хомӯш карда шавад?`)) return;
@@ -256,16 +273,21 @@ function startOrdersListener() {
     setTimeout(startOrdersListener, 1000);
     return;
   }
+
   db.ref('premium_orders').on('value', snap => {
     const orders = [];
     snap.forEach(child => {
       const val = child.val();
-      if (val && val.status === 'pending') orders.push({ id: child.key, ...val });
+      if (val && val.status === 'pending') {
+        orders.push({ id: child.key, ...val });
+      }
     });
     orders.sort((a, b) => (b.createdAt || 0) - (a.createdAt || 0));
     currentOrders = orders;
     renderPremiumOrders(orders);
-  }, err => console.error('Orders listener error:', err));
+  }, err => {
+    console.error('Orders listener error:', err);
+  });
 }
 
 function renderPremiumOrders(orders) {
@@ -357,7 +379,7 @@ function viewPhotoFull(orderId) {
 }
 
 // ============================================================
-// APPROVE
+// APPROVE ORDER
 // ============================================================
 async function approveOrder(orderId, userId, plan, days) {
   if (!confirm(`Қабули фармоиш?\nКорбар ID: ${userId}\nНақша: ${plan} (${days} рӯз)`)) return;
@@ -396,7 +418,7 @@ async function approveOrder(orderId, userId, plan, days) {
 }
 
 // ============================================================
-// REJECT
+// REJECT ORDER
 // ============================================================
 async function rejectOrder(orderId, userId) {
   const reason = prompt('Сабаби радкунӣ:', 'Скриншот нодуруст');
