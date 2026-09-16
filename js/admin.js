@@ -13,6 +13,7 @@ console.log('🔍 ADMIN CHECK:', {
 
 let currentOrders = [];
 let foundUser = null;
+let allAdminUsers = [];
 
 const ADMIN_PLANS = {
   '1day':   { label: '1 рӯз',   price: 4,    days: 1 },
@@ -28,15 +29,19 @@ function initAdminPanel() {
   console.log('🚀 initAdminPanel даъват шуд, IS_ADMIN_LOCAL =', IS_ADMIN_LOCAL);
 
   if (!IS_ADMIN_LOCAL) {
-    console.warn('⛔ Шумо админ нестед — Admin Panel кор намекунад');
+    console.warn('⛔ Шумо админ нестед');
     return;
   }
 
-  // Тугмаҳои амалҳои админ
+  // --- Тугмаҳои амалҳои админ ---
   const adminButtons = document.querySelectorAll('[data-admin-action]');
   console.log('🔘 Тугмаҳои админ ёфт шуданд:', adminButtons.length);
 
   adminButtons.forEach(btn => {
+    // Аз дубора пайваст шудан ҷилавгирӣ мекунем
+    if (btn.dataset.bound === '1') return;
+    btn.dataset.bound = '1';
+
     btn.addEventListener('click', () => {
       const action = btn.dataset.adminAction;
       console.log('👆 Тугма пахш шуд:', action);
@@ -71,27 +76,137 @@ function initAdminPanel() {
     });
   });
 
-  // User search
+  // --- User Search ---
   const searchBtn = document.getElementById('adminSearchBtn');
   const searchInput = document.getElementById('adminUserSearch');
-  if (searchBtn) {
+
+  if (searchBtn && searchBtn.dataset.bound !== '1') {
+    searchBtn.dataset.bound = '1';
     searchBtn.addEventListener('click', adminSearchUser);
     console.log('✅ Тугмаи ҷустуҷӯ пайваст шуд');
-  } else {
-    console.warn('⚠️ adminSearchBtn ёфт нашуд');
   }
-  if (searchInput) {
+
+  if (searchInput && searchInput.dataset.bound !== '1') {
+    searchInput.dataset.bound = '1';
     searchInput.addEventListener('keydown', e => {
       if (e.key === 'Enter') adminSearchUser();
     });
   }
 
+  // --- Рӯйхати ҳамаи корбарон ---
+  initAdminUsersList();
+
+  // --- Orders Listener ---
   startOrdersListener();
+
   console.log('✅ Admin Panel омода');
 }
 
 // ============================================================
-// 🔎 USER SEARCH
+// 👥 РӮЙХАТИ ҲАМАИ КОРБАРОН
+// ============================================================
+function initAdminUsersList() {
+  if (!IS_ADMIN_LOCAL) return;
+
+  if (typeof db === 'undefined' || !db) {
+    console.warn('⚠️ Firebase нест — рӯйхат дертар бор мешавад');
+    setTimeout(initAdminUsersList, 1000);
+    return;
+  }
+
+  console.log('👥 Рӯйхати корбарон бор мешавад...');
+
+  db.ref('users').on('value', snap => {
+    const users = [];
+    snap.forEach(child => {
+      const u = child.val();
+      if (u && u.id) {
+        users.push({ ...u, _key: child.key });
+      }
+    });
+
+    // Сортировка: Premium аввал, баъд аз рӯи хол
+    users.sort((a, b) => {
+      const aPrem = a.isPremium && Date.now() < (a.premiumExpiresAt || 0) ? 1 : 0;
+      const bPrem = b.isPremium && Date.now() < (b.premiumExpiresAt || 0) ? 1 : 0;
+      if (aPrem !== bPrem) return bPrem - aPrem;
+      return (b.totalScore || 0) - (a.totalScore || 0);
+    });
+
+    allAdminUsers = users;
+    renderAdminUsersList(users);
+  }, err => {
+    console.error('❌ Users list error:', err);
+  });
+}
+
+function renderAdminUsersList(users) {
+  const container = document.getElementById('adminUsersList');
+  const countEl = document.getElementById('adminUsersCount');
+  if (!container) return;
+
+  if (countEl) countEl.textContent = users.length;
+
+  if (!users || users.length === 0) {
+    container.innerHTML = `
+      <div style="text-align:center;padding:30px 20px;color:var(--text-2);font-size:12px">
+        <div style="font-size:40px;margin-bottom:8px">👤</div>
+        Ҳоло корбар нест
+      </div>`;
+    return;
+  }
+
+  container.innerHTML = users.map(u => adminUserRowHTML(u)).join('');
+}
+
+function adminUserRowHTML(u) {
+  const isPrem = u.isPremium && Date.now() < (u.premiumExpiresAt || 0);
+  const initial = (u.name || 'U').trim().charAt(0).toUpperCase();
+  const photo = u.photo
+    ? `<img src="${u.photo}" referrerpolicy="no-referrer" style="width:100%;height:100%;object-fit:cover;border-radius:12px" onerror="this.parentElement.innerHTML='<span class=\\'avatar-letter\\'>${initial}</span>'">`
+    : `<span class="avatar-letter">${initial}</span>`;
+
+  return `
+    <div class="admin-user-row" onclick="adminOpenUser('${u._key}')">
+      <div class="admin-user-avatar">
+        ${photo}
+      </div>
+      <div class="admin-user-info">
+        <div class="admin-user-name">
+          ${escapeHtmlLocal(u.name || 'Корбар')}
+          ${isPrem ? '<span title="Premium">👑</span>' : ''}
+          ${u.isAdmin ? '<span title="Admin">🛡</span>' : ''}
+        </div>
+        <div class="admin-user-meta">
+          ID: ${u.id} · ${u.lessonsCount || 0} дарс · ${u.totalScore || 0} хол
+        </div>
+      </div>
+      <div class="admin-user-action">
+        ${isPrem
+          ? '<span class="admin-badge-prem">👑 Premium</span>'
+          : '<span class="admin-badge-free">Free</span>'}
+      </div>
+    </div>
+  `;
+}
+
+// ============================================================
+// 👆 ИНТИХОБИ КОРБАР АЗ РӮЙХАТ
+// ============================================================
+function adminOpenUser(userId) {
+  const u = allAdminUsers.find(x => String(x._key) === String(userId));
+  if (!u) return;
+
+  const result = document.getElementById('adminUserResult');
+  if (!result) return;
+
+  // Скролл ба боло, то корбар натиҷаро бинад
+  result.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  renderFoundUser(u, u._key);
+}
+
+// ============================================================
+// 🔎 USER SEARCH (ID ё @username)
 // ============================================================
 async function adminSearchUser() {
   const query = (document.getElementById('adminUserSearch')?.value || '').trim();
@@ -160,7 +275,7 @@ function renderFoundUser(u, key) {
     : `<span style="color:#fff;font-weight:800;font-size:18px">${initial}</span>`;
 
   result.innerHTML = `
-    <div class="order-card" style="background:var(--bg-2);border:1px solid var(--card-border);border-radius:16px;padding:14px;">
+    <div class="order-card" style="background:var(--bg-2);border:1px solid var(--card-border);border-radius:16px;padding:14px;margin-bottom:12px">
       <div style="display:flex;align-items:center;gap:10px;margin-bottom:12px">
         <div style="width:44px;height:44px;border-radius:12px;background:linear-gradient(135deg,#6366f1,#8b5cf6);display:flex;align-items:center;justify-content:center;flex-shrink:0;overflow:hidden">${photo}</div>
         <div style="flex:1;min-width:0">
@@ -169,6 +284,7 @@ function renderFoundUser(u, key) {
             ID: ${key} · ${u.username ? '@' + escapeHtmlLocal(u.username) : '—'}
           </div>
         </div>
+        <button onclick="closeAdminUserResult()" style="width:32px;height:32px;border-radius:10px;border:1px solid var(--card-border);background:transparent;color:var(--text-2);cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:16px">✕</button>
       </div>
 
       <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:10px 12px;background:rgba(99,102,241,0.08);border-radius:10px;margin-bottom:12px">
@@ -205,8 +321,14 @@ function renderFoundUser(u, key) {
   `;
 }
 
+function closeAdminUserResult() {
+  const result = document.getElementById('adminUserResult');
+  if (result) result.innerHTML = '';
+  foundUser = null;
+}
+
 // ============================================================
-// ✅ GIVE PREMIUM TO USER
+// ✅ GIVE PREMIUM (бо тӯҳфа)
 // ============================================================
 async function adminGivePremiumToUser(userId) {
   const sel = document.getElementById('adminUserPlanSelect');
@@ -239,7 +361,12 @@ async function adminGivePremiumToUser(userId) {
     showToast(`🎁 Premium тӯҳфа дода шуд (${plan.label})`);
     window.Telegram?.WebApp?.HapticFeedback?.notificationOccurred('success');
 
-    setTimeout(adminSearchUser, 500);
+    // Навсозии корти корбар
+    setTimeout(() => {
+      const updated = allAdminUsers.find(x => String(x._key) === String(userId));
+      if (updated) renderFoundUser(updated, userId);
+      else adminSearchUser();
+    }, 500);
   } catch (e) {
     console.error(e);
     alert('Хато: ' + e.message);
@@ -269,7 +396,11 @@ async function adminRemovePremiumFromUser(userId) {
     showToast('🚫 Premium хомӯш шуд');
     window.Telegram?.WebApp?.HapticFeedback?.notificationOccurred('success');
 
-    setTimeout(adminSearchUser, 500);
+    setTimeout(() => {
+      const updated = allAdminUsers.find(x => String(x._key) === String(userId));
+      if (updated) renderFoundUser(updated, userId);
+      else adminSearchUser();
+    }, 500);
   } catch (e) {
     console.error(e);
     alert('Хато: ' + e.message);
@@ -480,20 +611,17 @@ function givePremiumSelf(planKey) {
 }
 
 // ============================================================
-// ДУ БОР КӮШИШ — ҳам фавран, ҳам баъд аз 1 сония
+// START — ду бор кӯшиш мекунем
 // ============================================================
 window.addEventListener('load', () => {
   // Кӯшиши 1: фавран
   setTimeout(initAdminPanel, 500);
   // Кӯшиши 2: баъд аз 2 сония (эҳтиёт)
   setTimeout(() => {
-    if (document.querySelectorAll('[data-admin-action]').length > 0) {
-      // Санҷед, ки оё аллакай пайваст шудааст
-      const btn = document.querySelector('[data-admin-action="give-premium"]');
-      if (btn && !btn.dataset.bound) {
-        console.log('🔄 Кӯшиши 2 — тугмаҳоро пайваст мекунам');
-        initAdminPanel();
-      }
+    const btn = document.querySelector('[data-admin-action="give-premium"]');
+    if (btn && btn.dataset.bound !== '1') {
+      console.log('🔄 Кӯшиши 2 — тугмаҳоро пайваст мекунам');
+      initAdminPanel();
     }
   }, 2000);
 });
