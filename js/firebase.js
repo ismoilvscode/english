@@ -369,3 +369,41 @@ function listenPremiumOrders(callback) {
 // LOG
 // ============================================================
 console.log('📦 firebase.js бор шуд (v6)');
+
+// ============================================================
+// ⚡ БОРКУНИИ ТЕЗИ ҲАМАИ КОРБАРОН (барои admin)
+// Бе orderByChild — хеле тезтар!
+// ============================================================
+let allUsersListener = null;
+
+function listenAllUsersRealtime(callback) {
+  if (!isFirebaseReady || !db) {
+    callback([]);
+    return;
+  }
+
+  if (allUsersListener) {
+    try {
+      db.ref('users').off('value', allUsersListener);
+    } catch (e) {
+      console.warn('All users listener off error:', e);
+    }
+  }
+
+  console.log('⚡ Ҳамаи корбарон бор мешаванд (бе orderByChild)...');
+
+  allUsersListener = db.ref('users').on('value', snapshot => {
+    const users = [];
+    snapshot.forEach(child => {
+      const u = child.val();
+      if (u && u.id) users.push(u);
+    });
+    // Сортировка дар client — тезтар аз сервер
+    users.sort((a, b) => (b.totalScore || 0) - (a.totalScore || 0));
+    console.log(`⚡ ${users.length} корбарон бор шуданд`);
+    callback(users);
+  }, err => {
+    console.error('❌ All users listener error:', err);
+    callback([]);
+  });
+}
