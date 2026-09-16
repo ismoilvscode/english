@@ -1,5 +1,6 @@
 // ============================================================
 // ADMIN PANEL — Premium Orders + User Management
+// APP_VERSION: 6
 // ============================================================
 const ADMIN_ID_LOCAL = 8406121228;
 const user_admin = window.Telegram?.WebApp?.initDataUnsafe?.user || {};
@@ -73,6 +74,7 @@ function startUsersListener() {
 
   listenRatingRealtime(users => {
     allUsersList = (users || []).filter(u => u && u.id);
+    // Сортировка: Premium аввал
     allUsersList.sort((a, b) => {
       const ap = a.isPremium && a.premiumExpiresAt > Date.now() ? 1 : 0;
       const bp = b.isPremium && b.premiumExpiresAt > Date.now() ? 1 : 0;
@@ -93,6 +95,9 @@ function filterUsers(query) {
   );
 }
 
+// ============================================================
+// RENDER USERS LIST — БО РАСМҲО
+// ============================================================
 function renderUsersList(users) {
   const list = document.getElementById('adminUsersList');
   if (!list) return;
@@ -106,6 +111,32 @@ function renderUsersList(users) {
     const isSelected = selectedUser && Number(selectedUser.id) === Number(u.id);
     const hasPremium = u.isPremium && u.premiumExpiresAt && Date.now() < u.premiumExpiresAt;
     const initial = (u.name || 'U').charAt(0).toUpperCase();
+    const hasPhoto = u.photo && typeof u.photo === 'string' && u.photo.length > 10;
+
+    const avatarHTML = hasPhoto
+      ? `
+        <div style="
+          width:38px;height:38px;border-radius:50%;overflow:hidden;flex-shrink:0;
+          background:linear-gradient(135deg,#6366f1,#8b5cf6);
+          box-shadow:0 2px 8px rgba(0,0,0,0.3);
+          ${hasPremium ? 'border:2px solid #fbbf24;' : 'border:2px solid transparent;'}
+          box-sizing:content-box;
+        ">
+          <img src="${u.photo}" alt="${escapeHtmlLocal(u.name || 'U')}"
+            style="width:100%;height:100%;object-fit:cover;display:block;"
+            onerror="this.parentElement.innerHTML='<div style=\\'width:100%;height:100%;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:15px\\'>${escapeHtmlLocal(initial)}</div>'">
+        </div>
+      `
+      : `
+        <div style="
+          width:38px;height:38px;border-radius:50%;flex-shrink:0;
+          background:linear-gradient(135deg,#6366f1,#8b5cf6);
+          color:#fff;display:flex;align-items:center;justify-content:center;
+          font-weight:800;font-size:15px;
+          ${hasPremium ? 'border:2px solid #fbbf24;' : 'border:2px solid transparent;'}
+          box-sizing:content-box;
+        ">${escapeHtmlLocal(initial)}</div>
+      `;
 
     return `
       <div onclick="selectAdminUser(${u.id})" style="
@@ -114,23 +145,24 @@ function renderUsersList(users) {
         border:1px solid ${isSelected ? 'var(--primary)' : 'var(--card-border)'};
         border-radius:12px;cursor:pointer;transition:all 0.2s;
       ">
-        <div style="width:36px;height:36px;border-radius:10px;background:linear-gradient(135deg,#6366f1,#8b5cf6);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:15px;flex-shrink:0">
-          ${escapeHtmlLocal(initial)}
-        </div>
+        ${avatarHTML}
         <div style="flex:1;min-width:0">
           <div style="font-weight:700;font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">
             ${escapeHtmlLocal(u.name || 'Корбар')} ${hasPremium ? '👑' : ''}
           </div>
-          <div style="font-size:11px;color:var(--text-2);margin-top:2px">
+          <div style="font-size:11px;color:var(--text-2);margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">
             ID: ${u.id}${u.username ? ' · @' + escapeHtmlLocal(u.username) : ''}
           </div>
         </div>
-        <div style="font-size:11px;font-weight:700;color:#fbbf24">${u.totalScore || 0}</div>
+        <div style="font-size:11px;font-weight:700;color:#fbbf24;flex-shrink:0">${u.totalScore || 0}</div>
       </div>
     `;
   }).join('');
 }
 
+// ============================================================
+// SELECT USER
+// ============================================================
 function selectAdminUser(userId) {
   const u = allUsersList.find(x => Number(x.id) === Number(userId));
   if (!u) return;
@@ -259,18 +291,39 @@ function orderCardHTML(order) {
     day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit'
   });
 
+  // Ҷустуҷӯи расми корбар дар рӯйхат
+  const orderUser = allUsersList.find(u => Number(u.id) === Number(order.userId));
+  const userPhoto = orderUser?.photo;
+  const hasPhoto = userPhoto && typeof userPhoto === 'string' && userPhoto.length > 10;
+
+  const avatarHTML = hasPhoto
+    ? `
+      <div style="
+        width:44px;height:44px;border-radius:50%;overflow:hidden;flex-shrink:0;
+        background:linear-gradient(135deg,#6366f1,#8b5cf6);
+        box-shadow:0 2px 8px rgba(0,0,0,0.3);
+      ">
+        <img src="${userPhoto}" alt="${escapeHtmlLocal(order.userName || 'U')}"
+          style="width:100%;height:100%;object-fit:cover;display:block;"
+          onerror="this.parentElement.innerHTML='<div style=\\'width:100%;height:100%;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:18px\\'>${escapeHtmlLocal(initial)}</div>'">
+      </div>
+    `
+    : `
+      <div style="
+        width:44px;height:44px;border-radius:50%;flex-shrink:0;
+        background:linear-gradient(135deg,#6366f1,#8b5cf6);
+        color:#fff;display:flex;align-items:center;justify-content:center;
+        font-weight:800;font-size:18px;
+      ">${escapeHtmlLocal(initial)}</div>
+    `;
+
   return `
     <div class="order-card" style="
       background:var(--bg-2);border:1px solid var(--card-border);
       border-radius:16px;padding:14px;margin-bottom:12px;
     ">
       <div style="display:flex;align-items:center;gap:10px;margin-bottom:12px">
-        <div style="
-          width:44px;height:44px;border-radius:12px;
-          background:linear-gradient(135deg,#6366f1,#8b5cf6);
-          color:#fff;display:flex;align-items:center;justify-content:center;
-          font-weight:800;font-size:18px;flex-shrink:0;
-        ">${escapeHtmlLocal(initial)}</div>
+        ${avatarHTML}
         <div style="flex:1;min-width:0">
           <div style="font-weight:700;font-size:14px">${escapeHtmlLocal(order.userName || 'Корбар')}</div>
           <div style="font-size:11px;color:var(--text-2);margin-top:2px">
