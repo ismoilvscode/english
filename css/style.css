@@ -2273,3 +2273,23 @@ input:checked + .slider:before { transform: translateX(20px); }
 .order-card {
   animation: fadeIn 0.3s ease;
 }
+
+/* ===== ADMIN INPUT ===== */
+.admin-input {
+  width: 100%;
+  padding: 12px 14px;
+  background: var(--bg-2);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  color: var(--text);
+  font-size: 13px;
+  font-weight: 600;
+  font-family: inherit;
+  transition: border-color 0.2s;
+}
+.admin-input::placeholder { color: var(--text-2); font-weight: 500; }
+.admin-input:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.15);
+}
