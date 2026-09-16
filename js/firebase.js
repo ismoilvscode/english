@@ -1,5 +1,5 @@
 // ============================================================
-// FIREBASE — Рейтинги воқеӣ
+// FIREBASE — Рейтинги воқеӣ + Premium Sync + Notifications
 // ============================================================
 
 const firebaseConfig = {
@@ -16,7 +16,7 @@ let db = null;
 let isFirebaseReady = false;
 
 // ============================================================
-// INIT — Firebase SDK аллакай дар HTML бор шудааст
+// INIT
 // ============================================================
 (function initFirebase() {
   try {
@@ -159,7 +159,43 @@ function fetchUserFromFirebase(userId, callback) {
 }
 
 // ============================================================
-// 🎧 PREMIUM SYNC
+// 🔎 ADMIN — Ҷустуҷӯи корбар бо ID
+// ============================================================
+async function fetchUserById(userId, callback) {
+  if (!isFirebaseReady || !db) { callback(null); return; }
+  try {
+    const snap = await db.ref('users/' + userId).once('value');
+    callback(snap.exists() ? snap.val() : null);
+  } catch (e) {
+    console.error('fetchUserById error:', e);
+    callback(null);
+  }
+}
+
+// ============================================================
+// 🔎 ADMIN — Ҷустуҷӯи корбар бо @username
+// ============================================================
+async function findUserByUsername(username, callback) {
+  if (!isFirebaseReady || !db) { callback(null); return; }
+  try {
+    const clean = String(username).replace(/^@/, '').toLowerCase();
+    const snap = await db.ref('users').once('value');
+    let found = null;
+    snap.forEach(child => {
+      const v = child.val();
+      if (v && v.username && String(v.username).toLowerCase() === clean) {
+        found = { ...v, _key: child.key };
+      }
+    });
+    callback(found);
+  } catch (e) {
+    console.error('findUserByUsername error:', e);
+    callback(null);
+  }
+}
+
+// ============================================================
+// 🎧 PREMIUM SYNC (бо auto-cache clearing)
 // ============================================================
 let myPremiumListener = null;
 
