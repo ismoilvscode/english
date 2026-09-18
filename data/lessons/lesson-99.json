@@ -1,641 +1,458 @@
 {
   "id": 99,
-  "title": "Муоширати воқеӣ 99",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 99: Рӯзи дониш — якуми сентябр",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
       "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "tj": "дониш",
+      "ex": "Knowledge is the greatest treasure of every person."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "school year",
+      "tj": "соли таҳсил",
+      "ex": "The new school year begins on the first of September."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "school bell",
+      "tj": "занги мактаб",
+      "ex": "The school bell rings and the lessons begin."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "first bell",
+      "tj": "занги якум",
+      "ex": "The first bell rings on the first of September."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "ceremony",
+      "tj": "тантана",
+      "ex": "The ceremony takes place in the school yard."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "to congratulate",
+      "tj": "табрик кардан",
+      "ex": "We congratulate our teachers on the first of September."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to give flowers",
+      "tj": "гул додан",
+      "ex": "The pupils give flowers to their teachers."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "to be excited",
+      "tj": "баҳравар будан",
+      "ex": "The pupils are excited on the first day of school."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "balloon",
+      "tj": "ҳавоӣ",
+      "ex": "The children hold colourful balloons in their hands."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "to smile",
+      "tj": "табассум кардан",
+      "ex": "The teachers smile at their pupils."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "to invite",
+      "tj": "даъват кардан",
+      "ex": "The teachers invite the pupils to their classrooms."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "white shirt",
+      "tj": "куртаи сафед",
+      "ex": "The boys wear white shirts on the first of September."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "schoolbag",
+      "tj": "халтаи мактабӣ",
+      "ex": "My schoolbag is full of new books."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "to be proud",
+      "tj": "ифтихор кардан",
+      "ex": "We are proud of our school and our teachers."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to begin",
+      "tj": "оғоз шудан",
+      "ex": "The new school year begins in September."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "to wish",
+      "tj": "орзу кардан",
+      "ex": "We wish our teachers health and happiness."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 99)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "The first of September is the Day of Knowledge in our country.",
+      "tj": "Якуми сентябр Рӯзи дониш дар кишвари мост."
     },
     {
-      "en": "I'm working on lesson 99",
-      "tj": "Ман дарси 99-ро меомӯзам"
+      "en": "The new school year begins on the first of September.",
+      "tj": "Соли нави таҳсил якуми сентябр оғоз мешавад."
+    },
+    {
+      "en": "The ceremony takes place in the school yard in the morning.",
+      "tj": "Тантана субҳ дар ҳавлии мактаб баргузор мешавад."
+    },
+    {
+      "en": "The pupils are excited and they hold colourful balloons in their hands.",
+      "tj": "Хонандагон баҳраваранд ва онҳо дар дастҳои худ ҳавоиҳои рангин доранд."
+    },
+    {
+      "en": "We congratulate our teachers and give them flowers.",
+      "tj": "Мо муаллимони худро табрик мекунем ва ба онҳо гул медиҳем."
+    },
+    {
+      "en": "The teachers smile at their pupils and invite them to their classrooms.",
+      "tj": "Муаллимон ба хонандагони худ табассум мекунанд ва онҳоро ба синфхонаҳои худ даъват мекунанд."
+    },
+    {
+      "en": "The boys wear white shirts and the girls wear beautiful dresses.",
+      "tj": "Писарон куртаҳои сафед мепӯшанд ва духтарон куртаҳои зебо мепӯшанд."
+    },
+    {
+      "en": "My schoolbag is full of new books and new notebooks.",
+      "tj": "Халтаи мактабии ман пур аз китобҳои нав ва дафтарҳои нав аст."
+    },
+    {
+      "en": "The school bell rings and the lessons begin.",
+      "tj": "Занги мактаб занг мезанад ва дарсҳо оғоз мешаванд."
+    },
+    {
+      "en": "The first bell rings on the first of September and everybody is happy.",
+      "tj": "Занги якум якуми сентябр занг мезанад ва ҳама хушбахт ҳастанд."
+    },
+    {
+      "en": "We wish our teachers health and happiness.",
+      "tj": "Мо ба муаллимони худ саломатӣ ва хушбахтӣ орзу мекунем."
+    },
+    {
+      "en": "We are proud of our school and our teachers.",
+      "tj": "Мо ба мактаб ва муаллимони худ ифтихор мекунем."
+    },
+    {
+      "en": "The Day of Knowledge is a big and beautiful holiday for all pupils.",
+      "tj": "Рӯзи дониш иди калон ва зебо барои ҳамаи хонандагон аст."
+    },
+    {
+      "en": "Knowledge is the greatest treasure of every person.",
+      "tj": "Дониш бузургтарин ганҷи ҳар як одам аст."
+    },
+    {
+      "en": "I love my school and I am glad to begin the new school year.",
+      "tj": "Ман мактаби худро дӯст медорам ва аз оғози соли нави таҳсил хушҳол ҳастам."
     }
   ],
   "text": {
-    "en": "Text for lesson 99. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 99 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 99 text.",
-    "tj": "Матни дарси 99..."
+    "en": "The Day of Knowledge — the First of September\n\nMy name is Ismoil. I am a pupil of class four. The first of September is the Day of Knowledge in our country. The new school year begins on the first of September.\n\nIn the morning the ceremony takes place in the school yard. The pupils are excited and they hold colourful balloons in their hands. The boys wear white shirts and the girls wear beautiful dresses. My schoolbag is full of new books and new notebooks.\n\nWe congratulate our teachers and give them flowers. The teachers smile at their pupils and invite them to their classrooms. The school bell rings and the lessons begin. The first bell rings on the first of September and everybody is happy.\n\nWe wish our teachers health and happiness. We are proud of our school and our teachers. The Day of Knowledge is a big and beautiful holiday for all pupils. Knowledge is the greatest treasure of every person. I love my school and I am glad to begin the new school year.",
+    "tj": "Рӯзи дониш — якуми сентябр\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Якуми сентябр Рӯзи дониш дар кишвари мост. Соли нави таҳсил якуми сентябр оғоз мешавад.\n\nСубҳ тантана дар ҳавлии мактаб баргузор мешавад. Хонандагон баҳраваранд ва онҳо дар дастҳои худ ҳавоиҳои рангин доранд. Писарон куртаҳои сафед мепӯшанд ва духтарон куртаҳои зебо мепӯшанд. Халтаи мактабии ман пур аз китобҳои нав ва дафтарҳои нав аст.\n\nМо муаллимони худро табрик мекунем ва ба онҳо гул медиҳем. Муаллимон ба хонандагони худ табассум мекунанд ва онҳоро ба синфхонаҳои худ даъват мекунанд. Занги мактаб занг мезанад ва дарсҳо оғоз мешаванд. Занги якум якуми сентябр занг мезанад ва ҳама хушбахт ҳастанд.\n\nМо ба муаллимони худ саломатӣ ва хушбахтӣ орзу мекунем. Мо ба мактаб ва муаллимони худ ифтихор мекунем. Рӯзи дониш иди калон ва зебо барои ҳамаи хонандагон аст. Дониш бузургтарин ганҷи ҳар як одам аст. Ман мактаби худро дӯст медорам ва аз оғози соли нави таҳсил хушҳол ҳастам."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Якуми сентябр Рӯзи дониш дар кишвари мост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст C"
+        "The first of September is the Day of Knowledge in our country.",
+        "The first of September is Day of Knowledge in our country.",
+        "First of September is the Day of Knowledge in our country.",
+        "The first of September is the Day of Knowledge in the country."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "The first of September is the Day of Knowledge in our country."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Соли нави таҳсил якуми сентябр оғоз мешавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: experience"
+        "The new school year begins on the first of September.",
+        "The new school year begins in the first of September.",
+        "A new school year begins on the first of September.",
+        "The new school year begins at the first of September."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The new school year begins on the first of September."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Тантана субҳ дар ҳавлии мактаб баргузор мешавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "The ceremony takes place in the school yard in the morning.",
+        "The ceremony takes place in a school yard in the morning.",
+        "The ceremony takes place in the school yard in morning.",
+        "A ceremony takes place in the school yard in the morning."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "The ceremony takes place in the school yard in the morning."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Хонандагон баҳраваранд ва онҳо дар дастҳои худ ҳавоиҳои рангин доранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: communication"
+        "The pupils are excited and they hold colourful balloons in their hands.",
+        "The pupils are excited and hold colourful balloons in their hands.",
+        "The pupils are excited and they hold colourful balloons in hands.",
+        "The pupils are excited and they hold the colourful balloons in their hands."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "The pupils are excited and they hold colourful balloons in their hands."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Мо муаллимони худро табрик мекунем ва ба онҳо гул медиҳем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: education",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "We congratulate our teachers and give them flowers.",
+        "We congratulate our teachers and give flowers to them.",
+        "We congratulate the teachers and give them flowers.",
+        "We congratulate our teachers and give to them flowers."
       ],
-      "answer": "тарҷума: education"
+      "answer": "We congratulate our teachers and give them flowers."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Муаллимон ба хонандагони худ табассум мекунанд ва онҳоро ба синфхонаҳои худ даъват мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: development"
+        "The teachers smile at their pupils and invite them to their classrooms.",
+        "The teachers smile at their pupils and invite them to the classrooms.",
+        "The teachers smile to their pupils and invite them to their classrooms.",
+        "Teachers smile at their pupils and invite them to their classrooms."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The teachers smile at their pupils and invite them to their classrooms."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Писарон куртаҳои сафед мепӯшанд ва духтарон куртаҳои зебо мепӯшанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст B"
+        "The boys wear white shirts and the girls wear beautiful dresses.",
+        "The boys wear white shirts and girls wear beautiful dresses.",
+        "The boys put on white shirts and the girls wear beautiful dresses.",
+        "The boys wear the white shirts and the girls wear beautiful dresses."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The boys wear white shirts and the girls wear beautiful dresses."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Халтаи мактабии ман пур аз китобҳои нав ва дафтарҳои нав аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: challenge"
+        "My schoolbag is full of new books and new notebooks.",
+        "My schoolbag is full of the new books and new notebooks.",
+        "My schoolbag is full with new books and new notebooks.",
+        "My schoolbag is full of new books and notebooks."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "My schoolbag is full of new books and new notebooks."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Занги мактаб занг мезанад ва дарсҳо оғоз мешаванд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: knowledge"
+        "The school bell rings and the lessons begin.",
+        "A school bell rings and the lessons begin.",
+        "The school bell rings and lessons begin.",
+        "The school bell rings and the lessons start."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "The school bell rings and the lessons begin."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Занги якум якуми сентябр занг мезанад ва ҳама хушбахт ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: conversation"
+        "The first bell rings on the first of September and everybody is happy.",
+        "The first bell rings on the first of September and everyone is happy.",
+        "The first bell rings in the first of September and everybody is happy.",
+        "A first bell rings on the first of September and everybody is happy."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The first bell rings on the first of September and everybody is happy."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Мо ба муаллимони худ саломатӣ ва хушбахтӣ орзу мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: fluency",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "We wish our teachers health and happiness.",
+        "We wish to our teachers health and happiness.",
+        "We wish our teachers a health and happiness.",
+        "We wish health and happiness to our teachers."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "We wish our teachers health and happiness."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Мо ба мактаб ва муаллимони худ ифтихор мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "We are proud of our school and our teachers.",
+        "We are proud of our school and teachers.",
+        "We are proud of the school and our teachers.",
+        "We are proud for our school and our teachers."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "We are proud of our school and our teachers."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Рӯзи дониш иди калон ва зебо барои ҳамаи хонандагон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: pronunciation",
-        "нодуруст B",
-        "нодуруст A"
+        "The Day of Knowledge is a big and beautiful holiday for all pupils.",
+        "The Day of Knowledge is a big and beautiful holiday for all the pupils.",
+        "Day of Knowledge is a big and beautiful holiday for all pupils.",
+        "The Day of Knowledge is the big and beautiful holiday for all pupils."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "The Day of Knowledge is a big and beautiful holiday for all pupils."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Дониш бузургтарин ганҷи ҳар як одам аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: vocabulary",
-        "нодуруст B"
+        "Knowledge is the greatest treasure of every person.",
+        "The knowledge is the greatest treasure of every person.",
+        "Knowledge is the greatest treasure of each person.",
+        "Knowledge is the greatest treasure for every person."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "Knowledge is the greatest treasure of every person."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ман мактаби худро дӯст медорам ва аз оғози соли нави таҳсил хушҳол ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: grammar",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "I love my school and I am glad to begin the new school year.",
+        "I love my school and I am glad to begin a new school year.",
+        "I love my school and I am happy to begin the new school year.",
+        "I love the school and I am glad to begin the new school year."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "I love my school and I am glad to begin the new school year."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ман хонандаи синфи чорум ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: opportunity"
+        "I am a pupil of class four.",
+        "I am pupil of class four.",
+        "I am a pupil of the class four.",
+        "I am a student of class four."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "I am a pupil of class four."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Субҳ тантана дар ҳавлии мактаб баргузор мешавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст A"
+        "In the morning the ceremony takes place in the school yard.",
+        "In the morning ceremony takes place in the school yard.",
+        "In morning the ceremony takes place in the school yard.",
+        "In the morning the ceremony takes place in a school yard."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "In the morning the ceremony takes place in the school yard."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Хонандагон баҳраваранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: environment"
+        "The pupils are excited.",
+        "Pupils are excited.",
+        "The pupils are exited.",
+        "The pupils is excited."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "The pupils are excited."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Онҳо дар дастҳои худ ҳавоиҳои рангин доранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: communication",
-        "нодуруст A"
+        "They hold colourful balloons in their hands.",
+        "They hold colourful balloons in hands.",
+        "They hold the colourful balloons in their hands.",
+        "They have colourful balloons in their hands."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "They hold colourful balloons in their hands."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Писарон куртаҳои сафед мепӯшанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: education",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "The boys wear white shirts.",
+        "Boys wear white shirts.",
+        "The boys wear white shirt.",
+        "The boys put on white shirts."
       ],
-      "answer": "тарҷума: education"
+      "answer": "The boys wear white shirts."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Духтарон куртаҳои зебо мепӯшанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "The girls wear beautiful dresses.",
+        "Girls wear beautiful dresses.",
+        "The girls wear the beautiful dresses.",
+        "The girls put on beautiful dresses."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The girls wear beautiful dresses."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Муаллимон ба хонандагони худ табассум мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: achievement",
-        "нодуруст A",
-        "нодуруст B"
+        "The teachers smile at their pupils.",
+        "Teachers smile at their pupils.",
+        "The teachers smile to their pupils.",
+        "The teachers smile on their pupils."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The teachers smile at their pupils."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Онҳо хонандагонро ба синфхонаҳои худ даъват мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: challenge",
-        "нодуруст B",
-        "нодуруст C"
+        "They invite the pupils to their classrooms.",
+        "They invite pupils to their classrooms.",
+        "They invite the pupils to the classrooms.",
+        "They invite the pupils in their classrooms."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "They invite the pupils to their classrooms."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Занги мактаб занг мезанад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: knowledge"
+        "The school bell rings.",
+        "A school bell rings.",
+        "School bell rings.",
+        "The school bell is ringing."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "The school bell rings."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Дарсҳо оғоз мешаванд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: conversation",
-        "нодуруст A",
-        "нодуруст B"
+        "The lessons begin.",
+        "Lessons begin.",
+        "The lessons start.",
+        "The lessons are beginning."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The lessons begin."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ҳама хушбахт ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: fluency",
-        "нодуруст B",
-        "нодуруст A"
+        "Everybody is happy.",
+        "Everyone is happy.",
+        "All are happy.",
+        "Everybody are happy."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "Everybody is happy."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Мо ба муаллимони худ саломатӣ орзу мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст B"
+        "We wish our teachers health.",
+        "We wish to our teachers health.",
+        "We wish health to our teachers.",
+        "We wish our teachers a health."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "We wish our teachers health."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Мо ба муаллимони худ хушбахтӣ орзу мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: pronunciation",
-        "нодуруст B",
-        "нодуруст C"
+        "We wish our teachers happiness.",
+        "We wish to our teachers happiness.",
+        "We wish happiness to our teachers.",
+        "We wish our teachers a happiness."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "We wish our teachers happiness."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ман аз оғози соли нави таҳсил хушҳол ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: vocabulary"
+        "I am glad to begin the new school year.",
+        "I am glad to begin a new school year.",
+        "I am happy to begin the new school year.",
+        "I am glad to start the new school year."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "I am glad to begin the new school year."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Рӯзи дониш иди калон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: grammar",
-        "нодуруст B"
+        "The Day of Knowledge is a big holiday.",
+        "Day of Knowledge is a big holiday.",
+        "The Day of Knowledge is the big holiday.",
+        "The Day of Knowledge is a great holiday."
       ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: opportunity"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: experience"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: environment",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "тарҷума: communication",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: education"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: development"
-    },
-    {
-      "q": "'achievement' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: achievement",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: achievement"
-    },
-    {
-      "q": "'challenge' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: challenge"
-      ],
-      "answer": "тарҷума: challenge"
-    },
-    {
-      "q": "'knowledge' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: knowledge",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: knowledge"
-    },
-    {
-      "q": "'conversation' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: conversation",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: conversation"
-    },
-    {
-      "q": "'fluency' чи маъно дорад?",
-      "options": [
-        "тарҷума: fluency",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: fluency"
+      "answer": "The Day of Knowledge is a big holiday."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 41
+  "wordsCount": 16
 }
