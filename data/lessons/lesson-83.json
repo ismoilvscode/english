@@ -1,551 +1,412 @@
 {
   "id": 83,
-  "title": "Муоширати воқеӣ 83",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 83: Зимистон дар деҳа",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "winter",
+      "tj": "зимистон",
+      "ex": "Winter is a cold season."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "snow",
+      "tj": "барф",
+      "ex": "The snow is white and cold."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "snowy",
+      "tj": "барфнок",
+      "ex": "The winter is snowy in the mountains."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "ice",
+      "tj": "ях",
+      "ex": "The ice on the river is thick."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "snowman",
+      "tj": "бобобарфӣ",
+      "ex": "The children make a snowman in the yard."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "stove",
+      "tj": "оҷиқ",
+      "ex": "The stove makes the room warm."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "to freeze",
+      "tj": "ях кардан",
+      "ex": "Water freezes in winter."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "firewood",
+      "tj": "ҳезум",
+      "ex": "My grandfather brings firewood for the stove."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "warm clothes",
+      "tj": "либоси гарм",
+      "ex": "We wear warm clothes in winter."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "gloves",
+      "tj": "дастпӯшак",
+      "ex": "I wear gloves when it is cold."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "scarf",
+      "tj": "шарф",
+      "ex": "My mother wears a warm scarf."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "boots",
+      "tj": "муза",
+      "ex": "I wear warm boots in winter."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "hat",
+      "tj": "кулоҳ",
+      "ex": "The boy puts on his warm hat."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "hot tea",
+      "tj": "чойи гарм",
+      "ex": "We drink hot tea after the walk."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "evening",
+      "tj": "бегоҳ",
+      "ex": "In the evening we sit near the stove."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "to tell stories",
+      "tj": "ҳикоя нақл кардан",
+      "ex": "My grandmother tells us stories in the evening."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 83)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Winter is a very cold season in the village.",
+      "tj": "Зимистон дар деҳа фасли хеле хунук аст."
     },
     {
-      "en": "I'm working on lesson 83",
-      "tj": "Ман дарси 83-ро меомӯзам"
+      "en": "The snow is white and the ice on the river is thick.",
+      "tj": "Барф сафед аст ва ях дар дарё ғафс аст."
+    },
+    {
+      "en": "The children make a big snowman in the yard.",
+      "tj": "Кӯдакон дар ҳавлӣ бобобарфии калон месозанд."
+    },
+    {
+      "en": "My grandfather brings firewood for the stove.",
+      "tj": "Бобоям барои оҷиқ ҳезум меорад."
+    },
+    {
+      "en": "The stove makes the room warm and comfortable.",
+      "tj": "Оҷиқ ҳуҷраро гарм ва бароҳат мекунад."
+    },
+    {
+      "en": "We wear warm clothes, gloves, scarves and boots in winter.",
+      "tj": "Мо дар зимистон либоси гарм, дастпӯшак, шарф ва муза мепӯшем."
+    },
+    {
+      "en": "I put on my warm hat and go for a walk.",
+      "tj": "Ман кулоҳи гармамро мепӯшам ва ба сайругашт меравам."
+    },
+    {
+      "en": "After the walk we drink hot tea near the stove.",
+      "tj": "Баъд аз сайругашт мо дар назди оҷиқ чойи гарм менӯшем."
+    },
+    {
+      "en": "In the evening my grandmother tells us interesting stories.",
+      "tj": "Бегоҳ бибиам ба мо ҳикояҳои ҷолиб нақл мекунад."
+    },
+    {
+      "en": "The days are short and the nights are long in winter.",
+      "tj": "Дар зимистон рӯзҳо кӯтоҳ ва шабҳо дароз ҳастанд."
+    },
+    {
+      "en": "The air is cold and clean in the village in winter.",
+      "tj": "Ҳаво дар деҳа дар зимистон хунук ва пок аст."
+    },
+    {
+      "en": "We sit around the warm stove and talk about our day.",
+      "tj": "Мо гирди оҷиқи гарм менишинем ва дар бораи рӯзи худ гап мезанем."
+    },
+    {
+      "en": "The snow covers the mountains, the fields and the trees.",
+      "tj": "Барф кӯҳҳо, киштзорҳо ва дарахтонро мепӯшонад."
+    },
+    {
+      "en": "I love winter because it is a time of rest and family.",
+      "tj": "Ман зимистонро дӯст медорам, зеро ки он вақти дамгирӣ ва оила аст."
+    },
+    {
+      "en": "When I grow up, I want to spend winter in the village with my family.",
+      "tj": "Вақте ки ман калон мешавам, ман мехоҳам зимистонро дар деҳа бо оилаам гузаронам."
+    },
+    {
+      "en": "Water freezes and becomes ice in the cold winter.",
+      "tj": "Об дар зимистони хунук ях мекунад ва ях мешавад."
     }
   ],
   "text": {
-    "en": "Text for lesson 83. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 83 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 83 text.",
-    "tj": "Матни дарси 83..."
+    "en": "Winter in the Village\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. My grandmother and grandfather live in a village near the mountains. In winter I go to the village and spend my holidays there.\n\nWinter is a very cold season. The snow is white and soft. The ice on the river is thick. The children make a big snowman in the yard. They play in the snow and laugh.\n\nMy grandfather brings firewood for the stove. The stove makes the room warm and comfortable. We wear warm clothes: gloves, scarves, boots and hats. After the walk we drink hot tea near the stove.\n\nIn the evening my grandmother tells us interesting stories. We sit around the warm stove and talk about our day. The days are short and the nights are long in winter.\n\nThe snow covers the mountains, the fields and the trees. The air is cold and clean. The village looks like a white fairy tale.\n\nI love winter because it is a time of rest and family. When I grow up, I want to spend winter in the village with my family. Because the village is my second home.",
+    "tj": "Зимистон дар деҳа\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Биби ва бобои ман дар деҳае дар назди кӯҳҳо зиндагӣ мекунанд. Дар зимистон ман ба деҳа меравам ва идҳои худро дар он ҷо мегузаронам.\n\nЗимистон фасли хеле хунук аст. Барф сафед ва нарм аст. Ях дар дарё ғафс аст. Кӯдакон дар ҳавлӣ бобобарфии калон месозанд. Онҳо дар барф бозӣ мекунанд ва механдем.\n\nБобоям барои оҷиқ ҳезум меорад. Оҷиқ ҳуҷраро гарм ва бароҳат мекунад. Мо либоси гарм мепӯшем: дастпӯшак, шарф, муза ва кулоҳ. Баъд аз сайругашт мо дар назди оҷиқ чойи гарм менӯшем.\n\nБегоҳ бибиам ба мо ҳикояҳои ҷолиб нақл мекунад. Мо гирди оҷиқи гарм менишинем ва дар бораи рӯзи худ гап мезанем. Дар зимистон рӯзҳо кӯтоҳ ва шабҳо дароз ҳастанд.\n\nБарф кӯҳҳо, киштзорҳо ва дарахтонро мепӯшонад. Ҳаво хунук ва пок аст. Деҳа мисли афсонаи сафед менамояд.\n\nМан зимистонро дӯст медорам, зеро ки он вақти дамгирӣ ва оила аст. Вақте ки ман калон мешавам, ман мехоҳам зимистонро дар деҳа бо оилаам гузаронам. Зеро ки деҳа хонаи дуюми ман аст."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Зимистон дар деҳа фасли хеле хунук аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: opportunity",
-        "нодуруст B"
+        "Winter is a very cold season in the village.",
+        "The winter is a very cold season in the village.",
+        "Winter is a very cold season in a village.",
+        "Winter is the very cold season in the village."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Winter is a very cold season in the village."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Барф сафед аст ва ях дар дарё ғафс аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст B"
+        "The snow is white and the ice on the river is thick.",
+        "Snow is white and the ice on the river is thick.",
+        "The snow is white and ice on the river is thick.",
+        "The snow is white and the ice in the river is thick."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The snow is white and the ice on the river is thick."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Кӯдакон дар ҳавлӣ бобобарфии калон месозанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст C"
+        "The children make a big snowman in the yard.",
+        "Children make a big snowman in the yard.",
+        "The children make a big snowman in a yard.",
+        "The children make the big snowman in the yard."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "The children make a big snowman in the yard."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Бобоям барои оҷиқ ҳезум меорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "My grandfather brings firewood for the stove.",
+        "My grandfather brings firewood to the stove.",
+        "My grandfather carries firewood for the stove.",
+        "My grandfather brings the firewood for the stove."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "My grandfather brings firewood for the stove."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Оҷиқ ҳуҷраро гарм ва бароҳат мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст B"
+        "The stove makes the room warm and comfortable.",
+        "The stove makes a room warm and comfortable.",
+        "The stove makes the room warm and convenient.",
+        "A stove makes the room warm and comfortable."
       ],
-      "answer": "тарҷума: education"
+      "answer": "The stove makes the room warm and comfortable."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Мо дар зимистон либоси гарм, дастпӯшак, шарф ва муза мепӯшем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст A"
+        "We wear warm clothes, gloves, scarves and boots in winter.",
+        "We wear warm clothes, gloves, scarfs and boots in winter.",
+        "We wear warm clothes, gloves, scarves and boots in the winter.",
+        "We put on warm clothes, gloves, scarves and boots in winter."
       ],
-      "answer": "тарҷума: development"
+      "answer": "We wear warm clothes, gloves, scarves and boots in winter."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ман кулоҳи гармамро мепӯшам ва ба сайругашт меравам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "I put on my warm hat and go for a walk.",
+        "I put on the warm hat and go for a walk.",
+        "I wear my warm hat and go for a walk.",
+        "I put my warm hat on and go for a walk."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "I put on my warm hat and go for a walk."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Баъд аз сайругашт мо дар назди оҷиқ чойи гарм менӯшем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: challenge"
+        "After the walk we drink hot tea near the stove.",
+        "After a walk we drink hot tea near the stove.",
+        "After the walk we drink hot tea at the stove.",
+        "After the walk we drink warm tea near the stove."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "After the walk we drink hot tea near the stove."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Бегоҳ бибиам ба мо ҳикояҳои ҷолиб нақл мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: knowledge",
-        "нодуруст A"
+        "In the evening my grandmother tells us interesting stories.",
+        "In the evening my grandmother tells interesting stories to us.",
+        "In the evening my grandmother says us interesting stories.",
+        "In the evening my grandmother tells us the interesting stories."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "In the evening my grandmother tells us interesting stories."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Дар зимистон рӯзҳо кӯтоҳ ва шабҳо дароз ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: conversation",
-        "нодуруст C",
-        "нодуруст B"
+        "In winter the days are short and the nights are long.",
+        "In the winter the days are short and the nights are long.",
+        "In winter days are short and nights are long.",
+        "In winter the days are short and nights are long."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "In winter the days are short and the nights are long."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ҳаво дар деҳа дар зимистон хунук ва пок аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: fluency"
+        "The air is cold and clean in the village in winter.",
+        "Air is cold and clean in the village in winter.",
+        "The air is cold and clean in a village in winter.",
+        "The air is cold and pure in the village in winter."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "The air is cold and clean in the village in winter."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Мо гирди оҷиқи гарм менишинем ва дар бораи рӯзи худ гап мезанем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: confidence"
+        "We sit around the warm stove and talk about our day.",
+        "We sit round the warm stove and talk about our day.",
+        "We sit around a warm stove and talk about our day.",
+        "We sit around the warm stove and speak about our day."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "We sit around the warm stove and talk about our day."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Барф кӯҳҳо, киштзорҳо ва дарахтонро мепӯшонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: pronunciation",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "The snow covers the mountains, the fields and the trees.",
+        "Snow covers the mountains, the fields and the trees.",
+        "The snow covers mountains, fields and trees.",
+        "The snow covers the mountains, the fields and trees."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "The snow covers the mountains, the fields and the trees."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ман зимистонро дӯст медорам, зеро ки он вақти дамгирӣ ва оила аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: vocabulary"
+        "I love winter because it is a time of rest and family.",
+        "I love the winter because it is a time of rest and family.",
+        "I love winter because it is the time of rest and family.",
+        "I like winter because it is a time of rest and family."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "I love winter because it is a time of rest and family."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам зимистонро дар деҳа бо оилаам гузаронам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: grammar",
-        "нодуруст C",
-        "нодуруст B"
+        "When I grow up, I want to spend winter in the village with my family.",
+        "When I grow up I want to spend winter in the village with my family.",
+        "When I grow up, I want to spend the winter in the village with my family.",
+        "When I grow up, I want to spend winter in a village with my family."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "When I grow up, I want to spend winter in the village with my family."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Об дар зимистони хунук ях мекунад ва ях мешавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "Water freezes and becomes ice in the cold winter.",
+        "The water freezes and becomes ice in the cold winter.",
+        "Water freezes and becomes ice in cold winter.",
+        "Water freezes and turns into ice in the cold winter."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Water freezes and becomes ice in the cold winter."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Биби ва бобои ман дар деҳае дар назди кӯҳҳо зиндагӣ мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст B",
-        "нодуруст C"
+        "My grandmother and grandfather live in a village near the mountains.",
+        "My grandmother and grandfather live in a village near mountains.",
+        "My grandmother and grandfather live in the village near the mountains.",
+        "My grandmother and grandfather lives in a village near the mountains."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "My grandmother and grandfather live in a village near the mountains."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Дар зимистон ман ба деҳа меравам ва идҳои худро дар он ҷо мегузаронам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: environment"
+        "In winter I go to the village and spend my holidays there.",
+        "In the winter I go to the village and spend my holidays there.",
+        "In winter I go to a village and spend my holidays there.",
+        "In winter I go to the village and spend my holidays in it."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "In winter I go to the village and spend my holidays there."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Онҳо дар барф бозӣ мекунанд ва механдем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: communication"
+        "They play in the snow and laugh.",
+        "They play in snow and laugh.",
+        "They play in the snow and they laugh.",
+        "They play in the snow and smile."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "They play in the snow and laugh."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Деҳа мисли афсонаи сафед менамояд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст A",
-        "нодуруст B"
+        "The village looks like a white fairy tale.",
+        "The village looks like the white fairy tale.",
+        "A village looks like a white fairy tale.",
+        "The village looks as a white fairy tale."
       ],
-      "answer": "тарҷума: education"
+      "answer": "The village looks like a white fairy tale."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Зеро ки деҳа хонаи дуюми ман аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: development"
+        "Because the village is my second home.",
+        "Because a village is my second home.",
+        "Because the village is my second house.",
+        "Because village is my second home."
       ],
-      "answer": "тарҷума: development"
+      "answer": "Because the village is my second home."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Зимистон фасли хеле хунук аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: achievement",
-        "нодуруст C"
+        "Winter is a very cold season.",
+        "The winter is a very cold season.",
+        "Winter is the very cold season.",
+        "Winter is a very cool season."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "Winter is a very cold season."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Барф сафед ва нарм аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "The snow is white and soft.",
+        "Snow is white and soft.",
+        "The snow is white and gentle.",
+        "The snow is white and soft."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The snow is white and soft."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Кӯдакон дар ҳавлӣ бобобарфии калон месозанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: knowledge",
-        "нодуруст A"
+        "The children make a big snowman in the yard.",
+        "Children make a big snowman in the yard.",
+        "The children make a big snowman in a yard.",
+        "The children make the big snowman in the yard."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "The children make a big snowman in the yard."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Ман дар Душанбе бо оилаам зиндагӣ мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: conversation",
-        "нодуруст C"
+        "I live in Dushanbe with my family.",
+        "I live in Dushanbe with the family.",
+        "I live in Dushanbe with my famaly.",
+        "I live in Dushanbe with family."
       ],
-      "answer": "тарҷума: conversation"
-    },
-    {
-      "q": "'fluency' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: fluency",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: fluency"
-    },
-    {
-      "q": "'confidence' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: confidence"
-      ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: pronunciation",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: vocabulary",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: grammar",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: communication",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: education"
+      "answer": "I live in Dushanbe with my family."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 35
+  "wordsCount": 16
 }
