@@ -1,581 +1,432 @@
 {
   "id": 87,
-  "title": "Муоширати воқеӣ 87",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 87: Рӯзи аввали мактаб",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "to introduce",
+      "tj": "шинос кардан",
+      "ex": "Our teacher introduces a new pupil to us."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "timetable",
+      "tj": "ҷадвали дарсӣ",
+      "ex": "I look at my timetable every morning."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "to raise",
+      "tj": "бардоштан",
+      "ex": "I raise my hand to answer the question."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "to be on duty",
+      "tj": "навбатдор будан",
+      "ex": "Today I am on duty in our classroom."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "to clean",
+      "tj": "тоза кардан",
+      "ex": "We clean the blackboard after lessons."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "blackboard",
+      "tj": "тахтаи синф",
+      "ex": "The teacher writes new words on the blackboard."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "chalk",
+      "tj": "табишқа",
+      "ex": "The teacher uses chalk to write on the blackboard."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to welcome",
+      "tj": "пешвоз гирифтан",
+      "ex": "Our teacher welcomes us to the new school year."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "to explain",
+      "tj": "шарҳ додан",
+      "ex": "The teacher explains the new rule."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to repeat",
+      "tj": "такрор кардан",
+      "ex": "We repeat the new words after the teacher."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "to ask",
+      "tj": "пурсидан",
+      "ex": "I ask my teacher when I do not understand."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "to answer",
+      "tj": "ҷавоб додан",
+      "ex": "I answer the teacher's questions."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "break",
+      "tj": "танаффус",
+      "ex": "At break we play in the school yard."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "uniform",
+      "tj": "либоси мактабӣ",
+      "ex": "I wear my school uniform every day."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to be nervous",
+      "tj": "ҳаяҷонзада будан",
+      "ex": "I am a little nervous on the first day of school."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "schoolbag",
+      "tj": "халтаи мактабӣ",
+      "ex": "My schoolbag is full of new books."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 87)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "The first day of school is in September.",
+      "tj": "Рӯзи аввали мактаб дар моҳи сентябр аст."
     },
     {
-      "en": "I'm working on lesson 87",
-      "tj": "Ман дарси 87-ро меомӯзам"
+      "en": "In the morning I wake up early and put on my school uniform.",
+      "tj": "Субҳ ман барвақт бедор мешавам ва либоси мактабиамро мепӯшам."
+    },
+    {
+      "en": "I take my schoolbag and go to school.",
+      "tj": "Ман халтаи мактабиамро мегирам ва ба мактаб меравам."
+    },
+    {
+      "en": "I am a little nervous but I am also glad to see my friends.",
+      "tj": "Ман каме ҳаяҷонзада ҳастам, аммо аз дидани дӯстонам низ хушҳол ҳастам."
+    },
+    {
+      "en": "Our teacher welcomes us to the new school year.",
+      "tj": "Муаллимаи мо моро ба соли нави таҳсил пешвоз мегирад."
+    },
+    {
+      "en": "She introduces a new pupil to us.",
+      "tj": "Ӯ ба мо хонандаи навро шинос мекунад."
+    },
+    {
+      "en": "The teacher writes new words on the blackboard with chalk.",
+      "tj": "Муаллим калимаҳои навро бо табишқа дар тахтаи синф менависад."
+    },
+    {
+      "en": "She explains the new rule and we repeat it.",
+      "tj": "Ӯ қоидаи навро шарҳ медиҳад ва мо онро такрор мекунем."
+    },
+    {
+      "en": "I raise my hand and answer the question.",
+      "tj": "Ман дастамро мебардорам ва ба савол ҷавоб медиҳам."
+    },
+    {
+      "en": "At break we run and play in the school yard.",
+      "tj": "Дар танаффус мо дар ҳавлии мактаб медаваем ва бозӣ мекунем."
+    },
+    {
+      "en": "Today I am on duty and I clean the blackboard.",
+      "tj": "Имрӯз ман навбатдор ҳастам ва тахтаи синфро тоза мекунам."
+    },
+    {
+      "en": "I tell my friends about the village and the lake.",
+      "tj": "Ман ба дӯстонам дар бораи деҳа ва кӯл нақл мекунам."
+    },
+    {
+      "en": "After school I go home and do my homework.",
+      "tj": "Баъд аз мактаб ман ба хона меравам ва вазифаи хонагиамро иҷро мекунам."
+    },
+    {
+      "en": "In the evening I read a book and go to bed early.",
+      "tj": "Бегоҳ ман китоб мехонам ва барвақт ба хоб меравам."
+    },
+    {
+      "en": "I am glad to begin the new school year.",
+      "tj": "Ман аз оғози соли нави таҳсил хушҳол ҳастам."
+    },
+    {
+      "en": "My favourite subject is English and I like it very much.",
+      "tj": "Фани дӯстдоштаи ман англисӣ аст ва ман онро хеле дӯст медорам."
     }
   ],
   "text": {
-    "en": "Text for lesson 87. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 87 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 87 text.",
-    "tj": "Матни дарси 87..."
+    "en": "The First Day of School\n\nMy name is Ismoil. I am a pupil of class four. The first day of school is in September. In the morning I wake up early. I wash my hands and face. I put on my school uniform. I have breakfast with my family. I take my schoolbag and go to school.\n\nI am a little nervous. But I am also glad to see my friends. I meet my classmate Farid near the school. We greet each other and go to our classroom.\n\nOur teacher meets us and smiles. She welcomes us to the new school year. She introduces a new pupil to us. His name is Zafar. He is from Khujand. We are glad to meet him.\n\nWe have many lessons today: English, Tajik, math and history. My favourite subject is English. Our teacher writes new words on the blackboard with chalk. She explains the new rule and we repeat it. Then I raise my hand and answer the question. We read texts, ask questions and answer them.\n\nAt break we run and play in the school yard. We talk about our summer. I tell my friends about the village and the lake.\n\nToday I am on duty. After lessons I clean the blackboard. Then I go home. I do my homework and help my mother. In the evening I read a book and go to bed early.\n\nI love my school. I am glad to begin the new school year.",
+    "tj": "Рӯзи аввали мактаб\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Рӯзи аввали мактаб дар моҳи сентябр аст. Субҳ ман барвақт бедор мешавам. Дастҳо ва рӯямро мешӯям. Либоси мактабиамро мепӯшам. Ман бо оилаам наҳорӣ мехӯрам. Халтаи мактабиамро мегирам ва ба мактаб меравам.\n\nМан каме ҳаяҷонзада ҳастам. Аммо аз дидани дӯстонам низ хушҳол ҳастам. Ман ҳамсинфи худ Фаридро дар назди мактаб вохӯрда мекунам. Мо ба якдигар салом медиҳем ва ба синфхонаи худ меравем.\n\nМуаллимаи мо моро пешвоз мегирад ва табассум мекунад. Ӯ моро ба соли нави таҳсил пешвоз мегирад. Ӯ ба мо хонандаи навро шинос мекунад. Номи ӯ Зафар аст. Ӯ аз Хуҷанд аст. Мо аз дидани ӯ хушҳол ҳастем.\n\nИмрӯз мо дарсҳои зиёд дорем: англисӣ, тоҷикӣ, математика ва таърих. Фани дӯстдоштаи ман англисӣ аст. Муаллимаи мо калимаҳои навро бо табишқа дар тахтаи синф менависад. Ӯ қоидаи навро шарҳ медиҳад ва мо онро такрор мекунем. Баъд ман дастамро мебардорам ва ба савол ҷавоб медиҳам. Мо матнҳо мехонем, савол медиҳем ва ба онҳо ҷавоб медиҳем.\n\nДар танаффус мо дар ҳавлии мактаб медаваем ва бозӣ мекунем. Мо дар бораи тобистони худ гап мезанем. Ман ба дӯстонам дар бораи деҳа ва кӯл нақл мекунам.\n\nИмрӯз ман навбатдор ҳастам. Баъд аз дарсҳо ман тахтаи синфро тоза мекунам. Баъд ба хона меравам. Вазифаи хонагиамро иҷро мекунам ва ба модарам кӯмак мекунам. Бегоҳ ман китоб мехонам ва барвақт ба хоб меравам.\n\nМан мактаби худро дӯст медорам. Ман аз оғози соли нави таҳсил хушҳол ҳастам."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Рӯзи аввали мактаб дар моҳи сентябр аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: opportunity",
-        "нодуруст A",
-        "нодуруст B"
+        "The first day of school is in September.",
+        "The first day of the school is in September.",
+        "First day of school is in September.",
+        "The first day of school is on September."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "The first day of school is in September."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Субҳ ман барвақт бедор мешавам ва либоси мактабиамро мепӯшам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "In the morning I wake up early and put on my school uniform.",
+        "In the morning I wake up early and I put on my school uniform.",
+        "In the morning I get up early and put on my school uniform.",
+        "In the morning I wake up early and wear my school uniform."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "In the morning I wake up early and put on my school uniform."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ман халтаи мактабиамро мегирам ва ба мактаб меравам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст B"
+        "I take my schoolbag and go to school.",
+        "I take the schoolbag and go to school.",
+        "I take my schoolbag and go to the school.",
+        "I carry my schoolbag and go to school."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "I take my schoolbag and go to school."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ман каме ҳаяҷонзада ҳастам, аммо аз дидани дӯстонам низ хушҳол ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: communication"
+        "I am a little nervous but I am also glad to see my friends.",
+        "I am a little nervous, but I am also glad to see my friends.",
+        "I am a little nervous but also glad to see my friends.",
+        "I am little nervous but I am also glad to see my friends."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "I am a little nervous but I am also glad to see my friends."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Муаллимаи мо моро ба соли нави таҳсил пешвоз мегирад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: education",
-        "нодуруст C"
+        "Our teacher welcomes us to the new school year.",
+        "Our teacher welcomes us to a new school year.",
+        "The teacher welcomes us to the new school year.",
+        "Our teacher meets us to the new school year."
       ],
-      "answer": "тарҷума: education"
+      "answer": "Our teacher welcomes us to the new school year."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Ӯ ба мо хонандаи навро шинос мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: development",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "She introduces a new pupil to us.",
+        "She introduces the new pupil to us.",
+        "She introduces a new pupil for us.",
+        "He introduces a new pupil to us."
       ],
-      "answer": "тарҷума: development"
+      "answer": "She introduces a new pupil to us."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Муаллим калимаҳои навро бо табишқа дар тахтаи синф менависад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст B",
-        "нодуруст C"
+        "The teacher writes new words on the blackboard with chalk.",
+        "The teacher writes the new words on the blackboard with chalk.",
+        "The teacher writes new words in the blackboard with chalk.",
+        "A teacher writes new words on the blackboard with chalk."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The teacher writes new words on the blackboard with chalk."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ӯ қоидаи навро шарҳ медиҳад ва мо онро такрор мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: challenge",
-        "нодуруст A"
+        "She explains the new rule and we repeat it.",
+        "She explains a new rule and we repeat it.",
+        "She explains the new rule and we repeat them.",
+        "He explains the new rule and we repeat it."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "She explains the new rule and we repeat it."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Ман дастамро мебардорам ва ба савол ҷавоб медиҳам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: knowledge"
+        "I raise my hand and answer the question.",
+        "I raise the hand and answer the question.",
+        "I put up my hand and answer the question.",
+        "I raise my hand and answer a question."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "I raise my hand and answer the question."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Дар танаффус мо дар ҳавлии мактаб медаваем ва бозӣ мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: conversation",
-        "нодуруст B"
+        "At break we run and play in the school yard.",
+        "At the break we run and play in the school yard.",
+        "At break we run and play in a school yard.",
+        "At break we run and play at the school yard."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "At break we run and play in the school yard."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Имрӯз ман навбатдор ҳастам ва тахтаи синфро тоза мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: fluency",
-        "нодуруст A",
-        "нодуруст C"
+        "Today I am on duty and I clean the blackboard.",
+        "Today I am on duty and clean the blackboard.",
+        "Today I am on the duty and I clean the blackboard.",
+        "Today I am on duty and I clean a blackboard."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "Today I am on duty and I clean the blackboard."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ман ба дӯстонам дар бораи деҳа ва кӯл нақл мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: confidence",
-        "нодуруст C"
+        "I tell my friends about the village and the lake.",
+        "I tell my friends about a village and the lake.",
+        "I tell to my friends about the village and the lake.",
+        "I tell my friends about the village and a lake."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "I tell my friends about the village and the lake."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Баъд аз мактаб ман ба хона меравам ва вазифаи хонагиамро иҷро мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: pronunciation",
-        "нодуруст C"
+        "After school I go home and do my homework.",
+        "After the school I go home and do my homework.",
+        "After school I go to home and do my homework.",
+        "After school I come home and do my homework."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "After school I go home and do my homework."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Бегоҳ ман китоб мехонам ва барвақт ба хоб меравам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: vocabulary"
+        "In the evening I read a book and go to bed early.",
+        "In the evening I read the book and go to bed early.",
+        "In the evening I read a book and go to bed early.",
+        "In the evening I read a book and go to sleep early."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "In the evening I read a book and go to bed early."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ман аз оғози соли нави таҳсил хушҳол ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: grammar",
-        "нодуруст C"
+        "I am glad to begin the new school year.",
+        "I am glad to begin a new school year.",
+        "I am happy to begin the new school year.",
+        "I am glad to start the new school year."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "I am glad to begin the new school year."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Фани дӯстдоштаи ман англисӣ аст ва ман онро хеле дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "My favourite subject is English and I like it very much.",
+        "My favourite subject is English and I like it a lot.",
+        "My favourite lesson is English and I like it very much.",
+        "My favourite subject is English and I love it very much."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "My favourite subject is English and I like it very much."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман ҳамсинфи худ Фаридро дар назди мактаб вохӯрда мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст C"
+        "I meet my classmate Farid near the school.",
+        "I meet my classmate Farid near school.",
+        "I meet my classmate Farid at the school.",
+        "I meet with my classmate Farid near the school."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I meet my classmate Farid near the school."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Мо ба якдигар салом медиҳем ва ба синфхонаи худ меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "We greet each other and go to our classroom.",
+        "We greet each other and go to the classroom.",
+        "We greet one another and go to our classroom.",
+        "We greet each other and go into our classroom."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "We greet each other and go to our classroom."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Имрӯз мо дарсҳои зиёд дорем: англисӣ, тоҷикӣ, математика ва таърих» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст B"
+        "We have many lessons today: English, Tajik, math and history.",
+        "We have many subjects today: English, Tajik, math and history.",
+        "We have many lessons today: English, Tajik, maths and history.",
+        "Today we have many lessons: English, Tajik, math and history."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "We have many lessons today: English, Tajik, math and history."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Мо матнҳо мехонем, савол медиҳем ва ба онҳо ҷавоб медиҳем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: education",
-        "нодуруст C"
+        "We read texts, ask questions and answer them.",
+        "We read texts, ask questions and answer them.",
+        "We read the texts, ask questions and answer them.",
+        "We read texts, ask questions and answer to them."
       ],
-      "answer": "тарҷума: education"
+      "answer": "We read texts, ask questions and answer them."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Мо дар бораи тобистони худ гап мезанем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "We talk about our summer.",
+        "We talk about the summer.",
+        "We speak about our summer.",
+        "We talk about our summer holidays."
       ],
-      "answer": "тарҷума: development"
+      "answer": "We talk about our summer."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ман мактаби худро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: achievement",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "I love my school.",
+        "I like my school.",
+        "I love the school.",
+        "I love my school very much."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "I love my school."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ман хонандаи синфи чорум ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: challenge"
+        "I am a pupil of class four.",
+        "I am pupil of class four.",
+        "I am a pupil of the class four.",
+        "I am a student of class four."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "I am a pupil of class four."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Дастҳо ва рӯямро мешӯям» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: knowledge"
+        "I wash my hands and face.",
+        "I wash the hands and face.",
+        "I wash my hands and my face.",
+        "I clean my hands and face."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "I wash my hands and face."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Ман бо оилаам наҳорӣ мехӯрам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: conversation"
+        "I have breakfast with my family.",
+        "I have the breakfast with my family.",
+        "I eat breakfast with my family.",
+        "I have breakfast with family."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "I have breakfast with my family."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Номи ӯ Зафар аст. Ӯ аз Хуҷанд аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: fluency"
+        "His name is Zafar. He is from Khujand.",
+        "Her name is Zafar. He is from Khujand.",
+        "His name is Zafar. He is from the Khujand.",
+        "His name is Zafar. He comes from Khujand."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "His name is Zafar. He is from Khujand."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Мо аз дидани ӯ хушҳол ҳастем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: confidence",
-        "нодуруст B",
-        "нодуруст A"
+        "We are glad to meet him.",
+        "We are glad to see him.",
+        "We are happy to meet him.",
+        "We are glad to meet with him."
       ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "тарҷума: pronunciation",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: vocabulary"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "тарҷума: grammar",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: opportunity"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: experience"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: communication",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: education",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "тарҷума: development",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: development"
-    },
-    {
-      "q": "'achievement' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: achievement"
+      "answer": "We are glad to meet him."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 37
+  "wordsCount": 16
 }
