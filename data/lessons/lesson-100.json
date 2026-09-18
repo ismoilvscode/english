@@ -1,641 +1,496 @@
 {
   "id": 100,
-  "title": "Муоширати воқеӣ 100",
+  "title": "Муоширати воқеӣ 100: Гуфтугӯи кӯча",
   "level": "Пешрафта - Синфи 5",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "What's up?",
+      "tj": "Чӣ хабар?",
+      "ex": "What's up, my friend?"
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "How's it going?",
+      "tj": "Корҳо чӣ хел?",
+      "ex": "How's it going at school?"
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "Take it easy!",
+      "tj": "Ором бош!",
+      "ex": "Take it easy, do not worry!"
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "No way!",
+      "tj": "Ҳеҷ имкон надорад!",
+      "ex": "No way, that is not true!"
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "Never mind.",
+      "tj": "Ҳеҷ гап не.",
+      "ex": "Never mind, it is not important."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "Of course!",
+      "tj": "Албатта!",
+      "ex": "Of course, I will help you."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "Sure!",
+      "tj": "Ҳа, албатта!",
+      "ex": "Sure, I can come to your house."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "I have no idea.",
+      "tj": "Ман намедонам.",
+      "ex": "I have no idea where he is."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "See you later!",
+      "tj": "То дидор!",
+      "ex": "See you later, my friend!"
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "It's up to you.",
+      "tj": "Худат медонӣ.",
+      "ex": "We can go or stay, it's up to you."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "What's the matter?",
+      "tj": "Чӣ шуд?",
+      "ex": "What's the matter with you today?"
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "Long time no see!",
+      "tj": "Дер боз диданамон!",
+      "ex": "Long time no see, my friend!"
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "Good luck!",
+      "tj": "Бахти нек!",
+      "ex": "Good luck at the exam!"
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "Hold on!",
+      "tj": "Интизор шав!",
+      "ex": "Hold on, I want to tell you something."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "Come on!",
+      "tj": "Биё дигар!",
+      "ex": "Come on, we will be late!"
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "That's great!",
+      "tj": "Ин хеле хуб аст!",
+      "ex": "That's great, I am very happy for you!"
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 100)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "What's up, my friend? How's it going?",
+      "tj": "Чӣ хабар, дӯстам? Корҳо чӣ хел?"
     },
     {
-      "en": "I'm working on lesson 100",
-      "tj": "Ман дарси 100-ро меомӯзам"
+      "en": "Take it easy! Never mind, it is not important.",
+      "tj": "Ором бош! Ҳеҷ гап не, ин муҳим нест."
+    },
+    {
+      "en": "No way! That is not true at all.",
+      "tj": "Ҳеҷ имкон надорад! Ин тамоман дуруст нест."
+    },
+    {
+      "en": "Of course, I will help you. Sure!",
+      "tj": "Албатта, ман ба ту кӯмак мекунам. Ҳа, албатта!"
+    },
+    {
+      "en": "I have no idea where he is. It's up to you to find him.",
+      "tj": "Ман намедонам ӯ дар куҷост. Худат медонӣ, ки ӯро ёбӣ."
+    },
+    {
+      "en": "What's the matter? You look sad today.",
+      "tj": "Чӣ шуд? Ту имрӯз ғамгин менамоӣ."
+    },
+    {
+      "en": "Long time no see! How are you doing?",
+      "tj": "Дер боз диданамон! Ҳолат чӣ хел?"
+    },
+    {
+      "en": "Good luck! I hope you will do well.",
+      "tj": "Бахти нек! Ман умедворам, ки ту хуб мекунӣ."
+    },
+    {
+      "en": "Hold on! I want to tell you something important.",
+      "tj": "Интизор шав! Ман мехоҳам ба ту чизи муҳимро гӯям."
+    },
+    {
+      "en": "Come on! We will be late for school.",
+      "tj": "Биё дигар! Мо ба мактаб дер мемонем."
+    },
+    {
+      "en": "That's great! I am very happy for you.",
+      "tj": "Ин хеле хуб аст! Ман барои ту хеле хушбахтам."
+    },
+    {
+      "en": "See you later! Take care of yourself.",
+      "tj": "То дидор! Худатро эҳтиёт кун."
+    },
+    {
+      "en": "Sure, I can come to your house in the evening.",
+      "tj": "Ҳа, албатта, ман бегоҳ ба хонаи ту омада метавонам."
+    },
+    {
+      "en": "Of course, my mother will cook a delicious dinner.",
+      "tj": "Албатта, модарам хӯроки шоми бомазза мепазад."
+    },
+    {
+      "en": "No way! My little brother never tells lies.",
+      "tj": "Ҳеҷ имкон надорад! Бародари хурдии ман ҳеҷ гоҳ дурӯғ намегӯяд."
+    },
+    {
+      "en": "What's up? Come on, tell me everything!",
+      "tj": "Чӣ хабар? Биё дигар, ҳама чизро ба ман нақл кун!"
+    },
+    {
+      "en": "Take it easy and stay calm. Good luck!",
+      "tj": "Ором бош ва ором бимои. Бахти нек!"
     }
   ],
   "text": {
-    "en": "Text for lesson 100. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 100 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 100 text.",
-    "tj": "Матни дарси 100..."
+    "en": "Real Conversation — Street Talk\n\nMy name is Ismoil. I am a pupil of class five. In the street, at school and in the yard we speak with our friends every day. In real conversation we do not always use full sentences. We use short and simple words. Today I want to tell you about street talk and real conversation.\n\nWhen I meet my friend in the morning, I say: \"What's up?\" He answers: \"Not much. How's it going?\" I say: \"Fine, thanks!\" This is a very simple and friendly conversation. We do not say long sentences. We use short words. This is real street talk.\n\nIf my friend is sad or worried, I say: \"Take it easy! Never mind. Everything will be fine.\" These words help him to feel better. If he does not believe something, he says: \"No way!\" This means: \"I do not believe it!\"\n\nWhen I ask my friend for help, I say: \"Of course, I will help you.\" Or I simply say: \"Sure!\" These short words show that I am ready to help. When I do not know something, I say: \"I have no idea.\" This is a polite way to say: \"I do not know.\"\n\nIf my friend asks me where to go, I say: \"It's up to you.\" This means: \"You must decide.\" If I see that my friend looks sad, I ask: \"What's the matter?\" He answers: \"Nothing, I am just tired.\"\n\nWhen I meet my friend after a long time, I say: \"Long time no see!\" He smiles and says: \"Yes, it has been a long time!\" Before an exam I say to my friend: \"Good luck!\" He answers: \"Thanks, you too!\"\n\nIf I want to tell something important, I say: \"Hold on! I want to tell you something.\" If we are late, I say: \"Come on! We will be late!\" When my friend has good news, I say: \"That's great! I am very happy for you!\" When I leave my friend, I say: \"See you later! Take care!\"\n\nThese short words and phrases are very useful. They make our conversation easy and friendly. In street talk the most important thing is not grammar. The most important thing is friendship, kindness and understanding. My grandfather says: \"A kind word is better than a long speech.\" I agree with him.\n\nWhen I grow up, I want to speak English fluently. I want to talk with people from other countries. I want to use real English, not only book English. Because real conversation is the soul of every language.",
+    "tj": "Муоширати воқеӣ — Гуфтугӯи кӯча\n\nНоми ман Исмоил аст. Ман хонандаи синфи панҷум ҳастам. Дар кӯча, дар мактаб ва дар ҳавлӣ мо ҳар рӯз бо дӯстонамон гап мезанем. Дар муоширати воқеӣ мо на ҳамеша ҷумлаҳои пурраро истифода мебарем. Мо калимаҳои кӯтоҳ ва оддиро истифода мебарем. Имрӯз ман мехоҳам ба шумо дар бораи гуфтугӯи кӯча ва муоширати воқеӣ нақл кунам.\n\nВақте ки ман субҳ бо дӯстам вохӯрда мекунам, ман мегӯям: «Чӣ хабар?» Ӯ ҷавоб медиҳад: «Ҳеҷ чиз. Корҳо чӣ хел?» Ман мегӯям: «Хуб, ташаккур!» Ин муоширати хеле оддӣ ва дӯстона аст. Мо ҷумлаҳои дароз намегӯем. Мо калимаҳои кӯтоҳро истифода мебарем. Ин гуфтугӯи ҳақиқии кӯча аст.\n\nАгар дӯстам ғамгин ё нигарон бошад, ман мегӯям: «Ором бош! Ҳеҷ гап не. Ҳама чиз хуб мешавад.» Ин калимаҳо ба ӯ кӯмак мекунанд, ки худро беҳтар ҳис кунад. Агар ӯ ба чизе бовар накунад, ӯ мегӯяд: «Ҳеҷ имкон надорад!» Ин маънои онро дорад: «Ман ба ин бовар намекунам!»\n\nВақте ки ман аз дӯстам кӯмак мепурсам, ман мегӯям: «Албатта, ман ба ту кӯмак мекунам.» Ё ман танҳо мегӯям: «Ҳа, албатта!» Ин калимаҳои кӯтоҳ нишон медиҳанд, ки ман омода ҳастам кӯмак кунам. Вақте ки ман чизеро намедонам, ман мегӯям: «Ман намедонам.» Ин роҳи боадабонаи гуфтани «Ман намедонам» аст.\n\nАгар дӯстам аз ман пурсад, ки ба куҷо равам, ман мегӯям: «Худат медонӣ.» Ин маънои онро дорад: «Ту бояд қарор кунӣ.» Агар ман бубинам, ки дӯстам ғамгин менамояд, ман мепурсам: «Чӣ шуд?» Ӯ ҷавоб медиҳад: «Ҳеҷ чиз, ман танҳо хаста ҳастам.»\n\nВақте ки ман баъд аз вақти дароз бо дӯстам вохӯрда мекунам, ман мегӯям: «Дер боз диданамон!» Ӯ табассум мекунад ва мегӯяд: «Ҳа, вақти дароз буд!» Пеш аз имтиҳон ман ба дӯстам мегӯям: «Бахти нек!» Ӯ ҷавоб медиҳад: «Ташаккур, ту низ!»\n\nАгар ман чизи муҳимро гуфтан хоҳам, ман мегӯям: «Интизор шав! Ман мехоҳам ба ту чизе гӯям.» Агар мо дер монем, ман мегӯям: «Биё дигар! Мо дер мемонем!» Вақте ки дӯстам хабари хуш дорад, ман мегӯям: «Ин хеле хуб аст! Ман барои ту хеле хушбахтам!» Вақте ки ман аз дӯстам ҷудо мешавам, ман мегӯям: «То дидор! Худатро эҳтиёт кун!»\n\nИн калимаҳо ва ибораҳои кӯтоҳ хеле фоиданок ҳастанд. Онҳо муоширати моро осон ва дӯстона мекунанд. Дар гуфтугӯи кӯча муҳимтарин чиз грамматика нест. Муҳимтарин чиз дӯстӣ, меҳрубонӣ ва фаҳмиш аст. Бобоям мегӯяд: «Калимаи меҳрубон аз нутқи дароз беҳтар аст.» Ман бо ӯ розӣ ҳастам.\n\nВақте ки ман калон мешавам, ман мехоҳам англисиро равон гап занам. Ман мехоҳам бо одамон аз кишварҳои дигар гап занам. Ман мехоҳам англисии ҳақиқиро истифода барам, на танҳо англисии китобӣ. Зеро ки муоширати ҳақиқӣ ҷони ҳар як забон аст."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Чӣ хабар?» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: opportunity",
-        "нодуруст A"
+        "What's up?",
+        "How's it going?",
+        "What's the matter?",
+        "How are you doing?"
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "What's up?"
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Корҳо чӣ хел?» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "How's it going?",
+        "What's up?",
+        "See you later!",
+        "Come on!"
       ],
-      "answer": "тарҷума: experience"
+      "answer": "How's it going?"
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ором бош!» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: environment",
-        "нодуруст A"
+        "Take it easy!",
+        "Come on!",
+        "Hold on!",
+        "No way!"
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Take it easy!"
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ҳеҷ имкон надорад!» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: communication"
+        "No way!",
+        "Of course!",
+        "Sure!",
+        "Never mind."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "No way!"
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ҳеҷ гап не.» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст A",
-        "нодуруст B"
+        "Never mind.",
+        "No way!",
+        "Of course!",
+        "That's great!"
       ],
-      "answer": "тарҷума: education"
+      "answer": "Never mind."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Албатта!» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст C"
+        "Of course!",
+        "Sure!",
+        "No way!",
+        "Come on!"
       ],
-      "answer": "тарҷума: development"
+      "answer": "Of course!"
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ҳа, албатта!» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: achievement"
+        "Sure!",
+        "Of course!",
+        "Hold on!",
+        "Never mind."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "Sure!"
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ман намедонам.» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: challenge",
-        "нодуруст C"
+        "I have no idea.",
+        "It's up to you.",
+        "What's the matter?",
+        "Never mind."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "I have no idea."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«То дидор!» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: knowledge"
+        "See you later!",
+        "Good luck!",
+        "Hold on!",
+        "Come on!"
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "See you later!"
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Худат медонӣ.» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: conversation"
+        "It's up to you.",
+        "I have no idea.",
+        "Never mind.",
+        "No way!"
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "It's up to you."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Чӣ шуд?» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: fluency",
-        "нодуруст A"
+        "What's the matter?",
+        "What's up?",
+        "How's it going?",
+        "That's great!"
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "What's the matter?"
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Дер боз диданамон!» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: confidence"
+        "Long time no see!",
+        "See you later!",
+        "Good luck!",
+        "Come on!"
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "Long time no see!"
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Бахти нек!» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: pronunciation"
+        "Good luck!",
+        "See you later!",
+        "Take it easy!",
+        "Hold on!"
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "Good luck!"
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Интизор шав!» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: vocabulary",
-        "нодуруст A",
-        "нодуруст B"
+        "Hold on!",
+        "Come on!",
+        "Take it easy!",
+        "No way!"
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "Hold on!"
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Биё дигар!» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: grammar",
-        "нодуруст A"
+        "Come on!",
+        "Hold on!",
+        "Take it easy!",
+        "See you later!"
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "Come on!"
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ин хеле хуб аст!» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: opportunity"
+        "That's great!",
+        "Of course!",
+        "Sure!",
+        "Never mind."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "That's great!"
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Чӣ хабар, дӯстам? Корҳо чӣ хел?» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст C"
+        "What's up, my friend? How's it going?",
+        "What's up, my friend? What's the matter?",
+        "How's it going, my friend? What's up?",
+        "What's the matter, my friend? How's it going?"
       ],
-      "answer": "тарҷума: experience"
+      "answer": "What's up, my friend? How's it going?"
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ором бош! Ҳеҷ гап не, ин муҳим нест.» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: environment",
-        "нодуруст A"
+        "Take it easy! Never mind, it is not important.",
+        "Take it easy! No way, it is not important.",
+        "Come on! Never mind, it is not important.",
+        "Take it easy! Never mind, it is very important."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Take it easy! Never mind, it is not important."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ҳеҷ имкон надорад! Ин тамоман дуруст нест.» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: communication"
+        "No way! That is not true at all.",
+        "No way! That is true at all.",
+        "Never mind! That is not true at all.",
+        "Of course! That is not true at all."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "No way! That is not true at all."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Албатта, ман ба ту кӯмак мекунам. Ҳа, албатта!» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст A"
+        "Of course, I will help you. Sure!",
+        "Of course, I will help you. No way!",
+        "Never mind, I will help you. Sure!",
+        "Of course, I will help you. Hold on!"
       ],
-      "answer": "тарҷума: education"
+      "answer": "Of course, I will help you. Sure!"
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Ман намедонам ӯ дар куҷост. Худат медонӣ, ки ӯро ёбӣ.» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: development",
-        "нодуруст C"
+        "I have no idea where he is. It's up to you to find him.",
+        "I have no idea where he is. It's up to me to find him.",
+        "It's up to you where he is. I have no idea to find him.",
+        "I have no idea where he is. It's up to you to look at him."
       ],
-      "answer": "тарҷума: development"
+      "answer": "I have no idea where he is. It's up to you to find him."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Чӣ шуд? Ту имрӯз ғамгин менамоӣ.» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: achievement",
-        "нодуруст C"
+        "What's the matter? You look sad today.",
+        "What's up? You look sad today.",
+        "How's it going? You look sad today.",
+        "What's the matter? You look happy today."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "What's the matter? You look sad today."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Дер боз диданамон! Ҳолат чӣ хел?» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Long time no see! How are you doing?",
+        "Long time no see! What's the matter?",
+        "See you later! How are you doing?",
+        "Long time no see! How's it going on?"
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "Long time no see! How are you doing?"
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Бахти нек! Ман умедворам, ки ту хуб мекунӣ.» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: knowledge",
-        "нодуруст B",
-        "нодуруст A"
+        "Good luck! I hope you will do well.",
+        "Good luck! I hope you will do bad.",
+        "See you later! I hope you will do well.",
+        "Good luck! I think you will do well."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "Good luck! I hope you will do well."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Интизор шав! Ман мехоҳам ба ту чизи муҳимро гӯям.» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "Hold on! I want to tell you something important.",
+        "Come on! I want to tell you something important.",
+        "Hold on! I want to tell you nothing important.",
+        "Take it easy! I want to tell you something important."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "Hold on! I want to tell you something important."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Биё дигар! Мо ба мактаб дер мемонем.» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: fluency",
-        "нодуруст A",
-        "нодуруст B"
+        "Come on! We will be late for school.",
+        "Hold on! We will be late for school.",
+        "Come on! We will be early for school.",
+        "Come on! They will be late for school."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "Come on! We will be late for school."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ин хеле хуб аст! Ман барои ту хеле хушбахтам.» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст C"
+        "That's great! I am very happy for you.",
+        "That's great! I am very sad for you.",
+        "That's bad! I am very happy for you.",
+        "That's great! I am very happy with you."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "That's great! I am very happy for you."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«То дидор! Худатро эҳтиёт кун.» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: pronunciation",
-        "нодуруст C"
+        "See you later! Take care of yourself.",
+        "See you later! Take care of himself.",
+        "Good luck! Take care of yourself.",
+        "See you later! Take care of herself."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "See you later! Take care of yourself."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ҳа, албатта, ман бегоҳ ба хонаи ту омада метавонам.» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: vocabulary"
+        "Sure, I can come to your house in the evening.",
+        "Sure, I can come to my house in the evening.",
+        "No way, I can come to your house in the evening.",
+        "Sure, I can come to your house in the morning."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "Sure, I can come to your house in the evening."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Албатта, модарам хӯроки шоми бомазза мепазад.» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: grammar",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Of course, my mother will cook a delicious dinner.",
+        "Of course, my grandmother will cook a delicious dinner.",
+        "Never mind, my mother will cook a delicious dinner.",
+        "Of course, my mother will cook a delicious lunch."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "Of course, my mother will cook a delicious dinner."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ҳеҷ имкон надорад! Бародари хурдии ман ҳеҷ гоҳ дурӯғ намегӯяд.» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "No way! My little brother never tells lies.",
+        "No way! My big brother never tells lies.",
+        "Never mind! My little brother never tells lies.",
+        "No way! My little brother always tells lies."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "No way! My little brother never tells lies."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Чӣ хабар? Биё дигар, ҳама чизро ба ман нақл кун!» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: experience"
+        "What's up? Come on, tell me everything!",
+        "What's up? Hold on, tell me everything!",
+        "How's it going? Come on, tell me everything!",
+        "What's up? Come on, tell me nothing!"
       ],
-      "answer": "тарҷума: experience"
+      "answer": "What's up? Come on, tell me everything!"
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ором бош ва ором бимои. Бахти нек!» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Take it easy and stay calm. Good luck!",
+        "Take it easy and stay calm. See you later!",
+        "Come on and stay calm. Good luck!",
+        "Take it easy and stay happy. Good luck!"
       ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: communication"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: education"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: development"
-    },
-    {
-      "q": "'achievement' чи маъно дорад?",
-      "options": [
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: achievement"
-    },
-    {
-      "q": "'challenge' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: challenge"
-      ],
-      "answer": "тарҷума: challenge"
-    },
-    {
-      "q": "'knowledge' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: knowledge"
-      ],
-      "answer": "тарҷума: knowledge"
-    },
-    {
-      "q": "'conversation' чи маъно дорад?",
-      "options": [
-        "тарҷума: conversation",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: conversation"
-    },
-    {
-      "q": "'fluency' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: fluency"
-      ],
-      "answer": "тарҷума: fluency"
+      "answer": "Take it easy and stay calm. Good luck!"
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 41
+  "wordsCount": 16
 }
