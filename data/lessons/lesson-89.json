@@ -1,581 +1,414 @@
 {
   "id": 89,
-  "title": "Муоширати воқеӣ 89",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 89: Чӣ тавр ман шарм хӯрдам",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "to sneeze",
+      "tj": "атса задан",
+      "ex": "I sneeze when I have a cold."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "fever",
+      "tj": "таб",
+      "ex": "The boy has a high fever."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "runny nose",
+      "tj": "бинии реза",
+      "ex": "I have a runny nose and a cough."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "to catch a cold",
+      "tj": "шарм хӯрдан",
+      "ex": "I caught a cold in the cold weather."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "pharmacist",
+      "tj": "доруфурӯш",
+      "ex": "The pharmacist gave me the medicine."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "sore throat",
+      "tj": "гулӯи дарднок",
+      "ex": "I have a sore throat and it hurts."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "to ache",
+      "tj": "дард кардан",
+      "ex": "My legs ache after the long walk."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to prevent",
+      "tj": "пешгирӣ кардан",
+      "ex": "We must prevent illness."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "to dress warmly",
+      "tj": "гарм пӯшидан",
+      "ex": "You must dress warmly in winter."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to stay warm",
+      "tj": "гарм мондан",
+      "ex": "Stay warm and drink hot tea."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "to cough",
+      "tj": "сулфа кардан",
+      "ex": "I cough at night when I am ill."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "to have a fever",
+      "tj": "таб доштан",
+      "ex": "The child has a fever and stays in bed."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "pharmacy",
+      "tj": "дорухона",
+      "ex": "My mother goes to the pharmacy for medicine."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "prescription",
+      "tj": "ретсепт",
+      "ex": "The doctor writes a prescription for me."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to recover",
+      "tj": "шифо ёфтан",
+      "ex": "I recover after three days in bed."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "to be careful",
+      "tj": "эҳтиёткор будан",
+      "ex": "We must be careful in cold weather."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 89)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Last week I caught a cold because the weather was very cold.",
+      "tj": "Ҳафтаи гузашта ман шарм хӯрдам, зеро ки обу ҳаво хеле хунук буд."
     },
     {
-      "en": "I'm working on lesson 89",
-      "tj": "Ман дарси 89-ро меомӯзам"
+      "en": "I had a fever, a runny nose and a sore throat.",
+      "tj": "Ман таб, бинии реза ва гулӯи дарднок доштам."
+    },
+    {
+      "en": "I sneezed and coughed all night.",
+      "tj": "Ман тамоми шаб атса задам ва сулфа кардам."
+    },
+    {
+      "en": "My legs and my head ached.",
+      "tj": "Пойҳоям ва сарам дард мекарданд."
+    },
+    {
+      "en": "My mother went to the pharmacy and the pharmacist gave her the medicine.",
+      "tj": "Модарам ба дорухона рафт ва доруфурӯш ба ӯ дору дод."
+    },
+    {
+      "en": "The doctor wrote a prescription for me.",
+      "tj": "Духтур барои ман ретсепт навишт."
+    },
+    {
+      "en": "I stayed in bed for three days and took my medicine.",
+      "tj": "Ман се рӯз дар кат мондам ва доруи худро хӯрдам."
+    },
+    {
+      "en": "I drank warm tea with honey and lemon.",
+      "tj": "Ман чойи гарм бо асал ва лимӯ нӯшидам."
+    },
+    {
+      "en": "After three days I began to recover.",
+      "tj": "Баъд аз се рӯз ман шифо ёфтанро оғоз кардам."
+    },
+    {
+      "en": "Now I know how to prevent illness.",
+      "tj": "Ҳоло ман медонам, ки чӣ тавр бемориро пешгирӣ кунам."
+    },
+    {
+      "en": "We must dress warmly in winter and stay warm.",
+      "tj": "Мо бояд дар зимистон гарм пӯшем ва гарм монем."
+    },
+    {
+      "en": "We must be careful in cold weather.",
+      "tj": "Мо бояд дар обу ҳавои хунук эҳтиёткор бошем."
+    },
+    {
+      "en": "We must eat good food and drink warm water.",
+      "tj": "Мо бояд ғизои хуб хӯрем ва оби гарм нӯшем."
+    },
+    {
+      "en": "A good doctor helps sick people and tells them how to be healthy.",
+      "tj": "Духтури хуб ба беморон кӯмак мекунад ва ба онҳо мегӯяд, ки чӣ тавр солим бошанд."
     }
   ],
   "text": {
-    "en": "Text for lesson 89. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 89 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 89 text.",
-    "tj": "Матни дарси 89..."
+    "en": "How I Caught a Cold\n\nMy name is Ismoil. I am a pupil of class four. Last week I caught a cold. The weather was very cold. I had a fever, a runny nose and a sore throat. I sneezed and coughed all night. My legs and my head ached.\n\nMy mother went to the pharmacy. The pharmacist gave her the medicine. The doctor wrote a prescription for me. I stayed in bed for three days and took my medicine. I drank warm tea with honey and lemon.\n\nAfter three days I began to recover. Now I know how to prevent illness. We must dress warmly in winter and stay warm. We must be careful in cold weather. We must eat good food and drink warm water.\n\nWhen I grow up, I want to be a doctor. I want to help sick people and tell them how to be healthy.",
+    "tj": "Чӣ тавр ман шарм хӯрдам\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ҳафтаи гузашта ман шарм хӯрдам. Обу ҳаво хеле хунук буд. Ман таб, бинии реза ва гулӯи дарднок доштам. Ман тамоми шаб атса задам ва сулфа кардам. Пойҳоям ва сарам дард мекарданд.\n\nМодарам ба дорухона рафт. Доруфурӯш ба ӯ дору дод. Духтур барои ман ретсепт навишт. Ман се рӯз дар кат мондам ва доруи худро хӯрдам. Ман чойи гарм бо асал ва лимӯ нӯшидам.\n\nБаъд аз се рӯз ман шифо ёфтанро оғоз кардам. Ҳоло ман медонам, ки чӣ тавр бемориро пешгирӣ кунам. Мо бояд дар зимистон гарм пӯшем ва гарм монем. Мо бояд дар обу ҳавои хунук эҳтиёткор бошем. Мо бояд ғизои хуб хӯрем ва оби гарм нӯшем.\n\nВақте ки ман калон мешавам, ман мехоҳам духтур шавам. Ман мехоҳам ба беморон кӯмак кунам ва ба онҳо гӯям, ки чӣ тавр солим бошанд."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ҳафтаи гузашта ман шарм хӯрдам, зеро ки обу ҳаво хеле хунук буд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст B"
+        "Last week I caught a cold because the weather was very cold.",
+        "Last week I caught cold because the weather was very cold.",
+        "Last week I caught a cold because weather was very cold.",
+        "Last week I caught a cold, because the weather was very cold."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Last week I caught a cold because the weather was very cold."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман таб, бинии реза ва гулӯи дарднок доштам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: experience"
+        "I had a fever, a runny nose and a sore throat.",
+        "I had fever, runny nose and sore throat.",
+        "I had a fever, runny nose and a sore throat.",
+        "I had a fever, a runny nose and sore throat."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I had a fever, a runny nose and a sore throat."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ман тамоми шаб атса задам ва сулфа кардам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст B"
+        "I sneezed and coughed all night.",
+        "I sneezed and coughed the whole night.",
+        "I sneezed and cough all night.",
+        "I sneezed and coughed all the night."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "I sneezed and coughed all night."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Пойҳоям ва сарам дард мекарданд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: communication",
-        "нодуруст B"
+        "My legs and my head ached.",
+        "My legs and head ached.",
+        "My legs and my head hurt.",
+        "My legs and my head ached."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "My legs and my head ached."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Модарам ба дорухона рафт ва доруфурӯш ба ӯ дору дод» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: education",
-        "нодуруст C",
-        "нодуруст B"
+        "My mother went to the pharmacy and the pharmacist gave her the medicine.",
+        "My mother went to the pharmacy and the pharmacist gave her medicine.",
+        "My mother went to a pharmacy and the pharmacist gave her the medicine.",
+        "My mother went to the pharmacy and pharmacist gave her the medicine."
       ],
-      "answer": "тарҷума: education"
+      "answer": "My mother went to the pharmacy and the pharmacist gave her the medicine."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Духтур барои ман ретсепт навишт» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: development",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The doctor wrote a prescription for me.",
+        "The doctor wrote the prescription for me.",
+        "The doctor wrote a prescription to me.",
+        "A doctor wrote a prescription for me."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The doctor wrote a prescription for me."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ман се рӯз дар кат мондам ва доруи худро хӯрдам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст B"
+        "I stayed in bed for three days and took my medicine.",
+        "I stayed in bed three days and took my medicine.",
+        "I stayed in the bed for three days and took my medicine.",
+        "I stayed in bed for three days and took the medicine."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "I stayed in bed for three days and took my medicine."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ман чойи гарм бо асал ва лимӯ нӯшидам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: challenge"
+        "I drank warm tea with honey and lemon.",
+        "I drank hot tea with honey and lemon.",
+        "I drank warm tea with honey and a lemon.",
+        "I drank warm tea with honey and lemon."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "I drank warm tea with honey and lemon."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Баъд аз се рӯз ман шифо ёфтанро оғоз кардам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: knowledge",
-        "нодуруст C",
-        "нодуруст B"
+        "After three days I began to recover.",
+        "After three days I began recovering.",
+        "After the three days I began to recover.",
+        "After three days I started to recover."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "After three days I began to recover."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Ҳоло ман медонам, ки чӣ тавр бемориро пешгирӣ кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: conversation",
-        "нодуруст C"
+        "Now I know how to prevent illness.",
+        "Now I know how to prevent the illness.",
+        "Now I know how to prevent a illness.",
+        "Now I know how to prevent diseases."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "Now I know how to prevent illness."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Мо бояд дар зимистон гарм пӯшем ва гарм монем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: fluency"
+        "We must dress warmly in winter and stay warm.",
+        "We must dress warm in winter and stay warm.",
+        "We must dress warmly in the winter and stay warm.",
+        "We should dress warmly in winter and stay warm."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "We must dress warmly in winter and stay warm."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Мо бояд дар обу ҳавои хунук эҳтиёткор бошем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "We must be careful in cold weather.",
+        "We must be careful in the cold weather.",
+        "We must be careful at cold weather.",
+        "We should be careful in cold weather."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "We must be careful in cold weather."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Мо бояд ғизои хуб хӯрем ва оби гарм нӯшем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: pronunciation",
-        "нодуруст A",
-        "нодуруст B"
+        "We must eat good food and drink warm water.",
+        "We must eat good food and drink hot water.",
+        "We must eat the good food and drink warm water.",
+        "We should eat good food and drink warm water."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "We must eat good food and drink warm water."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Духтури хуб ба беморон кӯмак мекунад ва ба онҳо мегӯяд, ки чӣ тавр солим бошанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: vocabulary"
+        "A good doctor helps sick people and tells them how to be healthy.",
+        "The good doctor helps sick people and tells them how to be healthy.",
+        "A good doctor helps sick people and says them how to be healthy.",
+        "A good doctor helps ill people and tells them how to be healthy."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "A good doctor helps sick people and tells them how to be healthy."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ман хонандаи синфи чорум ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: grammar",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "I am a pupil of class four.",
+        "I am pupil of class four.",
+        "I am a pupil of the class four.",
+        "I am a student of class four."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "I am a pupil of class four."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Обу ҳаво хеле хунук буд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: opportunity",
-        "нодуруст B"
+        "The weather was very cold.",
+        "Weather was very cold.",
+        "The weather was very cool.",
+        "The weather is very cold."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "The weather was very cold."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман ба духтур занг задам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст B"
+        "I called the doctor.",
+        "I called a doctor.",
+        "I phoned the doctor.",
+        "I called to the doctor."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I called the doctor."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Доруфурӯш ба ӯ дору дод» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст B"
+        "The pharmacist gave her the medicine.",
+        "The pharmacist gave the medicine to her.",
+        "A pharmacist gave her the medicine.",
+        "The pharmacist gave her medicine."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "The pharmacist gave her the medicine."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ман худро беҳтар ҳис кардам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: communication"
+        "I felt better.",
+        "I felt myself better.",
+        "I felt more better.",
+        "I felt good."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "I felt better."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ман мехоҳам ба беморон кӯмак кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст A"
+        "I want to help sick people.",
+        "I want to help ill people.",
+        "I want to help the sick people.",
+        "I want to help sick persons."
       ],
-      "answer": "тарҷума: education"
+      "answer": "I want to help sick people."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Вай ба ман китоби ҷолиб хонд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "She read me an interesting book.",
+        "She read an interesting book to me.",
+        "She read me the interesting book.",
+        "He read me an interesting book."
       ],
-      "answer": "тарҷума: development"
+      "answer": "She read me an interesting book."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Модарам ба ман ғамхорӣ кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: achievement",
-        "нодуруст A",
-        "нодуруст B"
+        "My mother took care of me.",
+        "My mother took care about me.",
+        "My mother looked after me.",
+        "My mother took care for me."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "My mother took care of me."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ман аз солим шуданам хушҳол будам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: challenge",
-        "нодуруст B",
-        "нодуруст A"
+        "I was glad to be healthy again.",
+        "I was happy to be healthy again.",
+        "I was glad to become healthy again.",
+        "I was glad to be well again."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "I was glad to be healthy again."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Ман ба мактаб баргаштам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: knowledge",
-        "нодуруст C",
-        "нодуруст A"
+        "I went back to school.",
+        "I returned to school.",
+        "I came back to school.",
+        "I went back to the school."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "I went back to school."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Духтур маро бодиққат муоина кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: conversation",
-        "нодуруст A"
+        "The doctor examined me carefully.",
+        "The doctor examined me very carefully.",
+        "A doctor examined me carefully.",
+        "The doctor examined me careful."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The doctor examined me carefully."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ман ба дорухона рафтам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: fluency",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "I went to the pharmacy.",
+        "I went to a pharmacy.",
+        "I went to pharmacy.",
+        "I went at the pharmacy."
       ],
-      "answer": "тарҷума: fluency"
-    },
-    {
-      "q": "'confidence' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: pronunciation",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "тарҷума: vocabulary",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: grammar",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: opportunity"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "тарҷума: education",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: development"
-    },
-    {
-      "q": "'achievement' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: achievement"
-      ],
-      "answer": "тарҷума: achievement"
+      "answer": "I went to the pharmacy."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 37
+  "wordsCount": 16
 }
