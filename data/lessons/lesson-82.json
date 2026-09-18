@@ -1,551 +1,394 @@
 {
   "id": 82,
-  "title": "Муоширати воқеӣ 82",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 82: Тирамоҳ дар деҳа",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "autumn",
+      "tj": "тирамоҳ",
+      "ex": "Autumn is a beautiful season."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "harvest",
+      "tj": "ҳосил",
+      "ex": "The harvest is good this year."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "to gather",
+      "tj": "ҷамъ кардан",
+      "ex": "We gather apples in the garden."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "yellow",
+      "tj": "зард",
+      "ex": "The leaves are yellow in autumn."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "leaf",
+      "tj": "барг",
+      "ex": "A yellow leaf fell from the tree."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "basket",
+      "tj": "сабад",
+      "ex": "She carries a basket of fruit."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "to carry",
+      "tj": "бардоштан",
+      "ex": "I carry the basket to the house."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to bake",
+      "tj": "пухтан",
+      "ex": "My grandmother bakes bread."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "to cook",
+      "tj": "пухтан",
+      "ex": "My mother cooks dinner."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to help",
+      "tj": "кӯмак кардан",
+      "ex": "I help my grandmother."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "to work",
+      "tj": "кор кардан",
+      "ex": "We work in the garden."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "to rest",
+      "tj": "дам гирифтан",
+      "ex": "We rest after work."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "weather",
+      "tj": "обу ҳаво",
+      "ex": "The weather is cold in autumn."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "rain",
+      "tj": "борон",
+      "ex": "The rain is cold."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "wind",
+      "tj": "шамол",
+      "ex": "The wind is strong today."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "cloud",
+      "tj": "абр",
+      "ex": "There are grey clouds in the sky."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 82)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Autumn is a beautiful season in the village.",
+      "tj": "Тирамоҳ дар деҳа фасли зебост."
     },
     {
-      "en": "I'm working on lesson 82",
-      "tj": "Ман дарси 82-ро меомӯзам"
+      "en": "The leaves are yellow, red and brown.",
+      "tj": "Баргҳо зард, сурх ва қаҳваранг ҳастанд."
+    },
+    {
+      "en": "We gather apples and put them in a big basket.",
+      "tj": "Мо себҳоро ҷамъ мекунем ва онҳоро ба сабади калон мегузорем."
+    },
+    {
+      "en": "I carry the basket to the house.",
+      "tj": "Ман сабадро ба хона мебардорам."
+    },
+    {
+      "en": "My grandmother bakes bread and cooks dinner.",
+      "tj": "Бибиам нон мепазад ва хӯроки шом мепазад."
+    },
+    {
+      "en": "We work in the garden and rest after work.",
+      "tj": "Мо дар боғ кор мекунем ва баъд аз кор дам мегирем."
+    },
+    {
+      "en": "The weather is cold and the rain is cold too.",
+      "tj": "Обу ҳаво хунук аст ва борон низ хунук аст."
+    },
+    {
+      "en": "The wind is strong and there are grey clouds in the sky.",
+      "tj": "Шамол қавӣ аст ва дар осмон абрҳои хокистарӣ ҳастанд."
+    },
+    {
+      "en": "In autumn the days are short and the nights are long.",
+      "tj": "Дар тирамоҳ рӯзҳо кӯтоҳ ва шабҳо дароз ҳастанд."
+    },
+    {
+      "en": "The harvest is good this year.",
+      "tj": "Ҳосил дар ин сол хуб аст."
+    },
+    {
+      "en": "We are happy because we have a lot of fruit and vegetables.",
+      "tj": "Мо хушбахт ҳастем, зеро ки мо мева ва сабзавоти зиёд дорем."
+    },
+    {
+      "en": "The village is quiet and beautiful in autumn.",
+      "tj": "Деҳа дар тирамоҳ ором ва зебо аст."
+    },
+    {
+      "en": "I love autumn because it is a time of harvest and joy.",
+      "tj": "Ман тирамоҳро дӯст медорам, зеро ки он вақти ҳосил ва шодист."
+    },
+    {
+      "en": "When I grow up, I want to work in the village in autumn too.",
+      "tj": "Вақте ки ман калон мешавам, ман низ мехоҳам дар тирамоҳ дар деҳа кор кунам."
     }
   ],
   "text": {
-    "en": "Text for lesson 82. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 82 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 82 text.",
-    "tj": "Матни дарси 82..."
+    "en": "Autumn in the Village\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. But my grandmother and grandfather live in a village near the mountains. In autumn I go to the village and help them.\n\nAutumn is a beautiful season. The leaves are yellow, red and brown. The weather is cold. The rain is cold too. The wind is strong and there are grey clouds in the sky. The days are short and the nights are long.\n\nIn autumn we gather apples, apricots and vegetables. We put them in a big basket. I carry the basket to the house. My grandmother bakes bread and cooks dinner. We work in the garden and rest after work.\n\nThe harvest is good this year. We have a lot of fruit and vegetables. We are happy. The village is quiet and beautiful in autumn. I love autumn because it is a time of harvest and joy.\n\nWhen I grow up, I want to be a doctor. But I also want to work in the village in autumn. Because the village is my second home.",
+    "tj": "Тирамоҳ дар деҳа\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Аммо биби ва бобои ман дар деҳае дар назди кӯҳҳо зиндагӣ мекунанд. Дар тирамоҳ ман ба деҳа меравам ва ба онҳо кӯмак мекунам.\n\nТирамоҳ фасли зебост. Баргҳо зард, сурх ва қаҳваранг ҳастанд. Обу ҳаво хунук аст. Борон низ хунук аст. Шамол қавӣ аст ва дар осмон абрҳои хокистарӣ ҳастанд. Рӯзҳо кӯтоҳ ва шабҳо дароз ҳастанд.\n\nДар тирамоҳ мо себ, зардолу ва сабзавот ҷамъ мекунем. Мо онҳоро ба сабади калон мегузорем. Ман сабадро ба хона мебардорам. Бибиам нон мепазад ва хӯроки шом мепазад. Мо дар боғ кор мекунем ва баъд аз кор дам мегирем.\n\nҲосил дар ин сол хуб аст. Мо мева ва сабзавоти зиёд дорем. Мо хушбахт ҳастем. Деҳа дар тирамоҳ ором ва зебо аст. Ман тирамоҳро дӯст медорам, зеро ки он вақти ҳосил ва шодист.\n\nВақте ки ман калон мешавам, ман мехоҳам духтур шавам. Аммо ман инчунин мехоҳам дар тирамоҳ дар деҳа кор кунам. Зеро ки деҳа хонаи дуюми ман аст."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Тирамоҳ дар деҳа фасли зебост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "Autumn is a beautiful season in the village.",
+        "The autumn is a beautiful season in the village.",
+        "Autumn is a beautiful season in a village.",
+        "Autumn is the beautiful season in the village."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Autumn is a beautiful season in the village."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Баргҳо зард, сурх ва қаҳваранг ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст C"
+        "The leaves are yellow, red and brown.",
+        "Leaves are yellow, red and brown.",
+        "The leafs are yellow, red and brown.",
+        "The leaves are yellow, red and brown."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The leaves are yellow, red and brown."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Мо себҳоро ҷамъ мекунем ва онҳоро ба сабади калон мегузорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "We gather apples and put them in a big basket.",
+        "We gather the apples and put them in a big basket.",
+        "We gather apples and put it in a big basket.",
+        "We collect apples and put them in a big basket."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "We gather apples and put them in a big basket."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ман сабадро ба хона мебардорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: communication"
+        "I carry the basket to the house.",
+        "I carry a basket to the house.",
+        "I carry the basket in the house.",
+        "I take the basket to the house."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "I carry the basket to the house."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Бибиам нон мепазад ва хӯроки шом мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: education",
-        "нодуруст C",
-        "нодуруст A"
+        "My grandmother bakes bread and cooks dinner.",
+        "My grandmother bakes bread and cooks the dinner.",
+        "My grandmother cooks bread and cooks dinner.",
+        "My grandmother bakes bread and makes dinner."
       ],
-      "answer": "тарҷума: education"
+      "answer": "My grandmother bakes bread and cooks dinner."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Мо дар боғ кор мекунем ва баъд аз кор дам мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: development",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "We work in the garden and rest after work.",
+        "We work in a garden and rest after work.",
+        "We work in the garden and rest after the work.",
+        "We work in the garden and have a rest after work."
       ],
-      "answer": "тарҷума: development"
+      "answer": "We work in the garden and rest after work."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Обу ҳаво хунук аст ва борон низ хунук аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: achievement",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "The weather is cold and the rain is cold too.",
+        "The weather is cold and rain is cold too.",
+        "Weather is cold and the rain is cold too.",
+        "The weather is cold and the rain is cold as well."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The weather is cold and the rain is cold too."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Шамол қавӣ аст ва дар осмон абрҳои хокистарӣ ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: challenge",
-        "нодуруст A"
+        "The wind is strong and there are grey clouds in the sky.",
+        "The wind is strong and there are gray clouds in the sky.",
+        "Wind is strong and there are grey clouds in the sky.",
+        "The wind is strong and there are grey clouds in sky."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The wind is strong and there are grey clouds in the sky."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Дар тирамоҳ рӯзҳо кӯтоҳ ва шабҳо дароз ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: knowledge",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "In autumn the days are short and the nights are long.",
+        "In the autumn the days are short and the nights are long.",
+        "In autumn days are short and nights are long.",
+        "In autumn the days are short and nights are long."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "In autumn the days are short and the nights are long."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Ҳосил дар ин сол хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "The harvest is good this year.",
+        "The harvest is good in this year.",
+        "Harvest is good this year.",
+        "The harvest is nice this year."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The harvest is good this year."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Мо хушбахт ҳастем, зеро ки мо мева ва сабзавоти зиёд дорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: fluency"
+        "We are happy because we have a lot of fruit and vegetables.",
+        "We are happy because we have many fruit and vegetables.",
+        "We are happy, because we have a lot of fruit and vegetables.",
+        "We are happy because we have a lot of fruits and vegetables."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "We are happy because we have a lot of fruit and vegetables."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Деҳа дар тирамоҳ ором ва зебо аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст B",
-        "нодуруст C"
+        "The village is quiet and beautiful in autumn.",
+        "The village is quiet and beautiful in the autumn.",
+        "A village is quiet and beautiful in autumn.",
+        "The village is calm and beautiful in autumn."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "The village is quiet and beautiful in autumn."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Ман тирамоҳро дӯст медорам, зеро ки он вақти ҳосил ва шодист» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: pronunciation",
-        "нодуруст C"
+        "I love autumn because it is a time of harvest and joy.",
+        "I love autumn because it is the time of harvest and joy.",
+        "I love the autumn because it is a time of harvest and joy.",
+        "I like autumn because it is a time of harvest and joy."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "I love autumn because it is a time of harvest and joy."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Вақте ки ман калон мешавам, ман низ мехоҳам дар тирамоҳ дар деҳа кор кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: vocabulary",
-        "нодуруст C"
+        "When I grow up, I want to work in the village in autumn too.",
+        "When I grow up I want to work in the village in autumn too.",
+        "When I grow up, I also want to work in the village in autumn.",
+        "When I grow up, I want to work in a village in autumn too."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "When I grow up, I want to work in the village in autumn too."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Аммо биби ва бобои ман дар деҳае дар назди кӯҳҳо зиндагӣ мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: grammar",
-        "нодуруст B"
+        "But my grandmother and grandfather live in a village near the mountains.",
+        "But my grandmother and grandfather live in a village near mountains.",
+        "But my grandmother and grandfather live in the village near the mountains.",
+        "But my grandmother and grandfather lives in a village near the mountains."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "But my grandmother and grandfather live in a village near the mountains."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Дар тирамоҳ ман ба деҳа меравам ва ба онҳо кӯмак мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст C"
+        "In autumn I go to the village and help them.",
+        "In the autumn I go to the village and help them.",
+        "In autumn I go to a village and help them.",
+        "In autumn I go to the village and help him."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "In autumn I go to the village and help them."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Мо онҳоро ба сабади калон мегузорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: experience"
+        "We put them in a big basket.",
+        "We put it in a big basket.",
+        "We put them into a big basket.",
+        "We put them in the big basket."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "We put them in a big basket."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Мо мева ва сабзавоти зиёд дорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "We have a lot of fruit and vegetables.",
+        "We have many fruit and vegetables.",
+        "We have a lot of fruits and vegetables.",
+        "We have much fruit and vegetables."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "We have a lot of fruit and vegetables."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Зеро ки деҳа хонаи дуюми ман аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: communication"
+        "Because the village is my second home.",
+        "Because a village is my second home.",
+        "Because the village is my second house.",
+        "Because village is my second home."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "Because the village is my second home."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Тирамоҳ фасли зебост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: education"
+        "Autumn is a beautiful season.",
+        "The autumn is a beautiful season.",
+        "Autumn is the beautiful season.",
+        "Autumn is a nice season."
       ],
-      "answer": "тарҷума: education"
+      "answer": "Autumn is a beautiful season."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Борон низ хунук аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: development",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "The rain is cold too.",
+        "Rain is cold too.",
+        "The rain is cold as well.",
+        "The rain is also cold."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The rain is cold too."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Рӯзҳо кӯтоҳ ва шабҳо дароз ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст B"
+        "The days are short and the nights are long.",
+        "Days are short and nights are long.",
+        "The days are short and nights are long.",
+        "The days are short and the nights are long."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The days are short and the nights are long."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ман сабадро ба хона мебардорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "I carry the basket to the house.",
+        "I carry a basket to the house.",
+        "I bring the basket to the house.",
+        "I carry the basket in the house."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "I carry the basket to the house."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Мо дар боғ кор мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: knowledge",
-        "нодуруст A"
+        "We work in the garden.",
+        "We work in a garden.",
+        "We work in garden.",
+        "We work at the garden."
       ],
-      "answer": "тарҷума: knowledge"
-    },
-    {
-      "q": "'conversation' чи маъно дорад?",
-      "options": [
-        "тарҷума: conversation",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: conversation"
-    },
-    {
-      "q": "'fluency' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: fluency"
-      ],
-      "answer": "тарҷума: fluency"
-    },
-    {
-      "q": "'confidence' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: confidence",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: pronunciation",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: vocabulary",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: grammar",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: experience"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: environment",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: communication"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: education",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: education"
+      "answer": "We work in the garden."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 35
+  "wordsCount": 16
 }
