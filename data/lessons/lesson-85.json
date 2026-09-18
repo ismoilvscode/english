@@ -1,566 +1,432 @@
 {
   "id": 85,
-  "title": "Муоширати воқеӣ 85",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 85: Тобистон дар кӯл",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "vacation",
+      "tj": "таътил",
+      "ex": "Summer vacation is the best time of the year."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "lake",
+      "tj": "кӯл",
+      "ex": "The lake is near the mountains."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "beach",
+      "tj": "соҳил",
+      "ex": "We rest on the beach near the lake."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "sand",
+      "tj": "рег",
+      "ex": "The sand is warm and soft."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "to swim",
+      "tj": "шино кардан",
+      "ex": "I swim in the lake in summer."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "to dive",
+      "tj": "ғӯта хӯрдан",
+      "ex": "My brother learns to dive in the water."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "boat",
+      "tj": "қаиқ",
+      "ex": "My father has an old boat."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to fish",
+      "tj": "моҳигирӣ кардан",
+      "ex": "We fish in the lake every morning."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "fish",
+      "tj": "моҳӣ",
+      "ex": "We catch a big fish in the lake."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "watermelon",
+      "tj": "тарбуз",
+      "ex": "Watermelon is sweet and cool."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "melon",
+      "tj": "хӯрбӯя",
+      "ex": "The melon is yellow and sweet."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "peach",
+      "tj": "шафтолу",
+      "ex": "The peach is soft and tasty."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "grapes",
+      "tj": "ангур",
+      "ex": "The grapes are green and sweet."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "seashell",
+      "tj": "садафи баҳрӣ",
+      "ex": "My sister collects seashells on the beach."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "sandcastle",
+      "tj": "қалъаи регӣ",
+      "ex": "I make a sandcastle near the water."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "to rest",
+      "tj": "дам гирифтан",
+      "ex": "We rest on the warm sand."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 85)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "In summer my family and I go to the lake near the mountains.",
+      "tj": "Дар тобистон ман ва оилаам ба кӯл дар назди кӯҳҳо меравем."
     },
     {
-      "en": "I'm working on lesson 85",
-      "tj": "Ман дарси 85-ро меомӯзам"
+      "en": "It is vacation time and we are very happy.",
+      "tj": "Вақти таътил аст ва мо хеле хушбахт ҳастем."
+    },
+    {
+      "en": "The water in the lake is clean and cold.",
+      "tj": "Об дар кӯл тоза ва хунук аст."
+    },
+    {
+      "en": "We rest on the beach and swim in the lake.",
+      "tj": "Мо дар соҳил дам мегирем ва дар кӯл шино мекунем."
+    },
+    {
+      "en": "My father has a small boat and we go fishing.",
+      "tj": "Падарам қаиқи хурд дорад ва мо ба моҳигирӣ меравем."
+    },
+    {
+      "en": "We catch fish in the lake every morning.",
+      "tj": "Мо ҳар субҳ дар кӯл моҳӣ мегирем."
+    },
+    {
+      "en": "My mother brings watermelon, melon, peaches and grapes.",
+      "tj": "Модарам тарбуз, хӯрбӯя, шафтолу ва ангур меорад."
+    },
+    {
+      "en": "These fruits are very tasty and sweet.",
+      "tj": "Ин меваҳо хеле бомазза ва ширин ҳастанд."
+    },
+    {
+      "en": "I make a sandcastle in the warm sand.",
+      "tj": "Ман дар реги гарм қалъаи регӣ месозам."
+    },
+    {
+      "en": "My sister collects seashells on the beach.",
+      "tj": "Хоҳарам дар соҳил садафҳои баҳрӣ ҷамъ мекунад."
+    },
+    {
+      "en": "My brother learns to dive in the water.",
+      "tj": "Бародарам дар об ғӯта хӯрданро меомӯзад."
+    },
+    {
+      "en": "In the afternoon we rest on the warm sand.",
+      "tj": "Баъд аз нисфирӯзӣ мо дар реги гарм дам мегирем."
+    },
+    {
+      "en": "The sun is hot and the sky is blue.",
+      "tj": "Офтоб гарм аст ва осмон кабуд аст."
+    },
+    {
+      "en": "Summer at the lake is a very good time.",
+      "tj": "Тобистон дар кӯл вақти хеле хуш аст."
+    },
+    {
+      "en": "I love vacation because I can swim and fish every day.",
+      "tj": "Ман таътилро дӯст медорам, зеро ки ман ҳар рӯз шино карда ва моҳигирӣ карда метавонам."
+    },
+    {
+      "en": "When I grow up, I want to bring my children to this lake too.",
+      "tj": "Вақте ки ман калон мешавам, ман мехоҳам кӯдаконамро низ ба ин кӯл оварам."
     }
   ],
   "text": {
-    "en": "Text for lesson 85. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 85 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 85 text.",
-    "tj": "Матни дарси 85..."
+    "en": "Summer at the Lake\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. In summer my family and I go to the lake near the mountains. It is vacation time.\n\nThe water in the lake is clean and cold. We rest on the beach and swim in the lake. My father has a small boat. We go fishing every morning and catch fish.\n\nMy mother brings watermelon, melon, peaches and grapes. These fruits are very tasty and sweet. I make a sandcastle in the warm sand. My sister collects seashells on the beach. My brother learns to dive in the water.\n\nIn the afternoon we rest on the warm sand. The sun is hot and the sky is blue. Summer at the lake is a very good time.\n\nI love vacation because I can swim and fish every day. When I grow up, I want to bring my children to this lake too.",
+    "tj": "Тобистон дар кӯл\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Дар тобистон ман ва оилаам ба кӯл дар назди кӯҳҳо меравем. Вақти таътил аст.\n\nОб дар кӯл тоза ва хунук аст. Мо дар соҳил дам мегирем ва дар кӯл шино мекунем. Падарам қаиқи хурд дорад. Мо ҳар субҳ ба моҳигирӣ меравем ва моҳӣ мегирем.\n\nМодарам тарбуз, хӯрбӯя, шафтолу ва ангур меорад. Ин меваҳо хеле бомазза ва ширин ҳастанд. Ман дар реги гарм қалъаи регӣ месозам. Хоҳарам дар соҳил садафҳои баҳрӣ ҷамъ мекунад. Бародарам дар об ғӯта хӯрданро меомӯзад.\n\nБаъд аз нисфирӯзӣ мо дар реги гарм дам мегирем. Офтоб гарм аст ва осмон кабуд аст. Тобистон дар кӯл вақти хеле хуш аст.\n\nМан таътилро дӯст медорам, зеро ки ман ҳар рӯз шино карда ва моҳигирӣ карда метавонам. Вақте ки ман калон мешавам, ман мехоҳам кӯдаконамро низ ба ин кӯл оварам."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Дар тобистон ман ва оилаам ба кӯл дар назди кӯҳҳо меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: opportunity"
+        "In summer my family and I go to the lake near the mountains.",
+        "In the summer my family and I go to the lake near the mountains.",
+        "In summer my family and I go to a lake near the mountains.",
+        "In summer my family and I go to the lake near mountains."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "In summer my family and I go to the lake near the mountains."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Вақти таътил аст ва мо хеле хушбахт ҳастем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: experience",
-        "нодуруст B",
-        "нодуруст A"
+        "It is vacation time and we are very happy.",
+        "It is a vacation time and we are very happy.",
+        "It is vacation time and we are happy very much.",
+        "It is the vacation time and we are very happy."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "It is vacation time and we are very happy."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Об дар кӯл тоза ва хунук аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The water in the lake is clean and cold.",
+        "Water in the lake is clean and cold.",
+        "The water in a lake is clean and cold.",
+        "The water in the lake is clean and cool."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "The water in the lake is clean and cold."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Мо дар соҳил дам мегирем ва дар кӯл шино мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "We rest on the beach and swim in the lake.",
+        "We rest on a beach and swim in the lake.",
+        "We rest on the beach and swim in a lake.",
+        "We have a rest on the beach and swim in the lake."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "We rest on the beach and swim in the lake."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Падарам қаиқи хурд дорад ва мо ба моҳигирӣ меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: education"
+        "My father has a small boat and we go fishing.",
+        "My father has a small boat and we go to fish.",
+        "My father has the small boat and we go fishing.",
+        "My father has a little boat and we go fishing."
       ],
-      "answer": "тарҷума: education"
+      "answer": "My father has a small boat and we go fishing."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Мо ҳар субҳ дар кӯл моҳӣ мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: development",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "We catch fish in the lake every morning.",
+        "We catch a fish in the lake every morning.",
+        "We catch fish in a lake every morning.",
+        "We catch the fish in the lake every morning."
       ],
-      "answer": "тарҷума: development"
+      "answer": "We catch fish in the lake every morning."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Модарам тарбуз, хӯрбӯя, шафтолу ва ангур меорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: achievement",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "My mother brings watermelon, melon, peaches and grapes.",
+        "My mother brings a watermelon, melon, peaches and grapes.",
+        "My mother brings watermelon, a melon, peaches and grapes.",
+        "My mother brings watermelons, melons, peaches and grapes."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "My mother brings watermelon, melon, peaches and grapes."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ин меваҳо хеле бомазза ва ширин ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "These fruits are very tasty and sweet.",
+        "This fruit are very tasty and sweet.",
+        "These fruits are very tasty and sweet.",
+        "These fruit are very tasty and sweet."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "These fruits are very tasty and sweet."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Ман дар реги гарм қалъаи регӣ месозам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: knowledge",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "I make a sandcastle in the warm sand.",
+        "I make the sandcastle in the warm sand.",
+        "I make a sandcastle in warm sand.",
+        "I build a sandcastle in the warm sand."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "I make a sandcastle in the warm sand."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Хоҳарам дар соҳил садафҳои баҳрӣ ҷамъ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: conversation",
-        "нодуруст B"
+        "My sister collects seashells on the beach.",
+        "My sister collects the seashells on the beach.",
+        "My sister gathers seashells on the beach.",
+        "My sister collects seashells at the beach."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "My sister collects seashells on the beach."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Бародарам дар об ғӯта хӯрданро меомӯзад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: fluency",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "My brother learns to dive in the water.",
+        "My brother learns to dive in water.",
+        "My brother is learning to dive in the water.",
+        "My brother learns diving in the water."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "My brother learns to dive in the water."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Баъд аз нисфирӯзӣ мо дар реги гарм дам мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "In the afternoon we rest on the warm sand.",
+        "In the afternoon we have a rest on the warm sand.",
+        "In afternoon we rest on the warm sand.",
+        "In the afternoon we rest on warm sand."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "In the afternoon we rest on the warm sand."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Офтоб гарм аст ва осмон кабуд аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: pronunciation",
-        "нодуруст B",
-        "нодуруст A"
+        "The sun is hot and the sky is blue.",
+        "The sun is warm and the sky is blue.",
+        "The sun is hot and sky is blue.",
+        "A sun is hot and the sky is blue."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "The sun is hot and the sky is blue."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Тобистон дар кӯл вақти хеле хуш аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: vocabulary",
-        "нодуруст C"
+        "Summer at the lake is a very good time.",
+        "Summer at a lake is a very good time.",
+        "The summer at the lake is a very good time.",
+        "Summer at the lake is very good time."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "Summer at the lake is a very good time."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ман таътилро дӯст медорам, зеро ки ман ҳар рӯз шино карда ва моҳигирӣ карда метавонам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: grammar",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "I love vacation because I can swim and fish every day.",
+        "I love vacation because I can swim and to fish every day.",
+        "I love the vacation because I can swim and fish every day.",
+        "I love vacation because I can swim and fish each day."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "I love vacation because I can swim and fish every day."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам кӯдаконамро низ ба ин кӯл оварам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: opportunity"
+        "When I grow up, I want to bring my children to this lake too.",
+        "When I grow up I want to bring my children to this lake too.",
+        "When I grow up, I want to bring my children to the lake too.",
+        "When I grow up, I want to take my children to this lake too."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "When I grow up, I want to bring my children to this lake too."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман хонандаи синфи чорум ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: experience"
+        "I am a pupil of class four.",
+        "I am pupil of class four.",
+        "I am a pupil of the class four.",
+        "I am a student of class four."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I am a pupil of class four."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ман дар Душанбе бо оилаам зиндагӣ мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: environment"
+        "I live in Dushanbe with my family.",
+        "I live in Dushanbe with the family.",
+        "I live in Dushanbe with my famaly.",
+        "I live in Dushanbe with family."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "I live in Dushanbe with my family."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Мо дар соҳил дам мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст B"
+        "We rest on the beach.",
+        "We rest on a beach.",
+        "We have a rest on the beach.",
+        "We rest at the beach."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "We rest on the beach."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ман ҳар рӯз шино карда метавонам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: education",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "I can swim every day.",
+        "I can swim each day.",
+        "I can swim every morning.",
+        "I can swim every day."
       ],
-      "answer": "тарҷума: education"
+      "answer": "I can swim every day."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Мо ҳар субҳ ба моҳигирӣ меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "We go fishing every morning.",
+        "We go to fish every morning.",
+        "We go fishing each morning.",
+        "We go fishing every day."
       ],
-      "answer": "тарҷума: development"
+      "answer": "We go fishing every morning."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Об дар кӯл тоза ва хунук аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: achievement"
+        "The water in the lake is clean and cold.",
+        "Water in the lake is clean and cold.",
+        "The water in a lake is clean and cold.",
+        "The water in the lake is clean and cool."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The water in the lake is clean and cold."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ман дар реги гарм қалъаи регӣ месозам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: challenge"
+        "I make a sandcastle in the warm sand.",
+        "I make the sandcastle in the warm sand.",
+        "I make a sandcastle in warm sand.",
+        "I build a sandcastle in the warm sand."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "I make a sandcastle in the warm sand."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Бародарам дар об ғӯта хӯрданро меомӯзад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: knowledge",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "My brother learns to dive in the water.",
+        "My brother learns to dive in water.",
+        "My brother is learning to dive in the water.",
+        "My brother learns diving in the water."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "My brother learns to dive in the water."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Хоҳарам дар соҳил садафҳои баҳрӣ ҷамъ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: conversation",
-        "нодуруст A"
+        "My sister collects seashells on the beach.",
+        "My sister collects the seashells on the beach.",
+        "My sister gathers seashells on the beach.",
+        "My sister collects seashells at the beach."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "My sister collects seashells on the beach."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Офтоб гарм аст ва осмон кабуд аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: fluency"
+        "The sun is hot and the sky is blue.",
+        "The sun is warm and the sky is blue.",
+        "The sun is hot and sky is blue.",
+        "A sun is hot and the sky is blue."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "The sun is hot and the sky is blue."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Тобистон дар кӯл вақти хеле хуш аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Summer at the lake is a very good time.",
+        "Summer at a lake is a very good time.",
+        "The summer at the lake is a very good time.",
+        "Summer at the lake is very good time."
       ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: pronunciation",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: vocabulary"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "тарҷума: grammar",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: experience"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: environment",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: education"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: development"
-      ],
-      "answer": "тарҷума: development"
+      "answer": "Summer at the lake is a very good time."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 36
+  "wordsCount": 16
 }
