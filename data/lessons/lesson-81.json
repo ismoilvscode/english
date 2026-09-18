@@ -1,551 +1,394 @@
 {
   "id": 81,
-  "title": "Муоширати воқеӣ 81",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 81: Тобистони ман дар деҳа",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "village",
+      "tj": "деҳа",
+      "ex": "My grandmother lives in a small village."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "to milk",
+      "tj": "дӯшидан",
+      "ex": "My grandmother milks the cow every morning."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "field",
+      "tj": "киштзор",
+      "ex": "The farmer works in the field."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "fresh",
+      "tj": "тоза",
+      "ex": "The air in the village is fresh."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "clean",
+      "tj": "пок",
+      "ex": "The water in the river is clean."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "treasure",
+      "tj": "ганҷ",
+      "ex": "Nature is our greatest treasure."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "farm",
+      "tj": "хоҷагӣ",
+      "ex": "My grandfather has a small farm."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to collect",
+      "tj": "ҷамъ кардан",
+      "ex": "I collect eggs from the hens."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "hen",
+      "tj": "мурғ",
+      "ex": "The hen gives us eggs every day."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "cow",
+      "tj": "гов",
+      "ex": "The cow gives us milk."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "sheep",
+      "tj": "гӯсфанд",
+      "ex": "The sheep graze in the field."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "horse",
+      "tj": "асп",
+      "ex": "My grandfather has a strong horse."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "garden",
+      "tj": "боғ",
+      "ex": "We grow vegetables in our garden."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "to pick",
+      "tj": "чидан",
+      "ex": "We pick apples and apricots."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "delicious",
+      "tj": "бомазза",
+      "ex": "My grandmother cooks delicious food."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "to live",
+      "tj": "зиндагӣ кардан",
+      "ex": "I want to live near the mountains."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 81)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Every summer I go to the village where my grandmother and grandfather live.",
+      "tj": "Ҳар тобистон ман ба деҳае меравам, ки биби ва бобоям дар он ҷо зиндагӣ мекунанд."
     },
     {
-      "en": "I'm working on lesson 81",
-      "tj": "Ман дарси 81-ро меомӯзам"
+      "en": "In the morning I get up early and help my grandfather with the animals.",
+      "tj": "Субҳ ман барвақт аз ҷой мехезам ва ба бобоям бо ҳайвонот кӯмак мекунам."
+    },
+    {
+      "en": "My grandmother milks the cows and makes butter and cheese.",
+      "tj": "Бибиам говҳоро медӯшад ва равғану панир месозад."
+    },
+    {
+      "en": "I collect eggs from the hens every morning.",
+      "tj": "Ман ҳар субҳ тухмҳоро аз мурғҳо ҷамъ мекунам."
+    },
+    {
+      "en": "After breakfast I go to the field with my grandfather.",
+      "tj": "Баъд аз наҳорӣ ман бо бобоям ба киштзор меравам."
+    },
+    {
+      "en": "We pick apples, apricots and vegetables in the garden.",
+      "tj": "Мо дар боғ себ, зардолу ва сабзавот мечинам."
+    },
+    {
+      "en": "My grandmother cooks a delicious dinner for the whole family.",
+      "tj": "Бибиам барои тамоми оила хӯроки бомазза мепазад."
+    },
+    {
+      "en": "In the evening we sit around the table and talk about our day.",
+      "tj": "Бегоҳ мо гирди миз менишинем ва дар бораи рӯзи худ гап мезанем."
+    },
+    {
+      "en": "The air in the village is fresh and clean.",
+      "tj": "Ҳаво дар деҳа тоза ва пок аст."
+    },
+    {
+      "en": "At night I see thousands of stars in the dark sky.",
+      "tj": "Шабона ман ҳазорон ситораро дар осмони торик мебинам."
+    },
+    {
+      "en": "When I grow up, I want to be a doctor.",
+      "tj": "Вақте ки ман калон мешавам, ман мехоҳам духтур шавам."
+    },
+    {
+      "en": "I also want to have a small farm with cows, sheep and hens.",
+      "tj": "Ман инчунин мехоҳам хоҷагии хурд бо говҳо, гӯсфандҳо ва мурғҳо дошта бошам."
+    },
+    {
+      "en": "I want to live in a beautiful place near the mountains.",
+      "tj": "Ман мехоҳам дар ҷои зебо дар назди кӯҳҳо зиндагӣ кунам."
+    },
+    {
+      "en": "Nature is our greatest treasure.",
+      "tj": "Табиат бузургтарин ганҷи мост."
     }
   ],
   "text": {
-    "en": "Text for lesson 81. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 81 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 81 text.",
-    "tj": "Матни дарси 81..."
+    "en": "My Summer in the Village\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. Every summer I go to the village where my grandmother and grandfather live. The village is near the mountains.\n\nIn the morning I get up early. I help my grandfather with the animals. He has two cows, ten sheep and a horse. My grandmother milks the cows and makes butter and cheese. I collect eggs from the hens.\n\nAfter breakfast I go to the field with my grandfather. We work in the garden. We pick apples, apricots and vegetables. My grandmother cooks a delicious dinner. In the evening we sit around the table and talk about our day.\n\nI love the village very much. The air is fresh and clean. The river is cold and the water is clean. At night I see thousands of stars in the dark sky.\n\nWhen I grow up, I want to be a doctor. But I also want to have a small farm with cows, sheep and hens. I want to live in a beautiful place near the mountains. Because nature is our greatest treasure.",
+    "tj": "Тобистони ман дар деҳа\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Ҳар тобистон ман ба деҳае меравам, ки биби ва бобоям дар он ҷо зиндагӣ мекунанд. Деҳа дар назди кӯҳҳост.\n\nСубҳ ман барвақт аз ҷой мехезам. Ман ба бобоям бо ҳайвонот кӯмак мекунам. Ӯ ду гов, даҳ гӯсфанд ва як асп дорад. Бибиам говҳоро медӯшад ва равғану панир месозад. Ман тухмҳоро аз мурғҳо ҷамъ мекунам.\n\nБаъд аз наҳорӣ ман бо бобоям ба киштзор меравам. Мо дар боғ кор мекунем. Мо себ, зардолу ва сабзавот мечинам. Бибиам хӯроки бомазза мепазад. Бегоҳ мо гирди миз менишинем ва дар бораи рӯзи худ гап мезанем.\n\nМан деҳаро хеле дӯст медорам. Ҳаво тоза ва пок аст. Дарё хунук аст ва об тоза аст. Шабона ман ҳазорон ситораро дар осмони торик мебинам.\n\nВақте ки ман калон мешавам, ман мехоҳам духтур шавам. Аммо ман инчунин мехоҳам хоҷагии хурд бо говҳо, гӯсфандҳо ва мурғҳо дошта бошам. Ман мехоҳам дар ҷои зебо дар назди кӯҳҳо зиндагӣ кунам. Зеро ки табиат бузургтарин ганҷи мост."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ҳар тобистон ман ба деҳае меравам, ки биби ва бобоям дар он ҷо зиндагӣ мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Every summer I go to the village where my grandmother and grandfather live.",
+        "Every summer I go to a village where my grandmother and grandfather live.",
+        "Every summer I go to the village where my grandmother and grandfather lives.",
+        "Every summer I go to the village which my grandmother and grandfather live."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Every summer I go to the village where my grandmother and grandfather live."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Субҳ ман барвақт аз ҷой мехезам ва ба бобоям бо ҳайвонот кӯмак мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст B"
+        "In the morning I get up early and help my grandfather with the animals.",
+        "In the morning I get up early and help my grandfather with animals.",
+        "In the morning I get up early and I help my grandfather with the animals.",
+        "In the morning I wake up early and help my grandfather with the animals."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "In the morning I get up early and help my grandfather with the animals."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Бибиам говҳоро медӯшад ва равғану панир месозад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "My grandmother milks the cows and makes butter and cheese.",
+        "My grandmother milks cows and makes butter and cheese.",
+        "My grandmother milks the cows and makes butter and cheese.",
+        "My grandmother milks the cows and cooks butter and cheese."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "My grandmother milks the cows and makes butter and cheese."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ман ҳар субҳ тухмҳоро аз мурғҳо ҷамъ мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: communication"
+        "I collect eggs from the hens every morning.",
+        "I collect the eggs from the hens every morning.",
+        "I collect eggs from hens every morning.",
+        "I gather eggs from the hens every morning."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "I collect eggs from the hens every morning."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Баъд аз наҳорӣ ман бо бобоям ба киштзор меравам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: education"
+        "After breakfast I go to the field with my grandfather.",
+        "After the breakfast I go to the field with my grandfather.",
+        "After breakfast I go to a field with my grandfather.",
+        "After breakfast I go to the field with grandfather."
       ],
-      "answer": "тарҷума: education"
+      "answer": "After breakfast I go to the field with my grandfather."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Мо дар боғ себ, зардолу ва сабзавот мечинам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: development"
+        "We pick apples, apricots and vegetables in the garden.",
+        "We pick apples, apricots and vegetables in the field.",
+        "We pick apples, apricot and vegetables in the garden.",
+        "We gather apples, apricots and vegetables in the garden."
       ],
-      "answer": "тарҷума: development"
+      "answer": "We pick apples, apricots and vegetables in the garden."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Бибиам барои тамоми оила хӯроки бомазза мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: achievement",
-        "нодуруст C"
+        "My grandmother cooks a delicious dinner for the whole family.",
+        "My grandmother cooks delicious dinner for the whole family.",
+        "My grandmother cooks a delicious dinner for all family.",
+        "My grandmother makes a delicious dinner for the whole family."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "My grandmother cooks a delicious dinner for the whole family."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Бегоҳ мо гирди миз менишинем ва дар бораи рӯзи худ гап мезанем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "In the evening we sit around the table and talk about our day.",
+        "In the evening we sit round the table and talk about our day.",
+        "In the evening we sit around the table and speak about our day.",
+        "In the evening we sit around a table and talk about our day."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "In the evening we sit around the table and talk about our day."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Ҳаво дар деҳа тоза ва пок аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: knowledge",
-        "нодуруст C",
-        "нодуруст A"
+        "The air in the village is fresh and clean.",
+        "Air in the village is fresh and clean.",
+        "The air in a village is fresh and clean.",
+        "The air in the village is fresh and pure."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "The air in the village is fresh and clean."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Шабона ман ҳазорон ситораро дар осмони торик мебинам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: conversation",
-        "нодуруст A",
-        "нодуруст C"
+        "At night I see thousands of stars in the dark sky.",
+        "At night I see thousands of stars in the dark sky.",
+        "In the night I see thousands of stars in the dark sky.",
+        "At night I see thousands of stars in a dark sky."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "At night I see thousands of stars in the dark sky."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам духтур шавам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: fluency",
-        "нодуруст A"
+        "When I grow up, I want to be a doctor.",
+        "When I grow up I want to be a doctor.",
+        "When I grow up, I want to become a doctor.",
+        "When I will grow up, I want to be a doctor."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "When I grow up, I want to be a doctor."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ман инчунин мехоҳам хоҷагии хурд бо говҳо, гӯсфандҳо ва мурғҳо дошта бошам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: confidence",
-        "нодуруст C"
+        "I also want to have a small farm with cows, sheep and hens.",
+        "I want to have a small farm with cows, sheep and hens too.",
+        "I also want to have a small farm with cows, sheep and hens.",
+        "I also want to have a small farm with cows, sheep and chickens."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "I also want to have a small farm with cows, sheep and hens."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Ман мехоҳам дар ҷои зебо дар назди кӯҳҳо зиндагӣ кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: pronunciation",
-        "нодуруст B",
-        "нодуруст C"
+        "I want to live in a beautiful place near the mountains.",
+        "I want to live in a beautiful place near mountains.",
+        "I want to live in a beautiful place near to the mountains.",
+        "I want to live in the beautiful place near the mountains."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "I want to live in a beautiful place near the mountains."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Табиат бузургтарин ганҷи мост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: vocabulary",
-        "нодуруст C"
+        "Nature is our greatest treasure.",
+        "The nature is our greatest treasure.",
+        "Nature is the greatest treasure of ours.",
+        "Nature is our greatest wealth."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "Nature is our greatest treasure."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ман деҳаро хеле дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: grammar",
-        "нодуруст A",
-        "нодуруст B"
+        "I love the village very much.",
+        "I like the village very much.",
+        "I love a village very much.",
+        "I love the village a lot."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "I love the village very much."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ӯ ду гов, даҳ гӯсфанд ва як асп дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: opportunity"
+        "He has two cows, ten sheep and a horse.",
+        "He has two cows, ten sheep and one horse.",
+        "He has two cows, ten sheeps and a horse.",
+        "He has two cows, ten sheep and a horse."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "He has two cows, ten sheep and a horse."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Деҳа дар назди кӯҳҳост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "The village is near the mountains.",
+        "The village is near mountains.",
+        "A village is near the mountains.",
+        "The village is near to the mountains."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The village is near the mountains."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Дарё хунук аст ва об тоза аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: environment"
+        "The river is cold and the water is clean.",
+        "The river is cold and water is clean.",
+        "A river is cold and the water is clean.",
+        "The river is cool and the water is clean."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "The river is cold and the water is clean."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Зеро ки табиат бузургтарин ганҷи мост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст C"
+        "Because nature is our greatest treasure.",
+        "Because the nature is our greatest treasure.",
+        "Because nature is the greatest treasure of ours.",
+        "Because nature is our great treasure."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "Because nature is our greatest treasure."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ман дар Душанбе бо оилаам зиндагӣ мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: education",
-        "нодуруст A",
-        "нодуруст C"
+        "I live in Dushanbe with my family.",
+        "I live in Dushanbe with the family.",
+        "I live in Dushanbe with my famaly.",
+        "I live in Dushanbe with family."
       ],
-      "answer": "тарҷума: education"
+      "answer": "I live in Dushanbe with my family."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Ман хонандаи синфи чорум ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "I am a pupil of class four.",
+        "I am a pupil of the class four.",
+        "I am pupil of class four.",
+        "I am a student of class four."
       ],
-      "answer": "тарҷума: development"
+      "answer": "I am a pupil of class four."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ман тухмҳоро аз мурғҳо ҷамъ мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст C"
+        "I collect eggs from the hens.",
+        "I collect the eggs from the hens.",
+        "I collect eggs from hens.",
+        "I gather eggs from the hens."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "I collect eggs from the hens."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Мо дар боғ кор мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: challenge"
+        "We work in the garden.",
+        "We work in a garden.",
+        "We work in garden.",
+        "We work at the garden."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "We work in the garden."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Ман ба бобоям бо ҳайвонот кӯмак мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: knowledge",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "I help my grandfather with the animals.",
+        "I help my grandfather with animals.",
+        "I help grandfather with the animals.",
+        "I help my grandfather for the animals."
       ],
-      "answer": "тарҷума: knowledge"
-    },
-    {
-      "q": "'conversation' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: conversation",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: conversation"
-    },
-    {
-      "q": "'fluency' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: fluency",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: fluency"
-    },
-    {
-      "q": "'confidence' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: confidence"
-      ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: pronunciation"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: vocabulary",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: grammar",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: opportunity",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "тарҷума: experience",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: communication"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: education"
-      ],
-      "answer": "тарҷума: education"
+      "answer": "I help my grandfather with the animals."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 35
+  "wordsCount": 16
 }
