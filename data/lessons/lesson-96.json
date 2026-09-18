@@ -1,626 +1,472 @@
 {
   "id": 96,
-  "title": "Муоширати воқеӣ 96",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 96: Рӯзи таваллуди ман",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "birthday",
+      "tj": "рӯзи таваллуд",
+      "ex": "My birthday is in May."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "to invite",
+      "tj": "даъват кардан",
+      "ex": "I invite my friends to my birthday party."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "guest",
+      "tj": "меҳмон",
+      "ex": "The guests come to our house in the evening."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "to celebrate",
+      "tj": "ҷашн гирифтан",
+      "ex": "We celebrate my birthday at home."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "cake",
+      "tj": "торт",
+      "ex": "My mother bakes a big cake for me."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "candle",
+      "tj": "шамъ",
+      "ex": "There are ten candles on my cake."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "present",
+      "tj": "тӯҳфа",
+      "ex": "I get many presents on my birthday."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to blow out",
+      "tj": "фурӯзондан",
+      "ex": "I blow out the candles on the cake."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "to wish",
+      "tj": "орзу кардан",
+      "ex": "I wish for a new bicycle."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to congratulate",
+      "tj": "табрик кардан",
+      "ex": "My friends congratulate me on my birthday."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "to sing a song",
+      "tj": "суруд хондан",
+      "ex": "We sing a birthday song together."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "to dance",
+      "tj": "рақс кардан",
+      "ex": "We dance and laugh at the party."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "to have fun",
+      "tj": "хушгузаронӣ кардан",
+      "ex": "We have fun at the birthday party."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "delicious",
+      "tj": "лазиз",
+      "ex": "The cake is very delicious."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to thank",
+      "tj": "ташаккур кардан",
+      "ex": "I thank my parents for the party."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to remember",
+      "tj": "ба ёд овардан",
+      "ex": "I will always remember this day."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 96)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "My birthday is in May and I celebrate it every year.",
+      "tj": "Рӯзи таваллуди ман дар моҳи май аст ва ман онро ҳар сол ҷашн мегирам."
     },
     {
-      "en": "I'm working on lesson 96",
-      "tj": "Ман дарси 96-ро меомӯзам"
+      "en": "I invite my friends and my classmates to my birthday party.",
+      "tj": "Ман дӯстон ва ҳамсинфонамро ба базми рӯзи таваллудам даъват мекунам."
+    },
+    {
+      "en": "The guests come to our house in the evening.",
+      "tj": "Меҳмонон бегоҳ ба хонаи мо меоянд."
+    },
+    {
+      "en": "My mother bakes a big and delicious cake for me.",
+      "tj": "Модарам барои ман торти калон ва лазиз мепазад."
+    },
+    {
+      "en": "There are ten candles on my birthday cake.",
+      "tj": "Дар торти рӯзи таваллуди ман даҳ шамъ ҳаст."
+    },
+    {
+      "en": "I blow out the candles and make a wish.",
+      "tj": "Ман шамъҳоро фурӯзон мекунам ва орзу мекунам."
+    },
+    {
+      "en": "My friends congratulate me and give me presents.",
+      "tj": "Дӯстонам маро табрик мекунанд ва ба ман тӯҳфаҳо медиҳанд."
+    },
+    {
+      "en": "We sing a birthday song and dance together.",
+      "tj": "Мо якҷоя суруди рӯзи таваллуд мехонем ва рақс мекунем."
+    },
+    {
+      "en": "We have fun at the birthday party and we laugh a lot.",
+      "tj": "Мо дар базми рӯзи таваллуд хушгузаронӣ мекунем ва хеле механдем."
+    },
+    {
+      "en": "I thank my parents for the beautiful party.",
+      "tj": "Ман ба волидонам барои базми зебо ташаккур мекунам."
+    },
+    {
+      "en": "My grandmother gives me a warm scarf as a present.",
+      "tj": "Бибиам ба ман ҳамчун тӯҳфа шарфи гарм медиҳад."
+    },
+    {
+      "en": "My grandfather tells me a story about his young years.",
+      "tj": "Бобоям ба ман ҳикоя дар бораи солҳои ҷавонии худ нақл мекунад."
+    },
+    {
+      "en": "I will always remember this beautiful day.",
+      "tj": "Ман ин рӯзи зеборо ҳамеша ба ёд хоҳам овард."
+    },
+    {
+      "en": "A birthday is a good time to be with your family and friends.",
+      "tj": "Рӯзи таваллуд вақти хуб барои будан бо оила ва дӯстон аст."
+    },
+    {
+      "en": "I love my birthday because everybody is happy and kind.",
+      "tj": "Ман рӯзи таваллудамро дӯст медорам, зеро ки ҳама хушбахт ва меҳрубонанд."
+    },
+    {
+      "en": "When I grow up, I want to celebrate my birthday with all my friends.",
+      "tj": "Вақте ки ман калон мешавам, ман мехоҳам рӯзи таваллудамро бо ҳамаи дӯстонам ҷашн гирам."
     }
   ],
   "text": {
-    "en": "Text for lesson 96. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 96 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 96 text.",
-    "tj": "Матни дарси 96..."
+    "en": "My Birthday\n\nMy name is Ismoil. I am a pupil of class four. My birthday is in May and I celebrate it every year. This year I invited my friends and my classmates to my birthday party. The guests came to our house in the evening.\n\nMy mother baked a big and delicious cake for me. There were ten candles on my birthday cake. I blew out the candles and made a wish. My friends congratulated me and gave me presents. We sang a birthday song and danced together. We had fun at the birthday party and we laughed a lot.\n\nMy grandmother gave me a warm scarf as a present. My grandfather told me a story about his young years. I thanked my parents for the beautiful party. I will always remember this beautiful day. A birthday is a good time to be with your family and friends. I love my birthday because everybody is happy and kind. When I grow up, I want to celebrate my birthday with all my friends.",
+    "tj": "Рӯзи таваллуди ман\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Рӯзи таваллуди ман дар моҳи май аст ва ман онро ҳар сол ҷашн мегирам. Ин сол ман дӯстон ва ҳамсинфонамро ба базми рӯзи таваллудам даъват кардам. Меҳмонон бегоҳ ба хонаи мо омаданд.\n\nМодарам барои ман торти калон ва лазиз пухт. Дар торти рӯзи таваллуди ман даҳ шамъ буд. Ман шамъҳоро фурӯзон кардам ва орзу кардам. Дӯстонам маро табрик карданд ва ба ман тӯҳфаҳо доданд. Мо якҷоя суруди рӯзи таваллуд хондем ва рақс кардем. Мо дар базми рӯзи таваллуд хушгузаронӣ кардем ва хеле хандидем.\n\nБибиам ба ман ҳамчун тӯҳфа шарфи гарм дод. Бобоям ба ман ҳикоя дар бораи солҳои ҷавонии худ нақл кард. Ман ба волидонам барои базми зебо ташаккур кардам. Ман ин рӯзи зеборо ҳамеша ба ёд хоҳам овард. Рӯзи таваллуд вақти хуб барои будан бо оила ва дӯстон аст. Ман рӯзи таваллудамро дӯст медорам, зеро ки ҳама хушбахт ва меҳрубонанд. Вақте ки ман калон мешавам, ман мехоҳам рӯзи таваллудамро бо ҳамаи дӯстонам ҷашн гирам."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Рӯзи таваллуди ман дар моҳи май аст ва ман онро ҳар сол ҷашн мегирам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст A",
-        "нодуруст C"
+        "My birthday is in May and I celebrate it every year.",
+        "My birthday is in May and I celebrate it each year.",
+        "My birthday is in May and I celebrate it every day.",
+        "My birthday is on May and I celebrate it every year."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "My birthday is in May and I celebrate it every year."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман дӯстон ва ҳамсинфонамро ба базми рӯзи таваллудам даъват мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст C"
+        "I invite my friends and my classmates to my birthday party.",
+        "I invite my friends and classmates to my birthday party.",
+        "I invite my friends and my classmates to a birthday party.",
+        "I invite friends and my classmates to my birthday party."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I invite my friends and my classmates to my birthday party."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Меҳмонон бегоҳ ба хонаи мо меоянд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: environment"
+        "The guests come to our house in the evening.",
+        "Guests come to our house in the evening.",
+        "The guests come to our house in evening.",
+        "The guests come to the house in the evening."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "The guests come to our house in the evening."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Модарам барои ман торти калон ва лазиз мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "My mother bakes a big and delicious cake for me.",
+        "My mother bakes the big and delicious cake for me.",
+        "My mother cooks a big and delicious cake for me.",
+        "My mother bakes a big and tasty cake for me."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "My mother bakes a big and delicious cake for me."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Дар торти рӯзи таваллуди ман даҳ шамъ ҳаст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст B"
+        "There are ten candles on my birthday cake.",
+        "There is ten candles on my birthday cake.",
+        "There are ten candles on the birthday cake.",
+        "There are ten candles in my birthday cake."
       ],
-      "answer": "тарҷума: education"
+      "answer": "There are ten candles on my birthday cake."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Ман шамъҳоро фурӯзон мекунам ва орзу мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: development"
+        "I blow out the candles and make a wish.",
+        "I blow out the candles and make wish.",
+        "I blow the candles out and make a wish.",
+        "I blow out candles and make a wish."
       ],
-      "answer": "тарҷума: development"
+      "answer": "I blow out the candles and make a wish."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Дӯстонам маро табрик мекунанд ва ба ман тӯҳфаҳо медиҳанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: achievement",
-        "нодуруст B"
+        "My friends congratulate me and give me presents.",
+        "My friends congratulate me and give presents to me.",
+        "My friends congratulate me and give me the presents.",
+        "My friends congratulate to me and give me presents."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "My friends congratulate me and give me presents."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Мо якҷоя суруди рӯзи таваллуд мехонем ва рақс мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст B"
+        "We sing a birthday song and dance together.",
+        "We sing the birthday song and dance together.",
+        "We sing a birthday song and we dance together.",
+        "We sing a birthday song and dance together."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "We sing a birthday song and dance together."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Мо дар базми рӯзи таваллуд хушгузаронӣ мекунем ва хеле механдем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: knowledge",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "We have fun at the birthday party and we laugh a lot.",
+        "We have fun at the birthday party and laugh a lot.",
+        "We have fun in the birthday party and we laugh a lot.",
+        "We have fun at a birthday party and we laugh a lot."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "We have fun at the birthday party and we laugh a lot."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Ман ба волидонам барои базми зебо ташаккур мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: conversation",
-        "нодуруст C",
-        "нодуруст B"
+        "I thank my parents for the beautiful party.",
+        "I thank my parents for a beautiful party.",
+        "I thank to my parents for the beautiful party.",
+        "I thank my parents for the nice party."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "I thank my parents for the beautiful party."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Бибиам ба ман ҳамчун тӯҳфа шарфи гарм медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: fluency",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "My grandmother gives me a warm scarf as a present.",
+        "My grandmother gives me the warm scarf as a present.",
+        "My grandmother gives me a warm scarf as present.",
+        "My grandmother gives a warm scarf to me as a present."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "My grandmother gives me a warm scarf as a present."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Бобоям ба ман ҳикоя дар бораи солҳои ҷавонии худ нақл мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: confidence",
-        "нодуруст B",
-        "нодуруст A"
+        "My grandfather tells me a story about his young years.",
+        "My grandfather tells me the story about his young years.",
+        "My grandfather tells a story to me about his young years.",
+        "My grandfather tells me a story about his youth."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "My grandfather tells me a story about his young years."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Ман ин рӯзи зеборо ҳамеша ба ёд хоҳам овард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: pronunciation"
+        "I will always remember this beautiful day.",
+        "I will remember this beautiful day always.",
+        "I shall always remember this beautiful day.",
+        "I will always remember this nice day."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "I will always remember this beautiful day."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Рӯзи таваллуд вақти хуб барои будан бо оила ва дӯстон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: vocabulary",
-        "нодуруст A"
+        "A birthday is a good time to be with your family and friends.",
+        "A birthday is a good time to be with family and friends.",
+        "The birthday is a good time to be with your family and friends.",
+        "A birthday is a good time for being with your family and friends."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "A birthday is a good time to be with your family and friends."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ман рӯзи таваллудамро дӯст медорам, зеро ки ҳама хушбахт ва меҳрубонанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: grammar",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "I love my birthday because everybody is happy and kind.",
+        "I love my birthday because everyone is happy and kind.",
+        "I love my birthday, because everybody is happy and kind.",
+        "I like my birthday because everybody is happy and kind."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "I love my birthday because everybody is happy and kind."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам рӯзи таваллудамро бо ҳамаи дӯстонам ҷашн гирам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "When I grow up, I want to celebrate my birthday with all my friends.",
+        "When I grow up I want to celebrate my birthday with all my friends.",
+        "When I grow up, I want to celebrate my birthday with all of my friends.",
+        "When I grow up, I want to celebrate a birthday with all my friends."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "When I grow up, I want to celebrate my birthday with all my friends."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман хонандаи синфи чорум ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: experience"
+        "I am a pupil of class four.",
+        "I am pupil of class four.",
+        "I am a pupil of the class four.",
+        "I am a student of class four."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I am a pupil of class four."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ин сол ман дӯстон ва ҳамсинфонамро ба базми рӯзи таваллудам даъват кардам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "This year I invited my friends and my classmates to my birthday party.",
+        "This year I invited my friends and classmates to my birthday party.",
+        "This year I invited friends and my classmates to my birthday party.",
+        "This year I invited my friends and my classmates to a birthday party."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "This year I invited my friends and my classmates to my birthday party."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Меҳмонон бегоҳ ба хонаи мо омаданд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "The guests came to our house in the evening.",
+        "Guests came to our house in the evening.",
+        "The guests came to our house in evening.",
+        "The guests came to the house in the evening."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "The guests came to our house in the evening."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Модарам барои ман торти калон ва лазиз пухт» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: education",
-        "нодуруст B",
-        "нодуруст C"
+        "My mother baked a big and delicious cake for me.",
+        "My mother baked the big and delicious cake for me.",
+        "My mother cooked a big and delicious cake for me.",
+        "My mother made a big and delicious cake for me."
       ],
-      "answer": "тарҷума: education"
+      "answer": "My mother baked a big and delicious cake for me."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Дар торти рӯзи таваллуди ман даҳ шамъ буд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: development",
-        "нодуруст B",
-        "нодуруст C"
+        "There were ten candles on my birthday cake.",
+        "There was ten candles on my birthday cake.",
+        "There were ten candles in my birthday cake.",
+        "There were ten candles on the birthday cake."
       ],
-      "answer": "тарҷума: development"
+      "answer": "There were ten candles on my birthday cake."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ман шамъҳоро фурӯзон кардам ва орзу кардам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: achievement",
-        "нодуруст B"
+        "I blew out the candles and made a wish.",
+        "I blew out candles and made a wish.",
+        "I blew the candles out and made a wish.",
+        "I blew out the candles and made wish."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "I blew out the candles and made a wish."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Дӯстонам маро табрик карданд ва ба ман тӯҳфаҳо доданд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "My friends congratulated me and gave me presents.",
+        "My friends congratulated me and gave presents to me.",
+        "My friends congratulated me and gave me the presents.",
+        "My friends congratulated to me and gave me presents."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "My friends congratulated me and gave me presents."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Мо якҷоя суруди рӯзи таваллуд хондем ва рақс кардем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: knowledge",
-        "нодуруст B",
-        "нодуруст A"
+        "We sang a birthday song and danced together.",
+        "We sang the birthday song and danced together.",
+        "We sang a birthday song and we danced together.",
+        "We sang a birthday song and danced all together."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "We sang a birthday song and danced together."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Мо дар базми рӯзи таваллуд хушгузаронӣ кардем ва хеле хандидем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "We had fun at the birthday party and we laughed a lot.",
+        "We had fun at the birthday party and laughed a lot.",
+        "We had fun in the birthday party and we laughed a lot.",
+        "We had fun at a birthday party and we laughed a lot."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "We had fun at the birthday party and we laughed a lot."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Бибиам ба ман ҳамчун тӯҳфа шарфи гарм дод» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: fluency",
-        "нодуруст C"
+        "My grandmother gave me a warm scarf as a present.",
+        "My grandmother gave me the warm scarf as a present.",
+        "My grandmother gave me a warm scarf as present.",
+        "My grandmother gave a warm scarf to me as a present."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "My grandmother gave me a warm scarf as a present."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Бобоям ба ман ҳикоя дар бораи солҳои ҷавонии худ нақл кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст B"
+        "My grandfather told me a story about his young years.",
+        "My grandfather told me the story about his young years.",
+        "My grandfather told a story to me about his young years.",
+        "My grandfather told me a story about his youth."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "My grandfather told me a story about his young years."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Ман ба волидонам барои базми зебо ташаккур кардам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: pronunciation"
+        "I thanked my parents for the beautiful party.",
+        "I thanked my parents for a beautiful party.",
+        "I thanked to my parents for the beautiful party.",
+        "I thanked my parents for the nice party."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "I thanked my parents for the beautiful party."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ман ин рӯзи зеборо ҳамеша ба ёд хоҳам овард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: vocabulary",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "I will always remember this beautiful day.",
+        "I will remember this beautiful day always.",
+        "I shall always remember this beautiful day.",
+        "I will always remember this nice day."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "I will always remember this beautiful day."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Рӯзи таваллуд вақти хуб барои будан бо оила ва дӯстон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: grammar",
-        "нодуруст A"
+        "A birthday is a good time to be with your family and friends.",
+        "A birthday is a good time to be with family and friends.",
+        "The birthday is a good time to be with your family and friends.",
+        "A birthday is a good time for being with your family and friends."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "A birthday is a good time to be with your family and friends."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ман рӯзи таваллудамро дӯст медорам, зеро ки ҳама хушбахт ва меҳрубонанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "I love my birthday because everybody is happy and kind.",
+        "I love my birthday because everyone is happy and kind.",
+        "I love my birthday, because everybody is happy and kind.",
+        "I like my birthday because everybody is happy and kind."
       ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: experience"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: communication"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: education",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: development",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: development"
-    },
-    {
-      "q": "'achievement' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: achievement"
-    },
-    {
-      "q": "'challenge' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: challenge",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: challenge"
-    },
-    {
-      "q": "'knowledge' чи маъно дорад?",
-      "options": [
-        "тарҷума: knowledge",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: knowledge"
-    },
-    {
-      "q": "'conversation' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: conversation",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: conversation"
+      "answer": "I love my birthday because everybody is happy and kind."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 40
+  "wordsCount": 16
 }
