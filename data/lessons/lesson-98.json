@@ -1,626 +1,492 @@
 {
   "id": 98,
-  "title": "Муоширати воқеӣ 98",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 98: Иди Истиқлолият",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "independence",
+      "tj": "истиқлолият",
+      "ex": "Independence is the greatest treasure of our people."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "flag",
+      "tj": "парчам",
+      "ex": "The flag of Tajikistan has three colours."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "parade",
+      "tj": "парад",
+      "ex": "We watch the parade in the centre of the city."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "to raise",
+      "tj": "бардоштан",
+      "ex": "They raise the flag in the morning."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "anthem",
+      "tj": "суруди миллӣ",
+      "ex": "We sing the anthem on Independence Day."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "to stand up",
+      "tj": "истодан",
+      "ex": "We stand up when we sing the anthem."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "fireworks",
+      "tj": "оташбозӣ",
+      "ex": "In the evening there are beautiful fireworks."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to be proud of",
+      "tj": "ифтихор кардан ба",
+      "ex": "I am proud of my country."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "citizen",
+      "tj": "шаҳрванд",
+      "ex": "A good citizen loves his country."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "ceremony",
+      "tj": "тантана",
+      "ex": "The ceremony takes place in the main square."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "to fight",
+      "tj": "ҷангидан",
+      "ex": "Our ancestors fought for our freedom."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "freedom",
+      "tj": "озодӣ",
+      "ex": "Freedom is the most important thing for every nation."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "main square",
+      "tj": "майдони асосӣ",
+      "ex": "People gather in the main square of the city."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "to wave",
+      "tj": "баланд бардоштан",
+      "ex": "The children wave small flags."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to celebrate",
+      "tj": "ҷашн гирифтан",
+      "ex": "We celebrate Independence Day in September."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "peace",
+      "tj": "сулҳ",
+      "ex": "We all want peace in the whole world."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 98)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Independence is the greatest treasure of our people.",
+      "tj": "Истиқлолият бузургтарин ганҷи мардуми мост."
     },
     {
-      "en": "I'm working on lesson 98",
-      "tj": "Ман дарси 98-ро меомӯзам"
+      "en": "The flag of Tajikistan has three colours: red, white and green.",
+      "tj": "Парчами Тоҷикистон се ранг дорад: сурх, сафед ва сабз."
+    },
+    {
+      "en": "We celebrate Independence Day in September.",
+      "tj": "Мо Рӯзи истиқлолиятро дар моҳи сентябр ҷашн мегирем."
+    },
+    {
+      "en": "People gather in the main square of the city.",
+      "tj": "Мардум дар майдони асосии шаҳр ҷамъ мешаванд."
+    },
+    {
+      "en": "We watch the parade in the centre of the city.",
+      "tj": "Мо парадро дар маркази шаҳр тамошо мекунем."
+    },
+    {
+      "en": "They raise the flag in the morning and we stand up.",
+      "tj": "Онҳо субҳ парчамро мебардоранд ва мо меистем."
+    },
+    {
+      "en": "We sing the anthem on Independence Day and we are very proud.",
+      "tj": "Мо дар Рӯзи истиқлолият суруди миллиро мехонем ва хеле ифтихор мекунем."
+    },
+    {
+      "en": "The children wave small flags and sing songs.",
+      "tj": "Кӯдакон парчамҳои хурдро баланд мебардоранд ва суруд мехонанд."
+    },
+    {
+      "en": "The ceremony takes place in the main square of the city.",
+      "tj": "Тантана дар майдони асосии шаҳр баргузор мешавад."
+    },
+    {
+      "en": "Our ancestors fought for our freedom and independence.",
+      "tj": "Аҷдодони мо барои озодӣ ва истиқлолияти мо ҷангиданд."
+    },
+    {
+      "en": "In the evening there are beautiful fireworks in the sky.",
+      "tj": "Бегоҳ дар осмон оташбозиҳои зебо ҳастанд."
+    },
+    {
+      "en": "I am proud of my country and my people.",
+      "tj": "Ман ба кишвар ва мардуми худ ифтихор мекунам."
+    },
+    {
+      "en": "A good citizen loves his country and follows its laws.",
+      "tj": "Шаҳрванди хуб кишвари худро дӯст медорад ва қонунҳои онро риоя мекунад."
+    },
+    {
+      "en": "We all want peace in the whole world.",
+      "tj": "Ҳамаи мо сулҳро дар тамоми ҷаҳон мехоҳем."
+    },
+    {
+      "en": "Freedom is the most important thing for every nation.",
+      "tj": "Озодӣ барои ҳар як миллат муҳимтарин чиз аст."
+    },
+    {
+      "en": "When I grow up, I want to serve my country and my people.",
+      "tj": "Вақте ки ман калон мешавам, ман мехоҳам ба кишвар ва мардуми худ хизмат кунам."
     }
   ],
   "text": {
-    "en": "Text for lesson 98. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 98 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 98 text.",
-    "tj": "Матни дарси 98..."
+    "en": "Independence Day\n\nMy name is Ismoil. I am a pupil of class four. Independence is the greatest treasure of our people. We celebrate Independence Day in September.\n\nThe flag of Tajikistan has three colours: red, white and green. People gather in the main square of the city. They raise the flag in the morning and we stand up. We sing the anthem and we are very proud.\n\nWe watch the parade in the centre of the city. The children wave small flags and sing songs. The ceremony takes place in the main square of the city. Our ancestors fought for our freedom and independence.\n\nIn the evening there are beautiful fireworks in the sky. I am proud of my country and my people. A good citizen loves his country and follows its laws. We all want peace in the whole world. Freedom is the most important thing for every nation.\n\nWhen I grow up, I want to serve my country and my people.",
+    "tj": "Иди Истиқлолият\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Истиқлолият бузургтарин ганҷи мардуми мост. Мо Рӯзи истиқлолиятро дар моҳи сентябр ҷашн мегирем.\n\nПарчами Тоҷикистон се ранг дорад: сурх, сафед ва сабз. Мардум дар майдони асосии шаҳр ҷамъ мешаванд. Онҳо субҳ парчамро мебардоранд ва мо меистем. Мо суруди миллиро мехонем ва хеле ифтихор мекунем.\n\nМо парадро дар маркази шаҳр тамошо мекунем. Кӯдакон парчамҳои хурдро баланд мебардоранд ва суруд мехонанд. Тантана дар майдони асосии шаҳр баргузор мешавад. Аҷдодони мо барои озодӣ ва истиқлолияти мо ҷангиданд.\n\nБегоҳ дар осмон оташбозиҳои зебо ҳастанд. Ман ба кишвар ва мардуми худ ифтихор мекунам. Шаҳрванди хуб кишвари худро дӯст медорад ва қонунҳои онро риоя мекунад. Ҳамаи мо сулҳро дар тамоми ҷаҳон мехоҳем. Озодӣ барои ҳар як миллат муҳимтарин чиз аст.\n\nВақте ки ман калон мешавам, ман мехоҳам ба кишвар ва мардуми худ хизмат кунам."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Истиқлолият бузургтарин ганҷи мардуми мост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "Independence is the greatest treasure of our people.",
+        "The independence is the greatest treasure of our people.",
+        "Independence is the greatest treasure of the people.",
+        "Independence is the great treasure of our people."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Independence is the greatest treasure of our people."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Парчами Тоҷикистон се ранг дорад: сурх, сафед ва сабз» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст B"
+        "The flag of Tajikistan has three colours: red, white and green.",
+        "The flag of Tajikistan has three colors: red, white and green.",
+        "A flag of Tajikistan has three colours: red, white and green.",
+        "The flag of Tajikistan has three colours: red, white and green."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The flag of Tajikistan has three colours: red, white and green."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Мо Рӯзи истиқлолиятро дар моҳи сентябр ҷашн мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: environment"
+        "We celebrate Independence Day in September.",
+        "We celebrate the Independence Day in September.",
+        "We celebrate Independence Day on September.",
+        "We celebrate Independence Day at September."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "We celebrate Independence Day in September."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Мардум дар майдони асосии шаҳр ҷамъ мешаванд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст A"
+        "People gather in the main square of the city.",
+        "People gather in the main square of a city.",
+        "The people gather in the main square of the city.",
+        "People gather on the main square of the city."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "People gather in the main square of the city."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Мо парадро дар маркази шаҳр тамошо мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: education",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "We watch the parade in the centre of the city.",
+        "We watch a parade in the centre of the city.",
+        "We watch the parade in the center of the city.",
+        "We watch the parade at the centre of the city."
       ],
-      "answer": "тарҷума: education"
+      "answer": "We watch the parade in the centre of the city."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Онҳо субҳ парчамро мебардоранд ва мо меистем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст B"
+        "They raise the flag in the morning and we stand up.",
+        "They raise the flag in the morning and we stand up.",
+        "They raise a flag in the morning and we stand up.",
+        "They raise the flag in morning and we stand up."
       ],
-      "answer": "тарҷума: development"
+      "answer": "They raise the flag in the morning and we stand up."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Мо дар Рӯзи истиқлолият суруди миллиро мехонем ва хеле ифтихор мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст C"
+        "We sing the anthem on Independence Day and we are very proud.",
+        "We sing the anthem on Independence Day and we are proud very much.",
+        "We sing the anthem at Independence Day and we are very proud.",
+        "We sing the anthem on Independence Day and are very proud."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "We sing the anthem on Independence Day and we are very proud."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Кӯдакон парчамҳои хурдро баланд мебардоранд ва суруд мехонанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: challenge"
+        "The children wave small flags and sing songs.",
+        "Children wave small flags and sing songs.",
+        "The children wave little flags and sing songs.",
+        "The children wave the small flags and sing songs."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The children wave small flags and sing songs."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Тантана дар майдони асосии шаҳр баргузор мешавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: knowledge"
+        "The ceremony takes place in the main square of the city.",
+        "A ceremony takes place in the main square of the city.",
+        "The ceremony takes place on the main square of the city.",
+        "The ceremony takes place in the main square of a city."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "The ceremony takes place in the main square of the city."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Аҷдодони мо барои озодӣ ва истиқлолияти мо ҷангиданд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: conversation",
-        "нодуруст A"
+        "Our ancestors fought for our freedom and independence.",
+        "Our ancestors fought for the freedom and independence.",
+        "Our ancestors fought for our freedom and the independence.",
+        "Our ancestors fought for our freedom and our independence."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "Our ancestors fought for our freedom and independence."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Бегоҳ дар осмон оташбозиҳои зебо ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: fluency",
-        "нодуруст A",
-        "нодуруст B"
+        "In the evening there are beautiful fireworks in the sky.",
+        "In the evening there are beautiful fireworks in sky.",
+        "In evening there are beautiful fireworks in the sky.",
+        "In the evening there is beautiful fireworks in the sky."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "In the evening there are beautiful fireworks in the sky."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ман ба кишвар ва мардуми худ ифтихор мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "I am proud of my country and my people.",
+        "I am proud of my country and people.",
+        "I am proud of the country and my people.",
+        "I am proud for my country and my people."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "I am proud of my country and my people."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Шаҳрванди хуб кишвари худро дӯст медорад ва қонунҳои онро риоя мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: pronunciation"
+        "A good citizen loves his country and follows its laws.",
+        "The good citizen loves his country and follows its laws.",
+        "A good citizen loves his country and follows the laws.",
+        "A good citizen loves his country and follows its law."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "A good citizen loves his country and follows its laws."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ҳамаи мо сулҳро дар тамоми ҷаҳон мехоҳем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: vocabulary",
-        "нодуруст B"
+        "We all want peace in the whole world.",
+        "All of us want peace in the whole world.",
+        "We all want peace in the world.",
+        "We all want peace in all the world."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "We all want peace in the whole world."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Озодӣ барои ҳар як миллат муҳимтарин чиз аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: grammar",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "Freedom is the most important thing for every nation.",
+        "The freedom is the most important thing for every nation.",
+        "Freedom is the most important thing for each nation.",
+        "Freedom is the most important thing for every people."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "Freedom is the most important thing for every nation."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам ба кишвар ва мардуми худ хизмат кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст C"
+        "When I grow up, I want to serve my country and my people.",
+        "When I grow up I want to serve my country and my people.",
+        "When I grow up, I want to serve the country and my people.",
+        "When I grow up, I want to serve my country and people."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "When I grow up, I want to serve my country and my people."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман хонандаи синфи чорум ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст B"
+        "I am a pupil of class four.",
+        "I am pupil of class four.",
+        "I am a pupil of the class four.",
+        "I am a student of class four."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I am a pupil of class four."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Мо дар моҳи сентябр ҷашн мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: environment",
-        "нодуруст C"
+        "We celebrate in September.",
+        "We celebrate on September.",
+        "We celebrate at September.",
+        "We are celebrating in September."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "We celebrate in September."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Парчами Тоҷикистон се ранг дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: communication",
-        "нодуруст C"
+        "The flag of Tajikistan has three colours.",
+        "The flag of Tajikistan has three colors.",
+        "A flag of Tajikistan has three colours.",
+        "The flag of the Tajikistan has three colours."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "The flag of Tajikistan has three colours."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Мардум дар майдон ҷамъ мешаванд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: education",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "People gather in the square.",
+        "The people gather in the square.",
+        "People gather on the square.",
+        "People gather at the square."
       ],
-      "answer": "тарҷума: education"
+      "answer": "People gather in the square."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Мо меистем ва суруди миллиро мехонем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст B",
-        "нодуруст A"
+        "We stand up and sing the anthem.",
+        "We stand up and sing anthem.",
+        "We stand up and we sing the anthem.",
+        "We get up and sing the anthem."
       ],
-      "answer": "тарҷума: development"
+      "answer": "We stand up and sing the anthem."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Кӯдакон парчамҳои хурдро баланд мебардоранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: achievement"
+        "The children wave small flags.",
+        "Children wave small flags.",
+        "The children wave little flags.",
+        "The children wave the small flags."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The children wave small flags."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Аҷдодони мо барои озодии мо ҷангиданд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: challenge"
+        "Our ancestors fought for our freedom.",
+        "Our ancestors fought for the freedom.",
+        "Our ancestors fought for freedom.",
+        "Our ancestors fought for our liberty."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "Our ancestors fought for our freedom."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Дар осмон оташбозиҳои зебо ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: knowledge",
-        "нодуруст C",
-        "нодуруст B"
+        "There are beautiful fireworks in the sky.",
+        "There is beautiful fireworks in the sky.",
+        "There are beautiful fireworks in sky.",
+        "There are the beautiful fireworks in the sky."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "There are beautiful fireworks in the sky."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Ман ба кишвари худ ифтихор мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: conversation"
+        "I am proud of my country.",
+        "I am proud for my country.",
+        "I am proud of the country.",
+        "I am proud in my country."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "I am proud of my country."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Шаҳрванди хуб қонунҳоро риоя мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: fluency"
+        "A good citizen follows the laws.",
+        "A good citizen follows laws.",
+        "The good citizen follows the laws.",
+        "A good citizen follows the law."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "A good citizen follows the laws."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ҳамаи мо сулҳ мехоҳем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "We all want peace.",
+        "All of us want peace.",
+        "We want peace all.",
+        "We all want the peace."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "We all want peace."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Озодӣ муҳимтарин чиз аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: pronunciation",
-        "нодуруст A"
+        "Freedom is the most important thing.",
+        "The freedom is the most important thing.",
+        "Freedom is the most important thing.",
+        "Freedom is a most important thing."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "Freedom is the most important thing."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ман мехоҳам ба мардуми худ хизмат кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: vocabulary",
-        "нодуруст A",
-        "нодуруст C"
+        "I want to serve my people.",
+        "I want to serve the people.",
+        "I want to serve to my people.",
+        "I want to serve my nation."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "I want to serve my people."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Мо Рӯзи истиқлолиятро ҷашн мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: grammar",
-        "нодуруст B"
+        "We celebrate Independence Day.",
+        "We celebrate the Independence Day.",
+        "We are celebrating Independence Day.",
+        "We celebrate the day of independence."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "We celebrate Independence Day."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Мардум дар майдони асосӣ ҷамъ мешаванд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: opportunity",
-        "нодуруст A",
-        "нодуруст B"
+        "People gather in the main square.",
+        "The people gather in the main square.",
+        "People gather on the main square.",
+        "People gather at the main square."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "People gather in the main square."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Парчамро субҳ баланд мебардоранд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: experience"
+        "They raise the flag in the morning.",
+        "They raise a flag in the morning.",
+        "They raise the flag in morning.",
+        "They raise the flag in the morning."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "They raise the flag in the morning."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Мо суруди миллиро мехонем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "We sing the anthem.",
+        "We sing anthem.",
+        "We sing a anthem.",
+        "We sing the anthem together."
       ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: communication",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: education",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: development"
-    },
-    {
-      "q": "'achievement' чи маъно дорад?",
-      "options": [
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: achievement"
-    },
-    {
-      "q": "'challenge' чи маъно дорад?",
-      "options": [
-        "тарҷума: challenge",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: challenge"
-    },
-    {
-      "q": "'knowledge' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: knowledge",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: knowledge"
-    },
-    {
-      "q": "'conversation' чи маъно дорад?",
-      "options": [
-        "тарҷума: conversation",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: conversation"
+      "answer": "We sing the anthem."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 40
+  "wordsCount": 16
 }
