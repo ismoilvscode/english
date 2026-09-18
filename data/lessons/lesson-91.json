@@ -1,596 +1,414 @@
 {
   "id": 91,
-  "title": "Муоширати воқеӣ 91",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 91: Дар дорухона",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "pharmacy",
+      "tj": "дорухона",
+      "ex": "The pharmacy is near our house."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "pharmacist",
+      "tj": "доруфурӯш",
+      "ex": "The pharmacist works in the pharmacy."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "pill",
+      "tj": "ҳаб",
+      "ex": "Take one pill after dinner."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "prescription",
+      "tj": "ретсепт",
+      "ex": "The doctor wrote a prescription for me."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "to prescribe",
+      "tj": "таъин кардан",
+      "ex": "The doctor prescribed pills for my cough."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "to queue",
+      "tj": "навбат истодан",
+      "ex": "We queue at the pharmacy in the morning."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "customer",
+      "tj": "муштарак",
+      "ex": "The customer asks the pharmacist about the pills."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to weigh",
+      "tj": "вазн кардан",
+      "ex": "The pharmacist weighs the medicine."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "jar",
+      "tj": "шишаи дору",
+      "ex": "The pills are in a small jar."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "label",
+      "tj": "этикетка",
+      "ex": "The label says: three pills a day."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "to warn",
+      "tj": "огоҳ кардан",
+      "ex": "The pharmacist warns me not to take too many pills."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "carefully",
+      "tj": "бо диққат",
+      "ex": "Read the label carefully."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "dose",
+      "tj": "миқдори дору",
+      "ex": "The dose is one pill in the morning."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "to feel",
+      "tj": "ҳис кардан",
+      "ex": "I feel better after the medicine."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "recovery",
+      "tj": "шифо",
+      "ex": "I wish you a quick recovery."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "medicine",
+      "tj": "дору",
+      "ex": "Take your medicine three times a day."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 91)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "The pharmacy is near our house and it opens early.",
+      "tj": "Дорухона дар назди хонаи мост ва барвақт кушода мешавад."
     },
     {
-      "en": "I'm working on lesson 91",
-      "tj": "Ман дарси 91-ро меомӯзам"
+      "en": "The pharmacist works in the pharmacy every day.",
+      "tj": "Доруфурӯш ҳар рӯз дар дорухона кор мекунад."
+    },
+    {
+      "en": "The doctor wrote a prescription for my cough and prescribed pills.",
+      "tj": "Духтур барои сулфаи ман ретсепт навишт ва ҳабҳо таъин кард."
+    },
+    {
+      "en": "My mother and I queue at the pharmacy in the morning.",
+      "tj": "Ман ва модарам субҳ дар дорухона навбат меистем."
+    },
+    {
+      "en": "The customer asks the pharmacist about the pills.",
+      "tj": "Муштарак аз доруфурӯш дар бораи ҳабҳо мепурсад."
+    },
+    {
+      "en": "The pharmacist weighs the medicine and puts it in a small jar.",
+      "tj": "Доруфурӯш доруро вазн мекунад ва онро ба шишаи хурди дору мегузорад."
+    },
+    {
+      "en": "The label says: take one pill three times a day.",
+      "tj": "Этикетка мегӯяд: як ҳабро се маротиба дар як рӯз хӯред."
+    },
+    {
+      "en": "The pharmacist warns me not to take too many pills.",
+      "tj": "Доруфурӯш маро огоҳ мекунад, ки ҳабҳои аз ҳад зиёд нахӯрам."
+    },
+    {
+      "en": "I read the label carefully and take the right dose.",
+      "tj": "Ман этикеткаро бодиққат мехонам ва миқдори дурустро мехӯрам."
+    },
+    {
+      "en": "The dose is one pill in the morning and one in the evening.",
+      "tj": "Миқдори дору як ҳаб субҳ ва як ҳаб бегоҳ аст."
+    },
+    {
+      "en": "I feel better after the medicine.",
+      "tj": "Ман баъд аз дору худро беҳтар ҳис мекунам."
+    },
+    {
+      "en": "I wish you a quick recovery!",
+      "tj": "Ман ба шумо шифои зуд орзу мекунам!"
+    },
+    {
+      "en": "We must take our medicine carefully and stay at home.",
+      "tj": "Мо бояд доруи худро бодиққат хӯрем ва дар хона монем."
+    },
+    {
+      "en": "A good pharmacist helps people and explains the dose.",
+      "tj": "Доруфурӯши хуб ба одамон кӯмак мекунад ва миқдори доруро шарҳ медиҳад."
     }
   ],
   "text": {
-    "en": "Text for lesson 91. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 91 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 91 text.",
-    "tj": "Матни дарси 91..."
+    "en": "At the Pharmacy\n\nMy name is Ismoil. I am a pupil of class four. Last week I had a bad cough. The doctor wrote a prescription for my cough and prescribed pills.\n\nMy mother and I went to the pharmacy. The pharmacy is near our house and it opens early. We queued at the pharmacy in the morning. The customer in front of us asked the pharmacist about the pills.\n\nThe pharmacist weighed the medicine and put it in a small jar. The label says: take one pill three times a day. The pharmacist warned me not to take too many pills. I read the label carefully and took the right dose.\n\nThe dose is one pill in the morning and one in the evening. I feel better after the medicine. I wish you a quick recovery! We must take our medicine carefully and stay at home. A good pharmacist helps people and explains the dose.",
+    "tj": "Дар дорухона\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ҳафтаи гузашта ман сулфаи бад доштам. Духтур барои сулфаи ман ретсепт навишт ва ҳабҳо таъин кард.\n\nМан ва модарам ба дорухона рафтем. Дорухона дар назди хонаи мост ва барвақт кушода мешавад. Мо субҳ дар дорухона навбат истодем. Муштарак дар пеши мо аз доруфурӯш дар бораи ҳабҳо пурсид.\n\nДоруфурӯш доруро вазн кард ва онро ба шишаи хурди дору гузошт. Этикетка мегӯяд: як ҳабро се маротиба дар як рӯз хӯред. Доруфурӯш маро огоҳ кард, ки ҳабҳои аз ҳад зиёд нахӯрам. Ман этикеткаро бодиққат хондам ва миқдори дурустро хӯрдам.\n\nМиқдори дору як ҳаб субҳ ва як ҳаб бегоҳ аст. Ман баъд аз дору худро беҳтар ҳис мекунам. Ман ба шумо шифои зуд орзу мекунам! Мо бояд доруи худро бодиққат хӯрем ва дар хона монем. Доруфурӯши хуб ба одамон кӯмак мекунад ва миқдори доруро шарҳ медиҳад."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Дорухона дар назди хонаи мост ва барвақт кушода мешавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The pharmacy is near our house and it opens early.",
+        "The pharmacy is near our house and opens early.",
+        "A pharmacy is near our house and it opens early.",
+        "The pharmacy is near to our house and it opens early."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "The pharmacy is near our house and it opens early."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Доруфурӯш ҳар рӯз дар дорухона кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "The pharmacist works in the pharmacy every day.",
+        "A pharmacist works in the pharmacy every day.",
+        "The pharmacist works in a pharmacy every day.",
+        "The pharmacist works at the pharmacy every day."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The pharmacist works in the pharmacy every day."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Духтур барои сулфаи ман ретсепт навишт ва ҳабҳо таъин кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: environment",
-        "нодуруст C"
+        "The doctor wrote a prescription for my cough and prescribed pills.",
+        "The doctor wrote a prescription for my cough and prescribed the pills.",
+        "A doctor wrote a prescription for my cough and prescribed pills.",
+        "The doctor wrote the prescription for my cough and prescribed pills."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "The doctor wrote a prescription for my cough and prescribed pills."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ман ва модарам субҳ дар дорухона навбат истодем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: communication"
+        "My mother and I queue at the pharmacy in the morning.",
+        "My mother and I queued at the pharmacy in the morning.",
+        "I and my mother queue at the pharmacy in the morning.",
+        "My mother and I queue in the pharmacy in the morning."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "My mother and I queue at the pharmacy in the morning."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Муштарак аз доруфурӯш дар бораи ҳабҳо мепурсад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: education",
-        "нодуруст A"
+        "The customer asks the pharmacist about the pills.",
+        "The customer asks the pharmacist about pills.",
+        "A customer asks the pharmacist about the pills.",
+        "The customer asks to the pharmacist about the pills."
       ],
-      "answer": "тарҷума: education"
+      "answer": "The customer asks the pharmacist about the pills."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Доруфурӯш доруро вазн мекунад ва онро ба шишаи хурди дору мегузорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст B"
+        "The pharmacist weighs the medicine and puts it in a small jar.",
+        "The pharmacist weighs the medicine and puts it into a small jar.",
+        "The pharmacist weighs medicine and puts it in a small jar.",
+        "A pharmacist weighs the medicine and puts it in a small jar."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The pharmacist weighs the medicine and puts it in a small jar."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Этикетка мегӯяд: як ҳабро се маротиба дар як рӯз хӯред» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: achievement"
+        "The label says: take one pill three times a day.",
+        "The label says: take one pill three times a day.",
+        "A label says: take one pill three times a day.",
+        "The label says: take one pill three times in a day."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The label says: take one pill three times a day."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Доруфурӯш маро огоҳ мекунад, ки ҳабҳои аз ҳад зиёд нахӯрам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: challenge",
-        "нодуруст C",
-        "нодуруст B"
+        "The pharmacist warns me not to take too many pills.",
+        "The pharmacist warns me not to take too much pills.",
+        "The pharmacist warns me to not take too many pills.",
+        "The pharmacist warns me not to take many pills."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The pharmacist warns me not to take too many pills."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Ман этикеткаро бодиққат мехонам ва миқдори дурустро мехӯрам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: knowledge"
+        "I read the label carefully and take the right dose.",
+        "I read the label carefully and take the right dose.",
+        "I read the label careful and take the right dose.",
+        "I read a label carefully and take the right dose."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "I read the label carefully and take the right dose."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Миқдори дору як ҳаб субҳ ва як ҳаб бегоҳ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "The dose is one pill in the morning and one in the evening.",
+        "The dose is one pill in the morning and one in the evening.",
+        "The dose is one pill in the morning and one at the evening.",
+        "A dose is one pill in the morning and one in the evening."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The dose is one pill in the morning and one in the evening."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ман баъд аз дору худро беҳтар ҳис мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: fluency",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "I feel better after the medicine.",
+        "I feel better after medicine.",
+        "I feel myself better after the medicine.",
+        "I feel more better after the medicine."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "I feel better after the medicine."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ман ба шумо шифои зуд орзу мекунам!» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "I wish you a quick recovery!",
+        "I wish you quick recovery!",
+        "I wish to you a quick recovery!",
+        "I wish you a fast recovery!"
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "I wish you a quick recovery!"
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Мо бояд доруи худро бодиққат хӯрем ва дар хона монем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: pronunciation",
-        "нодуруст A"
+        "We must take our medicine carefully and stay at home.",
+        "We must take our medicine carefully and stay in home.",
+        "We should take our medicine carefully and stay at home.",
+        "We must take the medicine carefully and stay at home."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "We must take our medicine carefully and stay at home."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Доруфурӯши хуб ба одамон кӯмак мекунад ва миқдори доруро шарҳ медиҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: vocabulary",
-        "нодуруст A",
-        "нодуруст C"
+        "A good pharmacist helps people and explains the dose.",
+        "The good pharmacist helps people and explains the dose.",
+        "A good pharmacist helps people and explains a dose.",
+        "A good pharmacist helps to people and explains the dose."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "A good pharmacist helps people and explains the dose."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ҳафтаи гузашта ман сулфаи бад доштам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: grammar"
+        "Last week I had a bad cough.",
+        "Last week I had bad cough.",
+        "Last week I had a strong cough.",
+        "In the last week I had a bad cough."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "Last week I had a bad cough."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ман ва модарам ба дорухона рафтем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: opportunity"
+        "My mother and I went to the pharmacy.",
+        "I and my mother went to the pharmacy.",
+        "My mother and I went to a pharmacy.",
+        "My mother and I went to pharmacy."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "My mother and I went to the pharmacy."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Доруфурӯш доруро вазн кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "The pharmacist weighed the medicine.",
+        "A pharmacist weighed the medicine.",
+        "The pharmacist weighed medicine.",
+        "The pharmacist weighed the drug."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The pharmacist weighed the medicine."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ман этикеткаро бодиққат хондам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст C",
-        "нодуруст B"
+        "I read the label carefully.",
+        "I read the label careful.",
+        "I read a label carefully.",
+        "I read the label very carefully."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "I read the label carefully."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ман баъд аз дору худро беҳтар ҳис мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст B"
+        "I feel better after the medicine.",
+        "I feel better after medicine.",
+        "I feel myself better after the medicine.",
+        "I feel more better after the medicine."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "I feel better after the medicine."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Шишаи дору дар миз аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: education",
-        "нодуруст B"
+        "The jar is on the table.",
+        "A jar is on the table.",
+        "The jar is on a table.",
+        "The jar is in the table."
       ],
-      "answer": "тарҷума: education"
+      "answer": "The jar is on the table."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Доруфурӯш ба одамон кӯмак мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: development"
+        "The pharmacist helps people.",
+        "A pharmacist helps people.",
+        "The pharmacist helps to people.",
+        "The pharmacist helps the people."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The pharmacist helps people."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ман ҳабро субҳ ва бегоҳ мехӯрам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: achievement",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "I take the pill in the morning and in the evening.",
+        "I take a pill in the morning and in the evening.",
+        "I take the pill in morning and in the evening.",
+        "I take the pill in the morning and at the evening."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "I take the pill in the morning and in the evening."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Мушкилоти доруро бодиққат хонед» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "Read the label carefully.",
+        "Read a label carefully.",
+        "Read the label careful.",
+        "Read the label very carefully."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "Read the label carefully."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Ман ба шумо шифои зуд орзу мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: knowledge"
+        "I wish you a quick recovery.",
+        "I wish you quick recovery.",
+        "I wish to you a quick recovery.",
+        "I wish you fast recovery."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "I wish you a quick recovery."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Миқдори дору дар этикетка навишта шудааст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: conversation",
-        "нодуруст B",
-        "нодуруст A"
+        "The dose is written on the label.",
+        "The dose is written in the label.",
+        "A dose is written on the label.",
+        "The dose is written at the label."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The dose is written on the label."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ман доруи худро бодиққат мехӯрам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: fluency",
-        "нодуруст A",
-        "нодуруст B"
+        "I take my medicine carefully.",
+        "I take the medicine carefully.",
+        "I take my medicine careful.",
+        "I take my drug carefully."
       ],
-      "answer": "тарҷума: fluency"
-    },
-    {
-      "q": "'confidence' чи маъно дорад?",
-      "options": [
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: pronunciation",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "тарҷума: vocabulary",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "тарҷума: grammar",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: environment",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: communication"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: education"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: development"
-    },
-    {
-      "q": "'achievement' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: achievement"
-      ],
-      "answer": "тарҷума: achievement"
-    },
-    {
-      "q": "'challenge' чи маъно дорад?",
-      "options": [
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: challenge"
+      "answer": "I take my medicine carefully."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 38
+  "wordsCount": 16
 }
