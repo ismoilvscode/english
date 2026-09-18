@@ -1,611 +1,418 @@
 {
   "id": 94,
-  "title": "Муоширати воқеӣ 94",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 94: Рӯзи истироҳат дар боғи истироҳат",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "to relax",
+      "tj": "дам гирифтан",
+      "ex": "We relax in the park on Sunday."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "to enjoy",
+      "tj": "лаззат бурдан",
+      "ex": "I enjoy the beautiful weather."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "bench",
+      "tj": "курсӣ",
+      "ex": "We sit on a bench in the park."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "fountain",
+      "tj": "фаввора",
+      "ex": "The fountain is in the middle of the park."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "duck",
+      "tj": "мурғобӣ",
+      "ex": "The ducks swim in the small lake."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "to feed",
+      "tj": "хӯрок додан",
+      "ex": "We feed the ducks with bread."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "to lie",
+      "tj": "дароз кашидан",
+      "ex": "I lie on the grass and look at the sky."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "grass",
+      "tj": "алаф",
+      "ex": "The grass is green and soft."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "to laugh",
+      "tj": "хандидан",
+      "ex": "The children laugh and play."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to spend time",
+      "tj": "вақт гузарондан",
+      "ex": "We spend time together in the park."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "to take photos",
+      "tj": "акс гирифтан",
+      "ex": "My father takes photos of our family."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "to buy ice-cream",
+      "tj": "яхмос харидан",
+      "ex": "My mother buys ice-cream for us."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "sunny",
+      "tj": "офтобӣ",
+      "ex": "The weather is sunny and warm."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "to be tired",
+      "tj": "хаста шудан",
+      "ex": "We are tired but very happy."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to be happy",
+      "tj": "хушбахт будан",
+      "ex": "We are happy to be together."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "to go home",
+      "tj": "ба хона рафтан",
+      "ex": "In the evening we go home."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 94)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "On Sunday my family and I go to the park.",
+      "tj": "Рӯзи якшанбе ман ва оилаам ба боғи истироҳат меравем."
     },
     {
-      "en": "I'm working on lesson 94",
-      "tj": "Ман дарси 94-ро меомӯзам"
+      "en": "The weather is sunny and warm.",
+      "tj": "Обу ҳаво офтобӣ ва гарм аст."
+    },
+    {
+      "en": "We relax on a bench near the fountain.",
+      "tj": "Мо дар курсӣ дар назди фаввора дам мегирем."
+    },
+    {
+      "en": "I enjoy the beautiful weather and the green grass.",
+      "tj": "Ман аз обу ҳавои зебо ва алафи сабз лаззат мебарам."
+    },
+    {
+      "en": "The ducks swim in the small lake.",
+      "tj": "Мурғобиҳо дар кӯли хурд шино мекунанд."
+    },
+    {
+      "en": "We feed the ducks with bread.",
+      "tj": "Мо ба мурғобиҳо нон медиҳем."
+    },
+    {
+      "en": "I lie on the grass and look at the sky.",
+      "tj": "Ман дар алаф дароз мекашам ва ба осмон нигоҳ мекунам."
+    },
+    {
+      "en": "The children laugh and play in the park.",
+      "tj": "Кӯдакон дар боғи истироҳат механдем ва бозӣ мекунанд."
+    },
+    {
+      "en": "We spend time together and talk about our week.",
+      "tj": "Мо якҷоя вақт мегузаронем ва дар бораи ҳафтаи худ гап мезанем."
+    },
+    {
+      "en": "My father takes photos of our family.",
+      "tj": "Падарам аз оилаи мо акс мегирад."
+    },
+    {
+      "en": "My mother buys ice-cream for us.",
+      "tj": "Модарам барои мо яхмос мехарад."
+    },
+    {
+      "en": "We are tired but very happy.",
+      "tj": "Мо хаста ҳастем, аммо хеле хушбахт ҳастем."
+    },
+    {
+      "en": "In the evening we go home.",
+      "tj": "Бегоҳ мо ба хона меравем."
+    },
+    {
+      "en": "A day in the park is a very good rest.",
+      "tj": "Рӯз дар боғи истироҳат дамгирии хеле хуб аст."
+    },
+    {
+      "en": "I love my family and I love our Sundays together.",
+      "tj": "Ман оилаамро дӯст медорам ва якшанбеҳои якҷояи моро дӯст медорам."
     }
   ],
   "text": {
-    "en": "Text for lesson 94. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 94 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 94 text.",
-    "tj": "Матни дарси 94..."
+    "en": "A Day Off in the Park\n\nMy name is Ismoil. I am a pupil of class four. On Sunday my family and I go to the park. The weather is sunny and warm.\n\nWe relax on a bench near the fountain. I enjoy the beautiful weather and the green grass. The ducks swim in the small lake. We feed the ducks with bread. I lie on the grass and look at the sky. The children laugh and play.\n\nWe spend time together and talk about our week. My father takes photos of our family. My mother buys ice-cream for us. We are tired but very happy.\n\nIn the evening we go home. A day in the park is a very good rest. I love my family and I love our Sundays together.",
+    "tj": "Рӯзи истироҳат дар боғи истироҳат\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Рӯзи якшанбе ман ва оилаам ба боғи истироҳат меравем. Обу ҳаво офтобӣ ва гарм аст.\n\nМо дар курсӣ дар назди фаввора дам мегирем. Ман аз обу ҳавои зебо ва алафи сабз лаззат мебарам. Мурғобиҳо дар кӯли хурд шино мекунанд. Мо ба мурғобиҳо нон медиҳем. Ман дар алаф дароз мекашам ва ба осмон нигоҳ мекунам. Кӯдакон механдем ва бозӣ мекунанд.\n\nМо якҷоя вақт мегузаронем ва дар бораи ҳафтаи худ гап мезанем. Падарам аз оилаи мо акс мегирад. Модарам барои мо яхмос мехарад. Мо хаста ҳастем, аммо хеле хушбахт ҳастем.\n\nБегоҳ мо ба хона меравем. Рӯз дар боғи истироҳат дамгирии хеле хуб аст. Ман оилаамро дӯст медорам ва якшанбеҳои якҷояи моро дӯст медорам."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Рӯзи якшанбе ман ва оилаам ба боғи истироҳат меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: opportunity"
+        "On Sunday my family and I go to the park.",
+        "On Sunday my family and me go to the park.",
+        "On Sunday my family and I go to a park.",
+        "On Sunday I and my family go to the park."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "On Sunday my family and I go to the park."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Обу ҳаво офтобӣ ва гарм аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "The weather is sunny and warm.",
+        "Weather is sunny and warm.",
+        "The weather is sunny and hot.",
+        "The weather is sunny and warm."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The weather is sunny and warm."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Мо дар курсӣ дар назди фаввора дам мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: environment",
-        "нодуруст A"
+        "We relax on a bench near the fountain.",
+        "We relax on the bench near the fountain.",
+        "We have a rest on a bench near the fountain.",
+        "We relax on a bench near a fountain."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "We relax on a bench near the fountain."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ман аз обу ҳавои зебо ва алафи сабз лаззат мебарам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "I enjoy the beautiful weather and the green grass.",
+        "I enjoy beautiful weather and green grass.",
+        "I enjoy the beautiful weather and green grass.",
+        "I enjoy the beautiful weather and the green grass."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "I enjoy the beautiful weather and the green grass."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Мурғобиҳо дар кӯли хурд шино мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: education"
+        "The ducks swim in the small lake.",
+        "Ducks swim in the small lake.",
+        "The ducks swim in a small lake.",
+        "The ducks swim in the little lake."
       ],
-      "answer": "тарҷума: education"
+      "answer": "The ducks swim in the small lake."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Мо ба мурғобиҳо нон медиҳем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: development",
-        "нодуруст C",
-        "нодуруст B"
+        "We feed the ducks with bread.",
+        "We feed ducks with bread.",
+        "We feed the ducks by bread.",
+        "We feed the ducks with the bread."
       ],
-      "answer": "тарҷума: development"
+      "answer": "We feed the ducks with bread."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ман дар алаф дароз мекашам ва ба осмон нигоҳ мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: achievement"
+        "I lie on the grass and look at the sky.",
+        "I lie on grass and look at the sky.",
+        "I lie on the grass and look at sky.",
+        "I lie in the grass and look at the sky."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "I lie on the grass and look at the sky."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Кӯдакон дар боғи истироҳат механдем ва бозӣ мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "The children laugh and play in the park.",
+        "Children laugh and play in the park.",
+        "The children laugh and play in a park.",
+        "The children laugh and play at the park."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The children laugh and play in the park."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Мо якҷоя вақт мегузаронем ва дар бораи ҳафтаи худ гап мезанем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: knowledge",
-        "нодуруст A"
+        "We spend time together and talk about our week.",
+        "We spend the time together and talk about our week.",
+        "We spend time together and talk about the week.",
+        "We spend time together and speak about our week."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "We spend time together and talk about our week."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Падарам аз оилаи мо акс мегирад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: conversation",
-        "нодуруст C"
+        "My father takes photos of our family.",
+        "My father takes photos of the family.",
+        "My father takes the photos of our family.",
+        "My father makes photos of our family."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "My father takes photos of our family."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Модарам барои мо яхмос мехарад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: fluency"
+        "My mother buys ice-cream for us.",
+        "My mother buys an ice-cream for us.",
+        "My mother buys ice-cream to us.",
+        "My mother buys the ice-cream for us."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "My mother buys ice-cream for us."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Мо хаста ҳастем, аммо хеле хушбахт ҳастем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: confidence"
+        "We are tired but very happy.",
+        "We are tired, but very happy.",
+        "We are tired but happy very much.",
+        "We are tired but we are very happy."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "We are tired but very happy."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Бегоҳ мо ба хона меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: pronunciation",
-        "нодуруст B"
+        "In the evening we go home.",
+        "In the evening we go to home.",
+        "In evening we go home.",
+        "In the evening we come home."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "In the evening we go home."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Рӯз дар боғи истироҳат дамгирии хеле хуб аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: vocabulary"
+        "A day in the park is a very good rest.",
+        "The day in the park is a very good rest.",
+        "A day in a park is a very good rest.",
+        "A day in the park is very good rest."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "A day in the park is a very good rest."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ман оилаамро дӯст медорам ва якшанбеҳои якҷояи моро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: grammar",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "I love my family and I love our Sundays together.",
+        "I love my family and I love the Sundays together.",
+        "I love my family and I like our Sundays together.",
+        "I love my family and I love our Sunday together."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "I love my family and I love our Sundays together."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ман хонандаи синфи чорум ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "I am a pupil of class four.",
+        "I am pupil of class four.",
+        "I am a pupil of the class four.",
+        "I am a student of class four."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "I am a pupil of class four."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман дар Душанбе бо оилаам зиндагӣ мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: experience"
+        "I live in Dushanbe with my family.",
+        "I live in Dushanbe with the family.",
+        "I live in Dushanbe with family.",
+        "I live in Dushanbe with my famaly."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I live in Dushanbe with my family."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Кӯдакон дар боғ бозӣ мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "The children play in the park.",
+        "Children play in the park.",
+        "The children play in a park.",
+        "The children play at the park."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "The children play in the park."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ман аз обу ҳавои зебо лаззат мебарам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст B"
+        "I enjoy the beautiful weather.",
+        "I enjoy beautiful weather.",
+        "I enjoy the good weather.",
+        "I like the beautiful weather."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "I enjoy the beautiful weather."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Мо якҷоя вақт мегузаронем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: education",
-        "нодуруст A",
-        "нодуруст C"
+        "We spend time together.",
+        "We spend the time together.",
+        "We spend time with each other.",
+        "We pass time together."
       ],
-      "answer": "тарҷума: education"
+      "answer": "We spend time together."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Падарам акс мегирад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: development"
+        "My father takes photos.",
+        "My father takes the photos.",
+        "My father makes photos.",
+        "My father takes a photo."
       ],
-      "answer": "тарҷума: development"
+      "answer": "My father takes photos."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Модарам барои мо яхмос мехарад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: achievement"
+        "My mother buys ice-cream for us.",
+        "My mother buys an ice-cream for us.",
+        "My mother buys ice-cream to us.",
+        "My mother buys the ice-cream for us."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "My mother buys ice-cream for us."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Мо хаста ҳастем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "We are tired.",
+        "We are tired very much.",
+        "We have tired.",
+        "We are tiring."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "We are tired."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Мо хушбахт ҳастем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: knowledge",
-        "нодуруст C",
-        "нодуруст A"
+        "We are happy.",
+        "We are happy very much.",
+        "We have happy.",
+        "We are happily."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "We are happy."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Ман оилаамро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "I love my family.",
+        "I love the family.",
+        "I like my family.",
+        "I love my family very much."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "I love my family."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ман якшанбеҳои якҷояро дӯст медорам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: fluency"
+        "I love our Sundays together.",
+        "I love the Sundays together.",
+        "I love our Sunday together.",
+        "I like our Sundays together."
       ],
-      "answer": "тарҷума: fluency"
-    },
-    {
-      "q": "'confidence' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: confidence",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: pronunciation",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: vocabulary",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "тарҷума: grammar",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: experience",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "тарҷума: communication",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: education",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: development"
-    },
-    {
-      "q": "'achievement' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: achievement"
-      ],
-      "answer": "тарҷума: achievement"
-    },
-    {
-      "q": "'challenge' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: challenge",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: challenge"
-    },
-    {
-      "q": "'knowledge' чи маъно дорад?",
-      "options": [
-        "тарҷума: knowledge",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: knowledge"
+      "answer": "I love our Sundays together."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 39
+  "wordsCount": 16
 }
