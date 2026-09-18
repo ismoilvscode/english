@@ -1,611 +1,432 @@
 {
   "id": 95,
-  "title": "Муоширати воқеӣ 95",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 95: Дар боғи ҳайвонот",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "zoo",
+      "tj": "боғи ҳайвонот",
+      "ex": "We visit the zoo on Sunday."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "cage",
+      "tj": "қафас",
+      "ex": "The lion lives in a big cage."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "tail",
+      "tj": "дум",
+      "ex": "The fox has a long tail."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "paw",
+      "tj": "панҷа",
+      "ex": "The bear has big paws."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "wild animal",
+      "tj": "ҳайвони ваҳшӣ",
+      "ex": "The wolf is a wild animal."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "visitor",
+      "tj": "боздидкунанда",
+      "ex": "Many visitors come to the zoo."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "to visit",
+      "tj": "дидан кардан",
+      "ex": "We visit our grandmother every week."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to watch",
+      "tj": "тамошо кардан",
+      "ex": "We watch the animals in the zoo."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "to jump",
+      "tj": "ҷаҳидан",
+      "ex": "The monkey can jump very high."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to climb",
+      "tj": "баромадан",
+      "ex": "The bear can climb trees."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "to be afraid of",
+      "tj": "тарсидан аз",
+      "ex": "I am not afraid of the tiger."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "dangerous",
+      "tj": "хатарнок",
+      "ex": "Some wild animals are dangerous."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "beautiful",
+      "tj": "зебо",
+      "ex": "The peacock is a beautiful bird."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "to take a photo",
+      "tj": "акс гирифтан",
+      "ex": "My father takes a photo of the lion."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to feed",
+      "tj": "хӯрок додан",
+      "ex": "We can feed the ducks but not the lions."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "to protect",
+      "tj": "муҳофизат кардан",
+      "ex": "We must protect wild animals."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 95)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "On Sunday my family and I visit the zoo.",
+      "tj": "Рӯзи якшанбе ман ва оилаам ба боғи ҳайвонот меравем."
     },
     {
-      "en": "I'm working on lesson 95",
-      "tj": "Ман дарси 95-ро меомӯзам"
+      "en": "The zoo is near the park and it is very big.",
+      "tj": "Боғи ҳайвонот дар назди боғи истироҳат аст ва хеле калон аст."
+    },
+    {
+      "en": "Many visitors come to the zoo with their children.",
+      "tj": "Боздидкунандагони зиёд бо кӯдакони худ ба боғи ҳайвонот меоянд."
+    },
+    {
+      "en": "The lion lives in a big cage and has a long tail.",
+      "tj": "Шер дар қафаси калон зиндагӣ мекунад ва думи дароз дорад."
+    },
+    {
+      "en": "The monkey can jump very high and climb trees.",
+      "tj": "Маймун метавонад хеле баланд ҷаҳад ва ба дарахтон барояд."
+    },
+    {
+      "en": "The bear has big paws and can climb trees.",
+      "tj": "Хирс панҷаҳои калон дорад ва метавонад ба дарахтон барояд."
+    },
+    {
+      "en": "The fox has a long tail and is a very clever animal.",
+      "tj": "Рӯбоҳ думи дароз дорад ва ҳайвони хеле зирак аст."
+    },
+    {
+      "en": "The peacock is a beautiful bird with a long tail.",
+      "tj": "Товус паррандаи зебо бо думи дароз аст."
+    },
+    {
+      "en": "Some wild animals are dangerous, so we must be careful.",
+      "tj": "Баъзе ҳайвоноти ваҳшӣ хатарнок ҳастанд, бинобар ин мо бояд эҳтиёткор бошем."
+    },
+    {
+      "en": "I am not afraid of the tiger because it is in the cage.",
+      "tj": "Ман аз тигр наметарсам, зеро ки он дар қафас аст."
+    },
+    {
+      "en": "My father takes a photo of the lion and the bear.",
+      "tj": "Падарам акси шер ва хирсро мегирад."
+    },
+    {
+      "en": "We can feed the ducks but we must not feed the lions.",
+      "tj": "Мо метавонем ба мурғобиҳо хӯрок диҳем, аммо мо набояд ба шерҳо хӯрок диҳем."
+    },
+    {
+      "en": "We must protect wild animals and their homes in nature.",
+      "tj": "Мо бояд ҳайвоноти ваҳширо ва хонаҳои онҳоро дар табиат муҳофизат кунем."
+    },
+    {
+      "en": "The zoo teaches us about animals and about nature.",
+      "tj": "Боғи ҳайвонот ба мо дар бораи ҳайвонот ва дар бораи табиат меомӯзонад."
+    },
+    {
+      "en": "We are tired but very happy after our visit to the zoo.",
+      "tj": "Мо баъд аз боздиди боғи ҳайвонот хаста ҳастем, аммо хеле хушбахт ҳастем."
+    },
+    {
+      "en": "I love wild animals and I want to help them.",
+      "tj": "Ман ҳайвоноти ваҳширо дӯст медорам ва мехоҳам ба онҳо кӯмак кунам."
     }
   ],
   "text": {
-    "en": "Text for lesson 95. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 95 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 95 text.",
-    "tj": "Матни дарси 95..."
+    "en": "At the Zoo\n\nMy name is Ismoil. I am a pupil of class four. Last Sunday my family and I visited the zoo. The zoo is near the park and it is very big. Many visitors come to the zoo with their children.\n\nWe saw many wild animals: a lion, a tiger, a bear, a fox, a wolf and a monkey. The lion lives in a big cage and has a long tail. The monkey can jump very high and climb trees. The bear has big paws and can climb trees too. The fox has a long tail and is a very clever animal. The peacock is a beautiful bird with a long tail.\n\nSome wild animals are dangerous, so we must be careful. But I am not afraid of the tiger because it is in the cage. My father took a photo of the lion and the bear.\n\nWe fed the ducks but we did not feed the lions. We must protect wild animals and their homes in nature. The zoo teaches us about animals and about nature.\n\nWe were tired but very happy after our visit to the zoo. I love wild animals and I want to help them.",
+    "tj": "Дар боғи ҳайвонот\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Якшанбеи гузашта ман ва оилаам ба боғи ҳайвонот рафтем. Боғи ҳайвонот дар назди боғи истироҳат аст ва хеле калон аст. Боздидкунандагони зиёд бо кӯдакони худ ба боғи ҳайвонот меоянд.\n\nМо ҳайвоноти ваҳшии зиёдро дидем: шер, тигр, хирс, рӯбоҳ, гург ва маймун. Шер дар қафаси калон зиндагӣ мекунад ва думи дароз дорад. Маймун метавонад хеле баланд ҷаҳад ва ба дарахтон барояд. Хирс панҷаҳои калон дорад ва метавонад ба дарахтон барояд. Рӯбоҳ думи дароз дорад ва ҳайвони хеле зирак аст. Товус паррандаи зебо бо думи дароз аст.\n\nБаъзе ҳайвоноти ваҳшӣ хатарнок ҳастанд, бинобар ин мо бояд эҳтиёткор бошем. Аммо ман аз тигр наметарсам, зеро ки он дар қафас аст. Падарам акси шер ва хирсро гирифт.\n\nМо ба мурғобиҳо хӯрок додем, аммо ба шерҳо хӯрок надодем. Мо бояд ҳайвоноти ваҳширо ва хонаҳои онҳоро дар табиат муҳофизат кунем. Боғи ҳайвонот ба мо дар бораи ҳайвонот ва дар бораи табиат меомӯзонад.\n\nМо баъд аз боздиди боғи ҳайвонот хаста ҳастем, аммо хеле хушбахт ҳастем. Ман ҳайвоноти ваҳширо дӯст медорам ва мехоҳам ба онҳо кӯмак кунам."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Рӯзи якшанбе ман ва оилаам ба боғи ҳайвонот меравем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "On Sunday my family and I visit the zoo.",
+        "On Sunday my family and me visit the zoo.",
+        "On Sunday my family and I visit a zoo.",
+        "On Sunday I and my family visit the zoo."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "On Sunday my family and I visit the zoo."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Боғи ҳайвонот дар назди боғи истироҳат аст ва хеле калон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст B"
+        "The zoo is near the park and it is very big.",
+        "The zoo is near the park and is very big.",
+        "The zoo is near a park and it is very big.",
+        "The zoo is near to the park and it is very big."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The zoo is near the park and it is very big."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Боздидкунандагони зиёд бо кӯдакони худ ба боғи ҳайвонот меоянд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: environment",
-        "нодуруст A"
+        "Many visitors come to the zoo with their children.",
+        "Many visitors come to the zoo with children.",
+        "Many visitors come to a zoo with their children.",
+        "A lot of visitors come to the zoo with their children."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Many visitors come to the zoo with their children."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Шер дар қафаси калон зиндагӣ мекунад ва думи дароз дорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: communication",
-        "нодуруст C",
-        "нодуруст B"
+        "The lion lives in a big cage and has a long tail.",
+        "The lion lives in the big cage and has a long tail.",
+        "A lion lives in a big cage and has a long tail.",
+        "The lion lives in a big cage and has long tail."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "The lion lives in a big cage and has a long tail."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Маймун метавонад хеле баланд ҷаҳад ва ба дарахтон барояд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: education",
-        "нодуруст B"
+        "The monkey can jump very high and climb trees.",
+        "The monkey can jump very high and climb the trees.",
+        "A monkey can jump very high and climb trees.",
+        "The monkey can jump very high and can climb trees."
       ],
-      "answer": "тарҷума: education"
+      "answer": "The monkey can jump very high and climb trees."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Хирс панҷаҳои калон дорад ва метавонад ба дарахтон барояд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: development",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "The bear has big paws and can climb trees.",
+        "The bear has big paws and can climb the trees.",
+        "A bear has big paws and can climb trees.",
+        "The bear has big paws and it can climb trees."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The bear has big paws and can climb trees."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Рӯбоҳ думи дароз дорад ва ҳайвони хеле зирак аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст B"
+        "The fox has a long tail and is a very clever animal.",
+        "The fox has a long tail and is a clever animal.",
+        "A fox has a long tail and is a very clever animal.",
+        "The fox has a long tail and it is a very clever animal."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The fox has a long tail and is a very clever animal."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Товус паррандаи зебо бо думи дароз аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: challenge",
-        "нодуруст A"
+        "The peacock is a beautiful bird with a long tail.",
+        "The peacock is a beautiful bird with long tail.",
+        "A peacock is a beautiful bird with a long tail.",
+        "The peacock is the beautiful bird with a long tail."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The peacock is a beautiful bird with a long tail."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Баъзе ҳайвоноти ваҳшӣ хатарнок ҳастанд, бинобар ин мо бояд эҳтиёткор бошем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: knowledge",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "Some wild animals are dangerous, so we must be careful.",
+        "Some wild animals are dangerous so we must be careful.",
+        "Some wild animals are dangerous, that is why we must be careful.",
+        "Some wild animals are dangerous, so we should be careful."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "Some wild animals are dangerous, so we must be careful."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Ман аз тигр наметарсам, зеро ки он дар қафас аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: conversation"
+        "I am not afraid of the tiger because it is in the cage.",
+        "I am not afraid of the tiger, because it is in the cage.",
+        "I am not afraid of a tiger because it is in the cage.",
+        "I am not afraid of the tiger because it is in a cage."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "I am not afraid of the tiger because it is in the cage."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Падарам акси шер ва хирсро мегирад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: fluency",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "My father takes a photo of the lion and the bear.",
+        "My father takes a photo of a lion and a bear.",
+        "My father takes the photo of the lion and the bear.",
+        "My father takes a photo of the lion and bear."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "My father takes a photo of the lion and the bear."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Мо метавонем ба мурғобиҳо хӯрок диҳем, аммо мо набояд ба шерҳо хӯрок диҳем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "We can feed the ducks but we must not feed the lions.",
+        "We can feed ducks but we must not feed the lions.",
+        "We can feed the ducks but we must not feed lions.",
+        "We can feed the ducks, but we must not feed the lions."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "We can feed the ducks but we must not feed the lions."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Мо бояд ҳайвоноти ваҳширо ва хонаҳои онҳоро дар табиат муҳофизат кунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: pronunciation",
-        "нодуруст C"
+        "We must protect wild animals and their homes in nature.",
+        "We must protect wild animals and their homes in the nature.",
+        "We must protect the wild animals and their homes in nature.",
+        "We must protect wild animals and their home in nature."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "We must protect wild animals and their homes in nature."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Боғи ҳайвонот ба мо дар бораи ҳайвонот ва дар бораи табиат меомӯзонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: vocabulary",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "The zoo teaches us about animals and about nature.",
+        "The zoo teaches us about animals and nature.",
+        "A zoo teaches us about animals and about nature.",
+        "The zoo teaches us about the animals and about nature."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "The zoo teaches us about animals and about nature."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Мо баъд аз боздиди боғи ҳайвонот хаста ҳастем, аммо хеле хушбахт ҳастем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: grammar",
-        "нодуруст B"
+        "We are tired but very happy after our visit to the zoo.",
+        "We are tired but very happy after our visit to a zoo.",
+        "We are tired, but very happy after our visit to the zoo.",
+        "We are tired but very happy after the visit to the zoo."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "We are tired but very happy after our visit to the zoo."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ман ҳайвоноти ваҳширо дӯст медорам ва мехоҳам ба онҳо кӯмак кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст A",
-        "нодуруст C"
+        "I love wild animals and I want to help them.",
+        "I love the wild animals and I want to help them.",
+        "I love wild animals and I want to help him.",
+        "I love wild animals and I want to help it."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "I love wild animals and I want to help them."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман хонандаи синфи чорум ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "I am a pupil of class four.",
+        "I am pupil of class four.",
+        "I am a pupil of the class four.",
+        "I am a student of class four."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I am a pupil of class four."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Якшанбеи гузашта ман ва оилаам ба боғи ҳайвонот рафтем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: environment",
-        "нодуруст A"
+        "Last Sunday my family and I visited the zoo.",
+        "Last Sunday my family and me visited the zoo.",
+        "Last Sunday my family and I visited a zoo.",
+        "On last Sunday my family and I visited the zoo."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Last Sunday my family and I visited the zoo."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Мо ҳайвоноти ваҳшии зиёдро дидем: шер, тигр, хирс, рӯбоҳ, гург ва маймун» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: communication"
+        "We saw many wild animals: a lion, a tiger, a bear, a fox, a wolf and a monkey.",
+        "We saw many wild animals: lion, tiger, bear, fox, wolf and monkey.",
+        "We saw a lot of wild animals: a lion, a tiger, a bear, a fox, a wolf and a monkey.",
+        "We saw many wild animals: a lion, a tiger, a bear, a fox, a wolf and a monkey."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "We saw many wild animals: a lion, a tiger, a bear, a fox, a wolf and a monkey."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Ман дар Душанбе бо оилаам зиндагӣ мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: education",
-        "нодуруст C"
+        "I live in Dushanbe with my family.",
+        "I live in Dushanbe with the family.",
+        "I live in Dushanbe with family.",
+        "I live in Dushanbe with my famaly."
       ],
-      "answer": "тарҷума: education"
+      "answer": "I live in Dushanbe with my family."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Шер дар қафаси калон зиндагӣ мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: development"
+        "The lion lives in a big cage.",
+        "The lion lives in the big cage.",
+        "A lion lives in a big cage.",
+        "The lion lives in big cage."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The lion lives in a big cage."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Маймун метавонад хеле баланд ҷаҳад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "The monkey can jump very high.",
+        "A monkey can jump very high.",
+        "The monkey can jump very high.",
+        "The monkey can jump high very much."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The monkey can jump very high."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Рӯбоҳ ҳайвони хеле зирак аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: challenge",
-        "нодуруст B",
-        "нодуруст C"
+        "The fox is a very clever animal.",
+        "The fox is a clever animal.",
+        "A fox is a very clever animal.",
+        "The fox is the very clever animal."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The fox is a very clever animal."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Мо ба мурғобиҳо хӯрок додем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: knowledge",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "We fed the ducks.",
+        "We fed ducks.",
+        "We fed the duck.",
+        "We feed the ducks."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "We fed the ducks."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Мо набояд ба шерҳо хӯрок диҳем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: conversation",
-        "нодуруст A"
+        "We must not feed the lions.",
+        "We must not feed lions.",
+        "We should not feed the lions.",
+        "We must not feed the lion."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "We must not feed the lions."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Мо хаста ҳастем, аммо хушбахт ҳастем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: fluency",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "We are tired but happy.",
+        "We are tired, but happy.",
+        "We are tired but we are happy.",
+        "We are tired and happy."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "We are tired but happy."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ман ба ҳайвонот кӯмак кардан мехоҳам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "I want to help animals.",
+        "I want to help the animals.",
+        "I want to help wild animals.",
+        "I want to help to animals."
       ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: pronunciation",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: vocabulary"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: grammar"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: opportunity"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: experience"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: education",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: development"
-      ],
-      "answer": "тарҷума: development"
-    },
-    {
-      "q": "'achievement' чи маъно дорад?",
-      "options": [
-        "тарҷума: achievement",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: achievement"
-    },
-    {
-      "q": "'challenge' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: challenge"
-      ],
-      "answer": "тарҷума: challenge"
-    },
-    {
-      "q": "'knowledge' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: knowledge",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: knowledge"
+      "answer": "I want to help animals."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 39
+  "wordsCount": 16
 }
