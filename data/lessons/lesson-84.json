@@ -1,566 +1,402 @@
 {
   "id": 84,
-  "title": "Муоширати воқеӣ 84",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 84: Баҳор дар деҳа",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "spring",
+      "tj": "баҳор",
+      "ex": "Spring is a warm and beautiful season."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "nest",
+      "tj": "лона",
+      "ex": "The bird builds a nest in the tree."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "butterfly",
+      "tj": "шапалак",
+      "ex": "A colourful butterfly flies over the flowers."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "bee",
+      "tj": "занбӯр",
+      "ex": "The bee works in the garden all day."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "to bloom",
+      "tj": "гул кардан",
+      "ex": "The trees bloom in spring."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "to plant",
+      "tj": "шинондан",
+      "ex": "We plant trees and flowers in spring."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "to water",
+      "tj": "об додан",
+      "ex": "I water the flowers every morning."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to sing",
+      "tj": "суруд хондан",
+      "ex": "The birds sing beautiful songs."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "to fly",
+      "tj": "парвоз кардан",
+      "ex": "The birds fly high in the blue sky."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to build",
+      "tj": "сохтан",
+      "ex": "Birds build their nests in spring."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "green",
+      "tj": "сабз",
+      "ex": "The grass is green in spring."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "warm",
+      "tj": "гарм",
+      "ex": "The weather is warm in spring."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "sun",
+      "tj": "офтоб",
+      "ex": "The sun is bright in spring."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "sky",
+      "tj": "осмон",
+      "ex": "The sky is blue and clear."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "river",
+      "tj": "дарё",
+      "ex": "The river is clean and cold."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "mountain",
+      "tj": "кӯҳ",
+      "ex": "The mountains are beautiful in spring."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 84)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Spring is a warm and beautiful season in the village.",
+      "tj": "Баҳор дар деҳа фасли гарм ва зебост."
     },
     {
-      "en": "I'm working on lesson 84",
-      "tj": "Ман дарси 84-ро меомӯзам"
+      "en": "The trees bloom and the grass is green.",
+      "tj": "Дарахтон гул мекунанд ва алаф сабз аст."
+    },
+    {
+      "en": "The birds fly high in the blue sky and sing beautiful songs.",
+      "tj": "Паррандаҳо дар осмони кабуд баланд парвоз мекунанд ва сурудҳои зебо мехонанд."
+    },
+    {
+      "en": "The birds build their nests in the trees.",
+      "tj": "Паррандаҳо лонаҳои худро дар дарахтон месозанд."
+    },
+    {
+      "en": "A colourful butterfly flies over the flowers.",
+      "tj": "Шапалаки рангин болои гулҳо парвоз мекунад."
+    },
+    {
+      "en": "The bee works in the garden all day.",
+      "tj": "Занбӯр тамоми рӯз дар боғ кор мекунад."
+    },
+    {
+      "en": "We plant trees and flowers in spring.",
+      "tj": "Мо дар баҳор дарахтон ва гулҳо мешинонем."
+    },
+    {
+      "en": "I water the flowers every morning.",
+      "tj": "Ман ҳар субҳ гулҳоро об медиҳам."
+    },
+    {
+      "en": "The sun is bright and the sky is blue and clear.",
+      "tj": "Офтоб дурахшон аст ва осмон кабуд ва равшан аст."
+    },
+    {
+      "en": "The river is clean and cold in spring.",
+      "tj": "Дарё дар баҳор тоза ва хунук аст."
+    },
+    {
+      "en": "The mountains are beautiful in spring.",
+      "tj": "Кӯҳҳо дар баҳор зебо ҳастанд."
+    },
+    {
+      "en": "We work in the garden and help our grandmother.",
+      "tj": "Мо дар боғ кор мекунем ва ба бибиамон кӯмак мекунем."
+    },
+    {
+      "en": "My grandfather plants a young tree near the house.",
+      "tj": "Бобоям дар назди хона дарахти ҷавон мешинонад."
+    },
+    {
+      "en": "In spring the village is full of flowers and green grass.",
+      "tj": "Дар баҳор деҳа пур аз гулҳо ва алафи сабз аст."
+    },
+    {
+      "en": "I love spring because it is a time of new life and joy.",
+      "tj": "Ман баҳорро дӯст медорам, зеро ки он вақти ҳаёти нав ва шодист."
+    },
+    {
+      "en": "When I grow up, I want to plant a big garden near my house.",
+      "tj": "Вақте ки ман калон мешавам, ман мехоҳам дар назди хонаи худ боғи калон шинонам."
     }
   ],
   "text": {
-    "en": "Text for lesson 84. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 84 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 84 text.",
-    "tj": "Матни дарси 84..."
+    "en": "Spring in the Village\n\nMy name is Ismoil. I am a pupil of class four. I live in Dushanbe with my family. My grandmother and grandfather live in a village near the mountains. In spring I go to the village and help them in the garden.\n\nSpring is a warm and beautiful season. The sun is bright and the sky is blue and clear. The trees bloom and the grass is green. The birds fly high in the blue sky and sing beautiful songs. They build their nests in the trees.\n\nA colourful butterfly flies over the flowers. The bee works in the garden all day. We plant trees and flowers in spring. I water the flowers every morning. My grandfather plants a young tree near the house.\n\nThe river is clean and cold in spring. The mountains are beautiful. In spring the village is full of flowers and green grass.\n\nWe work in the garden and help our grandmother. I love spring because it is a time of new life and joy. When I grow up, I want to plant a big garden near my house.",
+    "tj": "Баҳор дар деҳа\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ман дар Душанбе бо оилаам зиндагӣ мекунам. Биби ва бобои ман дар деҳае дар назди кӯҳҳо зиндагӣ мекунанд. Дар баҳор ман ба деҳа меравам ва ба онҳо дар боғ кӯмак мекунам.\n\nБаҳор фасли гарм ва зебост. Офтоб дурахшон аст ва осмон кабуд ва равшан аст. Дарахтон гул мекунанд ва алаф сабз аст. Паррандаҳо дар осмони кабуд баланд парвоз мекунанд ва сурудҳои зебо мехонанд. Онҳо лонаҳои худро дар дарахтон месозанд.\n\nШапалаки рангин болои гулҳо парвоз мекунад. Занбӯр тамоми рӯз дар боғ кор мекунад. Мо дар баҳор дарахтон ва гулҳо мешинонем. Ман ҳар субҳ гулҳоро об медиҳам. Бобоям дар назди хона дарахти ҷавон мешинонад.\n\nДарё дар баҳор тоза ва хунук аст. Кӯҳҳо зебо ҳастанд. Дар баҳор деҳа пур аз гулҳо ва алафи сабз аст.\n\nМо дар боғ кор мекунем ва ба бибиамон кӯмак мекунем. Ман баҳорро дӯст медорам, зеро ки он вақти ҳаёти нав ва шодист. Вақте ки ман калон мешавам, ман мехоҳам дар назди хонаи худ боғи калон шинонам."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Баҳор дар деҳа фасли гарм ва зебост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: opportunity"
+        "Spring is a warm and beautiful season in the village.",
+        "The spring is a warm and beautiful season in the village.",
+        "Spring is a warm and beautiful season in a village.",
+        "Spring is the warm and beautiful season in the village."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Spring is a warm and beautiful season in the village."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Дарахтон гул мекунанд ва алаф сабз аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: experience",
-        "нодуруст C",
-        "нодуруст A"
+        "The trees bloom and the grass is green.",
+        "Trees bloom and the grass is green.",
+        "The trees bloom and grass is green.",
+        "The trees blossom and the grass is green."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "The trees bloom and the grass is green."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Паррандаҳо дар осмони кабуд баланд парвоз мекунанд ва сурудҳои зебо мехонанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст C",
-        "нодуруст B"
+        "The birds fly high in the blue sky and sing beautiful songs.",
+        "The birds fly high in a blue sky and sing beautiful songs.",
+        "The birds fly high in the blue sky and sing the beautiful songs.",
+        "Birds fly high in the blue sky and sing beautiful songs."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "The birds fly high in the blue sky and sing beautiful songs."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Паррандаҳо лонаҳои худро дар дарахтон месозанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: communication"
+        "The birds build their nests in the trees.",
+        "The birds build their nests in trees.",
+        "Birds build their nests in the trees.",
+        "The birds build the nests in the trees."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "The birds build their nests in the trees."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Шапалаки рангин болои гулҳо парвоз мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: education",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "A colourful butterfly flies over the flowers.",
+        "The colourful butterfly flies over the flowers.",
+        "A colourful butterfly flies above the flowers.",
+        "A colourful butterfly flies on the flowers."
       ],
-      "answer": "тарҷума: education"
+      "answer": "A colourful butterfly flies over the flowers."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Занбӯр тамоми рӯз дар боғ кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: development",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "The bee works in the garden all day.",
+        "A bee works in the garden all day.",
+        "The bee works in a garden all day.",
+        "The bee works in the garden the whole day."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The bee works in the garden all day."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Мо дар баҳор дарахтон ва гулҳо мешинонем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: achievement",
-        "нодуруст C"
+        "We plant trees and flowers in spring.",
+        "We plant the trees and flowers in spring.",
+        "We plant trees and flowers in the spring.",
+        "We plant trees and flower in spring."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "We plant trees and flowers in spring."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ман ҳар субҳ гулҳоро об медиҳам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: challenge"
+        "I water the flowers every morning.",
+        "I water flowers every morning.",
+        "I water the flowers each morning.",
+        "I pour water on the flowers every morning."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "I water the flowers every morning."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Офтоб дурахшон аст ва осмон кабуд ва равшан аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: knowledge",
-        "нодуруст A",
-        "нодуруст C"
+        "The sun is bright and the sky is blue and clear.",
+        "The sun is bright and sky is blue and clear.",
+        "The sun is bright and the sky is blue and clean.",
+        "A sun is bright and the sky is blue and clear."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "The sun is bright and the sky is blue and clear."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Дарё дар баҳор тоза ва хунук аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "The river is clean and cold in spring.",
+        "The river is clean and cold in the spring.",
+        "A river is clean and cold in spring.",
+        "The river is clean and cool in spring."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "The river is clean and cold in spring."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Кӯҳҳо дар баҳор зебо ҳастанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: fluency",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
+        "The mountains are beautiful in spring.",
+        "The mountains are beautiful in the spring.",
+        "Mountains are beautiful in spring.",
+        "The mountains are nice in spring."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "The mountains are beautiful in spring."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Мо дар боғ кор мекунем ва ба бибиамон кӯмак мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: confidence",
-        "нодуруст A"
+        "We work in the garden and help our grandmother.",
+        "We work in a garden and help our grandmother.",
+        "We work in the garden and help grandmother.",
+        "We work in the garden and help our grandmother."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "We work in the garden and help our grandmother."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Бобоям дар назди хона дарахти ҷавон мешинонад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: pronunciation",
-        "нодуруст B"
+        "My grandfather plants a young tree near the house.",
+        "My grandfather plants a young tree near a house.",
+        "My grandfather plants the young tree near the house.",
+        "My grandfather grows a young tree near the house."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "My grandfather plants a young tree near the house."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Дар баҳор деҳа пур аз гулҳо ва алафи сабз аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: vocabulary",
-        "нодуруст B",
-        "нодуруст A"
+        "In spring the village is full of flowers and green grass.",
+        "In the spring the village is full of flowers and green grass.",
+        "In spring the village is full of flowers and grass.",
+        "In spring a village is full of flowers and green grass."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "In spring the village is full of flowers and green grass."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ман баҳорро дӯст медорам, зеро ки он вақти ҳаёти нав ва шодист» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: grammar"
+        "I love spring because it is a time of new life and joy.",
+        "I love the spring because it is a time of new life and joy.",
+        "I love spring because it is the time of new life and joy.",
+        "I like spring because it is a time of new life and joy."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "I love spring because it is a time of new life and joy."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам дар назди хонаи худ боғи калон шинонам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: opportunity",
-        "нодуруст B"
+        "When I grow up, I want to plant a big garden near my house.",
+        "When I grow up I want to plant a big garden near my house.",
+        "When I grow up, I want to plant a big garden near the house.",
+        "When I grow up, I want to plant the big garden near my house."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "When I grow up, I want to plant a big garden near my house."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Дар баҳор ман ба деҳа меравам ва ба онҳо дар боғ кӯмак мекунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "In spring I go to the village and help them in the garden.",
+        "In the spring I go to the village and help them in the garden.",
+        "In spring I go to a village and help them in the garden.",
+        "In spring I go to the village and help them in a garden."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "In spring I go to the village and help them in the garden."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Биби ва бобои ман дар деҳае дар назди кӯҳҳо зиндагӣ мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "My grandmother and grandfather live in a village near the mountains.",
+        "My grandmother and grandfather live in a village near mountains.",
+        "My grandmother and grandfather live in the village near the mountains.",
+        "My grandmother and grandfather lives in a village near the mountains."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "My grandmother and grandfather live in a village near the mountains."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Онҳо лонаҳои худро дар дарахтон месозанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: communication",
-        "нодуруст C"
+        "They build their nests in the trees.",
+        "They build their nests in trees.",
+        "They make their nests in the trees.",
+        "They build the nests in the trees."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "They build their nests in the trees."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Баҳор фасли гарм ва зебост» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: education"
+        "Spring is a warm and beautiful season.",
+        "The spring is a warm and beautiful season.",
+        "Spring is the warm and beautiful season.",
+        "Spring is a warm and nice season."
       ],
-      "answer": "тарҷума: education"
+      "answer": "Spring is a warm and beautiful season."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Паррандаҳо дар осмони кабуд баланд парвоз мекунанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: development",
-        "нодуруст B",
-        "нодуруст C"
+        "The birds fly high in the blue sky.",
+        "The birds fly high in a blue sky.",
+        "Birds fly high in the blue sky.",
+        "The birds fly high in the blue sky."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The birds fly high in the blue sky."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Ман ҳар субҳ гулҳоро об медиҳам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст C"
+        "I water the flowers every morning.",
+        "I water flowers every morning.",
+        "I water the flowers each morning.",
+        "I pour water on the flowers every morning."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "I water the flowers every morning."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Дарё дар баҳор тоза ва хунук аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст B"
+        "The river is clean and cold in spring.",
+        "The river is clean and cold in the spring.",
+        "A river is clean and cold in spring.",
+        "The river is clean and cool in spring."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The river is clean and cold in spring."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Занбӯр тамоми рӯз дар боғ кор мекунад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: knowledge",
-        "нодуруст C",
-        "нодуруст B"
+        "The bee works in the garden all day.",
+        "A bee works in the garden all day.",
+        "The bee works in a garden all day.",
+        "The bee works in the garden the whole day."
       ],
-      "answer": "тарҷума: knowledge"
-    },
-    {
-      "q": "'conversation' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: conversation",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: conversation"
-    },
-    {
-      "q": "'fluency' чи маъно дорад?",
-      "options": [
-        "тарҷума: fluency",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: fluency"
-    },
-    {
-      "q": "'confidence' чи маъно дорад?",
-      "options": [
-        "тарҷума: confidence",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "тарҷума: pronunciation",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "тарҷума: vocabulary",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "тарҷума: grammar",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: experience"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "тарҷума: education",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: development"
+      "answer": "The bee works in the garden all day."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 36
+  "wordsCount": 16
 }
