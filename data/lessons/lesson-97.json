@@ -1,626 +1,502 @@
 {
   "id": 97,
-  "title": "Муоширати воқеӣ 97",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 97: Иди Наврӯз",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "Navruz",
+      "tj": "Наврӯз",
+      "ex": "Navruz is a big spring holiday in Tajikistan."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "sumalak",
+      "tj": "сумалак",
+      "ex": "My grandmother cooks sumalak for Navruz."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "to decorate",
+      "tj": "оро додан",
+      "ex": "We decorate our house for the holiday."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "to gather",
+      "tj": "ҷамъ шудан",
+      "ex": "The whole family gathers at the table."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "special",
+      "tj": "махсус",
+      "ex": "My mother cooks a special dish for Navruz."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "wheat",
+      "tj": "гандум",
+      "ex": "Sumalak is made from wheat."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "to welcome",
+      "tj": "пешвоз гирифтан",
+      "ex": "We welcome our guests with bread and salt."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "to prepare",
+      "tj": "омода кардан",
+      "ex": "We prepare for the holiday all week."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "joy",
+      "tj": "шодӣ",
+      "ex": "Navruz brings joy to every home."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "happiness",
+      "tj": "хушбахтӣ",
+      "ex": "I wish you health and happiness."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "to clean",
+      "tj": "тоза кардан",
+      "ex": "We clean our house before Navruz."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "traditional",
+      "tj": "анъанавӣ",
+      "ex": "Sumalak is a traditional Tajik dish."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "to taste",
+      "tj": "чашидан",
+      "ex": "We taste sumalak in the morning."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "neighbour",
+      "tj": "ҳамсоя",
+      "ex": "Our neighbours come to our house on Navruz."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "to wish",
+      "tj": "орзу кардан",
+      "ex": "We wish each other a happy Navruz."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to celebrate",
+      "tj": "ҷашн гирифтан",
+      "ex": "We celebrate Navruz in March."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 97)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Navruz is a big spring holiday in Tajikistan.",
+      "tj": "Наврӯз иди калони баҳорӣ дар Тоҷикистон аст."
     },
     {
-      "en": "I'm working on lesson 97",
-      "tj": "Ман дарси 97-ро меомӯзам"
+      "en": "We celebrate Navruz in March and it brings joy to every home.",
+      "tj": "Мо Наврӯзро дар моҳи март ҷашн мегирем ва он ба ҳар хона шодӣ меорад."
+    },
+    {
+      "en": "Before Navruz we clean our house and decorate it with flowers.",
+      "tj": "Пеш аз Наврӯз мо хонаи худро тоза мекунем ва онро бо гулҳо оро медиҳем."
+    },
+    {
+      "en": "My grandmother cooks sumalak from wheat for Navruz.",
+      "tj": "Бибиам барои Наврӯз аз гандум сумалак мепазад."
+    },
+    {
+      "en": "Sumalak is a traditional Tajik dish and it is very sweet.",
+      "tj": "Сумалак таоми анъанавии тоҷикӣ аст ва хеле ширин аст."
+    },
+    {
+      "en": "The whole family gathers at the table and tastes sumalak.",
+      "tj": "Тамоми оила дар миз ҷамъ мешавад ва сумалакро мечашад."
+    },
+    {
+      "en": "We welcome our guests with bread and salt.",
+      "tj": "Мо меҳмонони худро бо нон ва намак пешвоз мегирем."
+    },
+    {
+      "en": "Our neighbours come to our house on Navruz.",
+      "tj": "Ҳамсояҳои мо дар Наврӯз ба хонаи мо меоянд."
+    },
+    {
+      "en": "We prepare for the holiday all week and we are very happy.",
+      "tj": "Мо тамоми ҳафта барои ид омода мешавем ва хеле хушбахт ҳастем."
+    },
+    {
+      "en": "We wish each other health and happiness on Navruz.",
+      "tj": "Мо дар Наврӯз ба якдигар саломатӣ ва хушбахтӣ орзу мекунем."
+    },
+    {
+      "en": "People sing, dance and laugh together on Navruz.",
+      "tj": "Мардум дар Наврӯз якҷоя суруд мехонанд, рақс мекунанд ва механдем."
+    },
+    {
+      "en": "We cook special food for the holiday and invite our friends.",
+      "tj": "Мо барои ид ғизои махсус мепазем ва дӯстонамонро даъват мекунем."
+    },
+    {
+      "en": "Navruz is a time of joy and happiness for all people.",
+      "tj": "Наврӯз вақти шодӣ ва хушбахтӣ барои ҳамаи одамон аст."
+    },
+    {
+      "en": "I love Navruz because the whole family is together.",
+      "tj": "Ман Наврӯзро дӯст медорам, зеро ки тамоми оила якҷоя аст."
+    },
+    {
+      "en": "We must keep our traditions alive for our children.",
+      "tj": "Мо бояд анъанаҳои худро барои кӯдаконамон зинда нигоҳ дорем."
+    },
+    {
+      "en": "When I grow up, I want to celebrate Navruz with my children too.",
+      "tj": "Вақте ки ман калон мешавам, ман низ мехоҳам Наврӯзро бо кӯдаконам ҷашн гирам."
     }
   ],
   "text": {
-    "en": "Text for lesson 97. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 97 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 97 text.",
-    "tj": "Матни дарси 97..."
+    "en": "The Navruz Holiday\n\nMy name is Ismoil. I am a pupil of class four. Navruz is a big spring holiday in Tajikistan. We celebrate Navruz in March and it brings joy to every home.\n\nBefore Navruz we clean our house and decorate it with flowers. My mother cooks special food for the holiday. My grandmother cooks sumalak from wheat. Sumalak is a traditional Tajik dish and it is very sweet.\n\nThe whole family gathers at the table and tastes sumalak. Our neighbours come to our house on Navruz. We welcome our guests with bread and salt. We wish each other health and happiness.\n\nPeople sing, dance and laugh together on Navruz. We prepare for the holiday all week and we are very happy. Navruz is a time of joy and happiness for all people.\n\nI love Navruz because the whole family is together. We must keep our traditions alive for our children. When I grow up, I want to celebrate Navruz with my children too.",
+    "tj": "Иди Наврӯз\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Наврӯз иди калони баҳорӣ дар Тоҷикистон аст. Мо Наврӯзро дар моҳи март ҷашн мегирем ва он ба ҳар хона шодӣ меорад.\n\nПеш аз Наврӯз мо хонаи худро тоза мекунем ва онро бо гулҳо оро медиҳем. Модарам барои ид ғизои махсус мепазад. Бибиам барои Наврӯз аз гандум сумалак мепазад. Сумалак таоми анъанавии тоҷикӣ аст ва хеле ширин аст.\n\nТамоми оила дар миз ҷамъ мешавад ва сумалакро мечашад. Ҳамсояҳои мо дар Наврӯз ба хонаи мо меоянд. Мо меҳмонони худро бо нон ва намак пешвоз мегирем. Мо дар Наврӯз ба якдигар саломатӣ ва хушбахтӣ орзу мекунем.\n\nМардум дар Наврӯз якҷоя суруд мехонанд, рақс мекунанд ва механдем. Мо тамоми ҳафта барои ид омода мешавем ва хеле хушбахт ҳастем. Наврӯз вақти шодӣ ва хушбахтӣ барои ҳамаи одамон аст.\n\nМан Наврӯзро дӯст медорам, зеро ки тамоми оила якҷоя аст. Мо бояд анъанаҳои худро барои кӯдаконамон зинда нигоҳ дорем. Вақте ки ман калон мешавам, ман низ мехоҳам Наврӯзро бо кӯдаконам ҷашн гирам."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Наврӯз иди калони баҳорӣ дар Тоҷикистон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "Navruz is a big spring holiday in Tajikistan.",
+        "Navruz is a big spring holiday in the Tajikistan.",
+        "The Navruz is a big spring holiday in Tajikistan.",
+        "Navruz is the big spring holiday in Tajikistan."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Navruz is a big spring holiday in Tajikistan."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Мо Наврӯзро дар моҳи март ҷашн мегирем ва он ба ҳар хона шодӣ меорад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "We celebrate Navruz in March and it brings joy to every home.",
+        "We celebrate Navruz in March and it brings joy to each home.",
+        "We celebrate Navruz in March and it brings joy in every home.",
+        "We celebrate Navruz in March, and it brings joy to every home."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "We celebrate Navruz in March and it brings joy to every home."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Пеш аз Наврӯз мо хонаи худро тоза мекунем ва онро бо гулҳо оро медиҳем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: environment"
+        "Before Navruz we clean our house and decorate it with flowers.",
+        "Before Navruz we clean our house and decorate it by flowers.",
+        "Before Navruz we clean the house and decorate it with flowers.",
+        "Before the Navruz we clean our house and decorate it with flowers."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Before Navruz we clean our house and decorate it with flowers."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Бибиам барои Наврӯз аз гандум сумалак мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: communication"
+        "My grandmother cooks sumalak from wheat for Navruz.",
+        "My grandmother cooks sumalak of wheat for Navruz.",
+        "My grandmother makes sumalak from wheat for Navruz.",
+        "My grandmother cooks sumalak from the wheat for Navruz."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "My grandmother cooks sumalak from wheat for Navruz."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Сумалак таоми анъанавии тоҷикӣ аст ва хеле ширин аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: education",
-        "нодуруст C"
+        "Sumalak is a traditional Tajik dish and it is very sweet.",
+        "Sumalak is the traditional Tajik dish and it is very sweet.",
+        "Sumalak is a traditional Tajik dish and is very sweet.",
+        "Sumalak is a traditional Tajik food and it is very sweet."
       ],
-      "answer": "тарҷума: education"
+      "answer": "Sumalak is a traditional Tajik dish and it is very sweet."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Тамоми оила дар миз ҷамъ мешавад ва сумалакро мечашад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст C"
+        "The whole family gathers at the table and tastes sumalak.",
+        "The whole family gathers at the table and tastes the sumalak.",
+        "All the family gathers at the table and tastes sumalak.",
+        "The whole family gathers at table and tastes sumalak."
       ],
-      "answer": "тарҷума: development"
+      "answer": "The whole family gathers at the table and tastes sumalak."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Мо меҳмонони худро бо нон ва намак пешвоз мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст C",
-        "нодуруст B"
+        "We welcome our guests with bread and salt.",
+        "We welcome the guests with bread and salt.",
+        "We meet our guests with bread and salt.",
+        "We welcome our guests by bread and salt."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "We welcome our guests with bread and salt."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ҳамсояҳои мо дар Наврӯз ба хонаи мо меоянд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: challenge",
-        "нодуруст A"
+        "Our neighbours come to our house on Navruz.",
+        "Our neighbours come to our house at Navruz.",
+        "Our neighbours come to the house on Navruz.",
+        "Our neighbours come to our house in Navruz."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "Our neighbours come to our house on Navruz."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Мо тамоми ҳафта барои ид омода мешавем ва хеле хушбахт ҳастем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: knowledge",
-        "нодуруст A",
-        "нодуруст B"
+        "We prepare for the holiday all week and we are very happy.",
+        "We prepare for the holiday all the week and we are very happy.",
+        "We prepare for holiday all week and we are very happy.",
+        "We prepare for the holiday all week and are very happy."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "We prepare for the holiday all week and we are very happy."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Мо дар Наврӯз ба якдигар саломатӣ ва хушбахтӣ орзу мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст A",
-        "нодуруст C",
-        "нодуруст B"
+        "We wish each other health and happiness on Navruz.",
+        "We wish each other health and happiness at Navruz.",
+        "We wish to each other health and happiness on Navruz.",
+        "We wish one another health and happiness on Navruz."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "We wish each other health and happiness on Navruz."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Мардум дар Наврӯз якҷоя суруд мехонанд, рақс мекунанд ва механдем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: fluency",
-        "нодуруст C",
-        "нодуруст A"
+        "People sing, dance and laugh together on Navruz.",
+        "People sing, dance and laugh together at Navruz.",
+        "The people sing, dance and laugh together on Navruz.",
+        "People sing, dance and laugh together in Navruz."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "People sing, dance and laugh together on Navruz."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Мо барои ид ғизои махсус мепазем ва дӯстонамонро даъват мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: confidence",
-        "нодуруст A"
+        "We cook special food for the holiday and invite our friends.",
+        "We cook special food for holiday and invite our friends.",
+        "We cook a special food for the holiday and invite our friends.",
+        "We cook special food for the holiday and invite friends."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "We cook special food for the holiday and invite our friends."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Наврӯз вақти шодӣ ва хушбахтӣ барои ҳамаи одамон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: pronunciation"
+        "Navruz is a time of joy and happiness for all people.",
+        "Navruz is the time of joy and happiness for all people.",
+        "Navruz is a time of joy and happiness for all the people.",
+        "Navruz is a time for joy and happiness for all people."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "Navruz is a time of joy and happiness for all people."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Ман Наврӯзро дӯст медорам, зеро ки тамоми оила якҷоя аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: vocabulary",
-        "нодуруст A",
-        "нодуруст B"
+        "I love Navruz because the whole family is together.",
+        "I love Navruz because all the family is together.",
+        "I love the Navruz because the whole family is together.",
+        "I like Navruz because the whole family is together."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "I love Navruz because the whole family is together."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Мо бояд анъанаҳои худро барои кӯдаконамон зинда нигоҳ дорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: grammar"
+        "We must keep our traditions alive for our children.",
+        "We must keep the traditions alive for our children.",
+        "We must keep our traditions alive for children.",
+        "We should keep our traditions alive for our children."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "We must keep our traditions alive for our children."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Вақте ки ман калон мешавам, ман низ мехоҳам Наврӯзро бо кӯдаконам ҷашн гирам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: opportunity"
+        "When I grow up, I want to celebrate Navruz with my children too.",
+        "When I grow up I want to celebrate Navruz with my children too.",
+        "When I grow up, I also want to celebrate Navruz with my children.",
+        "When I grow up, I want to celebrate Navruz with children too."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "When I grow up, I want to celebrate Navruz with my children too."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман хонандаи синфи чорум ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: experience",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "I am a pupil of class four.",
+        "I am pupil of class four.",
+        "I am a pupil of the class four.",
+        "I am a student of class four."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I am a pupil of class four."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Модарам барои ид ғизои махсус мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст B"
+        "My mother cooks special food for the holiday.",
+        "My mother cooks a special food for the holiday.",
+        "My mother cooks special food for holiday.",
+        "My mother prepares special food for the holiday."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "My mother cooks special food for the holiday."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Пеш аз Наврӯз мо хонаи худро тоза мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: communication",
-        "нодуруст B",
-        "нодуруст C"
+        "Before Navruz we clean our house.",
+        "Before the Navruz we clean our house.",
+        "Before Navruz we clean the house.",
+        "Before Navruz we clean our home."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "Before Navruz we clean our house."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Мо хонаи худро бо гулҳо оро медиҳем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: education",
-        "нодуруст A",
-        "нодуруст C"
+        "We decorate our house with flowers.",
+        "We decorate the house with flowers.",
+        "We decorate our house by flowers.",
+        "We decorate our home with flowers."
       ],
-      "answer": "тарҷума: education"
+      "answer": "We decorate our house with flowers."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Бибиам барои Наврӯз аз гандум сумалак мепазад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст C"
+        "My grandmother cooks sumalak from wheat for Navruz.",
+        "My grandmother cooks sumalak of wheat for Navruz.",
+        "My grandmother makes sumalak from wheat for Navruz.",
+        "My grandmother cooks sumalak from the wheat for Navruz."
       ],
-      "answer": "тарҷума: development"
+      "answer": "My grandmother cooks sumalak from wheat for Navruz."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Сумалак хеле ширин аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: achievement"
+        "Sumalak is very sweet.",
+        "The sumalak is very sweet.",
+        "Sumalak is very tasty.",
+        "Sumalak is very delicious."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "Sumalak is very sweet."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Тамоми оила дар миз ҷамъ мешавад» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст C"
+        "The whole family gathers at the table.",
+        "All the family gathers at the table.",
+        "The whole family gathers at table.",
+        "The whole family gathers at the table."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "The whole family gathers at the table."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Мо меҳмонони худро бо нон ва намак пешвоз мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: knowledge",
-        "нодуруст B",
-        "нодуруст A"
+        "We welcome our guests with bread and salt.",
+        "We welcome the guests with bread and salt.",
+        "We meet our guests with bread and salt.",
+        "We welcome our guests by bread and salt."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "We welcome our guests with bread and salt."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Мо дар Наврӯз ба якдигар саломатӣ ва хушбахтӣ орзу мекунем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: conversation",
-        "нодуруст B",
-        "нодуруст C"
+        "We wish each other health and happiness on Navruz.",
+        "We wish each other health and happiness at Navruz.",
+        "We wish to each other health and happiness on Navruz.",
+        "We wish one another health and happiness on Navruz."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "We wish each other health and happiness on Navruz."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Мардум дар Наврӯз якҷоя суруд мехонанд, рақс мекунанд ва механдем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "тарҷума: fluency",
-        "нодуруст A",
-        "нодуруст B"
+        "People sing, dance and laugh together on Navruz.",
+        "People sing, dance and laugh together at Navruz.",
+        "The people sing, dance and laugh together on Navruz.",
+        "People sing, dance and laugh together in Navruz."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "People sing, dance and laugh together on Navruz."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Мо тамоми ҳафта барои ид омода мешавем ва хеле хушбахт ҳастем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст B"
+        "We prepare for the holiday all week and we are very happy.",
+        "We prepare for the holiday all the week and we are very happy.",
+        "We prepare for holiday all week and we are very happy.",
+        "We prepare for the holiday all week and are very happy."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "We prepare for the holiday all week and we are very happy."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Ман Наврӯзро дӯст медорам, зеро ки тамоми оила якҷоя аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: pronunciation",
-        "нодуруст A"
+        "I love Navruz because the whole family is together.",
+        "I love Navruz because all the family is together.",
+        "I love the Navruz because the whole family is together.",
+        "I like Navruz because the whole family is together."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "I love Navruz because the whole family is together."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Мо бояд анъанаҳои худро барои кӯдаконамон зинда нигоҳ дорем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: vocabulary",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "We must keep our traditions alive for our children.",
+        "We must keep the traditions alive for our children.",
+        "We must keep our traditions alive for children.",
+        "We should keep our traditions alive for our children."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "We must keep our traditions alive for our children."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Вақте ки ман калон мешавам, ман низ мехоҳам Наврӯзро бо кӯдаконам ҷашн гирам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: grammar",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
+        "When I grow up, I want to celebrate Navruz with my children too.",
+        "When I grow up I want to celebrate Navruz with my children too.",
+        "When I grow up, I also want to celebrate Navruz with my children.",
+        "When I grow up, I want to celebrate Navruz with children too."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "When I grow up, I want to celebrate Navruz with my children too."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Наврӯз иди калони баҳорӣ аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: opportunity",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "Navruz is a big spring holiday.",
+        "The Navruz is a big spring holiday.",
+        "Navruz is the big spring holiday.",
+        "Navruz is a big holiday of spring."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Navruz is a big spring holiday."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Мо Наврӯзро дар моҳи март ҷашн мегирем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: experience"
+        "We celebrate Navruz in March.",
+        "We celebrate the Navruz in March.",
+        "We celebrate Navruz on March.",
+        "We celebrate Navruz at March."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "We celebrate Navruz in March."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Ҳамсояҳои мо дар Наврӯз ба хонаи мо меоянд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст C"
+        "Our neighbours come to our house on Navruz.",
+        "Our neighbours come to our house at Navruz.",
+        "Our neighbours come to the house on Navruz.",
+        "Our neighbours come to our house in Navruz."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "Our neighbours come to our house on Navruz."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Наврӯз вақти шодӣ ва хушбахтӣ барои ҳамаи одамон аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: communication",
-        "нодуруст A",
-        "нодуруст C"
+        "Navruz is a time of joy and happiness for all people.",
+        "Navruz is the time of joy and happiness for all people.",
+        "Navruz is a time of joy and happiness for all the people.",
+        "Navruz is a time for joy and happiness for all people."
       ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "тарҷума: education",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: development",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: development"
-    },
-    {
-      "q": "'achievement' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: achievement"
-      ],
-      "answer": "тарҷума: achievement"
-    },
-    {
-      "q": "'challenge' чи маъно дорад?",
-      "options": [
-        "тарҷума: challenge",
-        "нодуруст A",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: challenge"
-    },
-    {
-      "q": "'knowledge' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: knowledge"
-      ],
-      "answer": "тарҷума: knowledge"
-    },
-    {
-      "q": "'conversation' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: conversation",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: conversation"
+      "answer": "Navruz is a time of joy and happiness for all people."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 40
+  "wordsCount": 16
 }
