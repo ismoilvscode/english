@@ -1,596 +1,422 @@
 {
   "id": 90,
-  "title": "Муоширати воқеӣ 90",
-  "level": "Пешрафта - Синфи 5",
+  "title": "Матн 90: Дар духтури дандон",
+  "level": "Миёна - Starkov",
   "free": false,
   "words": [
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
+      "en": "dentist",
+      "tj": "духтури дандон",
+      "ex": "The dentist helps people with their teeth."
     },
     {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
+      "en": "toothache",
+      "tj": "дарди дандон",
+      "ex": "I have a bad toothache."
     },
     {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
+      "en": "toothbrush",
+      "tj": "чӯткаи дандон",
+      "ex": "I use my toothbrush every morning."
     },
     {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
+      "en": "toothpaste",
+      "tj": "хамираи дандон",
+      "ex": "The toothpaste is white and fresh."
     },
     {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
+      "en": "to pull out",
+      "tj": "кашида гирифтан",
+      "ex": "The dentist pulled out my bad tooth."
     },
     {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
+      "en": "to open one's mouth",
+      "tj": "даҳон кушодан",
+      "ex": "Please open your mouth and show me your teeth."
     },
     {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
+      "en": "to be afraid of",
+      "tj": "тарсидан аз",
+      "ex": "I am afraid of the dentist."
     },
     {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "brave",
+      "tj": "ҷасур",
+      "ex": "The brave boy opened his mouth and did not cry."
     },
     {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
+      "en": "to examine",
+      "tj": "муоина кардан",
+      "ex": "The dentist examined my teeth carefully."
     },
     {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
+      "en": "to check",
+      "tj": "санҷидан",
+      "ex": "The dentist checked my bad tooth."
     },
     {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
+      "en": "pain",
+      "tj": "дард",
+      "ex": "I had a bad pain in my tooth."
     },
     {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
+      "en": "to hurt",
+      "tj": "дард кардан",
+      "ex": "My tooth hurt all night."
     },
     {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
+      "en": "to prescribe",
+      "tj": "таъин кардан",
+      "ex": "The dentist prescribed a medicine for the pain."
     },
     {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
+      "en": "to be careful",
+      "tj": "эҳтиёткор будан",
+      "ex": "We must be careful with our teeth."
     },
     {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
+      "en": "sugar",
+      "tj": "шакар",
+      "ex": "Too much sugar is bad for your teeth."
     },
     {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
-    },
-    {
-      "en": "knowledge",
-      "tj": "тарҷума: knowledge",
-      "ex": "Real example with knowledge."
-    },
-    {
-      "en": "conversation",
-      "tj": "тарҷума: conversation",
-      "ex": "Real example with conversation."
-    },
-    {
-      "en": "fluency",
-      "tj": "тарҷума: fluency",
-      "ex": "Real example with fluency."
-    },
-    {
-      "en": "confidence",
-      "tj": "тарҷума: confidence",
-      "ex": "Real example with confidence."
-    },
-    {
-      "en": "pronunciation",
-      "tj": "тарҷума: pronunciation",
-      "ex": "Real example with pronunciation."
-    },
-    {
-      "en": "vocabulary",
-      "tj": "тарҷума: vocabulary",
-      "ex": "Real example with vocabulary."
-    },
-    {
-      "en": "grammar",
-      "tj": "тарҷума: grammar",
-      "ex": "Real example with grammar."
-    },
-    {
-      "en": "opportunity",
-      "tj": "тарҷума: opportunity",
-      "ex": "Real example with opportunity."
-    },
-    {
-      "en": "experience",
-      "tj": "тарҷума: experience",
-      "ex": "Real example with experience."
-    },
-    {
-      "en": "environment",
-      "tj": "тарҷума: environment",
-      "ex": "Real example with environment."
-    },
-    {
-      "en": "communication",
-      "tj": "тарҷума: communication",
-      "ex": "Real example with communication."
-    },
-    {
-      "en": "education",
-      "tj": "тарҷума: education",
-      "ex": "Real example with education."
-    },
-    {
-      "en": "development",
-      "tj": "тарҷума: development",
-      "ex": "Real example with development."
-    },
-    {
-      "en": "achievement",
-      "tj": "тарҷума: achievement",
-      "ex": "Real example with achievement."
-    },
-    {
-      "en": "challenge",
-      "tj": "тарҷума: challenge",
-      "ex": "Real example with challenge."
+      "en": "healthy",
+      "tj": "солим",
+      "ex": "Healthy teeth make a beautiful smile."
     }
   ],
   "phrases": [
     {
-      "en": "How are you doing today? (Lesson 90)",
-      "tj": "Имрӯз чӣ хелӣ?"
+      "en": "Last week I had a bad toothache.",
+      "tj": "Ҳафтаи гузашта ман дарди сахти дандон доштам."
     },
     {
-      "en": "I'm working on lesson 90",
-      "tj": "Ман дарси 90-ро меомӯзам"
+      "en": "My tooth hurt all night and I could not sleep.",
+      "tj": "Дандони ман тамоми шаб дард мекард ва ман хоб карда наметавонистам."
+    },
+    {
+      "en": "In the morning my mother took me to the dentist.",
+      "tj": "Субҳ модарам маро ба духтури дандон бурд."
+    },
+    {
+      "en": "I was afraid of the dentist, but I tried to be brave.",
+      "tj": "Ман аз духтури дандон метарсидам, аммо кӯшиш кардам, ки ҷасур бошам."
+    },
+    {
+      "en": "The dentist asked me to open my mouth and examined my teeth.",
+      "tj": "Духтури дандон аз ман хост, ки даҳонамро кушоям ва дандонҳоямро муоина кард."
+    },
+    {
+      "en": "She checked my bad tooth and said I must be careful.",
+      "tj": "Ӯ дандони дардноки маро санҷид ва гуфт, ки ман бояд эҳтиёткор бошам."
+    },
+    {
+      "en": "The dentist pulled out my bad tooth.",
+      "tj": "Духтури дандон дандони дардноки маро кашида гирифт."
+    },
+    {
+      "en": "She prescribed a medicine for the pain.",
+      "tj": "Ӯ барои дард дору таъин кард."
+    },
+    {
+      "en": "The dentist told me to use a toothbrush and toothpaste every day.",
+      "tj": "Духтури дандон ба ман гуфт, ки ҳар рӯз чӯткаи дандон ва хамираи дандон истифода барам."
+    },
+    {
+      "en": "Too much sugar is bad for your teeth.",
+      "tj": "Шакари аз ҳад зиёд барои дандонҳои шумо бад аст."
+    },
+    {
+      "en": "We must be careful with our teeth and eat healthy food.",
+      "tj": "Мо бояд бо дандонҳои худ эҳтиёткор бошем ва ғизои солим хӯрем."
+    },
+    {
+      "en": "I brush my teeth every morning and every evening.",
+      "tj": "Ман ҳар субҳ ва ҳар бегоҳ дандонҳоямро мешӯям."
+    },
+    {
+      "en": "Healthy teeth make a beautiful smile.",
+      "tj": "Дандонҳои солим табассуми зебо месозанд."
+    },
+    {
+      "en": "After two days I felt better and my pain was gone.",
+      "tj": "Баъд аз ду рӯз ман худро беҳтар ҳис кардам ва дардам рафт."
+    },
+    {
+      "en": "Now I am not afraid of the dentist.",
+      "tj": "Ҳоло ман аз духтури дандон наметарсам."
+    },
+    {
+      "en": "When I grow up, I want to be a dentist and help people with their teeth.",
+      "tj": "Вақте ки ман калон мешавам, ман мехоҳам духтури дандон шавам ва ба одамон бо дандонҳояшон кӯмак кунам."
     }
   ],
   "text": {
-    "en": "Text for lesson 90. My name is Ismoil. I live in Dushanbe. I learn English every day. Lesson 90 is about Пешрафта - Синфи 5. I write all words in my notebook. Level 90 text.",
-    "tj": "Матни дарси 90..."
+    "en": "At the Dentist\n\nMy name is Ismoil. I am a pupil of class four. Last week I had a bad toothache. My tooth hurt all night and I could not sleep. In the morning my mother took me to the dentist.\n\nI was afraid of the dentist, but I tried to be brave. The dentist asked me to open my mouth and examined my teeth. She checked my bad tooth and said I must be careful. The dentist pulled out my bad tooth. She prescribed a medicine for the pain.\n\nThe dentist told me to use a toothbrush and toothpaste every day. She said: \"Too much sugar is bad for your teeth. You must eat healthy food.\" After two days I felt better and my pain was gone.\n\nI brush my teeth every morning and every evening. Healthy teeth make a beautiful smile. Now I am not afraid of the dentist. When I grow up, I want to be a dentist and help people with their teeth.",
+    "tj": "Дар духтури дандон\n\nНоми ман Исмоил аст. Ман хонандаи синфи чорум ҳастам. Ҳафтаи гузашта ман дарди сахти дандон доштам. Дандони ман тамоми шаб дард мекард ва ман хоб карда наметавонистам. Субҳ модарам маро ба духтури дандон бурд.\n\nМан аз духтури дандон метарсидам, аммо кӯшиш кардам, ки ҷасур бошам. Духтури дандон аз ман хост, ки даҳонамро кушоям ва дандонҳоямро муоина кард. Ӯ дандони дардноки маро санҷид ва гуфт, ки ман бояд эҳтиёткор бошам. Духтури дандон дандони дардноки маро кашида гирифт. Ӯ барои дард дору таъин кард.\n\nДухтури дандон ба ман гуфт, ки ҳар рӯз чӯткаи дандон ва хамираи дандон истифода барам. Ӯ гуфт: «Шакари аз ҳад зиёд барои дандонҳои шумо бад аст. Шумо бояд ғизои солим хӯред.» Баъд аз ду рӯз ман худро беҳтар ҳис кардам ва дардам рафт.\n\nМан ҳар субҳ ва ҳар бегоҳ дандонҳоямро мешӯям. Дандонҳои солим табассуми зебо месозанд. Ҳоло ман аз духтури дандон наметарсам. Вақте ки ман калон мешавам, ман мехоҳам духтури дандон шавам ва ба одамон бо дандонҳояшон кӯмак кунам."
   },
   "exercises": [
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Ҳафтаи гузашта ман дарди сахти дандон доштам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: opportunity",
-        "нодуруст A"
+        "Last week I had a bad toothache.",
+        "Last week I had bad toothache.",
+        "Last week I had a strong toothache.",
+        "Last week I had a bad tooth pain."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "Last week I had a bad toothache."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Дандони ман тамоми шаб дард мекард ва ман хоб карда наметавонистам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: experience",
-        "нодуруст B"
+        "My tooth hurt all night and I could not sleep.",
+        "My tooth hurt all night and I could not sleep.",
+        "My tooth ached all night and I could not sleep.",
+        "My tooth hurt the whole night and I could not sleep."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "My tooth hurt all night and I could not sleep."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Субҳ модарам маро ба духтури дандон бурд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст B"
+        "In the morning my mother took me to the dentist.",
+        "In the morning my mother took me to a dentist.",
+        "In the morning my mother brought me to the dentist.",
+        "In the morning my mother led me to the dentist."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "In the morning my mother took me to the dentist."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ман аз духтури дандон метарсидам, аммо кӯшиш кардам, ки ҷасур бошам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: communication",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "I was afraid of the dentist, but I tried to be brave.",
+        "I was afraid of the dentist but I tried to be brave.",
+        "I was afraid of a dentist, but I tried to be brave.",
+        "I feared the dentist, but I tried to be brave."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "I was afraid of the dentist, but I tried to be brave."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Духтури дандон аз ман хост, ки даҳонамро кушоям ва дандонҳоямро муоина кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: education",
-        "нодуруст A"
+        "The dentist asked me to open my mouth and examined my teeth.",
+        "The dentist asked me to open the mouth and examined my teeth.",
+        "The dentist asked me to open my mouth and examined my tooth.",
+        "A dentist asked me to open my mouth and examined my teeth."
       ],
-      "answer": "тарҷума: education"
+      "answer": "The dentist asked me to open my mouth and examined my teeth."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Ӯ дандони дардноки маро санҷид ва гуфт, ки ман бояд эҳтиёткор бошам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: development",
-        "нодуруст B"
+        "She checked my bad tooth and said I must be careful.",
+        "She checked my bad tooth and said I must be careful.",
+        "She checked the bad tooth and said I must be careful.",
+        "She checked my bad tooth and told I must be careful."
       ],
-      "answer": "тарҷума: development"
+      "answer": "She checked my bad tooth and said I must be careful."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Духтури дандон дандони дардноки маро кашида гирифт» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: achievement",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "The dentist pulled out my bad tooth.",
+        "The dentist pulled my bad tooth out.",
+        "The dentist pulled out the bad tooth.",
+        "A dentist pulled out my bad tooth."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The dentist pulled out my bad tooth."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ӯ барои дард дору таъин кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: challenge"
+        "She prescribed a medicine for the pain.",
+        "She prescribed medicine for the pain.",
+        "She prescribed a medicine for pain.",
+        "He prescribed a medicine for the pain."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "She prescribed a medicine for the pain."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Духтури дандон ба ман гуфт, ки ҳар рӯз чӯткаи дандон ва хамираи дандон истифода барам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: knowledge",
-        "нодуруст B"
+        "The dentist told me to use a toothbrush and toothpaste every day.",
+        "The dentist told me to use the toothbrush and toothpaste every day.",
+        "The dentist told me to use a toothbrush and toothpaste each day.",
+        "The dentist said me to use a toothbrush and toothpaste every day."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "The dentist told me to use a toothbrush and toothpaste every day."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Шакари аз ҳад зиёд барои дандонҳои шумо бад аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: conversation",
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A"
+        "Too much sugar is bad for your teeth.",
+        "Too many sugar is bad for your teeth.",
+        "Very much sugar is bad for your teeth.",
+        "Too much sugar is bad for the teeth."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "Too much sugar is bad for your teeth."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Мо бояд бо дандонҳои худ эҳтиёткор бошем ва ғизои солим хӯрем» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: fluency",
-        "нодуруст B"
+        "We must be careful with our teeth and eat healthy food.",
+        "We must be careful with our teeth and eat healthy food.",
+        "We must be careful about our teeth and eat healthy food.",
+        "We should be careful with our teeth and eat healthy food."
       ],
-      "answer": "тарҷума: fluency"
+      "answer": "We must be careful with our teeth and eat healthy food."
     },
     {
-      "q": "'confidence' чи маъно дорад?",
+      "q": "«Ман ҳар субҳ ва ҳар бегоҳ дандонҳоямро мешӯям» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "тарҷума: confidence",
-        "нодуруст B"
+        "I brush my teeth every morning and every evening.",
+        "I brush my teeth every morning and evening.",
+        "I clean my teeth every morning and every evening.",
+        "I brush the teeth every morning and every evening."
       ],
-      "answer": "тарҷума: confidence"
+      "answer": "I brush my teeth every morning and every evening."
     },
     {
-      "q": "'pronunciation' чи маъно дорад?",
+      "q": "«Дандонҳои солим табассуми зебо месозанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: pronunciation",
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C"
+        "Healthy teeth make a beautiful smile.",
+        "The healthy teeth make a beautiful smile.",
+        "Healthy teeth make beautiful smile.",
+        "Healthy teeth make a nice smile."
       ],
-      "answer": "тарҷума: pronunciation"
+      "answer": "Healthy teeth make a beautiful smile."
     },
     {
-      "q": "'vocabulary' чи маъно дорад?",
+      "q": "«Баъд аз ду рӯз ман худро беҳтар ҳис кардам ва дардам рафт» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: vocabulary",
-        "нодуруст C",
-        "нодуруст A"
+        "After two days I felt better and my pain was gone.",
+        "After two days I felt better and the pain was gone.",
+        "After two days I felt better and my pain went away.",
+        "In two days I felt better and my pain was gone."
       ],
-      "answer": "тарҷума: vocabulary"
+      "answer": "After two days I felt better and my pain was gone."
     },
     {
-      "q": "'grammar' чи маъно дорад?",
+      "q": "«Ҳоло ман аз духтури дандон наметарсам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: grammar",
-        "нодуруст C",
-        "нодуруст A"
+        "Now I am not afraid of the dentist.",
+        "Now I am not afraid of a dentist.",
+        "Now I do not fear the dentist.",
+        "Now I am not afraid of the dentist."
       ],
-      "answer": "тарҷума: grammar"
+      "answer": "Now I am not afraid of the dentist."
     },
     {
-      "q": "'opportunity' чи маъно дорад?",
+      "q": "«Вақте ки ман калон мешавам, ман мехоҳам духтури дандон шавам ва ба одамон бо дандонҳояшон кӯмак кунам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: opportunity",
-        "нодуруст A"
+        "When I grow up, I want to be a dentist and help people with their teeth.",
+        "When I grow up I want to be a dentist and help people with their teeth.",
+        "When I grow up, I want to become a dentist and help people with their teeth.",
+        "When I grow up, I want to be a dentist and help people with the teeth."
       ],
-      "answer": "тарҷума: opportunity"
+      "answer": "When I grow up, I want to be a dentist and help people with their teeth."
     },
     {
-      "q": "'experience' чи маъно дорад?",
+      "q": "«Ман хонандаи синфи чорум ҳастам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: experience",
-        "нодуруст B",
-        "нодуруст C"
+        "I am a pupil of class four.",
+        "I am pupil of class four.",
+        "I am a pupil of the class four.",
+        "I am a student of class four."
       ],
-      "answer": "тарҷума: experience"
+      "answer": "I am a pupil of class four."
     },
     {
-      "q": "'environment' чи маъно дорад?",
+      "q": "«Онҳо ба дандонҳои худ эҳтиёткор бошанд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: environment",
-        "нодуруст B",
-        "нодуруст C"
+        "They must be careful with their teeth.",
+        "They must be careful with the teeth.",
+        "They should be careful with their teeth.",
+        "They must be careful of their teeth."
       ],
-      "answer": "тарҷума: environment"
+      "answer": "They must be careful with their teeth."
     },
     {
-      "q": "'communication' чи маъно дорад?",
+      "q": "«Ин дору барои дард аст» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст B"
+        "This medicine is for the pain.",
+        "This medicine is for pain.",
+        "The medicine is for the pain.",
+        "This medicine is against the pain."
       ],
-      "answer": "тарҷума: communication"
+      "answer": "This medicine is for the pain."
     },
     {
-      "q": "'education' чи маъно дорад?",
+      "q": "«Вай дандонҳояшро ҳар субҳ мешӯяд» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "тарҷума: education",
-        "нодуруст B",
-        "нодуруст C",
-        "нодуруст A"
+        "She brushes her teeth every morning.",
+        "She brushes the teeth every morning.",
+        "She cleans her teeth every morning.",
+        "She brushes her tooth every morning."
       ],
-      "answer": "тарҷума: education"
+      "answer": "She brushes her teeth every morning."
     },
     {
-      "q": "'development' чи маъно дорад?",
+      "q": "«Ман дандони дарднок доштам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст C",
-        "нодуруст A"
+        "I had a bad tooth.",
+        "I had the bad tooth.",
+        "I had a toothache.",
+        "I had bad tooth."
       ],
-      "answer": "тарҷума: development"
+      "answer": "I had a bad tooth."
     },
     {
-      "q": "'achievement' чи маъно дорад?",
+      "q": "«Духтури дандон ба ман кӯмак кард» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: achievement",
-        "нодуруст C"
+        "The dentist helped me.",
+        "A dentist helped me.",
+        "The dentist helped to me.",
+        "The dentist helped me with my teeth."
       ],
-      "answer": "тарҷума: achievement"
+      "answer": "The dentist helped me."
     },
     {
-      "q": "'challenge' чи маъно дорад?",
+      "q": "«Ман аз дандон дард мекашидам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: challenge"
+        "I had a pain in my tooth.",
+        "I had pain in my tooth.",
+        "I had a pain in the tooth.",
+        "I felt a pain in my tooth."
       ],
-      "answer": "тарҷума: challenge"
+      "answer": "I had a pain in my tooth."
     },
     {
-      "q": "'knowledge' чи маъно дорад?",
+      "q": "«Ман бояд ғизои солим хӯрам» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: knowledge"
+        "I must eat healthy food.",
+        "I must eat the healthy food.",
+        "I should eat healthy food.",
+        "I must eat healthy meal."
       ],
-      "answer": "тарҷума: knowledge"
+      "answer": "I must eat healthy food."
     },
     {
-      "q": "'conversation' чи маъно дорад?",
+      "q": "«Вай дандони маро кашида гирифт» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: conversation",
-        "нодуруст C"
+        "She pulled out my tooth.",
+        "She pulled my tooth out.",
+        "She pulled out the tooth.",
+        "He pulled out my tooth."
       ],
-      "answer": "тарҷума: conversation"
+      "answer": "She pulled out my tooth."
     },
     {
-      "q": "'fluency' чи маъно дорад?",
+      "q": "«Ман дандонҳоямро ҳар рӯз мешӯям» чӣ тавр ба англисӣ мешавад?",
       "options": [
-        "нодуруст A",
-        "тарҷума: fluency",
-        "нодуруст C",
-        "нодуруст B"
+        "I brush my teeth every day.",
+        "I brush the teeth every day.",
+        "I clean my teeth every day.",
+        "I brush my teeth each day."
       ],
-      "answer": "тарҷума: fluency"
-    },
-    {
-      "q": "'confidence' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "тарҷума: confidence",
-        "нодуруст C",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: confidence"
-    },
-    {
-      "q": "'pronunciation' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст A",
-        "нодуруст C",
-        "тарҷума: pronunciation"
-      ],
-      "answer": "тарҷума: pronunciation"
-    },
-    {
-      "q": "'vocabulary' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: vocabulary",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: vocabulary"
-    },
-    {
-      "q": "'grammar' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: grammar",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: grammar"
-    },
-    {
-      "q": "'opportunity' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B",
-        "тарҷума: opportunity"
-      ],
-      "answer": "тарҷума: opportunity"
-    },
-    {
-      "q": "'experience' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "нодуруст A",
-        "тарҷума: experience"
-      ],
-      "answer": "тарҷума: experience"
-    },
-    {
-      "q": "'environment' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: environment",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: environment"
-    },
-    {
-      "q": "'communication' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "тарҷума: communication",
-        "нодуруст B",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: communication"
-    },
-    {
-      "q": "'education' чи маъно дорад?",
-      "options": [
-        "тарҷума: education",
-        "нодуруст C",
-        "нодуруст A",
-        "нодуруст B"
-      ],
-      "answer": "тарҷума: education"
-    },
-    {
-      "q": "'development' чи маъно дорад?",
-      "options": [
-        "нодуруст C",
-        "нодуруст B",
-        "тарҷума: development",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: development"
-    },
-    {
-      "q": "'achievement' чи маъно дорад?",
-      "options": [
-        "нодуруст B",
-        "нодуруст C",
-        "тарҷума: achievement",
-        "нодуруст A"
-      ],
-      "answer": "тарҷума: achievement"
-    },
-    {
-      "q": "'challenge' чи маъно дорад?",
-      "options": [
-        "нодуруст A",
-        "тарҷума: challenge",
-        "нодуруст B",
-        "нодуруст C"
-      ],
-      "answer": "тарҷума: challenge"
+      "answer": "I brush my teeth every day."
     }
   ],
   "instruction": "📓 ҲАТМАН! Ҳамаи луғат, матн ва ибораҳоро дар дафтар нависед! Бе навиштан дар хотир намемонад.",
-  "wordsCount": 38
+  "wordsCount": 16
 }
