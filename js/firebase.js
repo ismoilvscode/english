@@ -1,5 +1,5 @@
 // ============================================================
-// FIREBASE — Рейтинги воқеӣ + Premium Sync + Notifications
+// FIREBASE — Рейтинг, Premium, Progress
 // ============================================================
 
 const firebaseConfig = {
@@ -33,7 +33,6 @@ let isFirebaseReady = false;
     isFirebaseReady = true;
 
     console.log('✅ Firebase омода');
-    console.log('✅ databaseURL:', firebaseConfig.databaseURL);
 
     let tries = 0;
     const wait = setInterval(() => {
@@ -74,13 +73,10 @@ function saveUserToFirebase(userData) {
 }
 
 // ============================================================
-// ХОНДАНИ РЕЙТИНГ
+// РЕЙТИНГ
 // ============================================================
 function fetchRatingFromFirebase(callback, limit = 100) {
-  if (!isFirebaseReady || !db) {
-    callback([]);
-    return;
-  }
+  if (!isFirebaseReady || !db) { callback([]); return; }
 
   db.ref('users')
     .orderByChild('totalScore')
@@ -101,27 +97,14 @@ function fetchRatingFromFirebase(callback, limit = 100) {
     });
 }
 
-// ============================================================
-// РЕЙТИНГ REAL-TIME
-// ============================================================
 let ratingListener = null;
 
 function listenRatingRealtime(callback) {
-  if (!isFirebaseReady || !db) {
-    console.warn('⚠️ Firebase нест');
-    callback([]);
-    return;
-  }
+  if (!isFirebaseReady || !db) { callback([]); return; }
 
   if (ratingListener) {
-    try {
-      db.ref('users').off('value', ratingListener);
-    } catch (e) {
-      console.warn('Listener off error:', e);
-    }
+    try { db.ref('users').off('value', ratingListener); } catch (e) {}
   }
-
-  console.log('🏆 Firebase рейтинг бор мешавад...');
 
   ratingListener = db.ref('users')
     .orderByChild('totalScore')
@@ -133,7 +116,6 @@ function listenRatingRealtime(callback) {
         if (u && u.id) users.push(u);
       });
       users.sort((a, b) => (b.totalScore || 0) - (a.totalScore || 0));
-      console.log('🏆 Firebase users:', users.length);
       callback(users);
     }, err => {
       console.error('❌ Firebase listen error:', err);
@@ -141,14 +123,8 @@ function listenRatingRealtime(callback) {
     });
 }
 
-// ============================================================
-// ГИРИФТАНИ ЯК КОРБАР
-// ============================================================
 function fetchUserFromFirebase(userId, callback) {
-  if (!isFirebaseReady || !db) {
-    callback(null);
-    return;
-  }
+  if (!isFirebaseReady || !db) { callback(null); return; }
 
   db.ref('users/' + userId).once('value')
     .then(snapshot => callback(snapshot.val()))
@@ -159,43 +135,7 @@ function fetchUserFromFirebase(userId, callback) {
 }
 
 // ============================================================
-// 🔎 ADMIN — Ҷустуҷӯи корбар бо ID
-// ============================================================
-async function fetchUserById(userId, callback) {
-  if (!isFirebaseReady || !db) { callback(null); return; }
-  try {
-    const snap = await db.ref('users/' + userId).once('value');
-    callback(snap.exists() ? snap.val() : null);
-  } catch (e) {
-    console.error('fetchUserById error:', e);
-    callback(null);
-  }
-}
-
-// ============================================================
-// 🔎 ADMIN — Ҷустуҷӯи корбар бо @username
-// ============================================================
-async function findUserByUsername(username, callback) {
-  if (!isFirebaseReady || !db) { callback(null); return; }
-  try {
-    const clean = String(username).replace(/^@/, '').toLowerCase();
-    const snap = await db.ref('users').once('value');
-    let found = null;
-    snap.forEach(child => {
-      const v = child.val();
-      if (v && v.username && String(v.username).toLowerCase() === clean) {
-        found = { ...v, _key: child.key };
-      }
-    });
-    callback(found);
-  } catch (e) {
-    console.error('findUserByUsername error:', e);
-    callback(null);
-  }
-}
-
-// ============================================================
-// 🎧 PREMIUM SYNC (бо auto-cache clearing)
+// PREMIUM SYNC
 // ============================================================
 let myPremiumListener = null;
 
@@ -203,11 +143,7 @@ function listenMyPremiumFromFirebase(userId, callback) {
   if (!isFirebaseReady || !db || !userId) return;
 
   if (myPremiumListener) {
-    try {
-      db.ref('users/' + userId).off('value', myPremiumListener);
-    } catch (e) {
-      console.warn('Premium listener off error:', e);
-    }
+    try { db.ref('users/' + userId).off('value', myPremiumListener); } catch (e) {}
   }
 
   myPremiumListener = db.ref('users/' + userId).on('value', snap => {
@@ -220,13 +156,11 @@ function listenMyPremiumFromFirebase(userId, callback) {
       premiumStartedAt: data.premiumStartedAt || null,
       premiumExpiresAt: data.premiumExpiresAt || null
     });
-  }, err => {
-    console.error('❌ Premium listener error:', err);
-  });
+  }, err => console.error('❌ Premium listener error:', err));
 }
 
 // ============================================================
-// 🔔 NOTIFICATIONS
+// NOTIFICATIONS
 // ============================================================
 let notifListener = null;
 
@@ -234,11 +168,7 @@ function listenMyNotifications(userId, callback) {
   if (!isFirebaseReady || !db || !userId) return;
 
   if (notifListener) {
-    try {
-      db.ref('notifications/' + userId).off('child_added', notifListener);
-    } catch (e) {
-      console.warn('Notif listener off error:', e);
-    }
+    try { db.ref('notifications/' + userId).off('child_added', notifListener); } catch (e) {}
   }
 
   notifListener = db.ref('notifications/' + userId)
@@ -249,8 +179,34 @@ function listenMyNotifications(userId, callback) {
       if (!notif || notif.read) return;
       notif.id = snap.key;
       callback(notif);
-    }, err => {
-      console.error('❌ Notifications listener error:', err);
+    }, err => console.error('❌ Notifications listener error:', err));
+}
+
+// ============================================================
+// 💾 PROGRESS SYNC — пешрафт дар server
+// ============================================================
+function saveProgressToFirebase(userId, data) {
+  if (!isFirebaseReady || !db || !userId) return;
+
+  db.ref('progress/' + userId).update({
+    completedLessons: data.completedLessons || [],
+    testScores: data.testScores || {},
+    streak: data.streak || 0,
+    premiumUnlockedLessons: data.premiumUnlockedLessons || [],
+    updatedAt: firebase.database.ServerValue.TIMESTAMP
+  }).then(() => {
+    console.log('☁️ Progress сабт шуд:', (data.completedLessons || []).length, 'дарс');
+  }).catch(err => console.error('❌ Save progress error:', err));
+}
+
+function fetchProgressFromFirebase(userId, callback) {
+  if (!isFirebaseReady || !db || !userId) { callback(null); return; }
+
+  db.ref('progress/' + userId).once('value')
+    .then(snap => callback(snap.val()))
+    .catch(err => {
+      console.error('❌ Fetch progress error:', err);
+      callback(null);
     });
 }
 
