@@ -21,7 +21,6 @@
   <symbol id="i-edit" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></symbol>
   <symbol id="i-arrow-right" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></symbol>
   <symbol id="i-trophy" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6M18 9h1.5a2.5 2.5 0 0 0 0-5H18M4 22h16M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22M18 2H6v7a6 6 0 0 0 12 0V2z"/></symbol>
-  <symbol id="i-book-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></symbol>
   <symbol id="i-send" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></symbol>
   <symbol id="i-copy" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></symbol>
   <symbol id="i-camera" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/><circle cx="12" cy="13" r="4"/></symbol>
@@ -29,7 +28,6 @@
 </svg>
 
 <div class="lesson-app" id="lessonApp">
-
   <div class="lesson-header">
     <button class="back-btn" onclick="exitLesson()">
       <svg class="icon"><use href="#i-arrow-left"/></svg>
@@ -47,15 +45,12 @@
     <div class="lesson-progress-text" id="progressText">0 / 0</div>
   </div>
 
-  <!-- STAGE: WORDS ONLY -->
   <div class="lesson-stage" id="stageWords">
     <div class="instruction-box">
       <svg class="icon"><use href="#i-edit"/></svg>
       <p id="instructionText">Ҳамаи калимаҳоро дар дафтар нависед!</p>
     </div>
-
     <div class="word-stage" id="wordStage"></div>
-
     <div class="stage-actions">
       <button class="btn-listen" id="btnListen" onclick="listenCurrent()">
         <svg class="icon"><use href="#i-volume"/></svg>
@@ -68,7 +63,6 @@
     </div>
   </div>
 
-  <!-- STAGE: TEST -->
   <div class="lesson-stage" id="stageTest" style="display:none">
     <div class="test-progress">
       <div class="test-progress-bar" id="testProgressBar"></div>
@@ -77,16 +71,12 @@
     <div id="questionBox"></div>
   </div>
 
-  <!-- STAGE: RESULT -->
   <div class="lesson-stage" id="stageResult" style="display:none">
     <div class="test-result" id="resultBox"></div>
   </div>
-
 </div>
 
-<!-- ============================================
-     MODAL: ВАҚТИ ТЕСТ РАСИД
-     ============================================ -->
+<!-- MODAL: Вақти тест -->
 <div class="modal" id="testTimeModal">
   <div class="modal-backdrop"></div>
   <div class="modal-content" style="max-width:400px;text-align:center;">
@@ -102,15 +92,11 @@
       <svg class="icon icon-sm"><use href="#i-trophy"/></svg>
       Оғози тест
     </button>
-    <button class="btn-price" style="width:100%" onclick="reviewWords()">
-      Боз дидани калимаҳо
-    </button>
+    <button class="btn-price" style="width:100%" onclick="reviewWords()">Боз дидани калимаҳо</button>
   </div>
 </div>
 
-<!-- ============================================
-     MODAL: PREMIUM ORDER
-     ============================================ -->
+<!-- MODAL: Premium -->
 <div class="modal" id="premiumOrderModal">
   <div class="modal-backdrop" onclick="closePremiumOrder()"></div>
   <div class="modal-content">
@@ -120,7 +106,6 @@
         <svg class="icon"><use href="#i-x"/></svg>
       </button>
     </div>
-
     <div class="modal-body">
       <div class="pay-row">
         <span>Нақша:</span>
@@ -130,7 +115,6 @@
         <span>Маблағ:</span>
         <strong class="pay-price" id="orderPlanPrice">100 сомонӣ</strong>
       </div>
-
       <div class="pay-instruction">
         <p>Маблағро ба Alif mobi гузаронед:</p>
         <div class="card-number" onclick="copyCardNumber()" style="cursor:pointer">
@@ -138,23 +122,16 @@
           <span id="cardNumberText">+992933217883</span>
           <svg class="icon icon-sm" style="margin-left:auto"><use href="#i-copy"/></svg>
         </div>
-        <p style="font-size:11px;color:var(--primary);text-align:center;margin-top:6px;font-weight:600">
-          👆 Пахш кунед, то рақамро нусхабардорӣ кунед
-        </p>
       </div>
-
       <div style="margin-top:20px;padding-top:16px;border-top:1px dashed var(--card-border)">
         <label style="font-size:13px;font-weight:600;display:block;margin-bottom:10px">
           📸 Скриншоти пардохтро интихоб кунед:
         </label>
-
         <input type="file" id="paymentPhoto" accept="image/*" style="display:none" onchange="handlePhotoSelect(event)">
-
         <div id="photoPreview" class="photo-preview" onclick="document.getElementById('paymentPhoto').click()">
           <svg class="icon icon-2xl"><use href="#i-camera"/></svg>
           <p>Барои интихоби сурат пахш кунед</p>
         </div>
-
         <div id="photoSelected" style="display:none">
           <img id="photoImg" src="" style="width:100%;border-radius:12px;margin-bottom:10px;max-height:300px;object-fit:contain">
           <button class="btn-price" style="width:100%" onclick="removePhoto()">
@@ -163,12 +140,10 @@
           </button>
         </div>
       </div>
-
       <p style="font-size:11px;color:var(--text-2);margin-top:16px;line-height:1.5">
         Баъд аз тасдиқ аз ҷониби админ, Premium худкор фаъол мешавад.
       </p>
     </div>
-
     <div class="modal-footer">
       <button class="btn-price" onclick="closePremiumOrder()">Бекор</button>
       <button class="btn-primary" id="btnSendOrder" onclick="sendPremiumOrder()" disabled>
@@ -179,7 +154,6 @@
   </div>
 </div>
 
-<!-- AUDIO -->
 <audio id="audioPlayer" preload="auto"></audio>
 
 <!-- FIREBASE -->
@@ -188,14 +162,12 @@
 
 <script>
 // ============================================
-// APP VERSION — ин рақамро дар app.js, lesson.html,
-// test.html якхела нигоҳ доред ва ҳар бор ки маълумоти
-// data/*.json-ро иваз мекунед, зиёд кунед.
+// VERSION
 // ============================================
 const APP_VERSION = 4;
 
 // ============================================
-// FIREBASE CONFIG
+// FIREBASE
 // ============================================
 const firebaseConfig = {
   apiKey: "AIzaSyADKhYDf1dc11VJHmFdT26irHHBUt_Lkrk",
@@ -211,18 +183,15 @@ let db = null;
 try {
   if (!firebase.apps.length) firebase.initializeApp(firebaseConfig);
   db = firebase.database();
-} catch (e) {
-  console.error('Firebase error:', e);
-}
+} catch (e) { console.error('Firebase error:', e); }
 
 // ============================================
 // CONFIG
 // ============================================
 const ADMIN_BOT = 'ismoilvscode';
-const ADMIN_TELEGRAM = 'ismoilovcode';
 const CARD_NUMBER = '+992933217883';
 const IMGBB_API_KEY = '5eb0b758759864c6b422ff1d11b034b5';
-const FREE_LESSONS = [1, 2, 3];   // ← Танҳо ин дарсҳо ройгон
+const FREE_LESSONS = [1, 2, 3];
 
 // ============================================
 // TELEGRAM
@@ -238,16 +207,35 @@ const store = {
   set: (k, v) => localStorage.setItem(k, JSON.stringify(v))
 };
 
-// Дарсҳое, ки як бор дар вақти Premium будан кушода шудаанд —
-// баъд аз тамом шудани Premium низ КУШОДА мемонанд (қулф намешаванд).
 let premiumUnlockedLessons = store.get('premiumUnlockedLessons', []);
+
 function isPremiumUnlockedLesson(id) {
   return premiumUnlockedLessons.includes(id);
 }
+
+// ============================================
+// 💾 SYNC функсияҳо — пешрафт ба Firebase
+// ============================================
+function syncProgressToServer() {
+  if (!db || !user.id) return;
+  const progress = store.get('progress', { completedLessons: [], testScores: {}, streak: 0 });
+
+  db.ref('progress/' + user.id).update({
+    completedLessons: progress.completedLessons || [],
+    testScores: progress.testScores || {},
+    streak: progress.streak || 0,
+    premiumUnlockedLessons: premiumUnlockedLessons,
+    updatedAt: firebase.database.ServerValue.TIMESTAMP
+  }).then(() => {
+    console.log('☁️ Progress сабт шуд');
+  }).catch(err => console.error('❌ Sync error:', err));
+}
+
 function markPremiumUnlocked(id) {
   if (!premiumUnlockedLessons.includes(id)) {
     premiumUnlockedLessons.push(id);
     store.set('premiumUnlockedLessons', premiumUnlockedLessons);
+    syncProgressToServer();   // ← ☁️
   }
 }
 
@@ -266,11 +254,12 @@ let testAnswers = [];
 let currentPlanKey = null;
 let selectedPhotoBase64 = null;
 let uploadedPhotoUrl = null;
+let ALL_LESSONS = null;
 
 const audioPlayer = document.getElementById('audioPlayer');
 
 // ============================================
-// ҚУЛФИ PREMIUM
+// PREMIUM
 // ============================================
 function isPremiumActive() {
   const premium = store.get('premium', { active: false, expiresAt: null });
@@ -282,36 +271,25 @@ function showPremiumLockedScreen() {
 
   document.body.innerHTML = `
     <div style="min-height:100vh;background:#0f172a;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:40px 24px;text-align:center;font-family:Inter,system-ui,sans-serif;">
-      <div style="width:120px;height:120px;border-radius:36px;background:linear-gradient(135deg,#fbbf24,#f59e0b);display:flex;align-items:center;justify-content:center;font-size:64px;box-shadow:0 0 60px rgba(251,191,36,0.5);margin-bottom:24px;animation:floatLock 3s ease-in-out infinite;">
+      <div style="width:120px;height:120px;border-radius:36px;background:linear-gradient(135deg,#fbbf24,#f59e0b);display:flex;align-items:center;justify-content:center;font-size:64px;box-shadow:0 0 60px rgba(251,191,36,0.5);margin-bottom:24px;">
         👑
       </div>
-      <h1 style="color:#f1f5f9;font-size:24px;font-weight:900;letter-spacing:-0.5px;margin-bottom:12px;">
+      <h1 style="color:#f1f5f9;font-size:24px;font-weight:900;margin-bottom:12px;">
         Дарси ${LESSON_ID} Premium аст
       </h1>
       <p style="color:#94a3b8;font-size:14px;line-height:1.6;margin-bottom:28px;max-width:320px;">
         Дарсҳои <strong style="color:#fbbf24">1, 2, 3</strong> ройгон ҳастанд. Барои гузаштан ба дарсҳои дигар Premium лозим аст.
       </p>
-      <button onclick="location.href='index.html#premium'" 
-        style="background:linear-gradient(135deg,#6366f1,#8b5cf6);color:#fff;border:none;padding:16px 32px;border-radius:16px;font-size:15px;font-weight:800;cursor:pointer;font-family:inherit;box-shadow:0 12px 32px rgba(99,102,241,0.4);margin-bottom:12px;">
+      <button onclick="location.href='index.html#premium'" style="background:linear-gradient(135deg,#6366f1,#8b5cf6);color:#fff;border:none;padding:16px 32px;border-radius:16px;font-size:15px;font-weight:800;cursor:pointer;font-family:inherit;margin-bottom:12px;">
         ✨ Premium гирифтан
       </button>
-      <button onclick="location.href='index.html'" 
-        style="background:transparent;color:#94a3b8;border:1px solid rgba(148,163,184,0.2);padding:14px 32px;border-radius:16px;font-size:14px;font-weight:600;cursor:pointer;font-family:inherit;">
+      <button onclick="location.href='index.html'" style="background:transparent;color:#94a3b8;border:1px solid rgba(148,163,184,0.2);padding:14px 32px;border-radius:16px;font-size:14px;font-weight:600;cursor:pointer;font-family:inherit;">
         Ба асосӣ
       </button>
     </div>
-    <style>
-      @keyframes floatLock {
-        0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-10px); }
-      }
-    </style>
   `;
 }
 
-// ============================================
-// ҚУЛФИ ПАЙДАРПАЙ
-// ============================================
 function isLessonUnlocked(id) {
   if (id === 1) return true;
   const progress = store.get('progress', { completedLessons: [] });
@@ -326,8 +304,7 @@ function showLockedScreen() {
       <p style="color:#94a3b8;font-size:14px;margin-bottom:24px;">
         Аввал дарси <strong>${LESSON_ID - 1}</strong>-ро гузаред
       </p>
-      <button onclick="location.href='lesson.html?id=${LESSON_ID - 1}'" 
-        style="background:linear-gradient(135deg,#6366f1,#8b5cf6);color:#fff;border:none;padding:14px 28px;border-radius:14px;font-size:15px;font-weight:700;cursor:pointer;font-family:inherit;">
+      <button onclick="location.href='lesson.html?id=${LESSON_ID - 1}'" style="background:linear-gradient(135deg,#6366f1,#8b5cf6);color:#fff;border:none;padding:14px 28px;border-radius:14px;font-size:15px;font-weight:700;cursor:pointer;font-family:inherit;">
         Ба дарси ${LESSON_ID - 1}
       </button>
     </div>`;
@@ -360,33 +337,27 @@ function fallbackSpeak(text) {
 }
 
 // ============================================
-// LOAD LESSON  (ИСЛОҲ ШУД)
+// LOAD LESSON
 // ============================================
-let ALL_LESSONS = null;
-
 async function loadLesson() {
-  // 1. Қулфи пайдарпай
+  // Қулфи пайдарпай
   if (!isLessonUnlocked(LESSON_ID)) {
     showLockedScreen();
     return;
   }
 
-  // 2. Қулфи Premium — барои дарсҳои 4+
-  // (Агар ин дарс қаблан дар вақти Premium будан кушода шуда бошад,
-  //  он ҳатто баъд аз тамом шудани Premium низ кушода мемонад)
+  // Қулфи Premium
   if (!FREE_LESSONS.includes(LESSON_ID) && !isPremiumActive() && !isPremiumUnlockedLesson(LESSON_ID)) {
     showPremiumLockedScreen();
     return;
   }
 
-  // Агар дарс премиумӣ бошад ва Premium ҳоло фаъол бошад — сабт мекунем
+  // Сабт мекунем, ки дарс дар вақти Premium кушода шуд
   if (!FREE_LESSONS.includes(LESSON_ID) && isPremiumActive()) {
     markPremiumUnlocked(LESSON_ID);
   }
 
-  // 3. Боркунии дарс
   try {
-    // ✅ АВВАЛ — аз файли алоҳидаи дарс
     try {
       const r = await fetch(`data/lessons/lesson-${LESSON_ID}.json?v=${APP_VERSION}`);
       if (r.ok) {
@@ -397,7 +368,6 @@ async function loadLesson() {
       console.warn('Файли алоҳида ёфт нашуд, аз lessons.json мегирем');
     }
 
-    // ✅ АГАР НАБОШАД — аз lessons.json
     if (!lessonData) {
       if (!ALL_LESSONS) {
         const r = await fetch(`data/lessons.json?v=${APP_VERSION}`);
@@ -410,7 +380,7 @@ async function loadLesson() {
 
     if (!lessonData) throw new Error('Дарс ёфт нашуд');
 
-    // Уникалӣ — калимаҳои такрорӣ нест кунем
+    // Уникалӣ
     const uniqueWords = [];
     const seen = new Set();
     (lessonData.words || []).forEach(w => {
@@ -442,7 +412,7 @@ function renderHeader() {
 }
 
 // ============================================
-// WORD STAGE — 1-то-1
+// WORD STAGE
 // ============================================
 function renderWord() {
   const words = lessonData.words;
@@ -525,48 +495,29 @@ function startTestFromModal() {
 }
 
 // ============================================
-// TEST — ИСЛОҲ ШУД ✅
-// Асосан аз ДАРСИ ҶОРӢ, каме аз 5 дарси охирин
+// TEST
 // ============================================
 async function startTest() {
   try {
-    // ========================================
-    // 1. АВВАЛ — exercises-и ДАРСИ ҶОРӢ
-    // ========================================
     let currentLessonExercises = [];
 
     if (lessonData && Array.isArray(lessonData.exercises) && lessonData.exercises.length > 0) {
-      currentLessonExercises = lessonData.exercises.map(ex => ({
-        ...ex,
-        lessonId: LESSON_ID
-      }));
-      console.log(`✅ Аз дарси ҷорӣ (${LESSON_ID}): ${currentLessonExercises.length} савол`);
+      currentLessonExercises = lessonData.exercises.map(ex => ({ ...ex, lessonId: LESSON_ID }));
     }
 
-    // Агар дарси ҷорӣ exercises надошта бошад — аз файли алоҳида бор кунем
     if (currentLessonExercises.length === 0) {
       try {
         const r = await fetch(`data/lessons/lesson-${LESSON_ID}.json?v=${APP_VERSION}`);
         if (r.ok) {
           const data = await r.json();
           if (Array.isArray(data.exercises) && data.exercises.length > 0) {
-            currentLessonExercises = data.exercises.map(ex => ({
-              ...ex,
-              lessonId: LESSON_ID
-            }));
-            console.log(`✅ Аз файли алоҳида (${LESSON_ID}): ${currentLessonExercises.length} савол`);
+            currentLessonExercises = data.exercises.map(ex => ({ ...ex, lessonId: LESSON_ID }));
           }
         }
-      } catch (e) {
-        console.warn('Lesson file not found:', e);
-      }
+      } catch (e) {}
     }
 
-    // ========================================
-    // 2. Агар ҳоло ҳам холӣ — аз КАЛИМАҲОИ ДАРСИ ҶОРӢ созем
-    // ========================================
     if (currentLessonExercises.length === 0 && lessonData && Array.isArray(lessonData.words)) {
-      console.log('⚠️ Аз калимаҳои дарси ҷорӣ саволҳо месозем');
       lessonData.words.forEach(w => {
         const wrongOptions = lessonData.words
           .filter(x => x.tj !== w.tj)
@@ -591,46 +542,28 @@ async function startTest() {
       return;
     }
 
-    // ========================================
-    // 3. Миқдори саволҳо
-    // ========================================
     const questionCount = LESSON_ID === 1 ? 5
                         : LESSON_ID === 2 ? 8
                         : LESSON_ID === 3 ? 10
                         : 15;
 
-    // ========================================
-    // 4. АСОСАН аз дарси ҷорӣ — ҳадди ақал 80%
-    // ========================================
     const shuffledCurrent = shuffleArray([...currentLessonExercises]);
-
-    // Ҳадди ақал 80% аз дарси ҷорӣ, аммо на бештар аз он чӣ ҳаст
     const minFromCurrent = Math.ceil(questionCount * 0.8);
     const mainCount = Math.min(minFromCurrent, shuffledCurrent.length);
 
     let selectedQuestions = shuffledCurrent.slice(0, mainCount);
-    console.log(`📚 Аз дарси ҷорӣ интихоб шуд: ${selectedQuestions.length} савол`);
 
-    // ========================================
-    // 5. Агар кам бошад — аз 5 дарси ОХИРИН илова кунем
-    // ========================================
     if (selectedQuestions.length < questionCount) {
       const previousExercises = [];
       const startFrom = Math.max(1, LESSON_ID - 5);
 
-      console.log(`🔎 Аз дарсҳои ${startFrom} то ${LESSON_ID - 1} саволҳо меҷӯем...`);
-
       for (let id = startFrom; id < LESSON_ID; id++) {
         let lesson = ALL_LESSONS?.[id];
-
-        // Агар дар ALL_LESSONS набошад — аз файли алоҳида бор кунем
         if (!lesson) {
           try {
             const r = await fetch(`data/lessons/lesson-${id}.json?v=${APP_VERSION}`);
-            if (r.ok) {
-              lesson = await r.json();
-            }
-          } catch (e) { /* ignore */ }
+            if (r.ok) lesson = await r.json();
+          } catch (e) {}
         }
 
         if (lesson && Array.isArray(lesson.exercises)) {
@@ -640,28 +573,17 @@ async function startTest() {
         }
       }
 
-      console.log(`📚 Аз дарсҳои қаблӣ: ${previousExercises.length} савол`);
-
       const shuffledPrev = shuffleArray(previousExercises);
       const needed = questionCount - selectedQuestions.length;
-
-      selectedQuestions = [
-        ...selectedQuestions,
-        ...shuffledPrev.slice(0, needed)
-      ];
+      selectedQuestions = [...selectedQuestions, ...shuffledPrev.slice(0, needed)];
     }
 
-    // ========================================
-    // 6. Омехтани ниҳоӣ
-    // ========================================
     testQuestions = shuffleArray(selectedQuestions);
 
     if (testQuestions.length === 0) {
       showResult(100, 0, 0);
       return;
     }
-
-    console.log(`✅ Ҳамагӣ ${testQuestions.length} савол барои тест`);
 
     testIdx = 0;
     testAnswers = [];
@@ -789,14 +711,21 @@ function nextLesson() {
   window.location.href = `lesson.html?id=${LESSON_ID + 1}`;
 }
 
+// ============================================
+// 🔴 markLessonComplete — сабт + Firebase
+// ============================================
 function markLessonComplete(id, score) {
-  const progress = store.get('progress', { completedLessons: [], testScores: {} });
+  const progress = store.get('progress', { completedLessons: [], testScores: {}, streak: 0 });
   if (!progress.completedLessons.includes(id)) {
     progress.completedLessons.push(id);
     progress.completedLessons.sort((a, b) => a - b);
   }
   progress.testScores[id] = Math.max(progress.testScores[id] || 0, score);
   store.set('progress', progress);
+
+  // ☁️ Фиристодан ба Firebase
+  syncProgressToServer();
+  console.log('✅ Дарс сабт шуд: №' + id + ' (' + score + '%)');
 }
 
 function exitLesson() {
@@ -850,9 +779,6 @@ function copyCardNumber() {
   });
 }
 
-// ============================================
-// IMAGE COMPRESSION
-// ============================================
 function compressImage(file, maxWidth = 1200, quality = 0.85) {
   return new Promise((resolve, reject) => {
     const reader = new FileReader();
@@ -872,8 +798,7 @@ function compressImage(file, maxWidth = 1200, quality = 0.85) {
         const ctx = canvas.getContext('2d');
         ctx.drawImage(img, 0, 0, width, height);
 
-        const compressed = canvas.toDataURL('image/jpeg', quality);
-        resolve(compressed);
+        resolve(canvas.toDataURL('image/jpeg', quality));
       };
       img.onerror = reject;
       img.src = e.target.result;
@@ -883,9 +808,6 @@ function compressImage(file, maxWidth = 1200, quality = 0.85) {
   });
 }
 
-// ============================================
-// IMGBB
-// ============================================
 async function uploadToImgBB(base64Image) {
   const base64Data = base64Image.replace(/^data:image\/\w+;base64,/, '');
   const formData = new FormData();
@@ -904,9 +826,6 @@ async function uploadToImgBB(base64Image) {
   return json.data.display_url || json.data.url;
 }
 
-// ============================================
-// PHOTO SELECT
-// ============================================
 async function handlePhotoSelect(event) {
   const file = event.target.files[0];
   if (!file) return;
@@ -928,14 +847,13 @@ async function handlePhotoSelect(event) {
 
   try {
     selectedPhotoBase64 = await compressImage(file, 1200, 0.85);
-
     document.getElementById('photoImg').src = selectedPhotoBase64;
     document.getElementById('photoPreview').style.display = 'none';
     document.getElementById('photoSelected').style.display = 'block';
 
     btn.innerHTML = '<svg class="icon icon-sm"><use href="#i-refresh"/></svg> Боркунӣ...';
     uploadedPhotoUrl = await uploadToImgBB(selectedPhotoBase64);
-    console.log('✅ Расм ба ImgBB бор шуд:', uploadedPhotoUrl);
+    console.log('✅ Расм бор шуд:', uploadedPhotoUrl);
 
     btn.disabled = false;
     btn.innerHTML = originalText;
@@ -964,9 +882,6 @@ function removePhoto() {
   document.getElementById('btnSendOrder').disabled = true;
 }
 
-// ============================================
-// SEND ORDER
-// ============================================
 async function sendPremiumOrder() {
   if (!uploadedPhotoUrl) {
     showToast('Скриншоти пардохтро интихоб кунед');
@@ -1001,14 +916,13 @@ async function sendPremiumOrder() {
       orderId = ref.key;
       order.orderId = orderId;
       await ref.set(order);
-      console.log('✅ Фармоиш ба Firebase фиристода шуд:', orderId);
+      console.log('✅ Фармоиш фиристода шуд:', orderId);
     } else {
       throw new Error('Firebase пайваст нест');
     }
 
     if (tg) tg.HapticFeedback?.notificationOccurred('success');
     showSuccessPopup(order, orderId);
-
   } catch (e) {
     console.error('Order error:', e);
     showToast('Хато дар фиристодан: ' + e.message);
@@ -1017,9 +931,6 @@ async function sendPremiumOrder() {
   }
 }
 
-// ============================================
-// SUCCESS POPUP — 2 тугма
-// ============================================
 function showSuccessPopup(order, orderId) {
   closePremiumOrder();
 
@@ -1038,7 +949,6 @@ function showSuccessPopup(order, orderId) {
           Фармоиши шумо ба админ фиристода шуд.<br>
           Баъд аз тасдиқ Premium худкор фаъол мешавад.
         </p>
-
         <div style="background:var(--bg-2);border-radius:14px;padding:14px;margin-bottom:20px;text-align:left;font-size:12px;">
           <div style="display:flex;justify-content:space-between;margin-bottom:6px">
             <span style="color:var(--text-2)">Нақша:</span>
@@ -1049,17 +959,10 @@ function showSuccessPopup(order, orderId) {
             <strong style="color:#fbbf24">${order.planPrice} сомонӣ</strong>
           </div>
         </div>
-
-        <button id="btnOpenBot"
-          style="width:100%;padding:16px;background:linear-gradient(135deg,#229ED9,#1a7ba8);color:#fff;border:none;border-radius:14px;font-size:15px;font-weight:800;cursor:pointer;font-family:inherit;display:flex;align-items:center;justify-content:center;gap:10px;margin-bottom:10px;box-shadow:0 8px 24px rgba(34,158,217,0.4);">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-            <path d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-.86.2-1.3l15.97-6.16c.73-.33 1.43.18 1.15 1.3l-2.72 12.81c-.19.91-.74 1.13-1.5.71L12.6 16.3l-1.99 1.93c-.23.23-.42.42-.83.42z"/>
-          </svg>
-          Хабар ба админ дар Telegram
+        <button id="btnOpenBot" style="width:100%;padding:16px;background:linear-gradient(135deg,#229ED9,#1a7ba8);color:#fff;border:none;border-radius:14px;font-size:15px;font-weight:800;cursor:pointer;font-family:inherit;margin-bottom:10px;">
+          📩 Хабар ба админ дар Telegram
         </button>
-
-        <button onclick="this.closest('.modal').remove()"
-          style="width:100%;padding:14px;background:var(--bg-2);color:var(--text);border:1px solid var(--card-border);border-radius:14px;font-size:14px;font-weight:700;cursor:pointer;font-family:inherit;">
+        <button onclick="this.closest('.modal').remove()" style="width:100%;padding:14px;background:var(--bg-2);color:var(--text);border:1px solid var(--card-border);border-radius:14px;font-size:14px;font-weight:700;cursor:pointer;font-family:inherit;">
           Пӯшидан
         </button>
       </div>
@@ -1101,41 +1004,12 @@ function showToast(msg) {
 // START
 // ============================================
 loadLesson();
+
+// Ҳангоми бастани барнома — сабти ниҳоӣ
+window.addEventListener('beforeunload', () => {
+  if (user.id) syncProgressToServer();
+});
 </script>
 
-<style>
-@keyframes bounceIn {
-  0% { transform: scale(0); }
-  50% { transform: scale(1.15); }
-  100% { transform: scale(1); }
-}
-
-.photo-preview {
-  width: 100%;
-  height: 160px;
-  border: 2px dashed var(--card-border);
-  border-radius: 16px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-  cursor: pointer;
-  transition: all 0.2s;
-  color: var(--text-2);
-  background: rgba(99, 102, 241, 0.03);
-}
-.photo-preview:active {
-  background: rgba(99, 102, 241, 0.1);
-  border-color: var(--primary);
-}
-.photo-preview p {
-  font-size: 13px;
-  font-weight: 600;
-}
-.photo-preview .icon {
-  color: var(--primary);
-}
-</style>
 </body>
 </html>
