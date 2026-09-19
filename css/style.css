@@ -1,5 +1,5 @@
 /* ============================================================
-   EnglishPro — style.css (Тоза ва бе хато)
+   EnglishPro — style.css
    ============================================================ */
 
 /* ===== 1. RESET ===== */
@@ -212,7 +212,6 @@ body {
   box-shadow: 0 8px 24px rgba(99, 102, 241, 0.35);
 }
 
-/* Рангҳо аз рӯи ҳарфи аввал */
 .avatar[data-initial="A"] { background: linear-gradient(135deg, #6366f1, #8b5cf6); }
 .avatar[data-initial="B"] { background: linear-gradient(135deg, #ec4899, #f43f5e); }
 .avatar[data-initial="C"] { background: linear-gradient(135deg, #f59e0b, #ef4444); }
@@ -512,7 +511,6 @@ body {
 }
 .badge-mini { font-size: 11px; vertical-align: middle; }
 
-/* Bookmark */
 .lesson-bookmark {
   position: absolute;
   top: 12px;
@@ -858,7 +856,6 @@ body {
 }
 .p-lbl { font-size: 11px; color: var(--text-2); margin-top: 4px; display: block; }
 
-/* Menu */
 .menu-list {
   display: flex;
   flex-direction: column;
@@ -1407,7 +1404,6 @@ body.light .timer-block { background: rgba(255, 255, 255, 0.8); }
   margin-top: 2px;
 }
 
-/* Switch */
 .switch {
   position: relative;
   display: inline-block;
@@ -1441,7 +1437,6 @@ input:checked + .slider {
 }
 input:checked + .slider:before { transform: translateX(20px); }
 
-/* Actions */
 .settings-action {
   width: 100%;
   display: flex;
@@ -1485,28 +1480,6 @@ input:checked + .slider:before { transform: translateX(20px); }
 }
 
 /* ===== 28. HELP ===== */
-.help-topics {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 10px;
-  margin-bottom: 20px;
-}
-.help-topic {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 8px;
-  padding: 16px 8px;
-  background: var(--card);
-  border: 1px solid var(--card-border);
-  border-radius: 16px;
-  cursor: pointer;
-  transition: transform 0.15s;
-}
-.help-topic:active { transform: scale(0.95); }
-.help-topic .icon { color: var(--primary); width: 24px; height: 24px; }
-.help-topic span { font-size: 12px; font-weight: 600; }
-
 .faq-item {
   padding: 14px 0;
   border-bottom: 1px solid var(--card-border);
@@ -1628,25 +1601,6 @@ input:checked + .slider:before { transform: translateX(20px); }
 }
 .support-textarea:focus { border-color: var(--primary); }
 
-.support-footer {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  padding: 16px;
-  background: var(--card);
-  border: 1px solid var(--card-border);
-  border-radius: 16px;
-  backdrop-filter: blur(20px);
-}
-.sf-item {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  font-size: 12px;
-  color: var(--text-2);
-}
-.sf-item .icon { color: var(--primary); }
-
 /* ===== 30. LESSON APP ===== */
 .lesson-app {
   height: 100vh;
@@ -1745,7 +1699,6 @@ input:checked + .slider:before { transform: translateX(20px); }
   margin-top: 2px;
 }
 
-/* WORD STAGE */
 .word-stage {
   flex: 1;
   display: flex;
@@ -2165,38 +2118,7 @@ input:checked + .slider:before { transform: translateX(20px); }
   letter-spacing: 0.5px;
 }
 
-.admin-rating {
-  max-height: 400px;
-  overflow-y: auto;
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
-  margin-top: 12px;
-}
-.admin-rating::-webkit-scrollbar { width: 4px; }
-.admin-rating::-webkit-scrollbar-thumb {
-  background: var(--card-border);
-  border-radius: 4px;
-}
-.admin-rating .rating-row { padding: 10px 12px; }
-.admin-rating .rating-avatar {
-  width: 36px;
-  height: 36px;
-  font-size: 15px;
-  border-radius: 10px;
-}
-
-/* ===== 34. NO ANIMATIONS ===== */
-.no-animations *,
-.no-animations *::before,
-.no-animations *::after {
-  animation-duration: 0s !important;
-  animation-delay: 0s !important;
-  transition-duration: 0s !important;
-  transition-delay: 0s !important;
-}
-
-/* ===== 35. ANIMATIONS ===== */
+/* ===== 34. ANIMATIONS ===== */
 @keyframes spin { to { transform: rotate(360deg); } }
 @keyframes pulseLogo {
   0%, 100% { transform: scale(1); box-shadow: 0 0 60px rgba(99, 102, 241, 0.5); }
@@ -2232,7 +2154,7 @@ input:checked + .slider:before { transform: translateX(20px); }
   100% { transform: scale(1); }
 }
 
-/* ===== 36. MOBILE ===== */
+/* ===== 35. MOBILE ===== */
 @media (min-width: 500px) {
   .app {
     max-width: 480px;
@@ -2246,9 +2168,7 @@ input:checked + .slider:before { transform: translateX(20px); }
   }
 }
 
-/* ============================================
-   LOCKED LESSONS
-   ============================================ */
+/* ===== 36. LOCKED LESSONS ===== */
 .lesson-card.locked {
   opacity: 0.55;
   cursor: not-allowed;
@@ -2262,9 +2182,7 @@ input:checked + .slider:before { transform: translateX(20px); }
 }
 .lesson-card.locked:active { transform: none; }
 
-/* ============================================
-   TEST SOURCE
-   ============================================ */
+/* ===== 37. TEST SOURCE ===== */
 .test-source {
   display: inline-block;
   font-size: 11px;
@@ -2279,9 +2197,7 @@ input:checked + .slider:before { transform: translateX(20px); }
   letter-spacing: 0.5px;
 }
 
-/* ============================================
-   PREMIUM ORDER MODAL — photo preview
-   ============================================ */
+/* ===== 38. PHOTO PREVIEW ===== */
 .photo-preview {
   width: 100%;
   height: 160px;
@@ -2304,13 +2220,69 @@ input:checked + .slider:before { transform: translateX(20px); }
 }
 .photo-preview .icon { color: var(--primary); }
 
-/* ============================================
-   ADMIN — кортҳои корбар ва фармоиш
-   ============================================ */
+/* ============================================================
+   ============================================================
+   🔴 ADMIN — УНИВЕРСАЛ АВАТАРҲО
+   ============================================================
+   ============================================================ */
 
-#adminUserResult { margin-top: 4px; }
+/* ----- 1. ҲАМАИ РАСМҲО ДАР ADMIN — 52×52 ----- */
+/* Ин қоида ҲАМАИ расмҳоро дар admin panel маҷбуран хурд мекунад */
+[data-page="admin"] .admin-section img,
+[data-page="admin"] #adminUserResult img,
+#adminUserResult img {
+  width: 52px !important;
+  height: 52px !important;
+  min-width: 52px !important;
+  max-width: 52px !important;
+  min-height: 52px !important;
+  max-height: 52px !important;
+  object-fit: cover !important;
+  border-radius: 14px !important;
+  display: block !important;
+  flex-shrink: 0 !important;
+}
 
-/* Корт */
+/* ----- 2. ҲАМАИ КОНТЕЙНЕРҲОИ АВАТАР — 52×52 ----- */
+.admin-user-avatar,
+.admin-section [class*="avatar" i],
+.admin-section [class*="Avatar"],
+#adminUserResult [class*="avatar" i],
+#adminUserResult .avatar {
+  width: 52px !important;
+  height: 52px !important;
+  min-width: 52px !important;
+  max-width: 52px !important;
+  min-height: 52px !important;
+  max-height: 52px !important;
+  border-radius: 14px !important;
+  overflow: hidden !important;
+  flex-shrink: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+/* ----- 3. РАСМИ ДОХИЛИ АВАТАР ----- */
+.admin-user-avatar img,
+.admin-section [class*="avatar" i] img,
+.admin-section [class*="Avatar"] img,
+#adminUserResult [class*="avatar" i] img,
+#adminUserResult .avatar img {
+  width: 52px !important;
+  height: 52px !important;
+  min-width: 52px !important;
+  max-width: 52px !important;
+  min-height: 52px !important;
+  max-height: 52px !important;
+  object-fit: cover !important;
+  border-radius: 14px !important;
+  display: block !important;
+}
+
+/* ----- 4. КОРТИ КОРБАР — сохтор ----- */
 .admin-user-card {
   display: flex;
   align-items: center;
@@ -2324,47 +2296,7 @@ input:checked + .slider:before { transform: translateX(20px); }
 }
 .admin-user-card:active { background: var(--bg-2); }
 
-/* Аватар — мураббаъ 52px бо radius 14px */
-.admin-user-avatar {
-  width: 52px;
-  height: 52px;
-  min-width: 52px;
-  max-width: 52px;
-  border-radius: 14px;
-  flex-shrink: 0;
-  overflow: hidden;
-  background: linear-gradient(135deg, var(--primary), var(--primary-2));
-  color: #fff;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: 700;
-  font-size: 20px;
-  text-transform: uppercase;
-}
-
-.admin-user-avatar img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  border-radius: 14px;
-  display: block;
-}
-
-/* Барои фармоиш — аватари хурдтар */
-.order-card .admin-user-avatar {
-  width: 44px;
-  height: 44px;
-  min-width: 44px;
-  max-width: 44px;
-  font-size: 17px;
-  border-radius: 12px;
-}
-.order-card .admin-user-avatar img {
-  border-radius: 12px;
-}
-
-/* Маълумот — тарафи рост */
+/* ----- 5. МАЪЛУМОТ — тарафи рост ----- */
 .admin-user-info {
   flex: 1;
   min-width: 0;
@@ -2394,7 +2326,7 @@ input:checked + .slider:before { transform: translateX(20px); }
   font-variant-numeric: tabular-nums;
 }
 
-/* Бейджи Premium / Free */
+/* ----- 6. БЕЙДЖ ----- */
 .admin-user-badge {
   display: inline-block;
   margin-top: 5px;
@@ -2414,7 +2346,7 @@ input:checked + .slider:before { transform: translateX(20px); }
   color: var(--text-2);
 }
 
-/* Тугмаҳои амал */
+/* ----- 7. ТУГМАҲОИ АМАЛ ----- */
 .admin-user-actions {
   display: flex;
   gap: 6px;
@@ -2439,6 +2371,7 @@ input:checked + .slider:before { transform: translateX(20px); }
 .admin-user-actions .btn-give { color: var(--accent); }
 .admin-user-actions .btn-remove { color: var(--danger); }
 
+/* ----- 8. ХОЛӢ ----- */
 .admin-user-empty {
   text-align: center;
   padding: 24px 12px;
@@ -2449,9 +2382,9 @@ input:checked + .slider:before { transform: translateX(20px); }
   border-radius: 14px;
 }
 
-/* ============================================
+/* ============================================================
    ADMIN ORDER CARD
-   ============================================ */
+   ============================================================ */
 .order-card {
   background: var(--card);
   border: 1px solid var(--card-border);
@@ -2461,14 +2394,53 @@ input:checked + .slider:before { transform: translateX(20px); }
   animation: fadeIn 0.3s ease;
 }
 
-/* Расми скриншот дар фармоиш — маҳдуд */
-.order-card img,
-#adminOrders img {
-  max-height: 180px;
-  max-width: 100%;
-  width: auto;
-  object-fit: contain;
-  border-radius: 10px;
-  display: block;
-  margin: 0 auto;
+/* ----- Аватари хурдтар дар фармоиш ----- */
+.order-card .admin-user-avatar,
+.order-card [class*="avatar" i],
+#adminOrders .admin-user-avatar,
+#adminOrders [class*="avatar" i] {
+  width: 44px !important;
+  height: 44px !important;
+  min-width: 44px !important;
+  max-width: 44px !important;
+  min-height: 44px !important;
+  max-height: 44px !important;
+  border-radius: 12px !important;
+}
+
+.order-card .admin-user-avatar img,
+.order-card [class*="avatar" i] img,
+#adminOrders .admin-user-avatar img,
+#adminOrders [class*="avatar" i] img {
+  width: 44px !important;
+  height: 44px !important;
+  max-width: 44px !important;
+  max-height: 44px !important;
+  border-radius: 12px !important;
+}
+
+/* ============================================================
+   🔴 СКРИНШОТИ ПАРДОХТ — ИСТИСНО (калонтар)
+   Ин қоида баъд аз ҳама меояд — ғолиб мешавад
+   ============================================================ */
+[data-page="admin"] .order-card img[src*="i.ibb.co"],
+[data-page="admin"] #adminOrders img[src*="i.ibb.co"],
+#adminOrders .order-card img,
+#adminOrders img[src*="i.ibb.co"],
+.order-card img[src*="i.ibb.co"],
+.order-card .payment-screenshot,
+.order-card .order-photo,
+#adminOrders .payment-screenshot,
+#adminOrders .order-photo {
+  width: 100% !important;
+  height: auto !important;
+  min-width: 0 !important;
+  max-width: 100% !important;
+  min-height: 0 !important;
+  max-height: 180px !important;
+  object-fit: contain !important;
+  border-radius: 10px !important;
+  padding: 0 !important;
+  display: block !important;
+  margin: 8px auto !important;
 }
