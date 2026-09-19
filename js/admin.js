@@ -36,15 +36,12 @@ function initAdminPanel() {
 
   // --- Тугмаҳои амалҳои админ ---
   const adminButtons = document.querySelectorAll('[data-admin-action]');
-  console.log('🔘 Тугмаҳои админ ёфт шуданд:', adminButtons.length);
-
   adminButtons.forEach(btn => {
     if (btn.dataset.bound === '1') return;
     btn.dataset.bound = '1';
 
     btn.addEventListener('click', () => {
       const action = btn.dataset.adminAction;
-      console.log('👆 Тугма пахш шуд:', action);
 
       if (action === 'give-premium') {
         const plan = document.getElementById('adminPlanSelect')?.value || '1month';
@@ -56,13 +53,24 @@ function initAdminPanel() {
           const progress = store.get('progress', { completedLessons: [], testScores: {} });
           progress.completedLessons = LESSONS.map(l => l.id);
           store.set('progress', progress);
+
+          if (typeof saveProgressToFirebase === 'function' && user_admin.id) {
+            saveProgressToFirebase(user_admin.id, progress);
+          }
+
           location.reload();
         }
       }
 
       if (action === 'reset-progress') {
         if (confirm('Пешрафт нест карда шавад?')) {
-          store.set('progress', { completedLessons: [], testScores: {}, streak: 0 });
+          const empty = { completedLessons: [], testScores: {}, streak: 0 };
+          store.set('progress', empty);
+
+          if (typeof saveProgressToFirebase === 'function' && user_admin.id) {
+            saveProgressToFirebase(user_admin.id, empty);
+          }
+
           location.reload();
         }
       }
@@ -70,6 +78,16 @@ function initAdminPanel() {
       if (action === 'reset-premium') {
         store.set('premium', { active: false });
         store.set('premiumUnlockedLessons', []);
+
+        if (typeof db !== 'undefined' && db && user_admin.id) {
+          db.ref('users/' + user_admin.id).update({
+            isPremium: false,
+            premiumPlan: null,
+            premiumStartedAt: null,
+            premiumExpiresAt: null
+          }).catch(err => console.error(err));
+        }
+
         showToast('Premium нест шуд');
         setTimeout(() => location.reload(), 1000);
       }
@@ -83,7 +101,6 @@ function initAdminPanel() {
   if (searchBtn && searchBtn.dataset.bound !== '1') {
     searchBtn.dataset.bound = '1';
     searchBtn.addEventListener('click', adminSearchUser);
-    console.log('✅ Тугмаи ҷустуҷӯ пайваст шуд');
   }
 
   if (searchInput && searchInput.dataset.bound !== '1') {
@@ -106,40 +123,22 @@ function initAdminPanel() {
 // 👥 РӮЙХАТИ ҲАМАИ КОРБАРОН
 // ============================================================
 function initAdminUsersList() {
-  console.log('🚀 initAdminUsersList даъват шуд');
-  console.log('   IS_ADMIN_LOCAL:', IS_ADMIN_LOCAL);
-  console.log('   db:', typeof db, db ? 'ready' : 'not ready');
-
-  if (!IS_ADMIN_LOCAL) {
-    console.warn('⛔ IS_ADMIN_LOCAL = false — рӯйхат бор намешавад');
-    return;
-  }
+  if (!IS_ADMIN_LOCAL) return;
 
   if (typeof db === 'undefined' || !db) {
-    console.warn('⏳ db нест — 1 сония интизор...');
     setTimeout(initAdminUsersList, 1000);
     return;
   }
 
-  // Аз байн бардоштани listener-и кӯҳна
   if (adminUsersListener) {
-    try {
-      db.ref('users').off('value', adminUsersListener);
-    } catch (e) {
-      console.warn('Listener off error:', e);
-    }
+    try { db.ref('users').off('value', adminUsersListener); } catch (e) {}
     adminUsersListener = null;
   }
 
-  console.log('👥 Firebase мехонам: users (бо orderByChild)');
-
-  // ✅ УСУЛИ 1: orderByChild (ҳамон усуле, ки дар рейтинг кор мекунад)
   adminUsersListener = db.ref('users')
     .orderByChild('totalScore')
     .limitToLast(500)
     .on('value', snap => {
-      console.log('✅ Корбарон гирифта шуданд:', snap.numChildren());
-
       const users = [];
       snap.forEach(child => {
         const u = child.val();
@@ -148,7 +147,6 @@ function initAdminUsersList() {
         }
       });
 
-      // Сортировка: Premium аввал, баъд аз рӯи хол
       users.sort((a, b) => {
         const aPrem = a.isPremium && Date.now() < (a.premiumExpiresAt || 0) ? 1 : 0;
         const bPrem = b.isPremium && Date.now() < (b.premiumExpiresAt || 0) ? 1 : 0;
@@ -159,24 +157,16 @@ function initAdminUsersList() {
       allAdminUsers = users;
       renderAdminUsersList(users);
     }, err => {
-      console.error('❌ Admin users list error (orderByChild):', err);
-      console.warn('⚠️ Кӯшиши 2 — бе orderByChild');
-
-      // ✅ УСУЛИ 2: бе orderByChild (агар аввалӣ кор накунад)
+      console.error('❌ Admin users list error:', err);
       loadUsersFallback();
     });
 }
 
-// ============================================================
-// FALLBACK — ХОНИШИ КОРБАРОН БЕ orderByChild
-// ============================================================
 function loadUsersFallback() {
   if (typeof db === 'undefined' || !db) return;
 
   db.ref('users').once('value')
     .then(snap => {
-      console.log('✅ Fallback: корбарон гирифта шуданд:', snap.numChildren());
-
       const users = [];
       snap.forEach(child => {
         const u = child.val();
@@ -197,9 +187,6 @@ function loadUsersFallback() {
     })
     .catch(err => {
       console.error('❌ Fallback error:', err);
-      console.warn('⚠️ Кӯшиши 3 — аз localStorage');
-
-      // ✅ УСУЛИ 3: localStorage (охирин fallback)
       const localUsers = Object.values(store.get('allUsers', {}))
         .filter(u => u && u.id)
         .map(u => ({ ...u, _key: String(u.id) }));
@@ -226,34 +213,39 @@ function renderAdminUsersList(users) {
   }
 
   container.innerHTML = users.map(u => adminUserRowHTML(u)).join('');
+
+  // 🔴 Маҷбуран хурд кардани расмҳо
+  setTimeout(forceSmallAvatars, 50);
 }
 
+// ============================================================
+// 🔴 КОРТИ КОРБАР — расми мураббаъ 52×52
+// ============================================================
 function adminUserRowHTML(u) {
   const isPrem = u.isPremium && Date.now() < (u.premiumExpiresAt || 0);
   const initial = (u.name || 'U').trim().charAt(0).toUpperCase();
+
   const photo = u.photo
-    ? `<img src="${u.photo}" referrerpolicy="no-referrer" style="width:100%;height:100%;object-fit:cover;border-radius:12px" onerror="this.parentElement.innerHTML='<span class=\\'avatar-letter\\'>${initial}</span>'">`
+    ? `<img src="${u.photo}" referrerpolicy="no-referrer" 
+            onerror="this.parentElement.innerHTML='<span class=\\'avatar-letter\\'>${initial}</span>'">`
     : `<span class="avatar-letter">${initial}</span>`;
 
   return `
-    <div class="admin-user-row" onclick="adminOpenUser('${u._key}')">
-      <div class="admin-user-avatar">
-        ${photo}
-      </div>
+    <div class="admin-user-card" onclick="adminOpenUser('${u._key}')">
+      <div class="admin-user-avatar">${photo}</div>
+
       <div class="admin-user-info">
         <div class="admin-user-name">
           ${escapeHtmlLocal(u.name || 'Корбар')}
-          ${isPrem ? '<span title="Premium">👑</span>' : ''}
-          ${u.isAdmin ? '<span title="Admin">🛡</span>' : ''}
+          ${isPrem ? '<span class="emoji">👑</span>' : ''}
+          ${u.isAdmin ? '<span class="emoji">🛡</span>' : ''}
         </div>
         <div class="admin-user-meta">
           ID: ${u.id} · ${u.lessonsCount || 0} дарс · ${u.totalScore || 0} хол
         </div>
-      </div>
-      <div class="admin-user-action">
-        ${isPrem
-          ? '<span class="admin-badge-prem">👑 Premium</span>'
-          : '<span class="admin-badge-free">Free</span>'}
+        <span class="admin-user-badge ${isPrem ? 'premium' : 'free'}">
+          ${isPrem ? '👑 Premium' : 'Free'}
+        </span>
       </div>
     </div>
   `;
@@ -274,7 +266,7 @@ function adminOpenUser(userId) {
 }
 
 // ============================================================
-// 🔎 USER SEARCH (ID ё @username)
+// 🔎 USER SEARCH
 // ============================================================
 async function adminSearchUser() {
   const query = (document.getElementById('adminUserSearch')?.value || '').trim();
@@ -284,11 +276,11 @@ async function adminSearchUser() {
   if (!query) { showToast('ID ё @username нависед'); return; }
 
   if (typeof db === 'undefined' || !db) {
-    result.innerHTML = `<div style="text-align:center;padding:16px;color:#ef4444;font-size:12px">❌ Firebase пайваст нест</div>`;
+    result.innerHTML = `<div class="admin-user-empty">❌ Firebase пайваст нест</div>`;
     return;
   }
 
-  result.innerHTML = `<div style="text-align:center;padding:16px;color:var(--text-2);font-size:12px">🔍 Ҷустуҷӯ...</div>`;
+  result.innerHTML = `<div class="admin-user-empty">🔍 Ҷустуҷӯ...</div>`;
   foundUser = null;
 
   try {
@@ -317,7 +309,7 @@ async function adminSearchUser() {
       }
     }
 
-    // 3. Ҳамчун @username — аз Firebase (агар дар рӯйхат набошад)
+    // 3. Ҳамчун @username — аз Firebase
     if (!userData) {
       const cleanUsername = query.replace(/^@/, '').toLowerCase();
       const snap = await db.ref('users').once('value');
@@ -331,7 +323,7 @@ async function adminSearchUser() {
     }
 
     if (!userData) {
-      result.innerHTML = `<div style="text-align:center;padding:16px;color:#ef4444;font-size:12px">❌ Корбар ёфт нашуд<br><span style="font-size:10px;color:var(--text-2)">Танҳо корбароне, ки барномаро кушодаанд</span></div>`;
+      result.innerHTML = `<div class="admin-user-empty">❌ Корбар ёфт нашуд</div>`;
       return;
     }
 
@@ -339,37 +331,60 @@ async function adminSearchUser() {
     renderFoundUser(userData, foundKey);
   } catch (e) {
     console.error(e);
-    result.innerHTML = `<div style="text-align:center;padding:16px;color:#ef4444;font-size:12px">Хато: ${escapeHtmlLocal(e.message)}</div>`;
+    result.innerHTML = `<div class="admin-user-empty">Хато: ${escapeHtmlLocal(e.message)}</div>`;
   }
 }
 
+// ============================================================
+// 🔴 RENDER — корти корбари ёфтшуда
+// ============================================================
 function renderFoundUser(u, key) {
   const result = document.getElementById('adminUserResult');
   if (!result) return;
 
   const isPrem = u.isPremium && Date.now() < (u.premiumExpiresAt || 0);
-  const exp = u.premiumExpiresAt ? new Date(u.premiumExpiresAt).toLocaleString('tg-TJ') : '—';
+  const exp = u.premiumExpiresAt
+    ? new Date(u.premiumExpiresAt).toLocaleString('tg-TJ')
+    : '—';
   const initial = (u.name || 'U').charAt(0).toUpperCase();
+
   const photo = u.photo
-    ? `<img src="${u.photo}" referrerpolicy="no-referrer" style="width:100%;height:100%;object-fit:cover;border-radius:12px" onerror="this.parentElement.innerHTML='<span style=\\'color:#fff;font-weight:800;font-size:18px\\'>${initial}</span>'">`
-    : `<span style="color:#fff;font-weight:800;font-size:18px">${initial}</span>`;
+    ? `<img src="${u.photo}" referrerpolicy="no-referrer"
+            onerror="this.parentElement.innerHTML='<span class=\\'avatar-letter\\'>${initial}</span>'">`
+    : `<span class="avatar-letter">${initial}</span>`;
 
   result.innerHTML = `
-    <div class="order-card" style="background:var(--bg-2);border:1px solid var(--card-border);border-radius:16px;padding:14px;margin-bottom:12px">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:12px">
-        <div style="width:44px;height:44px;border-radius:12px;background:linear-gradient(135deg,#6366f1,#8b5cf6);display:flex;align-items:center;justify-content:center;flex-shrink:0;overflow:hidden">${photo}</div>
-        <div style="flex:1;min-width:0">
-          <div style="font-weight:700;font-size:14px">${escapeHtmlLocal(u.name || 'Корбар')} ${isPrem ? '👑' : ''}</div>
-          <div style="font-size:11px;color:var(--text-2);margin-top:2px">
+    <div class="admin-user-card" style="flex-direction:column;align-items:stretch;gap:12px;padding:14px">
+      <!-- Header -->
+      <div style="display:flex;align-items:center;gap:12px">
+        <div class="admin-user-avatar">${photo}</div>
+        <div class="admin-user-info">
+          <div class="admin-user-name">
+            ${escapeHtmlLocal(u.name || 'Корбар')}
+            ${isPrem ? '<span class="emoji">👑</span>' : ''}
+            ${u.isAdmin ? '<span class="emoji">🛡</span>' : ''}
+          </div>
+          <div class="admin-user-meta">
             ID: ${key} · ${u.username ? '@' + escapeHtmlLocal(u.username) : '—'}
           </div>
+          <span class="admin-user-badge ${isPrem ? 'premium' : 'free'}">
+            ${isPrem ? '👑 Premium' : 'Free'}
+          </span>
         </div>
-        <button onclick="closeAdminUserResult()" style="width:32px;height:32px;border-radius:10px;border:1px solid var(--card-border);background:transparent;color:var(--text-2);cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:16px">✕</button>
+        <button onclick="closeAdminUserResult()"
+          style="width:34px;height:34px;border-radius:50%;border:1px solid var(--card-border);background:var(--bg-2);color:var(--text-2);cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0">
+          ✕
+        </button>
       </div>
 
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:10px 12px;background:rgba(99,102,241,0.08);border-radius:10px;margin-bottom:12px">
-        <div style="font-size:12px;color:var(--text-2)">📚 Дарсҳо: <strong style="color:var(--text)">${u.lessonsCount || 0}</strong></div>
-        <div style="font-size:12px;color:var(--text-2);text-align:right">⭐ Хол: <strong style="color:#fbbf24">${u.totalScore || 0}</strong></div>
+      <!-- Stats -->
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:10px 12px;background:rgba(99,102,241,0.08);border-radius:10px">
+        <div style="font-size:12px;color:var(--text-2)">
+          📚 Дарсҳо: <strong style="color:var(--text)">${u.lessonsCount || 0}</strong>
+        </div>
+        <div style="font-size:12px;color:var(--text-2);text-align:right">
+          ⭐ Хол: <strong style="color:#fbbf24">${u.totalScore || 0}</strong>
+        </div>
         <div style="font-size:11px;color:var(--text-2);grid-column:1/-1">
           ${isPrem
             ? `👑 Premium: <strong style="color:#fbbf24">${u.premiumPlan || '—'}</strong> · то ${exp}`
@@ -377,6 +392,7 @@ function renderFoundUser(u, key) {
         </div>
       </div>
 
+      <!-- Actions -->
       <div style="display:flex;flex-direction:column;gap:8px">
         <div style="display:flex;gap:8px">
           <select id="adminUserPlanSelect" class="admin-select" style="flex:1;margin:0">
@@ -399,6 +415,9 @@ function renderFoundUser(u, key) {
       </div>
     </div>
   `;
+
+  // 🔴 Маҷбуран хурд кардани расм
+  setTimeout(forceSmallAvatars, 50);
 }
 
 function closeAdminUserResult() {
@@ -417,6 +436,11 @@ async function adminGivePremiumToUser(userId) {
   if (!plan) return;
 
   if (!confirm(`Ба корбар ${userId} Premium (${plan.label}) тӯҳфа дода шавад?`)) return;
+
+  if (typeof db === 'undefined' || !db) {
+    alert('Firebase пайваст нест');
+    return;
+  }
 
   try {
     const expiresAt = Date.now() + plan.days * 86400000;
@@ -441,7 +465,6 @@ async function adminGivePremiumToUser(userId) {
     showToast(`🎁 Premium тӯҳфа дода шуд (${plan.label})`);
     window.Telegram?.WebApp?.HapticFeedback?.notificationOccurred('success');
 
-    // Навсозии корти корбар
     setTimeout(() => {
       const updated = allAdminUsers.find(x => String(x._key) === String(userId));
       if (updated) renderFoundUser(updated, userId);
@@ -457,6 +480,11 @@ async function adminGivePremiumToUser(userId) {
 // ============================================================
 async function adminRemovePremiumFromUser(userId) {
   if (!confirm(`Premium-и корбар ${userId} хомӯш карда шавад?`)) return;
+
+  if (typeof db === 'undefined' || !db) {
+    alert('Firebase пайваст нест');
+    return;
+  }
 
   try {
     await db.ref('users/' + userId).update({
@@ -529,8 +557,13 @@ function renderPremiumOrders(orders) {
     </div>
     ${orders.map(order => orderCardHTML(order)).join('')}
   `;
+
+  setTimeout(forceSmallAvatars, 50);
 }
 
+// ============================================================
+// 🔴 КОРТИ ФАРМОИШ — аватари 44×44
+// ============================================================
 function orderCardHTML(order) {
   const initial = (order.userName || 'U').charAt(0).toUpperCase();
   const date = new Date(order.createdAt).toLocaleString('tg-TJ', {
@@ -538,32 +571,49 @@ function orderCardHTML(order) {
   });
 
   return `
-    <div class="order-card" style="background:var(--bg-2);border:1px solid var(--card-border);border-radius:16px;padding:14px;margin-bottom:12px;">
+    <div class="order-card">
+      <!-- User -->
       <div style="display:flex;align-items:center;gap:10px;margin-bottom:12px">
-        <div style="width:44px;height:44px;border-radius:12px;background:linear-gradient(135deg,#6366f1,#8b5cf6);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:18px;flex-shrink:0;">${escapeHtmlLocal(initial)}</div>
+        <div class="order-user-avatar">
+          <span>${escapeHtmlLocal(initial)}</span>
+        </div>
         <div style="flex:1;min-width:0">
-          <div style="font-weight:700;font-size:14px">${escapeHtmlLocal(order.userName || 'Корбар')}</div>
-          <div style="font-size:11px;color:var(--text-2);margin-top:2px">
+          <div class="admin-user-name">${escapeHtmlLocal(order.userName || 'Корбар')}</div>
+          <div class="admin-user-meta">
             ID: ${order.userId} · ${order.userUsername ? '@' + escapeHtmlLocal(order.userUsername) : '—'}
           </div>
         </div>
       </div>
 
+      <!-- Info -->
       <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:10px 12px;background:rgba(99,102,241,0.08);border-radius:10px;margin-bottom:12px;">
-        <div style="font-size:12px;color:var(--text-2)">📦 <strong style="color:var(--text)">${escapeHtmlLocal(order.planLabel)}</strong></div>
-        <div style="font-size:12px;color:var(--text-2);text-align:right">💰 <strong style="color:#fbbf24">${order.planPrice} с.</strong></div>
+        <div style="font-size:12px;color:var(--text-2)">
+          📦 <strong style="color:var(--text)">${escapeHtmlLocal(order.planLabel)}</strong>
+        </div>
+        <div style="font-size:12px;color:var(--text-2);text-align:right">
+          💰 <strong style="color:#fbbf24">${order.planPrice} с.</strong>
+        </div>
         <div style="font-size:11px;color:var(--text-2);grid-column:1/-1">⏱ ${date}</div>
       </div>
 
+      <!-- Photo -->
       ${order.photo ? `
         <div style="margin-bottom:12px;cursor:pointer" onclick="viewPhotoFull('${order.id}')">
-          <img src="${order.photo}" referrerpolicy="no-referrer" style="width:100%;border-radius:12px;max-height:220px;object-fit:cover;background:#0f172a;display:block;" onerror="this.style.display='none'">
-          <div style="text-align:center;font-size:11px;color:var(--text-2);margin-top:6px">👆 Пахш кунед, то калон кушоед</div>
+          <img src="${order.photo}" 
+               class="payment-screenshot"
+               referrerpolicy="no-referrer"
+               onerror="this.style.display='none'">
+          <div style="text-align:center;font-size:11px;color:var(--text-2);margin-top:6px">
+            👆 Пахш кунед, то калон кушоед
+          </div>
         </div>
       ` : `
-        <div style="padding:20px;background:rgba(148,163,184,0.08);border-radius:10px;text-align:center;font-size:12px;color:var(--text-2);margin-bottom:12px">📷 Расм нест</div>
+        <div style="padding:20px;background:rgba(148,163,184,0.08);border-radius:10px;text-align:center;font-size:12px;color:var(--text-2);margin-bottom:12px">
+          📷 Расм нест
+        </div>
       `}
 
+      <!-- Buttons -->
       <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px">
         <button onclick="approveOrder('${order.id}', ${order.userId}, '${order.plan}', ${order.planDays || 30})"
           style="padding:12px;background:linear-gradient(135deg,#10b981,#059669);color:#fff;border:none;border-radius:12px;font-weight:700;font-size:13px;cursor:pointer;font-family:inherit;">
@@ -604,6 +654,8 @@ function viewPhotoFull(orderId) {
 async function approveOrder(orderId, userId, plan, days) {
   if (!confirm(`Қабули фармоиш?\nКорбар ID: ${userId}\nНақша: ${plan} (${days} рӯз)`)) return;
 
+  if (typeof db === 'undefined' || !db) { alert('Firebase пайваст нест'); return; }
+
   try {
     const expiresAt = Date.now() + days * 86400000;
 
@@ -643,6 +695,8 @@ async function approveOrder(orderId, userId, plan, days) {
 async function rejectOrder(orderId, userId) {
   const reason = prompt('Сабаби радкунӣ:', 'Скриншот нодуруст');
   if (reason === null) return;
+
+  if (typeof db === 'undefined' || !db) { alert('Firebase пайваст нест'); return; }
 
   try {
     await db.ref('premium_orders/' + orderId).update({
@@ -689,12 +743,107 @@ function givePremiumSelf(planKey) {
 }
 
 // ============================================================
-// START — ду бор кӯшиш мекунем
+// 🔴 FORCE SMALL AVATARS — JavaScript fallback
+// Кафолат медиҳад, ки расмҳо ҳамеша хурд мешаванд
+// ============================================================
+function forceSmallAvatars() {
+  // Аватарҳо дар рӯйхат ва кортҳо — 52×52 мураббаъ
+  document.querySelectorAll(`
+    #adminUsersList .admin-user-avatar,
+    #adminUserResult .admin-user-avatar,
+    .admin-user-card .admin-user-avatar,
+    .admin-user-avatar
+  `).forEach(el => {
+    el.style.setProperty('width', '52px', 'important');
+    el.style.setProperty('height', '52px', 'important');
+    el.style.setProperty('min-width', '52px', 'important');
+    el.style.setProperty('max-width', '52px', 'important');
+    el.style.setProperty('min-height', '52px', 'important');
+    el.style.setProperty('max-height', '52px', 'important');
+    el.style.setProperty('border-radius', '14px', 'important');
+    el.style.setProperty('overflow', 'hidden', 'important');
+    el.style.setProperty('flex-shrink', '0', 'important');
+    el.style.setProperty('padding', '0', 'important');
+    el.style.setProperty('display', 'flex', 'important');
+    el.style.setProperty('align-items', 'center', 'important');
+    el.style.setProperty('justify-content', 'center', 'important');
+
+    const img = el.querySelector('img');
+    if (img) {
+      img.style.setProperty('width', '52px', 'important');
+      img.style.setProperty('height', '52px', 'important');
+      img.style.setProperty('max-width', '52px', 'important');
+      img.style.setProperty('max-height', '52px', 'important');
+      img.style.setProperty('min-width', '52px', 'important');
+      img.style.setProperty('min-height', '52px', 'important');
+      img.style.setProperty('border-radius', '14px', 'important');
+      img.style.setProperty('object-fit', 'cover', 'important');
+      img.style.setProperty('display', 'block', 'important');
+    }
+  });
+
+  // Аватарҳо дар фармоиш — 44×44 мураббаъ
+  document.querySelectorAll(`
+    .order-user-avatar,
+    .order-card .admin-user-avatar,
+    #adminOrders .admin-user-avatar
+  `).forEach(el => {
+    el.style.setProperty('width', '44px', 'important');
+    el.style.setProperty('height', '44px', 'important');
+    el.style.setProperty('min-width', '44px', 'important');
+    el.style.setProperty('max-width', '44px', 'important');
+    el.style.setProperty('min-height', '44px', 'important');
+    el.style.setProperty('max-height', '44px', 'important');
+    el.style.setProperty('border-radius', '12px', 'important');
+    el.style.setProperty('overflow', 'hidden', 'important');
+    el.style.setProperty('flex-shrink', '0', 'important');
+    el.style.setProperty('padding', '0', 'important');
+    el.style.setProperty('background', 'linear-gradient(135deg, #6366f1, #8b5cf6)');
+    el.style.setProperty('color', '#fff');
+    el.style.setProperty('font-weight', '700');
+    el.style.setProperty('font-size', '17px');
+    el.style.setProperty('display', 'flex');
+    el.style.setProperty('align-items', 'center');
+    el.style.setProperty('justify-content', 'center');
+
+    const img = el.querySelector('img');
+    if (img) {
+      img.style.setProperty('width', '44px', 'important');
+      img.style.setProperty('height', '44px', 'important');
+      img.style.setProperty('max-width', '44px', 'important');
+      img.style.setProperty('max-height', '44px', 'important');
+      img.style.setProperty('border-radius', '12px', 'important');
+      img.style.setProperty('object-fit', 'cover', 'important');
+    }
+  });
+
+  // 🔴 Скриншоти пардохт — истисно (калонтар)
+  document.querySelectorAll(`
+    .payment-screenshot,
+    #adminOrders img[src*="i.ibb.co"],
+    .order-card img[src*="i.ibb.co"]
+  `).forEach(img => {
+    img.style.setProperty('width', '100%', 'important');
+    img.style.setProperty('height', 'auto', 'important');
+    img.style.setProperty('max-width', '100%', 'important');
+    img.style.setProperty('max-height', '220px', 'important');
+    img.style.setProperty('object-fit', 'cover', 'important');
+    img.style.setProperty('border-radius', '12px', 'important');
+    img.style.setProperty('display', 'block', 'important');
+    img.style.setProperty('background', '#0f172a', 'important');
+  });
+}
+
+// Даъват ҳар 800ms — кафолат медиҳад, ки ҳатто HTML-и динамикӣ ҳам хурд мешавад
+setInterval(() => {
+  if (IS_ADMIN_LOCAL) forceSmallAvatars();
+}, 800);
+
+// ============================================================
+// START
 // ============================================================
 window.addEventListener('load', () => {
-  // Кӯшиши 1: фавран
   setTimeout(initAdminPanel, 500);
-  // Кӯшиши 2: баъд аз 2 сония (эҳтиёт)
   setTimeout(() => {
     const btn = document.querySelector('[data-admin-action="give-premium"]');
     if (btn && btn.dataset.bound !== '1') {
