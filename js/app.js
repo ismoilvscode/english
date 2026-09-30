@@ -78,10 +78,10 @@ let premiumUnlockedLessons = store.get('premiumUnlockedLessons', []);
 // PREMIUM PLANS
 // ============================================================
 const PREMIUM_PLANS = {
-  '1day':   { label: '1 рӯз',   price: 4,    days: 1 },
-  '1week':  { label: '1 ҳафта', price: 25,   days: 7 },
-  '1month': { label: '1 моҳ',   price: 100,  days: 30 },
-  '1year':  { label: '1 сол',   price: 1199, days: 365 }
+  '1day':   { label: '1 рӯз',   price: 3.99,    days: 1 },
+  '1week':  { label: '1 ҳафта', price: 19,   days: 7 },
+  '1month': { label: '1 моҳ',   price: 79,  days: 30 },
+  '1year':  { label: '1 сол',   price: 599, days: 365 }
 };
 
 // ============================================================
